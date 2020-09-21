@@ -1,0 +1,1058 @@
+[
+  {
+    "id": "d54ef175e2439da3a85850fc6c9b2dd13e366751",
+    "name": "atelier_departemental_canope_ain",
+    "title": "Atelier départemental Canopé - Ain",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/ain/canope_atelier-01053-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 74 23 81 21",
+      "url": "http://www.crdp-lyon.cndp.fr"
+    }
+  },
+  {
+    "id": "89ee0955eb0b4145a2d0ab1bd8255149d3aece91",
+    "name": "atelier_departemental_canope_aisne",
+    "title": "Atelier départemental Canopé - Aisne",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/aisne/canope_atelier-02408-01",
+    "metadata": {
+      "email": "cddp.aisne@ac-amiens.fr",
+      "telephone": "03 23 26 33 20",
+      "url": "http://crdp.ac-amiens.fr"
+    }
+  },
+  {
+    "id": "9eb0ccd9458c1205d435d29f4756b94cf0bf4e65",
+    "name": "atelier_departemental_canope_allier",
+    "title": "Atelier départemental Canopé - Allier",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/allier/canope_atelier-03190-01",
+    "metadata": {
+      "email": "contact.atelier03@reseau-canope.fr",
+      "telephone": "04 70 46 07 66",
+      "url": "https://www.reseau-canope.fr/academie-de-clermont-ferrand/atelier-canope-03-moulins.html/"
+    }
+  },
+  {
+    "id": "757adf77eaad81347aef5f33769e53fee0eb3c0b",
+    "name": "atelier_departemental_canope_alpes_de_haute_provence",
+    "title": "Atelier départemental Canopé - Alpes-de-Haute-Provence",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/alpes-de-haute-provence/canope_atelier-04070-01",
+    "metadata": {
+      "email": "cddp04@crdp-aix-marseille.fr",
+      "telephone": "04 92 36 61 23",
+      "url": "http://cddp04.crdp-aix-marseille.fr"
+    }
+  },
+  {
+    "id": "4b22ea877b552909dc2ca84b323df216dd8180a0",
+    "name": "atelier_departemental_canope_alpes_maritimes",
+    "title": "Atelier départemental Canopé - Alpes-Maritimes",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/alpes-maritimes/canope_atelier-06088-01",
+    "metadata": {
+      "email": "contact.atelier06@reseau-canope.fr",
+      "telephone": "04 93 53 71 98",
+      "url": "https://www.reseau-canope.fr/academie-de-nice/atelier-canope-06-nice"
+    }
+  },
+  {
+    "id": "e6986476772e627197d6ccfcc6c8628aee8266b6",
+    "name": "atelier_departemental_canope_ardeche",
+    "title": "Atelier départemental Canopé - Ardèche",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/ardeche/canope_atelier-07186-01",
+    "metadata": {
+      "email": "cddp07@ac-grenoble.fr",
+      "telephone": "04 75 66 90 77",
+      "url": "http://www.crdp.ac-grenoble.fr"
+    }
+  },
+  {
+    "id": "a5f08a3ed18aaf487b56caee020bc48c1344a82b",
+    "name": "atelier_departemental_canope_ardennes",
+    "title": "Atelier départemental Canopé - Ardennes",
+    "url": "https://lannuaire.service-public.fr/grand-est/ardennes/canope_atelier-08105-01",
+    "metadata": {
+      "email": "contact.atelier08@reseau-canope.fr",
+      "telephone": "03 24 52 62 62",
+      "url": "https://www.reseau-canope.fr/academie-de-reims/atelier-canope-08-charleville-mezieres"
+    }
+  },
+  {
+    "id": "96f2e7baea0858dd625a3c5f8c093cf78cc2c0ae",
+    "name": "atelier_departemental_canope_ariege",
+    "title": "Atelier départemental Canopé - Ariège",
+    "url": "https://lannuaire.service-public.fr/occitanie/ariege/canope_atelier-09122-01",
+    "metadata": {
+      "email": "contact.atelier09@reseau-canope.fr",
+      "telephone": "05 61 02 19 83",
+      "url": ""
+    }
+  },
+  {
+    "id": "0b560962c18829df7128b628499044caf7b09a35",
+    "name": "atelier_departemental_canope_aube",
+    "title": "Atelier départemental Canopé - Aube",
+    "url": "https://lannuaire.service-public.fr/grand-est/aube/canope_atelier-10387-01",
+    "metadata": {
+      "email": "contact.atelier10@reseau-canope.fr",
+      "telephone": "03 25 75 20 79",
+      "url": "https://www.reseau-canope.fr/academie-de-reims/atelier-canope-10-troyes"
+    }
+  },
+  {
+    "id": "c3c78799494f6dad26ffc949c87b1f6391f7ff2f",
+    "name": "atelier_departemental_canope_aude",
+    "title": "Atelier départemental Canopé - Aude",
+    "url": "https://lannuaire.service-public.fr/occitanie/aude/canope_atelier-11069-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 68 47 05 02",
+      "url": "http://www.cndp.fr/crdp-montpellier/cddp11"
+    }
+  },
+  {
+    "id": "e01c1345cb3d9b918bc22cee5d7870b3fcd71b63",
+    "name": "atelier_departemental_canope_aveyron",
+    "title": "Atelier départemental Canopé - Aveyron",
+    "url": "https://lannuaire.service-public.fr/occitanie/aveyron/canope_atelier-12202-01",
+    "metadata": {
+      "email": "cddp12@ac-toulouse.fr",
+      "telephone": "05 65 68 27 08",
+      "url": "http://www.crdp-toulouse.fr"
+    }
+  },
+  {
+    "id": "1de1b80e5b92d1cf6c9ee95a8fe9052084f651b0",
+    "name": "atelier_departemental_canope_bas_rhin",
+    "title": "Atelier départemental Canopé - Bas-Rhin",
+    "url": "https://lannuaire.service-public.fr/grand-est/bas-rhin/canope_atelier-67482-01",
+    "metadata": {
+      "email": "contact.atelier67@reseau-canope.fr",
+      "telephone": "03 88 45 51 60",
+      "url": "http://www.crdp-strasbourg.fr/"
+    }
+  },
+  {
+    "id": "212b3dec51aff6bbf00869c710a007c1bd4c8331",
+    "name": "atelier_departemental_canope_bouches_du_rhone",
+    "title": "Atelier départemental Canopé - Bouches-du-Rhône",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/canope_atelier-13214-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 91 14 13 12",
+      "url": ""
+    }
+  },
+  {
+    "id": "a0e961633ac380f39a71fbfa2349f5b08d3b40d2",
+    "name": "atelier_departemental_canope_calvados",
+    "title": "Atelier départemental Canopé - Calvados",
+    "url": "https://lannuaire.service-public.fr/normandie/calvados/canope_atelier-50502-01",
+    "metadata": {
+      "email": "contact.atelier50@reseau-canope.fr",
+      "telephone": "02 33 75 64 66",
+      "url": "http://www.cndp.fr/crdp-rouen/index.php/accueildtnormandie"
+    }
+  },
+  {
+    "id": "62ef1a4c414f4ef1a91468b2f4a478e83f89b6ea",
+    "name": "atelier_departemental_canope_cantal",
+    "title": "Atelier départemental Canopé - Cantal",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/cantal/canope_atelier-15014-01",
+    "metadata": {
+      "email": "cddp15@ac-clermont.fr",
+      "telephone": "04 71 48 60 26",
+      "url": "http://crdp.ac-clermont.fr/cddp15"
+    }
+  },
+  {
+    "id": "3c159ff3b5be7e3833913a29d2527f19362c21b2",
+    "name": "atelier_departemental_canope_charente",
+    "title": "Atelier départemental Canopé - Charente",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/charente/canope_atelier-16113-01",
+    "metadata": {
+      "email": "cddp16@ac-poitiers.fr",
+      "telephone": "05 45 67 31 67",
+      "url": "http://www.crdp-poitiers.cndp.fr"
+    }
+  },
+  {
+    "id": "6a480cd189a0624f9fa118d35f5d4d0f6318bdf8",
+    "name": "atelier_departemental_canope_charente_maritime",
+    "title": "Atelier départemental Canopé - Charente-Maritime",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/charente-maritime/canope_atelier-17300-01",
+    "metadata": {
+      "email": "cddp17@ac-poitiers.fr",
+      "telephone": "05 46 00 34 60",
+      "url": "http://www.crdp-poitiers.cndp.fr"
+    }
+  },
+  {
+    "id": "229bf1fab2b03aa11451c1997ac1702da4613571",
+    "name": "atelier_departemental_canope_cher",
+    "title": "Atelier départemental Canopé - Cher",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/cher/canope_atelier-18033-01",
+    "metadata": {
+      "email": "cddp18@ac-orleans-tours.fr",
+      "telephone": "02 48 67 54 20",
+      "url": ""
+    }
+  },
+  {
+    "id": "6de5a9c3d3a8e12afc083ac1a5b54740a1484076",
+    "name": "atelier_departemental_canope_correze",
+    "title": "Atelier départemental Canopé - Corrèze",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/correze/canope_atelier-19272-01",
+    "metadata": {
+      "email": "contact.atelier19@reseau-canope.fr",
+      "telephone": "05 55 29 58 38",
+      "url": "https://www.reseau-canope.fr/academie-de-limoges/atelier-canope-19-tulle"
+    }
+  },
+  {
+    "id": "aee0d97496e6b0c73b42bf37c0cfa74a9f7f4c66",
+    "name": "atelier_departemental_canope_cotes_d_armor",
+    "title": "Atelier départemental Canopé - Côtes-d'Armor",
+    "url": "https://lannuaire.service-public.fr/bretagne/cotes-d-armor/canope_atelier-22278-01",
+    "metadata": {
+      "email": "atelier.canope22@ac-rennes.fr",
+      "telephone": "02 96 61 27 05",
+      "url": "http://canope-cotes-darmor.esidoc.fr"
+    }
+  },
+  {
+    "id": "89b74ffaab7410450e33682078e38dd909d98e6f",
+    "name": "atelier_departemental_canope_creuse",
+    "title": "Atelier départemental Canopé - Creuse",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/creuse/canope_atelier-23096-01",
+    "metadata": {
+      "email": "cddp23@crdp-limousin.fr",
+      "telephone": "05 55 61 44 30",
+      "url": "http://www.crdp-limousin.fr"
+    }
+  },
+  {
+    "id": "262c64d8eb49da4e34370df3b25bb6a338ed06dc",
+    "name": "atelier_departemental_canope_deux_sevres",
+    "title": "Atelier départemental Canopé - Deux-Sèvres",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/deux-sevres/canope_atelier-79191-01",
+    "metadata": {
+      "email": "cddp79@ac-poitiers.fr",
+      "telephone": "05 49 26 73 65",
+      "url": "http://www.crdp-poitiers.cndp.fr"
+    }
+  },
+  {
+    "id": "ae4699158b255a576b99eb9be829684c27dab899",
+    "name": "atelier_departemental_canope_dordogne",
+    "title": "Atelier départemental Canopé - Dordogne",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/dordogne/canope_atelier-24322-01",
+    "metadata": {
+      "email": "cddp24@ac-bordeaux.fr",
+      "telephone": "05 53 09 85 83",
+      "url": "http://crdp.ac-bordeaux.fr"
+    }
+  },
+  {
+    "id": "7d1de0c9128119d82296cf6ee573a75d293c9762",
+    "name": "atelier_departemental_canope_doubs",
+    "title": "Atelier départemental Canopé - Doubs",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/doubs/canope_atelier-25056-01",
+    "metadata": {
+      "email": "contact.atelier25@reseau-canope.fr",
+      "telephone": "03 81 25 02 50",
+      "url": "http://www.cndp.fr/crdp-besancon/index.php?id=cddp25-accueil#&panel1-1"
+    }
+  },
+  {
+    "id": "79d9708c4a402c5b2ac916f840ccd3807b840b4f",
+    "name": "atelier_departemental_canope_drome",
+    "title": "Atelier départemental Canopé - Drôme",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/drome/canope_atelier-26362-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 75 82 43 43",
+      "url": "http://www.crdp.ac-grenoble.fr"
+    }
+  },
+  {
+    "id": "e3a2165e048e1cc63e11c5ac1d61740d37f9fce1",
+    "name": "atelier_departemental_canope_essonne",
+    "title": "Atelier départemental Canopé - Essonne",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/essonne/canope_atelier-91228-01",
+    "metadata": {
+      "email": "",
+      "telephone": "01 60 91 76 20",
+      "url": "http://www.reseau-canope.fr/atelier-essonne"
+    }
+  },
+  {
+    "id": "e3608e52479de1d1eec51636459b96d71e5ecb88",
+    "name": "atelier_departemental_canope_eure",
+    "title": "Atelier départemental Canopé - Eure",
+    "url": "https://lannuaire.service-public.fr/normandie/eure/canope_atelier-27229-01",
+    "metadata": {
+      "email": "cddp27@ac-rouen.fr",
+      "telephone": "02 32 39 00 91",
+      "url": "http://crdp.ac-rouen.fr"
+    }
+  },
+  {
+    "id": "481f0e04d12e19d29b1a351981e4b6b5997d51de",
+    "name": "atelier_departemental_canope_eure_et_loir",
+    "title": "Atelier départemental Canopé - Eure-et-Loir",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/eure-et-loir/canope_atelier-28085-01",
+    "metadata": {
+      "email": "contact.atelier28@reseau-canope.fr",
+      "telephone": "02 37 33 68 28",
+      "url": "https://www.reseau-canope.fr/academie-dorleans-tours/atelier-canope-28-chartres.html"
+    }
+  },
+  {
+    "id": "7bbf1ca31a27ffddbf18ff9d85600b69fab039e7",
+    "name": "atelier_departemental_canope_finistere",
+    "title": "Atelier départemental Canopé - Finistère",
+    "url": "https://lannuaire.service-public.fr/bretagne/finistere/canope_atelier-29019-01",
+    "metadata": {
+      "email": "atelier.canope29@ac-rennes.fr",
+      "telephone": "02 98 80 06 89",
+      "url": "http://canope-finistere.esidoc.fr"
+    }
+  },
+  {
+    "id": "41774f261e10dae4ad333a01bf14be5103c3995e",
+    "name": "atelier_departemental_canope_gard",
+    "title": "Atelier départemental Canopé - Gard",
+    "url": "https://lannuaire.service-public.fr/occitanie/gard/canope_atelier-30189-01",
+    "metadata": {
+      "email": "cddp30@ac-montpellier.fr",
+      "telephone": "04 66 67 85 19",
+      "url": ""
+    }
+  },
+  {
+    "id": "edf2071821bc2bdd728de693eab62d07d20c9176",
+    "name": "atelier_departemental_canope_gers",
+    "title": "Atelier départemental Canopé - Gers",
+    "url": "https://lannuaire.service-public.fr/occitanie/gers/canope_atelier-32013-01",
+    "metadata": {
+      "email": "cddp32dr@ac-toulouse.fr",
+      "telephone": "05 62 05 86 11",
+      "url": "http://www.crdp-toulouse.fr"
+    }
+  },
+  {
+    "id": "97d32caf9b4492bc9336499c81c6a6ddd88cf0b2",
+    "name": "atelier_departemental_canope_gironde",
+    "title": "Atelier départemental Canopé - Gironde",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/gironde/canope_atelier-33281-01",
+    "metadata": {
+      "email": "contact.atelier33@reseau-canope.fr",
+      "telephone": "05 56 12 49 71",
+      "url": "http://crdp.ac-bordeaux.fr/c2000/index.asp?loc=2"
+    }
+  },
+  {
+    "id": "6cb930338fd9bce111c7a454442ef5afab73ee70",
+    "name": "atelier_departemental_canope_guyane",
+    "title": "Atelier départemental Canopé - Guyane",
+    "url": "https://lannuaire.service-public.fr/guyane/guyane/canope_atelier-97302-01",
+    "metadata": {
+      "email": "contact.atelier973@reseau-canope.fr",
+      "telephone": "+594 5 94 28 91 62",
+      "url": "http://www.crdp-guyane.fr"
+    }
+  },
+  {
+    "id": "0cbfde7e58617c3cafff7e402ad722da92ce47c1",
+    "name": "atelier_departemental_canope_haute_corse",
+    "title": "Atelier départemental Canopé - Haute-Corse",
+    "url": "https://lannuaire.service-public.fr/corse/haute-corse/canope_atelier-2B033-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 95 31 17 92",
+      "url": "http://www.cddp-haute-corse.fr"
+    }
+  },
+  {
+    "id": "cbbebfbed74bdc569eb366a7a06123a379370695",
+    "name": "atelier_departemental_canope_haute_garonne",
+    "title": "Atelier départemental Canopé - Haute-Garonne",
+    "url": "https://lannuaire.service-public.fr/occitanie/haute-garonne/canope_atelier-31555-01",
+    "metadata": {
+      "email": "cddp31dr@crdp-toulouse.fr",
+      "telephone": "05 61 99 48 31",
+      "url": "http://www.crdp-toulouse.fr"
+    }
+  },
+  {
+    "id": "8fa3c7e62e29dda14b53ee4772a8a062fe12482b",
+    "name": "atelier_departemental_canope_haute_loire",
+    "title": "Atelier départemental Canopé - Haute-Loire",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/haute-loire/canope_atelier-43157-01",
+    "metadata": {
+      "email": "cddp43@ac-clermont.fr",
+      "telephone": "04 71 09 90 60",
+      "url": "http://crdp.ac-clermont.fr/cddp43/"
+    }
+  },
+  {
+    "id": "bf880b1403d6fc6d3508744f72e57eff8b7e2fbb",
+    "name": "atelier_departemental_canope_haute_marne",
+    "title": "Atelier départemental Canopé - Haute-Marne",
+    "url": "https://lannuaire.service-public.fr/grand-est/haute-marne/canope_atelier-52121-01",
+    "metadata": {
+      "email": "cddp52@ac-reims.fr",
+      "telephone": "03 25 03 12 85",
+      "url": "http://www.cndp.fr/crdp-reims/index.php?id=2672"
+    }
+  },
+  {
+    "id": "e4d0303e0f4cb1fe5ff190027385892369ff788b",
+    "name": "atelier_departemental_canope_hautes_alpes",
+    "title": "Atelier départemental Canopé - Hautes-Alpes",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/hautes-alpes/canope_atelier-05061-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 92 51 36 84",
+      "url": "https://www.reseau-canope.fr/academie-aix-marseille/atelier-canope-05-gap"
+    }
+  },
+  {
+    "id": "317d9e0d7b48e91b1876827081d586b77d8fae4d",
+    "name": "atelier_departemental_canope_haute_saone",
+    "title": "Atelier départemental Canopé - Haute-Saône",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/haute-saone/canope_atelier-70550-01",
+    "metadata": {
+      "email": "cddp70@ac-besancon.fr",
+      "telephone": "03 84 97 15 08",
+      "url": "http://crdp.ac-besancon.fr"
+    }
+  },
+  {
+    "id": "b8af623b7831d9cb3615ac97829b0ad4e8ffc07e",
+    "name": "atelier_departemental_canope_haute_savoie",
+    "title": "Atelier départemental Canopé - Haute-Savoie",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/haute-savoie/canope_atelier-74010-01",
+    "metadata": {
+      "email": "contact.atelier74@reseau-canope.fr",
+      "telephone": "04 50 23 79 36",
+      "url": "https://www.reseau-canope.fr/academie-de-grenoble/atelier-canope-74-annecy"
+    }
+  },
+  {
+    "id": "fdbd495d4b60cd6cced7432da739e2037e9f3c82",
+    "name": "atelier_departemental_canope_hautes_pyrenees",
+    "title": "Atelier départemental Canopé - Hautes-Pyrénées",
+    "url": "https://lannuaire.service-public.fr/occitanie/hautes-pyrenees/canope_atelier-65440-01",
+    "metadata": {
+      "email": "cddp65dr@ac-toulouse.fr",
+      "telephone": "05 62 44 36 36",
+      "url": "http://www.crdp-toulouse.fr"
+    }
+  },
+  {
+    "id": "d91cfed1a5fc4c203f2342da00d3c146e576ebbc",
+    "name": "atelier_departemental_canope_haute_vienne",
+    "title": "Atelier départemental Canopé - Haute-Vienne",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/haute-vienne/canope_atelier-87085-01",
+    "metadata": {
+      "email": "direction@crdp-limousin.fr",
+      "telephone": "05 87 50 46 50",
+      "url": ""
+    }
+  },
+  {
+    "id": "093aec06c0f44e64c4acff6ad59085b9257b5f68",
+    "name": "atelier_departemental_canope_haut_rhin",
+    "title": "Atelier départemental Canopé - Haut-Rhin",
+    "url": "https://lannuaire.service-public.fr/grand-est/haut-rhin/canope_atelier-68066-01",
+    "metadata": {
+      "email": "cddp68@crdp-strasbourg.fr",
+      "telephone": "03 89 23 30 51",
+      "url": "http://www.crdp-strasbourg.fr"
+    }
+  },
+  {
+    "id": "267a5633726d3a1acc4aac41494180814f72655c",
+    "name": "atelier_departemental_canope_hauts_de_seine",
+    "title": "Atelier départemental Canopé - Hauts-de-Seine",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/hauts-de-seine/canope_atelier-92012-01",
+    "metadata": {
+      "email": "cddp92@crdp.ac-versailles.fr",
+      "telephone": "01 41 41 59 59",
+      "url": "http://www.cddp92.ac-versailles.fr"
+    }
+  },
+  {
+    "id": "f03f3242e60d1e91b7ef2bf6214cfa7b6d969ff5",
+    "name": "atelier_departemental_canope_herault",
+    "title": "Atelier départemental Canopé - Hérault",
+    "url": "https://lannuaire.service-public.fr/occitanie/herault/canope_atelier-34172-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 67 60 04 64",
+      "url": ""
+    }
+  },
+  {
+    "id": "4c1a7e71ec3fff5228d63fe82fb8a994d7d1858c",
+    "name": "atelier_departemental_canope_ille_et_vilaine",
+    "title": "Atelier départemental Canopé - Ille-et-Vilaine",
+    "url": "https://lannuaire.service-public.fr/bretagne/ille-et-vilaine/canope_atelier-35238-01",
+    "metadata": {
+      "email": "atelier.canope35@ac-rennes.fr",
+      "telephone": "02 99 25 35 35",
+      "url": "http://canope-ille-et-vilaine.esidoc.fr"
+    }
+  },
+  {
+    "id": "c7c0819e8b002581da5e43726e8cc831f371a3d3",
+    "name": "atelier_departemental_canope_indre",
+    "title": "Atelier départemental Canopé - Indre",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/indre/canope_atelier-36044-01",
+    "metadata": {
+      "email": "cddp36@ac-orleans-tours.fr",
+      "telephone": "02 54 22 24 24",
+      "url": "http://cddp36.ac-orleans-tours.fr"
+    }
+  },
+  {
+    "id": "7a4204afd6835307a2653314606777e97af60f9d",
+    "name": "atelier_departemental_canope_indre_et_loire",
+    "title": "Atelier départemental Canopé - Indre-et-Loire",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/indre-et-loire/canope_atelier-37261-01",
+    "metadata": {
+      "email": "contact.atelier37@reseau-canope.fr",
+      "telephone": "02 47 60 17 00",
+      "url": "https://www.reseau-canope.fr/academie-dorleans-tours/atelier-canope-37-tours"
+    }
+  },
+  {
+    "id": "4fee18fe2d824a710aadcb2f222180d0a89aa804",
+    "name": "atelier_departemental_canope_jura",
+    "title": "Atelier départemental Canopé - Jura",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/jura/canope_atelier-39300-01",
+    "metadata": {
+      "email": "cddp39@ac-besancon.fr",
+      "telephone": "03 84 47 22 86",
+      "url": "http://crdp.ac-besancon.fr"
+    }
+  },
+  {
+    "id": "9806c4cab2b6d41a1fd8e07259d9f3eef7efe224",
+    "name": "atelier_departemental_canope_landes",
+    "title": "Atelier départemental Canopé - Landes",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/landes/canope_atelier-40192-01",
+    "metadata": {
+      "email": "cddp40@ac-bordeaux.fr",
+      "telephone": "05 58 75 43 11",
+      "url": "http://crdp.ac-bordeaux.fr"
+    }
+  },
+  {
+    "id": "10a877229d101e91c3457f103411e77984285ad3",
+    "name": "atelier_departemental_canope_la_reunion",
+    "title": "Atelier départemental Canopé - La Réunion",
+    "url": "https://lannuaire.service-public.fr/la-reunion/reunion/canope_atelier-97411-01",
+    "metadata": {
+      "email": "contact.atelier974@reseau-canope.fr",
+      "telephone": "+262 2 62 20 96 00",
+      "url": "http://www.crdp-reunion.fr"
+    }
+  },
+  {
+    "id": "fafdbf86e00facd1a0d4e4bfd160a25fc3b3c162",
+    "name": "atelier_departemental_canope_loire",
+    "title": "Atelier départemental Canopé - Loire",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/loire/canope_atelier-42218-01",
+    "metadata": {
+      "email": "cddp-loire@ac-lyon.fr",
+      "telephone": "04 77 43 17 00",
+      "url": "http://www.crdp-lyon.cndp.fr"
+    }
+  },
+  {
+    "id": "39ee2223c07b6d024f0d5297dbbab34c34e4f1c5",
+    "name": "atelier_departemental_canope_loire_atlantique",
+    "title": "Atelier départemental Canopé - Loire-Atlantique",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/loire-atlantique/canope_atelier-44109-01",
+    "metadata": {
+      "email": "atelier.canope44@ac-rennes.fr",
+      "telephone": "02 51 86 85 29",
+      "url": "http://www.crdp-nantes.fr/atelier-canope-44"
+    }
+  },
+  {
+    "id": "67ce6def9b6e011149f3dc9a160dcc2ea88cd51f",
+    "name": "atelier_departemental_canope_loir_et_cher",
+    "title": "Atelier départemental Canopé - Loir-et-Cher",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/loir-et-cher/canope_atelier-41018-01",
+    "metadata": {
+      "email": "contact.atelier41@reseau-canope.fr",
+      "telephone": "02 54 55 52 00",
+      "url": "https://www.reseau-canope.fr/academie-dorleans-tours/atelier-canope-41-blois"
+    }
+  },
+  {
+    "id": "1b082f10efbd76566fbb43aa6ffc1b07395bb344",
+    "name": "atelier_departemental_canope_lot",
+    "title": "Atelier départemental Canopé - Lot",
+    "url": "https://lannuaire.service-public.fr/occitanie/lot/canope_atelier-46042-01",
+    "metadata": {
+      "email": "cddp46dr@ac-toulouse.fr",
+      "telephone": "05 65 53 00 40",
+      "url": "http://www.crdp-toulouse.fr"
+    }
+  },
+  {
+    "id": "10b69bb862e5d4b0ed7296e6fa9b3d0fd6ed43a3",
+    "name": "atelier_departemental_canope_lot_et_garonne",
+    "title": "Atelier départemental Canopé - Lot-et-Garonne",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/lot-et-garonne/canope_atelier-47001-01",
+    "metadata": {
+      "email": "cddp47@ac-bordeaux.fr",
+      "telephone": "05 53 77 34 43",
+      "url": "http://crdp.ac-bordeaux.fr"
+    }
+  },
+  {
+    "id": "dc95957ef7fa1e263cd6881633f88d9cb074c417",
+    "name": "atelier_departemental_canope_lozere",
+    "title": "Atelier départemental Canopé - Lozère",
+    "url": "https://lannuaire.service-public.fr/occitanie/lozere/canope_atelier-48095-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 66 49 10 32",
+      "url": ""
+    }
+  },
+  {
+    "id": "702279126dacfcfdfee8ae44c6134b84f0179ea3",
+    "name": "atelier_departemental_canope_maine_et_loire",
+    "title": "Atelier départemental Canopé - Maine-et-Loire",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/maine-et-loire/canope_atelier-49007-01",
+    "metadata": {
+      "email": "atelier.canope44@ac-rennes.fr",
+      "telephone": "02 52 35 05 30",
+      "url": "https://www.reseau-canope.fr/academie-de-nantes/atelier-canope-49-beaucouze.html"
+    }
+  },
+  {
+    "id": "f044e534d6e7be4e550bea40a82e7d0276b0d870",
+    "name": "atelier_departemental_canope_manche",
+    "title": "Atelier départemental Canopé - Manche",
+    "url": "https://lannuaire.service-public.fr/normandie/manche/canope_atelier-50502-01",
+    "metadata": {
+      "email": "cddp50@crdp.ac-caen.fr",
+      "telephone": "02 33 75 64 64",
+      "url": "http://www.crdp.ac-caen.fr"
+    }
+  },
+  {
+    "id": "7711de3b598861e6cadf68b46819d9b7c164d0c7",
+    "name": "atelier_departemental_canope_marne",
+    "title": "Atelier départemental Canopé - Marne",
+    "url": "https://lannuaire.service-public.fr/grand-est/marne/canope_atelier-51454-01",
+    "metadata": {
+      "email": "contact.atelier51@reseau-canope.fr",
+      "telephone": "03 26 61 20 20",
+      "url": "https://www.reseau-canope.fr/academie-de-reims/atelier-canope-51-reims.html"
+    }
+  },
+  {
+    "id": "ddc17531529e20fc2cf5af8aaa48a6f0f75c61d9",
+    "name": "atelier_departemental_canope_martinique",
+    "title": "Atelier départemental Canopé - Martinique",
+    "url": "https://lannuaire.service-public.fr/martinique/martinique/canope_atelier-97209-01",
+    "metadata": {
+      "email": "crdp@ac-martinique.fr",
+      "telephone": "+596 5 96 61 70 63",
+      "url": "http://www.cndp.fr/crdp-martinique/"
+    }
+  },
+  {
+    "id": "265546a736c34452840870bed34d0d8d3738843b",
+    "name": "atelier_departemental_canope_mayenne",
+    "title": "Atelier départemental Canopé - Mayenne",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/mayenne/canope_atelier-53130-01",
+    "metadata": {
+      "email": "atelier.canope53@ac-rennes.fr",
+      "telephone": "02 43 68 08 83",
+      "url": "http://www.crdp-nantes.fr/atelier-canope-53"
+    }
+  },
+  {
+    "id": "e8741ef2348afb1d4a2e6330ead6078f96590c72",
+    "name": "atelier_departemental_canope_meuse",
+    "title": "Atelier départemental Canopé - Meuse",
+    "url": "https://lannuaire.service-public.fr/grand-est/meuse/canope_atelier-55029-01",
+    "metadata": {
+      "email": "contact.atelier55@reseau-canope.fr",
+      "telephone": "03 29 45 32 73",
+      "url": "https://www.reseau-canope.fr/academie-de-nancy-metz/atelier-canope-55-verdun.html/"
+    }
+  },
+  {
+    "id": "626ae173a1e0d8c6834f2ffff56c56a1868ab97e",
+    "name": "atelier_departemental_canope_meuthe_et_moselle",
+    "title": "Atelier départemental Canopé - Meuthe-et-Moselle",
+    "url": "https://lannuaire.service-public.fr/grand-est/meurthe-et-moselle/canope_atelier-54395-01",
+    "metadata": {
+      "email": "direction.cddp54@crdp-lorraine.fr",
+      "telephone": "03 83 19 11 39",
+      "url": "http://www.crdp-lorraine.fr"
+    }
+  },
+  {
+    "id": "d08079eb4674ba88f131b9f19ce8f04c9f1d469a",
+    "name": "atelier_departemental_canope_morbihan",
+    "title": "Atelier départemental Canopé - Morbihan",
+    "url": "https://lannuaire.service-public.fr/bretagne/morbihan/canope_atelier-29232-01",
+    "metadata": {
+      "email": "atelier.canope56@ac-rennes.fr",
+      "telephone": "02 97 64 86 96",
+      "url": "http://canope-morbihan.esidoc.fr"
+    }
+  },
+  {
+    "id": "fc3865e71e6a642bd204a8e0559982ac1ec8ab6c",
+    "name": "atelier_departemental_canope_moselle",
+    "title": "Atelier départemental Canopé - Moselle",
+    "url": "https://lannuaire.service-public.fr/grand-est/moselle/canope_atelier-57480-01",
+    "metadata": {
+      "email": "contact.atelier57@reseau-canope.fr",
+      "telephone": "03 54 50 52 70",
+      "url": "https://www.reseau-canope.fr/academie-de-nancy-metz/atelier-canope-57-montigny-les-metz"
+    }
+  },
+  {
+    "id": "e107e22fda51407e83d1bf2db4594fe041d77a4a",
+    "name": "atelier_departemental_canope_nievre",
+    "title": "Atelier départemental Canopé - Nièvre",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/nievre/canope_atelier-58194-01",
+    "metadata": {
+      "email": "cddp58@ac-dijon.fr",
+      "telephone": "03 86 61 45 90",
+      "url": "http://crdp.ac-dijon.fr/cddp58/"
+    }
+  },
+  {
+    "id": "267ec6dd535c63f23eb9e78a93fa6a1018049484",
+    "name": "atelier_departemental_canope_nord",
+    "title": "Atelier départemental Canopé - Nord",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/nord/canope_atelier-59350-01",
+    "metadata": {
+      "email": "lille.crdp@ac-lille.fr",
+      "telephone": "03 59 03 12 00",
+      "url": "http://crdp.ac-lille.fr"
+    }
+  },
+  {
+    "id": "7a9125e593189664c9bd23ac8b7f5837881aa4a8",
+    "name": "atelier_departemental_canope_oise",
+    "title": "Atelier départemental Canopé - Oise",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/oise/canope_atelier-60057-01",
+    "metadata": {
+      "email": "cddp.oise@ac-amiens.fr",
+      "telephone": "03 44 06 31 00",
+      "url": "http://crdp.ac-amiens.fr"
+    }
+  },
+  {
+    "id": "1b8dcc85b59dbf6174b9a3d47722e07e65955835",
+    "name": "atelier_departemental_canope_orne",
+    "title": "Atelier départemental Canopé - Orne",
+    "url": "https://lannuaire.service-public.fr/normandie/orne/canope_atelier-61001-01",
+    "metadata": {
+      "email": "cddp61@crdp.ac-caen.fr",
+      "telephone": "02 33 80 36 50",
+      "url": "http://www.crdp.ac-caen.fr"
+    }
+  },
+  {
+    "id": "8347342a2bcbc537199a0eeef1b5c5e389c04717",
+    "name": "atelier_departemental_canope_paris",
+    "title": "Atelier départemental Canopé - Paris",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/paris/canope_atelier-75056-01",
+    "metadata": {
+      "email": "contact.atelier75@reseau-canope.fr",
+      "telephone": "",
+      "url": "http://www.cndp.fr/crdp-paris"
+    }
+  },
+  {
+    "id": "755ccf1dd9b452d67be325d9da6dbf405f3c5eff",
+    "name": "atelier_departemental_canope_pas_de_calais",
+    "title": "Atelier départemental Canopé - Pas-de-Calais",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/pas-de-calais/canope_atelier-62041-01",
+    "metadata": {
+      "email": "arras.crdp@ac-lille.fr",
+      "telephone": "03 21 60 92 92",
+      "url": "http://crdp.ac-lille.fr"
+    }
+  },
+  {
+    "id": "b9003a2f198aed142d81a2b752cea9ccd0ae917f",
+    "name": "atelier_departemental_canope_puy_de_dome",
+    "title": "Atelier départemental Canopé - Puy-de-Dôme",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/puy-de-dome/canope_atelier-63113-01",
+    "metadata": {
+      "email": "contact.atelier63@reseau-canope.fr",
+      "telephone": "04 73 98 09 53",
+      "url": "http://www.cndp.fr/crdp-clermont/crdp/"
+    }
+  },
+  {
+    "id": "e11fd252d43a5ca65910ed199c4cce583c18870b",
+    "name": "atelier_departemental_canope_pyrenees_atlantiques",
+    "title": "Atelier départemental Canopé - Pyrénées-Atlantiques",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/pyrenees-atlantiques/canope_atelier-64445-01",
+    "metadata": {
+      "email": "cddp64@ac-bordeaux.fr",
+      "telephone": "05 59 30 23 18",
+      "url": "http://crdp.ac-bordeaux.fr"
+    }
+  },
+  {
+    "id": "cbad343b2c1f0dd56b029ffb6d6b0f2806bee142",
+    "name": "atelier_departemental_canope_pyrenees_orientales",
+    "title": "Atelier départemental Canopé - Pyrénées-Orientales",
+    "url": "https://lannuaire.service-public.fr/occitanie/pyrenees-orientales/canope_atelier-66136-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 68 08 10 08",
+      "url": ""
+    }
+  },
+  {
+    "id": "86c0307bae1838a6ef02ba5f32dd7124cfa4590f",
+    "name": "atelier_departemental_canope_rhone",
+    "title": "Atelier départemental Canopé - Rhône",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/rhone/canope_atelier-69384-01",
+    "metadata": {
+      "email": "contact.atelier69@reseau-canope.fr",
+      "telephone": "04 72 00 76 00",
+      "url": "http://www.cndp.fr/crdp-lyon/"
+    }
+  },
+  {
+    "id": "8f2891acfdbaacbaf0cce553e8351f2afa0ad865",
+    "name": "atelier_departemental_canope_saone_et_loire",
+    "title": "Atelier départemental Canopé - Saône-et-Loire",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/saone-et-loire/canope_atelier-71270-01",
+    "metadata": {
+      "email": "cddp71@ac-dijon.fr",
+      "telephone": "03 85 21 02 30",
+      "url": "http://www.cndp.fr/crdp-dijon/-Atelier-Canope-71-Macon-.html"
+    }
+  },
+  {
+    "id": "d78a2f93b98a39ef728548fde50727ee471352a7",
+    "name": "atelier_departemental_canope_sarthe",
+    "title": "Atelier départemental Canopé - Sarthe",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/sarthe/canope_atelier-72181-01",
+    "metadata": {
+      "email": "atelier.canope72@ac-rennes.fr",
+      "telephone": "02 43 81 43 70",
+      "url": ""
+    }
+  },
+  {
+    "id": "59e2e00fad2684dbd75abec8d641c6292a73f3c8",
+    "name": "atelier_departemental_canope_savoie",
+    "title": "Atelier départemental Canopé - Savoie",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/savoie/canope_atelier-73065-01",
+    "metadata": {
+      "email": "savoie.direction@cddp73.ac-grenoble.fr",
+      "telephone": "04 79 69 83 83",
+      "url": "http://www.ac-grenoble.fr"
+    }
+  },
+  {
+    "id": "3fb4dadb9e062185726fbf90053cb896fd19d17e",
+    "name": "atelier_departemental_canope_seine_et_marne",
+    "title": "Atelier départemental Canopé - Seine-et-Marne",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/seine-et-marne/canope_atelier-77288-01",
+    "metadata": {
+      "email": "",
+      "telephone": "01 64 14 22 50",
+      "url": "https://www.reseau-canope.fr/academie-de-creteil/atelier-canope-77-le-mee-sur-seine"
+    }
+  },
+  {
+    "id": "783c4b7a4dcefceaee35d501a21cd7f10a0b6881",
+    "name": "atelier_departemental_canope_seine_maritime_le_havre",
+    "title": "Atelier départemental Canopé - Seine-Maritime - Le Havre",
+    "url": "https://lannuaire.service-public.fr/normandie/seine-maritime/canope_atelier-76351-01",
+    "metadata": {
+      "email": "contact.atelier76-le-havre@reseau-canope.fr",
+      "telephone": "02 35 22 18 00",
+      "url": "http://www.cndp.fr/crdp-rouen/index.php/accueil"
+    }
+  },
+  {
+    "id": "018ddb8abaf8d533294d4ed0fb729862708f7731",
+    "name": "atelier_departemental_canope_seine_maritime_mont_saint_aignan",
+    "title": "Atelier départemental Canopé - Seine-Maritime - Mont-saint-Aignan",
+    "url": "https://lannuaire.service-public.fr/normandie/seine-maritime/canope_atelier-76451-01",
+    "metadata": {
+      "email": "contact.atelier76-mont-saint-aignan@reseau-canope.fr",
+      "telephone": "02 32 08 87 00",
+      "url": "http://www.cndp.fr/crdp-rouen/"
+    }
+  },
+  {
+    "id": "d2dafae850abdf08f7b216f33a7917acfef35fb1",
+    "name": "atelier_departemental_canope_seine_saint_denis",
+    "title": "Atelier départemental Canopé - Seine-Saint-Denis",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/seine-saint-denis/canope_atelier-93046-01",
+    "metadata": {
+      "email": "contact.atelier93@reseau-canope.fr",
+      "telephone": "01 43 88 84 83",
+      "url": "https://www.reseau-canope.fr/academie-de-creteil/atelier-canope-93-livry-gargan"
+    }
+  },
+  {
+    "id": "3a522ce19a08379a81a62b346174ef7691712e13",
+    "name": "atelier_departemental_canope_somme",
+    "title": "Atelier départemental Canopé - Somme",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/somme/canope_atelier-80021-01",
+    "metadata": {
+      "email": "contact.atelier80@reseau-canope.fr",
+      "telephone": "03 22 71 41 60",
+      "url": "http://www.cndp.fr/crdp-amiens/"
+    }
+  },
+  {
+    "id": "b478fed6c6ebd2adf05d52e148d33b4b478307e7",
+    "name": "atelier_departemental_canope_tarn",
+    "title": "Atelier départemental Canopé - Tarn",
+    "url": "https://lannuaire.service-public.fr/occitanie/tarn/canope_atelier-81004-01",
+    "metadata": {
+      "email": "cddp81dr@ac-toulouse.fr",
+      "telephone": "05 63 43 34 60",
+      "url": "http://www.crdp-toulouse.fr"
+    }
+  },
+  {
+    "id": "24570c6968048be238f2f440c26c3dfca2c79aa7",
+    "name": "atelier_departemental_canope_tarn_et_garonne",
+    "title": "Atelier départemental Canopé - Tarn-et-Garonne",
+    "url": "https://lannuaire.service-public.fr/occitanie/tarn-et-garonne/canope_atelier-82121-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 63 91 88 90",
+      "url": ""
+    }
+  },
+  {
+    "id": "25f0fc8b2a0dc28977e145f3a003ca510ac0363c",
+    "name": "atelier_departemental_canope_territoire_de_belfort",
+    "title": "Atelier départemental Canopé - Territoire-de-Belfort",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/territoire-de-belfort/canope_atelier-90010-01",
+    "metadata": {
+      "email": "cddp90.librairie@ac-besancon.fr",
+      "telephone": "03 84 36 61 85",
+      "url": "http://www.cndp.fr/crdp-besancon"
+    }
+  },
+  {
+    "id": "26e862efe1e2b19b5b241771667162aa38ecc288",
+    "name": "atelier_departemental_canope_val_d_oise",
+    "title": "Atelier départemental Canopé - Val-d'Oise",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/val-d-oise/canope_atelier-95500-01",
+    "metadata": {
+      "email": "cddp95@ac-versailles.fr",
+      "telephone": "01 72 58 10 58",
+      "url": "http://www.cddp95.ac-versailles.fr"
+    }
+  },
+  {
+    "id": "272000ebbed7d2c50540135f43f86fb3877950b0",
+    "name": "atelier_departemental_canope_val_de_marne",
+    "title": "Atelier départemental Canopé - Val-de-Marne",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/val-de-marne/canope_atelier-94017-01",
+    "metadata": {
+      "email": "contact.atelier94@reseau-canope.fr",
+      "telephone": "01 87 36 77 20",
+      "url": "http://www.cndp.fr/crdp-creteil/accueil-du-public/canope94"
+    }
+  },
+  {
+    "id": "bb236fbe382a9b727528ce7a186b6f5be484536e",
+    "name": "atelier_departemental_canope_var",
+    "title": "Atelier départemental Canopé - Var",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/var/canope_atelier-83137-01",
+    "metadata": {
+      "email": "canope83@ac-nice.fr",
+      "telephone": "04 94 09 73 73",
+      "url": "http://www.cndp.fr/crdp-nice"
+    }
+  },
+  {
+    "id": "5d1b59802dca4e5206f1518421190086c6907146",
+    "name": "atelier_departemental_canope_vaucluse",
+    "title": "Atelier départemental Canopé - Vaucluse",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/vaucluse/canope_atelier-84007-01",
+    "metadata": {
+      "email": "cddp84@crdp-aix-marseille.fr",
+      "telephone": "04 90 14 04 24",
+      "url": "http://www.cndp.fr/crdp-aix-marseille"
+    }
+  },
+  {
+    "id": "04d04ce2896e0f7abbe064c63e6f9c28028ff078",
+    "name": "atelier_departemental_canope_vendee",
+    "title": "Atelier départemental Canopé - Vendée",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/vendee/canope_atelier-85191-01",
+    "metadata": {
+      "email": "atelier.canope85@ac-rennes.fr",
+      "telephone": "02 51 62 71 88",
+      "url": "https://www.reseau-canope.fr/academie-de-nantes/atelier-canope-85-la-roche-sur-yon.html"
+    }
+  },
+  {
+    "id": "37bba7f87fc6263aac802cecfe83ddcc263ae03c",
+    "name": "atelier_departemental_canope_vosges",
+    "title": "Atelier départemental Canopé - Vosges",
+    "url": "https://lannuaire.service-public.fr/grand-est/vosges/canope_atelier-88160-01",
+    "metadata": {
+      "email": "cddp88@crdp-lorraine.fr",
+      "telephone": "03 72 34 85 77",
+      "url": "http://www.cndp.fr/crdp-nancy-metz/88"
+    }
+  },
+  {
+    "id": "56f274b62d94b71d6219674bfd51ff07370afa71",
+    "name": "atelier_departemental_canope_yonne",
+    "title": "Atelier départemental Canopé - Yonne",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/yonne/canope_atelier-89024-01",
+    "metadata": {
+      "email": "cddp89@ac-dijon.fr",
+      "telephone": "03 86 52 57 14",
+      "url": "http://crdp.ac-dijon.fr/cddp89"
+    }
+  },
+  {
+    "id": "7fb6bc2fbe95534edb891b9a7e10ebd43837c378",
+    "name": "atelier_departemental_canope_yvelines",
+    "title": "Atelier départemental Canopé - Yvelines",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/yvelines/canope_atelier-78117-01",
+    "metadata": {
+      "email": "contact.atelier78@reseau-canope.fr",
+      "telephone": "01 78 64 51 51",
+      "url": "http://www.reseau-canope.fr/atelier-yvelines/"
+    }
+  },
+  {
+    "id": "8782c630c3fecccd5f7bba80d8b7bde9a9215442",
+    "name": "centre_de_documentation_pedagogique_saint_pierre_et_miquelon",
+    "title": "Centre de documentation pédagogique - Saint-Pierre-et-Miquelon",
+    "url": "https://lannuaire.service-public.fr/collectivites-d-outre-mer/saint-pierre-et-miquelon/canope_atelier-97502-01",
+    "metadata": {
+      "email": "cdp@ac-spm.fr",
+      "telephone": "+508 41 74 77",
+      "url": "http://www.cdp-spm.fr"
+    }
+  }
+]

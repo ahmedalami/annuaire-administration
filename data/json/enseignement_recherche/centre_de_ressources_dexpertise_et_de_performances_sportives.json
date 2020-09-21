@@ -1,0 +1,230 @@
+[
+  {
+    "id": "232d505661cff332c2c0354710521913284491b2",
+    "alternateName": "CREPS",
+    "name": "centre_de_ressources_dexpertise_et_de_performance_sportives_creps_bordeaux",
+    "title": "Centre de ressources, d'expertise et de performance sportives (CREPS) - Bordeaux",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/gironde/creps-33522-01",
+    "metadata": {
+      "email": "direction@creps-aquitaine.fr",
+      "telephone": "05 56 84 48 00",
+      "url": "http://www.creps-aquitaine.fr"
+    }
+  },
+  {
+    "id": "5986798fa460c97919407e2d066694b62c007278",
+    "alternateName": "CREPS",
+    "name": "centre_de_ressources_dexpertise_et_de_performance_sportives_creps_centre_val_de_loire",
+    "title": "Centre de ressources, d'expertise et de performance sportives (CREPS) - Centre-Val de Loire",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/cher/creps-18033-01",
+    "metadata": {
+      "email": "cr018@jeunesse-sports.gouv.fr",
+      "telephone": "02 48 48 01 44",
+      "url": "http://www.creps-cvl.fr/"
+    }
+  },
+  {
+    "id": "bc8f45705fa733dd2a44e8b7980e3c2c0a067528",
+    "alternateName": "CREPS",
+    "name": "centre_de_ressources_dexpertise_et_de_performance_sportives_creps_dijon",
+    "title": "Centre de ressources, d'expertise et de performance sportives (CREPS) - Dijon",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/cote-d-or/creps-21231-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 80 65 46 12",
+      "url": "http://www.creps-bourgogne.fr"
+    }
+  },
+  {
+    "id": "4309fde123bfe1c82be678211eba067f8f458905",
+    "alternateName": "CREPS",
+    "name": "centre_de_ressources_dexpertise_et_de_performance_sportives_creps_ile_de_france",
+    "title": "Centre de ressources, d'expertise et de performance sportives (CREPS) - Île-de-France",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/hauts-de-seine/creps-92019-01",
+    "metadata": {
+      "email": "",
+      "telephone": "01 41 87 20 30",
+      "url": "http://www.creps-idf.fr/"
+    }
+  },
+  {
+    "id": "5e9e251891702024e0617c08fa223dc103b1805d",
+    "alternateName": "CREPS",
+    "name": "centre_de_ressources_dexpertise_et_de_performance_sportives_creps_la_reunion",
+    "title": "Centre de ressources, d'expertise et de performance sportives (CREPS) - La Réunion",
+    "url": "https://lannuaire.service-public.fr/la-reunion/reunion/creps-97411-01",
+    "metadata": {
+      "email": "cr974@jeunesse-sports.gouv.fr",
+      "telephone": "+262 2 62 94 71 94",
+      "url": "https://creps-reunion.sports.gouv.fr/"
+    }
+  },
+  {
+    "id": "ec65c63e1495cb97ac10348383960644459d1909",
+    "alternateName": "CREPS",
+    "name": "centre_de_ressources_dexpertise_et_de_performance_sportives_creps_montpellier",
+    "title": "Centre de ressources, d'expertise et de performance sportives (CREPS) - Montpellier",
+    "url": "https://lannuaire.service-public.fr/occitanie/herault/creps-34172-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 67 61 05 22",
+      "url": "https://www.creps-montpellier.org/"
+    }
+  },
+  {
+    "id": "1e1ef578ca740ef72cdc13086a1bd7e241f18186",
+    "alternateName": "CREPS",
+    "name": "centre_de_ressources_dexpertise_et_de_performance_sportives_creps_nancy",
+    "title": "Centre de ressources, d'expertise et de performance sportives (CREPS) - Nancy",
+    "url": "https://lannuaire.service-public.fr/grand-est/meurthe-et-moselle/creps-54184-01",
+    "metadata": {
+      "email": "cr054@creps-lorraine.sports.gouv.fr",
+      "telephone": "03 83 18 10 20",
+      "url": "http://www.creps-nancy-lorraine.jeunesse-sports.gouv.fr"
+    }
+  },
+  {
+    "id": "d12b2a03c1bb911929ad84d22aa7d19953a82c71",
+    "alternateName": "CREPS",
+    "name": "centre_de_ressources_dexpertise_et_de_performance_sportives_creps_paca_site_aix_en_provence",
+    "title": "Centre de ressources, d'expertise et de performance sportives (CREPS) - PACA - Site Aix-en-Provence",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/creps-13001-01",
+    "metadata": {
+      "email": "accueil.aix@creps-paca.sports.gouv.fr",
+      "telephone": "04 42 93 80 00",
+      "url": "http://www.creps-paca.sports.gouv.fr/"
+    }
+  },
+  {
+    "id": "69e7d06c15ae868ad104618324375ba8097e9a29",
+    "alternateName": "CREPS",
+    "name": "centre_de_ressources_dexpertise_et_de_performance_sportives_creps_paca_site_d_antibes",
+    "title": "Centre de ressources, d'expertise et de performance sportives (CREPS) - PACA - Site d'Antibes",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/alpes-maritimes/creps-06004-01",
+    "metadata": {
+      "email": "accueil.antibes@creps-paca.sports.gouv.fr",
+      "telephone": "04 92 91 31 31",
+      "url": "http://www.creps-paca.sports.gouv.fr/"
+    }
+  },
+  {
+    "id": "4bcfea2361aed24e4b7e79b6e2d5d32593ad98b6",
+    "alternateName": "CREPS",
+    "name": "centre_de_ressources_dexpertise_et_de_performance_sportives_creps_paca_site_boulouris_saint_raphael",
+    "title": "Centre de ressources, d'expertise et de performance sportives (CREPS) - PACA - Site Boulouris - Saint-Raphaël",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/var/creps-24493-01",
+    "metadata": {
+      "email": "accueil.boulouris@creps-paca.sports.gouv.fr",
+      "telephone": "04 94 40 27 40",
+      "url": "http://www.creps-paca.sports.gouv.fr/"
+    }
+  },
+  {
+    "id": "f3d3e351d5ac34cb38fec03132ca7e1ef3baae5b",
+    "alternateName": "CREPS",
+    "name": "centre_de_ressources_dexpertise_et_de_performance_sportives_creps_pays_de_la_loire",
+    "title": "Centre de ressources, d'expertise et de performance sportives (CREPS) - Pays de la Loire",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/loire-atlantique/creps-44109-01",
+    "metadata": {
+      "email": "cr044@creps-pdl.sports.gouv.fr",
+      "telephone": "02 28 23 69 23",
+      "url": "http://www.http://www.creps-pdl.sports.gouv.fr/"
+    }
+  },
+  {
+    "id": "3e173a50e6b0c57a818ef17562b9c6ff16f76ef7",
+    "alternateName": "CREPS",
+    "name": "centre_de_ressources_dexpertise_et_de_performance_sportives_creps_pointe_a_pitre",
+    "title": "Centre de ressources, d'expertise et de performance sportives (CREPS) - Pointe-à-Pitre",
+    "url": "https://lannuaire.service-public.fr/guadeloupe/guadeloupe/creps-97101-01",
+    "metadata": {
+      "email": "",
+      "telephone": "+590 5 90 82 18 23",
+      "url": "http://www.creps-antilles-guyane.fr/"
+    }
+  },
+  {
+    "id": "a4c92b7879d983d9f86932b9bb4b8e38965a6d1a",
+    "alternateName": "CREPS",
+    "name": "centre_de_ressources_dexpertise_et_de_performance_sportives_creps_poitiers",
+    "title": "Centre de ressources, d'expertise et de performance sportives (CREPS) - Poitiers",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/vienne/creps-86297-01",
+    "metadata": {
+      "email": "cr086@creps-poitiers.sports.gouv.fr",
+      "telephone": "05 49 36 06 00",
+      "url": "https://www.crepspoitiers.fr/"
+    }
+  },
+  {
+    "id": "07f81d7a75ceb17ea580faadf0c87066173149d8",
+    "alternateName": "CREPS",
+    "name": "centre_de_ressources_dexpertise_et_de_performance_sportives_creps_reims",
+    "title": "Centre de ressources, d'expertise et de performance sportives (CREPS) - Reims",
+    "url": "https://lannuaire.service-public.fr/grand-est/marne/creps-51454-01",
+    "metadata": {
+      "email": "cr051@jeunesse-sports.gouv.fr",
+      "telephone": "03 26 86 70 10",
+      "url": "http://www.creps-reims.fr"
+    }
+  },
+  {
+    "id": "1755a672be03f7cc675d0ae6d290d70fdacd2a0a",
+    "alternateName": "CREPS",
+    "name": "centre_de_ressources_dexpertise_et_de_performance_sportives_creps_rhone_alpes",
+    "title": "Centre de ressources, d'expertise et de performance sportives (CREPS) - Rhône-Alpes",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/ardeche/creps-07330-01",
+    "metadata": {
+      "email": "direction@creps-rhonealpes.sports.gouv.fr",
+      "telephone": "04 75 88 15 10",
+      "url": "http://www.creps-rhonealpes.sports.gouv.fr/"
+    }
+  },
+  {
+    "id": "93a43e5072c0e6176cea8454a626f502a9995bb0",
+    "alternateName": "CREPS",
+    "name": "centre_de_ressources_dexpertise_et_de_performance_sportives_creps_strasbourg",
+    "title": "Centre de ressources, d'expertise et de performance sportives (CREPS) - Strasbourg",
+    "url": "https://lannuaire.service-public.fr/grand-est/bas-rhin/creps-67482-01",
+    "metadata": {
+      "email": "cr067@creps-strasbourg.sports.gouv.fr",
+      "telephone": "03 88 10 47 67",
+      "url": "http://www.creps-strasbourg.jeunesse-sports.gouv.fr"
+    }
+  },
+  {
+    "id": "4992c342b94d076edb6b3417702448cac9206ec2",
+    "alternateName": "CREPS",
+    "name": "centre_de_ressources_dexpertise_et_de_performance_sportives_creps_toulouse",
+    "title": "Centre de ressources, d'expertise et de performance sportives (CREPS) - Toulouse",
+    "url": "https://lannuaire.service-public.fr/occitanie/haute-garonne/creps-31555-01",
+    "metadata": {
+      "email": "cr031@creps-toulouse.sports.gouv.fr",
+      "telephone": "05 62 17 90 00",
+      "url": "http://www.creps-toulouse.jeunesse-sports.gouv.fr"
+    }
+  },
+  {
+    "id": "2a83bf454a62855f5e9e107219ee46ef8f296b42",
+    "alternateName": "CREPS",
+    "name": "centre_de_ressources_dexpertise_et_de_performance_sportives_creps_vichy",
+    "title": "Centre de ressources, d'expertise et de performance sportives (CREPS) - Vichy",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/allier/creps-03023-01",
+    "metadata": {
+      "email": "direction@creps-vichy.sports.gouv.fr",
+      "telephone": "04 70 59 85 60",
+      "url": "http://www.creps-vichy.sports.gouv.fr/"
+    }
+  },
+  {
+    "id": "1772b0e713a61a73f0b758045a1c413a74b5444f",
+    "alternateName": "CREPS",
+    "name": "centre_de_ressources_dexpertise_et_de_performance_sportives_creps_wattignies",
+    "title": "Centre de ressources, d'expertise et de performance sportives (CREPS) - Wattignies",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/nord/creps-59648-01",
+    "metadata": {
+      "email": "direction@creps-wattignies.sports.gouv.fr",
+      "telephone": "03 20 62 08 10",
+      "url": "http://www.creps-wattignies.fr/"
+    }
+  }
+]

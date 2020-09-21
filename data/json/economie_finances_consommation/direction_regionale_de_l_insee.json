@@ -1,0 +1,235 @@
+[
+  {
+    "id": "bcb9e569e6da3e1a772a1d465db3daf8bb796daa",
+    "alternateName": "DIRAG",
+    "name": "direction_interregionale_de_l_insee_antilles_guyane_dirag",
+    "title": "Direction interrégionale de l'INSEE - Antilles-Guyane (DIRAG)",
+    "url": "https://lannuaire.service-public.fr/guadeloupe/guadeloupe/dr_insee-97103-01",
+    "metadata": {
+      "email": "di971-dir@insee.fr",
+      "telephone": "+590 5 90 41 34 13",
+      "url": "http://www.insee.fr"
+    }
+  },
+  {
+    "id": "9b6396675e142fd4a16ff9a9506999c14fb03fd0",
+    "name": "direction_regionale_de_l_insee_auvergne_rhone_alpes",
+    "title": "Direction régionale de l'INSEE -  Auvergne-Rhône-Alpes",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/rhone/dr_insee-69383-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 78 63 28 15",
+      "url": "http://www.insee.fr"
+    }
+  },
+  {
+    "id": "95b9427d277bbb8a9f89e2f8547526ffeb0e7d7b",
+    "name": "direction_regionale_de_l_insee_bourgogne_franche_comte",
+    "title": "Direction régionale de l'INSEE - Bourgogne-Franche-Comté",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/doubs/dr_insee-25056-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 81 41 61 61",
+      "url": "http://www.insee.fr"
+    }
+  },
+  {
+    "id": "bdb15ddc8e66ad6af915e3a23d5087565c01262e",
+    "name": "direction_regionale_de_l_insee_bretagne",
+    "title": "Direction régionale de l'INSEE - Bretagne",
+    "url": "https://lannuaire.service-public.fr/bretagne/ille-et-vilaine/dr_insee-35238-01",
+    "metadata": {
+      "email": "dr-bretagne@insee.fr",
+      "telephone": "02 99 29 33 33",
+      "url": "https://www.insee.fr/fr/information/2016662"
+    }
+  },
+  {
+    "id": "be5db9e432ab9c52a7b4a0729ada74795910c85d",
+    "name": "direction_regionale_de_l_insee_centre_val_de_loire",
+    "title": "Direction régionale de l'INSEE - Centre-Val de Loire",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/loiret/dr_insee-45234-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 38 69 52 52",
+      "url": "https://www.insee.fr/fr/information/2016710"
+    }
+  },
+  {
+    "id": "c48a0f44f0a69cdfc0ec32e76b85967c53d4804b",
+    "name": "direction_regionale_de_l_insee_corse",
+    "title": "Direction régionale de l'INSEE - Corse",
+    "url": "https://lannuaire.service-public.fr/corse/corse-du-sud/dr_insee-2A004-01",
+    "metadata": {
+      "email": "insee-corse@insee.fr",
+      "telephone": "04 95 23 54 54",
+      "url": "https://www.insee.fr/fr/information/2017051"
+    }
+  },
+  {
+    "id": "c3d645fe3adde5e4a4b468ba0599b9579a82db3c",
+    "name": "direction_regionale_de_l_insee_grand_est",
+    "title": "Direction régionale de l'INSEE - Grand Est",
+    "url": "https://lannuaire.service-public.fr/grand-est/bas-rhin/dr_insee-67482-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 88 52 40 40",
+      "url": "https://www.insee.fr/fr/information/2015024"
+    }
+  },
+  {
+    "id": "813f12acdbe6ebfc9bc483376c22493ed7322570",
+    "name": "direction_regionale_de_l_insee_hauts_de_france",
+    "title": "Direction régionale de l'INSEE - Hauts-de-France",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/nord/dr_insee-59350-01",
+    "metadata": {
+      "email": "dir-nord-pas-de-calais@insee.fr",
+      "telephone": "03 20 62 86 29",
+      "url": "https://www.insee.fr/fr/information/2018861"
+    }
+  },
+  {
+    "id": "c885297375536cfc86ee9d8d1ff69574cba474c0",
+    "name": "direction_regionale_de_l_insee_ile_de_france",
+    "title": "Direction régionale de l'INSEE - Île-de-France",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/yvelines/dr_insee-78423-01",
+    "metadata": {
+      "email": "",
+      "telephone": "01 30 96 90 00",
+      "url": "https://www.insee.fr/fr/information/2017579"
+    }
+  },
+  {
+    "id": "21a00ece8b3b88d559b16abc00700f43c03b51ab",
+    "name": "direction_regionale_de_l_insee_normandie",
+    "title": "Direction régionale de l'INSEE - Normandie",
+    "url": "https://lannuaire.service-public.fr/normandie/calvados/dr_insee-14118-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 31 45 73 33",
+      "url": "https://www.insee.fr/fr/information/2018628"
+    }
+  },
+  {
+    "id": "c8d7b3ebb39e8a498543e1d91acb7068ba7e2c51",
+    "name": "direction_regionale_de_l_insee_nouvelle_aquitaine",
+    "title": "Direction régionale de l'INSEE - Nouvelle-Aquitaine",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/vienne/dr_insee-86194-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 49 30 01 01",
+      "url": "https://www.insee.fr/fr/information/2015341"
+    }
+  },
+  {
+    "id": "af38a3b7568f5f34587328a2fd87e8caae0cf59d",
+    "name": "direction_regionale_de_l_insee_occitanie",
+    "title": "Direction régionale de l'INSEE - Occitanie",
+    "url": "https://lannuaire.service-public.fr/occitanie/haute-garonne/dr_insee-31555-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 61 36 61 36",
+      "url": "http://www.insee.fr"
+    }
+  },
+  {
+    "id": "fed371e2efac37cc908858852ed863960d56e81d",
+    "name": "direction_regionale_de_l_insee_pays_de_la_loire",
+    "title": "Direction régionale de l'INSEE - Pays de la Loire",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/loire-atlantique/dr_insee-44109-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 40 41 75 75",
+      "url": "https://www.insee.fr/fr/information/2018886"
+    }
+  },
+  {
+    "id": "75bfbb38b01fcd50270f4dfa47c7b8e2b80c51f0",
+    "name": "direction_regionale_de_l_insee_provence_alpes_cote_d_azur",
+    "title": "Direction régionale de l'INSEE - Provence-Alpes-Côte d'Azur",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/dr_insee-13210-01",
+    "metadata": {
+      "email": "direction-regionale-paca@insee.fr",
+      "telephone": "04 91 17 57 57",
+      "url": "https://www.insee.fr/fr/information/2018944"
+    }
+  },
+  {
+    "id": "040e43477fc44a7cdc25a65f7f0880737028124f",
+    "name": "direction_regionale_de_l_insee_reunion_mayotte",
+    "title": "Direction régionale de l'INSEE - Réunion-Mayotte",
+    "url": "https://lannuaire.service-public.fr/la-reunion/reunion/dr_insee-97411-01",
+    "metadata": {
+      "email": "",
+      "telephone": "+262 2 62 48 89 00",
+      "url": "http://www.insee.fr/fr/regions"
+    }
+  },
+  {
+    "id": "e08149e827fc7fabdeb425043645fc1fb6047721",
+    "alternateName": "ISEE",
+    "name": "institut_de_la_statistique_et_des_etudes_economiques_isee_nouvelle_caledonie",
+    "title": "Institut de la statistique et des études économiques (ISEE) - Nouvelle-Calédonie",
+    "url": "https://lannuaire.service-public.fr/collectivites-d-outre-mer/nouvelle-caledonie/dr_insee-98818-01",
+    "metadata": {
+      "email": "oe@isee.nc",
+      "telephone": "+687 28 31 56",
+      "url": "http://www.isee.nc"
+    }
+  },
+  {
+    "id": "8866ec1805f0b3b6324f5e75640a45cdf68a86b5",
+    "name": "institut_de_la_statistique_de_la_polynesie_francaise",
+    "title": "Institut de la statistique de la Polynésie française",
+    "url": "https://lannuaire.service-public.fr/collectivites-d-outre-mer/polynesie-francaise/dr_insee-98735-01",
+    "metadata": {
+      "email": "ispf@ispf.pf",
+      "telephone": "+689 40 47 34 34",
+      "url": "http://www.ispf.pf"
+    }
+  },
+  {
+    "id": "7874260065fc89d86f1e92420410ac8f08e296d1",
+    "name": "service_regional_de_l_insee_guadeloupe",
+    "title": "Service régional de l'INSEE - Guadeloupe",
+    "url": "https://lannuaire.service-public.fr/guadeloupe/guadeloupe/dr_insee-97105-01",
+    "metadata": {
+      "email": "",
+      "telephone": "+590 5 90 21 47 00",
+      "url": "http://www.insee.fr/fr/regions"
+    }
+  },
+  {
+    "id": "40a0c20a62b4025655acc9c2d1bf0f9d30a958d8",
+    "name": "service_territorial_de_l_insee_guyane",
+    "title": "Service territorial de l'INSEE - Guyane",
+    "url": "https://lannuaire.service-public.fr/guyane/guyane/dr_insee-97302-01",
+    "metadata": {
+      "email": "guyane@insee.fr",
+      "telephone": "+594 5 94 29 73 00",
+      "url": "http://www.insee.fr/fr/regions"
+    }
+  },
+  {
+    "id": "02875ccbd839e7e1e20148407957e1c6f5444cc4",
+    "name": "service_territorial_de_l_insee_martinique",
+    "title": "Service territorial de l'INSEE - Martinique",
+    "url": "https://lannuaire.service-public.fr/martinique/martinique/dr_insee-97209-01",
+    "metadata": {
+      "email": "sr972-dir@insee.fr",
+      "telephone": "+596 5 96 60 73 73",
+      "url": "https://www.insee.fr/fr/information/2014026"
+    }
+  },
+  {
+    "id": "2d89c9729b87a794b19380092bd105959b208447",
+    "name": "service_territorial_de_la_statistique_et_des_etudes_economiques_wallis_et_futuna",
+    "title": "Service territorial de la statistique et des études économiques - Wallis-et-Futuna",
+    "url": "https://lannuaire.service-public.fr/collectivites-d-outre-mer/wallis-et-futuna/dr_insee-98613-01",
+    "metadata": {
+      "email": "",
+      "telephone": "+681 72 24 03",
+      "url": "http://www.statistique.wf"
+    }
+  }
+]

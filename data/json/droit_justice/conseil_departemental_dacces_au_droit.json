@@ -1,0 +1,1135 @@
+[
+  {
+    "id": "bac2c99868e975c7ebcca2e7014a917927df7c6d",
+    "name": "conseil_departemental_dacces_au_droit_des_alpes_de_haute_provence",
+    "title": "Conseil départemental d'accès au droit des Alpes de Haute Provence",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/alpes-de-haute-provence/cdad-04070-01",
+    "metadata": {
+      "email": "cdad04@orange.fr",
+      "telephone": "04 92 36 69 20",
+      "url": "http://www.cdad04.fr"
+    }
+  },
+  {
+    "id": "8bdf218bcd9e0ed0f2fa3b8fba8f0f16c99d2708",
+    "name": "conseil_departemental_dacces_au_droit_des_alpes_maritimes",
+    "title": "Conseil départemental d'accès au droit des Alpes Maritimes",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/alpes-maritimes/cdad-06088-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 92 17 71 16",
+      "url": "https://www.cdad06.fr/"
+    }
+  },
+  {
+    "id": "c575c919689943442e8e6d437d510fad9c232f18",
+    "name": "conseil_departemental_dacces_au_droit_des_ardennes",
+    "title": "Conseil départemental d'accès au droit des Ardennes",
+    "url": "https://lannuaire.service-public.fr/grand-est/ardennes/cdad-08105-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 24 55 00 26",
+      "url": ""
+    }
+  },
+  {
+    "id": "b421e683d82d9c358e091341dc46261f4a149f2f",
+    "name": "conseil_departemental_dacces_au_droit_du_bas_rhin",
+    "title": "Conseil départemental d'accès au droit du Bas-Rhin",
+    "url": "https://lannuaire.service-public.fr/grand-est/bas-rhin/cdad-67482-01",
+    "metadata": {
+      "email": "cdad-bas-rhin@justice.fr",
+      "telephone": "03 88 75 28 91",
+      "url": "http://www.cdad-basrhin.justice.fr"
+    }
+  },
+  {
+    "id": "cd9a1911b70f3baa3e3feae2b38629bb13cb3cd0",
+    "name": "conseil_departemental_dacces_au_droit_des_bouches_du_rhone",
+    "title": "Conseil départemental d'accès au droit des Bouches-du-Rhône",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/cdad-13206-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 91 15 53 92",
+      "url": ""
+    }
+  },
+  {
+    "id": "1fcdd4f9b076917070d4f32a4c379147f7205e2d",
+    "name": "conseil_departemental_dacces_au_droit_du_calvados",
+    "title": "Conseil départemental d'accès au droit du Calvados",
+    "url": "https://lannuaire.service-public.fr/normandie/calvados/cdad-14118-01",
+    "metadata": {
+      "email": "contact@cdad14.fr",
+      "telephone": "02 50 10 13 07",
+      "url": ""
+    }
+  },
+  {
+    "id": "37f3784903934effec7cf05ba0b2fff40995328a",
+    "name": "conseil_departemental_dacces_au_droit_du_cantal",
+    "title": "Conseil départemental d'accès au droit du Cantal",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/cantal/cdad-15014-01",
+    "metadata": {
+      "email": "cdad15@orange.fr",
+      "telephone": "04 71 45 59 59",
+      "url": "http://www.cdad15.fr/"
+    }
+  },
+  {
+    "id": "afe66d1fb2ef058b6a4ab8db067cb7cf20f4f617",
+    "name": "conseil_departemental_dacces_au_droit_de_charente",
+    "title": "Conseil départemental d'accès au droit de Charente",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/charente/cdad-16015-01",
+    "metadata": {
+      "email": "Cdad.charente@orange.fr",
+      "telephone": "05 45 37 11 00",
+      "url": "https://www.cdad-charente.fr/"
+    }
+  },
+  {
+    "id": "ece2f8266259e1a20dd4ae583ffcec40a285ae3a",
+    "name": "conseil_departemental_dacces_au_droit_du_cher",
+    "title": "Conseil départemental d'accès au droit du Cher",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/cher/cdad-18033-01",
+    "metadata": {
+      "email": "cdad-cher@justice.fr",
+      "telephone": "02 48 68 33 83",
+      "url": "https://cdad18.fr/"
+    }
+  },
+  {
+    "id": "63757addf24762b83bcb67b8cb98d5ef90ccbaf6",
+    "name": "conseil_departemental_dacces_au_droit_de_corse_du_sud",
+    "title": "Conseil départemental d'accès au droit de Corse du Sud",
+    "url": "https://lannuaire.service-public.fr/corse/corse-du-sud/cdad-2A004-01",
+    "metadata": {
+      "email": "cdad-corse-du-sud@justice.fr",
+      "telephone": "",
+      "url": "https://www.cdad-2a.com/"
+    }
+  },
+  {
+    "id": "685f7a92e9ef517cb89a80492ad22c968f9eb398",
+    "name": "conseil_departemental_dacces_au_droit_des_cotes_d_armor",
+    "title": "Conseil départemental d'accès au droit des Côtes d'Armor",
+    "url": "https://lannuaire.service-public.fr/bretagne/cotes-d-armor/cdad-22278-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 96 62 30 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "a264c9b1c9b26d47ef4b07dbaabbdbbb42e64464",
+    "name": "conseil_departemental_dacces_au_droit_des_deux_sevres",
+    "title": "Conseil départemental d'accès au droit des Deux-Sèvres",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/deux-sevres/cdad-79191-01",
+    "metadata": {
+      "email": "cdad-deux-sevres@justice.fr",
+      "telephone": "05 49 77 22 56",
+      "url": ""
+    }
+  },
+  {
+    "id": "b166b8a7434db5aa89f5bdb11c14f985a811ec92",
+    "name": "conseil_departemental_dacces_au_droit_de_dordogne",
+    "title": "Conseil départemental d'accès au droit de Dordogne",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/dordogne/cdad-24322-01",
+    "metadata": {
+      "email": "cdad-dordogne@wanadoo.fr",
+      "telephone": "05 53 02 77 00",
+      "url": "http://cdad-dordogne.fr/"
+    }
+  },
+  {
+    "id": "b277e81ad883b69d69a51e64d5a161a652f2d871",
+    "name": "conseil_departemental_dacces_au_droit_du_doubs",
+    "title": "Conseil départemental d'accès au droit du Doubs",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/doubs/cdad-25056-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 81 65 19 37",
+      "url": "https://cdad.doubs.fr/"
+    }
+  },
+  {
+    "id": "55d76198f42b3423dc663539800b2bfd0a60ed08",
+    "name": "conseil_departemental_dacces_au_droit_du_finistere",
+    "title": "Conseil départemental d'accès au droit du Finistère",
+    "url": "https://lannuaire.service-public.fr/bretagne/finistere/cdad-29232-01",
+    "metadata": {
+      "email": "cdad-finistere@justice.fr",
+      "telephone": "02 98 82 88 00",
+      "url": "https://infosociale.finistere.fr/etablissement/cdad-conseil-departemental-dacces-au-droit-du-finistere-quimper/"
+    }
+  },
+  {
+    "id": "a52a5d25530c30a0eb0568be7203341470129778",
+    "name": "conseil_departemental_dacces_au_droit_du_gard",
+    "title": "Conseil départemental d'accès au droit du Gard",
+    "url": "https://lannuaire.service-public.fr/occitanie/gard/cdad-30189-01",
+    "metadata": {
+      "email": "cdad.gard@justice.fr",
+      "telephone": "04 66 76 48 90",
+      "url": "https://www.cdad-gard.justice.fr/"
+    }
+  },
+  {
+    "id": "b6a569babbe044583b53b7df85b2da9a7d0b09b7",
+    "name": "conseil_departemental_dacces_au_droit_du_gers",
+    "title": "Conseil départemental d'accès au droit du Gers",
+    "url": "https://lannuaire.service-public.fr/occitanie/gers/cdad-32013-01",
+    "metadata": {
+      "email": "cdad-gers@justice.fr",
+      "telephone": "05 62 61 67 27",
+      "url": "http://www.cdad32.com/templates/cdad32.php"
+    }
+  },
+  {
+    "id": "bebabdcc6f8ec15cc5d4fa250ed7fec965843415",
+    "name": "conseil_departemental_dacces_au_droit_de_gironde",
+    "title": "Conseil départemental d'accès au droit de Gironde",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/gironde/cdad-33063-01",
+    "metadata": {
+      "email": "cdad-gironde@justice.fr",
+      "telephone": "05 47 33 91 17",
+      "url": "http://www.cdad-gironde.justice.fr/"
+    }
+  },
+  {
+    "id": "f5a55a5c27aedfb03798ebba3beea9cd9325723d",
+    "name": "conseil_departemental_dacces_au_droit_de_guadeloupe",
+    "title": "Conseil départemental d'accès au droit de Guadeloupe",
+    "url": "https://lannuaire.service-public.fr/guadeloupe/guadeloupe/cdad-97105-02",
+    "metadata": {
+      "email": "cdad-guadeloupe@justice.fr",
+      "telephone": "05 90 80 63 63",
+      "url": ""
+    }
+  },
+  {
+    "id": "4c88976bc0e5daec0ce2fccea17cf756e0b346ae",
+    "name": "conseil_departemental_dacces_au_droit_de_guyane",
+    "title": "Conseil départemental d'accès au droit de Guyane",
+    "url": "https://lannuaire.service-public.fr/guyane/guyane/cdad-97302-01",
+    "metadata": {
+      "email": "cdad.guyane@orange.fr",
+      "telephone": "",
+      "url": ""
+    }
+  },
+  {
+    "id": "d022a5631b4eab64e4c2e2778079a60e13c396b6",
+    "name": "conseil_departemental_dacces_au_droit_de_haute_corse",
+    "title": "Conseil départemental d'accès au droit de Haute Corse",
+    "url": "https://lannuaire.service-public.fr/corse/haute-corse/cdad-2B033-01",
+    "metadata": {
+      "email": "cdad-haute-corse@justice.fr",
+      "telephone": "04 95 55 23 00",
+      "url": "http://www.ca-bastia.justice.fr/"
+    }
+  },
+  {
+    "id": "429ed67b738c3962ca185275c1fbcd4b21e0f780",
+    "name": "conseil_departemental_dacces_au_droit_de_haute_loire",
+    "title": "Conseil départemental d'accès au droit de HauteLoire",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/haute-loire/cdad-43157-01",
+    "metadata": {
+      "email": "cdad-haute-loire@justice.fr",
+      "telephone": "04 71 09 05 70",
+      "url": "http://cdad-43.fr/"
+    }
+  },
+  {
+    "id": "4a09d888e4ffbdcaa24c1868d460f0aa9dcc9cee",
+    "name": "conseil_departemental_dacces_au_droit_des_hautes_alpes",
+    "title": "Conseil départemental d'accès au droit des Hautes-Alpes",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/hautes-alpes/cdad-05061-01",
+    "metadata": {
+      "email": "Cdad05@sfr.fr",
+      "telephone": "04 92 40 70 54",
+      "url": "https://www.cdad05.fr/"
+    }
+  },
+  {
+    "id": "7ab9ea2b24033b532ce4bbf09858c5174a61ff55",
+    "name": "conseil_departemental_dacces_au_droit_de_haute_savoie",
+    "title": "Conseil départemental d'accès au droit de Haute-Savoie",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/haute-savoie/cdad-74010-01",
+    "metadata": {
+      "email": "cdad-haute-savoie@justice.fr",
+      "telephone": "04 50 10 17 00",
+      "url": "http://www.cdad-savoie.justice.fr/"
+    }
+  },
+  {
+    "id": "a3ef6defec4f93831c27ea7c3e7543b813352af3",
+    "name": "conseil_departemental_dacces_au_droit_des_hautes_pyrenees",
+    "title": "Conseil départemental d'accès au droit des HautesPyrénées",
+    "url": "https://lannuaire.service-public.fr/occitanie/hautes-pyrenees/cdad-65440-01",
+    "metadata": {
+      "email": "cdad65@orange.fr",
+      "telephone": "05 62 34 96 73",
+      "url": "http://www.cdad-hautespyrenees.justice.fr/templates/cdad65.php"
+    }
+  },
+  {
+    "id": "311e9a3cd6de4b591c586d29606f100ef223c223",
+    "name": "conseil_departemental_dacces_au_droit_de_haute_vienne",
+    "title": "Conseil départemental d'accès au droit de Haute-Vienne",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/haute-vienne/cdad-87085-01",
+    "metadata": {
+      "email": "cdad-haute-vienne@justice.fr",
+      "telephone": "05 55 11 81 96",
+      "url": "http://www.cdad-hautevienne.justice.fr/"
+    }
+  },
+  {
+    "id": "e51319414266798849a6af9685c74f932beef1ad",
+    "name": "conseil_departemental_dacces_au_droit_du_haut_rhin",
+    "title": "Conseil départemental d'accès au droit du Haut-Rhin",
+    "url": "https://lannuaire.service-public.fr/grand-est/haut-rhin/cdad-68066-01",
+    "metadata": {
+      "email": "cdad-haut-rhin@justice.fr",
+      "telephone": "03 89 20 56 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "dac2743d003187e30f29bb0e325265b32e1316cb",
+    "name": "conseil_departemental_dacces_au_droit_des_hauts_de_seine",
+    "title": "Conseil départemental d'accès au droit des Hauts-de-Seine",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/hauts-de-seine/cdad-92050-01",
+    "metadata": {
+      "email": "cdad-hauts-de-seine@justice.fr",
+      "telephone": "01 40 97 12 79",
+      "url": "http://www.cdad-hautsdeseine.justice.fr/"
+    }
+  },
+  {
+    "id": "b0a7de9924f0cec824c675273336e45e354a9518",
+    "name": "conseil_departemental_dacces_au_droit_d_ille_et_vilaine",
+    "title": "Conseil départemental d'accès au droit d'Ille et Vilaine",
+    "url": "https://lannuaire.service-public.fr/bretagne/ille-et-vilaine/cdad-35238-01",
+    "metadata": {
+      "email": "cdad.ille-et-vilaine@justice.fr",
+      "telephone": "02 23 44 85 78",
+      "url": "https://www.cdad-illeetvilaine.justice.fr/"
+    }
+  },
+  {
+    "id": "6853788de3155c298439a6292fe47b6e35372b28",
+    "name": "conseil_departemental_dacces_au_droit_du_jura",
+    "title": "Conseil départemental d'accès au droit du Jura",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/jura/cdad-39300-01",
+    "metadata": {
+      "email": "cdad-jura@orange.fr",
+      "telephone": "03 84 47 19 46",
+      "url": ""
+    }
+  },
+  {
+    "id": "3daa7f583abb2b1ce526b98a69c66e0dd0aec4d5",
+    "name": "conseil_departemental_dacces_au_droit_de_l_ain",
+    "title": "Conseil départemental d'accès au droit de l'Ain",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/ain/cdad-01053-01",
+    "metadata": {
+      "email": "cdad-Ain@justice.fr",
+      "telephone": "04 74 14 01 43",
+      "url": "https://cdad-ain.fr/"
+    }
+  },
+  {
+    "id": "297047b6b508a1f6f978769442c7ac4dd1448feb",
+    "name": "conseil_departemental_dacces_au_droit_de_l_aisne",
+    "title": "Conseil départemental d'accès au droit de l'Aisne",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/aisne/cdad-02408-01",
+    "metadata": {
+      "email": "cdad-aisne@justice.fr",
+      "telephone": "03 60 81 30 10",
+      "url": "https://www.cdad-aisne.justice.fr"
+    }
+  },
+  {
+    "id": "c113bf14a98e464bf01583d331a1ee0648238707",
+    "name": "conseil_departemental_dacces_au_droit_de_l_allier",
+    "title": "Conseil départemental d'accès au droit de l'Allier",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/allier/cdad-03190-01",
+    "metadata": {
+      "email": "cdad-allier@justice.fr",
+      "telephone": "04 70 35 17 48",
+      "url": ""
+    }
+  },
+  {
+    "id": "bf85b1f8ce045e882c84cd0a3e84221b35ddd31d",
+    "name": "conseil_departemental_dacces_au_droit_de_l_ardeche",
+    "title": "Conseil départemental d'accès au droit de l'Ardèche",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/ardeche/cdad-07186-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 75 66 40 28",
+      "url": "https://www.cdad07.fr/"
+    }
+  },
+  {
+    "id": "2d8094f37f6a0034624daa2012c197715a522c4e",
+    "name": "conseil_departemental_dacces_audroit_de_l_ariege",
+    "title": "Conseil départemental d'accès audroit de l'Ariège",
+    "url": "https://lannuaire.service-public.fr/occitanie/ariege/cdad-09122-01",
+    "metadata": {
+      "email": "cdad-ariege@justice.fr",
+      "telephone": "05 61 02 19 34",
+      "url": "https://www.la-tour-du-crieu.fr/CDAD09.html"
+    }
+  },
+  {
+    "id": "0ceefcf13182413c8fdf62cbff973c945ddc83df",
+    "name": "conseil_departemental_dacces_au_droit_de_l_aube",
+    "title": "Conseil départemental d'accès au droit de l'Aube",
+    "url": "https://lannuaire.service-public.fr/grand-est/aube/cdad-10387-01",
+    "metadata": {
+      "email": "cdad-aube@justice.fr",
+      "telephone": "03 25 83 18 90",
+      "url": ""
+    }
+  },
+  {
+    "id": "5f72b7e5f868cf4269ba22c50a91e71be250f78d",
+    "name": "conseil_departemental_dacces_au_droit_de_l_aude",
+    "title": "Conseil départemental d'accès au droit de l'Aude",
+    "url": "https://lannuaire.service-public.fr/occitanie/aude/cdad-11069-01",
+    "metadata": {
+      "email": "cdad-aude@justice.fr",
+      "telephone": "04 68 47 00 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "8885570d64a939150b1fdd53788396dfc118d971",
+    "name": "conseil_departemental_dacces_au_droit_de_l_aveyron",
+    "title": "Conseil départemental d'accès au droit de l'Aveyron",
+    "url": "https://lannuaire.service-public.fr/occitanie/aveyron/cdad-12202-01",
+    "metadata": {
+      "email": "cdad-aveyron@justice.fr",
+      "telephone": "05 65 73 43 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "fbec022e2c77993f080579c0c08012b9daef8e07",
+    "name": "conseil_departemental_dacces_au_droit_de_l_essonne",
+    "title": "Conseil départemental d'accès au droit de l'Essonne",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/essonne/cdad-91228-01",
+    "metadata": {
+      "email": "",
+      "telephone": "01 60 76 78 90",
+      "url": ""
+    }
+  },
+  {
+    "id": "9eff469ae6a9b1499ca9f37432eaae6c03599aaa",
+    "name": "conseil_departemental_dacces_au_droit_de_l_eure",
+    "title": "Conseil départemental d'accès au droit de l'Eure",
+    "url": "https://lannuaire.service-public.fr/normandie/eure/cdad-27229-01",
+    "metadata": {
+      "email": "cdad-eure@justice.fr",
+      "telephone": "02 32 29 55 98",
+      "url": "http://www.cdad-eure.justice.fr/"
+    }
+  },
+  {
+    "id": "74f99595427a4363e43a1758f39ca54694f51eac",
+    "name": "conseil_departemental_dacces_au_droit_de_l_eure_et_loir",
+    "title": "Conseil départemental d'accès au droit de l'Eure-et-Loir",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/eure-et-loir/cdad-28085-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 37 18 77 71",
+      "url": ""
+    }
+  },
+  {
+    "id": "9651a18f065df4c79851b407d218f222c7ac8174",
+    "name": "conseil_departemental_dacces_au_droit_de_l_herault",
+    "title": "Conseil départemental d'accès au droit de l'Hérault",
+    "url": "https://lannuaire.service-public.fr/occitanie/herault/cdad-34172-01",
+    "metadata": {
+      "email": "cdad-herault@justice.fr",
+      "telephone": "04 67 12 62 98",
+      "url": "http://www.cdad-herault.justice.fr/"
+    }
+  },
+  {
+    "id": "8cfab72ced4066d4c599ade05989a14dcb60e0e1",
+    "name": "conseil_departemental_dacces_au_droit_de_l_indre",
+    "title": "Conseil départemental d'accès au droit de l'Indre",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/indre/cdad-36044-01",
+    "metadata": {
+      "email": "cdad-indre@justice.fr",
+      "telephone": "02 54 60 35 35",
+      "url": "http://www.cdad-indre.justice.fr/"
+    }
+  },
+  {
+    "id": "db18802cd934c3520af903f9611b0bc37a754b9b",
+    "name": "conseil_departemental_dacces_au_droit_de_l_indre_et_loire",
+    "title": "Conseil départemental d'accès au droit de l'Indre et Loire",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/indre-et-loire/cdad-37261-01",
+    "metadata": {
+      "email": "cdad37@voila.fr",
+      "telephone": "02 47 60 27 06",
+      "url": "http://cdad37.fr/"
+    }
+  },
+  {
+    "id": "980d030ec365a2288a55370641f173b3da48c394",
+    "name": "conseil_departemental_dacces_au_droit_de_l_isere",
+    "title": "Conseil départemental d'accès au droit de l'Isère",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/isere/cdad-38185-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 38 21 24 20",
+      "url": ""
+    }
+  },
+  {
+    "id": "ce35bc777a21e28aa4b992906cb92976f7580b4a",
+    "name": "conseil_departemental_dacces_au_droit_de_l_oise",
+    "title": "Conseil départemental d'accès au droit de l'Oise",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/oise/cdad-60057-01",
+    "metadata": {
+      "email": "numerovertjustice.oise@wanadoo.fr",
+      "telephone": "03 44 52 07 89",
+      "url": ""
+    }
+  },
+  {
+    "id": "7c18d9ed2fd0cea99eb572a193fafeaf8a29407b",
+    "name": "conseil_departemental_dacces_au_droit_de_l_orne",
+    "title": "Conseil départemental d'accès au droit de l'Orne",
+    "url": "https://lannuaire.service-public.fr/normandie/orne/cdad-61001-01",
+    "metadata": {
+      "email": "cdad.orne@gmail.com",
+      "telephone": "02 33 32 08 80",
+      "url": ""
+    }
+  },
+  {
+    "id": "b014916e667c668d1180d85cdd8229fe332f0055",
+    "name": "conseil_departemental_dacces_au_droit_de_l_yonne",
+    "title": "Conseil départemental d'accès au droit de l'Yonne",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/yonne/cdad-89024-01",
+    "metadata": {
+      "email": "cdad-yonne@justice.fr",
+      "telephone": "03 86 72 30 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "66b60721965fb7cf78fbf04cda3f6164ca8491fb",
+    "name": "conseil_departemental_dacces_au_droit_de_la_charente_maritime",
+    "title": "Conseil départemental d'accès au droit de la Charente Maritime",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/charente-maritime/cdad-17300-01",
+    "metadata": {
+      "email": "cdad-charente-maritime@justice.fr",
+      "telephone": "05 46 50 87 10",
+      "url": ""
+    }
+  },
+  {
+    "id": "7a502877590ee439961528ade1396cc70458f06f",
+    "name": "conseil_departemental_dacces_au_droit_de_la_correze",
+    "title": "Conseil départemental d'accès au droit de la Corrèze",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/correze/cdad-19272-01",
+    "metadata": {
+      "email": "cdad-correze@justice.fr",
+      "telephone": "05 55 20 30 06",
+      "url": ""
+    }
+  },
+  {
+    "id": "6b114ace7d3a283a90413492f7d5260ce059bb48",
+    "name": "conseil_departemental_dacces_au_droit_de_la_cote_d_or",
+    "title": "Conseil départemental d'accès au droit de la Côte d'Or",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/cote-d-or/cdad-21231-01",
+    "metadata": {
+      "email": "cdad-21@justice.fr",
+      "telephone": "03 80 70 45 87",
+      "url": "https://cdad-cotedor.justice.fr/"
+    }
+  },
+  {
+    "id": "c12a3c9b75b0db17a91ecc2d3c8246827967ee06",
+    "name": "conseil_departemental_dacces_au_droit_de_la_creuse",
+    "title": "Conseil départemental d'accès au droit de laCreuse",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/creuse/cdad-23096-01",
+    "metadata": {
+      "email": "cdad-creuse@justice.fr",
+      "telephone": "05 55 51 93 59",
+      "url": "http://www.cdad-creuse.justice.fr/"
+    }
+  },
+  {
+    "id": "8b71bc02d97b8fe99fca428d2961ce06cffd690d",
+    "name": "conseil_departemental_dacces_au_droit_de_la_drome",
+    "title": "Conseil départemental d'accès au droit de la Drôme",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/drome/cdad-26362-01",
+    "metadata": {
+      "email": "cdad26@gmail.com",
+      "telephone": "04 75 75 49 30",
+      "url": "https://www.cdad26.fr/"
+    }
+  },
+  {
+    "id": "48ace260e2fb3548ebaf47ff8b70037be13221be",
+    "name": "conseil_departemental_dacces_au_droit_de_la_haute_garonne",
+    "title": "Conseil départemental d'accès au droit de la Haute Garonne",
+    "url": "https://lannuaire.service-public.fr/occitanie/haute-garonne/cdad-31555-01",
+    "metadata": {
+      "email": "Cdad-haute-garonne@justice.fr",
+      "telephone": "05 61 33 70 88",
+      "url": "http://www.cdad-hautegaronne.justice.fr"
+    }
+  },
+  {
+    "id": "6ca8eb85766554d5604ff77288b7015b015cb359",
+    "name": "conseil_departemental_dacces_au_droit_de_la_haute_marne",
+    "title": "Conseil départemental d'accès au droit de la Haute-Marne",
+    "url": "https://lannuaire.service-public.fr/grand-est/haute-marne/cdad-52121-01",
+    "metadata": {
+      "email": "cdad-haute-marne@justice.fr",
+      "telephone": "03 25 32 84 20",
+      "url": ""
+    }
+  },
+  {
+    "id": "12e7bc1b1a26a2282e1160199e4501bc9c33d18c",
+    "name": "conseil_departemental_dacces_au_droit_de_la_haute_saone",
+    "title": "Conseil départemental d'accès au droit de la Haute Saône",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/haute-saone/cdad-70550-01",
+    "metadata": {
+      "email": "cdad-ht-saone@justice.fr",
+      "telephone": "03 84 78 58 21",
+      "url": ""
+    }
+  },
+  {
+    "id": "a3df9cc9c6d9f46e7f51b46e495f6ee00b2e2805",
+    "name": "conseil_departemental_dacces_au_droit_de_la_loire",
+    "title": "Conseil départemental d'accès au droit de la Loire",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/loire/cdad-42218-01",
+    "metadata": {
+      "email": "Cdad.loire@wanadoo.fr",
+      "telephone": "04 77 33 61 46",
+      "url": "http://www.cdad-loire.justice.fr/"
+    }
+  },
+  {
+    "id": "59c783b414fe5039e4e6c080d09ce30f003a24bf",
+    "name": "conseil_departemental_dacces_au_droit_de_la_lozere",
+    "title": "Conseil départemental d'accès au droit de la Lozère",
+    "url": "https://lannuaire.service-public.fr/occitanie/lozere/cdad-48095-02",
+    "metadata": {
+      "email": "",
+      "telephone": "04 66 65 28 11",
+      "url": ""
+    }
+  },
+  {
+    "id": "0984b7ff3175a7145d9e837b2944220e8abeb7b2",
+    "name": "conseil_departemental_dacces_au_droit_de_la_manche",
+    "title": "Conseil départemental d'accès au droit de la Manche",
+    "url": "https://lannuaire.service-public.fr/normandie/manche/cdad-50502-01",
+    "metadata": {
+      "email": "cdadmanche@yahoo.fr",
+      "telephone": "02 33 72 87 24",
+      "url": "http://www.cdad-manche.justice.fr/"
+    }
+  },
+  {
+    "id": "48ebc7d9534012373807eaf9377c3221fcf7f71d",
+    "name": "conseil_departemental_dacces_au_droit_de_la_marne",
+    "title": "Conseil départemental d'accès au droit de la Marne",
+    "url": "https://lannuaire.service-public.fr/grand-est/marne/cdad-51108-01",
+    "metadata": {
+      "email": "cdad-marne@justice.fr",
+      "telephone": "03 26 69 36 96",
+      "url": "https://www.cdad-marne.fr/"
+    }
+  },
+  {
+    "id": "2eac295d3bb9139cf1f9d0c2328bd9d1743c8acc",
+    "name": "conseil_departemental_dacces_au_droit_de_la_meuse",
+    "title": "Conseil départemental d'accès au droit de la Meuse",
+    "url": "https://lannuaire.service-public.fr/grand-est/meuse/cdad-55029-01",
+    "metadata": {
+      "email": "cdad-meuse@justice.fr",
+      "telephone": "03 29 79 02 95",
+      "url": ""
+    }
+  },
+  {
+    "id": "17a7d15e943861bea08e983fb342fca949a6db34",
+    "name": "conseil_departemental_dacces_au_droit_des_landes",
+    "title": "Conseil départemental d'accès au droit des Landes",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/landes/cdad-40192-01",
+    "metadata": {
+      "email": "cdadlandes@orange.fr",
+      "telephone": "05 58 06 94 93",
+      "url": "https://www.cdad-landes.justice.fr/"
+    }
+  },
+  {
+    "id": "fdb6d9a556b6a9468b6e27cbc3bdb55f1f3b0e4a",
+    "name": "conseil_departemental_dacces_au_droit_de_la_nievre",
+    "title": "Conseil départemental d'accès au droit de la Nièvre",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/nievre/cdad-58194-01",
+    "metadata": {
+      "email": "cdad-nievre@justice.fr",
+      "telephone": "03 86 93 44 02",
+      "url": "https://cdad-nievre.fr/"
+    }
+  },
+  {
+    "id": "184f50bbbb0e9552bc2a00cf19395a55d38b3f8d",
+    "name": "conseil_departemental_dacces_au_droit_de_la_reunion",
+    "title": "Conseil départemental d'accès au droit de La Réunion",
+    "url": "https://lannuaire.service-public.fr/la-reunion/reunion/cdad-97411-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 62 40 23 45",
+      "url": ""
+    }
+  },
+  {
+    "id": "75f15a1c6e6131bd593e23660856ba253333ca56",
+    "name": "conseil_departemental_dacces_au_droit_de_la_saone_et_loire",
+    "title": "Conseil départemental d'accès au droit de la Saône-et-Loire",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/saone-et-loire/cdad-71270-01",
+    "metadata": {
+      "email": "cdad-saone-et-loire@justice.fr",
+      "telephone": "03 85 39 92 03",
+      "url": "https://www.cdad71.fr/"
+    }
+  },
+  {
+    "id": "a172af87f3d7b08b1fcccbd6cd26fc13c9f4d6c0",
+    "name": "conseil_departemental_dacces_au_droit_de_la_somme",
+    "title": "Conseil départemental d'accès au droit de la Somme",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/somme/cdad-80021-01",
+    "metadata": {
+      "email": "Cdad80@yahoo.fr",
+      "telephone": "03 22 45 03 51",
+      "url": "https://cdad-somme.fr/"
+    }
+  },
+  {
+    "id": "0440904efcab1dd3d9c395f5a9bb02baceaa6257",
+    "name": "conseil_departemental_dacces_au_droit_de_la_vienne",
+    "title": "Conseil départemental d'accès au droit de la Vienne",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/vienne/cdad-86194-01",
+    "metadata": {
+      "email": "cdad-vienne@justice.fr",
+      "telephone": "05 16 08 04 40",
+      "url": ""
+    }
+  },
+  {
+    "id": "0783daeb522bf89e6fc1fa298af03dd5d02b6550",
+    "name": "conseil_departemental_dacces_au_droit_de_loire_atlantique",
+    "title": "Conseil départemental d'accès au droit de Loire Atlantique",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/loire-atlantique/cdad-44109-01",
+    "metadata": {
+      "email": "cdad-loire-atlantique@justice.fr",
+      "telephone": "02 51 17 96 95",
+      "url": ""
+    }
+  },
+  {
+    "id": "f785294ac04c25a768ee15d4e63246f2f834681f",
+    "name": "conseil_departemental_dacces_au_droit_du_loiret",
+    "title": "Conseil départemental d'accès au droit du Loiret",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/loiret/cdad-45234-01",
+    "metadata": {
+      "email": "cdad-loiret@justice.fr",
+      "telephone": "02 38 69 01 22",
+      "url": "http://www.cdad-loiret.fr/index.php"
+    }
+  },
+  {
+    "id": "984c7026cac5760b9c7d11beecb6c3fb4b9245f5",
+    "name": "conseil_departemental_dacces_au_droit_du_loir_et_cher",
+    "title": "Conseil départemental d'accès au droit du Loir et Cher",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/loir-et-cher/cdad-41018-01",
+    "metadata": {
+      "email": "contact@cdad41.org",
+      "telephone": "02 34 89 13 00",
+      "url": "https://www.cdad41.org/"
+    }
+  },
+  {
+    "id": "3b51083f43593b6342a26d9a5076821081a1b612",
+    "name": "conseil_departemental_dacces_au_droit_du_lot",
+    "title": "Conseil départemental d'accès au droit du Lot",
+    "url": "https://lannuaire.service-public.fr/occitanie/lot/cdad-46042-01",
+    "metadata": {
+      "email": "cdad-lot@orange.fr",
+      "telephone": "07 87 06 35 01",
+      "url": "http://www.cdad-lot.justice.fr/"
+    }
+  },
+  {
+    "id": "d26a0b3ea1be161eade94f71ae0eb93364cc65fe",
+    "name": "conseil_departemental_dacces_au_droit_du_lot_et_garonne",
+    "title": "Conseil départemental d'accès au droit du Lot-et-Garonne",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/lot-et-garonne/cdad-47001-01",
+    "metadata": {
+      "email": "cdad-lot-et-garonne@justice.fr",
+      "telephone": "06 13 91 56 67",
+      "url": "http://www.cdad47.info/cdad47-lot-et-garonne-1"
+    }
+  },
+  {
+    "id": "0a0748331e7c9335c7f265bca01dde1e52ded83c",
+    "name": "conseil_departemental_dacces_au_droit_de_lozere",
+    "title": "Conseil départemental d'accès au droit de Lozère",
+    "url": "https://lannuaire.service-public.fr/occitanie/lozere/cdad-48095-01",
+    "metadata": {
+      "email": "cdad-lozere@justice.fr",
+      "telephone": "",
+      "url": ""
+    }
+  },
+  {
+    "id": "b04ffc38fd90c8ec225b76f51184a13fcea18cea",
+    "name": "conseil_departemental_dacces_au_droit_du_maine_et_loire",
+    "title": "Conseil départemental d'accès au droit du Maine et Loire",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/maine-et-loire/cdad-49007-01",
+    "metadata": {
+      "email": "cdad-maine-et-loire@justice.fr",
+      "telephone": "02 41 20 52 59",
+      "url": "http://www.cdad-maineetloire.justice.fr/"
+    }
+  },
+  {
+    "id": "7ea112d92ba1a6a5c85358f8c9a251ff2bb380ef",
+    "name": "conseil_departemental_dacces_au_droit_de_martinique",
+    "title": "Conseil départemental d'accès au droit de Martinique",
+    "url": "https://lannuaire.service-public.fr/martinique/martinique/cdad-97209-01",
+    "metadata": {
+      "email": "cdad-martinique@orange.fr",
+      "telephone": "05 96 48 42 44",
+      "url": ""
+    }
+  },
+  {
+    "id": "e15b809b4389a1232bc45f206d1b6f4ff3b87782",
+    "name": "conseil_departemental_dacces_au_droit_de_mayenne",
+    "title": "Conseil départemental d'accès au droit de Mayenne",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/mayenne/cdad-53130-01",
+    "metadata": {
+      "email": "cdad-mayenne@justice.fr",
+      "telephone": "02 43 49 57 00",
+      "url": "http://www.cdad-mayenne.fr/"
+    }
+  },
+  {
+    "id": "31b0a41cb88ba0312f3855f9943a75368f3e5ff0",
+    "name": "conseil_departemental_dacces_au_droit_de_mayotte",
+    "title": "Conseil départemental d'accès au droit de Mayotte",
+    "url": "https://lannuaire.service-public.fr/mayotte/mayotte/cdad-97611-01",
+    "metadata": {
+      "email": "cdad-mayotte@justice.fr",
+      "telephone": "02 69 61 11 15",
+      "url": ""
+    }
+  },
+  {
+    "id": "d6a06afc04cf8a0cee7e21d00e966af5250c0555",
+    "name": "conseil_departemental_dacces_au_droit_de_meurthe_et_moselle",
+    "title": "Conseil départemental d'accès au droit de Meurthe et Moselle",
+    "url": "https://lannuaire.service-public.fr/grand-est/meurthe-et-moselle/cdad-54395-01",
+    "metadata": {
+      "email": "cdad-nancy@wanadoo.fr",
+      "telephone": "03 83 90 85 00",
+      "url": "https://www.cdad-meurtheetmoselle.justice.fr/"
+    }
+  },
+  {
+    "id": "95537d7716c1dcaa412f5b7991ccf6a1c1931689",
+    "name": "conseil_departemental_dacces_au_droit_du_morbihan",
+    "title": "Conseil départemental d'accès au droit du Morbihan",
+    "url": "https://lannuaire.service-public.fr/bretagne/morbihan/cdad-56260-01",
+    "metadata": {
+      "email": "cdad-morbihan@justice.fr",
+      "telephone": "02 90 99 30 06",
+      "url": "https://cdad-morbihan.fr/"
+    }
+  },
+  {
+    "id": "17fd8d987e89ddc0715b5473c7aeed1ad8d99e89",
+    "name": "conseil_departemental_dacces_au_droit_de_moselle",
+    "title": "Conseil départemental d'accès au droit de Moselle",
+    "url": "https://lannuaire.service-public.fr/grand-est/moselle/cdad-57463-01",
+    "metadata": {
+      "email": "cdad-moselle@justice.fr",
+      "telephone": "03 87 56 76 00",
+      "url": "http://www.cdad-moselle.justice.fr/"
+    }
+  },
+  {
+    "id": "2db59923bf31df4b0e6aa476ce60e91b4baf4d8b",
+    "name": "conseil_departemental_dacces_au_droit_du_nord",
+    "title": "Conseil départemental d'accès au droit du Nord",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/nord/cdad-59350-01",
+    "metadata": {
+      "email": "cdad-nord@justice.fr",
+      "telephone": "03 20 78 34 14",
+      "url": "https://www.cdad-nord.justice.fr/"
+    }
+  },
+  {
+    "id": "f32ac467dabac37afce4d8f923985e81451e4fe8",
+    "name": "conseil_departemental_dacces_au_droit_de_paris",
+    "title": "Conseil départemental d'accès au droit de Paris",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/paris/cdad-75117-01",
+    "metadata": {
+      "email": "",
+      "telephone": "01 44 32 65 26",
+      "url": ""
+    }
+  },
+  {
+    "id": "f40a5e3de82bcd7784b619fa3a33eae9f3ac469e",
+    "name": "conseil_departemental_dacces_au_droit_du_pas_de_calais",
+    "title": "Conseil départemental d'accès au droit du Pas-de-Calais",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/pas-de-calais/cdad-62041-01",
+    "metadata": {
+      "email": "cdad-pas-de-calais@justice.fr",
+      "telephone": "03 21 51 88 53",
+      "url": "https://www.cdad-pasdecalais.justice.fr/c/26/2/arras.html"
+    }
+  },
+  {
+    "id": "9597ca4f5a65048eaa89f853fa50f298ec111cc8",
+    "name": "conseil_departemental_dacces_au_droit_du_puy_de_dome",
+    "title": "Conseil départemental d'accès au droit du Puy-de-Dôme",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/puy-de-dome/cdad-63113-01",
+    "metadata": {
+      "email": "cdad-puy-de-dome@justice.fr",
+      "telephone": "04 73 31 79 35",
+      "url": "http://www.cdad63.com/"
+    }
+  },
+  {
+    "id": "68e26c91fa68ad4c9c4beeb105d5409af78ea8be",
+    "name": "conseil_departemental_dacces_au_droit_des_pyrenees_atlantiques",
+    "title": "Conseil départemental d'accès au droit des PyrénéesAtlantiques",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/pyrenees-atlantiques/cdad-64445-01",
+    "metadata": {
+      "email": "Cdad64@wanadoo.fr",
+      "telephone": "05 59 98 07 65",
+      "url": "http://www.cdad-pyreneesatlantiques.justice.fr/templates/cdad64.php"
+    }
+  },
+  {
+    "id": "3f8849e725c110e0a59655722d37b9035fb0e565",
+    "name": "conseil_departemental_dacces_au_droit_des_pyrenees_orientales",
+    "title": "Conseil départemental d'accès au droit des Pyrénées Orientales",
+    "url": "https://lannuaire.service-public.fr/occitanie/pyrenees-orientales/cdad-66136-01",
+    "metadata": {
+      "email": "aj1.tgi-perpignan@justice.fr",
+      "telephone": "04 68 66 34 56",
+      "url": "http://www.cdad-pyreneesorientales.justice.fr/"
+    }
+  },
+  {
+    "id": "f688cbd254c22595295c67c331a1d42476f988ed",
+    "name": "conseil_departemental_dacces_au_droit_du_rhone",
+    "title": "Conseil départemental d'accès au droit du Rhône",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/rhone/cdad-69383-01",
+    "metadata": {
+      "email": "cdad-rhone@justice.fr",
+      "telephone": "04 72 60 70 48",
+      "url": "http://www.cdad-rhone.justice.fr/"
+    }
+  },
+  {
+    "id": "0b722c23bd73d10af13a155f216bc8ca79417e19",
+    "name": "conseil_departemental_dacces_au_droit_de_saint_martin_et_saint_barthelemy",
+    "title": "Conseil départemental d'accès au droit de Saint-Martin et Saint-Barthélémy",
+    "url": "https://lannuaire.service-public.fr/guadeloupe/guadeloupe/cdad-97105-01",
+    "metadata": {
+      "email": "cdad.guadeloupe@orange.fr",
+      "telephone": "06 90 93 82 04",
+      "url": ""
+    }
+  },
+  {
+    "id": "7592ac7eb491812a66d44ebe7594867f29708051",
+    "name": "conseil_departemental_dacces_au_droit_de_sarthe",
+    "title": "Conseil départemental d'accès au droit de Sarthe",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/sarthe/cdad-72181-01",
+    "metadata": {
+      "email": "cdad72@gmail.com",
+      "telephone": "02 72 91 10 14",
+      "url": "http://www.cdad72.org/accueil/"
+    }
+  },
+  {
+    "id": "bc984c8907e1d10c2e107df6dae72329b2bb380a",
+    "name": "conseil_departemental_dacces_au_droit_de_savoie",
+    "title": "Conseil départemental d'accès au droit de Savoie",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/savoie/cdad-73065-01",
+    "metadata": {
+      "email": "cdad-savoie@justice.fr",
+      "telephone": "04 79 33 60 09",
+      "url": "http://www.cdad-savoie.justice.fr/"
+    }
+  },
+  {
+    "id": "1dc5526176d6f6bc51aa8ca2dd826842c8399eea",
+    "name": "conseil_departemental_dacces_au_droit_de_seine_et_marne",
+    "title": "Conseil départemental d'accès au droit de Seine-et-Marne",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/seine-et-marne/cdad-77288-01",
+    "metadata": {
+      "email": "",
+      "telephone": "01 64 79 81 39",
+      "url": "http://www.cdad-seineetmarne.justice.fr/"
+    }
+  },
+  {
+    "id": "abf3fe815a16983d95af75d83a29c664223b9a81",
+    "name": "conseil_departemental_dacces_au_droit_de_seine_maritime",
+    "title": "Conseil départemental d'accès au droit de Seine Maritime",
+    "url": "https://lannuaire.service-public.fr/normandie/seine-maritime/cdad-76540-01",
+    "metadata": {
+      "email": "Cdad-seine-maritime@justice.fr",
+      "telephone": "02 32 08 21 49",
+      "url": "http://www.cdad-seinemaritime.justice.fr/"
+    }
+  },
+  {
+    "id": "b2ee0435824ad3458e118371543f1221bcbdbd5c",
+    "name": "conseil_departemental_dacces_au_droit_de_seine_saint_denis",
+    "title": "Conseil départemental d'accès au droit de Seine-Saint-Denis",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/seine-saint-denis/cdad-93008-01",
+    "metadata": {
+      "email": "cdad1.seine-saint-denis@justice.fr",
+      "telephone": "01 48 95 13 13",
+      "url": ""
+    }
+  },
+  {
+    "id": "39cf9738dad7d7eb94945887af6813c1c291f7da",
+    "name": "conseil_departemental_dacces_au_droit_du_tarn",
+    "title": "Conseil départemental d'accès au droit du Tarn",
+    "url": "https://lannuaire.service-public.fr/occitanie/tarn/cdad-81004-01",
+    "metadata": {
+      "email": "cdad.81@orange.fr",
+      "telephone": "05 63 49 26 98",
+      "url": ""
+    }
+  },
+  {
+    "id": "afbade74d35dc518056b9552e2ff4bc20930c899",
+    "name": "conseil_departemental_dacces_au_droit_du_tarn_et_garonne",
+    "title": "Conseil départemental d'accès au droit du Tarn-et-Garonne",
+    "url": "https://lannuaire.service-public.fr/occitanie/tarn-et-garonne/cdad-82121-01",
+    "metadata": {
+      "email": "cdad82@orange.fr",
+      "telephone": "05 63 21 40 00",
+      "url": "http://www.cdad82.fr/pr%C3%A9sentation-du-cdad/"
+    }
+  },
+  {
+    "id": "476685c2c3198ebd16180ab42d01cd387ed9b2f6",
+    "name": "conseil_departemental_dacces_au_droit_du_territoire_de_belfort",
+    "title": "Conseil départemental d'accès au droit du Territoire de Belfort",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/territoire-de-belfort/cdad-90010-01",
+    "metadata": {
+      "email": "cdad90@gmail.com",
+      "telephone": "03 84 58 53 32",
+      "url": "http://cdad90.fr/templates/cdad90.php"
+    }
+  },
+  {
+    "id": "f96c40759cf110938ea6cbd02c314923c6961584",
+    "name": "conseil_departemental_dacces_au_droit_du_val_de_marne",
+    "title": "Conseil départemental d'accès au droit du Val de Marne",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/val-de-marne/cdad-94028-01",
+    "metadata": {
+      "email": "cdad-val-de-marne@justice.fr",
+      "telephone": "01 49 81 16 44",
+      "url": "http://www.cdad-valdemarne.justice.fr/"
+    }
+  },
+  {
+    "id": "a148d41051d308edfd92d3fc6f663f9b962e2a9a",
+    "name": "conseil_departemental_dacces_au_droit_du_val_d_oise",
+    "title": "Conseil départemental d'accès au droit du Val d'Oise",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/val-d-oise/cdad-95500-01",
+    "metadata": {
+      "email": "cdad-val-d'oise@justice.fr",
+      "telephone": "01 72 58 72 94",
+      "url": "http://www.cdad-valdoise.justice.fr/"
+    }
+  },
+  {
+    "id": "c54359eea9edf986495cdbeb42cf23febc62ec25",
+    "name": "conseil_departemental_dacces_au_droit_du_var",
+    "title": "Conseil départemental d'accès au droit du Var",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/var/cdad-83137-01",
+    "metadata": {
+      "email": "cdad.tgi-toulon@justice.fr",
+      "telephone": "04 94 92 91 92",
+      "url": "http://cdad83.fr/"
+    }
+  },
+  {
+    "id": "8dcc7a3bf7b2e5c8448c15b76be0c20262fb8b51",
+    "name": "conseil_departemental_dacces_au_droit_du_vaucluse",
+    "title": "Conseil départemental d'accès au droit du Vaucluse",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/vaucluse/cdad-84007-01",
+    "metadata": {
+      "email": "cdad.vaucluse@justice.fr",
+      "telephone": "04 32 74 74 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "d61c9760d1ceeaa2054f77219f4bf0f1a93aea69",
+    "name": "conseil_departemental_dacces_au_droit_de_vendee",
+    "title": "Conseil départemental d'accès au droit de Vendée",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/vendee/cdad-85191-01",
+    "metadata": {
+      "email": "cdad-vendee@justice.fr",
+      "telephone": "02 51 47 61 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "da5df5845174c74ab8e84d91c869bf0408a04430",
+    "name": "conseil_departemental_dacces_au_droit_des_vosges",
+    "title": "Conseil départemental d'accès au droit des Vosges",
+    "url": "https://lannuaire.service-public.fr/grand-est/vosges/cdad-88160-01",
+    "metadata": {
+      "email": "cdad-vosges@justice.fr",
+      "telephone": "03 29 34 53 53",
+      "url": "http://www.cdad-88.fr/"
+    }
+  },
+  {
+    "id": "1d75bd0ba006eb743a09aeedc689ac903c9c5f59",
+    "name": "conseil_departemental_dacces_au_droit_des_yvelines",
+    "title": "Conseil départemental d'accès au droit des Yvelines",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/yvelines/cdad-78646-01",
+    "metadata": {
+      "email": "cdad-yvelines@justice.fr",
+      "telephone": "01 39 07 38 03",
+      "url": "http://www.cdad-yvelines.justice.fr/"
+    }
+  }
+]

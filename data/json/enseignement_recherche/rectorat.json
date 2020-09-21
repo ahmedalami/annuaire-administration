@@ -1,0 +1,355 @@
+[
+  {
+    "id": "7bf2a1992e7b2b1f554ba2fe34ba3cb9287d110c",
+    "name": "rectorat_academie_d_aix_marseille",
+    "title": "Rectorat - Académie d'Aix-Marseille",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/rectorat-13001-01",
+    "metadata": {
+      "email": "ce.sg@ac-aix-marseille.fr",
+      "telephone": "04 42 91 70 00",
+      "url": "http://www.ac-aix-marseille.fr"
+    }
+  },
+  {
+    "id": "15564c4f0ec6438a8047bb66f0d9ba045cbfc38b",
+    "name": "rectorat_academie_d_ajaccio",
+    "title": "Rectorat - Académie d'Ajaccio",
+    "url": "https://lannuaire.service-public.fr/corse/corse-du-sud/rectorat-2A004-01",
+    "metadata": {
+      "email": "http://www.ac-corse.fr/Nous-contacter_a3866.html",
+      "telephone": "04 95 50 33 33",
+      "url": "http://www.ac-corse.fr"
+    }
+  },
+  {
+    "id": "f48f2912d52519a7c804683d4210d9463a709d3e",
+    "name": "rectorat_academie_d_amiens",
+    "title": "Rectorat - Académie d'Amiens",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/somme/rectorat-80021-01",
+    "metadata": {
+      "email": "ce.rectorat@ac-amiens.fr",
+      "telephone": "03 22 82 38 23",
+      "url": "http://www.ac-amiens.fr"
+    }
+  },
+  {
+    "id": "81f021f7067b22b11020018b0c78e1e23d2f3c41",
+    "name": "rectorat_academie_de_besancon",
+    "title": "Rectorat - Académie de Besançon",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/doubs/rectorat-25056-01",
+    "metadata": {
+      "email": "ce.rectorat@ac-besancon.fr",
+      "telephone": "03 81 65 47 00",
+      "url": "http://www.ac-besancon.fr"
+    }
+  },
+  {
+    "id": "9b32e0623c63e704f68709680e4808906cf263f6",
+    "name": "rectorat_academie_de_bordeaux",
+    "title": "Rectorat - Académie de Bordeaux",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/gironde/rectorat-33063-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 57 57 38 00",
+      "url": "http://www.ac-bordeaux.fr"
+    }
+  },
+  {
+    "id": "aaedb0f14aa5f34a9fd1267a3f3fae06dc88f5bf",
+    "name": "rectorat_academie_de_caen",
+    "title": "Rectorat - Académie de Caen",
+    "url": "https://lannuaire.service-public.fr/normandie/calvados/rectorat-14118-01",
+    "metadata": {
+      "email": "http://www.ac-normandie.fr/contacts/",
+      "telephone": "02 31 30 15 00",
+      "url": "http://www.ac-normandie.fr/"
+    }
+  },
+  {
+    "id": "c40bc5f421a9c3bd1ebe5a2843dc5f7e2ecf2941",
+    "name": "rectorat_academie_de_clermont_ferrand",
+    "title": "Rectorat - Académie de Clermont-Ferrand",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/puy-de-dome/rectorat-63113-01",
+    "metadata": {
+      "email": "http://www.ac-clermont.fr/vous-avez-une-question/",
+      "telephone": "04 73 99 30 00",
+      "url": "http://www.ac-clermont.fr"
+    }
+  },
+  {
+    "id": "8a1092c2ec31680e2695027fba5d7c6145e2332a",
+    "name": "rectorat_academie_de_creteil",
+    "title": "Rectorat - Académie de Créteil",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/val-de-marne/rectorat-94028-01",
+    "metadata": {
+      "email": "http://www.ac-creteil.fr/pid33471/nous-contacter.html",
+      "telephone": "01 57 02 60 00",
+      "url": "http://www.ac-creteil.fr"
+    }
+  },
+  {
+    "id": "d731e6693bb2e7daefefb16a0119b7155945cac4",
+    "name": "rectorat_academie_de_dijon",
+    "title": "Rectorat - Académie de Dijon",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/cote-d-or/rectorat-21231-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 80 44 84 00",
+      "url": "http://www.ac-dijon.fr"
+    }
+  },
+  {
+    "id": "030a6c2a8a201ece5c5fcdd8deca2a2689fb0238",
+    "name": "rectorat_academie_de_grenoble",
+    "title": "Rectorat - Académie de Grenoble",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/isere/rectorat-38185-01",
+    "metadata": {
+      "email": "ce.rectorat@ac-grenoble.fr",
+      "telephone": "04 76 74 70 00",
+      "url": "http://www.ac-grenoble.fr"
+    }
+  },
+  {
+    "id": "da4a8d6f6ff0dab81462cefcc918dea26443c2e0",
+    "name": "rectorat_academie_de_guadeloupe",
+    "title": "Rectorat - Académie de Guadeloupe",
+    "url": "https://lannuaire.service-public.fr/guadeloupe/guadeloupe/rectorat-97101-01",
+    "metadata": {
+      "email": "ce.rectorat@ac-guadeloupe.fr",
+      "telephone": "+590 5 90 47 81 00",
+      "url": "http://www.ac-guadeloupe.fr"
+    }
+  },
+  {
+    "id": "63bc9a120e4e08e9a92ab12510f3173117dd01e3",
+    "name": "rectorat_academie_de_guyane",
+    "title": "Rectorat - Académie de Guyane",
+    "url": "https://lannuaire.service-public.fr/guyane/guyane/rectorat-97302-01",
+    "metadata": {
+      "email": "recteur@ac-guyane.fr",
+      "telephone": "05 94 25 58 58",
+      "url": "http://www.ac-guyane.fr"
+    }
+  },
+  {
+    "id": "364a432be4242d2ba1da257943f2fcdbd6c42471",
+    "name": "rectorat_academie_de_la_reunion",
+    "title": "Rectorat - Académie de la Réunion",
+    "url": "https://lannuaire.service-public.fr/la-reunion/reunion/rectorat-97411-01",
+    "metadata": {
+      "email": "academie-reunion@ac-reunion.fr",
+      "telephone": "02 62 48 10 10",
+      "url": "http://www.ac-reunion.fr"
+    }
+  },
+  {
+    "id": "bf80c1763701b8d9ca6c4b442aba70c3c5d1c3eb",
+    "name": "rectorat_academie_de_lille",
+    "title": "Rectorat - Académie de Lille",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/nord/rectorat-59350-01",
+    "metadata": {
+      "email": "http://www1.ac-lille.fr/pid33458/nous-contacter.html",
+      "telephone": "03 20 15 60 00",
+      "url": "http://www.ac-lille.fr"
+    }
+  },
+  {
+    "id": "2c1fb11a8bca0e004c2fac6b791a420a424661e8",
+    "name": "rectorat_academie_de_limoges",
+    "title": "Rectorat - Académie de Limoges",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/haute-vienne/rectorat-87085-01",
+    "metadata": {
+      "email": "ce.rectorat@ac-limoges.fr",
+      "telephone": "05 55 11 40 40",
+      "url": "http://www.ac-limoges.fr"
+    }
+  },
+  {
+    "id": "8d91e1a717dcf5ebd990eda2581739d015ec0dfb",
+    "name": "rectorat_academie_de_lyon",
+    "title": "Rectorat - Académie de Lyon",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/rhone/rectorat-69387-01",
+    "metadata": {
+      "email": "cab@ac-lyon.fr",
+      "telephone": "04 72 80 60 60",
+      "url": "http://www.ac-lyon.fr"
+    }
+  },
+  {
+    "id": "cf75b33c095db6ae77b2e82415bcfa93551ba2c6",
+    "name": "rectorat_academie_de_martinique_site_de_terreville",
+    "title": "Rectorat - Académie de Martinique - site de Terreville",
+    "url": "https://lannuaire.service-public.fr/martinique/martinique/rectorat-97229-01",
+    "metadata": {
+      "email": "ce.rectorat@ac-martinique.fr",
+      "telephone": "+596 596 52 25 00",
+      "url": "http://www.ac-martinique.fr"
+    }
+  },
+  {
+    "id": "d630a60046f01f1eb4508f4aef1eaff330d571c4",
+    "name": "rectorat_academie_de_mayotte",
+    "title": "Rectorat - Académie de Mayotte",
+    "url": "https://lannuaire.service-public.fr/mayotte/mayotte/rectorat-97611-01",
+    "metadata": {
+      "email": "vice-rectorat@ac-mayotte.fr",
+      "telephone": "+269 2 69 61 10 24",
+      "url": "http://www.ac-mayotte.fr"
+    }
+  },
+  {
+    "id": "6be31319ad8cb8633e200462a2c40b5ea6f804ef",
+    "name": "rectorat_academie_de_montpellier",
+    "title": "Rectorat - Académie de Montpellier",
+    "url": "https://lannuaire.service-public.fr/occitanie/herault/rectorat-34172-01",
+    "metadata": {
+      "email": "contact@ac-montpellier.fr",
+      "telephone": "04 67 91 47 00",
+      "url": "http://www.ac-montpellier.fr"
+    }
+  },
+  {
+    "id": "593fc690d49ed06cf675da4f97f151a4a327af55",
+    "name": "rectorat_academie_de_nancy",
+    "title": "Rectorat - Académie de Nancy",
+    "url": "https://lannuaire.service-public.fr/grand-est/meurthe-et-moselle/rectorat-54395-01",
+    "metadata": {
+      "email": "ce.rectorat@ac-nancy-metz.fr",
+      "telephone": "03 83 86 20 20",
+      "url": "http://www.ac-nancy-metz.fr"
+    }
+  },
+  {
+    "id": "09acb70d2ccc9243aba2705e4aec5c2c1f1d1a50",
+    "name": "rectorat_academie_de_nantes",
+    "title": "Rectorat - Académie de Nantes",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/loire-atlantique/rectorat-44109-01",
+    "metadata": {
+      "email": "contact@ac-nantes.fr",
+      "telephone": "02 40 37 37 37",
+      "url": "http://www.ac-nantes.fr"
+    }
+  },
+  {
+    "id": "e76eeffc8ff6d30e8037eb48a0e54925d02155c7",
+    "name": "rectorat_academie_de_nice",
+    "title": "Rectorat - Académie de Nice",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/alpes-maritimes/rectorat-06088-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 93 53 70 70",
+      "url": "http://www.ac-nice.fr"
+    }
+  },
+  {
+    "id": "9a03f9383b6c057149f5e01836ca803a1849a3a4",
+    "name": "rectorat_academie_d_orleans",
+    "title": "Rectorat - Académie d'Orléans",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/loiret/rectorat-45234-01",
+    "metadata": {
+      "email": "http://www.ac-orleans-tours.fr/divers/legal/contact",
+      "telephone": "02 38 79 38 79",
+      "url": "http://www.ac-orleans-tours.fr"
+    }
+  },
+  {
+    "id": "d618c3c52d71e605de204f168edc20a5d2261f4f",
+    "name": "rectorat_academie_de_paris_enseignement_scolaire",
+    "title": "Rectorat - Académie de Paris - Enseignement scolaire",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/paris/rectorat-75119-01",
+    "metadata": {
+      "email": "https://www.ac-paris.fr/portail/jcms/p2_1227766/saisine-par-voie-electronique",
+      "telephone": "01 44 62 40 40",
+      "url": "http://www.ac-paris.fr"
+    }
+  },
+  {
+    "id": "06dca18c97f4f82fc61c7d7f7f7f836d0a1a051b",
+    "alternateName": "rectorat de région académique - Île-de-France",
+    "name": "rectorat_academie_de_paris_enseignement_superieur_rectorat_de_region_academique_ile_de_france",
+    "title": "Rectorat - Académie de Paris - Enseignement supérieur (rectorat de région académique - Île-de-France)",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/paris/rectorat-75105-01",
+    "metadata": {
+      "email": "contact.sorbonne@ac-paris.fr",
+      "telephone": "01 40 46 22 11",
+      "url": "http://www.sorbonne.fr"
+    }
+  },
+  {
+    "id": "db35156fc26764a325ad2f0bf27cb49ae4f42801",
+    "name": "rectorat_academie_de_poitiers",
+    "title": "Rectorat - Académie de Poitiers",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/vienne/rectorat-86194-01",
+    "metadata": {
+      "email": "cabinet.recteur@ac-poitiers.fr",
+      "telephone": "05 16 52 66 00",
+      "url": "http://www.ac-poitiers.fr"
+    }
+  },
+  {
+    "id": "d17173d3427cfa305591e2493b38a382786ddca5",
+    "name": "rectorat_academie_de_reims",
+    "title": "Rectorat - Académie de Reims",
+    "url": "https://lannuaire.service-public.fr/grand-est/marne/rectorat-51454-01",
+    "metadata": {
+      "email": "http://www.ac-reims.fr/pid33736/nous-contacter.html",
+      "telephone": "03 26 05 69 69",
+      "url": "http://www.ac-reims.fr"
+    }
+  },
+  {
+    "id": "41c6481910ec73b6bccecfe2fca567e8b21f999c",
+    "name": "rectorat_academie_de_rennes",
+    "title": "Rectorat - Académie de Rennes",
+    "url": "https://lannuaire.service-public.fr/bretagne/ille-et-vilaine/rectorat-35238-01",
+    "metadata": {
+      "email": "ce.rectorat@ac-rennes.fr",
+      "telephone": "02 23 21 77 77",
+      "url": "http://www.ac-rennes.fr"
+    }
+  },
+  {
+    "id": "4e6f477af9f667cfb2993e1e3cad4611f28c6d2a",
+    "name": "rectorat_academie_de_rouen",
+    "title": "Rectorat - Académie de Rouen",
+    "url": "https://lannuaire.service-public.fr/normandie/seine-maritime/rectorat-76540-01",
+    "metadata": {
+      "email": "ce.rectorat@ac-rouen.fr",
+      "telephone": "02 32 08 90 00",
+      "url": "http://www.ac-rouen.fr"
+    }
+  },
+  {
+    "id": "baaac7bb8a72cd587d6ceaf3c4380bdeacdb7223",
+    "name": "rectorat_academie_de_strasbourg",
+    "title": "Rectorat - Académie de Strasbourg",
+    "url": "https://lannuaire.service-public.fr/grand-est/bas-rhin/rectorat-67482-01",
+    "metadata": {
+      "email": "ce.communication@ac-strasbourg.fr",
+      "telephone": "03 88 23 37 23",
+      "url": "http://www.ac-strasbourg.fr"
+    }
+  },
+  {
+    "id": "b4ded064debf4dfd97a21c71e7b930cd21165043",
+    "name": "rectorat_academie_de_toulouse",
+    "title": "Rectorat - Académie de Toulouse",
+    "url": "https://lannuaire.service-public.fr/occitanie/haute-garonne/rectorat-31555-01",
+    "metadata": {
+      "email": "webcontact@ac-toulouse.fr",
+      "telephone": "05 36 25 70 00",
+      "url": "http://www.ac-toulouse.fr"
+    }
+  },
+  {
+    "id": "cc2ea546829128ebe325920e9439670565cd25cb",
+    "name": "rectorat_academie_de_versailles",
+    "title": "Rectorat - Académie de Versailles",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/yvelines/rectorat-78646-01",
+    "metadata": {
+      "email": "",
+      "telephone": "01 30 83 44 44",
+      "url": "http://www.ac-versailles.fr"
+    }
+  }
+]

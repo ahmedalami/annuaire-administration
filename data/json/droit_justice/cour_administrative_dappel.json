@@ -1,0 +1,90 @@
+[
+  {
+    "id": "911e12e4b7b1559806612567fe510c55cd4a16e9",
+    "name": "cour_administrative_dappel_bordeaux",
+    "title": "Cour administrative d'appel - Bordeaux",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/gironde/caa-33063-01",
+    "metadata": {
+      "email": "greffe.caa-bordeaux@juradm.fr",
+      "telephone": "05 57 85 42 42",
+      "url": "http://bordeaux.cour-administrative-appel.fr"
+    }
+  },
+  {
+    "id": "634885169cfa9e39ec3d6607efd7b7b8e977f643",
+    "name": "cour_administrative_dappel_douai",
+    "title": "Cour administrative d'appel - Douai",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/nord/caa-59178-01",
+    "metadata": {
+      "email": "greffe.caa-douai@juradm.fr",
+      "telephone": "03 27 08 10 00",
+      "url": "http://douai.cour-administrative-appel.fr"
+    }
+  },
+  {
+    "id": "433aaaf3df99311756d538108233971d33279598",
+    "name": "cour_administrative_dappel_lyon",
+    "title": "Cour administrative d'appel - Lyon",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/rhone/caa-69383-01",
+    "metadata": {
+      "email": "greffe.caa-lyon@juradm.fr",
+      "telephone": "04 78 14 11 11",
+      "url": "http://lyon.cour-administrative-appel.fr"
+    }
+  },
+  {
+    "id": "0d2584bdf7914e9c472a80814d659e90601139fc",
+    "name": "cour_administrative_dappel_marseille",
+    "title": "Cour administrative d'appel - Marseille",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/caa-13206-01",
+    "metadata": {
+      "email": "greffe.caa-marseille@juradm.fr",
+      "telephone": "04 91 04 45 45",
+      "url": "http://marseille.cour-administrative-appel.fr"
+    }
+  },
+  {
+    "id": "b39ae4c74bf3723341da91d289d457fbd6f989d4",
+    "name": "cour_administrative_dappel_nancy",
+    "title": "Cour administrative d'appel - Nancy",
+    "url": "https://lannuaire.service-public.fr/grand-est/meurthe-et-moselle/caa-54395-01",
+    "metadata": {
+      "email": "greffe.caa-nancy@juradm.fr",
+      "telephone": "03 83 35 05 06",
+      "url": "http://nancy.cour-administrative-appel.fr"
+    }
+  },
+  {
+    "id": "c8a7c109a6c5588e8e8aa38908bd0a83be497dcf",
+    "name": "cour_administrative_dappel_nantes",
+    "title": "Cour administrative d'appel - Nantes",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/loire-atlantique/caa-44109-01",
+    "metadata": {
+      "email": "greffe.caa-nantes@juradm.fr",
+      "telephone": "02 51 84 77 77",
+      "url": "http://nantes.cour-administrative-appel.fr"
+    }
+  },
+  {
+    "id": "6c5f9c226992a016753bfc2c288131a8e94947f9",
+    "name": "cour_administrative_dappel_paris",
+    "title": "Cour administrative d'appel - Paris",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/paris/caa-75104-01",
+    "metadata": {
+      "email": "",
+      "telephone": "01 58 28 90 00",
+      "url": "http://paris.cour-administrative-appel.fr"
+    }
+  },
+  {
+    "id": "e88dfaf3a03c7fba6ff477788995b99df75b5f49",
+    "name": "cour_administrative_dappel_versailles",
+    "title": "Cour administrative d'appel - Versailles",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/yvelines/caa-78646-01",
+    "metadata": {
+      "email": "greffe.caa-versailles@juradm.fr",
+      "telephone": "01 30 84 47 00",
+      "url": "http://versailles.cour-administrative-appel.fr"
+    }
+  }
+]

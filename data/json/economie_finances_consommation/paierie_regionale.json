@@ -1,0 +1,112 @@
+[
+  {
+    "id": "35046ee7eda84ef0b43dbcaee136e6af659c5442",
+    "name": "paierie_regionale_auvergne_rhone_alpes",
+    "title": "Paierie régionale - Auvergne-Rhone-Alpes",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/rhone/paierie_regionale-69123-02",
+    "metadata": {
+      "email": "t069080@dgfip.finances.gouv.fr",
+      "telephone": "04 87 64 80 45",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "608a6a44d665562d71bf131e4529366037afe23b",
+    "name": "paierie_regionale_bretagne",
+    "title": "Paierie régionale - Bretagne",
+    "url": "https://lannuaire.service-public.fr/bretagne/ille-et-vilaine/paierie_regionale-35238-03",
+    "metadata": {
+      "email": "t035080@dgfip.finances.gouv.fr",
+      "telephone": "02 23 07 00 00",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "3edcc0c9a3765dee6e5e3f6e1fb47220969fdefe",
+    "name": "paierie_regionale_centre_val_de_loire",
+    "title": "Paierie régionale - Centre-Val de Loire",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/loiret/paierie_regionale-45234-06",
+    "metadata": {
+      "email": "t045080@dgfip.finances.gouv.fr",
+      "telephone": "02 38 79 68 53",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "a78a098f71d2082fc71004dd6b68ecd25fb248f9",
+    "name": "paierie_regionale_corse",
+    "title": "Paierie régionale - Corse",
+    "url": "https://lannuaire.service-public.fr/corse/corse-du-sud/paierie_regionale-2A004-01",
+    "metadata": {
+      "email": "t02a080@dgfip.finances.gouv.fr",
+      "telephone": "04 95 51 64 66",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "f799450209a2e23dcfc804d0664618055307f7af",
+    "name": "paierie_regionale_grand_est",
+    "title": "Paierie régionale - Grand Est",
+    "url": "https://lannuaire.service-public.fr/grand-est/bas-rhin/paierie_regionale-67482-03",
+    "metadata": {
+      "email": "t067080@dgfip.finances.gouv.fr",
+      "telephone": "03 88 15 65 00",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "ea9ac8ecda5516a1ea5bead8f455259bffc7b196",
+    "name": "paierie_regionale_hauts_de_france",
+    "title": "Paierie régionale - Hauts-de-France",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/nord/paierie_regionale-59350-01",
+    "metadata": {
+      "email": "t059080@dgfip.finances.gouv.fr",
+      "telephone": "03 74 27 58 84",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "e3ac4bdd88b7fb4165f7e773c81618af6ec4cde9",
+    "name": "paierie_regionale_la_reunion",
+    "title": "Paierie régionale - La Réunion",
+    "url": "https://lannuaire.service-public.fr/la-reunion/reunion/paierie_regionale-97411-03",
+    "metadata": {
+      "email": "t104080@dgfip.finances.gouv.fr",
+      "telephone": "02 62 48 73 44",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "d9d80d9e0ba38f9e5ba8b91a4581cddb604788e3",
+    "name": "paierie_regionale_normandie",
+    "title": "Paierie régionale - Normandie",
+    "url": "https://lannuaire.service-public.fr/normandie/seine-maritime/paierie_regionale-76540-07",
+    "metadata": {
+      "email": "t076080@dgfip.finances.gouv.fr",
+      "telephone": "02 32 76 31 64",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "d48abb14bdf615c5fb956f68b36bc379a3715004",
+    "name": "paierie_regionale_nouvelle_aquitaine",
+    "title": "Paierie régionale - Nouvelle-Aquitaine",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/gironde/paierie_regionale-33063-03",
+    "metadata": {
+      "email": "t033080@dgfip.finances.gouv.fr",
+      "telephone": "05 56 90 76 00",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "674f5bc6c8c3860fd1bec25590b60eda2bb64498",
+    "name": "paierie_regionale_provence_alpes_cote_d_azur",
+    "title": "Paierie régionale - Provence-Alpes-Côte d'Azur",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/paierie_regionale-13055-03",
+    "metadata": {
+      "email": "t013080@dgfip.finances.gouv.fr",
+      "telephone": "04 91 57 50 78",
+      "url": "http://www.impots.gouv.fr"
+    }
+  }
+]

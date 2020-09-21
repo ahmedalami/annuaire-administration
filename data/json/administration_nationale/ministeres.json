@@ -1,0 +1,189 @@
+[
+  {
+    "id": "478d5b9e8a5b0388b8644c920f2038412c6e4636",
+    "name": "premier_ministre",
+    "title": "Premier ministre",
+    "url": "https://lannuaire.service-public.fr/gouvernement/administration-centrale-ou-ministere_172210",
+    "metadata": {
+      "email": "",
+      "telephone": "01 42 75 80 00",
+      "url": "https://www.gouvernement.fr/"
+    }
+  },
+  {
+    "id": "61b432d8784f17815b66d2976978c47e4b4a0367",
+    "name": "ministere_de_l_agriculture_et_de_l_alimentation",
+    "title": "Ministère de l'Agriculture et de l'Alimentation",
+    "url": "https://lannuaire.service-public.fr/gouvernement/administration-centrale-ou-ministere_172214",
+    "metadata": {
+      "email": "",
+      "telephone": "01 49 55 49 55",
+      "url": "http://www.agriculture.gouv.fr"
+    }
+  },
+  {
+    "id": "3215a232ae072102fc1fdbaddf4c365df8dd3914",
+    "name": "ministere_des_armees",
+    "title": "Ministère des Armées",
+    "url": "https://lannuaire.service-public.fr/gouvernement/administration-centrale-ou-ministere_172220",
+    "metadata": {
+      "email": "",
+      "telephone": "01 80 50 14 00",
+      "url": "http://www.defense.gouv.frhttp://www.onac-vg.fr/fr"
+    }
+  },
+  {
+    "id": "e264a964aeee43d31a2e00dc2e5f2297e7da02c5",
+    "name": "ministere_de_la_cohesion_des_territoires_et_des_relations_avec_les_collectivites_territoriales",
+    "title": "Ministère de la Cohésion des territoires et des Relations avec les collectivités territoriales",
+    "url": "https://lannuaire.service-public.fr/gouvernement/administration-centrale-ou-ministere_192685",
+    "metadata": {
+      "email": "",
+      "telephone": "01 40 81 21 22",
+      "url": "http://www.cohesion-territoires.gouv.fr/"
+    }
+  },
+  {
+    "id": "a92c36c588d01a0497c304f5a3eb92ba7c2172b1",
+    "name": "ministere_de_la_culture",
+    "title": "Ministère de la Culture",
+    "url": "https://lannuaire.service-public.fr/gouvernement/administration-centrale-ou-ministere_172218",
+    "metadata": {
+      "email": "",
+      "telephone": "01 40 15 80 00",
+      "url": "http://www.culturecommunication.gouv.frhttps://mes-demarches.culturecommunication.gouv.fr"
+    }
+  },
+  {
+    "id": "0d2b3034b200dacd308f67843b6ad1ae0b11a506",
+    "name": "ministere_de_l_economie_des_finances_et_de_la_relance",
+    "title": "Ministère de l'Économie, des Finances et de la Relance",
+    "url": "https://lannuaire.service-public.fr/gouvernement/administration-centrale-ou-ministere_172224",
+    "metadata": {
+      "email": "",
+      "telephone": "01 40 04 04 04",
+      "url": "http://www.economie.gouv.fr"
+    }
+  },
+  {
+    "id": "4c2adf96eec73594f6675dd84526a7e53f5f4dcf",
+    "name": "ministere_de_l_education_nationale_de_la_jeunesse_et_des_sports",
+    "title": "Ministère de l'Éducation nationale, de la Jeunesse et des Sports",
+    "url": "https://lannuaire.service-public.fr/gouvernement/administration-centrale-ou-ministere_172226",
+    "metadata": {
+      "email": "",
+      "telephone": "01 55 55 10 10",
+      "url": "http://www.education.gouv.fr"
+    }
+  },
+  {
+    "id": "1b8ede21d33031806225b6d25c0ae0f1c35bd3bc",
+    "name": "ministere_de_l_enseignement_superieur_de_la_recherche_et_de_l_innovation",
+    "title": "Ministère de l'Enseignement supérieur, de la Recherche et de l'Innovation",
+    "url": "https://lannuaire.service-public.fr/gouvernement/administration-centrale-ou-ministere_583066",
+    "metadata": {
+      "email": "",
+      "telephone": "01 55 55 10 10",
+      "url": "http://www.enseignementsup-recherche.gouv.fr"
+    }
+  },
+  {
+    "id": "61e6fc4462de0b9a45a4187d8e05dcd903c26186",
+    "name": "ministere_de_l_europe_et_des_affaires_etrangeres",
+    "title": "Ministère de l'Europe et des Affaires étrangères",
+    "url": "https://lannuaire.service-public.fr/gouvernement/administration-centrale-ou-ministere_172212",
+    "metadata": {
+      "email": "",
+      "telephone": "01 43 17 53 53",
+      "url": "http://www.diplomatie.gouv.fr"
+    }
+  },
+  {
+    "id": "525d8ff5e66d6ce14db99a4e8d074cc4e964aae2",
+    "name": "ministere_de_l_interieur",
+    "title": "Ministère de l'Intérieur",
+    "url": "https://lannuaire.service-public.fr/gouvernement/administration-centrale-ou-ministere_172232",
+    "metadata": {
+      "email": "",
+      "telephone": "01 49 27 49 27",
+      "url": "http://www.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "612cac539c88e41a59b4388620d4080259432fec",
+    "name": "ministere_de_la_justice",
+    "title": "Ministère de la Justice",
+    "url": "https://lannuaire.service-public.fr/gouvernement/administration-centrale-ou-ministere_172234",
+    "metadata": {
+      "email": "",
+      "telephone": "01 44 77 60 60",
+      "url": "http://www.justice.gouv.fr"
+    }
+  },
+  {
+    "id": "fb2dec82c53f04e5deafb68fd8722888bb8710de",
+    "name": "ministere_de_la_mer",
+    "title": "Ministère de la Mer",
+    "url": "https://lannuaire.service-public.fr/gouvernement/administration-centrale-ou-ministere_1257967",
+    "metadata": {
+      "email": "",
+      "telephone": "01 44 49 85 75",
+      "url": "https://www.ecologique-solidaire.gouv.fr/"
+    }
+  },
+  {
+    "id": "ac071218c23d27c879c8edbc2c6be97f60d7ccc7",
+    "name": "ministere_des_outre_mer",
+    "title": "Ministère des Outre-mer",
+    "url": "https://lannuaire.service-public.fr/gouvernement/administration-centrale-ou-ministere_427887",
+    "metadata": {
+      "email": "ministere@outre-mer.gouv.fr",
+      "telephone": "01 53 69 20 00",
+      "url": "http://www.outre-mer.gouv.fr"
+    }
+  },
+  {
+    "id": "60e8ff7034c2421a6fc89611d8c1829c978cf447",
+    "name": "ministere_des_solidarites_et_de_la_sante",
+    "title": "Ministère des Solidarités et de la Santé",
+    "url": "https://lannuaire.service-public.fr/gouvernement/administration-centrale-ou-ministere_192696",
+    "metadata": {
+      "email": "",
+      "telephone": "01 40 56 60 00",
+      "url": "http://solidarites-sante.gouv.fr"
+    }
+  },
+  {
+    "id": "5188e3bc70c94ae48f2002c96dac04fb1c2d4c8e",
+    "name": "ministere_de_la_transformation_et_de_la_fonction_publiques",
+    "title": "Ministère de la Transformation et de la Fonction publiques",
+    "url": "https://lannuaire.service-public.fr/gouvernement/administration-centrale-ou-ministere_1043474",
+    "metadata": {
+      "email": "",
+      "telephone": "01 40 04 04 04",
+      "url": "http://www.fonction-publique.gouv.fr"
+    }
+  },
+  {
+    "id": "bcef21f543757a85e6adc3093767c20eec91192e",
+    "name": "ministere_de_la_transition_ecologique",
+    "title": "Ministère de la Transition écologique",
+    "url": "https://lannuaire.service-public.fr/gouvernement/administration-centrale-ou-ministere_172222",
+    "metadata": {
+      "email": "",
+      "telephone": "01 40 81 21 22",
+      "url": "https://www.ecologique-solidaire.gouv.fr/"
+    }
+  },
+  {
+    "id": "02589b2c214869bf5521a99766802eecdf56e767",
+    "name": "ministere_du_travail_de_l_emploi_et_de_l_insertion",
+    "title": "Ministère du Travail, de l'Emploi et de l'Insertion",
+    "url": "https://lannuaire.service-public.fr/gouvernement/administration-centrale-ou-ministere_172240",
+    "metadata": {
+      "email": "",
+      "telephone": "01 44 38 38 38",
+      "url": "https://travail-emploi.gouv.fr"
+    }
+  }
+]

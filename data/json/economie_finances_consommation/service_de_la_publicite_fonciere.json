@@ -1,0 +1,2159 @@
+[
+  {
+    "id": "d360d52cff04ab3c2be9a4c3a4b41a2a5abc511a",
+    "alternateName": "SPF",
+    "name": "conservation_de_la_propriete_immobiliere_spf_mamoudzou",
+    "title": "Conservation de la Propriété immobilière (SPF) - Mamoudzou",
+    "url": "https://lannuaire.service-public.fr/mayotte/mayotte/hypotheque-97611-01",
+    "metadata": {
+      "email": "cpi.mamoudzou@dgfip.finances.gouv.fr",
+      "telephone": "0 269 61 81 10",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "31c824979bb5122e7dd12a6a936f73f94216d2c8",
+    "name": "livre_foncier_metz",
+    "title": "Livre foncier - Metz",
+    "url": "https://lannuaire.service-public.fr/grand-est/moselle/hypotheque-57463-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 54 73 72 80",
+      "url": "http://www.livrefoncier.fr"
+    }
+  },
+  {
+    "id": "db84c11cb1361ab5b34cb08f9746b9fc91a6f8a8",
+    "name": "livre_foncier_sarreguemines",
+    "title": "Livre foncier - Sarreguemines",
+    "url": "https://lannuaire.service-public.fr/grand-est/moselle/hypotheque-57631-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 87 28 31 00",
+      "url": "http://www.livrefoncier.fr/fr/accueil.html"
+    }
+  },
+  {
+    "id": "8c40dadbcbba56265ecb0a491151ec6076b4465c",
+    "name": "livre_foncier_thionville",
+    "title": "Livre foncier - Thionville",
+    "url": "https://lannuaire.service-public.fr/grand-est/moselle/hypotheque-57672-01",
+    "metadata": {
+      "email": "http://www.livrefoncier.fr/fr/nous-contacter.html",
+      "telephone": "03 55 84 30 21",
+      "url": "http://www.livrefoncier.fr"
+    }
+  },
+  {
+    "id": "b8e5c3cc57960e4d517145cc3a76a30de6615aee",
+    "alternateName": "PELP",
+    "name": "pole_devaluation_des_locaux_professionnels_pelp_saint_etienne_convention",
+    "title": "Pôle d'évaluation des locaux professionnels (PELP) - Saint-Etienne Convention",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/loire/hypotheque-42218-01",
+    "metadata": {
+      "email": "pelp.loire@dgfip.finances.gouv.fr",
+      "telephone": "04 77 47 62 40",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "7acc901c88f04de0a45084df3afe2cd85671a7b5",
+    "alternateName": "SPF",
+    "name": "service_de_la_publicite_fonciere_spf_abbeville",
+    "title": "Service de la publicité foncière (SPF) - Abbeville",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/somme/hypotheque-80001-01",
+    "metadata": {
+      "email": "spf.abbeville@dgfip.finances.gouv.fr",
+      "telephone": "03 22 25 49 14",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "bbc96228cb348414e3831f41cd5a4b8a2f9b500b",
+    "alternateName": "SPF",
+    "name": "service_de_la_publicite_fonciere_spf_agen_1",
+    "title": "Service de la publicité foncière (SPF) - Agen 1",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/lot-et-garonne/hypotheque-47001-01",
+    "metadata": {
+      "email": "spf.agen1@dgfip.finances.gouv.fr",
+      "telephone": "05 53 69 19 59",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "62439f1c2d24b24585435ee56558bcfb3e35dbf6",
+    "alternateName": "SPF",
+    "name": "service_de_la_publicite_fonciere_spf_agen_2",
+    "title": "Service de la publicité foncière (SPF) - Agen 2",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/lot-et-garonne/hypotheque-47001-02",
+    "metadata": {
+      "email": "spf.agen2@dgfip.finances.gouv.fr",
+      "telephone": "05 53 69 19 59",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "d05845f35928524f1e86233c65b890ff6e7f0b70",
+    "alternateName": "SPF",
+    "name": "service_de_la_publicite_fonciere_spf_aix_en_provence_1",
+    "title": "Service de la publicité foncière (SPF) - Aix-en-Provence 1",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/hypotheque-13001-01",
+    "metadata": {
+      "email": "spf.aix-en-provence1@dgfip.finances.gouv.fr",
+      "telephone": "04 42 37 54 46",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "5d5695aba78bcd92a075030265434dfca1a60e4e",
+    "alternateName": "SPF",
+    "name": "service_de_la_publicite_fonciere_spf_aix_en_provence_2",
+    "title": "Service de la publicité foncière (SPF) - Aix-en-Provence 2",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/hypotheque-13001-02",
+    "metadata": {
+      "email": "spf.aix-en-provence2@dgfip.finances.gouv.fr",
+      "telephone": "04 42 37 54 10",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "37155ce6a51556d9e29c3c7c6e3c38b8cb3cfaeb",
+    "alternateName": "SPF",
+    "name": "service_de_la_publicite_fonciere_spf_amiens_1",
+    "title": "Service de la publicité foncière (SPF) - Amiens 1",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/somme/hypotheque-80021-01",
+    "metadata": {
+      "email": "spf.amiens1@dgfip.finances.gouv.fr",
+      "telephone": "03 22 46 83 83",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "6dac7ce3136f8d18dbc14541ddaeb71607dff9a3",
+    "alternateName": "SPF",
+    "name": "service_de_la_publicite_fonciere_spf_amiens_2",
+    "title": "Service de la publicité foncière (SPF) - Amiens 2",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/somme/hypotheque-80021-02",
+    "metadata": {
+      "email": "spf.amiens2@dgfip.finances.gouv.fr",
+      "telephone": "03 22 46 84 00",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "2dea92d6b919ae4a3d844bcd8043eb1784487be4",
+    "alternateName": "SPF",
+    "name": "service_de_la_publicite_fonciere_spf_angers_1",
+    "title": "Service de la publicité foncière (SPF) - Angers 1",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/maine-et-loire/hypotheque-49007-01",
+    "metadata": {
+      "email": "spf.angers1@dgfip.finances.gouv.fr",
+      "telephone": "02 41 74 53 69",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "b51a63fe7e7280d0cee99a7b4bd8ce3b64261bbf",
+    "alternateName": "SPF",
+    "name": "service_de_la_publicite_fonciere_spf_angers_2",
+    "title": "Service de la publicité foncière (SPF) - Angers 2",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/maine-et-loire/hypotheque-49007-02",
+    "metadata": {
+      "email": "spf.angers2@dgfip.finances.gouv.fr",
+      "telephone": "02 41 74 53 64",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "1d810b66c85ea08d11a94152e711c3f075a4ccc4",
+    "alternateName": "SPF",
+    "name": "service_de_la_publicite_fonciere_spf_angers_3",
+    "title": "Service de la publicité foncière (SPF) - Angers 3",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/maine-et-loire/hypotheque-49007-03",
+    "metadata": {
+      "email": "spf.angers3@dgfip.finances.gouv.fr",
+      "telephone": "02 41 74 53 62",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "0ae0f621f3361efade4b3ad0a028f866587e5180",
+    "alternateName": "SPF",
+    "name": "service_de_la_publicite_fonciere_spf_angouleme_2",
+    "title": "Service de la publicité foncière (SPF) - Angoulême 2",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/charente/hypotheque-16374-02",
+    "metadata": {
+      "email": "spf.angouleme2@dgfip.finances.gouv.fr",
+      "telephone": "05 45 97 57 75",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "13becf64b06618f80f011eb9356db11fcfb837e5",
+    "alternateName": "SPF",
+    "name": "service_de_la_publicite_fonciere_spf_angouleme_3",
+    "title": "Service de la publicité foncière (SPF) - Angoulême 3",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/charente/hypotheque-16374-03",
+    "metadata": {
+      "email": "spf.angouleme3@dgfip.finances.gouv.fr",
+      "telephone": "05 45 97 57 00",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "6ae01abe2e3a646b8804c4082cd9aede3f524b8b",
+    "alternateName": "SPF",
+    "name": "service_de_la_publicite_fonciere_spf_antibes_1",
+    "title": "Service de la publicité foncière (SPF) - Antibes 1",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/alpes-maritimes/hypotheque-06004-01",
+    "metadata": {
+      "email": "spf.antibes1@dgfip.finances.gouv.fr",
+      "telephone": "04 92 93 77 52",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "9b90ec7fab84672fa4baaa68fbb5501a1b3afc94",
+    "alternateName": "SPF",
+    "name": "service_de_la_publicite_fonciere_spf_antibes_2",
+    "title": "Service de la publicité foncière (SPF) - Antibes 2",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/alpes-maritimes/hypotheque-06004-02",
+    "metadata": {
+      "email": "spf.antibes2@dgfip.finances.gouv.fr",
+      "telephone": "04 92 93 30 68",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "57fdddc410272c9981c1129bb07a44868233dfb6",
+    "alternateName": "SPF",
+    "name": "service_de_la_publicite_fonciere_spf_aubusson",
+    "title": "Service de la publicité foncière (SPF) - Aubusson",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/creuse/hypotheque-23008-01",
+    "metadata": {
+      "email": "spf.aubusson@dgfip.finances.gouv.fr",
+      "telephone": "05 55 83 41 00",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "d12518618649a3ad07c271cc7512ab29d2b8991b",
+    "alternateName": "SPF",
+    "name": "service_de_la_publicite_fonciere_spf_auch_1",
+    "title": "Service de la publicité foncière (SPF) - Auch 1",
+    "url": "https://lannuaire.service-public.fr/occitanie/gers/hypotheque-32013-01",
+    "metadata": {
+      "email": "spf.auch1@dgfip.finances.gouv.fr",
+      "telephone": "05 62 61 50 50",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "2ac63f26382f3465ea8ddc436f1e9d33802e7890",
+    "alternateName": "SPF",
+    "name": "service_de_la_publicite_fonciere_spf_auch_2",
+    "title": "Service de la publicité foncière (SPF) - Auch 2",
+    "url": "https://lannuaire.service-public.fr/occitanie/gers/hypotheque-32013-02",
+    "metadata": {
+      "email": "spf.auch2@dgfip.finances.gouv.fr",
+      "telephone": "05 62 61 51 36",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "a66cd0b41752971febbf4c39471fe87df003108d",
+    "alternateName": "SPF",
+    "name": "service_de_la_publicite_fonciere_spf_autun",
+    "title": "Service de la publicité foncière (SPF) - Autun",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/saone-et-loire/hypotheque-71014-01",
+    "metadata": {
+      "email": "spf.autun@dgfip.finances.gouv.fr",
+      "telephone": "03 85 86 40 17",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "ab4f25930a21a784effbd97268439b836a00144b",
+    "alternateName": "SPF",
+    "name": "service_de_la_publicite_fonciere_spf_auxerre_1",
+    "title": "Service de la publicité foncière (SPF) - Auxerre 1",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/yonne/hypotheque-89024-01",
+    "metadata": {
+      "email": "spf.auxerre1@dgfip.finances.gouv.fr",
+      "telephone": "03 86 72 50 38",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "ddd7021cf1008e600e342ff1edfbc7a1213dd2ea",
+    "alternateName": "SPF",
+    "name": "service_de_la_publicite_fonciere_spf_auxerre_2",
+    "title": "Service de la publicité foncière (SPF) - Auxerre 2",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/yonne/hypotheque-89024-02",
+    "metadata": {
+      "email": "spf.auxerre2@dgfip.finances.gouv.fr",
+      "telephone": "03 86 72 51 72",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "308af1910070fec0a758f49f42c97cd1659be80e",
+    "alternateName": "SPF",
+    "name": "service_de_la_publicite_fonciere_spf_avesnes_sur_helpe",
+    "title": "Service de la publicité foncière (SPF) - Avesnes-sur-Helpe",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/nord/hypotheque-59036-01",
+    "metadata": {
+      "email": "spf.avesnes-sur-helpe@dgfip.finances.gouv.fr",
+      "telephone": "03 27 56 32 16",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "052680c651dce77aa8c2f6d671d31f45ec9b1999",
+    "alternateName": "SPF",
+    "name": "service_de_la_publicite_fonciere_spf_avignon_2",
+    "title": "Service de la publicité foncière (SPF) - Avignon 2",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/vaucluse/hypotheque-84007-02",
+    "metadata": {
+      "email": "spf.avignon2@dgfip.finances.gouv.fr",
+      "telephone": "04 90 27 29 29",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "b14e1a16d42d1e6d734a49b7ddbb9c60c4c06c13",
+    "alternateName": "SPF",
+    "name": "service_de_la_publicite_fonciere_spf_avranches",
+    "title": "Service de la publicité foncière (SPF) - Avranches",
+    "url": "https://lannuaire.service-public.fr/normandie/manche/hypotheque-50025-01",
+    "metadata": {
+      "email": "spf.avranches@dgfip.finances.gouv.fr",
+      "telephone": "02 33 89 10 03",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "f5cd942978ae1cebe83ccb4ebfdc4bad434d6ed0",
+    "alternateName": "SPF",
+    "name": "service_de_la_publicite_fonciere_spf_bar_le_duc_1",
+    "title": "Service de la publicité foncière (SPF) - Bar-le-Duc 1",
+    "url": "https://lannuaire.service-public.fr/grand-est/meuse/hypotheque-55029-01",
+    "metadata": {
+      "email": "spf.bar-le-duc1@dgfip.finances.gouv.fr",
+      "telephone": "03 29 79 50 24",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "f6f5bebc4264679da8565f448cbaab8d60fca8cb",
+    "alternateName": "SPF",
+    "name": "service_de_la_publicite_fonciere_spf_bar_le_duc_2",
+    "title": "Service de la publicité foncière (SPF) - Bar-le-Duc 2",
+    "url": "https://lannuaire.service-public.fr/grand-est/meuse/hypotheque-55029-02",
+    "metadata": {
+      "email": "spf.bar-le-duc2@dgfip.finances.gouv.fr",
+      "telephone": "03 29 79 50 49",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "87e3b8904426f9f1e0786706ceac01a7d3e1823f",
+    "alternateName": "SPF",
+    "name": "service_de_la_publicite_fonciere_spf_basse_terre",
+    "title": "Service de la publicité foncière (SPF) - Basse-Terre",
+    "url": "https://lannuaire.service-public.fr/guadeloupe/guadeloupe/hypotheque-97105-01",
+    "metadata": {
+      "email": "spf.basse-terre@dgfip.finances.gouv.fr",
+      "telephone": "05 90 99 47 20",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "c326d4aa5d4e51b45b0686ff85177caf14f488b3",
+    "alternateName": "SPF",
+    "name": "service_de_la_publicite_fonciere_spf_bergerac",
+    "title": "Service de la publicité foncière (SPF) - Bergerac",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/dordogne/hypotheque-24037-01",
+    "metadata": {
+      "email": "spf.bergerac@dgfip.finances.gouv.fr",
+      "telephone": "05 53 63 67 20",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "bf249c41f87c23c7a629b640c66c0d88c2e5d39b",
+    "alternateName": "SPF",
+    "name": "service_de_la_publicite_fonciere_spf_besancon_2",
+    "title": "Service de la publicité foncière (SPF) - Besançon 2",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/doubs/hypotheque-25056-02",
+    "metadata": {
+      "email": "spf.besancon2@dgfip.finances.gouv.fr",
+      "telephone": "03 81 47 24 03",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "33b930ab09df7a4a0ed489ed2c0c5d5167c88116",
+    "alternateName": "SPF",
+    "name": "service_de_la_publicite_fonciere_spf_bethune_1",
+    "title": "Service de la publicité foncière (SPF) - Béthune 1",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/pas-de-calais/hypotheque-62119-01",
+    "metadata": {
+      "email": "spf.bethune1@dgfip.finances.gouv.fr",
+      "telephone": "03 21 63 10 10",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "eaeceeebf067bbd1c044c14193232bff3b324961",
+    "alternateName": "SPF",
+    "name": "service_de_la_publicite_fonciere_spf_bethune_2",
+    "title": "Service de la publicité foncière (SPF) - Béthune 2",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/pas-de-calais/hypotheque-62119-02",
+    "metadata": {
+      "email": "spf.bethune2@dgfip.finances.gouv.fr",
+      "telephone": "03 21 63 10 10",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "203b55d65db046fc3f6fd6b9a0f2fdd2311f91b2",
+    "alternateName": "SPF",
+    "name": "service_de_la_publicite_fonciere_spf_blois_1",
+    "title": "Service de la publicité foncière (SPF) - Blois 1",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/loir-et-cher/hypotheque-41018-01",
+    "metadata": {
+      "email": "spf.blois1@dgfip.finances.gouv.fr",
+      "telephone": "02 54 55 71 33",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "136d4754a2253a5a696166dc5fd97d6e08ed0011",
+    "alternateName": "SPF",
+    "name": "service_de_la_publicite_fonciere_spf_blois_2",
+    "title": "Service de la publicité foncière (SPF) - Blois 2",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/loir-et-cher/hypotheque-41018-02",
+    "metadata": {
+      "email": "spf.blois2@dgfip.finances.gouv.fr",
+      "telephone": "02 54 55 70 73",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "138fa25688e2940b60fd585efd93ea2e687a025c",
+    "alternateName": "SPF",
+    "name": "service_de_la_publicite_fonciere_spf_blois_3",
+    "title": "Service de la publicité foncière (SPF) - Blois 3",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/loir-et-cher/hypotheque-41018-03",
+    "metadata": {
+      "email": "spf.blois3@dgfip.finances.gouv.fr",
+      "telephone": "02 54 55 70 73",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "c88eb76ea778152f57cb3e48e44929f7ee03bd7c",
+    "alternateName": "SPF",
+    "name": "service_de_la_publicite_fonciere_spf_bobigny_2",
+    "title": "Service de la publicité foncière (SPF) - Bobigny 2",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/seine-saint-denis/hypotheque-93008-02",
+    "metadata": {
+      "email": "spf.bobigny2@dgfip.finances.gouv.fr",
+      "telephone": "01 49 15 52 20",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "0fb675921a5fca05a7f0eed11f751f333220cc56",
+    "alternateName": "SPF",
+    "name": "service_de_la_publicite_fonciere_spf_bobigny_3",
+    "title": "Service de la publicité foncière (SPF) - Bobigny 3",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/seine-saint-denis/hypotheque-93008-03",
+    "metadata": {
+      "email": "spf.bobigny3@dgfip.finances.gouv.fr",
+      "telephone": "01 49 15 52 30",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "169ad455d2ff33133189298fcfed04f462202cfa",
+    "alternateName": "SPF",
+    "name": "service_de_la_publicite_fonciere_spf_bobigny_4",
+    "title": "Service de la publicité foncière (SPF) - Bobigny 4",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/seine-saint-denis/hypotheque-93008-04",
+    "metadata": {
+      "email": "spf.bobigny4@dgfip.finances.gouv.fr",
+      "telephone": "01 49 15 52 41",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "278c8a5696943b16b4af86e3aa04216a59203511",
+    "alternateName": "SPF",
+    "name": "service_de_la_publicite_fonciere_spf_bobigny_5",
+    "title": "Service de la publicité foncière (SPF) - Bobigny 5",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/seine-saint-denis/hypotheque-93008-05",
+    "metadata": {
+      "email": "spf.bobigny5@dgfip.finances.gouv.fr",
+      "telephone": "01 49 15 52 41",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "1c5dfe4f06d7c3253bdaddcc62777b7f56472677",
+    "alternateName": "SPF",
+    "name": "service_de_la_publicite_fonciere_spf_bonneville",
+    "title": "Service de la publicité foncière (SPF) - Bonneville",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/haute-savoie/hypotheque-74042-01",
+    "metadata": {
+      "email": "spf.bonneville@dgfip.finances.gouv.fr",
+      "telephone": "04 50 25 64 80",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "93b1dc2e53862f4eaf2ae76276000db6798a12b6",
+    "alternateName": "SPF",
+    "name": "service_de_la_publicite_fonciere_spf_bordeaux_1",
+    "title": "Service de la publicité foncière (SPF) - Bordeaux 1",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/gironde/hypotheque-33063-01",
+    "metadata": {
+      "email": "spf.bordeaux1@dgfip.finances.gouv.fr",
+      "telephone": "05 56 24 80 50",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "01a45d5f3b2f4a80b59f85db968b8e970bdcf8e8",
+    "alternateName": "SPF",
+    "name": "service_de_la_publicite_fonciere_spf_bordeaux_2",
+    "title": "Service de la publicité foncière (SPF) - Bordeaux 2",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/gironde/hypotheque-33063-02",
+    "metadata": {
+      "email": "spf.bordeaux2@dgfip.finances.gouv.fr",
+      "telephone": "05 56 24 80 52",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "6e459a3eba6f8fc680f8606223017bbc1d7ef026",
+    "alternateName": "SPF",
+    "name": "service_de_la_publicite_fonciere_spf_bordeaux_3",
+    "title": "Service de la publicité foncière (SPF) - Bordeaux 3",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/gironde/hypotheque-33063-03",
+    "metadata": {
+      "email": "spf.bordeaux3@dgfip.finances.gouv.fr",
+      "telephone": "05 56 24 80 54",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "e8d1a1cdcebc6128ff53f1b40b05b3a9bcf23e3f",
+    "alternateName": "SPF",
+    "name": "service_de_la_publicite_fonciere_spf_bordeaux_4",
+    "title": "Service de la publicité foncière (SPF) - Bordeaux 4",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/gironde/hypotheque-33063-04",
+    "metadata": {
+      "email": "spf.bordeaux4@dgfip.finances.gouv.fr",
+      "telephone": "05 56 24 80 54",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "e41801256111986733ee0b934ba7722a248af6ad",
+    "alternateName": "SPF",
+    "name": "service_de_la_publicite_fonciere_spf_boulogne_sur_mer_1",
+    "title": "Service de la publicité foncière (SPF) - Boulogne-sur-Mer 1",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/pas-de-calais/hypotheque-62160-01",
+    "metadata": {
+      "email": "spf.boulogne-sur-mer1@dgfip.finances.gouv.fr",
+      "telephone": "03 21 10 29 07",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "b57dc147afb815d4287e78caf514b3aae4302e57",
+    "alternateName": "SPF",
+    "name": "service_de_la_publicite_fonciere_spf_boulogne_sur_mer_2",
+    "title": "Service de la publicité foncière (SPF) - Boulogne-sur-Mer 2",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/pas-de-calais/hypotheque-62160-02",
+    "metadata": {
+      "email": "spf.boulogne-sur-mer2@dgfip.finances.gouv.fr",
+      "telephone": "03 21 90 10 00",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "763a5e2f9f9ff3a231985da9e68d0fb59ae8d4f9",
+    "alternateName": "SPF",
+    "name": "service_de_la_publicite_fonciere_spf_bourges_2",
+    "title": "Service de la publicité foncière (SPF) - Bourges 2",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/cher/hypotheque-18033-02",
+    "metadata": {
+      "email": "spf.bourges2@dgfip.finances.gouv.fr",
+      "telephone": "02 48 69 77 55",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "0d007f77c514488c265b56344c5ce831096a4c3e",
+    "alternateName": "SPF",
+    "name": "service_de_la_publicite_fonciere_spf_bourgoin_jallieu",
+    "title": "Service de la publicité foncière (SPF) - Bourgoin-Jallieu",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/isere/hypotheque-38053-01",
+    "metadata": {
+      "email": "spf.bourgoin-jallieu@dgfip.finances.gouv.fr",
+      "telephone": "04 74 93 84 35",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "48306f14075e04b07a2e557dfc86627e70175b80",
+    "alternateName": "SPF",
+    "name": "service_de_la_publicite_fonciere_spf_brest_2",
+    "title": "Service de la publicité foncière (SPF) - Brest 2",
+    "url": "https://lannuaire.service-public.fr/bretagne/finistere/hypotheque-29019-02",
+    "metadata": {
+      "email": "spf.brest2@dgfip.finances.gouv.fr",
+      "telephone": "02 98 80 89 09",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "d926a0704525b9b58f38ee757914325adcc11caf",
+    "alternateName": "SPF",
+    "name": "service_de_la_publicite_fonciere_spf_brest_3",
+    "title": "Service de la publicité foncière (SPF) - Brest 3",
+    "url": "https://lannuaire.service-public.fr/bretagne/finistere/hypotheque-29019-03",
+    "metadata": {
+      "email": "spf.brest3@dgfip.finances.gouv.fr",
+      "telephone": "02 98 88 91 98",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "f0a61a9e54d3188c6737a4d52529a0ec379c5e0a",
+    "alternateName": "SPF",
+    "name": "service_de_la_publicite_fonciere_spf_briey",
+    "title": "Service de la publicité foncière (SPF) - Briey",
+    "url": "https://lannuaire.service-public.fr/grand-est/meurthe-et-moselle/hypotheque-54099-01",
+    "metadata": {
+      "email": "spf.briey@dgfip.finances.gouv.fr",
+      "telephone": "03 82 47 12 70",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "6a308ca7f48440f419bd0f9be3440a71ee302e35",
+    "alternateName": "SPF",
+    "name": "service_de_la_publicite_fonciere_spf_brive_la_gaillarde",
+    "title": "Service de la publicité foncière (SPF) - Brive-la-Gaillarde",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/correze/hypotheque-19031-01",
+    "metadata": {
+      "email": "spf.brive@dgfip.finances.gouv.fr",
+      "telephone": "05 55 18 31 65",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "a74315b720225e83c1d9b3257551dfb3b6d4e39a",
+    "alternateName": "SPF",
+    "name": "service_de_la_publicite_fonciere_spf_caen_1",
+    "title": "Service de la publicité foncière (SPF) - Caen 1",
+    "url": "https://lannuaire.service-public.fr/normandie/calvados/hypotheque-14118-01",
+    "metadata": {
+      "email": "spf.caen1@dgfip.finances.gouv.fr",
+      "telephone": "02 31 39 75 56",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "467cc2cd6422982a63a161a3505582afb59e112e",
+    "alternateName": "SPF",
+    "name": "service_de_la_publicite_fonciere_spf_caen_2",
+    "title": "Service de la publicité foncière (SPF) - Caen 2",
+    "url": "https://lannuaire.service-public.fr/normandie/calvados/hypotheque-14118-02",
+    "metadata": {
+      "email": "spf.caen2@dgfip.finances.gouv.fr",
+      "telephone": "02 31 39 75 83",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "c9b8c33cd34fe324bffee21d779f6e55805f2157",
+    "alternateName": "SPF",
+    "name": "service_de_la_publicite_fonciere_spf_caen_3",
+    "title": "Service de la publicité foncière (SPF) - Caen 3",
+    "url": "https://lannuaire.service-public.fr/normandie/calvados/hypotheque-14118-03",
+    "metadata": {
+      "email": "spf.caen3@dgfip.finances.gouv.fr",
+      "telephone": "02 31 39 74 00",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "5f5619ab32776d98ce299202cac55bad6f2737d2",
+    "alternateName": "SPF",
+    "name": "service_de_la_publicite_fonciere_spf_caen_4",
+    "title": "Service de la publicité foncière (SPF) - Caen 4",
+    "url": "https://lannuaire.service-public.fr/normandie/calvados/hypotheque-14118-04",
+    "metadata": {
+      "email": "spf.caen4@dgfip.finances.gouv.fr",
+      "telephone": "02 31 39 74 04",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "2e1a99c8b098d1274f74decddf341ad1796f3ddc",
+    "alternateName": "SPF",
+    "name": "service_de_la_publicite_fonciere_spf_cahors",
+    "title": "Service de la publicité foncière (SPF) - Cahors",
+    "url": "https://lannuaire.service-public.fr/occitanie/lot/hypotheque-46042-01",
+    "metadata": {
+      "email": "spf.cahors@dgfip.finances.gouv.fr",
+      "telephone": "05 65 20 33 45",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "3e9674729229e723eb960f17004e42f8ec3d88b3",
+    "alternateName": "SPF",
+    "name": "service_de_la_publicite_fonciere_spf_cambrai",
+    "title": "Service de la publicité foncière (SPF) - Cambrai",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/nord/hypotheque-59122-01",
+    "metadata": {
+      "email": "spf.cambrai@dgfip.finances.gouv.fr",
+      "telephone": "03 27 73 64 80",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "eeb93324a58c01057812ab476d9b96c2d22378e9",
+    "alternateName": "SPF",
+    "name": "service_de_la_publicite_fonciere_spf_castres_1",
+    "title": "Service de la publicité foncière (SPF) - Castres 1",
+    "url": "https://lannuaire.service-public.fr/occitanie/tarn/hypotheque-81065-01",
+    "metadata": {
+      "email": "spf.castres1@dgfip.finances.gouv.fr",
+      "telephone": "05 63 62 52 33",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "627262790275e2fad44249b7e296eaf5309cafdd",
+    "alternateName": "SPF",
+    "name": "service_de_la_publicite_fonciere_spf_castres_2",
+    "title": "Service de la publicité foncière (SPF) - Castres 2",
+    "url": "https://lannuaire.service-public.fr/occitanie/tarn/hypotheque-81065-02",
+    "metadata": {
+      "email": "spf.castres2@dgfip.finances.gouv.fr",
+      "telephone": "05 63 62 59 08",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "7cb28d5d9cec6fa79460c01637e668ac88119541",
+    "alternateName": "SPF",
+    "name": "service_de_la_publicite_fonciere_spf_cayenne",
+    "title": "Service de la publicité foncière (SPF) - Cayenne",
+    "url": "https://lannuaire.service-public.fr/guyane/guyane/hypotheque-97302-01",
+    "metadata": {
+      "email": "spf.cayenne@dgfip.finances.gouv.fr",
+      "telephone": "0 594 28 99 38",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "16f41b67fd61cd4191e8f93439ef5082add44358",
+    "alternateName": "SPF",
+    "name": "service_de_la_publicite_fonciere_spf_cergy_pontoise",
+    "title": "Service de la publicité foncière (SPF) - Cergy-Pontoise",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/val-d-oise/hypotheque-95127-01",
+    "metadata": {
+      "email": "spf.cergy-pontoise1@dgfip.finances.gouv.fr",
+      "telephone": "01 30 75 73 26",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "ecf45950e6c11480cc64468d6cf8bbd68455c630",
+    "alternateName": "SPF",
+    "name": "service_de_la_publicite_fonciere_spf_cergy_pontoise_4",
+    "title": "Service de la publicité foncière (SPF) - Cergy-Pontoise 4",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/val-d-oise/hypotheque-95127-04",
+    "metadata": {
+      "email": "spf.cergy-pontoise4@dgfip.finances.gouv.fr",
+      "telephone": "01 30 75 73 49",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "5013cda50ddf609732778a317b4f52e7db823c49",
+    "alternateName": "SPF",
+    "name": "service_de_la_publicite_fonciere_spf_challans",
+    "title": "Service de la publicité foncière (SPF) - Challans",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/vendee/hypotheque-85047-01",
+    "metadata": {
+      "email": "spf.challans@dgfip.finances.gouv.fr",
+      "telephone": "02 51 49 54 32",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "78048b8009d70d00b596040a8d08ee73f84c10f3",
+    "alternateName": "SPF",
+    "name": "service_de_la_publicite_fonciere_spf_chalons_en_champagne_1",
+    "title": "Service de la publicité foncière (SPF) - Châlons-en-Champagne 1",
+    "url": "https://lannuaire.service-public.fr/grand-est/marne/hypotheque-51108-01",
+    "metadata": {
+      "email": "spf.chalons-en-champagne1@dgfip.finances.gouv.fr",
+      "telephone": "03 26 68 60 50",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "f939ef13e2797efba6947698c80ba8873666b3f1",
+    "alternateName": " SPF",
+    "name": "service_de_la_publicite_fonciere_spf_chalons_en_champagne_2",
+    "title": "Service de la publicité foncière ( SPF) - Châlons-en-Champagne 2",
+    "url": "https://lannuaire.service-public.fr/grand-est/marne/hypotheque-51108-02",
+    "metadata": {
+      "email": "spf.chalons-en-champagne2@dgfip.finances.gouv.fr",
+      "telephone": "03 26 68 60 47",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "f259d4b608676e8c5b4bb03c58360da7891cff92",
+    "alternateName": "SPF",
+    "name": "service_de_la_publicite_fonciere_spf_charleville_mezieres_2",
+    "title": "Service de la publicité foncière (SPF) - Charleville-Mézières 2",
+    "url": "https://lannuaire.service-public.fr/grand-est/ardennes/hypotheque-08105-02",
+    "metadata": {
+      "email": "spf.charleville-mezieres2@dgfip.finances.gouv.fr",
+      "telephone": "03 10 07 30 06",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "816b5575e579d57ac4969e9bff96d4ffcc85098b",
+    "alternateName": "SPF",
+    "name": "service_de_la_publicite_fonciere_spf_charolles",
+    "title": "Service de la publicité foncière (SPF) - Charolles",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/saone-et-loire/hypotheque-71106-01",
+    "metadata": {
+      "email": "spf.charolles@dgfip.finances.gouv.fr",
+      "telephone": "03 85 88 29 31",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "8f1c367fda7c190e233613e2016a543fe089ac10",
+    "alternateName": "SPF",
+    "name": "service_de_la_publicite_fonciere_spf_chartres_2",
+    "title": "Service de la publicité foncière (SPF) - Chartres 2",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/eure-et-loir/hypotheque-28085-02",
+    "metadata": {
+      "email": "spf.chartres2@dgfip.finances.gouv.fr",
+      "telephone": "02 37 20 72 04",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "e6cda6f8a339027569194a61197cfd5dc8eed26a",
+    "alternateName": "SPF",
+    "name": "service_de_la_publicite_fonciere_spf_chartres_3",
+    "title": "Service de la publicité foncière (SPF) - Chartres 3",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/eure-et-loir/hypotheque-28085-03",
+    "metadata": {
+      "email": "spf.chartres3@dgfip.finances.gouv.fr",
+      "telephone": "02 37 18 70 03",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "7bfeb64820625703dcaa4e5fbca7f961dc9d2c8b",
+    "alternateName": "SPF",
+    "name": "service_de_la_publicite_fonciere_spf_chateaubriant",
+    "title": "Service de la publicité foncière (SPF) - Châteaubriant",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/loire-atlantique/hypotheque-44036-01",
+    "metadata": {
+      "email": "spf.chateaubriant@dgfip.finances.gouv.fr",
+      "telephone": "02 40 55 67 51",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "383e82ced6f0dd50e3c3c5a095a1c8b168fa2609",
+    "alternateName": "SPF",
+    "name": "service_de_la_publicite_fonciere_spf_chateauroux_1",
+    "title": "Service de la publicité foncière (SPF) - Châteauroux 1",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/indre/hypotheque-36044-01",
+    "metadata": {
+      "email": "spf.chateauroux1@dgfip.finances.gouv.fr",
+      "telephone": "02 54 53 16 27",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "bb8f2efab0cb39ef11c2283b608e1ee207841797",
+    "alternateName": "SPF",
+    "name": "service_de_la_publicite_fonciere_spf_chateau_thierry",
+    "title": "Service de la publicité foncière (SPF) - Château-Thierry",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/aisne/hypotheque-02168-01",
+    "metadata": {
+      "email": "spf.chateau-thierry@dgfip.finances.gouv.fr",
+      "telephone": "03 23 84 88 40",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "4b1115413ac5e035652906d1a3040af15322391c",
+    "alternateName": "SPF",
+    "name": "service_de_la_publicite_fonciere_spf_chaumont_1",
+    "title": "Service de la publicité foncière (SPF) - Chaumont 1",
+    "url": "https://lannuaire.service-public.fr/grand-est/haute-marne/hypotheque-52121-01",
+    "metadata": {
+      "email": "spf.chaumont1@dgfip.finances.gouv.fr",
+      "telephone": "03 25 30 23 35",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "0ce60ee70c49f432b8faea9c97ea18d187d6444a",
+    "alternateName": "SPF",
+    "name": "service_de_la_publicite_fonciere_spf_chaumont_2",
+    "title": "Service de la publicité foncière (SPF) - Chaumont 2",
+    "url": "https://lannuaire.service-public.fr/grand-est/haute-marne/hypotheque-52121-02",
+    "metadata": {
+      "email": "spf.chaumont2@dgfip.finances.gouv.fr",
+      "telephone": "03 25 30 21 48",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "c627e1d1d5ccf02593c115c9d3d582c69fadacc5",
+    "alternateName": "SPF",
+    "name": "service_de_la_publicite_fonciere_spf_cherbourg_1",
+    "title": "Service de la publicité foncière (SPF) - Cherbourg 1",
+    "url": "https://lannuaire.service-public.fr/normandie/manche/hypotheque-50129-01",
+    "metadata": {
+      "email": "spf.cherbourg1@dgfip.finances.gouv.fr",
+      "telephone": "02 33 01 63 21",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "26531a59889b8b7d2ceed9a393e853ac622c5ada",
+    "alternateName": "SPF",
+    "name": "service_de_la_publicite_fonciere_spf_cherbourg_2",
+    "title": "Service de la publicité foncière (SPF) - Cherbourg 2",
+    "url": "https://lannuaire.service-public.fr/normandie/manche/hypotheque-50129-02",
+    "metadata": {
+      "email": "spf.cherbourg2@dgfip.finances.gouv.fr",
+      "telephone": "02 33 01 62 14",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "d3b05d0dccb2c953a02f588bc8312f68e1a1ee1d",
+    "alternateName": "SPF",
+    "name": "service_de_la_publicite_fonciere_spf_chinon",
+    "title": "Service de la publicité foncière (SPF) - Chinon",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/indre-et-loire/hypotheque-37072-01",
+    "metadata": {
+      "email": "spf.chinon@dgfip.finances.gouv.fr",
+      "telephone": "02 47 93 55 55",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "1bc9122f039425303b1a714d1f7eb9e6ae812987",
+    "alternateName": "SPF",
+    "name": "service_de_la_publicite_fonciere_spf_cholet",
+    "title": "Service de la publicité foncière (SPF) - Cholet",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/maine-et-loire/hypotheque-49099-01",
+    "metadata": {
+      "email": "spf.cholet@dgfip.finances.gouv.fr",
+      "telephone": "02 41 49 58 21",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "4af01e5e9c0a7285044c2e0f03d1ff39bbe5bfc5",
+    "alternateName": "SPF",
+    "name": "service_de_la_publicite_fonciere_spf_clermont_ferrand",
+    "title": "Service de la publicité foncière (SPF) - Clermont-Ferrand",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/puy-de-dome/hypotheque-63113-01",
+    "metadata": {
+      "email": "spf.clermont-ferrand@dgfip.finances.gouv.fr",
+      "telephone": "04 73 43 20 82",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "0fd47099023419fb8c484a893a485b82ef0e0fe7",
+    "alternateName": "SPF",
+    "name": "service_de_la_publicite_fonciere_spf_compiegne",
+    "title": "Service de la publicité foncière (SPF) - Compiègne",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/oise/hypotheque-60159-01",
+    "metadata": {
+      "email": "spf.compiegne@dgfip.finances.gouv.fr",
+      "telephone": "03 44 92 58 88",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "102034019cff0313a84da00aeebe4d45b4303a79",
+    "alternateName": "SPF",
+    "name": "service_de_la_publicite_fonciere_spf_corbeil_1",
+    "title": "Service de la publicité foncière (SPF) - Corbeil 1",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/essonne/hypotheque-91174-01",
+    "metadata": {
+      "email": "spf.corbeil1@dgfip.finances.gouv.fr",
+      "telephone": "01 60 90 51 49",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "6625b44dd4446ba150b5b7f78ccc4af65a807c19",
+    "alternateName": "SPF",
+    "name": "service_de_la_publicite_fonciere_spf_corbeil_2",
+    "title": "Service de la publicité foncière (SPF) - Corbeil 2",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/essonne/hypotheque-91174-02",
+    "metadata": {
+      "email": "spf.corbeil2@dgfip.finances.gouv.fr",
+      "telephone": "01 60 90 51 00",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "71d2cdb21dab7ae53e2de9f7facf9a702b73cc82",
+    "alternateName": "SPF",
+    "name": "service_de_la_publicite_fonciere_spf_corbeil_3",
+    "title": "Service de la publicité foncière (SPF) - Corbeil 3",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/essonne/hypotheque-91174-03",
+    "metadata": {
+      "email": "spf.corbeil3@dgfip.finances.gouv.fr",
+      "telephone": "01 60 90 51 69",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "a9a245a1153b680256d2a863957e4b6664f9a53f",
+    "alternateName": "SPF",
+    "name": "service_de_la_publicite_fonciere_spf_coulommiers_1",
+    "title": "Service de la publicité foncière (SPF) - Coulommiers 1",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/seine-et-marne/hypotheque-77131-01",
+    "metadata": {
+      "email": "spf.coulommiers1@dgfip.finances.gouv.fr",
+      "telephone": "01 64 75 89 66",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "f65ed162c874f28f3fd879b928a318ad5b502047",
+    "alternateName": "SPF",
+    "name": "service_de_la_publicite_fonciere_spf_coulommiers_2",
+    "title": "Service de la publicité foncière (SPF) - Coulommiers 2",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/seine-et-marne/hypotheque-77131-02",
+    "metadata": {
+      "email": "spf.coulommiers2@dgfip.finances.gouv.fr",
+      "telephone": "01 64 75 89 47",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "c8ea5dc9172782c2c8642ed6bf36988197f7bd5c",
+    "alternateName": "SPF",
+    "name": "service_de_la_publicite_fonciere_spf_creteil_1",
+    "title": "Service de la publicité foncière (SPF) - Créteil 1",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/val-de-marne/hypotheque-94028-01",
+    "metadata": {
+      "email": "spf.creteil1@dgfip.finances.gouv.fr",
+      "telephone": "01 41 94 34 65",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "1da641207776c4bb9e5680325e95a0e8e61e9ccf",
+    "alternateName": "SPF",
+    "name": "service_de_la_publicite_fonciere_spf_creteil_2",
+    "title": "Service de la publicité foncière (SPF) - Créteil 2",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/val-de-marne/hypotheque-94028-02",
+    "metadata": {
+      "email": "spf.creteil2@dgfip.finances.gouv.fr",
+      "telephone": "01 43 99 36 91",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "3600d407b1dfad30df0ad674c3d4bd5d3429ce02",
+    "alternateName": "SPF",
+    "name": "service_de_la_publicite_fonciere_spf_creteil_3",
+    "title": "Service de la publicité foncière (SPF) - Créteil 3",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/val-de-marne/hypotheque-94028-03",
+    "metadata": {
+      "email": "spf.creteil3@dgfip.finances.gouv.fr",
+      "telephone": "01 43 99 36 95",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "c45ce558c00d55e293933979ecdfc6ca5025b0aa",
+    "alternateName": "SPF",
+    "name": "service_de_la_publicite_fonciere_spf_creteil_4",
+    "title": "Service de la publicité foncière (SPF) - Créteil 4",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/val-de-marne/hypotheque-94028-04",
+    "metadata": {
+      "email": "spf.creteil4@dgfip.finances.gouv.fr",
+      "telephone": "01 43 99 36 93",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "72d0675a57cc6ff4a572622c924010f51b86bfcf",
+    "alternateName": "SPF",
+    "name": "service_de_la_publicite_fonciere_spf_cusset_1",
+    "title": "Service de la publicité foncière (SPF) - Cusset 1",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/allier/hypotheque-03095-01",
+    "metadata": {
+      "email": "spf.cusset1@dgfip.finances.gouv.fr",
+      "telephone": "04 70 30 85 04",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "6de7aedef71103e11a1b6430fbd6d074c66cea8c",
+    "alternateName": "SPF",
+    "name": "service_de_la_publicite_fonciere_spf_cusset_2",
+    "title": "Service de la publicité foncière (SPF) - Cusset 2",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/allier/hypotheque-03095-02",
+    "metadata": {
+      "email": "spf.cusset2@dgfip.finances.gouv.fr",
+      "telephone": "04 70 90 20 22",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "231ec3abce890ef31296b13d93a3f87c243e151e",
+    "alternateName": "SPF",
+    "name": "service_de_la_publicite_fonciere_spf_dieppe",
+    "title": "Service de la publicité foncière (SPF) - Dieppe",
+    "url": "https://lannuaire.service-public.fr/normandie/seine-maritime/hypotheque-76217-01",
+    "metadata": {
+      "email": "spf.dieppe@dgfip.finances.gouv.fr",
+      "telephone": "02 32 14 05 70",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "37d537d04f67821ea45f6c19fed4558778d68a77",
+    "alternateName": "SPF",
+    "name": "service_de_la_publicite_fonciere_spf_dinan",
+    "title": "Service de la publicité foncière (SPF) - Dinan",
+    "url": "https://lannuaire.service-public.fr/bretagne/cotes-d-armor/hypotheque-22050-01",
+    "metadata": {
+      "email": "spf.dinan@dgfip.finances.gouv.fr",
+      "telephone": "02 96 87 61 00",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "4e855046ec9860327c7b09146fdb9fc5ef97e94a",
+    "alternateName": "SPF",
+    "name": "service_de_la_publicite_fonciere_spf_douai",
+    "title": "Service de la publicité foncière (SPF) - Douai",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/nord/hypotheque-59178-01",
+    "metadata": {
+      "email": "spf.douai@dgfip.finances.gouv.fr",
+      "telephone": "03 27 93 48 13",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "5d433a041561b93494b76800934b6ca372f3c6cc",
+    "alternateName": "SPF",
+    "name": "service_de_la_publicite_fonciere_spf_dreux",
+    "title": "Service de la publicité foncière (SPF) - Dreux",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/eure-et-loir/hypotheque-28134-01",
+    "metadata": {
+      "email": "spf.dreux@dgfip.finances.gouv.fr",
+      "telephone": "02 37 38 06 28",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "a1bbd353a79d2b92e412e3510f885b0f0d3cb4df",
+    "alternateName": "SPF",
+    "name": "service_de_la_publicite_fonciere_spf_epernay",
+    "title": "Service de la publicité foncière (SPF) - Épernay",
+    "url": "https://lannuaire.service-public.fr/grand-est/marne/hypotheque-51230-01",
+    "metadata": {
+      "email": "spf.epernay@dgfip.finances.gouv.fr",
+      "telephone": "03 26 58 76 35",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "0c7bea3f64463fcae163c6014533d73fcf9b189c",
+    "alternateName": "SPF",
+    "name": "service_de_la_publicite_fonciere_spf_epinal_1",
+    "title": "Service de la publicité foncière (SPF) - Épinal 1",
+    "url": "https://lannuaire.service-public.fr/grand-est/vosges/hypotheque-88160-01",
+    "metadata": {
+      "email": "spf.epinal1@dgfip.finances.gouv.fr",
+      "telephone": "03 29 69 22 74",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "4d25025ae27e59db5687d05e786142ec7f27d854",
+    "alternateName": "SPF",
+    "name": "service_de_la_publicite_fonciere_spf_etampes",
+    "title": "Service de la publicité foncière (SPF) - Étampes",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/essonne/hypotheque-91223-01",
+    "metadata": {
+      "email": "spf.etampes@dgfip.finances.gouv.fr",
+      "telephone": "01 69 92 65 72",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "363123c20f0c83aebb0bbc9bc2bb32e18f006186",
+    "alternateName": "SPF",
+    "name": "service_de_la_publicite_fonciere_spf_evreux",
+    "title": "Service de la publicité foncière (SPF) - Evreux",
+    "url": "https://lannuaire.service-public.fr/normandie/eure/hypotheque-27229-01",
+    "metadata": {
+      "email": "spf.evreux@dgfip.finances.gouv.fr",
+      "telephone": "02 32 23 31 00",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "8e830d06afbb83590ee7593f5e9e85a9f93c9398",
+    "alternateName": "SPF",
+    "name": "service_de_la_publicite_fonciere_spf_foix",
+    "title": "Service de la publicité foncière (SPF) - Foix",
+    "url": "https://lannuaire.service-public.fr/occitanie/ariege/hypotheque-09122-01",
+    "metadata": {
+      "email": "spf.foix@dgfip.finances.gouv.fr",
+      "telephone": "05 61 02 33 11",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "da039121c34df12961288514ffeb8fde484d69be",
+    "alternateName": "SPF",
+    "name": "service_de_la_publicite_fonciere_spf_fontenay_le_comte",
+    "title": "Service de la publicité foncière (SPF) - Fontenay-le-Comte",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/vendee/hypotheque-85092-01",
+    "metadata": {
+      "email": "spf.fontenay-le-comte@dgfip.finances.gouv.fr",
+      "telephone": "02 51 50 30 22",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "69404a4e4ef2b53886e7557c536840c9f37e9c86",
+    "alternateName": "SPF",
+    "name": "service_de_la_publicite_fonciere_spf_fort_de_france",
+    "title": "Service de la publicité foncière (SPF) - Fort-de-France",
+    "url": "https://lannuaire.service-public.fr/martinique/martinique/hypotheque-97209-01",
+    "metadata": {
+      "email": "spf.fort-de-france@dgfip.finances.gouv.fr",
+      "telephone": "0 596 59 55 82",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "9db9f25a41b41d602025963ae64eb053922bfa31",
+    "alternateName": "SPF",
+    "name": "service_de_la_publicite_fonciere_spf_gap",
+    "title": "Service de la publicité foncière (SPF) - Gap",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/hautes-alpes/hypotheque-05061-01",
+    "metadata": {
+      "email": "spf.gap@dgfip.finances.gouv.fr",
+      "telephone": "04 92 52 21 21",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "46fbcb945a5c6cf0e3a6575d32afe08b8211770d",
+    "alternateName": "SPF",
+    "name": "service_de_la_publicite_fonciere_spf_gien",
+    "title": "Service de la publicité foncière (SPF) - Gien",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/loiret/hypotheque-45155-01",
+    "metadata": {
+      "email": "spf.gien@dgfip.finances.gouv.fr",
+      "telephone": "02 38 37 34 18",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "4b2763344a7950cf7337da08378168d2e3da6ab4",
+    "alternateName": "SPF",
+    "name": "service_de_la_publicite_fonciere_spf_grasse_1",
+    "title": "Service de la publicité foncière (SPF) - Grasse 1",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/alpes-maritimes/hypotheque-06069-01",
+    "metadata": {
+      "email": "spf.grasse1@dgfip.finances.gouv.fr",
+      "telephone": "04 93 40 36 05",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "b24a5a758f097164ae03451fc1b7049946014388",
+    "alternateName": "SPF",
+    "name": "service_de_la_publicite_fonciere_spf_grasse_2",
+    "title": "Service de la publicité foncière (SPF) - Grasse 2",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/alpes-maritimes/hypotheque-06069-02",
+    "metadata": {
+      "email": "spf.grasse2@dgfip.finances.gouv.fr",
+      "telephone": "04 93 40 36 34",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "831c083ed3841bf863099ed23933c6ed1dac7642",
+    "alternateName": "SPF",
+    "name": "service_de_la_publicite_fonciere_spf_grenoble_1",
+    "title": "Service de la publicité foncière (SPF) - Grenoble 1",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/isere/hypotheque-38185-01",
+    "metadata": {
+      "email": "spf.grenoble1@dgfip.finances.gouv.fr",
+      "telephone": "04 76 39 38 82",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "69f0641e58866757da2372b24ad2ce821b53e206",
+    "alternateName": "SPF",
+    "name": "service_de_la_publicite_fonciere_spf_grenoble_2",
+    "title": "Service de la publicité foncière (SPF) - Grenoble 2",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/isere/hypotheque-38185-02",
+    "metadata": {
+      "email": "spf.grenoble2@dgfip.finances.gouv.fr",
+      "telephone": "04 76 39 38 84",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "8a48f3366823b5860a26bc51cbebc1508f952968",
+    "alternateName": "SPF",
+    "name": "service_de_la_publicite_fonciere_spf_grenoble_3",
+    "title": "Service de la publicité foncière (SPF) - Grenoble 3",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/isere/hypotheque-38185-03",
+    "metadata": {
+      "email": "spf.grenoble3@dgfip.finances.gouv.fr",
+      "telephone": "04 76 39 39 59",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "787a980101666b1fc3ed09b4211890200d69b803",
+    "alternateName": "SPF",
+    "name": "service_de_la_publicite_fonciere_spf_gueret",
+    "title": "Service de la publicité foncière (SPF) - Guéret",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/creuse/hypotheque-23096-01",
+    "metadata": {
+      "email": "spf.gueret@dgfip.finances.gouv.fr",
+      "telephone": "05 55 51 63 27",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "5b0fb5bbbeccf6b9b5590b9d10060be8d3b7e7f6",
+    "alternateName": "SPF",
+    "name": "service_de_la_publicite_fonciere_spf_guingamp",
+    "title": "Service de la publicité foncière (SPF) - Guingamp",
+    "url": "https://lannuaire.service-public.fr/bretagne/cotes-d-armor/hypotheque-22070-01",
+    "metadata": {
+      "email": "spf.guingamp@dgfip.finances.gouv.fr",
+      "telephone": "02 96 13 55 55",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "f35361bced9a0fbe3c22f6ea1b2cc1e3bd66a8bb",
+    "alternateName": "SPF",
+    "name": "service_de_la_publicite_fonciere_spf_havre_2",
+    "title": "Service de la publicité foncière (SPF) - Havre 2",
+    "url": "https://lannuaire.service-public.fr/normandie/seine-maritime/hypotheque-76351-02",
+    "metadata": {
+      "email": "spf.le-havre2@dgfip.finances.gouv.fr",
+      "telephone": "02 35 19 37 19",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "2c4cccbbd8c92ebd558e33091f32d87e898531da",
+    "alternateName": "SPF",
+    "name": "service_de_la_publicite_fonciere_spf_hazebrouck",
+    "title": "Service de la publicité foncière (SPF) - Hazebrouck",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/nord/hypotheque-59295-01",
+    "metadata": {
+      "email": "spf.hazebrouck@dgfip.finances.gouv.fr",
+      "telephone": "03 28 42 61 95",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "ea9c4db85267fa132c5a200e8de666188cb3b76d",
+    "alternateName": "SPF",
+    "name": "service_de_la_publicite_fonciere_spf_hirson",
+    "title": "Service de la publicité foncière (SPF) - Hirson",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/aisne/hypotheque-02381-01",
+    "metadata": {
+      "email": "spf.hirson@dgfip.finances.gouv.fr",
+      "telephone": "03 23 99 26 00",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "9c79ee9890e24cf91fb8e2e2e1dc7929764ffb2d",
+    "alternateName": "SPF",
+    "name": "service_de_la_publicite_fonciere_spf_issoire",
+    "title": "Service de la publicité foncière (SPF) - Issoire",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/puy-de-dome/hypotheque-63178-01",
+    "metadata": {
+      "email": "spf.issoire@dgfip.finances.gouv.fr",
+      "telephone": "04 73 89 76 06",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "fae9c54b5cefa7d4dd7403eb21adbb927ccfec40",
+    "alternateName": "SPF",
+    "name": "service_de_la_publicite_fonciere_spf_joigny",
+    "title": "Service de la publicité foncière (SPF) - Joigny",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/yonne/hypotheque-89206-01",
+    "metadata": {
+      "email": "spf.joigny@dgfip.finances.gouv.fr",
+      "telephone": "03 86 92 47 33",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "e5e17f41cada079daa6e242eb2d03ff2607ea499",
+    "alternateName": "SPF",
+    "name": "service_de_la_publicite_fonciere_spf_jonzac",
+    "title": "Service de la publicité foncière (SPF) - Jonzac",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/charente-maritime/hypotheque-17197-01",
+    "metadata": {
+      "email": "spf.jonzac@dgfip.finances.gouv.fr",
+      "telephone": "05 46 48 78 97",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "64f81c234cd03db9b3af203202495ba3f1d4ea64",
+    "alternateName": "SPF",
+    "name": "service_de_la_publicite_fonciere_spf_lannion",
+    "title": "Service de la publicité foncière (SPF) - Lannion",
+    "url": "https://lannuaire.service-public.fr/bretagne/cotes-d-armor/hypotheque-22113-01",
+    "metadata": {
+      "email": "spf.lannion@dgfip.finances.gouv.fr",
+      "telephone": "02 96 48 91 21",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "83c92e4f81449b3a898fb055bee799725f3589f9",
+    "alternateName": "SPF",
+    "name": "service_de_la_publicite_fonciere_spf_la_rochelle_1",
+    "title": "Service de la publicité foncière (SPF) - La Rochelle 1",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/charente-maritime/hypotheque-17300-01",
+    "metadata": {
+      "email": "spf.la-rochelle1@dgfip.finances.gouv.fr",
+      "telephone": "05 46 41 09 55",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "0a651a4c41fc76d915d30ddb0638208bf0038211",
+    "alternateName": "SPF",
+    "name": "service_de_la_publicite_fonciere_spf_la_rochelle_2",
+    "title": "Service de la publicité foncière (SPF) - La Rochelle 2",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/charente-maritime/hypotheque-17300-02",
+    "metadata": {
+      "email": "spf.la-rochelle2@dgfip.finances.gouv.fr",
+      "telephone": "05 46 41 09 55",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "998dd3f34dc4576d2e13113cc19d86f48e466120",
+    "alternateName": "SPF",
+    "name": "service_de_la_publicite_fonciere_spf_la_roche_sur_yon",
+    "title": "Service de la publicité foncière (SPF) - La Roche-sur-Yon",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/vendee/hypotheque-85191-01",
+    "metadata": {
+      "email": "spf.la-roche-sur-yon@dgfip.finances.gouv.fr",
+      "telephone": "02 51 45 11 45",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "9443f4c1d44f86d0bdd44295d52b76cf38fbd006",
+    "alternateName": "SPF",
+    "name": "service_de_la_publicite_fonciere_spf_laval_1",
+    "title": "Service de la publicité foncière (SPF) - Laval 1",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/mayenne/hypotheque-53130-01",
+    "metadata": {
+      "email": "spf.laval1@dgfip.finances.gouv.fr",
+      "telephone": "02 43 49 68 68",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "39ae8572e3fc60b12c7a33b8e8b8f320938d3151",
+    "alternateName": "SPF",
+    "name": "service_de_la_publicite_fonciere_spf_laval_2",
+    "title": "Service de la publicité foncière (SPF) - Laval 2",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/mayenne/hypotheque-53130-02",
+    "metadata": {
+      "email": "spf.laval2@dgfip.finances.gouv.fr",
+      "telephone": "02 43 49 68 68",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "6d3b263e74aa9a2b399a98a6787f9644023a6ecc",
+    "alternateName": "SPF",
+    "name": "service_de_la_publicite_fonciere_spf_laval_3",
+    "title": "Service de la publicité foncière (SPF) - Laval 3",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/mayenne/hypotheque-53130-03",
+    "metadata": {
+      "email": "spf.laval3@dgfip.finances.gouv.fr",
+      "telephone": "02 43 49 68 68",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "4bf632fa72274dc575f825274a547054cd2f6c40",
+    "alternateName": "SPF",
+    "name": "service_de_la_publicite_fonciere_spf_le_havre_1",
+    "title": "Service de la publicité foncière (SPF) - Le Havre 1",
+    "url": "https://lannuaire.service-public.fr/normandie/seine-maritime/hypotheque-76351-01",
+    "metadata": {
+      "email": "spf.le-havre1@dgfip.finances.gouv.fr",
+      "telephone": "02 35 19 37 09",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "f564746727372d508c12daf1a4a5f20063d31da1",
+    "alternateName": "SPF",
+    "name": "service_de_la_publicite_fonciere_spf_le_mans_1",
+    "title": "Service de la publicité foncière (SPF) - Le Mans 1",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/sarthe/hypotheque-72181-01",
+    "metadata": {
+      "email": "spf.le-mans1@dgfip.finances.gouv.fr",
+      "telephone": "02 43 14 32 30",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "1a77c4b6d24823a6c1535fcb3f1d27c614b77084",
+    "alternateName": "SPF",
+    "name": "service_de_la_publicite_fonciere_spf_le_mans_2",
+    "title": "Service de la publicité foncière (SPF) - Le Mans 2",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/sarthe/hypotheque-72181-02",
+    "metadata": {
+      "email": "spf.le-mans2@dgfip.finances.gouv.fr",
+      "telephone": "02 43 14 32 50",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "37871dd22849d8d36ef22f278496d017c67169d7",
+    "alternateName": "SPF",
+    "name": "service_de_la_publicite_fonciere_spf_le_mans_3",
+    "title": "Service de la publicité foncière (SPF) - Le Mans 3",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/sarthe/hypotheque-72181-03",
+    "metadata": {
+      "email": "spf.le-mans3@dgfip.finances.gouv.fr",
+      "telephone": "02 43 14 32 35",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "469811a4d9b7102b2ad80d3416a1737053cd5964",
+    "alternateName": "SPF",
+    "name": "service_de_la_publicite_fonciere_spf_le_mans_4",
+    "title": "Service de la publicité foncière (SPF) - Le Mans 4",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/sarthe/hypotheque-72181-04",
+    "metadata": {
+      "email": "spf.le-mans4@dgfip.finances.gouv.fr",
+      "telephone": "02 43 14 32 54",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "1f5011486972a6bb687580d32a1d053b6319f667",
+    "alternateName": "SPF",
+    "name": "service_de_la_publicite_fonciere_spf_les_sables_d_olonne",
+    "title": "Service de la publicité foncière (SPF) - Les Sables-d'Olonne",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/vendee/hypotheque-85194-01",
+    "metadata": {
+      "email": "spf.les-sables-dolonne@dgfip.finances.gouv.fr",
+      "telephone": "02 51 21 76 74",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "c94a5f3976d1b8a5f60a9cd49b51b918c880e362",
+    "alternateName": "SPF",
+    "name": "service_de_la_publicite_fonciere_spf_libourne_1",
+    "title": "Service de la publicité foncière (SPF) - Libourne 1",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/gironde/hypotheque-33243-01",
+    "metadata": {
+      "email": "spf.libourne1@dgfip.finances.gouv.fr",
+      "telephone": "05 57 55 23 61",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "d779d95fe7cb400c2b5c54ae60d56b62f683d152",
+    "alternateName": "SPF",
+    "name": "service_de_la_publicite_fonciere_spf_libourne_2",
+    "title": "Service de la publicité foncière (SPF) - Libourne 2",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/gironde/hypotheque-33243-02",
+    "metadata": {
+      "email": "spf.libourne2@dgfip.finances.gouv.fr",
+      "telephone": "05 57 55 23 61",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "84a69d120c9bb9943cd96b13a762cd8aa65e7ab2",
+    "alternateName": "SPF",
+    "name": "service_de_la_publicite_fonciere_spf_lille_1",
+    "title": "Service de la publicité foncière (SPF) - Lille 1",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/nord/hypotheque-59350-01",
+    "metadata": {
+      "email": "spf.lille1@dgfip.finances.gouv.fr",
+      "telephone": "03 20 95 65 59",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "cb8f9408a96496bcbda32e0bf8c3c06f7ec75ade",
+    "alternateName": "SPF",
+    "name": "service_de_la_publicite_fonciere_spf_lille_2",
+    "title": "Service de la publicité foncière (SPF) - Lille 2",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/nord/hypotheque-59350-02",
+    "metadata": {
+      "email": "spf.lille2@dgfip.finances.gouv.fr",
+      "telephone": "03 20 95 65 80",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "d73bf460c5be54ad84bf0c7fdf87e4bf806dd660",
+    "alternateName": "SPF",
+    "name": "service_de_la_publicite_fonciere_spf_lille_3",
+    "title": "Service de la publicité foncière (SPF) - Lille 3",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/nord/hypotheque-59350-03",
+    "metadata": {
+      "email": "spf.lille3@dgfip.finances.gouv.fr",
+      "telephone": "03 20 95 65 69",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "81fd4d85e039319fe74a14e5b622c4fc77ad5887",
+    "alternateName": "SPF",
+    "name": "service_de_la_publicite_fonciere_spf_loches",
+    "title": "Service de la publicité foncière (SPF) - Loches",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/indre-et-loire/hypotheque-37132-01",
+    "metadata": {
+      "email": "spf.loches@dgfip.finances.gouv.fr",
+      "telephone": "02 47 91 16 30",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "902604d3244ec071a7398e7fd0dc7caa69be9c4a",
+    "alternateName": "SPF",
+    "name": "service_de_la_publicite_fonciere_spf_lons_le_saunier_1",
+    "title": "Service de la publicité foncière (SPF) - Lons-le-Saunier 1",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/jura/hypotheque-39300-01",
+    "metadata": {
+      "email": "spf.lons-le-saunier1@dgfip.finances.gouv.fr",
+      "telephone": "03 84 43 48 91",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "808efc5a0986c25b0a388053d7eb221960b611e0",
+    "alternateName": "SPF",
+    "name": "service_de_la_publicite_fonciere_spf_lorient_1",
+    "title": "Service de la publicité foncière (SPF) - Lorient 1",
+    "url": "https://lannuaire.service-public.fr/bretagne/morbihan/hypotheque-56121-01",
+    "metadata": {
+      "email": "spf.lorient1@dgfip.finances.gouv.fr",
+      "telephone": "02 97 21 05 89",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "97f0916c60ae6f7af549ed1024b27a88cf38a55a",
+    "alternateName": "SPF",
+    "name": "service_de_la_publicite_fonciere_spf_lorient_2",
+    "title": "Service de la publicité foncière (SPF) - Lorient 2",
+    "url": "https://lannuaire.service-public.fr/bretagne/morbihan/hypotheque-56121-02",
+    "metadata": {
+      "email": "spf.lorient2@dgfip.finances.gouv.fr",
+      "telephone": "02 97 21 04 06",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "4204127605a0c2668fabf83a19dc46b5b53d2366",
+    "alternateName": "SPF",
+    "name": "service_de_la_publicite_fonciere_spf_lorient_3",
+    "title": "Service de la publicité foncière (SPF) - Lorient 3",
+    "url": "https://lannuaire.service-public.fr/bretagne/morbihan/hypotheque-56121-03",
+    "metadata": {
+      "email": "spf.lorient3@dgfip.finances.gouv.fr",
+      "telephone": "02 97 02 80 73",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "a867f7814fbd5f50fd8ffa67ee3cd52f5f3690b2",
+    "alternateName": "SPF",
+    "name": "service_de_la_publicite_fonciere_spf_loudeac",
+    "title": "Service de la publicité foncière (SPF) - Loudéac",
+    "url": "https://lannuaire.service-public.fr/bretagne/cotes-d-armor/hypotheque-22136-01",
+    "metadata": {
+      "email": "spf.loudeac@dgfip.finances.gouv.fr",
+      "telephone": "02 96 66 16 81",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "41a4c1ef5e784708e0c19b6a53fcf068918e5b7a",
+    "alternateName": "SPF",
+    "name": "service_de_la_publicite_fonciere_spf_louhans",
+    "title": "Service de la publicité foncière (SPF) -  Louhans",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/saone-et-loire/hypotheque-71263-01",
+    "metadata": {
+      "email": "spf.louhans@dgfip.finances.gouv.fr",
+      "telephone": "03 85 76 47 42",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "cc6b186b16c364217dba8e327e282a6a08c3a37d",
+    "alternateName": "SPF",
+    "name": "service_de_la_publicite_fonciere_spf_louviers_1",
+    "title": "Service de la publicité foncière (SPF) - Louviers 1",
+    "url": "https://lannuaire.service-public.fr/normandie/eure/hypotheque-27375-01",
+    "metadata": {
+      "email": "spf.louviers1@dgfip.finances.gouv.fr",
+      "telephone": "02 32 25 71 02",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "a2a0229149662e0ab9cc742f4935201984916499",
+    "alternateName": "SPF",
+    "name": "service_de_la_publicite_fonciere_spf_louviers_2",
+    "title": "Service de la publicité foncière (SPF) - Louviers 2",
+    "url": "https://lannuaire.service-public.fr/normandie/eure/hypotheque-27375-02",
+    "metadata": {
+      "email": "spf.louviers2@dgfip.finances.gouv.fr",
+      "telephone": "02 32 25 48 07",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "71b45d19a4eb7c96bfa5e2aa6659b34037ada7c2",
+    "alternateName": "SPF",
+    "name": "service_de_la_publicite_fonciere_spf_luneville",
+    "title": "Service de la publicité foncière (SPF) - Lunéville",
+    "url": "https://lannuaire.service-public.fr/grand-est/meurthe-et-moselle/hypotheque-54329-01",
+    "metadata": {
+      "email": "spf.luneville@dgfip.finances.gouv.fr",
+      "telephone": "03 83 76 87 54",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "57a6e7195f10c83dadb42fe9a7eae7b2f190d701",
+    "alternateName": "SPF",
+    "name": "service_de_la_publicite_fonciere_spf_lure",
+    "title": "Service de la publicité foncière (SPF) - Lure",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/haute-saone/hypotheque-70310-01",
+    "metadata": {
+      "email": "spf.lure@dgfip.finances.gouv.fr",
+      "telephone": "03 84 62 41 04",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "dc5f2f212aacd641b188ed44f2c16fa70e2feaba",
+    "alternateName": "SPF",
+    "name": "service_de_la_publicite_fonciere_spf_lyon_1",
+    "title": "Service de la publicité foncière (SPF) - Lyon 1",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/rhone/hypotheque-69383-01",
+    "metadata": {
+      "email": "spf.lyon1@dgfip.finances.gouv.fr",
+      "telephone": "04 78 63 21 26",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "f6c148091f42dae69b6aa4aafbc0c9144a322407",
+    "alternateName": "SPF",
+    "name": "service_de_la_publicite_fonciere_spf_lyon_2",
+    "title": "Service de la publicité foncière (SPF) - Lyon 2",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/rhone/hypotheque-69383-02",
+    "metadata": {
+      "email": "spf.lyon2@dgfip.finances.gouv.fr",
+      "telephone": "04 78 63 23 26",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "22e330f8a90e455aced08612f76dd5dccc4e5f1e",
+    "alternateName": "SPF",
+    "name": "service_de_la_publicite_fonciere_spf_lyon_3",
+    "title": "Service de la publicité foncière (SPF) - Lyon 3",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/rhone/hypotheque-69383-03",
+    "metadata": {
+      "email": "spf.lyon3@dgfip.finances.gouv.fr",
+      "telephone": "04 78 63 25 26",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "30ecd35fb53163e0ad01fdda781a75a04e49e6eb",
+    "alternateName": "SPF",
+    "name": "service_de_la_publicite_fonciere_spf_lyon_4",
+    "title": "Service de la publicité foncière (SPF) - Lyon 4",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/rhone/hypotheque-69383-04",
+    "metadata": {
+      "email": "spf.lyon4@dgfip.finances.gouv.fr",
+      "telephone": "04 78 63 27 26",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "39253fd39c124726b040b6a0752e4f733df1272b",
+    "alternateName": "SPF",
+    "name": "service_de_la_publicite_fonciere_spf_lyon_5",
+    "title": "Service de la publicité foncière (SPF) - Lyon 5",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/rhone/hypotheque-69383-05",
+    "metadata": {
+      "email": "spf.lyon5@dgfip.finances.gouv.fr",
+      "telephone": "04 78 63 29 26",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "2502860ccd64036a0bc8afc41d9e0aee3f36e4ba",
+    "alternateName": "SPF",
+    "name": "service_de_la_publicite_fonciere_spf_macon_2",
+    "title": "Service de la publicité foncière (SPF) - Mâcon 2",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/saone-et-loire/hypotheque-71076-01",
+    "metadata": {
+      "email": "spf.macon2@dgfip.finances.gouv.fr",
+      "telephone": "03 85 22 54 88",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "1409ad8789aab91873c25b7e0b626f8d2c86e84c",
+    "alternateName": "SPF",
+    "name": "service_de_la_publicite_fonciere_spf_mantes_la_jolie",
+    "title": "Service de la publicité foncière (SPF) - Mantes-la-Jolie",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/yvelines/hypotheque-78361-01",
+    "metadata": {
+      "email": "spf.mantes-la-jolie@dgfip.finances.gouv.fr",
+      "telephone": "01 34 79 49 00",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "224b578738cd4cd42964cbb188ae644a4236f275",
+    "alternateName": "SPF",
+    "name": "service_de_la_publicite_fonciere_spf_marennes",
+    "title": "Service de la publicité foncière (SPF) - Marennes",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/charente-maritime/hypotheque-17219-01",
+    "metadata": {
+      "email": "spf.marennes@dgfip.finances.gouv.fr",
+      "telephone": "05 46 85 83 71",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "7462b370427d536a90298f3d8cfe4d84b254aa64",
+    "alternateName": "SPF",
+    "name": "service_de_la_publicite_fonciere_spf_marseille_1",
+    "title": "Service de la publicité foncière (SPF) - Marseille 1",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/hypotheque-13208-01",
+    "metadata": {
+      "email": "spf.marseille1@dgfip.finances.gouv.fr",
+      "telephone": "04 91 23 61 45",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "7261f645798d28df1d485d80320dbcdc70245465",
+    "alternateName": "SPF",
+    "name": "service_de_la_publicite_fonciere_spf_marseille_2",
+    "title": "Service de la publicité foncière (SPF) - Marseille 2",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/hypotheque-13208-02",
+    "metadata": {
+      "email": "spf.marseille2@dgfip.finances.gouv.fr",
+      "telephone": "04 91 23 61 51",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "f06e7c32a5251959add29c92891bd5be4c912965",
+    "alternateName": "SPF",
+    "name": "service_de_la_publicite_fonciere_spf_marseille_3",
+    "title": "Service de la publicité foncière (SPF) - Marseille 3",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/hypotheque-13208-03",
+    "metadata": {
+      "email": "spf.marseille3@dgfip.finances.gouv.fr",
+      "telephone": "04 91 23 61 53",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "06bd3379e99feb2ba3107276f007d7da9757aa24",
+    "alternateName": "SPF",
+    "name": "service_de_la_publicite_fonciere_spf_marseille_4",
+    "title": "Service de la publicité foncière (SPF) - Marseille 4",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/hypotheque-13208-04",
+    "metadata": {
+      "email": "spf.marseille4@dgfip.finances.gouv.fr",
+      "telephone": "04 91 23 61 58",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "0371880c66e7070902fbe314e0efef733c230566",
+    "alternateName": "SPF",
+    "name": "service_de_la_publicite_fonciere_spf_massy",
+    "title": "Service de la publicité foncière (SPF) - Massy",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/essonne/hypotheque-91377-01",
+    "metadata": {
+      "email": "spf.massy@dgfip.finances.gouv.fr",
+      "telephone": "01 69 93 32 00",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "dcc06479ae7bbe6b2d9b3c11658cd62e95fee53a",
+    "alternateName": "SPF",
+    "name": "service_de_la_publicite_fonciere_spf_meaux",
+    "title": "Service de la publicité foncière (SPF) - Meaux",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/seine-et-marne/hypotheque-77284-01",
+    "metadata": {
+      "email": "spf.meaux@dgfip.finances.gouv.fr",
+      "telephone": "01 64 35 32 03",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "998ecec92d6e210088668e3a5193cb319a3704ab",
+    "alternateName": "SPF",
+    "name": "service_de_la_publicite_fonciere_spf_melun_1",
+    "title": "Service de la publicité foncière (SPF) - Melun 1",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/seine-et-marne/hypotheque-77288-01",
+    "metadata": {
+      "email": "spf.melun1@dgfip.finances.gouv.fr",
+      "telephone": "01 64 41 31 86",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "93ffb796c6e7e9405b61163c7db525fbf9e56b7b",
+    "alternateName": "SPF",
+    "name": "service_de_la_publicite_fonciere_spf_millau",
+    "title": "Service de la publicité foncière (SPF) - Millau",
+    "url": "https://lannuaire.service-public.fr/occitanie/aveyron/hypotheque-12145-01",
+    "metadata": {
+      "email": "spf.millau@dgfip.finances.gouv.fr",
+      "telephone": "05 65 59 20 00",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "dfae96fa4f06225f8bdb51722fca65178f27ca78",
+    "alternateName": "SPF",
+    "name": "service_de_la_publicite_fonciere_spf_montargis",
+    "title": "Service de la publicité foncière (SPF) - Montargis",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/loiret/hypotheque-45208-01",
+    "metadata": {
+      "email": "spf.montargis@dgfip.finances.gouv.fr",
+      "telephone": "02 38 28 19 46",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "525a52dab75bf629042a7fd0265c2a9ee8259c70",
+    "alternateName": "SPF",
+    "name": "service_de_la_publicite_fonciere_spf_montauban_1",
+    "title": "Service de la publicité foncière (SPF) - Montauban 1",
+    "url": "https://lannuaire.service-public.fr/occitanie/tarn-et-garonne/hypotheque-82121-01",
+    "metadata": {
+      "email": "spf.montauban@dgfip.finances.gouv.fr",
+      "telephone": "05 63 21 57 60",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "fcb804fb63c4d580e626c96cea49481199af9fa1",
+    "alternateName": "SPF",
+    "name": "service_de_la_publicite_fonciere_spf_montbeliard",
+    "title": "Service de la publicité foncière (SPF) - Montbéliard",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/doubs/hypotheque-25388-01",
+    "metadata": {
+      "email": "spf.montbeliard@dgfip.finances.gouv.fr",
+      "telephone": "03 81 32 62 02",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "c0aa2afd74e0c2a233f042b7a66c22ce32b296c1",
+    "alternateName": "SPF",
+    "name": "service_de_la_publicite_fonciere_spf_montbrison",
+    "title": "Service de la publicité foncière (SPF) - Montbrison",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/loire/hypotheque-42147-01",
+    "metadata": {
+      "email": "spf.montbrison@dgfip.finances.gouv.fr",
+      "telephone": "04 77 96 84 42",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "614191dd975944faf8a64b2a69d16f7dc35c811f",
+    "alternateName": "SPF",
+    "name": "service_de_la_publicite_fonciere_spf_mont_de_marsan",
+    "title": "Service de la publicité foncière (SPF) - Mont-de-Marsan",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/landes/hypotheque-40192-01",
+    "metadata": {
+      "email": "spf.mont-de-marsan@dgfip.finances.gouv.fr",
+      "telephone": "05 58 06 61 54",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "d0e9d3480091074c4d16565882340cfba79e8d30",
+    "alternateName": "SPF",
+    "name": "service_de_la_publicite_fonciere_spf_montlucon",
+    "title": "Service de la publicité foncière (SPF) - Montluçon",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/allier/hypotheque-03185-01",
+    "metadata": {
+      "email": "spf.montlucon@dgfip.finances.gouv.fr",
+      "telephone": "04 70 08 22 04",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "19b36442fe684899e9ecef0f9dc9671cd71f7bed",
+    "alternateName": "SPF",
+    "name": "service_de_la_publicite_fonciere_spf_montpellier_1",
+    "title": "Service de la publicité foncière (SPF) - Montpellier 1",
+    "url": "https://lannuaire.service-public.fr/occitanie/herault/hypotheque-34172-01",
+    "metadata": {
+      "email": "spf.montpellier1@dgfip.finances.gouv.fr",
+      "telephone": "04 67 22 62 89",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "1a0c532b87d0e22cc3ffc43bcb515bb10da93931",
+    "alternateName": "SPF",
+    "name": "service_de_la_publicite_fonciere_spf_moulins",
+    "title": "Service de la publicité foncière (SPF) - Moulins",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/allier/hypotheque-03321-01",
+    "metadata": {
+      "email": "spf.moulins@dgfip.finances.gouv.fr",
+      "telephone": "04 70 48 29 00",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "a47e6e227361a052a811d7a43769e91da2f74632",
+    "alternateName": "SPF",
+    "name": "service_de_la_publicite_fonciere_spf_muret",
+    "title": "Service de la publicité foncière (SPF) - Muret",
+    "url": "https://lannuaire.service-public.fr/occitanie/haute-garonne/hypotheque-31395-01",
+    "metadata": {
+      "email": "spf.muret@dgfip.finances.gouv.fr",
+      "telephone": "05 62 23 12 60",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "704dfd98a529183e0609ac727613f68004d9f0bd",
+    "alternateName": "SPF",
+    "name": "service_de_la_publicite_fonciere_spf_nanterre_1",
+    "title": "Service de la publicité foncière (SPF) - Nanterre 1",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/hauts-de-seine/hypotheque-92050-01",
+    "metadata": {
+      "email": "spf.nanterre1@dgfip.finances.gouv.fr",
+      "telephone": "01 41 37 84 58",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "ebbb39f4b81562597282f2281a2ac2b6a0f5c645",
+    "alternateName": "SPF",
+    "name": "service_de_la_publicite_fonciere_spf_nanterre_2",
+    "title": "Service de la publicité foncière (SPF) - Nanterre 2",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/hauts-de-seine/hypotheque-92050-02",
+    "metadata": {
+      "email": "spf.nanterre2@dgfip.finances.gouv.fr",
+      "telephone": "01 41 37 84 62",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "b3d2290f15d41e3ed21477dda864293693e275e6",
+    "alternateName": "SPF",
+    "name": "service_de_la_publicite_fonciere_spf_nantes_1",
+    "title": "Service de la publicité foncière (SPF) - Nantes 1",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/loire-atlantique/hypotheque-44109-01",
+    "metadata": {
+      "email": "spf.nantes1@dgfip.finances.gouv.fr",
+      "telephone": "02 51 12 80 72",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "254b61d70c04207d871182eb20789a82043cc64f",
+    "alternateName": "SPF",
+    "name": "service_de_la_publicite_fonciere_spf_nantes_2",
+    "title": "Service de la publicité foncière (SPF) - Nantes 2",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/loire-atlantique/hypotheque-44109-02",
+    "metadata": {
+      "email": "spf.nantes2@dgfip.finances.gouv.fr",
+      "telephone": "02 51 12 80 75",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "dd3e01926036477c2be96186a50176ae33455352",
+    "alternateName": "SPF",
+    "name": "service_de_la_publicite_fonciere_spf_nantua",
+    "title": "Service de la publicité foncière (SPF) - Nantua",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/ain/hypotheque-01269-01",
+    "metadata": {
+      "email": "spf.nantua@dgfip.finances.gouv.fr",
+      "telephone": "04 74 75 97 50",
+      "url": "http://www.impots.gouv.fr"
+    }
+  }
+]

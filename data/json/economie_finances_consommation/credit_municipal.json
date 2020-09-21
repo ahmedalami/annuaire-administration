@@ -1,0 +1,519 @@
+[
+  {
+    "id": "7c4c3d2dbb20ece336e936ef83bedd6fff6a77ef",
+    "name": "credit_municipal_agen",
+    "title": "Crédit municipal - Agen",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/lot-et-garonne/credit_municipal-47001-01",
+    "metadata": {
+      "email": "agenceagen@ccmps.fr",
+      "telephone": "05 53 95 32 94",
+      "url": "http://www.ccmps.fr/agence-AGEN.html"
+    }
+  },
+  {
+    "id": "c618addcc5e52143dc524f778f2e333538311907",
+    "name": "credit_municipal_ajaccio",
+    "title": "Crédit municipal - Ajaccio",
+    "url": "https://lannuaire.service-public.fr/corse/corse-du-sud/credit_municipal-2A004-01",
+    "metadata": {
+      "email": "https://www.cmt-banque.fr/nous-contacter/",
+      "telephone": "04 95 21 51 64",
+      "url": "https://www.cmt-banque.fr/"
+    }
+  },
+  {
+    "id": "031ae4e3a81cb38824f78bfc3a558b5e16c606e2",
+    "name": "credit_municipal_ales",
+    "title": "Crédit municipal - Alès",
+    "url": "https://lannuaire.service-public.fr/occitanie/gard/credit_municipal-30007-01",
+    "metadata": {
+      "email": "https://www.credit-municipal-nimes.fr/fr/le-credit-municipal/contact-agences/permanence-d-ales#topancre",
+      "telephone": "04 66 36 66 46",
+      "url": "https://www.credit-municipal-nimes.fr/"
+    }
+  },
+  {
+    "id": "56f4ddd3c0e3d5e75cd2b818d8bc27a80b048a56",
+    "name": "credit_municipal_angers",
+    "title": "Crédit municipal - Angers",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/maine-et-loire/credit_municipal-49007-01",
+    "metadata": {
+      "email": "https://creditmunicipal-nantes.fr/contact/",
+      "telephone": "02 41 33 89 00",
+      "url": "https://creditmunicipal-nantes.fr/angers/"
+    }
+  },
+  {
+    "id": "39f7af83f48af30ff95d8ea0c9e47e542c6da908",
+    "name": "credit_municipal_arles",
+    "title": "Crédit municipal - Arles",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/credit_municipal-13004-01",
+    "metadata": {
+      "email": "arles@credit-municipal-avignon.fr",
+      "telephone": "04 90 47 06 97",
+      "url": "http://www.credit-municipal-avignon.fr"
+    }
+  },
+  {
+    "id": "7d90c3fe1bd769c0b31b73306ca2054a28775a22",
+    "name": "credit_municipal_auxerre",
+    "title": "Crédit municipal - Auxerre",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/yonne/credit_municipal-89024-01",
+    "metadata": {
+      "email": "agenceauxerre@ccmps.fr",
+      "telephone": "03 86 72 15 30",
+      "url": "http://www.ccmps.fr/"
+    }
+  },
+  {
+    "id": "d21488d2179c3db4e6c57b5dc49cb0325d1bfcdb",
+    "name": "credit_municipal_avignon",
+    "title": "Crédit municipal - Avignon",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/vaucluse/credit_municipal-84007-01",
+    "metadata": {
+      "email": "secretariat@cmavignon.com",
+      "telephone": "04 90 80 60 20",
+      "url": "https://www.cmavignon.com"
+    }
+  },
+  {
+    "id": "7504676dba9bf57b5fdb118bab705e9342d94663",
+    "name": "credit_municipal_bastia",
+    "title": "Crédit municipal - Bastia",
+    "url": "https://lannuaire.service-public.fr/corse/haute-corse/credit_municipal-2B033-01",
+    "metadata": {
+      "email": "http://www.cmt-banque.fr/nous-contacter/",
+      "telephone": "04 95 31 38 54",
+      "url": "https://www.cmt-banque.fr/"
+    }
+  },
+  {
+    "id": "a17bb39e68ed77d21f488ac0e2578212e7082eb5",
+    "name": "credit_municipal_belfort",
+    "title": "Crédit municipal - Belfort",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/territoire-de-belfort/credit_municipal-90010-01",
+    "metadata": {
+      "email": "agencedebelfort@ccmps.fr",
+      "telephone": "03 84 22 27 50",
+      "url": "http://www.ccmps.fr/"
+    }
+  },
+  {
+    "id": "0ea581292770b5ca062bc6762038ea9ef1b536ce",
+    "name": "credit_municipal_besancon",
+    "title": "Crédit municipal - Besançon",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/doubs/credit_municipal-25056-01",
+    "metadata": {
+      "email": "agencedebesancon@ccmps.fr",
+      "telephone": "03 81 83 07 80",
+      "url": "http://www.ccmps.fr/"
+    }
+  },
+  {
+    "id": "8d58b3ddc39684732998438b0738e36d0866dfff",
+    "name": "credit_municipal_bordeaux",
+    "title": "Crédit municipal - Bordeaux",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/gironde/credit_municipal-33063-01",
+    "metadata": {
+      "email": "agencedebordeaux@ccmps.fr",
+      "telephone": "05 56 33 37 77",
+      "url": "http://www.ccmps.fr/"
+    }
+  },
+  {
+    "id": "b548129c7d8aeee4f27bc16ccfd283e156af050d",
+    "name": "credit_municipal_boulogne_sur_mer",
+    "title": "Crédit municipal - Boulogne-sur-Mer",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/pas-de-calais/credit_municipal-62160-01",
+    "metadata": {
+      "email": "http://www.credit-municipal-boulognesmer.fr/index.php/contact",
+      "telephone": "03 21 10 18 10",
+      "url": "http://www.credit-municipal-boulognesmer.fr"
+    }
+  },
+  {
+    "id": "09a38222e28bf76ed435532688584ec9c8ea7c70",
+    "name": "credit_municipal_caen",
+    "title": "Crédit municipal - Caen",
+    "url": "https://lannuaire.service-public.fr/normandie/calvados/credit_municipal-14118-01",
+    "metadata": {
+      "email": "caen.cmr@gmail.com",
+      "telephone": "02 50 32 01 29",
+      "url": "https://www.rouen.fr/credit-municipal"
+    }
+  },
+  {
+    "id": "1841f93c903e01e6796f9bf4842f1c363f423c8f",
+    "name": "credit_municipal_cannes",
+    "title": "Crédit municipal - Cannes",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/alpes-maritimes/credit_municipal-06029-01",
+    "metadata": {
+      "email": "ccmcannes@ccmn.fr",
+      "telephone": "04 93 99 11 81",
+      "url": "http://www.credit-municipal-nice.fr"
+    }
+  },
+  {
+    "id": "75258dcc3e1ed5885b9a325168008ef94e7d22d2",
+    "name": "credit_municipal_carcassonne",
+    "title": "Crédit municipal - Carcassonne",
+    "url": "https://lannuaire.service-public.fr/occitanie/aude/credit_municipal-11069-01",
+    "metadata": {
+      "email": "https://www.credit-municipal-nimes.fr/fr/le-credit-municipal/contact-agences/agence-de-carcassonne#topancre",
+      "telephone": "04 68 11 45 10",
+      "url": "https://www.credit-municipal-nimes.fr/"
+    }
+  },
+  {
+    "id": "2a027166db0a6dae062d0cf04d9534cdb9d138f6",
+    "name": "credit_municipal_carpentras",
+    "title": "Crédit municipal - Carpentras",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/vaucluse/credit_municipal-84031-01",
+    "metadata": {
+      "email": "carpentras@credit-municipal-avignon.fr",
+      "telephone": "04 90 63 40 00",
+      "url": "http://www.credit-municipal-avignon.fr"
+    }
+  },
+  {
+    "id": "36f7fc4dd18ac3144bd4c943f7af11920b66ab1c",
+    "name": "credit_municipal_clermont_ferrand",
+    "title": "Crédit municipal - Clermont-Ferrand",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/puy-de-dome/credit_municipal-63113-01",
+    "metadata": {
+      "email": "clermont@credit-municipal-lyon.fr",
+      "telephone": "04 73 17 61 50",
+      "url": "http://www.credit-municipal-lyon.fr"
+    }
+  },
+  {
+    "id": "e9c420614716744398cfe7a3b62da496a81a5ec7",
+    "name": "credit_municipal_dijon",
+    "title": "Crédit municipal - Dijon",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/cote-d-or/credit_municipal-21231-01",
+    "metadata": {
+      "email": "agencededijon@ccmps.fr",
+      "telephone": "03 80 44 11 20",
+      "url": "http://www.ccmps.fr/"
+    }
+  },
+  {
+    "id": "5307bc799a0ec54d0f0da400905b1f5c6c128e67",
+    "name": "credit_municipal_grenoble",
+    "title": "Crédit municipal - Grenoble",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/isere/credit_municipal-38185-01",
+    "metadata": {
+      "email": "grenoble@credit-municipal-lyon.fr",
+      "telephone": "04 76 50 78 30",
+      "url": "http://www.credit-municipal-lyon.fr"
+    }
+  },
+  {
+    "id": "45313b43c5d87e355197f513257b7051518ff1b3",
+    "name": "credit_municipal_lille",
+    "title": "Crédit municipal - Lille",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/nord/credit_municipal-59350-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 20 18 04 00",
+      "url": "www.credit-municipal-lille.com"
+    }
+  },
+  {
+    "id": "b6ca06c0856f5e0be1f346adddbe88ebc281539a",
+    "name": "credit_municipal_limoges",
+    "title": "Crédit municipal - Limoges",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/haute-vienne/credit_municipal-87085-01",
+    "metadata": {
+      "email": "agencedelimoges@ccmps.fr",
+      "telephone": "05 55 33 60 00",
+      "url": "http://www.ccmps.fr/"
+    }
+  },
+  {
+    "id": "83c3d91ffd4ca08d2e66e4ffbfa61e1357e92bf2",
+    "name": "credit_municipal_lyon",
+    "title": "Crédit municipal - Lyon",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/rhone/credit_municipal-69383-01",
+    "metadata": {
+      "email": "info@credit-municipal-lyon.fr",
+      "telephone": "04 72 60 63 63",
+      "url": "http://www.credit-municipal-lyon.fr"
+    }
+  },
+  {
+    "id": "593b3174f7bf3e68fb060856d30834f256c332e6",
+    "name": "credit_municipal_macon",
+    "title": "Crédit municipal - Mâcon",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/saone-et-loire/credit_municipal-71270-01",
+    "metadata": {
+      "email": "macon@credit-municipal-lyon.fr",
+      "telephone": "03 85 39 96 40",
+      "url": "http://www.credit-municipal-lyon.fr"
+    }
+  },
+  {
+    "id": "6b22e3bf2ee0427dcb5a480b227fc02e4a712aed",
+    "name": "credit_municipal_marseille",
+    "title": "Crédit municipal - Marseille",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/credit_municipal-13201-01",
+    "metadata": {
+      "email": "prets@credit-municipal-marseille.fr",
+      "telephone": "04 91 11 40 40",
+      "url": "https://www.credit-municipal-marseille.fr"
+    }
+  },
+  {
+    "id": "7c9fcd8670f00af41ac772560f6b48cd3c505c44",
+    "name": "credit_municipal_menton",
+    "title": "Crédit municipal - Menton",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/alpes-maritimes/credit_municipal-06083-01",
+    "metadata": {
+      "email": "menton@ccmn.fr",
+      "telephone": "04 93 57 90 00",
+      "url": "http://www.credit-municipal-nice.fr"
+    }
+  },
+  {
+    "id": "c882c002a878b421bfb90346e3269916870bd229",
+    "name": "credit_municipal_montauban",
+    "title": "Crédit municipal - Montauban",
+    "url": "https://lannuaire.service-public.fr/occitanie/tarn-et-garonne/credit_municipal-82121-01",
+    "metadata": {
+      "email": "http://saisine.credit-municipal-toulouse.fr/",
+      "telephone": "05 63 03 22 50",
+      "url": "https://www.credit-municipal-toulouse.fr/"
+    }
+  },
+  {
+    "id": "d85226b6535dbd0b0dfe0bdd0b51bea3b533734c",
+    "name": "credit_municipal_montpellier",
+    "title": "Crédit municipal - Montpellier",
+    "url": "https://lannuaire.service-public.fr/occitanie/herault/credit_municipal-34172-01",
+    "metadata": {
+      "email": "https://www.credit-municipal-nimes.fr/fr/le-credit-municipal/contact-agences/agence-de-montpellier#topancre",
+      "telephone": "04 67 92 62 25",
+      "url": "https://www.credit-municipal-nimes.fr/"
+    }
+  },
+  {
+    "id": "a12dbeb89bbdee0fee46c2c96b25d4ca5e5ca7b7",
+    "name": "credit_municipal_nancy",
+    "title": "Crédit municipal - Nancy",
+    "url": "https://lannuaire.service-public.fr/grand-est/meurthe-et-moselle/credit_municipal-54395-01",
+    "metadata": {
+      "email": "http://www.credit-municipal-nancy.fr/1/contact_717880.html",
+      "telephone": "03 83 17 85 85",
+      "url": "http://www.credit-municipal-nancy.fr"
+    }
+  },
+  {
+    "id": "a65ebee8084260e55bd9d074508821696757e5dc",
+    "name": "credit_municipal_nantes",
+    "title": "Crédit municipal - Nantes",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/loire-atlantique/credit_municipal-44109-01",
+    "metadata": {
+      "email": "https://creditmunicipal-nantes.fr/contact/",
+      "telephone": "02 40 99 21 00",
+      "url": "https://creditmunicipal-nantes.fr"
+    }
+  },
+  {
+    "id": "fdccc51b7b7fb5aaccf675e4284de402b3f23527",
+    "name": "credit_municipal_nevers",
+    "title": "Crédit municipal - Nevers",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/nievre/credit_municipal-58194-01",
+    "metadata": {
+      "email": "agencedenevers@ccmps.fr",
+      "telephone": "03 86 71 66 86",
+      "url": "http://www.ccmps.fr/"
+    }
+  },
+  {
+    "id": "c523a56c1b6b51a3607f3304a0c006f7df93a1de",
+    "name": "credit_municipal_nice",
+    "title": "Crédit municipal - Nice",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/alpes-maritimes/credit_municipal-06088-01",
+    "metadata": {
+      "email": "info@ccmn.fr",
+      "telephone": "04 93 43 61 00",
+      "url": "http://www.credit-municipal-nice.fr"
+    }
+  },
+  {
+    "id": "9f6ed88beecb54df1baafa046d9bf5b2620a5806",
+    "name": "credit_municipal_nimes",
+    "title": "Crédit municipal - Nîmes",
+    "url": "https://lannuaire.service-public.fr/occitanie/gard/credit_municipal-30189-01",
+    "metadata": {
+      "email": "https://www.credit-municipal-nimes.fr/fr/le-credit-municipal/contact-agences/agence-de-nimes#topancre",
+      "telephone": "04 66 36 66 46",
+      "url": "https://www.credit-municipal-nimes.fr/"
+    }
+  },
+  {
+    "id": "28bc1edab61717e1be3839f27155248776b73b75",
+    "name": "credit_municipal_orleans",
+    "title": "Crédit municipal - Orléans",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/loiret/credit_municipal-45234-01",
+    "metadata": {
+      "email": "agenceorleans@ccmps.fr",
+      "telephone": "02 38 54 46 46",
+      "url": "http://www.ccmps.fr/"
+    }
+  },
+  {
+    "id": "8f5824446f42712831d813b6a5a237daea84bd79",
+    "name": "credit_municipal_paris",
+    "title": "Crédit municipal - Paris",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/paris/credit_municipal-75104-01",
+    "metadata": {
+      "email": "",
+      "telephone": "01 44 61 64 00",
+      "url": "https://www.creditmunicipal.fr/homepage.html"
+    }
+  },
+  {
+    "id": "625c0f1e8c4714cc34b7e1e391675daf54508405",
+    "name": "credit_municipal_pau",
+    "title": "Crédit municipal - Pau",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/pyrenees-atlantiques/credit_municipal-64445-01",
+    "metadata": {
+      "email": "agencedepau@ccmps.fr",
+      "telephone": "05 59 27 54 00",
+      "url": "http://www.ccmps.fr/"
+    }
+  },
+  {
+    "id": "132a63e61cd7bd66965977af9df03ec1a2d77540",
+    "name": "credit_municipal_perigueux",
+    "title": "Crédit municipal - Périgueux",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/dordogne/credit_municipal-24322-01",
+    "metadata": {
+      "email": "agencedeperigueux@ccmps.fr",
+      "telephone": "05 53 35 98 94",
+      "url": "http://www.ccmps.fr/"
+    }
+  },
+  {
+    "id": "32f47f33e8fa20f90330c2ff23ac00e6e79ec4e7",
+    "name": "credit_municipal_perpignan",
+    "title": "Crédit municipal - Perpignan",
+    "url": "https://lannuaire.service-public.fr/occitanie/pyrenees-orientales/credit_municipal-66136-01",
+    "metadata": {
+      "email": "https://www.credit-municipal-nimes.fr/fr/le-credit-municipal/contact-agences/agence-de-perpignan#topancre",
+      "telephone": "04 68 35 34 33",
+      "url": "https://www.credit-municipal-nimes.fr/"
+    }
+  },
+  {
+    "id": "f0bc52e43e275418c0bd84d4812509054f9e0000",
+    "name": "credit_municipal_poitiers",
+    "title": "Crédit municipal - Poitiers",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/vienne/credit_municipal-86194-01",
+    "metadata": {
+      "email": "agencedepoitiers@ccmps.fr",
+      "telephone": "05 49 30 62 77",
+      "url": "http://www.ccmps.fr/"
+    }
+  },
+  {
+    "id": "484df17233f2ea0c7432424072cc8005b631c66b",
+    "name": "credit_municipal_reims",
+    "title": "Crédit municipal - Reims",
+    "url": "https://lannuaire.service-public.fr/grand-est/marne/credit_municipal-51454-01",
+    "metadata": {
+      "email": "creditmunicipalreims@orange.fr",
+      "telephone": "03 26 86 76 10",
+      "url": "https://www.credit-municipal-reims.fr/"
+    }
+  },
+  {
+    "id": "fbf523af87f6832336939090195c33c7a8657ace",
+    "name": "credit_municipal_roubaix",
+    "title": "Crédit municipal - Roubaix",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/nord/credit_municipal-59512-01",
+    "metadata": {
+      "email": "contact@credit-municipal-roubaix.fr",
+      "telephone": "03 20 73 78 58",
+      "url": "https://www.credit-municipal-roubaix.fr"
+    }
+  },
+  {
+    "id": "2451ba7d7bd4ae6a5262ed9f70a430240c0f1025",
+    "name": "credit_municipal_rouen",
+    "title": "Crédit municipal - Rouen",
+    "url": "https://lannuaire.service-public.fr/normandie/seine-maritime/credit_municipal-76540-01",
+    "metadata": {
+      "email": "contact.cmrouen@gmail.com",
+      "telephone": "02 35 15 76 33",
+      "url": "https://www.rouen.fr/credit-municipal"
+    }
+  },
+  {
+    "id": "f799a15083be5f3dbde01d8897d1b8d359eab2aa",
+    "name": "credit_municipal_saint_etienne",
+    "title": "Crédit municipal - Saint-Etienne",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/loire/credit_municipal-42218-01",
+    "metadata": {
+      "email": "saint-etienne@credit-municipal-lyon.fr",
+      "telephone": "04 77 25 90 99",
+      "url": "http://www.credit-municipal-lyon.fr"
+    }
+  },
+  {
+    "id": "228d6f32b60602c3a4280a4314f7c6f5c64acac9",
+    "name": "credit_municipal_strasbourg",
+    "title": "Crédit municipal - Strasbourg",
+    "url": "https://lannuaire.service-public.fr/grand-est/bas-rhin/credit_municipal-67482-01",
+    "metadata": {
+      "email": "contact@credit-municipal-strasbourg.fr",
+      "telephone": "03 88 32 04 21",
+      "url": "http://www.credit-municipal-strasbourg.fr"
+    }
+  },
+  {
+    "id": "f1b21e7d246547e994b94d88758b30f54d4b95fa",
+    "name": "credit_municipal_toulon",
+    "title": "Crédit municipal - Toulon",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/var/credit_municipal-83137-01",
+    "metadata": {
+      "email": "commercial@cmt-banque.fr",
+      "telephone": "04 94 18 96 00",
+      "url": "https://www.cmt-banque.fr"
+    }
+  },
+  {
+    "id": "d87ca27bfbf6b29112430a7663415ca2d1202516",
+    "name": "credit_municipal_toulouse",
+    "title": "Crédit municipal - Toulouse",
+    "url": "https://lannuaire.service-public.fr/occitanie/haute-garonne/credit_municipal-31555-01",
+    "metadata": {
+      "email": "http://saisine.credit-municipal-toulouse.fr/",
+      "telephone": "05 61 21 69 12",
+      "url": "https://www.credit-municipal-toulouse.fr/"
+    }
+  },
+  {
+    "id": "8e2cc1fe2b66efa75033886c1c3a1044a214c34d",
+    "name": "credit_municipal_tours",
+    "title": "Crédit municipal - Tours",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/indre-et-loire/credit_municipal-37261-01",
+    "metadata": {
+      "email": "https://creditmunicipal-nantes.fr/contact/",
+      "telephone": "02 47 05 58 58",
+      "url": "https://creditmunicipal-nantes.fr/tours/"
+    }
+  },
+  {
+    "id": "9bee599658f7995ed9fa8f8eeb206882782a246d",
+    "name": "credit_municipal_valence",
+    "title": "Crédit municipal - Valence",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/drome/credit_municipal-26362-01",
+    "metadata": {
+      "email": "valence@credit-municipal-avignon.fr",
+      "telephone": "04 75 40 16 11",
+      "url": "http://www.credit-municipal-avignon.fr"
+    }
+  }
+]

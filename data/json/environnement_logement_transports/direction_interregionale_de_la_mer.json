@@ -1,0 +1,140 @@
+[
+  {
+    "id": "06a4b4b72a30058e8e44d9d12a23c5cf150951a6",
+    "alternateName": "DIRM",
+    "name": "direction_interregionale_de_la_mer_dirm_manche_est_mer_du_nord",
+    "title": "Direction interrégionale de la mer (DIRM) - Manche-Est, Mer-du-Nord",
+    "url": "https://lannuaire.service-public.fr/normandie/seine-maritime/dir_mer-76351-01",
+    "metadata": {
+      "email": "dirm-memn@developpement-durable.gouv.fr",
+      "telephone": "02 35 19 29 99",
+      "url": "http://www.dirm-memn.developpement-durable.gouv.fr/"
+    }
+  },
+  {
+    "id": "77cdda0fd115517b2f3bc2108dc682531082446c",
+    "alternateName": "DIRM",
+    "name": "direction_interregionale_de_la_mer_dirm_mediterranee",
+    "title": "Direction interrégionale de la mer (DIRM) - Méditerranée",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/dir_mer-13202-01",
+    "metadata": {
+      "email": "dirm-med@developpement-durable.gouv.fr",
+      "telephone": "04 86 94 67 27",
+      "url": "http://www.dirm.mediterranee.developpement-durable.gouv.fr"
+    }
+  },
+  {
+    "id": "f937e5c0635f6fff435aa3c47d5aa0ea383fc0c8",
+    "alternateName": "DIRM",
+    "name": "direction_interregionale_de_la_mer_dirm_nord_atlantique_manche_ouest",
+    "title": "Direction interrégionale de la mer (DIRM) - Nord-Atlantique, Manche-Ouest",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/loire-atlantique/dir_mer-44109-01",
+    "metadata": {
+      "email": "dirm-namo@developpement-durable.gouv.fr",
+      "telephone": "02 40 44 81 10",
+      "url": "http://www.dirm.nord-atlantique-manche-ouest.developpement-durable.gouv.fr/spip.php?page=sommaire"
+    }
+  },
+  {
+    "id": "c35037052ed45c1b531d2d92a9cbc802a5b77bf6",
+    "alternateName": "DIRM",
+    "name": "direction_interregionale_de_la_mer_dirm_sud_atlantique",
+    "title": "Direction interrégionale de la mer (DIRM) - Sud-Atlantique",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/gironde/dir_mer-33063-01",
+    "metadata": {
+      "email": "dirm-sa@developpement-durable.gouv.fr",
+      "telephone": "05 56 00 83 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "6321e48a749b721ded6fb28d744e553a0de0d1a4",
+    "name": "direction_de_la_mer_guadeloupe",
+    "title": "Direction de la mer - Guadeloupe",
+    "url": "https://lannuaire.service-public.fr/guadeloupe/guadeloupe/dir_mer-97103-01",
+    "metadata": {
+      "email": "dm-guadeloupe@developpement-durable.gouv.fr",
+      "telephone": "+590 5 90 41 95 50",
+      "url": ""
+    }
+  },
+  {
+    "id": "44266b92132a79c58eb8a278f6ee71f97cb21a38",
+    "name": "direction_de_la_mer_martinique",
+    "title": "Direction de la mer - Martinique",
+    "url": "https://lannuaire.service-public.fr/martinique/martinique/dir_mer-97209-01",
+    "metadata": {
+      "email": "dm-martinique@developpement-durable.gouv.fr",
+      "telephone": "0596 60 80 30",
+      "url": "http://www.martinique.gouv.fr/Services-de-l-Etat/Mer-littoral-et-securite-maritime/DM/Coordonnees-et-presentation-de-la-DM/La-direction-de-la-mer"
+    }
+  },
+  {
+    "id": "8e1d2796daa67742792775392ae998cd69ffbf81",
+    "name": "direction_de_la_mer_sud_ocean_indien",
+    "title": "Direction de la mer sud océan Indien",
+    "url": "https://lannuaire.service-public.fr/collectivites-d-outre-mer/terres-australes-et-antarctiques-francaises/dir_mer-51509-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 62 96 78 78",
+      "url": "http://www.taaf.fr"
+    }
+  },
+  {
+    "id": "13cb200e1bffa6b37247e36a148d5ffb7ef5849b",
+    "alternateName": "Mayotte",
+    "name": "direction_de_la_mer_sud_ocean_indien_mayotte",
+    "title": "Direction de la mer - Sud-Océan-Indien (Mayotte)",
+    "url": "https://lannuaire.service-public.fr/mayotte/mayotte/dir_mer-97608-01",
+    "metadata": {
+      "email": "sam-976@developpement-durable.gouv.fr",
+      "telephone": "+269 2 69 60 31 38",
+      "url": ""
+    }
+  },
+  {
+    "id": "0f6eb4b3000cf1ddb7908855993a4668d39a32a9",
+    "alternateName": "Réunion et Îles Éparses",
+    "name": "direction_de_la_mer_sud_ocean_indien_reunion_et_iles_eparses",
+    "title": "Direction de la mer - Sud-Océan-Indien (Réunion et Îles Éparses)",
+    "url": "https://lannuaire.service-public.fr/la-reunion/reunion/dir_mer-97411-01",
+    "metadata": {
+      "email": "dm-soi@developpement-durable.gouv.fr",
+      "telephone": "+262 2 62 90 19 00",
+      "url": "http://www.dm.sud-ocean-indien.developpement-durable.gouv.fr/eric-mevelec-nouveau-directeur-de-la-mer-sud-ocean-a911.html"
+    }
+  },
+  {
+    "id": "0c384f9a692bcc57ed0d7024bbca91d15e7e03c7",
+    "name": "service_des_affaires_maritimes_nouvelle_caledonie",
+    "title": "Service des affaires maritimes - Nouvelle-Calédonie",
+    "url": "https://lannuaire.service-public.fr/collectivites-d-outre-mer/nouvelle-caledonie/dir_mer-98818-01",
+    "metadata": {
+      "email": "dam-nc@gouv.nc",
+      "telephone": "+687 27 26 26",
+      "url": "https://dam.gouv.nc/"
+    }
+  },
+  {
+    "id": "ded487e26d70561e715584e67725ebb37404b3ab",
+    "name": "service_des_affaires_maritimes_polynesie_francaise",
+    "title": "Service des affaires maritimes - Polynésie française",
+    "url": "https://lannuaire.service-public.fr/collectivites-d-outre-mer/polynesie-francaise/dir_mer-98735-01",
+    "metadata": {
+      "email": "affma@mail.pf",
+      "telephone": "+689 40 54 95 25",
+      "url": ""
+    }
+  },
+  {
+    "id": "95a91da1fc6f046554b07709cf182ebf3bf08a20",
+    "name": "service_des_affaires_maritimes_wallis_et_futuna",
+    "title": "Service des affaires maritimes - Wallis-et-Futuna",
+    "url": "https://lannuaire.service-public.fr/collectivites-d-outre-mer/wallis-et-futuna/dir_mer-98613-01",
+    "metadata": {
+      "email": "chef.sampp@mail.wf",
+      "telephone": "(00 681) 72 26 52",
+      "url": "http://www.wallis-et-futuna.gouv.fr/"
+    }
+  }
+]

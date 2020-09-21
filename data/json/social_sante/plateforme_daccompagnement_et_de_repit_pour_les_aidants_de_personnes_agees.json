@@ -1,0 +1,1575 @@
+[
+  {
+    "id": "16632716121e00e213e216327ef4712abf23896a",
+    "name": "plateforme_daccompagnement_et_de_repit_pour_les_aidants_de_personnes_agees_agen",
+    "title": "Plateforme d'accompagnement et de répit pour les aidants de personnes âgées - Agen",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/lot-et-garonne/accompagnement_personnes_agees-47001-01",
+    "metadata": {
+      "email": "plateforme.repit.carpediem@regain-coordination.fr",
+      "telephone": "05 53 68 43 13",
+      "url": "http://www.regain-coordination.fr"
+    }
+  },
+  {
+    "id": "1867da24268e9798ee4f28a1663417492d697380",
+    "name": "plateforme_daccompagnement_et_de_repit_pour_les_aidants_de_personnes_agees_aix_en_provence",
+    "title": "Plateforme d'accompagnement et de répit pour les aidants de personnes âgées - Aix-en-Provence",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/accompagnement_personnes_agees-13001-01",
+    "metadata": {
+      "email": "francealzheimerbdr@orange.fr",
+      "telephone": "04 42 23 42 49",
+      "url": ""
+    }
+  },
+  {
+    "id": "1de21adf6a31a4e291bca29f90b4fc1b490efd40",
+    "name": "plateforme_daccompagnement_et_de_repit_pour_les_aidants_de_personnes_agees_ajaccio",
+    "title": "Plateforme d'accompagnement et de répit pour les aidants de personnes âgées - Ajaccio",
+    "url": "https://lannuaire.service-public.fr/corse/corse-du-sud/accompagnement_personnes_agees-2A004-01",
+    "metadata": {
+      "email": "bdiscala@fede2a.admr.org",
+      "telephone": "04 95 22 99 91",
+      "url": ""
+    }
+  },
+  {
+    "id": "4774eb30201eddbe9d1d9159d81ab5b73dff7bec",
+    "name": "plateforme_daccompagnement_et_de_repit_pour_les_aidants_de_personnes_agees_amboise",
+    "title": "Plateforme d'accompagnement et de répit pour les aidants de personnes âgées - Amboise",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/indre-et-loire/accompagnement_personnes_agees-37003-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 47 30 48 48",
+      "url": "http://www.departement-touraine.fr"
+    }
+  },
+  {
+    "id": "7dff3f32847f742235ead247b9d9c46b388c1da3",
+    "name": "plateforme_daccompagnement_et_de_repit_pour_les_aidants_de_personnes_agees_angers",
+    "title": "Plateforme d'accompagnement et de répit pour les aidants de personnes âgées - Angers",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/maine-et-loire/accompagnement_personnes_agees-49007-01",
+    "metadata": {
+      "email": "aideauxaidants@ville.angers.fr",
+      "telephone": "02 41 24 15 26",
+      "url": ""
+    }
+  },
+  {
+    "id": "70088fb6b8639c9ac454d0913188f47af90c6c37",
+    "name": "plateforme_daccompagnement_et_de_repit_pour_les_aidants_de_personnes_agees_antibes",
+    "title": "Plateforme d'accompagnement et de répit pour les aidants de personnes âgées - Antibes",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/alpes-maritimes/accompagnement_personnes_agees-06004-01",
+    "metadata": {
+      "email": "relaisclubdesaidants@ccas-antibes.fr",
+      "telephone": "04 92 91 39 10",
+      "url": ""
+    }
+  },
+  {
+    "id": "edccbea1b6cceb9b18ad206a9bd10a74899a4dcf",
+    "name": "plateforme_daccompagnement_et_de_repit_pour_les_aidants_de_personnes_agees_armentieres",
+    "title": "Plateforme d'accompagnement et de répit pour les aidants de personnes âgées - Armentières",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/nord/accompagnement_personnes_agees-59017-01",
+    "metadata": {
+      "email": "maisondesaidants@ch-armentieres.fr",
+      "telephone": "03 20 48 11 54",
+      "url": ""
+    }
+  },
+  {
+    "id": "0a4606f25ec0ab416e98f372c2b73c6b05f84810",
+    "name": "plateforme_daccompagnement_et_de_repit_pour_les_aidants_de_personnes_agees_arpajon",
+    "title": "Plateforme d'accompagnement et de répit pour les aidants de personnes âgées - Arpajon",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/essonne/accompagnement_personnes_agees-91021-01",
+    "metadata": {
+      "email": "plateforme.repit@ch-arpajon.fr",
+      "telephone": "01 64 92 95 02",
+      "url": "http://www.ch-arpajon.fr"
+    }
+  },
+  {
+    "id": "372886a4490bb739f202dd21c1e9dbe12c29679c",
+    "name": "plateforme_daccompagnement_et_de_repit_pour_les_aidants_de_personnes_agees_arques",
+    "title": "Plateforme d'accompagnement et de répit pour les aidants de personnes âgées - Arques",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/pas-de-calais/accompagnement_personnes_agees-62040-01",
+    "metadata": {
+      "email": "ehpad@fontinettes.fr",
+      "telephone": "03 21 12 27 61",
+      "url": ""
+    }
+  },
+  {
+    "id": "982d9f5c53ab56c28b390b2fb0a5e6e798d7ba0a",
+    "name": "plateforme_daccompagnement_et_de_repit_pour_les_aidants_de_personnes_agees_aubagne",
+    "title": "Plateforme d'accompagnement et de répit pour les aidants de personnes âgées - Aubagne",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/accompagnement_personnes_agees-13005-01",
+    "metadata": {
+      "email": "filrougealzheimer@gmail.com",
+      "telephone": "04 42 18 19 05",
+      "url": "http://www.filrougealzheimer.org"
+    }
+  },
+  {
+    "id": "6df27befc68a8504c0f6258c0e3c537adbc41b37",
+    "name": "plateforme_daccompagnement_et_de_repit_pour_les_aidants_de_personnes_agees_aussillon",
+    "title": "Plateforme d'accompagnement et de répit pour les aidants de personnes âgées - Aussillon",
+    "url": "https://lannuaire.service-public.fr/occitanie/tarn/accompagnement_personnes_agees-81021-01",
+    "metadata": {
+      "email": "contact@adar81.fr",
+      "telephone": "05 63 97 70 40",
+      "url": "http://www.adar81.fr"
+    }
+  },
+  {
+    "id": "3a67d9885fcb1749e0fa527a483c6786c7d54d8a",
+    "name": "plateforme_daccompagnement_et_de_repit_pour_les_aidants_de_personnes_agees_auxerre",
+    "title": "Plateforme d'accompagnement et de répit pour les aidants de personnes âgées - Auxerre",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/yonne/accompagnement_personnes_agees-89024-01",
+    "metadata": {
+      "email": "secr-repi@mdry.fr",
+      "telephone": "03 86 72 25 18",
+      "url": "http://www.mdry.fr"
+    }
+  },
+  {
+    "id": "024142f308468aaf3dcaadbde37b1d09bc118a1a",
+    "name": "plateforme_daccompagnement_et_de_repit_pour_les_aidants_de_personnes_agees_avon",
+    "title": "Plateforme d'accompagnement et de répit pour les aidants de personnes âgées - Avon",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/seine-et-marne/accompagnement_personnes_agees-77014-01",
+    "metadata": {
+      "email": "plateforme-jardins-avon@ehpad-sedna.fr",
+      "telephone": "01 60 57 01 60",
+      "url": ""
+    }
+  },
+  {
+    "id": "3b572d6da033fdadaedfd841b9e482b4291f068a",
+    "name": "plateforme_daccompagnement_et_de_repit_pour_les_aidants_de_personnes_agees_bagnols_sur_ceze",
+    "title": "Plateforme d'accompagnement et de répit pour les aidants de personnes âgées - Bagnols-sur-Cèze",
+    "url": "https://lannuaire.service-public.fr/occitanie/gard/accompagnement_personnes_agees-30028-01",
+    "metadata": {
+      "email": "pa2@ch-bagnolssurceze.fr",
+      "telephone": "04 66 79 79 46",
+      "url": ""
+    }
+  },
+  {
+    "id": "29023643e8cf8886fd15f134c2c927a6e2e8d1ee",
+    "name": "plateforme_daccompagnement_et_de_repit_pour_les_aidants_de_personnes_agees_ballainvilliers",
+    "title": "Plateforme d'accompagnement et de répit pour les aidants de personnes âgées - Ballainvilliers",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/essonne/accompagnement_personnes_agees-91044-01",
+    "metadata": {
+      "email": "lesmagnolias.hopital@hpgm.fr",
+      "telephone": "01 69 80 46 46",
+      "url": ""
+    }
+  },
+  {
+    "id": "4be81c7a51a34ce16861ba7b8c58be2f8037ed3b",
+    "name": "plateforme_daccompagnement_et_de_repit_pour_les_aidants_de_personnes_agees_bassens",
+    "title": "Plateforme d'accompagnement et de répit pour les aidants de personnes âgées - Bassens",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/savoie/accompagnement_personnes_agees-73031-02",
+    "metadata": {
+      "email": "francealzheimer.savoie@orange.fr",
+      "telephone": "04 79 60 31 48",
+      "url": "https://www.francealzheimer.org/savoie"
+    }
+  },
+  {
+    "id": "f5ae998ef74d5f43118cdf8033c9301b64de13ed",
+    "name": "plateforme_daccompagnement_et_de_repit_pour_les_aidants_de_personnes_agees_bauge_en_anjou",
+    "title": "Plateforme d'accompagnement et de répit pour les aidants de personnes âgées - Baugé-en-Anjou",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/maine-et-loire/accompagnement_personnes_agees-49018-01",
+    "metadata": {
+      "email": "contact@accord-ages.fr",
+      "telephone": "02 41 89 55 10",
+      "url": "http://www.accord-ages.fr"
+    }
+  },
+  {
+    "id": "257b47907eb040c8c4d2be0b2ee94ddf5559370a",
+    "name": "plateforme_daccompagnement_et_de_repit_pour_les_aidants_de_personnes_agees_berck_sur_mer",
+    "title": "Plateforme d'accompagnement et de répit pour les aidants de personnes âgées - Berck-sur-Mer",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/pas-de-calais/accompagnement_personnes_agees-62108-01",
+    "metadata": {
+      "email": "maisondesaidants@ch-montreuil.fr",
+      "telephone": "03 21 89 43 86",
+      "url": ""
+    }
+  },
+  {
+    "id": "2201eee9e04b484d237ecb5436243f1513a32a3d",
+    "name": "plateforme_daccompagnement_et_de_repit_pour_les_aidants_de_personnes_agees_bergerac",
+    "title": "Plateforme d'accompagnement et de répit pour les aidants de personnes âgées - Bergerac",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/dordogne/accompagnement_personnes_agees-24037-01",
+    "metadata": {
+      "email": "lamadeleine.mr@wanadoo.fr",
+      "telephone": "09 80 91 21 82",
+      "url": "http://www.ehpadlamadeleine.fr"
+    }
+  },
+  {
+    "id": "bb5a27211d1281e1c742bd6f7b67cb114525a957",
+    "name": "plateforme_daccompagnement_et_de_repit_pour_les_aidants_de_personnes_agees_bergues",
+    "title": "Plateforme d'accompagnement et de répit pour les aidants de personnes âgées - Bergues",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/nord/accompagnement_personnes_agees-59067-01",
+    "metadata": {
+      "email": "maisondalois@apahm-asso.fr",
+      "telephone": "03 28 62 88 46",
+      "url": ""
+    }
+  },
+  {
+    "id": "d5f343877a52deeb3e09cbca863a4df5424df0ed",
+    "name": "plateforme_daccompagnement_et_de_repit_pour_les_aidants_de_personnes_agees_bernay",
+    "title": "Plateforme d'accompagnement et de répit pour les aidants de personnes âgées - Bernay",
+    "url": "https://lannuaire.service-public.fr/normandie/eure/accompagnement_personnes_agees-27056-01",
+    "metadata": {
+      "email": "secretariat.direction@ch-bernay.fr",
+      "telephone": "02 32 45 63 85",
+      "url": ""
+    }
+  },
+  {
+    "id": "82c3c43a5b959070c8d0b3869f23d0efcdfd37f3",
+    "name": "plateforme_daccompagnement_et_de_repit_pour_les_aidants_de_personnes_agees_bethune",
+    "title": "Plateforme d'accompagnement et de répit pour les aidants de personnes âgées - Béthune",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/pas-de-calais/accompagnement_personnes_agees-62119-01",
+    "metadata": {
+      "email": "raidants@ch-bethune.fr",
+      "telephone": "03 21 61 45 45",
+      "url": ""
+    }
+  },
+  {
+    "id": "454f3e13ebd4a63db1cd94b6c2807e680b9e7038",
+    "name": "plateforme_daccompagnement_et_de_repit_pour_les_aidants_de_personnes_agees_beziers",
+    "title": "Plateforme d'accompagnement et de répit pour les aidants de personnes âgées - Béziers",
+    "url": "https://lannuaire.service-public.fr/occitanie/herault/accompagnement_personnes_agees-34032-01",
+    "metadata": {
+      "email": "para@ch-beziers.fr",
+      "telephone": "04 67 35 79 23",
+      "url": ""
+    }
+  },
+  {
+    "id": "81a6d4cb085ea8659fe1c4435ff5baefe8bcd485",
+    "name": "plateforme_daccompagnement_et_de_repit_pour_les_aidants_de_personnes_agees_bieville_beuville",
+    "title": "Plateforme d'accompagnement et de répit pour les aidants de personnes âgées - Biéville-Beuville",
+    "url": "https://lannuaire.service-public.fr/normandie/calvados/accompagnement_personnes_agees-14068-01",
+    "metadata": {
+      "email": "l.colin@hom-age.fr",
+      "telephone": "02 31 47 28 00",
+      "url": "http://les-pervenches.hom-age.fr"
+    }
+  },
+  {
+    "id": "760eb8767967783f09de09dc5479935fb7a73f74",
+    "name": "plateforme_daccompagnement_et_de_repit_pour_les_aidants_de_personnes_agees_biscarrosse",
+    "title": "Plateforme d'accompagnement et de répit pour les aidants de personnes âgées - Biscarrosse",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/landes/accompagnement_personnes_agees-40046-01",
+    "metadata": {
+      "email": "par@ehpadbiscarrosse.fr",
+      "telephone": "05 58 83 01 50",
+      "url": "http://www.ehpad-biscarrosse.fr"
+    }
+  },
+  {
+    "id": "ce4f14707b70caf73c30b21ac75da2d928a597a1",
+    "name": "plateforme_daccompagnement_et_de_repit_pour_les_aidants_de_personnes_agees_bischwiller",
+    "title": "Plateforme d'accompagnement et de répit pour les aidants de personnes âgées - Bischwiller",
+    "url": "https://lannuaire.service-public.fr/grand-est/bas-rhin/accompagnement_personnes_agees-67046-01",
+    "metadata": {
+      "email": "letrefle@ch-bischwiller.fr",
+      "telephone": "06 72 01 76 82",
+      "url": "http://www.ch-bischwiller.fr"
+    }
+  },
+  {
+    "id": "c01b4e4b4eda0487ed7c66f3df25b861698569cd",
+    "name": "plateforme_daccompagnement_et_de_repit_pour_les_aidants_de_personnes_agees_bois_colombes",
+    "title": "Plateforme d'accompagnement et de répit pour les aidants de personnes âgées - Bois-Colombes",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/hauts-de-seine/accompagnement_personnes_agees-92009-01",
+    "metadata": {
+      "email": "plateforme-repit-aidants@fondation-aulagnier.fr",
+      "telephone": "01 47 81 90 11",
+      "url": ""
+    }
+  },
+  {
+    "id": "ae0874e16f4f908d7d55f01124603d9c1e3b83c9",
+    "name": "plateforme_daccompagnement_et_de_repit_pour_les_aidants_de_personnes_agees_bordeaux",
+    "title": "Plateforme d'accompagnement et de répit pour les aidants de personnes âgées - Bordeaux",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/gironde/accompagnement_personnes_agees-33063-01",
+    "metadata": {
+      "email": "accueil-plateforme@cos-asso.org",
+      "telephone": "05 57 10 43 38",
+      "url": ""
+    }
+  },
+  {
+    "id": "7a6c60755688b8181a1b155de39d1cb3c8e71f95",
+    "name": "plateforme_daccompagnement_et_de_repit_pour_les_aidants_de_personnes_agees_boulogne_billancourt",
+    "title": "Plateforme d'accompagnement et de répit pour les aidants de personnes âgées - Boulogne-Billancourt",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/hauts-de-seine/accompagnement_personnes_agees-92012-01",
+    "metadata": {
+      "email": "plateformeaidants@lesabondances.fr",
+      "telephone": "01 41 22 57 51",
+      "url": "http://www.lesabondances.fr/plateforme-des-aidants"
+    }
+  },
+  {
+    "id": "a0b1a68937a5ed42c0fba441feedcddb0c7916c4",
+    "name": "plateforme_daccompagnement_et_de_repit_pour_les_aidants_de_personnes_agees_bourges",
+    "title": "Plateforme d'accompagnement et de répit pour les aidants de personnes âgées - Bourges",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/cher/accompagnement_personnes_agees-18033-01",
+    "metadata": {
+      "email": "plateformederepit.taillegrain@ch-bourges.fr",
+      "telephone": "02 48 23 77 49",
+      "url": "http://www.ch-bourges.fr"
+    }
+  },
+  {
+    "id": "fea72481b506cae66e49277428c4d830bf6d41c6",
+    "name": "plateforme_daccompagnement_et_de_repit_pour_les_aidants_de_personnes_agees_bourgoin_jaillieu",
+    "title": "Plateforme d'accompagnement et de répit pour les aidants de personnes âgées - Bourgoin-Jaillieu",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/isere/accompagnement_personnes_agees-38053-01",
+    "metadata": {
+      "email": "chto-plateformederepit@ghnd.fr",
+      "telephone": "04 69 15 76 56",
+      "url": ""
+    }
+  },
+  {
+    "id": "8abf77c8434e0f8eb79d2fe713a666608372e95e",
+    "name": "plateforme_daccompagnement_et_de_repit_pour_les_aidants_de_personnes_agees_brehan",
+    "title": "Plateforme d'accompagnement et de répit pour les aidants de personnes âgées - Bréhan",
+    "url": "https://lannuaire.service-public.fr/bretagne/morbihan/accompagnement_personnes_agees-56024-01",
+    "metadata": {
+      "email": "accueil@barr-heol.fr",
+      "telephone": "02 97 38 80 06",
+      "url": "http://www.barr-heol.fr"
+    }
+  },
+  {
+    "id": "d31744d6aa9e82e77a8253df39c8a878ae819288",
+    "name": "plateforme_daccompagnement_et_de_repit_pour_les_aidants_de_personnes_agees_brest",
+    "title": "Plateforme d'accompagnement et de répit pour les aidants de personnes âgées - Brest",
+    "url": "https://lannuaire.service-public.fr/bretagne/finistere/accompagnement_personnes_agees-29019-01",
+    "metadata": {
+      "email": "lepenty@amities-armor.asso.fr",
+      "telephone": "02 98 04 01 97",
+      "url": "http://www.amities-armor.asso.fr"
+    }
+  },
+  {
+    "id": "bf3ccb4a2be7b902fe83fae466e1da9656bb02d1",
+    "name": "plateforme_daccompagnement_et_de_repit_pour_les_aidants_de_personnes_agees_breviandes",
+    "title": "Plateforme d'accompagnement et de répit pour les aidants de personnes âgées - Bréviandes",
+    "url": "https://lannuaire.service-public.fr/grand-est/aube/accompagnement_personnes_agees-10060-01",
+    "metadata": {
+      "email": "repit@laroseraie.org",
+      "telephone": "03 25 75 47 53",
+      "url": "http://www.laroseraie.org"
+    }
+  },
+  {
+    "id": "70bfbb9d5d5ace4d6dea5f0c387e85db13e3f3d5",
+    "name": "plateforme_daccompagnement_et_de_repit_pour_les_aidants_de_personnes_agees_briancon",
+    "title": "Plateforme d'accompagnement et de répit pour les aidants de personnes âgées - Briançon",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/hautes-alpes/accompagnement_personnes_agees-05023-01",
+    "metadata": {
+      "email": "direction@fondationseltzer.fr",
+      "telephone": "04 92 25 31 97",
+      "url": "http://www.fondationseltzer.fr"
+    }
+  },
+  {
+    "id": "7c2a7fa970971b91a26526624311ed2c76c2e6da",
+    "name": "plateforme_daccompagnement_et_de_repit_pour_les_aidants_de_personnes_agees_brive_la_gaillarde",
+    "title": "Plateforme d'accompagnement et de répit pour les aidants de personnes âgées - Brive-la-Gaillarde",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/correze/accompagnement_personnes_agees-19031-01",
+    "metadata": {
+      "email": "plateforme-repit@ch-brive.fr",
+      "telephone": "08 00 19 01 92",
+      "url": ""
+    }
+  },
+  {
+    "id": "224d494dd3e78eeab21750c5ef2d1fab58b7855d",
+    "name": "plateforme_daccompagnement_et_de_repit_pour_les_aidants_de_personnes_agees_calaisis",
+    "title": "Plateforme d'accompagnement et de répit pour les aidants de personnes âgées - Calaisis",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/pas-de-calais/accompagnement_personnes_agees-62193-01",
+    "metadata": {
+      "email": "psr@ch-calais.fr",
+      "telephone": "03 62 61 51 44",
+      "url": ""
+    }
+  },
+  {
+    "id": "f0a961631daf1f5503ea8864160c22ef6abc8aca",
+    "name": "plateforme_daccompagnement_et_de_repit_pour_les_aidants_de_personnes_agees_carvin",
+    "title": "Plateforme d'accompagnement et de répit pour les aidants de personnes âgées - Carvin",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/pas-de-calais/accompagnement_personnes_agees-62215-01",
+    "metadata": {
+      "email": "maisondesaidants@ghsc.fr",
+      "telephone": "03 21 77 47 48",
+      "url": ""
+    }
+  },
+  {
+    "id": "096da45d15807a36a6f4b5b994d85306b57a5c2d",
+    "name": "plateforme_daccompagnement_et_de_repit_pour_les_aidants_de_personnes_agees_chamalieres",
+    "title": "Plateforme d'accompagnement et de répit pour les aidants de personnes âgées - Chamalières",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/puy-de-dome/accompagnement_personnes_agees-63075-01",
+    "metadata": {
+      "email": "plateforme@savarounes.fr",
+      "telephone": "04 73 31 76 07",
+      "url": "http://www.plateformederepit63.fr"
+    }
+  },
+  {
+    "id": "8497d9618543a84bc0a6515e862223bfdab43680",
+    "name": "plateforme_daccompagnement_et_de_repit_pour_les_aidants_de_personnes_agees_chateauneuf_sur_charente",
+    "title": "Plateforme d'accompagnement et de répit pour les aidants de personnes âgées - Châteauneuf-sur-Charente",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/charente/accompagnement_personnes_agees-16090-01",
+    "metadata": {
+      "email": "plateforme.des.aidants@ch-chateauneuf.fr",
+      "telephone": "05 45 66 13 32",
+      "url": ""
+    }
+  },
+  {
+    "id": "204c7b531fc3704181476dfb101d85f01a6e8e87",
+    "name": "plateforme_daccompagnement_et_de_repit_pour_les_aidants_de_personnes_agees_chatellerault",
+    "title": "Plateforme d'accompagnement et de répit pour les aidants de personnes âgées - Chatellerault",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/vienne/accompagnement_personnes_agees-86066-01",
+    "metadata": {
+      "email": "plateforme.repit@ccas-chatellerault.fr",
+      "telephone": "05 49 02 31 99",
+      "url": ""
+    }
+  },
+  {
+    "id": "af97f7bf0e92b64bb7687d3c781de82e4a92bd18",
+    "name": "plateforme_daccompagnement_et_de_repit_pour_les_aidants_de_personnes_agees_cholet",
+    "title": "Plateforme d'accompagnement et de répit pour les aidants de personnes âgées - Cholet",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/maine-et-loire/accompagnement_personnes_agees-49099-01",
+    "metadata": {
+      "email": "contact.relais-presence@orange.fr",
+      "telephone": "02 41 75 49 33",
+      "url": "http://www.relais-presence.com"
+    }
+  },
+  {
+    "id": "0efc9b7ca93a2035177dc2d76f550d22f3c8172a",
+    "name": "plateforme_daccompagnement_et_de_repit_pour_les_aidants_de_personnes_agees_cormeilles_en_parisis",
+    "title": "Plateforme d'accompagnement et de répit pour les aidants de personnes âgées - Cormeilles-en-Parisis",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/val-d-oise/accompagnement_personnes_agees-95176-01",
+    "metadata": {
+      "email": "",
+      "telephone": "01 39 78 54 51",
+      "url": "https://www.pour-les-personnes-agees.gouv.fr/fiche-annuaire/point-information/976"
+    }
+  },
+  {
+    "id": "f5fd717edf8780e24ac31f40b9f44fff986703f9",
+    "name": "plateforme_daccompagnement_et_de_repit_pour_les_aidants_de_personnes_agees_criquetot_l_esneval",
+    "title": "Plateforme d'accompagnement et de répit pour les aidants de personnes âgées - Criquetot-l'Esneval",
+    "url": "https://lannuaire.service-public.fr/normandie/seine-maritime/accompagnement_personnes_agees-76196-01",
+    "metadata": {
+      "email": "administration@asso-lapommeraie.fr",
+      "telephone": "02 35 10 21 00",
+      "url": "https://lapommeraiejeanvanier.fr"
+    }
+  },
+  {
+    "id": "aeea3cca0271147aa8d0d3eaa5548c62edf2560e",
+    "name": "plateforme_daccompagnement_et_de_repit_pour_les_aidants_de_personnes_agees_digne_les_bains",
+    "title": "Plateforme d'accompagnement et de répit pour les aidants de personnes âgées - Digne-les-Bains",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/alpes-de-haute-provence/accompagnement_personnes_agees-04070-01",
+    "metadata": {
+      "email": "accueildejour@nd-bourg.fr",
+      "telephone": "06 07 47 16 27",
+      "url": "http://www.association-saintmartin.fr"
+    }
+  },
+  {
+    "id": "3fb18f7f555e8e1c71ab425d44d116d43b561918",
+    "name": "plateforme_daccompagnement_et_de_repit_pour_les_aidants_de_personnes_agees_dijon",
+    "title": "Plateforme d'accompagnement et de répit pour les aidants de personnes âgées - Dijon",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/cote-d-or/accompagnement_personnes_agees-21231-01",
+    "metadata": {
+      "email": "plateformesecretariat@fedosad.fr",
+      "telephone": "03 80 70 29 29",
+      "url": ""
+    }
+  },
+  {
+    "id": "82d099a7fde291ce413b7716e575aa7edf115a3b",
+    "name": "plateforme_daccompagnement_et_de_repit_pour_les_aidants_de_personnes_agees_douai",
+    "title": "Plateforme d'accompagnement et de répit pour les aidants de personnes âgées - Douai",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/nord/accompagnement_personnes_agees-59178-01",
+    "metadata": {
+      "email": "pfr.douaisis@fondationpartageetvie.org",
+      "telephone": "03 27 93 77 85",
+      "url": ""
+    }
+  },
+  {
+    "id": "518fa8eb7250e4a07b1b65cf0a5a2b1b61128d8b",
+    "name": "plateforme_daccompagnement_et_de_repit_pour_les_aidants_de_personnes_agees_douarnenez",
+    "title": "Plateforme d'accompagnement et de répit pour les aidants de personnes âgées - Douarnenez",
+    "url": "https://lannuaire.service-public.fr/bretagne/finistere/accompagnement_personnes_agees-29046-01",
+    "metadata": {
+      "email": "plateforme.repit@ch-douarnenez.fr",
+      "telephone": "02 98 58 91 13",
+      "url": ""
+    }
+  },
+  {
+    "id": "e69a0ff5b1feae5d723d74167cf1056e352f3611",
+    "name": "plateforme_daccompagnement_et_de_repit_pour_les_aidants_de_personnes_agees_dreffeac",
+    "title": "Plateforme d'accompagnement et de répit pour les aidants de personnes âgées - Drefféac",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/loire-atlantique/accompagnement_personnes_agees-44053-01",
+    "metadata": {
+      "email": "contact@alfarepit.fr",
+      "telephone": "02 40 66 94 58",
+      "url": "http://www.alfarepit.fr"
+    }
+  },
+  {
+    "id": "03b6f9506364f957517f2375580d96e70d54f4b6",
+    "name": "plateforme_daccompagnement_et_de_repit_pour_les_aidants_de_personnes_agees_falaise",
+    "title": "Plateforme d'accompagnement et de répit pour les aidants de personnes âgées - Falaise",
+    "url": "https://lannuaire.service-public.fr/normandie/calvados/accompagnement_personnes_agees-14258-01",
+    "metadata": {
+      "email": "clara.roques@ch-falaise.fr",
+      "telephone": "02 31 40 43 59",
+      "url": "http://www.ch-falaise.fr"
+    }
+  },
+  {
+    "id": "1f52135e82875d6c9c5ee9db7fb00009e56f8c4a",
+    "name": "plateforme_daccompagnement_et_de_repit_pour_les_aidants_de_personnes_agees_fort_de_france",
+    "title": "Plateforme d'accompagnement et de répit pour les aidants de personnes âgées - Fort-de-France",
+    "url": "https://lannuaire.service-public.fr/martinique/martinique/accompagnement_personnes_agees-97209-01",
+    "metadata": {
+      "email": "contact.plateforme@orange.fr",
+      "telephone": "05 96 76 52 68",
+      "url": ""
+    }
+  },
+  {
+    "id": "d72da1661645cf18fa1b07c1f276cce68e0e12ca",
+    "name": "plateforme_daccompagnement_et_de_repit_pour_les_aidants_de_personnes_agees_frejus",
+    "title": "Plateforme d'accompagnement et de répit pour les aidants de personnes âgées - Fréjus",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/var/accompagnement_personnes_agees-83061-01",
+    "metadata": {
+      "email": "ericlecaille@alzheimerleslibellules.com",
+      "telephone": "04 94 51 22 94",
+      "url": "http://www.alzheimerlibellules.com"
+    }
+  },
+  {
+    "id": "4e7aabe8f1ed666ad790b6948a85048b2c2a7562",
+    "name": "plateforme_daccompagnement_et_de_repit_pour_les_aidants_de_personnes_agees_frontignan",
+    "title": "Plateforme d'accompagnement et de répit pour les aidants de personnes âgées - Frontignan",
+    "url": "https://lannuaire.service-public.fr/occitanie/herault/accompagnement_personnes_agees-34108-01",
+    "metadata": {
+      "email": "cseecoutille@mr-frontignan.fr",
+      "telephone": "07 89 01 60 11",
+      "url": "http://ehpad-frontigan.com"
+    }
+  },
+  {
+    "id": "f30e08ffb55b9d8cf0b40eb5480a062dc44eb7e4",
+    "name": "plateforme_daccompagnement_et_de_repit_pour_les_aidants_de_personnes_agees_gauchin_verloingt",
+    "title": "Plateforme d'accompagnement et de répit pour les aidants de personnes âgées - Gauchin-Verloingt",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/pas-de-calais/accompagnement_personnes_agees-62367-01",
+    "metadata": {
+      "email": "plateforme.repit@gh-artoisternois.fr",
+      "telephone": "03 21 47 07 70",
+      "url": "http://www.centrehospitalierduternois.com"
+    }
+  },
+  {
+    "id": "6d60e38691f342b24e60ec9ce8ed0bf38d14907f",
+    "name": "plateforme_daccompagnement_et_de_repit_pour_les_aidants_de_personnes_agees_glanes",
+    "title": "Plateforme d'accompagnement et de répit pour les aidants de personnes âgées - Glanes",
+    "url": "https://lannuaire.service-public.fr/occitanie/lot/accompagnement_personnes_agees-46124-01",
+    "metadata": {
+      "email": "plateformedesaidants@icm46.org",
+      "telephone": "06 82 80 73 75",
+      "url": ""
+    }
+  },
+  {
+    "id": "7f48cbef900277f42efe23c7e52617885afba998",
+    "name": "plateforme_daccompagnement_et_de_repit_pour_les_aidants_de_personnes_agees_gleize",
+    "title": "Plateforme d'accompagnement et de répit pour les aidants de personnes âgées - Gleizé",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/rhone/accompagnement_personnes_agees-69092-01",
+    "metadata": {
+      "email": "arcav.hippocampe@laposte.net",
+      "telephone": "04 74 69 50 77",
+      "url": "http://www.arcav.fr"
+    }
+  },
+  {
+    "id": "f2d6a4e0965c3a9c9e9aafaf949a82abd52e05df",
+    "name": "plateforme_daccompagnement_et_de_repit_pour_les_aidants_de_personnes_agees_grugny",
+    "title": "Plateforme d'accompagnement et de répit pour les aidants de personnes âgées - Grugny",
+    "url": "https://lannuaire.service-public.fr/normandie/seine-maritime/accompagnement_personnes_agees-76331-01",
+    "metadata": {
+      "email": "loasis@epd-grugny.fr",
+      "telephone": "02 32 93 83 53",
+      "url": ""
+    }
+  },
+  {
+    "id": "4ca3a1a570b2888cf3162a4744c83025d94e6938",
+    "name": "plateforme_daccompagnement_et_de_repit_pour_les_aidants_de_personnes_agees_ingrandes_le_fresne_sur_loire",
+    "title": "Plateforme d'accompagnement et de répit pour les aidants de personnes âgées - Ingrandes-le-Fresne-sur-Loire",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/maine-et-loire/accompagnement_personnes_agees-49160-01",
+    "metadata": {
+      "email": "lesmoncellieres@wanadoo.fr",
+      "telephone": "02 41 39 21 13",
+      "url": ""
+    }
+  },
+  {
+    "id": "531d98d6eedf8b0ba137608acd2de85c245cc544",
+    "name": "plateforme_daccompagnement_et_de_repit_pour_les_aidants_de_personnes_agees_istres",
+    "title": "Plateforme d'accompagnement et de répit pour les aidants de personnes âgées - Istres",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/accompagnement_personnes_agees-13047-01",
+    "metadata": {
+      "email": "lemaillon777@orange.fr",
+      "telephone": "04 42 11 83 44",
+      "url": "http://www.lemaillon.fr"
+    }
+  },
+  {
+    "id": "d2efe20b5b36747ea900ac3adc3d293ec2de6543",
+    "name": "plateforme_daccompagnement_et_de_repit_pour_les_aidants_de_personnes_agees_jouy_aux_arches",
+    "title": "Plateforme d'accompagnement et de répit pour les aidants de personnes âgées - Jouy-aux-Arches",
+    "url": "https://lannuaire.service-public.fr/grand-est/moselle/accompagnement_personnes_agees-57162-01",
+    "metadata": {
+      "email": "repit57@fondation-bompard.asso.fr",
+      "telephone": "03 87 38 93 87",
+      "url": "http://www.fondation-bompard.asso.fr"
+    }
+  },
+  {
+    "id": "58add78fd398734ae237afaaf0b29abfdcdbb8be",
+    "name": "plateforme_daccompagnement_et_de_repit_pour_les_aidants_de_personnes_agees_l_isle_sur_la_sorgue",
+    "title": "Plateforme d'accompagnement et de répit pour les aidants de personnes âgées - L'Isle-sur-la-Sorgue",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/vaucluse/accompagnement_personnes_agees-84054-01",
+    "metadata": {
+      "email": "plateforme.repit@hopital-islesursorgue.fr",
+      "telephone": "04 90 21 36 03",
+      "url": ""
+    }
+  },
+  {
+    "id": "c80cf07deda7e65182df7c5357459f599c6cdd1d",
+    "name": "plateforme_daccompagnement_et_de_repit_pour_les_aidants_de_personnes_agees_labenne",
+    "title": "Plateforme d'accompagnement et de répit pour les aidants de personnes âgées - Labenne",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/landes/accompagnement_personnes_agees-40133-01",
+    "metadata": {
+      "email": "lescale@ihmlabenne.fr",
+      "telephone": "05 59 45 83 78",
+      "url": "http://www.plateformelescale.fr"
+    }
+  },
+  {
+    "id": "82781b8c25a4c3dbb10eb15224a7af680b1394d2",
+    "name": "plateforme_daccompagnement_et_de_repit_pour_les_aidants_de_personnes_agees_la_garde",
+    "title": "Plateforme d'accompagnement et de répit pour les aidants de personnes âgées - La Garde",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/var/accompagnement_personnes_agees-83062-01",
+    "metadata": {
+      "email": "fildargent.ceas@gmail.com",
+      "telephone": "04 94 28 22 65",
+      "url": ""
+    }
+  },
+  {
+    "id": "83ada9fff57b8c9660ed6d5987a82770f2fa1cd6",
+    "name": "plateforme_daccompagnement_et_de_repit_pour_les_aidants_de_personnes_agees_lamballe",
+    "title": "Plateforme d'accompagnement et de répit pour les aidants de personnes âgées - Lamballe",
+    "url": "https://lannuaire.service-public.fr/bretagne/cotes-d-armor/accompagnement_personnes_agees-22093-01",
+    "metadata": {
+      "email": "isa-sara@ch2p.bzh",
+      "telephone": "02 96 50 15 10",
+      "url": "http://www.ch2p.bzh"
+    }
+  },
+  {
+    "id": "a7ac9aa73722023271af69ded85d77049527bce4",
+    "name": "plateforme_daccompagnement_et_de_repit_pour_les_aidants_de_personnes_agees_la_rochelle",
+    "title": "Plateforme d'accompagnement et de répit pour les aidants de personnes âgées - La Rochelle",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/charente-maritime/accompagnement_personnes_agees-17300-01",
+    "metadata": {
+      "email": "nathalie.blin@escale-larochelle.com",
+      "telephone": "05 46 42 48 09",
+      "url": ""
+    }
+  },
+  {
+    "id": "2b48245b612b9a6b731ad07e43aeefca65fe3179",
+    "name": "plateforme_daccompagnement_et_de_repit_pour_les_aidants_de_personnes_agees_la_seyne_sur_mer",
+    "title": "Plateforme d'accompagnement et de répit pour les aidants de personnes âgées - La Seyne-sur-Mer",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/var/accompagnement_personnes_agees-83126-01",
+    "metadata": {
+      "email": "alzheimeraidantsvar@orange.fr",
+      "telephone": "04 94 94 94 94",
+      "url": "http://alzheimer-aidants.fr"
+    }
+  },
+  {
+    "id": "21f01419e040ed7b59a2ec7af385ed1fbee15626",
+    "name": "plateforme_daccompagnement_et_de_repit_pour_les_aidants_de_personnes_agees_le_cateau_cambresis",
+    "title": "Plateforme d'accompagnement et de répit pour les aidants de personnes âgées - Le Cateau-Cambrésis",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/nord/accompagnement_personnes_agees-59136-01",
+    "metadata": {
+      "email": "maisondesaidants@ch-lecateau.fr",
+      "telephone": "03 27 84 66 97",
+      "url": "http://www.ch-lecateau.fr"
+    }
+  },
+  {
+    "id": "9e3fe3a018255f3ea8a269136750722aaf9f9054",
+    "name": "plateforme_daccompagnement_et_de_repit_pour_les_aidants_de_personnes_agees_le_chambon_feugerolles",
+    "title": "Plateforme d'accompagnement et de répit pour les aidants de personnes âgées - Le Chambon-Feugerolles",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/loire/accompagnement_personnes_agees-42044-01",
+    "metadata": {
+      "email": "plateforme@aloess.org",
+      "telephone": "04 77 56 57 47",
+      "url": "https://www.aloess.org"
+    }
+  },
+  {
+    "id": "84db53911cf521091c0f09af38b5b0f7160d6495",
+    "name": "plateforme_daccompagnement_et_de_repit_pour_les_aidants_de_personnes_agees_le_mans",
+    "title": "Plateforme d'accompagnement et de répit pour les aidants de personnes âgées - Le Mans",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/sarthe/accompagnement_personnes_agees-72181-01",
+    "metadata": {
+      "email": "accueilmyosotis@lareposance.net",
+      "telephone": "02 43 76 85 04",
+      "url": "http://www.maison-myosotis-alzheimer.com"
+    }
+  },
+  {
+    "id": "84db53911cf521091c0f09af38b5b0f7160d6495",
+    "name": "plateforme_daccompagnement_et_de_repit_pour_les_aidants_de_personnes_agees_le_mans",
+    "title": "Plateforme d'accompagnement et de répit pour les aidants de personnes âgées - Le Mans",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/sarthe/accompagnement_personnes_agees-72181-02",
+    "metadata": {
+      "email": "accueil@lareposance.net",
+      "telephone": "02 43 84 27 71",
+      "url": "http://www.lareposance.net"
+    }
+  },
+  {
+    "id": "df913bdb84b317b17a3b7c82f33488de07b3f2ad",
+    "name": "plateforme_daccompagnement_et_de_repit_pour_les_aidants_de_personnes_agees_le_pontet",
+    "title": "Plateforme d'accompagnement et de répit pour les aidants de personnes âgées - Le Pontet",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/vaucluse/accompagnement_personnes_agees-84007-01",
+    "metadata": {
+      "email": "maisonjeantouraille@gmail.com",
+      "telephone": "04 32 74 17 84",
+      "url": "http://www.francealzheimer84.fr"
+    }
+  },
+  {
+    "id": "09c21a0201aff15692b4bd5c0887d7c0b9c8363d",
+    "name": "plateforme_daccompagnement_et_de_repit_pour_les_aidants_de_personnes_agees_le_quesnoy",
+    "title": "Plateforme d'accompagnement et de répit pour les aidants de personnes âgées - Le Quesnoy",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/nord/accompagnement_personnes_agees-59481-02",
+    "metadata": {
+      "email": "plateforme.repit@ch-lequesnoy.fr",
+      "telephone": "03 27 14 86 31",
+      "url": ""
+    }
+  },
+  {
+    "id": "36fc65cbd1e4b6a2a581f97866157fafd934b158",
+    "name": "plateforme_daccompagnement_et_de_repit_pour_les_aidants_de_personnes_agees_le_val_d_ajol",
+    "title": "Plateforme d'accompagnement et de répit pour les aidants de personnes âgées - Le Val-d'Ajol",
+    "url": "https://lannuaire.service-public.fr/grand-est/vosges/accompagnement_personnes_agees-88487-01",
+    "metadata": {
+      "email": "direction@chasvm-valdajol.fr",
+      "telephone": "03 29 30 67 04",
+      "url": "http://chasvm-valdajol.fr"
+    }
+  },
+  {
+    "id": "f1a4d45cc874e0deb976bbe6b38b1a106be5f741",
+    "name": "plateforme_daccompagnement_et_de_repit_pour_les_aidants_de_personnes_agees_lille",
+    "title": "Plateforme d'accompagnement et de répit pour les aidants de personnes âgées - Lille",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/nord/accompagnement_personnes_agees-59350-01",
+    "metadata": {
+      "email": "maisondesaidants@feron-vrau.com",
+      "telephone": "03 20 42 50 82",
+      "url": "www.feron-vrau.com"
+    }
+  },
+  {
+    "id": "81482049375bad819af20c4d66c2bc4e81bb17c9",
+    "name": "plateforme_daccompagnement_et_de_repit_pour_les_aidants_de_personnes_agees_limoges",
+    "title": "Plateforme d'accompagnement et de répit pour les aidants de personnes âgées - Limoges",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/haute-vienne/accompagnement_personnes_agees-87085-01",
+    "metadata": {
+      "email": "evaasion@mutalitelimousine.fr",
+      "telephone": "05 19 99 99 99",
+      "url": ""
+    }
+  },
+  {
+    "id": "81482049375bad819af20c4d66c2bc4e81bb17c9",
+    "name": "plateforme_daccompagnement_et_de_repit_pour_les_aidants_de_personnes_agees_limoges",
+    "title": "Plateforme d'accompagnement et de répit pour les aidants de personnes âgées - Limoges",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/haute-vienne/accompagnement_personnes_agees-87085-02",
+    "metadata": {
+      "email": "secretariat@soinsante-limoges.com",
+      "telephone": "05 55 33 99 00",
+      "url": "http://www.soinsante-limoges.com"
+    }
+  },
+  {
+    "id": "e86bda29ee933e03a3c90d413c4c8531f849dee9",
+    "name": "plateforme_daccompagnement_et_de_repit_pour_les_aidants_de_personnes_agees_lyon",
+    "title": "Plateforme d'accompagnement et de répit pour les aidants de personnes âgées - Lyon",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/rhone/accompagnement_personnes_agees-69382-01",
+    "metadata": {
+      "email": "plateforme@smdlyon.fr",
+      "telephone": "04 72 07 61 97",
+      "url": "http://smdlyon.fr"
+    }
+  },
+  {
+    "id": "e86bda29ee933e03a3c90d413c4c8531f849dee9",
+    "name": "plateforme_daccompagnement_et_de_repit_pour_les_aidants_de_personnes_agees_lyon",
+    "title": "Plateforme d'accompagnement et de répit pour les aidants de personnes âgées - Lyon",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/rhone/accompagnement_personnes_agees-69388-01",
+    "metadata": {
+      "email": "bistrotdesaidants@polydom.com",
+      "telephone": "04 78 76 50 48",
+      "url": "http://www.polydom.com"
+    }
+  },
+  {
+    "id": "ef360aee13dca50463197d0a74006fd4a94961b9",
+    "name": "plateforme_daccompagnement_et_de_repit_pour_les_aidants_de_personnes_agees_macon",
+    "title": "Plateforme d'accompagnement et de répit pour les aidants de personnes âgées - Mâcon",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/saone-et-loire/accompagnement_personnes_agees-71270-01",
+    "metadata": {
+      "email": "rdas@rdasmacon.net",
+      "telephone": "03 85 21 60 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "a9f2dcb0bd5d839655a949cc70a9b12549359221",
+    "name": "plateforme_daccompagnement_et_de_repit_pour_les_aidants_de_personnes_agees_marquise",
+    "title": "Plateforme d'accompagnement et de répit pour les aidants de personnes âgées - Marquise",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/pas-de-calais/accompagnement_personnes_agees-62560-01",
+    "metadata": {
+      "email": "pfrlittoralboulonnais@groupehouzel.fr",
+      "telephone": "07 78 41 43 21",
+      "url": ""
+    }
+  },
+  {
+    "id": "32289ccbc31a2dbe2dd2686929f7eadf0e69ae9f",
+    "name": "plateforme_daccompagnement_et_de_repit_pour_les_aidants_de_personnes_agees_marseille",
+    "title": "Plateforme d'accompagnement et de répit pour les aidants de personnes âgées - Marseille",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/accompagnement_personnes_agees-13215-01",
+    "metadata": {
+      "email": "alzheimeraidants13@orange.fr",
+      "telephone": "04 91 65 55 55",
+      "url": ""
+    }
+  },
+  {
+    "id": "c12eb84239849867155a667f1b87b10c354c8de3",
+    "name": "plateforme_daccompagnement_et_de_repit_pour_les_aidants_de_personnes_agees_martinvast",
+    "title": "Plateforme d'accompagnement et de répit pour les aidants de personnes âgées - Martinvast",
+    "url": "https://lannuaire.service-public.fr/normandie/manche/accompagnement_personnes_agees-50615-01",
+    "metadata": {
+      "email": "sandie.lemonnier@fbs50.fr",
+      "telephone": "07 86 56 20 30",
+      "url": ""
+    }
+  },
+  {
+    "id": "2e5e6eeab97e992da6fbf4bb11e49b2f962e7a9d",
+    "name": "plateforme_daccompagnement_et_de_repit_pour_les_aidants_de_personnes_agees_maubeuge",
+    "title": "Plateforme d'accompagnement et de répit pour les aidants de personnes âgées - Maubeuge",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/nord/accompagnement_personnes_agees-59392-01",
+    "metadata": {
+      "email": "restilleuls@afeji.org",
+      "telephone": "03 27 61 84 05",
+      "url": ""
+    }
+  },
+  {
+    "id": "3502cfc6354012d4a715d5110fac526d369185de",
+    "name": "plateforme_daccompagnement_et_de_repit_pour_les_aidants_de_personnes_agees_mericourt",
+    "title": "Plateforme d'accompagnement et de répit pour les aidants de personnes âgées - Méricourt",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/pas-de-calais/accompagnement_personnes_agees-62570-01",
+    "metadata": {
+      "email": "plateforme.aidants@apreva-rms.fr",
+      "telephone": "03 61 19 60 72",
+      "url": ""
+    }
+  },
+  {
+    "id": "5395b8a5f46ca6a2f879a41c0d09cff2281a9273",
+    "name": "plateforme_daccompagnement_et_de_repit_pour_les_aidants_de_personnes_agees_millas",
+    "title": "Plateforme d'accompagnement et de répit pour les aidants de personnes âgées - Millas",
+    "url": "https://lannuaire.service-public.fr/occitanie/pyrenees-orientales/accompagnement_personnes_agees-66108-01",
+    "metadata": {
+      "email": "grandplatanemillas@gmail.com",
+      "telephone": "04 68 66 02 02",
+      "url": "http://www.legrandplatane.fr"
+    }
+  },
+  {
+    "id": "5395b8a5f46ca6a2f879a41c0d09cff2281a9273",
+    "name": "plateforme_daccompagnement_et_de_repit_pour_les_aidants_de_personnes_agees_millas",
+    "title": "Plateforme d'accompagnement et de répit pour les aidants de personnes âgées - Millas",
+    "url": "https://lannuaire.service-public.fr/occitanie/pyrenees-orientales/accompagnement_personnes_agees-66108-02",
+    "metadata": {
+      "email": "residencel-forcareal.millas@wanadoo.fr",
+      "telephone": "04 68 84 61 00",
+      "url": "http://ehpad-millas.fr"
+    }
+  },
+  {
+    "id": "6a9c2b7eea244af3e27423309226a8bf61fd64f5",
+    "name": "plateforme_daccompagnement_et_de_repit_pour_les_aidants_de_personnes_agees_millau",
+    "title": "Plateforme d'accompagnement et de répit pour les aidants de personnes âgées - Millau",
+    "url": "https://lannuaire.service-public.fr/occitanie/aveyron/accompagnement_personnes_agees-12145-01",
+    "metadata": {
+      "email": "plateformerepit.lescheveuxdange@orange.fr",
+      "telephone": "05 65 58 44 20",
+      "url": "http://www.umm.fr"
+    }
+  },
+  {
+    "id": "a35309e19e5b3e75b3a1d87a6fec6dcbe620e4ef",
+    "name": "plateforme_daccompagnement_et_de_repit_pour_les_aidants_de_personnes_agees_montauban",
+    "title": "Plateforme d'accompagnement et de répit pour les aidants de personnes âgées - Montauban",
+    "url": "https://lannuaire.service-public.fr/occitanie/tarn-et-garonne/accompagnement_personnes_agees-82121-01",
+    "metadata": {
+      "email": "contact-montauban@apas82.fr",
+      "telephone": "05 63 20 57 21",
+      "url": "http://www.apas82.fr"
+    }
+  },
+  {
+    "id": "ae399b63e9a005f054ac277f79dc942b02ae0bc1",
+    "name": "plateforme_daccompagnement_et_de_repit_pour_les_aidants_de_personnes_agees_montezic",
+    "title": "Plateforme d'accompagnement et de répit pour les aidants de personnes âgées - Montézic",
+    "url": "https://lannuaire.service-public.fr/occitanie/aveyron/accompagnement_personnes_agees-12151-01",
+    "metadata": {
+      "email": "contact@levaladou.com",
+      "telephone": "05 65 44 89 42",
+      "url": "http://www.levaladou.com"
+    }
+  },
+  {
+    "id": "80a577af3237bbae213ed8bfe498dfc46d77605e",
+    "name": "plateforme_daccompagnement_et_de_repit_pour_les_aidants_de_personnes_agees_montpellier",
+    "title": "Plateforme d'accompagnement et de répit pour les aidants de personnes âgées - Montpellier",
+    "url": "https://lannuaire.service-public.fr/occitanie/herault/accompagnement_personnes_agees-34172-01",
+    "metadata": {
+      "email": "plateforme.repairs@gmail.com",
+      "telephone": "04 99 74 53 13",
+      "url": "http://www.association-ciel-bleu.org"
+    }
+  },
+  {
+    "id": "586672fee6f5ba8251be7347428d3a4efc9e0ef0",
+    "name": "plateforme_daccompagnement_et_de_repit_pour_les_aidants_de_personnes_agees_mortagne_au_perche",
+    "title": "Plateforme d'accompagnement et de répit pour les aidants de personnes âgées - Mortagne-au-Perche",
+    "url": "https://lannuaire.service-public.fr/normandie/orne/accompagnement_personnes_agees-61293-01",
+    "metadata": {
+      "email": "una.perche@unaperche.fr",
+      "telephone": "02 33 85 30 50",
+      "url": ""
+    }
+  },
+  {
+    "id": "a7afedb9360a4b592167175277f24bdd855d9dcc",
+    "name": "plateforme_daccompagnement_et_de_repit_pour_les_aidants_de_personnes_agees_moulins",
+    "title": "Plateforme d'accompagnement et de répit pour les aidants de personnes âgées - Moulins",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/allier/accompagnement_personnes_agees-03190-01",
+    "metadata": {
+      "email": "sec.adjpdr@ch-moulins-yseur.fr",
+      "telephone": "04 15 14 85 35",
+      "url": ""
+    }
+  },
+  {
+    "id": "606db874e51b4c019d71f08f24b6c9f67b53a4c3",
+    "name": "plateforme_daccompagnement_et_de_repit_pour_les_aidants_de_personnes_agees_mulhouse",
+    "title": "Plateforme d'accompagnement et de répit pour les aidants de personnes âgées - Mulhouse",
+    "url": "https://lannuaire.service-public.fr/grand-est/haut-rhin/accompagnement_personnes_agees-68224-01",
+    "metadata": {
+      "email": "rivage@apa.asso.fr",
+      "telephone": "03 89 32 47 87",
+      "url": "http://www.reseau-apa.fr"
+    }
+  },
+  {
+    "id": "9f66f6337b9ee5c41df3ccf19f50f8e78ad8cdec",
+    "name": "plateforme_daccompagnement_et_de_repit_pour_les_aidants_de_personnes_agees_nancy",
+    "title": "Plateforme d'accompagnement et de répit pour les aidants de personnes âgées - Nancy",
+    "url": "https://lannuaire.service-public.fr/grand-est/meurthe-et-moselle/accompagnement_personnes_agees-54395-01",
+    "metadata": {
+      "email": "aaa@ohs.asso.fr",
+      "telephone": "03 83 18 01 14",
+      "url": ""
+    }
+  },
+  {
+    "id": "23ec6d023728828c629d9ad09cb775df8d23020d",
+    "name": "plateforme_daccompagnement_et_de_repit_pour_les_aidants_de_personnes_agees_nantes",
+    "title": "Plateforme d'accompagnement et de répit pour les aidants de personnes âgées - Nantes",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/loire-atlantique/accompagnement_personnes_agees-44109-01",
+    "metadata": {
+      "email": "maisondesaidants@mairie-nantes.fr",
+      "telephone": "02 51 89 17 60",
+      "url": "http://www.nantes.fr"
+    }
+  },
+  {
+    "id": "44c2fcb2329512f00a3c7a1c461b437f0b0b093b",
+    "name": "plateforme_daccompagnement_et_de_repit_pour_les_aidants_de_personnes_agees_narbonne",
+    "title": "Plateforme d'accompagnement et de répit pour les aidants de personnes âgées - Narbonne",
+    "url": "https://lannuaire.service-public.fr/occitanie/aude/accompagnement_personnes_agees-11262-01",
+    "metadata": {
+      "email": "auxilia@ch-narbonne.fr",
+      "telephone": "04 68 32 52 68",
+      "url": "http://auxilia-accueil.org"
+    }
+  },
+  {
+    "id": "6a1d9d9380aa9c9c423b28041ab7c8c50d6b9364",
+    "name": "plateforme_daccompagnement_et_de_repit_pour_les_aidants_de_personnes_agees_nevers",
+    "title": "Plateforme d'accompagnement et de répit pour les aidants de personnes âgées - Nevers",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/nievre/accompagnement_personnes_agees-58194-01",
+    "metadata": {
+      "email": "plateforme.repit@ville-nevers.fr",
+      "telephone": "03 86 71 80 11",
+      "url": ""
+    }
+  },
+  {
+    "id": "a54373bf7be0624a787af50733319f11c1278df5",
+    "name": "plateforme_daccompagnement_et_de_repit_pour_les_aidants_de_personnes_agees_nice",
+    "title": "Plateforme d'accompagnement et de répit pour les aidants de personnes âgées - Nice",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/alpes-maritimes/accompagnement_personnes_agees-06088-01",
+    "metadata": {
+      "email": "platerepit.nice@gmail.com",
+      "telephone": "06 08 94 08 19",
+      "url": ""
+    }
+  },
+  {
+    "id": "1b66998cc723401c4bb2afab5b6f015d701ca745",
+    "name": "plateforme_daccompagnement_et_de_repit_pour_les_aidants_de_personnes_agees_nimes",
+    "title": "Plateforme d'accompagnement et de répit pour les aidants de personnes âgées - Nîmes",
+    "url": "https://lannuaire.service-public.fr/occitanie/gard/accompagnement_personnes_agees-30189-01",
+    "metadata": {
+      "email": "lesjardinsdalois@vivadom.net",
+      "telephone": "04 48 06 01 14",
+      "url": "http://www.vivadom.net"
+    }
+  },
+  {
+    "id": "c42794245719e8b50457f43c9ec530ae16ec7bab",
+    "name": "plateforme_daccompagnement_et_de_repit_pour_les_aidants_de_personnes_agees_nogent_sur_seine",
+    "title": "Plateforme d'accompagnement et de répit pour les aidants de personnes âgées - Nogent-sur-Seine",
+    "url": "https://lannuaire.service-public.fr/grand-est/aube/accompagnement_personnes_agees-10268-01",
+    "metadata": {
+      "email": "france-alzheimer-aube@orange.fr",
+      "telephone": "03 25 21 89 16",
+      "url": "http://www.francealzheimer.org/aube"
+    }
+  },
+  {
+    "id": "b8b795dfa0dbcd7dc764145013943980a923f476",
+    "name": "plateforme_daccompagnement_et_de_repit_pour_les_aidants_de_personnes_agees_paris_11_e_12_e_et_20_e_arrondissements",
+    "title": "Plateforme d'accompagnement et de répit pour les aidants de personnes âgées - Paris - 11e 12e et 20e arrondissements",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/paris/accompagnement_personnes_agees-75112-01",
+    "metadata": {
+      "email": "clubdesaidants@ose-france.org",
+      "telephone": "01 43 47 30 01",
+      "url": "http://ose-france.org/grand-age-2/maladie-d'alzheimer/aide-aux-aidants"
+    }
+  },
+  {
+    "id": "79587ebf7e5b1bea26930a0808a755f114445c1c",
+    "name": "plateforme_daccompagnement_et_de_repit_pour_les_aidants_de_personnes_agees_paris_14_e",
+    "title": "Plateforme d'accompagnement et de répit pour les aidants de personnes âgées - Paris 14e",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/paris/accompagnement_personnes_agees-75114-01",
+    "metadata": {
+      "email": "pfr@ndbs.org",
+      "telephone": "01 40 52 42 48",
+      "url": "http://www.ndbs.org"
+    }
+  },
+  {
+    "id": "7d706933292e81dc8f585129049d7d14aae8aee6",
+    "name": "plateforme_daccompagnement_et_de_repit_pour_les_aidants_de_personnes_agees_paris_15_e",
+    "title": "Plateforme d'accompagnement et de répit pour les aidants de personnes âgées - Paris 15e",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/paris/accompagnement_personnes_agees-75115-01",
+    "metadata": {
+      "email": "plateformerepit@adc.asso.fr",
+      "telephone": "01 43 92 21 76",
+      "url": "http://www.jeanne-garnier.org"
+    }
+  },
+  {
+    "id": "f09addf0bd28183b157383c2729065bec32e3e14",
+    "name": "plateforme_daccompagnement_et_de_repit_pour_les_aidants_de_personnes_agees_paris_18_e",
+    "title": "Plateforme d'accompagnement et de répit pour les aidants de personnes âgées - Paris 18e",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/paris/accompagnement_personnes_agees-75118-01",
+    "metadata": {
+      "email": "par75@delta7.org",
+      "telephone": "01 42 29 29 94",
+      "url": "http://www.delta7.asso.fr"
+    }
+  },
+  {
+    "id": "c71bc4d944050f36b6b2015b1bf5956504a6881f",
+    "name": "plateforme_daccompagnement_et_de_repit_pour_les_aidants_de_personnes_agees_parthenay",
+    "title": "Plateforme d'accompagnement et de répit pour les aidants de personnes âgées - Parthenay",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/deux-sevres/accompagnement_personnes_agees-79202-01",
+    "metadata": {
+      "email": "clic-gatine@orange.fr",
+      "telephone": "05 49 63 45 70",
+      "url": "http://clic-reseau-gatine.jimdo.com"
+    }
+  },
+  {
+    "id": "843bdc859737839e7a49838495a38bb739b94a57",
+    "name": "plateforme_daccompagnement_et_de_repit_pour_les_aidants_de_personnes_agees_pau",
+    "title": "Plateforme d'accompagnement et de répit pour les aidants de personnes âgées - Pau",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/pyrenees-atlantiques/accompagnement_personnes_agees-64445-01",
+    "metadata": {
+      "email": "direction@residencedeslierres.fr",
+      "telephone": "05 59 32 16 96",
+      "url": "http://residenceleslierres.com"
+    }
+  },
+  {
+    "id": "49a3f372665734f2302c260fd71e4a10e004e091",
+    "name": "plateforme_daccompagnement_et_de_repit_pour_les_aidants_de_personnes_agees_perigueux",
+    "title": "Plateforme d'accompagnement et de répit pour les aidants de personnes âgées - Périgueux",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/dordogne/accompagnement_personnes_agees-24010-01",
+    "metadata": {
+      "email": "lavoiedesaidants@gfps.fr",
+      "telephone": "05 53 46 41 55",
+      "url": ""
+    }
+  },
+  {
+    "id": "1834d52f83052b21d4d9da77d074917420a8bfa3",
+    "name": "plateforme_daccompagnement_et_de_repit_pour_les_aidants_de_personnes_agees_perpignan",
+    "title": "Plateforme d'accompagnement et de répit pour les aidants de personnes âgées - Perpignan",
+    "url": "https://lannuaire.service-public.fr/occitanie/pyrenees-orientales/accompagnement_personnes_agees-66136-01",
+    "metadata": {
+      "email": "francealzheimerpo@gmail.com",
+      "telephone": "04 68 52 22 22",
+      "url": "https://www.francealzheimer.org"
+    }
+  },
+  {
+    "id": "cc51e888236ab7392ec1764e44bfd8f32f98850a",
+    "name": "plateforme_daccompagnement_et_de_repit_pour_les_aidants_de_personnes_agees_pessac",
+    "title": "Plateforme d'accompagnement et de répit pour les aidants de personnes âgées - Pessac",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/gironde/accompagnement_personnes_agees-33318-01",
+    "metadata": {
+      "email": "plateforme@fontaudin.fr",
+      "telephone": "05 56 46 45 70",
+      "url": ""
+    }
+  },
+  {
+    "id": "c0a8f0d60a5ff82b1db88f78f9acae7c82fa1034",
+    "name": "plateforme_daccompagnement_et_de_repit_pour_les_aidants_de_personnes_agees_plerin",
+    "title": "Plateforme d'accompagnement et de répit pour les aidants de personnes âgées - Plérin",
+    "url": "https://lannuaire.service-public.fr/bretagne/cotes-d-armor/accompagnement_personnes_agees-22187-01",
+    "metadata": {
+      "email": "v.urban@admr22.org",
+      "telephone": "02 96 61 42 56",
+      "url": ""
+    }
+  },
+  {
+    "id": "2f947f8490117a4f53c23bb756ee8c3197b51699",
+    "name": "plateforme_daccompagnement_et_de_repit_pour_les_aidants_de_personnes_agees_poligny",
+    "title": "Plateforme d'accompagnement et de répit pour les aidants de personnes âgées - Poligny",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/jura/accompagnement_personnes_agees-39434-01",
+    "metadata": {
+      "email": "repit@chipr.fr",
+      "telephone": "03 84 66 41 11",
+      "url": ""
+    }
+  },
+  {
+    "id": "11a03f9dadc840ea5d890ba9003bfded62123775",
+    "name": "plateforme_daccompagnement_et_de_repit_pour_les_aidants_de_personnes_agees_pontoise",
+    "title": "Plateforme d'accompagnement et de répit pour les aidants de personnes âgées - Pontoise",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/val-d-oise/accompagnement_personnes_agees-95500-01",
+    "metadata": {
+      "email": "plateforme.repit@ght-novo.fr",
+      "telephone": "01 30 75 49 96",
+      "url": ""
+    }
+  },
+  {
+    "id": "c19322c1b8a45a4ef917e15b4f18302d555f295e",
+    "name": "plateforme_daccompagnement_et_de_repit_pour_les_aidants_de_personnes_agees_prades",
+    "title": "Plateforme d'accompagnement et de répit pour les aidants de personnes âgées - Prades",
+    "url": "https://lannuaire.service-public.fr/occitanie/pyrenees-orientales/accompagnement_personnes_agees-66149-01",
+    "metadata": {
+      "email": "hopital@hopital-prades.fr",
+      "telephone": "04 68 05 44 00",
+      "url": "http://hopital-prades.fr"
+    }
+  },
+  {
+    "id": "c480b8130c71c801757d3779b7db7bb1d76fb7b8",
+    "name": "plateforme_daccompagnement_et_de_repit_pour_les_aidants_de_personnes_agees_raire_urbaine",
+    "title": "Plateforme d'accompagnement et de répit pour les aidants de personnes âgées - Raire- Urbaine",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/doubs/accompagnement_personnes_agees-25388-01",
+    "metadata": {
+      "email": "plateforme-repit@fondation-arcenciel.fr",
+      "telephone": "03 81 99 79 13",
+      "url": "http://www.fondation-arcenciel.fr"
+    }
+  },
+  {
+    "id": "196aaf471ba6a43932ed089cef7472e85671971a",
+    "name": "plateforme_daccompagnement_et_de_repit_pour_les_aidants_de_personnes_agees_rambouillet",
+    "title": "Plateforme d'accompagnement et de répit pour les aidants de personnes âgées - Rambouillet",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/yvelines/accompagnement_personnes_agees-78517-01",
+    "metadata": {
+      "email": "plateforme.aidants@icsy.fr",
+      "telephone": "01 61 08 66 61",
+      "url": ""
+    }
+  },
+  {
+    "id": "f94df804bf5200de5d72258afb520d3ce413830c",
+    "name": "plateforme_daccompagnement_et_de_repit_pour_les_aidants_de_personnes_agees_reims",
+    "title": "Plateforme d'accompagnement et de répit pour les aidants de personnes âgées - Reims",
+    "url": "https://lannuaire.service-public.fr/grand-est/marne/accompagnement_personnes_agees-51454-01",
+    "metadata": {
+      "email": "paraf@chu-reims.fr",
+      "telephone": "03 26 78 35 12",
+      "url": ""
+    }
+  },
+  {
+    "id": "fda67fe12c2ac80918c2d89ab07acae02eab0a84",
+    "name": "plateforme_daccompagnement_et_de_repit_pour_les_aidants_de_personnes_agees_rennes",
+    "title": "Plateforme d'accompagnement et de répit pour les aidants de personnes âgées - Rennes",
+    "url": "https://lannuaire.service-public.fr/bretagne/ille-et-vilaine/accompagnement_personnes_agees-35238-01",
+    "metadata": {
+      "email": "accueil@maisonsaintcyr.fr",
+      "telephone": "02 99 59 48 80",
+      "url": "http://www.maisonsaintcyr.com"
+    }
+  },
+  {
+    "id": "a8a49b30fe803c0dfd4ed452ab92e3418cb6bba7",
+    "name": "plateforme_daccompagnement_et_de_repit_pour_les_aidants_de_personnes_agees_reyrieux",
+    "title": "Plateforme d'accompagnement et de répit pour les aidants de personnes âgées - Reyrieux",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/ain/accompagnement_personnes_agees-01322-01",
+    "metadata": {
+      "email": "plateforme@auxlucioles.fr",
+      "telephone": "04 81 91 91 30",
+      "url": ""
+    }
+  },
+  {
+    "id": "3773c4c4f72dea4380bfb4afdab50106c026482f",
+    "name": "plateforme_daccompagnement_et_de_repit_pour_les_aidants_de_personnes_agees_rive_de_gier",
+    "title": "Plateforme d'accompagnement et de répit pour les aidants de personnes âgées - Rive-de-Gier",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/loire/accompagnement_personnes_agees-42186-01",
+    "metadata": {
+      "email": "accueil1@pci42.fr",
+      "telephone": "04 77 83 02 90",
+      "url": "http://pci42.fr"
+    }
+  },
+  {
+    "id": "d74d5ac526b6bc26d212bf4042210c9146684e3a",
+    "name": "plateforme_daccompagnement_et_de_repit_pour_les_aidants_de_personnes_agees_romans_sur_isere",
+    "title": "Plateforme d'accompagnement et de répit pour les aidants de personnes âgées - Romans-sur-Isère",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/drome/accompagnement_personnes_agees-26281-01",
+    "metadata": {
+      "email": "aj.lieudetre@lespepsra.org",
+      "telephone": "06 30 92 24 56",
+      "url": "http://www.lespepsra.org"
+    }
+  },
+  {
+    "id": "05ba52c0ea608b20a6ff009bc0736866e094f1fd",
+    "name": "plateforme_daccompagnement_et_de_repit_pour_les_aidants_de_personnes_agees_roubaix",
+    "title": "Plateforme d'accompagnement et de répit pour les aidants de personnes âgées - Roubaix",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/nord/accompagnement_personnes_agees-59599-01",
+    "metadata": {
+      "email": "maisondesaidants@feron-vrau.com",
+      "telephone": "03 20 28 64 49",
+      "url": "http://www.feron-vrau.com"
+    }
+  },
+  {
+    "id": "2e99ffa47ecd912cfa64c18b3e536dcc5d12fadb",
+    "name": "plateforme_daccompagnement_et_de_repit_pour_les_aidants_de_personnes_agees_roubion",
+    "title": "Plateforme d'accompagnement et de répit pour les aidants de personnes âgées - Roubion",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/alpes-maritimes/accompagnement_personnes_agees-06030-01",
+    "metadata": {
+      "email": "par-lecannet@orange.fr",
+      "telephone": "04 93 06 60 93",
+      "url": ""
+    }
+  },
+  {
+    "id": "fc4cf939f3ecbbc6e237afe7b76bad8af653c4a0",
+    "name": "plateforme_daccompagnement_et_de_repit_pour_les_aidants_de_personnes_agees_sainte_marie",
+    "title": "Plateforme d'accompagnement et de répit pour les aidants de personnes âgées - Sainte-Marie",
+    "url": "https://lannuaire.service-public.fr/bretagne/ille-et-vilaine/accompagnement_personnes_agees-35294-01",
+    "metadata": {
+      "email": "infirmière-co.paule-aidant@assadredon.fr",
+      "telephone": "02 99 72 66 67",
+      "url": ""
+    }
+  },
+  {
+    "id": "45062dd49d7fade9213723dee0b18a4079be7671",
+    "name": "plateforme_daccompagnement_et_de_repit_pour_les_aidants_de_personnes_agees_saint_etienne_du_rouvray",
+    "title": "Plateforme d'accompagnement et de répit pour les aidants de personnes âgées - Saint-Étienne-du-Rouvray",
+    "url": "https://lannuaire.service-public.fr/normandie/seine-maritime/accompagnement_personnes_agees-76575-01",
+    "metadata": {
+      "email": "grandpierre@mutuelle-mbv.fr",
+      "telephone": "02 32 19 00 10",
+      "url": "http://www.mutuelle-mbv.fr"
+    }
+  },
+  {
+    "id": "2511849f3204a78d7bcaa7a74d31ffa06ddf0352",
+    "name": "plateforme_daccompagnement_et_de_repit_pour_les_aidants_de_personnes_agees_saint_maur_des_fosses",
+    "title": "Plateforme d'accompagnement et de répit pour les aidants de personnes âgées - Saint-Maur-des-Fossés",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/val-de-marne/accompagnement_personnes_agees-94068-01",
+    "metadata": {
+      "email": "ajour@abcd94.fr",
+      "telephone": "01 55 12 17 20",
+      "url": "http://www.abcd94.fr"
+    }
+  },
+  {
+    "id": "995b04273373b8e9a465b938d6f8c9b4cb29f902",
+    "name": "plateforme_daccompagnement_et_de_repit_pour_les_aidants_de_personnes_agees_saint_nicolas",
+    "title": "Plateforme d'accompagnement et de répit pour les aidants de personnes âgées - Saint-Nicolas",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/pas-de-calais/accompagnement_personnes_agees-62764-01",
+    "metadata": {
+      "email": "maison-des-aidants@accueiletrelais.fr",
+      "telephone": "03 21 22 79 39",
+      "url": "http://www.asso-accueil-relais.fr"
+    }
+  },
+  {
+    "id": "245a4cb78e0461e04b6156173b54ad14261f51ce",
+    "name": "plateforme_daccompagnement_et_de_repit_pour_les_aidants_de_personnes_agees_sevignacq",
+    "title": "Plateforme d'accompagnement et de répit pour les aidants de personnes âgées - Sévignacq",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/pyrenees-atlantiques/accompagnement_personnes_agees-64523-01",
+    "metadata": {
+      "email": "pfr.sevignacq@orange.fr",
+      "telephone": "05 59 92 94 47",
+      "url": ""
+    }
+  },
+  {
+    "id": "76b87bc1f434e52dd03a4af80f1ec7d26b3c4139",
+    "name": "plateforme_daccompagnement_et_de_repit_pour_les_aidants_de_personnes_agees_sully_sur_loire",
+    "title": "Plateforme d'accompagnement et de répit pour les aidants de personnes âgées - Sully-sur-Loire",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/loiret/accompagnement_personnes_agees-45315-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 38 27 55 30",
+      "url": "http://www.hopital-sully.fr/plateforme-de-repit-pour-les-aidants.php"
+    }
+  },
+  {
+    "id": "77571d261c4838612c69ccb1fa103a20c45b2d3a",
+    "name": "plateforme_daccompagnement_et_de_repit_pour_les_aidants_de_personnes_agees_tarbes",
+    "title": "Plateforme d'accompagnement et de répit pour les aidants de personnes âgées - Tarbes",
+    "url": "https://lannuaire.service-public.fr/occitanie/hautes-pyrenees/accompagnement_personnes_agees-65440-01",
+    "metadata": {
+      "email": "lzeriouh@ch-tarbes-vic.fr",
+      "telephone": "05 62 54 66 60",
+      "url": ""
+    }
+  },
+  {
+    "id": "6369087e827653f5523d6d0c4463df8c457e6742",
+    "name": "plateforme_daccompagnement_et_de_repit_pour_les_aidants_de_personnes_agees_toulouse",
+    "title": "Plateforme d'accompagnement et de répit pour les aidants de personnes âgées - Toulouse",
+    "url": "https://lannuaire.service-public.fr/occitanie/haute-garonne/accompagnement_personnes_agees-31555-01",
+    "metadata": {
+      "email": "domainedelacadene@orange.fr",
+      "telephone": "05 61 13 73 27",
+      "url": "http://www.domainedelacadene.fr"
+    }
+  },
+  {
+    "id": "7d7c4f4f6d74cf0286038be5b54e31d2488ea61d",
+    "name": "plateforme_daccompagnement_et_de_repit_pour_les_aidants_de_personnes_agees_tournan_en_brie",
+    "title": "Plateforme d'accompagnement et de répit pour les aidants de personnes âgées - Tournan-en-Brie",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/seine-et-marne/accompagnement_personnes_agees-77470-01",
+    "metadata": {
+      "email": "accueil@epgtournan.fr",
+      "telephone": "01 64 42 18 00",
+      "url": "http://www.epgtournan.fr/plateforme-de-repit/presentation-4.html"
+    }
+  },
+  {
+    "id": "61d5702c30a98384aee0b911feedec80b3628da5",
+    "name": "plateforme_daccompagnement_et_de_repit_pour_les_aidants_de_personnes_agees_valentine",
+    "title": "Plateforme d'accompagnement et de répit pour les aidants de personnes âgées - Valentine",
+    "url": "https://lannuaire.service-public.fr/occitanie/haute-garonne/accompagnement_personnes_agees-31565-01",
+    "metadata": {
+      "email": "centredejour@sicasmir.fr",
+      "telephone": "05 62 00 15 65",
+      "url": "http://www.sicasmir.fr"
+    }
+  },
+  {
+    "id": "682611153bbd461da01f0d58513da991481b96d1",
+    "name": "plateforme_daccompagnement_et_de_repit_pour_les_aidants_de_personnes_agees_valenton",
+    "title": "Plateforme d'accompagnement et de répit pour les aidants de personnes âgées - Valenton",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/val-de-marne/accompagnement_personnes_agees-94074-01",
+    "metadata": {
+      "email": "lespastoureaux@orpea.net",
+      "telephone": "01 56 87 21 31",
+      "url": "http://www.orpea.com"
+    }
+  },
+  {
+    "id": "f80708769859236610abf006cee227b2cfe282e1",
+    "name": "plateforme_daccompagnement_et_de_repit_pour_les_aidants_de_personnes_agees_vannes",
+    "title": "Plateforme d'accompagnement et de répit pour les aidants de personnes âgées - Vannes",
+    "url": "https://lannuaire.service-public.fr/bretagne/morbihan/accompagnement_personnes_agees-56260-01",
+    "metadata": {
+      "email": "contact@lerepit.fr",
+      "telephone": "02 97 01 38 75",
+      "url": "http://www.lerepit.fr"
+    }
+  },
+  {
+    "id": "81754fdfd4106d1a926bf237b59096708bdec82c",
+    "name": "plateforme_daccompagnement_et_de_repit_pour_les_aidants_de_personnes_agees_vanves",
+    "title": "Plateforme d'accompagnement et de répit pour les aidants de personnes âgées - Vanves",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/hauts-de-seine/accompagnement_personnes_agees-92075-01",
+    "metadata": {
+      "email": "para@fondation-odilon-lannelongue.fr",
+      "telephone": "01 46 42 31 51",
+      "url": "http://www.fondation-odilon-lannelongue.fr"
+    }
+  },
+  {
+    "id": "f0e84d258640d018f0175306747fb42b533f8b3b",
+    "name": "plateforme_daccompagnement_et_de_repit_pour_les_aidants_de_personnes_agees_vendome",
+    "title": "Plateforme d'accompagnement et de répit pour les aidants de personnes âgées - Vendôme",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/loir-et-cher/accompagnement_personnes_agees-41269-01",
+    "metadata": {
+      "email": "repit@ch-vendome.fr",
+      "telephone": "02 54 23 33 65",
+      "url": "https://www.maisondeservicesaupublic.fr"
+    }
+  },
+  {
+    "id": "194e789e1c18f3d2ac6f066a8c9835506ac88e90",
+    "name": "plateforme_daccompagnement_et_de_repit_pour_les_aidants_de_personnes_agees_versailles",
+    "title": "Plateforme d'accompagnement et de répit pour les aidants de personnes âgées - Versailles",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/yvelines/accompagnement_personnes_agees-78646-01",
+    "metadata": {
+      "email": "contact.caj@hopitalporteverte.com",
+      "telephone": "01 39 63 74 91",
+      "url": "http://www.hopitalporteverte.com/Seniors/2/8"
+    }
+  },
+  {
+    "id": "8193b8c12d944b6b69a5f98b6c3985405c079a1a",
+    "name": "plateforme_daccompagnement_et_de_repit_pour_les_aidants_de_personnes_agees_vesoul",
+    "title": "Plateforme d'accompagnement et de répit pour les aidants de personnes âgées - Vesoul",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/haute-saone/accompagnement_personnes_agees-70550-01",
+    "metadata": {
+      "email": "charlene.adam@haute-saone.fr",
+      "telephone": "03 84 95 72 40",
+      "url": ""
+    }
+  },
+  {
+    "id": "89493b84ba29f5e57ab7896c9cef681703f02638",
+    "name": "plateforme_daccompagnement_et_de_repit_pour_les_aidants_de_personnes_agees_vienne",
+    "title": "Plateforme d'accompagnement et de répit pour les aidants de personnes âgées - Vienne",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/isere/accompagnement_personnes_agees-38544-01",
+    "metadata": {
+      "email": "direction@ch-vienne.fr",
+      "telephone": "04 74 31 33 33",
+      "url": "http://www.ch-vienne.fr"
+    }
+  },
+  {
+    "id": "c162f405d8897ef352edc8ec7fdf9c1a40bd3098",
+    "name": "plateforme_daccompagnement_et_de_repit_pour_les_aidants_de_personnes_agees_villejuif",
+    "title": "Plateforme d'accompagnement et de répit pour les aidants de personnes âgées - Villejuif",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/val-de-marne/accompagnement_personnes_agees-94076-01",
+    "metadata": {
+      "email": "par94@delta7.fr",
+      "telephone": "08 00 87 77 07",
+      "url": "http://www.delta7.asso.fr"
+    }
+  },
+  {
+    "id": "dde103eb14ad2a69a5cc56c2989f487b1a09f3b9",
+    "name": "plateforme_daccompagnement_et_de_repit_pour_les_aidants_de_personnes_agees_villeurbanne",
+    "title": "Plateforme d'accompagnement et de répit pour les aidants de personnes âgées - Villeurbanne",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/rhone/accompagnement_personnes_agees-69266-01",
+    "metadata": {
+      "email": "lieuderepitccas@mairie-villeurbanne.fr",
+      "telephone": "04 78 03 82 22",
+      "url": ""
+    }
+  },
+  {
+    "id": "dde103eb14ad2a69a5cc56c2989f487b1a09f3b9",
+    "name": "plateforme_daccompagnement_et_de_repit_pour_les_aidants_de_personnes_agees_villeurbanne",
+    "title": "Plateforme d'accompagnement et de répit pour les aidants de personnes âgées - Villeurbanne",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/rhone/accompagnement_personnes_agees-69266-02",
+    "metadata": {
+      "email": "lieuderepitccas@mairie-villeurbanne.fr",
+      "telephone": "04 78 03 82 22",
+      "url": ""
+    }
+  },
+  {
+    "id": "00b2241777d49d4b73ce39972389bd2cc6dae419",
+    "name": "plateforme_daccompagnement_et_de_repit_pour_les_aidants_de_personnes_agees_villiers_saint_denis",
+    "title": "Plateforme d'accompagnement et de répit pour les aidants de personnes âgées - Villiers-Saint-Denis",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/aisne/accompagnement_personnes_agees-02818-01",
+    "metadata": {
+      "email": "plateforme-aidants@hlrs-villiers.net",
+      "telephone": "03 23 70 53 30",
+      "url": "https://www.larenaissancesanitaire.fr"
+    }
+  }
+]

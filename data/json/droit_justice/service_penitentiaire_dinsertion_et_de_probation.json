@@ -1,0 +1,1982 @@
+[
+  {
+    "id": "1c1ce5ca09ea9e95dc7e420f49dc6715f1143eeb",
+    "name": "service_d_insertion_et_de_probation_de_la_polynesie_francaise",
+    "title": "Service d'Insertion et de Probation de la Polynésie Française",
+    "url": "https://lannuaire.service-public.fr/collectivites-d-outre-mer/polynesie-francaise/spip-98735-01",
+    "metadata": {
+      "email": "",
+      "telephone": "00(689)437625",
+      "url": ""
+    }
+  },
+  {
+    "id": "831fefe0e46bd611a94d675a10ed07fc95a0b03b",
+    "name": "service_dinsertion_et_de_probation_de_saint_pierre_et_miquelon",
+    "title": "Service d'insertion et de probation de Saint-Pierre et Miquelon",
+    "url": "https://lannuaire.service-public.fr/collectivites-d-outre-mer/saint-pierre-et-miquelon/spip-97502-01",
+    "metadata": {
+      "email": "",
+      "telephone": "",
+      "url": ""
+    }
+  },
+  {
+    "id": "ced597153b0f282236f8746f6bd2eac31d7b86d5",
+    "name": "service_penitentiaire_dinsertion_et_de_probation_des_alpes_de_haute_provence",
+    "title": "Service pénitentiaire d'insertion et de probation des Alpes-de-Haute-Provence",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/alpes-de-haute-provence/spip-04070-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 92 32 61 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "9e94ad1d94ce81be48c5d3195e3372b5b8ab79f0",
+    "name": "service_penitentiaire_dinsertion_et_de_probation_des_alpes_maritimes",
+    "title": "Service pénitentiaire d'insertion et de probation des Alpes-Maritimes",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/alpes-maritimes/spip-06088-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 93 62 76 11",
+      "url": ""
+    }
+  },
+  {
+    "id": "72a32a786182f642c98959ff94627be4c2d3db22",
+    "name": "service_penitentiaire_dinsertion_et_de_probation_des_alpes_maritimes_antenne_de_grasse",
+    "title": "Service pénitentiaire d'insertion et de probation  des Alpes-Maritimes - Antenne de Grasse",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/alpes-maritimes/spip-06069-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 92 98 34 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "65b6c56794534043603292ef2fa777dccfcbec81",
+    "name": "service_penitentiaire_dinsertion_et_de_probation_des_alpes_maritimes_antenne_de_mougins",
+    "title": "Service pénitentiaire d'insertion et de probation  des Alpes Maritimes - Antenne de Mougins",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/alpes-maritimes/spip-06085-01",
+    "metadata": {
+      "email": "",
+      "telephone": "",
+      "url": ""
+    }
+  },
+  {
+    "id": "45800caa6b09bb5dbb93e92b896cbeebd8e8a3c0",
+    "name": "service_penitentiaire_dinsertion_et_de_probation_des_alpes_maritimes_antenne_de_nice",
+    "title": "Service pénitentiaire d'insertion et de probation  des Alpes-Maritimes - Antenne de Nice",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/alpes-maritimes/spip-06088-02",
+    "metadata": {
+      "email": "",
+      "telephone": "04 92 47 22 22",
+      "url": ""
+    }
+  },
+  {
+    "id": "7613bf4e39992b9d3d3e59e21a3fbf7b4c470853",
+    "name": "service_penitentiaire_dinsertion_et_de_probation_des_ardennes",
+    "title": "Service pénitentiaire d'insertion et de probation des Ardennes",
+    "url": "https://lannuaire.service-public.fr/grand-est/ardennes/spip-08105-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 24 35 58 90",
+      "url": ""
+    }
+  },
+  {
+    "id": "bc3c74f21ec47368c1ba1ecd44788b2a7b3e4234",
+    "name": "service_penitentiaire_dinsertion_et_de_probation_du_bas_rhin",
+    "title": "Service pénitentiaire d'insertion et de probation du Bas-Rhin",
+    "url": "https://lannuaire.service-public.fr/grand-est/bas-rhin/spip-67447-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 90 20 83 50",
+      "url": ""
+    }
+  },
+  {
+    "id": "b5a15de6916560c059c8f2c44ab9b996d170927d",
+    "name": "service_penitentiaire_dinsertion_et_de_probation_du_bas_rhin_antenne_de_saverne_oermingen",
+    "title": "Service pénitentiaire d'insertion et de probation  du Bas-Rhin - Antenne de Saverne-Oermingen",
+    "url": "https://lannuaire.service-public.fr/grand-est/bas-rhin/spip-67437-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 88 01 06 36",
+      "url": ""
+    }
+  },
+  {
+    "id": "36dc49ce7e17050950bd26b064460368337a594f",
+    "name": "service_penitentiaire_dinsertion_et_de_probation_du_bas_rhin_antenne_de_strasbourg",
+    "title": "Service pénitentiaire d'insertion et de probation  du Bas-Rhin - Antenne de Strasbourg",
+    "url": "https://lannuaire.service-public.fr/grand-est/bas-rhin/spip-67447-02",
+    "metadata": {
+      "email": "",
+      "telephone": "03 90 20 83 50",
+      "url": ""
+    }
+  },
+  {
+    "id": "2e8560b15d4cbc15723b51280828894875b6d970",
+    "name": "service_penitentiaire_dinsertion_et_de_probation_des_bouches_du_rhone",
+    "title": "Service pénitentiaire d'insertion et de probation des Bouches-du-Rhône",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/spip-13208-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 91 40 92 80",
+      "url": ""
+    }
+  },
+  {
+    "id": "5e0cf4023b5d0e403570c92eeea86c0a3b603458",
+    "name": "service_penitentiaire_dinsertion_et_de_probation_des_bouches_du_rhone_antenne_d_aix_salon_de_provence",
+    "title": "Service pénitentiaire d'insertion et de probation  des Bouches-du-Rhône - Antenne d'Aix-Salon-de-Provence",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/spip-13001-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 42 91 53 20",
+      "url": ""
+    }
+  },
+  {
+    "id": "eda1fade1c0e778732dd178a114e8525052cb6ac",
+    "name": "service_penitentiaire_dinsertion_et_de_probation_des_bouches_du_rhone_antenne_d_arles_tarascon",
+    "title": "Service pénitentiaire d'insertion et de probation  des Bouches-du-Rhône - Antenne d'Arles-Tarascon",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/spip-13108-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 90 91 78 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "1ff838babf7d6ec55544ee1c8e27ef707c25a6ff",
+    "name": "service_penitentiaire_dinsertion_et_de_probation_des_bouches_du_rhone_antenne_de_marseille",
+    "title": "Service pénitentiaire d'insertion et de probation  des Bouches-du-Rhône - Antenne de Marseille",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/spip-13209-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 96 19 10 20",
+      "url": ""
+    }
+  },
+  {
+    "id": "ad3cea23a94038c5892a1703d64f8bc639d9134f",
+    "name": "service_penitentiaire_dinsertion_et_de_probation_du_calvados",
+    "title": "Service pénitentiaire d'insertion et de probation du Calvados",
+    "url": "https://lannuaire.service-public.fr/normandie/calvados/spip-14118-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 50 10 15 60",
+      "url": ""
+    }
+  },
+  {
+    "id": "3e581f0ec2d2cd7b93c0c4ccefeea73c21984fbc",
+    "name": "service_penitentiaire_dinsertion_et_de_probation_du_calvados_antenne_de_caen",
+    "title": "Service pénitentiaire d'insertion et de probation  du Calvados - Antenne de Caen",
+    "url": "https://lannuaire.service-public.fr/normandie/calvados/spip-14118-02",
+    "metadata": {
+      "email": "",
+      "telephone": "02 31 46 51 20",
+      "url": ""
+    }
+  },
+  {
+    "id": "859628a4eff3c26fd84d2cda118ee7d2a169e91e",
+    "name": "service_penitentiaire_dinsertion_et_de_probation_du_calvados_antenne_de_lisieux",
+    "title": "Service pénitentiaire d'insertion et de probation  du Calvados - Antenne de Lisieux",
+    "url": "https://lannuaire.service-public.fr/normandie/calvados/spip-14366-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 57 87 25 37",
+      "url": ""
+    }
+  },
+  {
+    "id": "bc51827fbdb5c93639d98349c4ac7a9ef8243e0b",
+    "name": "service_penitentiaire_dinsertion_et_de_probation_du_cantal",
+    "title": "Service pénitentiaire d'insertion et de probation du Cantal",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/cantal/spip-15014-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 71 48 93 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "fd89216581fcfe22d7fff7c64a728e66f60c3009",
+    "name": "service_penitentiaire_dinsertion_et_de_probation_de_charente_maritime_antenne_de_la_rochelle_st_martin_de_re",
+    "title": "Service pénitentiaire d'insertion et de probation  de Charente-Maritime - Antenne de La Rochelle-St-Martin-de-Ré",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/charente-maritime/spip-17300-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 46 30 32 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "19df99770851946ad894588fdc1bdf3903c3bca2",
+    "name": "service_penitentiaire_dinsertion_et_de_probation_de_charente_maritime_antenne_de_rochefort",
+    "title": "Service pénitentiaire d'insertion et de probation  de Charente-Maritime - Antenne de Rochefort",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/charente-maritime/spip-17299-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 46 88 37 70",
+      "url": ""
+    }
+  },
+  {
+    "id": "94dde86edc8aff9f6f61c356e78f396badfedc28",
+    "name": "service_penitentiaire_dinsertion_et_de_probation_de_charente_maritime_antenne_de_saintes_bedenac",
+    "title": "Service pénitentiaire d'insertion et de probation  de Charente-Maritime - Antenne de Saintes-Bédenac",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/charente-maritime/spip-17415-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 46 98 26 70",
+      "url": ""
+    }
+  },
+  {
+    "id": "512cf5fe26aff6f824ed394aab8586be2209222a",
+    "name": "service_penitentiaire_dinsertion_et_de_probation_du_cher",
+    "title": "Service pénitentiaire d'insertion et de probation du Cher",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/cher/spip-18033-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 48 23 21 70",
+      "url": ""
+    }
+  },
+  {
+    "id": "7855a4913bd5bdb93f7be58b21e73d87ed4160f1",
+    "name": "service_penitentiaire_dinsertion_et_de_probation_de_correze",
+    "title": "Service pénitentiaire d'insertion et de probation de Corrèze",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/correze/spip-19272-02",
+    "metadata": {
+      "email": "",
+      "telephone": "05 55 20 09 08",
+      "url": ""
+    }
+  },
+  {
+    "id": "a9637e9a9400270573f8c079c5c3ae8a52df8ca3",
+    "name": "service_penitentiaire_dinsertion_et_de_probation_de_correze_antenne_de_brive_la_gaillarde",
+    "title": "Service pénitentiaire d'insertion et de probation  de Corrèze - Antenne de Brive-la-Gaillarde",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/correze/spip-19031-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 55 17 37 02",
+      "url": ""
+    }
+  },
+  {
+    "id": "4f07169609e434855712351350ff2a9f36a66993",
+    "name": "service_penitentiaire_dinsertion_et_de_probation_de_correze_antenne_de_tulle",
+    "title": "Service pénitentiaire d'insertion et de probation  de Corrèze - Antenne de Tulle",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/correze/spip-19272-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 55 20 09 08",
+      "url": ""
+    }
+  },
+  {
+    "id": "a8e0b849826832fdb29d2124aec88c5d468e6465",
+    "name": "service_penitentiaire_dinsertion_et_de_probation_de_correze_antenne_d_uzerche",
+    "title": "Service pénitentiaire d'insertion et de probation  de Corrèze - Antenne d'Uzerche",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/correze/spip-19276-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 55 73 87 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "3b1e62b8bb8e663f056ae64daef8185c29769f5e",
+    "name": "service_penitentiaire_dinsertion_et_de_probation_des_cotes_d_armor_antenne_de_saint_brieuc",
+    "title": "Service pénitentiaire d'insertion et de probation  des Côtes d'Armor - Antenne de Saint-Brieuc",
+    "url": "https://lannuaire.service-public.fr/bretagne/cotes-d-armor/spip-22278-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 56 44 83 10",
+      "url": ""
+    }
+  },
+  {
+    "id": "c6b398644b9ab857a980dd5aa1bd1b1b64b9e677",
+    "name": "service_penitentiaire_dinsertion_et_de_probation_des_cotes_d_armor",
+    "title": "Service pénitentiaire d'insertion et de probation des Côtes-d'Armor",
+    "url": "https://lannuaire.service-public.fr/bretagne/cotes-d-armor/spip-22278-02",
+    "metadata": {
+      "email": "",
+      "telephone": "02 56 44 83 10",
+      "url": ""
+    }
+  },
+  {
+    "id": "615184df533025c7ebb3722eff9d60e078a41772",
+    "name": "service_penitentiaire_dinsertion_et_de_probation_des_cotes_d_armor_antenne_de_guingamp",
+    "title": "Service pénitentiaire d'insertion et de probation  des Côtes-d'Armor - Antenne de Guingamp",
+    "url": "https://lannuaire.service-public.fr/bretagne/cotes-d-armor/spip-22070-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 96 40 27 30",
+      "url": ""
+    }
+  },
+  {
+    "id": "a5b59e61aab67793f1624773e2d398e2aaec72bd",
+    "name": "service_penitentiaire_dinsertion_et_de_probation_des_deux_sevres",
+    "title": "Service pénitentiaire d'insertion et de probation des Deux-Sèvres",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/deux-sevres/spip-79191-02",
+    "metadata": {
+      "email": "",
+      "telephone": "05 16 18 71 85",
+      "url": ""
+    }
+  },
+  {
+    "id": "93f7f27586152025d075185dd0290e9dce19fd0f",
+    "name": "service_penitentiaire_dinsertion_et_de_probation_des_deux_sevres_antenne_de_bressuire",
+    "title": "Service pénitentiaire d'insertion et de probation  des Deux-Sèvres - Antenne de Bressuire",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/deux-sevres/spip-79049-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 49 81 34 17",
+      "url": ""
+    }
+  },
+  {
+    "id": "7697cb96487fbfa76f4d28ad39c86f8f3eb47b3e",
+    "name": "service_penitentiaire_dinsertion_et_de_probation_des_deux_sevres_antenne_de_niort",
+    "title": "Service pénitentiaire d'insertion et de probation  des Deux-Sèvres - Antenne de Niort",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/deux-sevres/spip-79191-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 16 18 71 85",
+      "url": ""
+    }
+  },
+  {
+    "id": "036a826723762d27bc640b63f4a200f6c4a0d567",
+    "name": "service_penitentiaire_dinsertion_et_de_probation_de_dordogne_antenne_de_bergerac_mauzac",
+    "title": "Service pénitentiaire d'insertion et de probation  de Dordogne - Antenne de Bergerac-Mauzac",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/dordogne/spip-24037-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 53 23 55 30",
+      "url": ""
+    }
+  },
+  {
+    "id": "6cc6a68db9a19429d1f8e5176e0a720b941a4064",
+    "name": "service_penitentiaire_dinsertion_et_de_probation_de_dordogne_antenne_de_perigueux_neuvic",
+    "title": "Service pénitentiaire d'insertion et de probation  de Dordogne - Antenne de Périgueux-Neuvic",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/dordogne/spip-24322-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 53 45 67 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "1e2ba192f677c6293a8f80b04010bc66e13786fe",
+    "name": "service_penitentiaire_dinsertion_et_de_probation_du_doubs",
+    "title": "Service pénitentiaire d'insertion et de probation du Doubs",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/doubs/spip-25056-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 81 47 12 10",
+      "url": ""
+    }
+  },
+  {
+    "id": "e9f8731c4ae096cb83b0ca7d32b8bae53b4fa427",
+    "name": "service_penitentiaire_dinsertion_et_de_probation_du_doubs_antenne_de_besancon",
+    "title": "Service pénitentiaire d'insertion et de probation  du Doubs - Antenne de Besançon",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/doubs/spip-25056-02",
+    "metadata": {
+      "email": "",
+      "telephone": "03 81 47 12 10",
+      "url": ""
+    }
+  },
+  {
+    "id": "7b1309b4ad84836060d6259c4aa23f141d9e2cb8",
+    "name": "service_penitentiaire_dinsertion_et_de_probation_du_doubs_antenne_de_montbeliard",
+    "title": "Service pénitentiaire d'insertion et de probation  du Doubs - Antenne de Montbéliard",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/doubs/spip-25388-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 81 90 77 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "08e26bba3b8ec35eac177533499bf0f4f9618651",
+    "name": "service_penitentiaire_dinsertion_et_de_probation_du_finistere",
+    "title": "Service pénitentiaire d'insertion et de probation du Finistère",
+    "url": "https://lannuaire.service-public.fr/bretagne/finistere/spip-29019-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 98 33 65 65",
+      "url": ""
+    }
+  },
+  {
+    "id": "3deb7c6459b977dfc07708db2a713ff5830e7173",
+    "name": "service_penitentiaire_dinsertion_et_de_probation_du_finistere_antenne_de_brest",
+    "title": "Service pénitentiaire d'insertion et de probation  du Finistère - Antenne de Brest",
+    "url": "https://lannuaire.service-public.fr/bretagne/finistere/spip-29019-02",
+    "metadata": {
+      "email": "",
+      "telephone": "02 21 09 51 40",
+      "url": ""
+    }
+  },
+  {
+    "id": "8753470d134f63ca66f23763e5abaf2a2929696e",
+    "name": "service_penitentiaire_dinsertion_et_de_probation_du_finistere_antenne_de_morlaix",
+    "title": "Service pénitentiaire d'insertion et de probation  du Finistère - Antenne de Morlaix",
+    "url": "https://lannuaire.service-public.fr/bretagne/finistere/spip-29151-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 98 63 96 25",
+      "url": ""
+    }
+  },
+  {
+    "id": "eb166455857570d3b113b3fee71823b454a0caa6",
+    "name": "service_penitentiaire_dinsertion_et_de_probation_du_finistere_antenne_de_quimper",
+    "title": "Service pénitentiaire d'insertion et de probation  du Finistère - Antenne de Quimper",
+    "url": "https://lannuaire.service-public.fr/bretagne/finistere/spip-29232-01",
+    "metadata": {
+      "email": "alip-quimper@justice.fr",
+      "telephone": "02 90 39 60 10",
+      "url": ""
+    }
+  },
+  {
+    "id": "4bddb845f723e60e71b043f2e82e0f7d0800bbd3",
+    "name": "service_penitentiaire_dinsertion_et_de_probation_du_gard",
+    "title": "Service pénitentiaire d'insertion et de probation du Gard",
+    "url": "https://lannuaire.service-public.fr/occitanie/gard/spip-30189-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 66 70 63 63",
+      "url": ""
+    }
+  },
+  {
+    "id": "32386414e632572e18f33ac66436aa4916fac04f",
+    "name": "service_penitentiaire_dinsertion_et_de_probation_du_gard_antenne_d_ales",
+    "title": "Service pénitentiaire d'insertion et de probation  du Gard - Antenne d'Alès",
+    "url": "https://lannuaire.service-public.fr/occitanie/gard/spip-30007-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 66 56 22 62",
+      "url": ""
+    }
+  },
+  {
+    "id": "8499e4a58827818c6787adb4e8e57638dcfdf5e2",
+    "name": "service_penitentiaire_dinsertion_et_de_probation_du_gard_antenne_de_nimes",
+    "title": "Service pénitentiaire d'insertion et de probation  du Gard - Antenne de Nîmes",
+    "url": "https://lannuaire.service-public.fr/occitanie/gard/spip-30189-02",
+    "metadata": {
+      "email": "",
+      "telephone": "04 66 70 63 63",
+      "url": ""
+    }
+  },
+  {
+    "id": "9496f6e04abe6a69ab0818fc121cdec8f8aa8521",
+    "name": "service_penitentiaire_dinsertion_et_de_probation_du_gers",
+    "title": "Service pénitentiaire d'insertion et de probation du Gers",
+    "url": "https://lannuaire.service-public.fr/occitanie/gers/spip-32013-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 42 54 03 80",
+      "url": ""
+    }
+  },
+  {
+    "id": "a7c7c8714c7ab201beb020ab4166d331bdaff381",
+    "name": "service_penitentiaire_dinsertion_et_de_probation_de_gironde_antenne_de_bordeaux_gradignan",
+    "title": "Service pénitentiaire d'insertion et de probation  de Gironde - Antenne de Bordeaux-Gradignan",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/gironde/spip-33063-02",
+    "metadata": {
+      "email": "",
+      "telephone": "05 56 56 99 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "99edea0cbd2e03ca1f86e3e27f259e34d9e6eb37",
+    "name": "service_penitentiaire_dinsertion_et_de_probation_de_gironde_antenne_de_libourne",
+    "title": "Service pénitentiaire d'insertion et de probation  de Gironde - Antenne de Libourne",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/gironde/spip-33243-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 57 55 58 70",
+      "url": ""
+    }
+  },
+  {
+    "id": "1f5e2c8caef9ffc9966ff042849b6e54d1950aa2",
+    "name": "service_penitentiaire_dinsertion_et_de_probation_de_guadeloupe_antenne_des_abymes_baie_mahault",
+    "title": "Service pénitentiaire d'insertion et de probation  de Guadeloupe - Antenne des Abymes-Baie-Mahault",
+    "url": "https://lannuaire.service-public.fr/guadeloupe/guadeloupe/spip-97120-02",
+    "metadata": {
+      "email": "",
+      "telephone": "0(590)215535",
+      "url": ""
+    }
+  },
+  {
+    "id": "8a986b19ab9b26cab5512e534449b39d674ab1d0",
+    "name": "service_penitentiaire_dinsertion_et_de_probation_de_guadeloupe_antenne_de_basse_terre",
+    "title": "Service pénitentiaire d'insertion et de probation  de Guadeloupe - Antenne de Basse-Terre",
+    "url": "https://lannuaire.service-public.fr/guadeloupe/guadeloupe/spip-97105-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 90 41 16 78",
+      "url": ""
+    }
+  },
+  {
+    "id": "eca97554e2c8ece98748be2d4c982d0977bb5cc2",
+    "name": "service_penitentiaire_dinsertion_et_de_probation_de_guadeloupe_antenne_de_saint_martin",
+    "title": "Service pénitentiaire d'insertion et de probation  de Guadeloupe - Antenne de Saint-Martin",
+    "url": "https://lannuaire.service-public.fr/collectivites-d-outre-mer/saint-martin/spip-97801-01",
+    "metadata": {
+      "email": "",
+      "telephone": "",
+      "url": ""
+    }
+  },
+  {
+    "id": "ed94b128823784ca4b201b17222359c487518819",
+    "name": "service_penitentiaire_dinsertion_et_de_probation_de_haute_corse_antenne_de_bastia_borgo",
+    "title": "Service pénitentiaire d'insertion et de probation  de Haute-Corse - Antenne de Bastia-Borgo",
+    "url": "https://lannuaire.service-public.fr/corse/haute-corse/spip-2B033-02",
+    "metadata": {
+      "email": "",
+      "telephone": "04 95 34 87 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "7d8d82befe3622790a34f4583640013ef3e6e617",
+    "name": "service_penitentiaire_dinsertion_et_de_probation_de_haute_corse_antenne_de_casabianda",
+    "title": "Service pénitentiaire d'insertion et de probation  de Haute-Corse - Antenne de Casabianda",
+    "url": "https://lannuaire.service-public.fr/corse/haute-corse/spip-2B009-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 95 57 00 02",
+      "url": ""
+    }
+  },
+  {
+    "id": "5a3a457e9da3a80ad8074212f530c738399e3e3f",
+    "name": "service_penitentiaire_dinsertion_et_de_probation_de_haute_garonne_antenne_de_muret",
+    "title": "Service pénitentiaire d'insertion et de probation  de Haute-Garonne - Antenne de Muret",
+    "url": "https://lannuaire.service-public.fr/occitanie/haute-garonne/spip-31395-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 61 56 67 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "2a04aec102d5555639b923173046cfe51d85ab8c",
+    "name": "service_penitentiaire_dinsertion_et_de_probation_de_haute_garonne_antenne_de_saint_gaudens",
+    "title": "Service pénitentiaire d'insertion et de probation  de Haute-Garonne - Antenne de Saint-Gaudens",
+    "url": "https://lannuaire.service-public.fr/occitanie/haute-garonne/spip-31483-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 62 00 96 60",
+      "url": ""
+    }
+  },
+  {
+    "id": "e62726934e180b910e346812164922d143e2cdd1",
+    "name": "service_penitentiaire_dinsertion_et_de_probation_de_haute_garonne_antenne_de_toulouse",
+    "title": "Service pénitentiaire d'insertion et de probation  de Haute-Garonne - Antenne de Toulouse",
+    "url": "https://lannuaire.service-public.fr/occitanie/haute-garonne/spip-31555-02",
+    "metadata": {
+      "email": "",
+      "telephone": "05 61 14 48 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "f049591f79e69bf933741894e0d0434296e1b23f",
+    "name": "service_penitentiaire_dinsertion_et_de_probation_des_hautes_alpes",
+    "title": "Service pénitentiaire d'insertion et de probation des Hautes-Alpes",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/hautes-alpes/spip-05061-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 92 24 26 20",
+      "url": ""
+    }
+  },
+  {
+    "id": "b0a2e4d61d3ede71fb39d0eda4009c843199f67c",
+    "name": "service_penitentiaire_dinsertion_et_de_probation_de_haute_saone_antenne_de_lure",
+    "title": "Service pénitentiaire d'insertion et de probation  de Haute-Saône - Antenne de Lure",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/haute-saone/spip-70310-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 84 62 44 60",
+      "url": ""
+    }
+  },
+  {
+    "id": "b47c2071ce1558b3ca0daee411b617e3db52b00b",
+    "name": "service_penitentiaire_dinsertion_et_de_probation_de_haute_saone_antenne_de_vesoul",
+    "title": "Service pénitentiaire d'insertion et de probation  de Haute-Saône - Antenne de Vesoul",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/haute-saone/spip-70550-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 84 96 97 95",
+      "url": ""
+    }
+  },
+  {
+    "id": "09b3dad01c811a30bc0ee6e29bceead6ce4be9fc",
+    "name": "service_penitentiaire_dinsertion_et_de_probation_de_haute_savoie_antenne_d_annecy",
+    "title": "Service pénitentiaire d'insertion et de probation  de Haute-Savoie - Antenne d'Annecy",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/haute-savoie/spip-74010-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 50 10 11 50",
+      "url": ""
+    }
+  },
+  {
+    "id": "8661f6af668028a326f1abf87dcac47a2abca084",
+    "name": "service_penitentiaire_dinsertion_et_de_probation_de_haute_savoie_antenne_d_annemasse",
+    "title": "Service pénitentiaire d'insertion et de probation  de Haute-Savoie - Antenne d'Annemasse",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/haute-savoie/spip-74012-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 50 74 56 02",
+      "url": ""
+    }
+  },
+  {
+    "id": "79bdf8a29d589473d5ff728665f95c8f97d52398",
+    "name": "service_penitentiaire_dinsertion_et_de_probation_de_haute_savoie_antenne_de_bonneville",
+    "title": "Service pénitentiaire d'insertion et de probation  de Haute-Savoie - Antenne de Bonneville",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/haute-savoie/spip-74042-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 50 25 76 40",
+      "url": ""
+    }
+  },
+  {
+    "id": "f9347fddfc44479e6521abf95a1242790904dec9",
+    "name": "service_penitentiaire_dinsertion_et_de_probation_des_hautes_pyrenees",
+    "title": "Service pénitentiaire d'insertion et de probation des Hautes-Pyrénées",
+    "url": "https://lannuaire.service-public.fr/occitanie/hautes-pyrenees/spip-65440-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 62 44 25 43",
+      "url": ""
+    }
+  },
+  {
+    "id": "bdd70b4f476a3d5d399f2ef2c8818a3ebc47e058",
+    "name": "service_penitentiaire_dinsertion_et_de_probation_des_hautes_pyrenees_antenne_de_lannemezan",
+    "title": "Service pénitentiaire d'insertion et de probation  des Hautes-Pyrénées - Antenne de Lannemezan",
+    "url": "https://lannuaire.service-public.fr/occitanie/hautes-pyrenees/spip-65258-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 62 50 13 35",
+      "url": ""
+    }
+  },
+  {
+    "id": "f1cfa2ae2a1867b61fd8ce525a4a3750d78d244d",
+    "name": "service_penitentiaire_dinsertion_et_de_probation_des_hautes_pyrenees_antenne_de_tarbes",
+    "title": "Service pénitentiaire d'insertion et de probation  des Hautes-Pyrénées - Antenne de Tarbes",
+    "url": "https://lannuaire.service-public.fr/occitanie/hautes-pyrenees/spip-65440-02",
+    "metadata": {
+      "email": "",
+      "telephone": "05 62 44 25 43",
+      "url": ""
+    }
+  },
+  {
+    "id": "6f624eda2e78159dd4ef2b1f1f65dcc6d9dd928f",
+    "name": "service_penitentiaire_dinsertion_et_de_probation_du_haut_rhin",
+    "title": "Service pénitentiaire d'insertion et de probation du Haut-Rhin",
+    "url": "https://lannuaire.service-public.fr/grand-est/haut-rhin/spip-68066-02",
+    "metadata": {
+      "email": "",
+      "telephone": "03 69 49 40 40",
+      "url": ""
+    }
+  },
+  {
+    "id": "f8c54e572a4cb01382e32bdc0f537b10da7cc292",
+    "name": "service_penitentiaire_dinsertion_et_de_probation_du_haut_rhin_antenne_de_colmar",
+    "title": "Service pénitentiaire d'insertion et de probation  du Haut-Rhin - Antenne de Colmar",
+    "url": "https://lannuaire.service-public.fr/grand-est/haut-rhin/spip-68066-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 69 49 40 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "0a0a9742897525d7261dee4058ab804cb9d5a2b4",
+    "name": "service_penitentiaire_dinsertion_et_de_probation_du_haut_rhin_antenne_d_ensisheim",
+    "title": "Service pénitentiaire d'insertion et de probation  du Haut-Rhin - Antenne d'Ensisheim",
+    "url": "https://lannuaire.service-public.fr/grand-est/haut-rhin/spip-68082-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 89 83 47 90",
+      "url": ""
+    }
+  },
+  {
+    "id": "4eda038bd9a66354e5efd9eae7bd93a47797f828",
+    "name": "service_penitentiaire_dinsertion_et_de_probation_du_haut_rhin_antenne_de_mulhouse",
+    "title": "Service pénitentiaire d'insertion et de probation  du Haut-Rhin - Antenne de Mulhouse",
+    "url": "https://lannuaire.service-public.fr/grand-est/haut-rhin/spip-68224-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 89 35 43 20",
+      "url": ""
+    }
+  },
+  {
+    "id": "915ff2be2e0612a203fd38b3ca9bcf6347f1c275",
+    "name": "service_penitentiaire_dinsertion_et_de_probation_des_hauts_de_seine",
+    "title": "Service pénitentiaire d'insertion et de probation des Hauts-de-Seine",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/hauts-de-seine/spip-92050-01",
+    "metadata": {
+      "email": "",
+      "telephone": "01 41 37 40 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "7360de1e17a08be08cd39daab2a75fba8fe7e55c",
+    "name": "service_penitentiaire_dinsertion_et_de_probation_d_ille_et_vilaine_antenne_de_rennes",
+    "title": "Service pénitentiaire d'insertion et de probation  d'Ille-et-Vilaine - Antenne de Rennes",
+    "url": "https://lannuaire.service-public.fr/bretagne/ille-et-vilaine/spip-35238-02",
+    "metadata": {
+      "email": "",
+      "telephone": "02 56 01 65 65",
+      "url": ""
+    }
+  },
+  {
+    "id": "b6b2b590b760fbb94126f91eb80e31faf41ca26b",
+    "name": "service_penitentiaire_dinsertion_et_de_probation_d_ille_et_vilaine_antenne_de_saint_malo",
+    "title": "Service pénitentiaire d'insertion et de probation  d'Ille-et-Vilaine - Antenne de Saint-Malo",
+    "url": "https://lannuaire.service-public.fr/bretagne/ille-et-vilaine/spip-35288-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 23 18 22 68",
+      "url": ""
+    }
+  },
+  {
+    "id": "0f113f8b342f4653ad7e2b85de5d204716708a82",
+    "name": "service_penitentiaire_dinsertion_et_de_probation_d_indre_et_loire",
+    "title": "Service pénitentiaire d'insertion et de probation d'Indre-et-Loire",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/indre-et-loire/spip-37261-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 47 31 15 60",
+      "url": ""
+    }
+  },
+  {
+    "id": "5cb9e4d8d8b62b562a77c9bc539403d355b2d5dc",
+    "name": "service_penitentiaire_dinsertion_et_de_probation_du_jura",
+    "title": "Service pénitentiaire d'insertion et de probation du Jura",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/jura/spip-39300-02",
+    "metadata": {
+      "email": "",
+      "telephone": "03 84 86 11 42",
+      "url": ""
+    }
+  },
+  {
+    "id": "0b3abbe662ace73d701bcf97c2418ab4a30c6283",
+    "name": "service_penitentiaire_dinsertion_et_de_probation_du_jura_antenne_de_dole",
+    "title": "Service pénitentiaire d'insertion et de probation  du Jura - Antenne de Dole",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/jura/spip-39198-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 84 82 31 31",
+      "url": ""
+    }
+  },
+  {
+    "id": "b0efdb499f6ac6ca92b968c6b4148603e1b471f0",
+    "name": "service_penitentiaire_dinsertion_et_de_probation_du_jura_antenne_de_lons_le_saunier",
+    "title": "Service pénitentiaire d'insertion et de probation  du Jura - Antenne de Lons-le-Saunier",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/jura/spip-39300-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 84 86 11 42",
+      "url": ""
+    }
+  },
+  {
+    "id": "56c3a682f319cecb3918068c831476730304f3b5",
+    "name": "service_penitentiaire_dinsertion_et_de_probation_de_l_ain",
+    "title": "Service pénitentiaire d'insertion et de probation de l'Ain",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/ain/spip-01053-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 74 50 37 50",
+      "url": ""
+    }
+  },
+  {
+    "id": "a8c01823670e70c5a36756fc409d01aec49f340b",
+    "name": "service_penitentiaire_dinsertion_et_de_probation_de_l_aisne",
+    "title": "Service pénitentiaire d'insertion et de probation de l'Aisne",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/aisne/spip-02408-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 23 23 78 80",
+      "url": ""
+    }
+  },
+  {
+    "id": "f6f186181ae6262d2d3271121281a9a8eb999052",
+    "name": "service_penitentiaire_dinsertion_et_de_probation_de_l_aisne_antenne_de_chateau_thierry",
+    "title": "Service pénitentiaire d'insertion et de probation  de l'Aisne - Antenne de Château-Thierry",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/aisne/spip-02168-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 23 84 27 50",
+      "url": ""
+    }
+  },
+  {
+    "id": "67ae76f814d0a6932df57632d4a4e871b3b7d11e",
+    "name": "service_penitentiaire_dinsertion_et_de_probation_de_l_aisne_antenne_de_laon",
+    "title": "Service pénitentiaire d'insertion et de probation  de l'Aisne - Antenne de Laon",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/aisne/spip-02408-02",
+    "metadata": {
+      "email": "",
+      "telephone": "03 23 23 78 80",
+      "url": ""
+    }
+  },
+  {
+    "id": "cf3e3dc8d0eae7f2af190dba3d769b5a8e378aa2",
+    "name": "service_penitentiaire_dinsertion_et_de_probation_de_l_aisne_antenne_de_saint_quentin",
+    "title": "Service pénitentiaire d'insertion et de probation  de l'Aisne - Antenne de Saint-Quentin",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/aisne/spip-02691-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 64 86 61 62",
+      "url": ""
+    }
+  },
+  {
+    "id": "150ed1a3336d9fd5b9b7d08c3bc4ab5102eb5090",
+    "name": "service_penitentiaire_dinsertion_et_de_probation_de_l_aisne_antenne_de_soissons",
+    "title": "Service pénitentiaire d'insertion et de probation  de l'Aisne - Antenne de Soissons",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/aisne/spip-02722-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 23 76 48 90",
+      "url": ""
+    }
+  },
+  {
+    "id": "46a2de6e4e419c0c68f0a2e0a6c8b8c2f3c010cf",
+    "name": "service_penitentiaire_dinsertion_et_de_probation_de_l_allier",
+    "title": "Service pénitentiaire d'insertion et de probation de l'Allier",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/allier/spip-03190-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 70 35 17 20",
+      "url": ""
+    }
+  },
+  {
+    "id": "16f9cac6f0d95e06811dd91840aa6c4c4ce98a1b",
+    "name": "service_penitentiaire_dinsertion_et_de_probation_de_l_allier_antenne_de_cusset",
+    "title": "Service pénitentiaire d'insertion et de probation  de l'Allier - Antenne de Cusset",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/allier/spip-03095-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 70 30 11 60",
+      "url": ""
+    }
+  },
+  {
+    "id": "f93a126a19ddfd78a8ac4d156115392bcef538f1",
+    "name": "service_penitentiaire_dinsertion_et_de_probation_de_l_allier_antenne_de_montlucon",
+    "title": "Service pénitentiaire d'insertion et de probation  de l'Allier - Antenne de Montluçon",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/allier/spip-03185-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 70 02 27 77",
+      "url": ""
+    }
+  },
+  {
+    "id": "d4d766937d3611791e568145727e39f321e36d87",
+    "name": "service_penitentiaire_dinsertion_et_de_probation_de_l_allier_antenne_de_moulins_yzeure",
+    "title": "Service pénitentiaire d'insertion et de probation  de l'Allier - Antenne de Moulins-Yzeure",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/allier/spip-03190-02",
+    "metadata": {
+      "email": "",
+      "telephone": "04 70 48 57 90",
+      "url": ""
+    }
+  },
+  {
+    "id": "932c66dc9f59499c325bf3c646b7c62340b460fa",
+    "name": "service_penitentiaire_dinsertion_et_de_probation_de_l_ardeche",
+    "title": "Service pénitentiaire d'insertion et de probation de l'Ardèche",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/ardeche/spip-07186-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 26 53 80 10",
+      "url": ""
+    }
+  },
+  {
+    "id": "dfddbc542cf7f8deb16978ba42bd362cb9a02220",
+    "name": "service_penitentiaire_dinsertion_et_de_probation_de_l_ariege",
+    "title": "Service pénitentiaire d'insertion et de probation de l'Ariège",
+    "url": "https://lannuaire.service-public.fr/occitanie/ariege/spip-09122-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 34 09 88 20",
+      "url": ""
+    }
+  },
+  {
+    "id": "e4fac290d04bb0841d4ebd3625b086b5a2737271",
+    "name": "service_penitentiaire_dinsertion_et_de_probation_de_l_aube",
+    "title": "Service pénitentiaire d'insertion et de probation de l'Aube",
+    "url": "https://lannuaire.service-public.fr/grand-est/aube/spip-10387-02",
+    "metadata": {
+      "email": "",
+      "telephone": "03 51 59 12 20",
+      "url": ""
+    }
+  },
+  {
+    "id": "fc222a37572fa9f9333a8d9e5c290ddc26c3fc54",
+    "name": "service_penitentiaire_dinsertion_et_de_probation_de_l_aube_antenne_de_clairvaux",
+    "title": "Service pénitentiaire d'insertion et de probation  de l'Aube - Antenne de Clairvaux",
+    "url": "https://lannuaire.service-public.fr/grand-est/aube/spip-10426-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 25 92 30 30",
+      "url": ""
+    }
+  },
+  {
+    "id": "6a95a02f747703bb962f0b77f1e277bf55757659",
+    "name": "service_penitentiaire_dinsertion_et_de_probation_de_l_aube_antenne_de_troyes",
+    "title": "Service pénitentiaire d'insertion et de probation  de l'Aube - Antenne de Troyes",
+    "url": "https://lannuaire.service-public.fr/grand-est/aube/spip-10387-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 51 59 12 20",
+      "url": ""
+    }
+  },
+  {
+    "id": "425e18d30bcd0b1cc580a767890884313482b662",
+    "name": "service_penitentiaire_dinsertion_et_de_probation_de_l_aube_antenne_de_villenauxe_la_grande",
+    "title": "Service pénitentiaire d'insertion et de probation  de l'Aube - Antenne de Villenauxe-la-Grande",
+    "url": "https://lannuaire.service-public.fr/grand-est/aube/spip-10420-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 25 21 02 81",
+      "url": ""
+    }
+  },
+  {
+    "id": "f59284f0a00664c63a819a4dd2f095066d941c6a",
+    "name": "service_penitentiaire_dinsertion_et_de_probation_de_l_aude",
+    "title": "Service pénitentiaire d'insertion et de probation de l'Aude",
+    "url": "https://lannuaire.service-public.fr/occitanie/aude/spip-11069-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 68 11 22 80",
+      "url": ""
+    }
+  },
+  {
+    "id": "1b63da43575139484cc1bfd09bd67a97f6b5821e",
+    "name": "service_penitentiaire_dinsertion_et_de_probation_de_l_aude_antenne_de_carcassonne",
+    "title": "Service pénitentiaire d'insertion et de probation  de l'Aude - Antenne de Carcassonne",
+    "url": "https://lannuaire.service-public.fr/occitanie/aude/spip-11069-02",
+    "metadata": {
+      "email": "",
+      "telephone": "04 68 11 22 80",
+      "url": ""
+    }
+  },
+  {
+    "id": "07c5d4ef0d04eb3c7bb8e30957c6d54551a3edd5",
+    "name": "service_penitentiaire_dinsertion_et_de_probation_de_l_aude_antenne_de_narbonne",
+    "title": "Service pénitentiaire d'insertion et de probation  de l'Aude - Antenne de Narbonne",
+    "url": "https://lannuaire.service-public.fr/occitanie/aude/spip-11262-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 68 90 13 60",
+      "url": ""
+    }
+  },
+  {
+    "id": "b4b96778ccde9eaef63133e98181447463d523d6",
+    "name": "service_penitentiaire_dinsertion_et_de_probation_de_l_aveyron",
+    "title": "Service pénitentiaire d'insertion et de probation de l'Aveyron",
+    "url": "https://lannuaire.service-public.fr/occitanie/aveyron/spip-12202-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 65 73 60 30",
+      "url": ""
+    }
+  },
+  {
+    "id": "5d98a310d6ddda757e16022261b5090745bb16c4",
+    "name": "service_penitentiaire_dinsertion_et_de_probation_de_l_essonne",
+    "title": "Service pénitentiaire d'insertion et de probation de l'Essonne",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/essonne/spip-91174-02",
+    "metadata": {
+      "email": "",
+      "telephone": "01 78 05 43 40",
+      "url": ""
+    }
+  },
+  {
+    "id": "ed428a9c6d52452ed363347ec0dddaba744698c4",
+    "name": "service_penitentiaire_dinsertion_et_de_probation_de_l_essonne_antenne_de_corbeil_essonnes",
+    "title": "Service pénitentiaire d'insertion et de probation  de l' Essonne - Antenne de Corbeil-Essonnes",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/essonne/spip-91174-01",
+    "metadata": {
+      "email": "",
+      "telephone": "01 78 05 43 40",
+      "url": ""
+    }
+  },
+  {
+    "id": "512a82829a60ffca1c02b1ded5788f45c7ac7089",
+    "name": "service_penitentiaire_dinsertion_et_de_probation_de_l_essonne_antenne_de_fleury_merogis",
+    "title": "Service pénitentiaire d'insertion et de probation  de l' Essonne - Antenne de Fleury-Mérogis",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/essonne/spip-91235-01",
+    "metadata": {
+      "email": "",
+      "telephone": "01 69 72 30 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "a967473623dda670febc099b117328c18e2ee571",
+    "name": "service_penitentiaire_dinsertion_et_de_probation_de_l_eure",
+    "title": "Service pénitentiaire d'insertion et de probation de l'Eure",
+    "url": "https://lannuaire.service-public.fr/normandie/eure/spip-27229-02",
+    "metadata": {
+      "email": "",
+      "telephone": "02 32 62 15 50",
+      "url": ""
+    }
+  },
+  {
+    "id": "0d729ebed5cb63b191263f2311003c9d4da1f013",
+    "name": "service_penitentiaire_dinsertion_et_de_probation_de_l_eure_antenne_de_bernay",
+    "title": "Service pénitentiaire d'insertion et de probation  de l'Eure - Antenne de Bernay",
+    "url": "https://lannuaire.service-public.fr/normandie/eure/spip-27056-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 32 45 09 52",
+      "url": ""
+    }
+  },
+  {
+    "id": "86eeba4302e0348744015dbdaafb0c0540bec605",
+    "name": "service_penitentiaire_dinsertion_et_de_probation_de_l_eure_antenne_d_evreux",
+    "title": "Service pénitentiaire d'insertion et de probation  de l'Eure - Antenne d'Evreux",
+    "url": "https://lannuaire.service-public.fr/normandie/eure/spip-27229-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 32 62 15 50",
+      "url": ""
+    }
+  },
+  {
+    "id": "a594bb9f5145b1ad27bf9b34166ead0438309be7",
+    "name": "service_penitentiaire_dinsertion_et_de_probation_de_l_eure_antenne_de_val_de_reuil",
+    "title": "Service pénitentiaire d'insertion et de probation  de l'Eure - Antenne de Val-de-Reuil",
+    "url": "https://lannuaire.service-public.fr/normandie/eure/spip-27701-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 32 63 37 76",
+      "url": ""
+    }
+  },
+  {
+    "id": "dcc5a3986369acb8151c0166f9585875a2140148",
+    "name": "service_penitentiaire_dinsertion_et_de_probation_de_l_eure_et_loir",
+    "title": "Service pénitentiaire d'insertion et de probation de l'Eure-et-Loir",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/eure-et-loir/spip-28085-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 37 18 33 60",
+      "url": ""
+    }
+  },
+  {
+    "id": "6805e576eedde1c469196d1b7f5ff7cc43f1608a",
+    "name": "service_penitentiaire_dinsertion_et_de_probation_de_l_herault",
+    "title": "Service pénitentiaire d'insertion et de probation de l'Hérault",
+    "url": "https://lannuaire.service-public.fr/occitanie/herault/spip-34172-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 48 79 89 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "e954ec41e8fc364f069fbc034e1a539d7fcc59ea",
+    "name": "service_penitentiaire_dinsertion_et_de_probation_de_l_herault_antenne_de_beziers",
+    "title": "Service pénitentiaire d'insertion et de probation  de l'Hérault - Antenne de Béziers",
+    "url": "https://lannuaire.service-public.fr/occitanie/herault/spip-34032-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 67 62 99 10",
+      "url": ""
+    }
+  },
+  {
+    "id": "4cb06c33420303aea56ee669e008f034616e04ba",
+    "name": "service_penitentiaire_dinsertion_et_de_probation_de_l_herault_antenne_de_montpellier_villeneuve_les_maguelone",
+    "title": "Service pénitentiaire d'insertion et de probation  de l'Hérault - Antenne de Montpellier-Villeneuve-les-Maguelone",
+    "url": "https://lannuaire.service-public.fr/occitanie/herault/spip-34172-02",
+    "metadata": {
+      "email": "",
+      "telephone": "04 48 79 89 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "0976ed2dd637c6944c42ae89803320407f0f54b7",
+    "name": "service_penitentiaire_dinsertion_et_de_probation_de_l_ille_et_vilaine",
+    "title": "Service pénitentiaire d'insertion et de probation de l'Ille-et-Vilaine",
+    "url": "https://lannuaire.service-public.fr/bretagne/ille-et-vilaine/spip-35238-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 56 01 65 65",
+      "url": ""
+    }
+  },
+  {
+    "id": "cbf3f2b0e39f2d84c5dee2ff77f7298c6c8c6cc0",
+    "name": "service_penitentiaire_dinsertion_et_de_probation_de_l_indre",
+    "title": "Service pénitentiaire d'insertion et de probation de l'Indre",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/indre/spip-36044-02",
+    "metadata": {
+      "email": "",
+      "telephone": "02 54 08 19 50",
+      "url": ""
+    }
+  },
+  {
+    "id": "ea201c4673a9a47e1e530231d7a0f9be03c3864c",
+    "name": "service_penitentiaire_dinsertion_et_de_probation_de_l_indre_antenne_de_chateauroux",
+    "title": "Service pénitentiaire d'insertion et de probation  de l'Indre - Antenne de Châteauroux",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/indre/spip-36044-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 54 08 19 50",
+      "url": ""
+    }
+  },
+  {
+    "id": "d131293fb4deedc2c95a8538e39fea7cbcd588cc",
+    "name": "service_penitentiaire_dinsertion_et_de_probation_de_l_indre_antenne_de_saint_maur",
+    "title": "Service pénitentiaire d'insertion et de probation  de l'Indre - Antenne de Saint-Maur",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/indre/spip-36202-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 54 08 29 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "b4987ed3048ac0a10afce12b89cdc8858d33afcb",
+    "name": "service_penitentiaire_dinsertion_et_de_probation_de_l_isere",
+    "title": "Service pénitentiaire d'insertion et de probation de l'Isère",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/isere/spip-38185-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 76 23 55 01",
+      "url": ""
+    }
+  },
+  {
+    "id": "61e8c9047c726199d510b83e8cb0cb6944a8807a",
+    "name": "service_penitentiaire_dinsertion_et_de_probation_de_l_isere_antenne_de_bourgoin_jallieu",
+    "title": "Service pénitentiaire d'insertion et de probation  de l'Isère - Antenne de Bourgoin-Jallieu",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/isere/spip-38053-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 87 25 48 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "9dfc0141a859fdb96977fe2ef15c3873570383cb",
+    "name": "service_penitentiaire_dinsertion_et_de_probation_de_l_isere_antenne_de_grenoble",
+    "title": "Service pénitentiaire d'insertion et de probation  de l'Isère - Antenne de Grenoble",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/isere/spip-38185-02",
+    "metadata": {
+      "email": "",
+      "telephone": "04 76 23 55 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "268b7906416ba59bbd6c2caf94f32ed04615e3a8",
+    "name": "service_penitentiaire_dinsertion_et_de_probation_de_l_isere_antenne_de_vienne_saint_quentin_fallavier",
+    "title": "Service pénitentiaire d'insertion et de probation  de l'Isère - Antenne de Vienne-Saint-Quentin-Fallavier",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/isere/spip-38544-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 74 53 88 60",
+      "url": ""
+    }
+  },
+  {
+    "id": "d0fb8fadb2d0967dd5da6c822103493250fa731e",
+    "name": "service_penitentiaire_dinsertion_et_de_probation_de_l_oise",
+    "title": "Service pénitentiaire d'insertion et de probation de l'Oise",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/oise/spip-60057-02",
+    "metadata": {
+      "email": "",
+      "telephone": "03 60 36 51 51",
+      "url": ""
+    }
+  },
+  {
+    "id": "ba5d23b901f2f0129cec007549385bc7e13f681e",
+    "name": "service_penitentiaire_dinsertion_et_de_probation_de_l_oise_antenne_de_beauvais",
+    "title": "Service pénitentiaire d'insertion et de probation  de l'Oise - Antenne de Beauvais",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/oise/spip-60057-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 60 36 51 51",
+      "url": ""
+    }
+  },
+  {
+    "id": "eb2d350097bbd566a5f73ef01a57bb7f7e211366",
+    "name": "service_penitentiaire_dinsertion_et_de_probation_de_l_oise_antenne_de_compiegne",
+    "title": "Service pénitentiaire d'insertion et de probation  de l'Oise - Antenne de Compiègne",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/oise/spip-60159-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 60 45 40 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "1b3538c100fe072f51dfd86328f987154e27da1c",
+    "name": "service_penitentiaire_dinsertion_et_de_probation_de_l_oise_antenne_de_creil",
+    "title": "Service pénitentiaire d'insertion et de probation  de l'Oise - Antenne de Creil",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/oise/spip-60175-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 44 72 70 10",
+      "url": ""
+    }
+  },
+  {
+    "id": "6eb80ed17326721681836620b56561ddd4209ba1",
+    "name": "service_penitentiaire_dinsertion_et_de_probation_de_l_oise_antenne_de_liancourt",
+    "title": "Service pénitentiaire d'insertion et de probation  de l'Oise - Antenne de Liancourt",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/oise/spip-60360-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 44 28 82 10",
+      "url": ""
+    }
+  },
+  {
+    "id": "2e47e54749d904566ea17147041472573dd07845",
+    "name": "service_penitentiaire_dinsertion_et_de_probation_de_l_orne",
+    "title": "Service pénitentiaire d'insertion et de probation de l'Orne",
+    "url": "https://lannuaire.service-public.fr/normandie/orne/spip-61006-02",
+    "metadata": {
+      "email": "",
+      "telephone": "02 33 12 20 70",
+      "url": ""
+    }
+  },
+  {
+    "id": "60377432c56617c6758b51cc6c33dc25fc61ef7f",
+    "name": "service_penitentiaire_dinsertion_et_de_probation_de_l_orne_antenne_d_alencon",
+    "title": "Service pénitentiaire d'insertion et de probation  de l'Orne - Antenne d'Alençon",
+    "url": "https://lannuaire.service-public.fr/normandie/orne/spip-61001-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 33 82 90 10",
+      "url": ""
+    }
+  },
+  {
+    "id": "1e19208b9e5cea8bd799caf8d2023450f484642f",
+    "name": "service_penitentiaire_dinsertion_et_de_probation_de_l_orne_antenne_d_argentan",
+    "title": "Service pénitentiaire d'insertion et de probation  de l'Orne - Antenne d'Argentan",
+    "url": "https://lannuaire.service-public.fr/normandie/orne/spip-61006-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 33 12 20 70",
+      "url": ""
+    }
+  },
+  {
+    "id": "8f0080d4c559d56147c5bc3564baa284222b2901",
+    "name": "service_penitentiaire_dinsertion_et_de_probation_de_l_yonne",
+    "title": "Service pénitentiaire d'insertion et de probation de l'Yonne",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/yonne/spip-89024-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 86 72 92 92",
+      "url": ""
+    }
+  },
+  {
+    "id": "77453c6dc60693a67efbe4762837715c48eb2256",
+    "name": "service_penitentiaire_dinsertion_et_de_probation_de_l_yonne_antenne_d_auxerre",
+    "title": "Service pénitentiaire d'insertion et de probation  de l'Yonne - Antenne d'Auxerre",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/yonne/spip-89024-02",
+    "metadata": {
+      "email": "",
+      "telephone": "03 86 72 92 92",
+      "url": ""
+    }
+  },
+  {
+    "id": "59dcace12930c187d519a920fc1b580c7429e5c7",
+    "name": "service_penitentiaire_dinsertion_et_de_probation_de_l_yonne_antenne_de_joux_la_ville",
+    "title": "Service pénitentiaire d'insertion et de probation  de l'Yonne - Antenne de Joux-la-Ville",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/yonne/spip-89208-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 86 33 61 06",
+      "url": ""
+    }
+  },
+  {
+    "id": "d6b912cbe75325bc5d8f7ce7096edac2f4d01569",
+    "name": "service_penitentiaire_dinsertion_et_de_probation_de_l_yonne_antenne_de_sens",
+    "title": "Service pénitentiaire d'insertion et de probation  de l'Yonne - Antenne de Sens",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/yonne/spip-89387-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 58 92 80 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "3ecd753295b9b138334577cdc440f6f52beebc2a",
+    "name": "service_penitentiaire_dinsertion_et_de_probation_de_la_charente",
+    "title": "Service pénitentiaire d'insertion et de probation de la Charente",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/charente/spip-16015-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 17 17 90 11",
+      "url": ""
+    }
+  },
+  {
+    "id": "2012555efca48244010cb2ac9eba8d57f73d21cd",
+    "name": "service_penitentiaire_dinsertion_et_de_probation_de_la_charente_maritime",
+    "title": "Service pénitentiaire d'insertion et de probation de la Charente-Maritime",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/charente-maritime/spip-17300-02",
+    "metadata": {
+      "email": "",
+      "telephone": "05 46 30 32 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "dba25164fd643228b9ccc8f0277729706bf4d62d",
+    "name": "service_penitentiaire_dinsertion_et_de_probation_de_la_corse_du_sud",
+    "title": "Service pénitentiaire d'insertion et de probation de la Corse-du-Sud",
+    "url": "https://lannuaire.service-public.fr/corse/corse-du-sud/spip-2A004-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 95 10 70 17",
+      "url": ""
+    }
+  },
+  {
+    "id": "297ec651c3e07199a184b9c33b5e2104d9a7689e",
+    "name": "service_penitentiaire_dinsertion_et_de_probation_de_la_cote_d_or",
+    "title": "Service pénitentiaire d'insertion et de probation de la Côte-d'Or",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/cote-d-or/spip-21231-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 45 21 85 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "bbe8d72417f08cd166279a1572ceba9761a504a5",
+    "name": "service_penitentiaire_dinsertion_et_de_probation_de_la_creuse",
+    "title": "Service pénitentiaire d'insertion et de probation de la Creuse",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/creuse/spip-23096-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 55 41 13 48",
+      "url": ""
+    }
+  },
+  {
+    "id": "e1a2d6618e8c90f974253a695b656358d5b518d9",
+    "name": "service_penitentiaire_dinsertion_et_de_probation_de_la_dordogne",
+    "title": "Service pénitentiaire d'insertion et de probation de la Dordogne",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/dordogne/spip-24322-02",
+    "metadata": {
+      "email": "",
+      "telephone": "05 53 45 67 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "ab7914a7eb5aedfbf97a2409d127073b6bb194df",
+    "name": "service_penitentiaire_dinsertion_et_de_probation_de_la_drome",
+    "title": "Service pénitentiaire d'insertion et de probation de la Drôme",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/drome/spip-26362-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 75 81 76 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "b6bbabcf32fe67ad2093095a6802892367c17d56",
+    "name": "service_penitentiaire_dinsertion_et_de_probation_de_la_gironde",
+    "title": "Service pénitentiaire d'insertion et de probation de la Gironde",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/gironde/spip-33063-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 56 56 99 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "ced14b187b913b94d3c9096bfc4d9b3f26ddfc2c",
+    "name": "service_penitentiaire_dinsertion_et_de_probation_de_la_guadeloupe",
+    "title": "Service pénitentiaire d'insertion et de probation de la Guadeloupe",
+    "url": "https://lannuaire.service-public.fr/guadeloupe/guadeloupe/spip-97120-01",
+    "metadata": {
+      "email": "",
+      "telephone": "0(590)215535",
+      "url": ""
+    }
+  },
+  {
+    "id": "ae4219e1f895af2f85300762778ec9bfe53df932",
+    "name": "service_penitentiaire_dinsertion_et_de_probation_de_la_guyane",
+    "title": "Service pénitentiaire d'insertion et de probation de la Guyane",
+    "url": "https://lannuaire.service-public.fr/guyane/guyane/spip-97302-01",
+    "metadata": {
+      "email": "",
+      "telephone": "0(594)448621",
+      "url": ""
+    }
+  },
+  {
+    "id": "f2c7f224d523eb1eba58e4269bca9a7de303dd88",
+    "name": "service_penitentiaire_dinsertion_et_de_probation_de_la_guyane_antenne_de_cayenne",
+    "title": "Service pénitentiaire d'insertion et de probation  de la Guyane - Antenne de Cayenne",
+    "url": "https://lannuaire.service-public.fr/guyane/guyane/spip-97302-02",
+    "metadata": {
+      "email": "",
+      "telephone": "0(594)448621",
+      "url": ""
+    }
+  },
+  {
+    "id": "bb8f3d7036271b07ec4fc65b0c38919a1e361aff",
+    "name": "service_penitentiaire_dinsertion_et_de_probation_de_la_guyane_antenne_de_saint_laurent_du_maroni",
+    "title": "Service pénitentiaire d'insertion et de probation  de la Guyane - Antenne de Saint-Laurent du Maroni",
+    "url": "https://lannuaire.service-public.fr/guyane/guyane/spip-97311-01",
+    "metadata": {
+      "email": "",
+      "telephone": "",
+      "url": ""
+    }
+  },
+  {
+    "id": "870593ea646ede5a5f58c17d5182f84b25b00c9f",
+    "name": "service_penitentiaire_dinsertion_et_de_probation_de_la_haute_corse",
+    "title": "Service pénitentiaire d'insertion et de probation de la Haute-Corse",
+    "url": "https://lannuaire.service-public.fr/corse/haute-corse/spip-2B033-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 20 04 32 96",
+      "url": ""
+    }
+  },
+  {
+    "id": "93efb3d0ec72cca5d56990cf9f86b4160edc1f65",
+    "name": "service_penitentiaire_dinsertion_et_de_probation_de_la_haute_garonne",
+    "title": "Service pénitentiaire d'insertion et de probation de la Haute-Garonne",
+    "url": "https://lannuaire.service-public.fr/occitanie/haute-garonne/spip-31555-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 61 14 48 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "5724f0fddffc4bc280ce782b3cc376a0fe0909c9",
+    "name": "service_penitentiaire_dinsertion_et_de_probation_de_la_haute_loire",
+    "title": "Service pénitentiaire d'insertion et de probation de la Haute-Loire",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/haute-loire/spip-43157-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 71 06 68 10",
+      "url": ""
+    }
+  },
+  {
+    "id": "1001a0f075a007c02d3c09a5948ad7c3b49391a1",
+    "name": "service_penitentiaire_dinsertion_et_de_probation_de_la_haute_marne",
+    "title": "Service pénitentiaire d'insertion et de probation de la Haute-Marne",
+    "url": "https://lannuaire.service-public.fr/grand-est/haute-marne/spip-52121-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 25 02 14 26",
+      "url": ""
+    }
+  },
+  {
+    "id": "38322922ef0dcadc16b833b621058e38e6959bf1",
+    "name": "service_penitentiaire_dinsertion_et_de_probation_de_la_haute_saone",
+    "title": "Service pénitentiaire d'insertion et de probation de la Haute-Saône",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/haute-saone/spip-70550-02",
+    "metadata": {
+      "email": "",
+      "telephone": "03 84 96 97 95",
+      "url": ""
+    }
+  },
+  {
+    "id": "e1e616f6403fba64c0bdbfe5d9fa535bd48eb158",
+    "name": "service_penitentiaire_dinsertion_et_de_probation_de_la_haute_savoie",
+    "title": "Service pénitentiaire d'insertion et de probation de la Haute-Savoie",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/haute-savoie/spip-74012-02",
+    "metadata": {
+      "email": "",
+      "telephone": "04 50 74 56 02",
+      "url": ""
+    }
+  },
+  {
+    "id": "82f76924d2e3321b4b5d0fd5731ffe17af3be6dd",
+    "name": "service_penitentiaire_dinsertion_et_de_probation_de_la_haute_vienne",
+    "title": "Service pénitentiaire d'insertion et de probation de la Haute-Vienne",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/haute-vienne/spip-87085-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 55 49 11 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "78c96e9f747e2a26ec8a03691cb5dc05fe383c92",
+    "name": "service_penitentiaire_dinsertion_et_de_probation_de_la_loire",
+    "title": "Service pénitentiaire d'insertion et de probation de la Loire",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/loire/spip-42218-02",
+    "metadata": {
+      "email": "",
+      "telephone": "04 27 40 29 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "97353cf594f37ff14d6cf9499453615aa7560c37",
+    "name": "service_penitentiaire_dinsertion_et_de_probation_de_la_loire_antenne_de_roanne",
+    "title": "Service pénitentiaire d'insertion et de probation  de la Loire - Antenne de Roanne",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/loire/spip-42187-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 77 23 97 10",
+      "url": ""
+    }
+  },
+  {
+    "id": "0235b5ff9f2841d9ca424eb6fe1e30a176b49569",
+    "name": "service_penitentiaire_dinsertion_et_de_probation_de_la_loire_antenne_de_saint_etienne",
+    "title": "Service pénitentiaire d'insertion et de probation  de la Loire - Antenne de Saint-Etienne",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/loire/spip-42218-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 27 40 29 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "257193aa141e0730277d36cb9d28078a381ffeed",
+    "name": "service_penitentiaire_dinsertion_et_de_probation_de_la_lozere",
+    "title": "Service pénitentiaire d'insertion et de probation de la Lozère",
+    "url": "https://lannuaire.service-public.fr/occitanie/lozere/spip-48095-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 66 45 67 07",
+      "url": ""
+    }
+  },
+  {
+    "id": "afd091eb9b8d1cb770e8e9159ccc6bbcb8975793",
+    "name": "service_penitentiaire_dinsertion_et_de_probation_de_la_manche",
+    "title": "Service pénitentiaire d'insertion et de probation de la Manche",
+    "url": "https://lannuaire.service-public.fr/normandie/manche/spip-50147-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 57 87 28 03",
+      "url": ""
+    }
+  },
+  {
+    "id": "12dac0a6f672c945852581f9f1f0ea340092a47c",
+    "name": "service_penitentiaire_dinsertion_et_de_probation_de_la_manche_antenne_d_avranches",
+    "title": "Service pénitentiaire d'insertion et de probation  de la Manche - Antenne d'Avranches",
+    "url": "https://lannuaire.service-public.fr/normandie/manche/spip-50025-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 33 89 67 30",
+      "url": ""
+    }
+  },
+  {
+    "id": "4415a870a65af225dcfcb6c02b887d8c2edd9d6e",
+    "name": "service_penitentiaire_dinsertion_et_de_probation_de_la_manche_antenne_de_cherbourg",
+    "title": "Service pénitentiaire d'insertion et de probation  de la Manche - Antenne de Cherbourg",
+    "url": "https://lannuaire.service-public.fr/normandie/manche/spip-50129-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 57 87 25 10",
+      "url": ""
+    }
+  },
+  {
+    "id": "fb5a3e25027fa7a8b645b181226d9a3983f63525",
+    "name": "service_penitentiaire_dinsertion_et_de_probation_de_la_manche_antenne_de_coutances",
+    "title": "Service pénitentiaire d'insertion et de probation  de la Manche - Antenne de Coutances",
+    "url": "https://lannuaire.service-public.fr/normandie/manche/spip-50147-02",
+    "metadata": {
+      "email": "",
+      "telephone": "02 57 87 28 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "17fb59c41ef711885d76d9b7aa833f685a00744e",
+    "name": "service_penitentiaire_dinsertion_et_de_probation_de_la_marne",
+    "title": "Service pénitentiaire d'insertion et de probation de la Marne",
+    "url": "https://lannuaire.service-public.fr/grand-est/marne/spip-51108-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 26 22 32 22",
+      "url": ""
+    }
+  },
+  {
+    "id": "cf5f70cc1108725305363ad5fd9b2fb9fb0889f6",
+    "name": "service_penitentiaire_dinsertion_et_de_probation_de_la_marne_antenne_de_chalons_en_champagne",
+    "title": "Service pénitentiaire d'insertion et de probation  de la Marne - Antenne de Châlons-en-Champagne",
+    "url": "https://lannuaire.service-public.fr/grand-est/marne/spip-51108-02",
+    "metadata": {
+      "email": "",
+      "telephone": "03 26 22 32 22",
+      "url": ""
+    }
+  },
+  {
+    "id": "b6bc6abfb73ef8d54d1e2709ae13b2ae4d4b0f2b",
+    "name": "service_penitentiaire_dinsertion_et_de_probation_de_la_marne_antenne_de_reims",
+    "title": "Service pénitentiaire d'insertion et de probation  de la Marne - Antenne de Reims",
+    "url": "https://lannuaire.service-public.fr/grand-est/marne/spip-51454-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 26 06 83 90",
+      "url": ""
+    }
+  },
+  {
+    "id": "eb1fc9a353e714378ee26d61ad8a3fe329d5545a",
+    "name": "service_penitentiaire_dinsertion_et_de_probation_de_la_martinique",
+    "title": "Service pénitentiaire d'insertion et de probation de la Martinique",
+    "url": "https://lannuaire.service-public.fr/martinique/martinique/spip-97209-01",
+    "metadata": {
+      "email": "",
+      "telephone": "0(596)484995",
+      "url": ""
+    }
+  },
+  {
+    "id": "9d8f52ac70b81f7d8d888c59f5ad365a9d142127",
+    "name": "service_penitentiaire_dinsertion_et_de_probation_de_la_mayenne",
+    "title": "Service pénitentiaire d'insertion et de probation de la Mayenne",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/mayenne/spip-53130-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 43 56 79 80",
+      "url": ""
+    }
+  },
+  {
+    "id": "dade3bdb20b0d4069cf9ce7b7fec9ddaac120763",
+    "name": "service_penitentiaire_dinsertion_et_de_probation_de_la_meuse",
+    "title": "Service pénitentiaire d'insertion et de probation de la Meuse",
+    "url": "https://lannuaire.service-public.fr/grand-est/meuse/spip-55029-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 29 77 86 54",
+      "url": ""
+    }
+  },
+  {
+    "id": "aa3052b23f877386cf633520f785948bc15a081d",
+    "name": "service_penitentiaire_dinsertion_et_de_probation_de_la_meuse_antenne_de_bar_le_duc",
+    "title": "Service pénitentiaire d'insertion et de probation  de la Meuse - Antenne de Bar-le-Duc",
+    "url": "https://lannuaire.service-public.fr/grand-est/meuse/spip-55029-02",
+    "metadata": {
+      "email": "",
+      "telephone": "03 29 77 86 54",
+      "url": ""
+    }
+  },
+  {
+    "id": "6b1f3038a3c94ac513c86b5abecdc4571ce5e925",
+    "name": "service_penitentiaire_dinsertion_et_de_probation_de_la_meuse_antenne_de_montmedy",
+    "title": "Service pénitentiaire d'insertion et de probation  de la Meuse - Antenne de Montmedy",
+    "url": "https://lannuaire.service-public.fr/grand-est/meuse/spip-55351-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 29 80 17 37",
+      "url": ""
+    }
+  },
+  {
+    "id": "f286720d9732136c5381ae973a90ef62ea1cb536",
+    "name": "service_penitentiaire_dinsertion_et_de_probation_de_la_meuse_antenne_de_saint_mihiel",
+    "title": "Service pénitentiaire d'insertion et de probation  de la Meuse - Antenne de Saint-Mihiel",
+    "url": "https://lannuaire.service-public.fr/grand-est/meuse/spip-55463-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 29 90 28 73",
+      "url": ""
+    }
+  },
+  {
+    "id": "a699dc6f8c2c3b641d966d49901d2d33e2b3533d",
+    "name": "service_penitentiaire_dinsertion_et_de_probation_de_la_meuse_antenne_de_verdun",
+    "title": "Service pénitentiaire d'insertion et de probation  de la Meuse - Antenne de Verdun",
+    "url": "https://lannuaire.service-public.fr/grand-est/meuse/spip-55545-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 29 73 74 23",
+      "url": ""
+    }
+  },
+  {
+    "id": "c9673c44a1acdbbcf5888249fa94c2a7d3656839",
+    "name": "service_penitentiaire_dinsertion_et_de_probation_de_la_moselle",
+    "title": "Service pénitentiaire d'insertion et de probation de la Moselle",
+    "url": "https://lannuaire.service-public.fr/grand-est/moselle/spip-57463-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 87 17 41 40",
+      "url": ""
+    }
+  },
+  {
+    "id": "020485faaf6a53784d09fe06a0f85cc33c5adb96",
+    "name": "service_penitentiaire_dinsertion_et_de_probation_de_la_moselle_antenne_de_metz",
+    "title": "Service pénitentiaire d'insertion et de probation  de la Moselle - Antenne de Metz",
+    "url": "https://lannuaire.service-public.fr/grand-est/moselle/spip-57463-02",
+    "metadata": {
+      "email": "",
+      "telephone": "03 87 17 41 40",
+      "url": ""
+    }
+  },
+  {
+    "id": "167e27d219ea820e014820b8671bb2c1c7158b07",
+    "name": "service_penitentiaire_dinsertion_et_de_probation_de_la_moselle_antenne_de_sarreguemines",
+    "title": "Service pénitentiaire d'insertion et de probation  de la Moselle - Antenne de Sarreguemines",
+    "url": "https://lannuaire.service-public.fr/grand-est/moselle/spip-57631-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 87 28 53 50",
+      "url": ""
+    }
+  },
+  {
+    "id": "cca3a89ec7d8f501b1576fb99cdae13067060bdd",
+    "name": "service_penitentiaire_dinsertion_et_de_probation_de_la_moselle_antenne_de_thionville",
+    "title": "Service pénitentiaire d'insertion et de probation  de la Moselle - Antenne de Thionville",
+    "url": "https://lannuaire.service-public.fr/grand-est/moselle/spip-57672-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 82 59 65 90",
+      "url": ""
+    }
+  },
+  {
+    "id": "5f2c343fed1d27a5e25aca2c23321f476888d35a",
+    "name": "service_penitentiaire_dinsertion_et_de_probation_des_landes",
+    "title": "Service pénitentiaire d'insertion et de probation des Landes",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/landes/spip-40192-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 58 05 00 20",
+      "url": ""
+    }
+  },
+  {
+    "id": "b9ad4467a5683fa808aa3d94a30f21bdede4db65",
+    "name": "service_penitentiaire_dinsertion_et_de_probation_des_landes_antenne_de_dax",
+    "title": "Service pénitentiaire d'insertion et de probation  des Landes - Antenne de Dax",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/landes/spip-40088-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 58 90 79 55",
+      "url": ""
+    }
+  },
+  {
+    "id": "2a9d143c8d1feb9513ac2f4fb89ca9c9f1bea82a",
+    "name": "service_penitentiaire_dinsertion_et_de_probation_des_landes_antenne_de_mont_de_marsan",
+    "title": "Service pénitentiaire d'insertion et de probation  des Landes - Antenne de Mont-de-Marsan",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/landes/spip-40192-02",
+    "metadata": {
+      "email": "",
+      "telephone": "05 58 05 00 20",
+      "url": ""
+    }
+  },
+  {
+    "id": "74fcc6dc3d2f85986825fb2218bf32d2568b65fb",
+    "name": "service_penitentiaire_dinsertion_et_de_probation_de_la_nievre",
+    "title": "Service pénitentiaire d'insertion et de probation de la Nièvre",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/nievre/spip-58194-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 86 69 52 11",
+      "url": ""
+    }
+  },
+  {
+    "id": "cb4478142db331f8b019253b835316fa4cbea58b",
+    "name": "service_penitentiaire_dinsertion_et_de_probation_de_la_polynesie_francaise_antenne_de_papeari",
+    "title": "Service pénitentiaire d'insertion et de probation  de la Polynésie Française - Antenne de Papéari",
+    "url": "https://lannuaire.service-public.fr/collectivites-d-outre-mer/polynesie-francaise/spip-98752-01",
+    "metadata": {
+      "email": "",
+      "telephone": "",
+      "url": ""
+    }
+  },
+  {
+    "id": "d18b331516ae53993bcf0181cf8eab73b9c53334",
+    "name": "service_penitentiaire_dinsertion_et_de_probation_de_la_polynesie_francaise_antenne_de_papeete",
+    "title": "Service pénitentiaire d'insertion et de probation  de la Polynesie Francaise - Antenne de Papeete",
+    "url": "https://lannuaire.service-public.fr/collectivites-d-outre-mer/polynesie-francaise/spip-98735-02",
+    "metadata": {
+      "email": "",
+      "telephone": "00(689)437625",
+      "url": ""
+    }
+  },
+  {
+    "id": "54396ea3adddccbf4d2ad32083554dfad7c578e9",
+    "name": "service_penitentiaire_dinsertion_et_de_probation_de_la_polynesie_francaise_antenne_d_uturoa_raiatea",
+    "title": "Service pénitentiaire d'insertion et de probation  de la Polynesie Francaise - Antenne d'Uturoa-Raiatea",
+    "url": "https://lannuaire.service-public.fr/collectivites-d-outre-mer/polynesie-francaise/spip-98758-01",
+    "metadata": {
+      "email": "",
+      "telephone": "",
+      "url": ""
+    }
+  },
+  {
+    "id": "48bc7f5de6a0fcd9b842ff83f494dfaa3ed5231e",
+    "name": "service_penitentiaire_dinsertion_et_de_probation_de_la_reunion",
+    "title": "Service pénitentiaire d'insertion et de probation de La Réunion",
+    "url": "https://lannuaire.service-public.fr/la-reunion/reunion/spip-97411-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 62 31 59 05",
+      "url": ""
+    }
+  },
+  {
+    "id": "877a2258abfe89faf1f481882bb05ef339f9a3b3",
+    "name": "service_penitentiaire_dinsertion_et_de_probation_de_la_reunion_antenne_du_port",
+    "title": "Service pénitentiaire d'insertion et de probation  de La Réunion - Antenne du Port",
+    "url": "https://lannuaire.service-public.fr/la-reunion/reunion/spip-97407-01",
+    "metadata": {
+      "email": "",
+      "telephone": "0(262)427217",
+      "url": ""
+    }
+  },
+  {
+    "id": "b685edb64f5ebe79cd1c4eaef401b7083e3a7cda",
+    "name": "service_penitentiaire_dinsertion_et_de_probation_de_la_reunion_antenne_de_saint_denis",
+    "title": "Service pénitentiaire d'insertion et de probation  de La Réunion - Antenne de Saint-Denis",
+    "url": "https://lannuaire.service-public.fr/la-reunion/reunion/spip-97411-02",
+    "metadata": {
+      "email": "",
+      "telephone": "0(262)315900",
+      "url": ""
+    }
+  },
+  {
+    "id": "df92ef02d478c9fcb6d9869f13d1f3b41a2ed8f6",
+    "name": "service_penitentiaire_dinsertion_et_de_probation_de_la_reunion_antenne_de_saint_pierre",
+    "title": "Service pénitentiaire d'insertion et de probation  de La Réunion - Antenne de Saint-Pierre",
+    "url": "https://lannuaire.service-public.fr/la-reunion/reunion/spip-97416-01",
+    "metadata": {
+      "email": "",
+      "telephone": "0(262)593859",
+      "url": ""
+    }
+  },
+  {
+    "id": "cdacb8e8cd82c5518274c9859772caa44e598633",
+    "name": "service_penitentiaire_dinsertion_et_de_probation_de_la_saone_et_loire",
+    "title": "Service pénitentiaire d'insertion et de probation de la Saône-et-Loire",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/saone-et-loire/spip-71270-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 45 77 21 21",
+      "url": ""
+    }
+  }
+]

@@ -1,0 +1,611 @@
+[
+  {
+    "id": "39442d882710bd34bc6f5a99ab7a310e89cc4019",
+    "alternateName": "DTPJJ",
+    "name": "direction_territoriale_de_la_protection_judiciaire_de_la_jeunesse_dtpjj_cote_d_or_et_saone_et_loire",
+    "title": "Direction territoriale de la protection judiciaire de la jeunesse (DTPJJ) - Côte-d'Or et Saône-et-Loire",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/cote-d-or/ddpjj-21231-01",
+    "metadata": {
+      "email": "dtpjj-dijon@justice.fr",
+      "telephone": "03 45 21 86 87",
+      "url": ""
+    }
+  },
+  {
+    "id": "5f55a71497aac9f6728239b78b7915291a453a31",
+    "alternateName": "DTPJJ",
+    "name": "direction_territoriale_de_la_protection_judiciaire_de_la_jeunesse_dtpjj_franche_comte",
+    "title": "Direction territoriale de la protection judiciaire de la jeunesse (DTPJJ) - Franche-Comté",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/doubs/ddpjj-25056-01",
+    "metadata": {
+      "email": "dtpjj-besancon@justice.fr",
+      "telephone": "03 63 01 74 77",
+      "url": ""
+    }
+  },
+  {
+    "id": "21b6e2d24113eeb78d7f486441da7de34bec9e26",
+    "alternateName": "DTPJJ",
+    "name": "direction_territoriale_de_la_protection_judiciaire_de_la_jeunesse_dtpjj_poitou_charentes",
+    "title": "Direction territoriale de la protection judiciaire de la jeunesse (DTPJJ) - Poitou-Charentes",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/vienne/ddpjj-86194-01",
+    "metadata": {
+      "email": "dtpjj-poitiers@justice.fr",
+      "telephone": "05 49 47 08 30",
+      "url": ""
+    }
+  },
+  {
+    "id": "66ceb38ffa22fd7fbd525f69973b9d09c5242ef8",
+    "alternateName": "DTPJJ",
+    "name": "direction_territoriale_de_la_protection_judiciaire_de_la_jeunesse_dtpjj_var",
+    "title": "Direction territoriale de la protection judiciaire de la jeunesse (DTPJJ) - Var",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/var/ddpjj-83144-01",
+    "metadata": {
+      "email": "dtpjj-la-valette-du-var@justice.fr",
+      "telephone": "04 83 16 49 80",
+      "url": ""
+    }
+  },
+  {
+    "id": "a96666912a71d1bfc24d56a095fa067fae0a59ac",
+    "name": "direction_territoriale_de_la_protection_judiciaire_de_la_jeunesse_alpes_maritimes",
+    "title": "Direction territoriale de la protection judiciaire de la jeunesse - Alpes-Maritimes",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/alpes-maritimes/ddpjj-06088-01",
+    "metadata": {
+      "email": "dtpjj-nice@justice.fr",
+      "telephone": "04 89 24 44 70",
+      "url": ""
+    }
+  },
+  {
+    "id": "33150e33b3d073c4d1bfe93a1aa8f5e6d5853700",
+    "name": "direction_territoriale_de_la_protection_judiciaire_de_la_jeunesse_alpes_vaucluse",
+    "title": "Direction territoriale de la protection judiciaire de la jeunesse - Alpes-Vaucluse",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/vaucluse/ddpjj-84007-01",
+    "metadata": {
+      "email": "dtpjj-avignon@justice.fr",
+      "telephone": "04 32 74 33 80",
+      "url": ""
+    }
+  },
+  {
+    "id": "6486d3c5061d815fcd22b4adf86b8226b5528be8",
+    "name": "direction_territoriale_de_la_protection_judiciaire_de_la_jeunesse_alsace",
+    "title": "Direction territoriale de la protection judiciaire de la jeunesse - Alsace",
+    "url": "https://lannuaire.service-public.fr/grand-est/bas-rhin/ddpjj-67482-01",
+    "metadata": {
+      "email": "dtpjj.strasbourg@justice.fr",
+      "telephone": "03 88 21 51 88",
+      "url": ""
+    }
+  },
+  {
+    "id": "0310f6cabf94b8d9b12ca1ba374ee541b2e1d76d",
+    "name": "direction_territoriale_de_la_protection_judiciaire_de_la_jeunesse_aquitaine_nord",
+    "title": "Direction territoriale de la protection judiciaire de la jeunesse - Aquitaine-Nord",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/gironde/ddpjj-33063-01",
+    "metadata": {
+      "email": "dtpjj-bordeaux@justice.fr",
+      "telephone": "05 57 14 29 30",
+      "url": ""
+    }
+  },
+  {
+    "id": "ed9bebf0223adc8c4e0f821287264ade80fff0f5",
+    "name": "direction_territoriale_de_la_protection_judiciaire_de_la_jeunesse_aquitaine_sud",
+    "title": "Direction territoriale de la protection judiciaire de la jeunesse - Aquitaine-Sud",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/landes/ddpjj-40192-01",
+    "metadata": {
+      "email": "dtpjj-mont-de-marsan@justice.fr",
+      "telephone": "05 58 06 47 15",
+      "url": ""
+    }
+  },
+  {
+    "id": "8caa1c4f138ff6ca372c2301058118c0904561d3",
+    "name": "direction_territoriale_de_la_protection_judiciaire_de_la_jeunesse_aube_et_haute_marne",
+    "title": "Direction territoriale de la protection judiciaire de la jeunesse - Aube et Haute-Marne",
+    "url": "https://lannuaire.service-public.fr/grand-est/aube/ddpjj-10387-01",
+    "metadata": {
+      "email": "dtpjj-troyes@justice.fr",
+      "telephone": "03 25 80 71 25",
+      "url": ""
+    }
+  },
+  {
+    "id": "1289f2614af9226344fe335662159ac7e7e5e8ea",
+    "name": "direction_territoriale_de_la_protection_judiciaire_de_la_jeunesse_auvergne",
+    "title": "Direction territoriale de la protection judiciaire de la jeunesse - Auvergne",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/puy-de-dome/ddpjj-63113-01",
+    "metadata": {
+      "email": "dtpjj-clermont-ferrand@justice.fr",
+      "telephone": "04 73 93 86 58",
+      "url": ""
+    }
+  },
+  {
+    "id": "42158da2c52091e870f9d8ceedb7e17c590eeaea",
+    "name": "direction_territoriale_de_la_protection_judiciaire_de_la_jeunesse_bouches_du_rhone",
+    "title": "Direction territoriale de la protection judiciaire de la jeunesse - Bouches-du-Rhône",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/ddpjj-13201-01",
+    "metadata": {
+      "email": "dtpjj-marseille@justice.fr",
+      "telephone": "04 96 11 07 37",
+      "url": ""
+    }
+  },
+  {
+    "id": "77117abb78a8e3f92fb2989e2e8d5a2e2be3a910",
+    "name": "direction_territoriale_de_la_protection_judiciaire_de_la_jeunesse_calvados_manche_orne",
+    "title": "Direction territoriale de la protection judiciaire de la jeunesse - Calvados-Manche-Orne",
+    "url": "https://lannuaire.service-public.fr/normandie/calvados/ddpjj-14118-01",
+    "metadata": {
+      "email": "dtpjj-caen@justice.fr",
+      "telephone": "02 31 72 67 65",
+      "url": ""
+    }
+  },
+  {
+    "id": "51339270ccae6ebcfee0f97d3d509ccc0fd8fe0d",
+    "name": "direction_territoriale_de_la_protection_judiciaire_de_la_jeunesse_centre_orleans",
+    "title": "Direction territoriale de la protection judiciaire de la jeunesse - Centre-Orléans",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/loiret/ddpjj-45234-01",
+    "metadata": {
+      "email": "dtpjj-orleans@justice.fr",
+      "telephone": "02 38 62 22 99",
+      "url": ""
+    }
+  },
+  {
+    "id": "a1c5522d69a5561e9101a95054f4c57ea51e0001",
+    "name": "direction_territoriale_de_la_protection_judiciaire_de_la_jeunesse_corse",
+    "title": "Direction territoriale de la protection judiciaire de la jeunesse - Corse",
+    "url": "https://lannuaire.service-public.fr/corse/corse-du-sud/ddpjj-2A004-01",
+    "metadata": {
+      "email": "dtpjj-ajaccio@justice.fr",
+      "telephone": "04 95 50 01 01",
+      "url": ""
+    }
+  },
+  {
+    "id": "a1f485801ec40f493dc0a44ddc248328da321ad1",
+    "name": "direction_territoriale_de_la_protection_judiciaire_de_la_jeunesse_drome_et_ardeche",
+    "title": "Direction territoriale de la protection judiciaire de la jeunesse - Drôme et Ardèche",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/drome/ddpjj-26362-01",
+    "metadata": {
+      "email": "dtpjj-valence@justice.fr",
+      "telephone": "04 75 56 87 46",
+      "url": ""
+    }
+  },
+  {
+    "id": "d81fd642e58096c64d7bfd3cc4112cdc92674c6e",
+    "name": "direction_territoriale_de_la_protection_judiciaire_de_la_jeunesse_essonne",
+    "title": "Direction territoriale de la protection judiciaire de la jeunesse - Essonne",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/essonne/ddpjj-91216-01",
+    "metadata": {
+      "email": "dtpjj-epinay-sur-orge@justice.fr",
+      "telephone": "01 69 10 24 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "c43c6d71d85db9941f5275a40645236ecc1ecf2e",
+    "name": "direction_territoriale_de_la_protection_judiciaire_de_la_jeunesse_finistere_et_morbihan",
+    "title": "Direction territoriale de la protection judiciaire de la jeunesse - Finistère et Morbihan",
+    "url": "https://lannuaire.service-public.fr/bretagne/finistere/ddpjj-29232-01",
+    "metadata": {
+      "email": "dtpjj-quimper@justice.fr",
+      "telephone": "02 98 52 24 60",
+      "url": ""
+    }
+  },
+  {
+    "id": "605cef60d4c8d43a59e76096c22acf7e6400998f",
+    "name": "direction_territoriale_de_la_protection_judiciaire_de_la_jeunesse_gard_et_lozere",
+    "title": "Direction territoriale de la protection judiciaire de la jeunesse - Gard et Lozère",
+    "url": "https://lannuaire.service-public.fr/occitanie/gard/ddpjj-30189-01",
+    "metadata": {
+      "email": "dtpjj-nimes@justice.fr",
+      "telephone": "04 66 68 01 40",
+      "url": ""
+    }
+  },
+  {
+    "id": "79bea89f32b9658ec7025d524525951fd3f001b3",
+    "name": "direction_territoriale_de_la_protection_judiciaire_de_la_jeunesse_guadeloupe",
+    "title": "Direction territoriale de la protection judiciaire de la jeunesse - Guadeloupe",
+    "url": "https://lannuaire.service-public.fr/guadeloupe/guadeloupe/ddpjj-97101-01",
+    "metadata": {
+      "email": "ddpjj-pointe-a-pitre@justice.fr",
+      "telephone": "+590 5 90 21 18 42",
+      "url": ""
+    }
+  },
+  {
+    "id": "6a7284d40b2cddb0a63858f8e25443d94ffacdab",
+    "name": "direction_territoriale_de_la_protection_judiciaire_de_la_jeunesse_guyane",
+    "title": "Direction territoriale de la protection judiciaire de la jeunesse - Guyane",
+    "url": "https://lannuaire.service-public.fr/guyane/guyane/ddpjj-97302-01",
+    "metadata": {
+      "email": "dtpjj-cayenne@justice.fr",
+      "telephone": "+594 5 94 28 73 10",
+      "url": ""
+    }
+  },
+  {
+    "id": "681d992d98e6447557e0d1033d5f806bf1f7478e",
+    "name": "direction_territoriale_de_la_protection_judiciaire_de_la_jeunesse_haute_garonne_ariege_et_hautes_pyrenees",
+    "title": "Direction territoriale de la protection judiciaire de la jeunesse - Haute-Garonne, Ariège et Hautes-Pyrénées",
+    "url": "https://lannuaire.service-public.fr/occitanie/haute-garonne/ddpjj-31254-01",
+    "metadata": {
+      "email": "dtpjj-toulouse@justice.fr",
+      "telephone": "05 82 74 14 89",
+      "url": ""
+    }
+  },
+  {
+    "id": "1fec0d5d10bde69de45130989d3c940a364e6e84",
+    "name": "direction_territoriale_de_la_protection_judiciaire_de_la_jeunesse_hauts_de_seine",
+    "title": "Direction territoriale de la protection judiciaire de la jeunesse - Hauts-de-Seine",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/hauts-de-seine/ddpjj-92035-01",
+    "metadata": {
+      "email": "dtpjj-la-garenne-colombes@justice.fr",
+      "telephone": "01 41 19 74 80",
+      "url": ""
+    }
+  },
+  {
+    "id": "f98d235b8b8117c18a96b0281f3c61f51d59524e",
+    "name": "direction_territoriale_de_la_protection_judiciaire_de_la_jeunesse_herault",
+    "title": "Direction territoriale de la protection judiciaire de la jeunesse - Hérault",
+    "url": "https://lannuaire.service-public.fr/occitanie/herault/ddpjj-34172-01",
+    "metadata": {
+      "email": "dtpjj-montpellier@justice.fr",
+      "telephone": "04 34 22 25 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "2fef462b15503fe86ca9aad4341f21e2fe619caa",
+    "name": "direction_territoriale_de_la_protection_judiciaire_de_la_jeunesse_ille_et_vilaine_et_cotes_d_armor",
+    "title": "Direction territoriale de la protection judiciaire de la jeunesse - Ille-et-Vilaine et Côtes-d'Armor",
+    "url": "https://lannuaire.service-public.fr/bretagne/ille-et-vilaine/ddpjj-35238-01",
+    "metadata": {
+      "email": "dtpjj-rennes@justice.fr",
+      "telephone": "02 99 31 36 37",
+      "url": ""
+    }
+  },
+  {
+    "id": "b927c8a14acae8bc73ef8061b2c83d1137e19583",
+    "name": "direction_territoriale_de_la_protection_judiciaire_de_la_jeunesse_isere",
+    "title": "Direction territoriale de la protection judiciaire de la jeunesse - Isère",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/isere/ddpjj-38185-01",
+    "metadata": {
+      "email": "dtpjj-grenoble@justice.fr",
+      "telephone": "04 76 12 14 44",
+      "url": ""
+    }
+  },
+  {
+    "id": "104c3ca9291bcb3cf68086a323c87500c89be2c1",
+    "name": "direction_territoriale_de_la_protection_judiciaire_de_la_jeunesse_les_savoie",
+    "title": "Direction territoriale de la protection judiciaire de la jeunesse - Les Savoie",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/haute-savoie/ddpjj-74010-01",
+    "metadata": {
+      "email": "dtpjj-annecy@justice.fr",
+      "telephone": "04 50 45 35 21",
+      "url": ""
+    }
+  },
+  {
+    "id": "8ef452a0b989cb1749b11b265eedc9273078f196",
+    "name": "direction_territoriale_de_la_protection_judiciaire_de_la_jeunesse_limousin",
+    "title": "Direction territoriale de la protection judiciaire de la jeunesse - Limousin",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/haute-vienne/ddpjj-87085-01",
+    "metadata": {
+      "email": "dtpjj-limoges@justice.gouv.fr",
+      "telephone": "05 55 12 15 60",
+      "url": ""
+    }
+  },
+  {
+    "id": "426764f3ba524d810eeeef62f80eea35ffead912",
+    "name": "direction_territoriale_de_la_protection_judiciaire_de_la_jeunesse_loire",
+    "title": "Direction territoriale de la protection judiciaire de la jeunesse - Loire",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/loire/ddpjj-42218-01",
+    "metadata": {
+      "email": "dtpjj-saint-etienne@justice.fr",
+      "telephone": "04 77 49 22 60",
+      "url": ""
+    }
+  },
+  {
+    "id": "44b8f9cee8911a1bf765bfd1ba3b8b9b2af11aff",
+    "name": "direction_territoriale_de_la_protection_judiciaire_de_la_jeunesse_loire_atlantique_et_vendee",
+    "title": "Direction territoriale de la protection judiciaire de la jeunesse - Loire-Atlantique et Vendée",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/loire-atlantique/ddpjj-44109-01",
+    "metadata": {
+      "email": "dtpjj-nantes@justice.fr",
+      "telephone": "02 40 14 59 59",
+      "url": ""
+    }
+  },
+  {
+    "id": "b988b88bd465b776ced9acb015e84a3912eeb7b3",
+    "name": "direction_territoriale_de_la_protection_judiciaire_de_la_jeunesse_maine_et_loire_sarthe_et_mayenne",
+    "title": "Direction territoriale de la protection judiciaire de la jeunesse - Maine-et-Loire, Sarthe et Mayenne",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/maine-et-loire/ddpjj-49007-01",
+    "metadata": {
+      "email": "dtpjj-angers@justice.fr",
+      "telephone": "02 41 86 86 07",
+      "url": ""
+    }
+  },
+  {
+    "id": "86195a4d419de0415813aa1f4715fb3efd7158b9",
+    "name": "direction_territoriale_de_la_protection_judiciaire_de_la_jeunesse_marne_et_ardennes",
+    "title": "Direction territoriale de la protection judiciaire de la jeunesse - Marne et Ardennes",
+    "url": "https://lannuaire.service-public.fr/grand-est/marne/ddpjj-51454-01",
+    "metadata": {
+      "email": "dtpjj-reims@justice.fr",
+      "telephone": "03 26 77 10 80",
+      "url": ""
+    }
+  },
+  {
+    "id": "3df05ac793b88fd5cba0d2935ef23a24aabf8737",
+    "name": "direction_territoriale_de_la_protection_judiciaire_de_la_jeunesse_martinique",
+    "title": "Direction territoriale de la protection judiciaire de la jeunesse - Martinique",
+    "url": "https://lannuaire.service-public.fr/martinique/martinique/ddpjj-97209-01",
+    "metadata": {
+      "email": "dtpjj-fort-de-france@justice.fr",
+      "telephone": "+596 5 96 70 75 30",
+      "url": ""
+    }
+  },
+  {
+    "id": "6c906644e553e6290cceeefd4b98a3e0ea463252",
+    "name": "direction_territoriale_de_la_protection_judiciaire_de_la_jeunesse_mayotte",
+    "title": "Direction territoriale de la protection judiciaire de la jeunesse - Mayotte",
+    "url": "https://lannuaire.service-public.fr/mayotte/mayotte/ddpjj-97611-01",
+    "metadata": {
+      "email": "dtpjj-mamoudzou@justice.fr",
+      "telephone": "+269 2 69 61 08 18",
+      "url": ""
+    }
+  },
+  {
+    "id": "7b0cb310d0616fb1f99327d691de118e46017404",
+    "name": "direction_territoriale_de_la_protection_judiciaire_de_la_jeunesse_meurthe_et_moselle_meuse_et_vosges",
+    "title": "Direction territoriale de la protection judiciaire de la jeunesse - Meurthe-et-Moselle, Meuse et Vosges",
+    "url": "https://lannuaire.service-public.fr/grand-est/meurthe-et-moselle/ddpjj-54395-01",
+    "metadata": {
+      "email": "dtpjj-nancy@justice.fr",
+      "telephone": "03 83 35 11 40",
+      "url": ""
+    }
+  },
+  {
+    "id": "d646aa2adc6bca9f6e556dd4a743f3a3849e2886",
+    "name": "direction_territoriale_de_la_protection_judiciaire_de_la_jeunesse_moselle",
+    "title": "Direction territoriale de la protection judiciaire de la jeunesse - Moselle",
+    "url": "https://lannuaire.service-public.fr/grand-est/moselle/ddpjj-57480-01",
+    "metadata": {
+      "email": "dtpjj-metz@justice.fr",
+      "telephone": "03 87 63 10 64",
+      "url": ""
+    }
+  },
+  {
+    "id": "fa0f31764dc3135f427af0803248f4b3a8a86aae",
+    "name": "direction_territoriale_de_la_protection_judiciaire_de_la_jeunesse_nord",
+    "title": "Direction territoriale de la protection judiciaire de la jeunesse - Nord",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/nord/ddpjj-59350-01",
+    "metadata": {
+      "email": "dtpjj-lille@justice.fr",
+      "telephone": "03 20 57 56 67",
+      "url": ""
+    }
+  },
+  {
+    "id": "62ce46f2f23f229318d78692ce87b0a48362eb55",
+    "name": "direction_territoriale_de_la_protection_judiciaire_de_la_jeunesse_oise",
+    "title": "Direction territoriale de la protection judiciaire de la jeunesse - Oise",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/oise/ddpjj-60057-01",
+    "metadata": {
+      "email": "dtpjj-beauvais@justice.fr",
+      "telephone": "03 44 45 41 66",
+      "url": ""
+    }
+  },
+  {
+    "id": "c9697a8b190b922cb61300a8ad2c4ce0703b3424",
+    "name": "direction_territoriale_de_la_protection_judiciaire_de_la_jeunesse_paris",
+    "title": "Direction territoriale de la protection judiciaire de la jeunesse - Paris",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/paris/ddpjj-75118-01",
+    "metadata": {
+      "email": "dtpjj-paris@justice.fr",
+      "telephone": "01 53 09 98 30",
+      "url": ""
+    }
+  },
+  {
+    "id": "9cd29c57d39af2d3756b726130ab19b6d13443f1",
+    "name": "direction_territoriale_de_la_protection_judiciaire_de_la_jeunesse_pas_de_calais",
+    "title": "Direction territoriale de la protection judiciaire de la jeunesse - Pas-de-Calais",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/pas-de-calais/ddpjj-62041-01",
+    "metadata": {
+      "email": "dtpjj-arras@justice.fr",
+      "telephone": "03 21 21 29 70",
+      "url": ""
+    }
+  },
+  {
+    "id": "f3b55301b9e35a54a92a1b6487d91d85313ffbad",
+    "name": "direction_territoriale_de_la_protection_judiciaire_de_la_jeunesse_polynesie_francaise",
+    "title": "Direction territoriale de la protection judiciaire de la jeunesse - Polynésie française",
+    "url": "https://lannuaire.service-public.fr/collectivites-d-outre-mer/polynesie-francaise/ddpjj-98735-01",
+    "metadata": {
+      "email": "ddpjj-papeete@justice.fr",
+      "telephone": "+689 40 50 05 20",
+      "url": ""
+    }
+  },
+  {
+    "id": "fab748ba8d13834fb7ec4c3e0c0e7e1d2ea30fe1",
+    "name": "direction_territoriale_de_la_protection_judiciaire_de_la_jeunesse_pyrenees_orientales_et_aude",
+    "title": "Direction territoriale de la protection judiciaire de la jeunesse - Pyrénées-Orientales et Aude",
+    "url": "https://lannuaire.service-public.fr/occitanie/pyrenees-orientales/ddpjj-66136-01",
+    "metadata": {
+      "email": "ddpjj-carcassonne@justice.fr",
+      "telephone": "04 68 35 77 60",
+      "url": ""
+    }
+  },
+  {
+    "id": "4ea4de1cc20e9cb95226e29f987e2b96c9e2b71c",
+    "name": "direction_territoriale_de_la_protection_judiciaire_de_la_jeunesse_reunion",
+    "title": "Direction territoriale de la protection judiciaire de la jeunesse - Réunion",
+    "url": "https://lannuaire.service-public.fr/la-reunion/reunion/ddpjj-97411-01",
+    "metadata": {
+      "email": "ddpjj-st-denis-de-la-reunion@justice.fr",
+      "telephone": "+262 2 62 90 96 70",
+      "url": ""
+    }
+  },
+  {
+    "id": "5a4571bb2dda4b67f62ad1f15940d15f697d7021",
+    "name": "direction_territoriale_de_la_protection_judiciaire_de_la_jeunesse_rhone_ain_metropole_de_lyon",
+    "title": "Direction territoriale de la protection judiciaire de la jeunesse - Rhône-Ain-métropole de Lyon",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/rhone/ddpjj-69383-01",
+    "metadata": {
+      "email": "dtpjj-lyon@justice.fr",
+      "telephone": "04 72 84 95 95",
+      "url": ""
+    }
+  },
+  {
+    "id": "24a98ffb13fdad8e4ecdc38f17b8e731c4be7897",
+    "name": "direction_territoriale_de_la_protection_judiciaire_de_la_jeunesse_seine_et_marne",
+    "title": "Direction territoriale de la protection judiciaire de la jeunesse - Seine-et-Marne",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/seine-et-marne/ddpjj-77288-01",
+    "metadata": {
+      "email": "dtpjj-melun@justice.fr",
+      "telephone": "01 64 10 42 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "012ca41655018c80f63870bf340ffcf3b7f16abb",
+    "name": "direction_territoriale_de_la_protection_judiciaire_de_la_jeunesse_seine_maritime_eure",
+    "title": "Direction territoriale de la protection judiciaire de la jeunesse - Seine-Maritime - Eure",
+    "url": "https://lannuaire.service-public.fr/normandie/seine-maritime/ddpjj-76540-01",
+    "metadata": {
+      "email": "dtpjj-rouen@justice.fr",
+      "telephone": "02 32 08 30 90",
+      "url": ""
+    }
+  },
+  {
+    "id": "c52b5b10a903f8dff297432b11fbd715029ff6f3",
+    "name": "direction_territoriale_de_la_protection_judiciaire_de_la_jeunesse_seine_saint_denis",
+    "title": "Direction territoriale de la protection judiciaire de la jeunesse - Seine-Saint-Denis",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/seine-saint-denis/ddpjj-93055-01",
+    "metadata": {
+      "email": "dtpjj-pantin@justice.fr",
+      "telephone": "01 48 10 85 85",
+      "url": ""
+    }
+  },
+  {
+    "id": "776cdef7007669a39403572e393e90a3d89e59d6",
+    "name": "direction_territoriale_de_la_protection_judiciaire_de_la_jeunesse_somme_et_aisne",
+    "title": "Direction territoriale de la protection judiciaire de la jeunesse - Somme et Aisne",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/somme/ddpjj-80021-01",
+    "metadata": {
+      "email": "dtpjj-amiens@justice.fr",
+      "telephone": "03 22 80 54 55",
+      "url": ""
+    }
+  },
+  {
+    "id": "bf8c6023cec6a332f797e64ab1d992c2efe4195e",
+    "name": "direction_territoriale_de_la_protection_judiciaire_de_la_jeunesse_tarn_et_aveyron",
+    "title": "Direction territoriale de la protection judiciaire de la jeunesse - Tarn et Aveyron",
+    "url": "https://lannuaire.service-public.fr/occitanie/tarn/ddpjj-81004-01",
+    "metadata": {
+      "email": "dtpjj-albi@justice.fr",
+      "telephone": "05 63 36 19 60",
+      "url": ""
+    }
+  },
+  {
+    "id": "7c4c3c7d1cca92d0824848e0444e8ebf49bfe86c",
+    "name": "direction_territoriale_de_la_protection_judiciaire_de_la_jeunesse_tarn_et_garonne_lot_et_gers",
+    "title": "Direction territoriale de la protection judiciaire de la jeunesse - Tarn-et-Garonne, Lot et Gers",
+    "url": "https://lannuaire.service-public.fr/occitanie/tarn-et-garonne/ddpjj-82121-01",
+    "metadata": {
+      "email": "dtpjj-montauban@justice.fr",
+      "telephone": "05 36 25 51 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "d0177fe346a149e15e103a1e014d20cea5edb0c5",
+    "name": "direction_territoriale_de_la_protection_judiciaire_de_la_jeunesse_touraine_berry",
+    "title": "Direction territoriale de la protection judiciaire de la jeunesse - Touraine-Berry",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/indre-et-loire/ddpjj-37261-01",
+    "metadata": {
+      "email": "dtpjj-tours@justice.fr",
+      "telephone": "02 47 20 95 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "827e1db47b9208b2464e9e2e79ab0c7b17f8b60e",
+    "name": "direction_territoriale_de_la_protection_judiciaire_de_la_jeunesse_val_d_oise",
+    "title": "Direction territoriale de la protection judiciaire de la jeunesse - Val-d'Oise",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/val-d-oise/ddpjj-95127-01",
+    "metadata": {
+      "email": "dtpjj-cergy-pontoise@justice.fr",
+      "telephone": "01 34 30 28 28",
+      "url": ""
+    }
+  },
+  {
+    "id": "accf9763a6992346b2527ddebcb5852bbf545154",
+    "name": "direction_territoriale_de_la_protection_judiciaire_de_la_jeunesse_val_de_marne",
+    "title": "Direction territoriale de la protection judiciaire de la jeunesse - Val-de-Marne",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/val-de-marne/ddpjj-94028-01",
+    "metadata": {
+      "email": "dtpjj-creteil@justice.fr",
+      "telephone": "01 48 99 94 93",
+      "url": ""
+    }
+  },
+  {
+    "id": "848d0a8784dfdd0f238bb73bc0f336573c2a2a31",
+    "name": "direction_territoriale_de_la_protection_judiciaire_de_la_jeunesse_yonne_et_nievre",
+    "title": "Direction territoriale de la protection judiciaire de la jeunesse - Yonne et Nièvre",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/nievre/ddpjj-89024-01",
+    "metadata": {
+      "email": "dtpjj-auxerre@justice.fr",
+      "telephone": "03 86 72 98 50",
+      "url": ""
+    }
+  },
+  {
+    "id": "6181c08c0d348157a1cbd9cafe42be47e1b28f52",
+    "name": "direction_territoriale_de_la_protection_judiciaire_de_la_jeunesse_yvelines",
+    "title": "Direction territoriale de la protection judiciaire de la jeunesse - Yvelines",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/yvelines/ddpjj-78646-01",
+    "metadata": {
+      "email": "dtpjj-versailles@justice.fr",
+      "telephone": "01 39 02 12 30",
+      "url": ""
+    }
+  }
+]

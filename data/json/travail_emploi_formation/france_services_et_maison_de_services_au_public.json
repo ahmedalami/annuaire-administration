@@ -1,0 +1,1987 @@
+[
+  {
+    "id": "648fc917215c642f392f7d94282b48dcc8ea63f4",
+    "name": "france_services_abbeville",
+    "title": "France Services - Abbeville",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/somme/msap-80001-01",
+    "metadata": {
+      "email": "",
+      "telephone": "09 70 20 07 80",
+      "url": ""
+    }
+  },
+  {
+    "id": "638ad22aff68a8346ccd2d4ba9f7f23d530c8302",
+    "name": "france_services_agde",
+    "title": "France Services - Agde",
+    "url": "https://lannuaire.service-public.fr/occitanie/herault/msap-34003-01",
+    "metadata": {
+      "email": "msap@agglohm.net",
+      "telephone": "04 67 01 24 22",
+      "url": "https://www.maisondeservicesaupublic.fr/content/agglo-herault-mediterranee"
+    }
+  },
+  {
+    "id": "0f54d8a0289adb0bf5cdd083af21e0a9d57285da",
+    "name": "france_services_aigues_mortes",
+    "title": "France Services - Aigues-Mortes",
+    "url": "https://lannuaire.service-public.fr/occitanie/gard/msap-30003-01",
+    "metadata": {
+      "email": "msap30220@ville-aigues-mortes.fr",
+      "telephone": "04 66 53 62 00",
+      "url": "https://www.maisondeservicesaupublic.fr/content/aigues-mortes"
+    }
+  },
+  {
+    "id": "439ebb0c64adc0163a65739a02c69dbe9dafe12a",
+    "name": "france_services_aigurande",
+    "title": "France Services - Aigurande",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/indre/msap-36001-01",
+    "metadata": {
+      "email": "contact@ccmarcheberrichonne.fr",
+      "telephone": "02 54 06 37 33",
+      "url": "https://www.maisondeservicesaupublic.fr/content/marche-berrichonne"
+    }
+  },
+  {
+    "id": "48df5815fc946156a1fbf91161a3ec3b0cdcfe12",
+    "name": "france_services_aire_sur_l_adour",
+    "title": "France Services - Aire-sur-l'Adour",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/landes/msap-40001-01",
+    "metadata": {
+      "email": "msap@ciasairesuradour.fr",
+      "telephone": "05 58 71 61 65",
+      "url": "https://www.maisondeservicesaupublic.fr/content/aire-sur-ladour-saint-louis"
+    }
+  },
+  {
+    "id": "e7e06a074ef96c32aeea0dc3f37f9e43f57cb631",
+    "name": "france_services_airvault",
+    "title": "France Services - Airvault",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/deux-sevres/msap-79005-01",
+    "metadata": {
+      "email": "dgs@airvault.fr",
+      "telephone": "05 49 04 01 06",
+      "url": "http://www.airvault.fr"
+    }
+  },
+  {
+    "id": "54f0bee8e98fec3f50d00643d7c08b3a11b8112a",
+    "name": "france_services_ajaccio",
+    "title": "France Services - Ajaccio",
+    "url": "https://lannuaire.service-public.fr/corse/corse-du-sud/msap-2A004-01",
+    "metadata": {
+      "email": "n.martelli@ville-ajaccio.fr",
+      "telephone": "04 95 10 25 01",
+      "url": "https://www.maisondeservicesaupublic.fr/content/ajaccio-msap-des-jardins-de-lempereur"
+    }
+  },
+  {
+    "id": "a3640896f6a7c668d7f85cb8aa2771a2792611e8",
+    "name": "france_services_alban",
+    "title": "France services - Alban",
+    "url": "https://lannuaire.service-public.fr/occitanie/tarn/msap-81003-01",
+    "metadata": {
+      "email": "accueil@ccmav.fr",
+      "telephone": "05 63 79 26 70",
+      "url": "https://www.maisondeservicesaupublic.fr/content/alban"
+    }
+  },
+  {
+    "id": "54af5db1a527f4a97a9d36a92814e21807419c8b",
+    "name": "france_services_albi",
+    "title": "France Services - Albi",
+    "url": "https://lannuaire.service-public.fr/occitanie/tarn/msap-81004-01",
+    "metadata": {
+      "email": "msap@mairie-albi.fr",
+      "telephone": "05 63 49 15 00",
+      "url": "https://www.maisondeservicesaupublic.fr/content/albi-rive-droite"
+    }
+  },
+  {
+    "id": "5a0af375dbd56dea0cbe47ac584fe9ce0a2ee15c",
+    "name": "france_services_alencon",
+    "title": "France Services - Alençon",
+    "url": "https://lannuaire.service-public.fr/normandie/orne/msap-61001-01",
+    "metadata": {
+      "email": "ilham.elibrahimi@ville-alencon.fr",
+      "telephone": "02 33 29 70 06",
+      "url": "https://www.maisondeservicesaupublic.fr/content/perseigne"
+    }
+  },
+  {
+    "id": "3969f773f44327059b08b555d56dd8467bb718c0",
+    "name": "france_services_altkirch",
+    "title": "France Services - Altkirch",
+    "url": "https://lannuaire.service-public.fr/grand-est/haut-rhin/msap-68004-01",
+    "metadata": {
+      "email": "pref-france-services@haut-rhin.gouv.fr",
+      "telephone": "03 89 29 23 90",
+      "url": "http://www.haut-rhin.gouv.fr"
+    }
+  },
+  {
+    "id": "7ab79baf4921f1a24b8ab210d35e3b46bc8e9cee",
+    "name": "france_services_ambazac",
+    "title": "France Services - Ambazac",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/haute-vienne/msap-87002-01",
+    "metadata": {
+      "email": "ambazac@pimms.org",
+      "telephone": "05 55 57 05 30",
+      "url": "https://www.maisondeservicesaupublic.fr/content/pimms-ambazac"
+    }
+  },
+  {
+    "id": "2921e24e121cd608d07cdb80bf130ac57435fb26",
+    "name": "france_services_amberieu_en_bugey",
+    "title": "France Services - Ambérieu-en-Bugey",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/ain/msap-01004-01",
+    "metadata": {
+      "email": "https://www.ville-amberieuenbugey.fr/Contact.html",
+      "telephone": "04 74 35 30 97",
+      "url": "https://www.ville-amberieuenbugey.fr/Pole-de-services-Agora.html"
+    }
+  },
+  {
+    "id": "661dda8d1603547793c9007dc9f4a10f05a9d7f7",
+    "name": "france_services_ambrieres_les_vallees",
+    "title": "France Services - Ambrières-les-Vallées",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/mayenne/msap-53003-01",
+    "metadata": {
+      "email": "directiontechnique@bocagemayennais.fr",
+      "telephone": "02 43 08 01 79",
+      "url": "https://www.maisondeservicesaupublic.fr/content/ambrieres-les-vallees"
+    }
+  },
+  {
+    "id": "723761f6ef18a9704692648f233f6b6e859c12eb",
+    "name": "france_services_amiens_etouvie",
+    "title": "France Services - Amiens Etouvie",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/somme/msap-80021-03",
+    "metadata": {
+      "email": "msapamiensetouvie@amiens-metropole.com",
+      "telephone": "03 22 97 15 82",
+      "url": "https://www.maisondeservicesaupublic.fr/content/amiens-etouvie"
+    }
+  },
+  {
+    "id": "ff5f70ce0c887867941322f2248707422fe1fa9e",
+    "name": "france_services_amiens_nord",
+    "title": "France Services - Amiens Nord",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/somme/msap-80021-02",
+    "metadata": {
+      "email": "msapamiensnord@amiens-metropole.com",
+      "telephone": "03 22 66 10 28",
+      "url": "https://www.maisondeservicesaupublic.fr/content/amiens-nord"
+    }
+  },
+  {
+    "id": "d6151fee412f64a74c15733d607e3887a4780037",
+    "name": "france_services_amplepuis",
+    "title": "France Services - Amplepuis",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/rhone/msap-69006-01",
+    "metadata": {
+      "email": "amplepuis@pimms.org",
+      "telephone": "04 74 63 25 94",
+      "url": "https://www.maisondeservicesaupublic.fr/content/pimms-amplepuis"
+    }
+  },
+  {
+    "id": "2824790613c910af7e58f7018cf0f19df61fa42a",
+    "name": "france_services_angerville",
+    "title": "France Services - Angerville",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/essonne/msap-91016-01",
+    "metadata": {
+      "email": "msap@mairie-angerville.fr",
+      "telephone": "01 69 94 93 02",
+      "url": "https://www.maisondeservicesaupublic.fr/content/espace-simone-veil-angerville"
+    }
+  },
+  {
+    "id": "958db08ea345fd11ae148d36f492d3b5593fc0e9",
+    "name": "france_services_anor",
+    "title": "France Services - Anor",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/nord/msap-59012-01",
+    "metadata": {
+      "email": "msap.anor@laposte.fr",
+      "telephone": "",
+      "url": "https://www.maisondeservicesaupublic.fr/content/anor-bureau-de-poste"
+    }
+  },
+  {
+    "id": "221a0b951ec9ba3ea6252c185d4193ea6d43567f",
+    "name": "france_services_antony",
+    "title": "France Services - Antony",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/hauts-de-seine/msap-92002-01",
+    "metadata": {
+      "email": "pimmsantony@orange.fr",
+      "telephone": "01 55 59 00 94",
+      "url": "https://www.maisondeservicesaupublic.fr/content/pimms-antony"
+    }
+  },
+  {
+    "id": "e19a07fa71e320884b34ab475ab82c8553b2cb2d",
+    "name": "france_services_apt",
+    "title": "France Services - Apt",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/vaucluse/msap-84003-01",
+    "metadata": {
+      "email": "cosette.simon@paysapt-luberon.fr",
+      "telephone": "04 90 04 04 29",
+      "url": ""
+    }
+  },
+  {
+    "id": "f5b38f6c107d2ee58e95ecb30bfcdd004f145974",
+    "name": "france_services_arbois",
+    "title": "France Services - Arbois",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/jura/msap-39013-01",
+    "metadata": {
+      "email": "msap.arbois@agate-paysages.fr",
+      "telephone": "03 84 73 20 49",
+      "url": "https://www.maisondeservicesaupublic.fr/content/maison-de-services-au-public-darbois"
+    }
+  },
+  {
+    "id": "ae803e08f8cc9291a54bf7f979cc14c18d107c8a",
+    "name": "france_services_argences_en_aubrac",
+    "title": "France Services - Argences en Aubrac",
+    "url": "https://lannuaire.service-public.fr/occitanie/aveyron/msap-12223-01",
+    "metadata": {
+      "email": "contact@argencesenaubrac.fr",
+      "telephone": "",
+      "url": "https://www.maisondeservicesaupublic.fr/content/sainte-genevieve-sur-argence-bureau-de-poste"
+    }
+  },
+  {
+    "id": "0ff6aef4e08c2c2c91f152c548a04e4bf4d8fa4d",
+    "name": "france_services_argentonnay",
+    "title": "France Services - Argentonnay",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/deux-sevres/msap-79013-01",
+    "metadata": {
+      "email": "msap@argentonnay.fr",
+      "telephone": "05 86 30 50 57",
+      "url": "https://www.maisondeservicesaupublic.fr/content/argentonnay"
+    }
+  },
+  {
+    "id": "bd76be45722e9dfdaa184e81bfd6358ea0da74bf",
+    "name": "france_services_arles_sur_tech",
+    "title": "France Services - Arles-sur-Tech",
+    "url": "https://lannuaire.service-public.fr/occitanie/pyrenees-orientales/msap-66009-01",
+    "metadata": {
+      "email": "mfs@haut-vallespir.fr",
+      "telephone": "04 48 07 20 85",
+      "url": "https://www.maisondeservicesaupublic.fr/content/arles-sur-tech"
+    }
+  },
+  {
+    "id": "c4a4e54c8e690ef92fe3475d74dc21f332fccc2b",
+    "name": "france_services_arnay_le_duc",
+    "title": "France Services - Arnay-le-Duc",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/cote-d-or/msap-21023-01",
+    "metadata": {
+      "email": "msap@csarnayleduc.fr",
+      "telephone": "03 80 90 17 55",
+      "url": "https://www.maisondeservicesaupublic.fr/content/arnay-le-duc"
+    }
+  },
+  {
+    "id": "1d532d2d614eab51e3202f7ae910683adc0d958f",
+    "name": "france_services_arpajon",
+    "title": "France Services - Arpajon",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/essonne/msap-91021-01",
+    "metadata": {
+      "email": "msap@coeuressonne.fr",
+      "telephone": "01 69 78 09 19",
+      "url": "https://www.maisondeservicesaupublic.fr/content/coeur-essonne-agglomeration"
+    }
+  },
+  {
+    "id": "5c0fec03dd5124388f651c05d881f356e9c783fc",
+    "name": "france_services_arvieu",
+    "title": "France Services - Arvieu",
+    "url": "https://lannuaire.service-public.fr/occitanie/aveyron/msap-12011-01",
+    "metadata": {
+      "email": "msap@arvieu.fr",
+      "telephone": "05 65 46 06 06",
+      "url": "https://www.maisondeservicesaupublic.fr/content/arvieu"
+    }
+  },
+  {
+    "id": "0f781df68c678e4aeb13a948cbd8d7b48758ca94",
+    "name": "france_services_athis_mons",
+    "title": "France Services - Athis-Mons",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/essonne/msap-91027-01",
+    "metadata": {
+      "email": "",
+      "telephone": "01 69 57 83 00",
+      "url": "http://www.mairie-athis-mons.fr/annuaire/structure_143.htm"
+    }
+  },
+  {
+    "id": "16b5159b305f8db8b46e1d98c38fa72f4a07d3a4",
+    "name": "france_services_attigny",
+    "title": "France Services - Attigny",
+    "url": "https://lannuaire.service-public.fr/grand-est/ardennes/msap-08025-01",
+    "metadata": {
+      "email": "msap.attigny@laposte.fr",
+      "telephone": "03 24 30 26 71",
+      "url": "https://www.maisondeservicesaupublic.fr/content/attigny-bureau-de-poste"
+    }
+  },
+  {
+    "id": "af248bebd5248f78d7be9a2a4f65d32ce41a0dc0",
+    "name": "france_services_aubigny_sur_nere",
+    "title": "France Services - Aubigny-sur-Nère",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/cher/msap-18015-01",
+    "metadata": {
+      "email": "msap@aubigny-sur-nere.fr",
+      "telephone": "02 48 58 44 02",
+      "url": "https://www.maisondeservicesaupublic.fr/content/aubigny-sur-nere"
+    }
+  },
+  {
+    "id": "f15f1e6a873aa73783859c837580a60ded8a9dc4",
+    "name": "france_services_aups",
+    "title": "France Services - Aups",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/var/msap-83007-01",
+    "metadata": {
+      "email": "msap.aups@orange.fr",
+      "telephone": "04 98 10 29 43",
+      "url": "https://www.maisondeservicesaupublic.fr/content/aups"
+    }
+  },
+  {
+    "id": "ed3252fc1a157dfaf77b7140f3951a6a05f6f8d5",
+    "name": "france_services_aurillac",
+    "title": "France Services - Aurillac",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/cantal/msap-15014-01",
+    "metadata": {
+      "email": "ccellarier@cantal.fr",
+      "telephone": "04 71 46 22 38",
+      "url": ""
+    }
+  },
+  {
+    "id": "e5d9d16fcfc702fae3c3895532d82a51dcc0dbd4",
+    "name": "france_services_auterive",
+    "title": "France Services - Auterive",
+    "url": "https://lannuaire.service-public.fr/occitanie/haute-garonne/msap-31033-01",
+    "metadata": {
+      "email": "guichetunique@ccba31.fr",
+      "telephone": "05 61 50 99 00",
+      "url": "https://www.cc-bassinauterivain.fr"
+    }
+  },
+  {
+    "id": "83005733f1a26b2530f84ec2bce5367dce39b047",
+    "name": "france_services_authon_du_perche",
+    "title": "France Services - Authon-du-Perche",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/eure-et-loir/msap-28018-01",
+    "metadata": {
+      "email": "msap.authon28@orange.fr",
+      "telephone": "02 37 49 59 67",
+      "url": "https://www.maisondeservicesaupublic.fr/content/authon-du-perche"
+    }
+  },
+  {
+    "id": "b56cd1055ae89a2daaee6b4c76b505fab94a2a80",
+    "name": "france_services_ax_les_thermes",
+    "title": "France Services - Ax-les-Thermes",
+    "url": "https://lannuaire.service-public.fr/occitanie/ariege/msap-09032-01",
+    "metadata": {
+      "email": "msap.ax-les-thermes@laposte.fr",
+      "telephone": "",
+      "url": "https://www.maisondeservicesaupublic.fr/content/ax-les-thermes-bureau-de-poste"
+    }
+  },
+  {
+    "id": "724b1a88b5093e25bcd622455f7e7f99d763c2bd",
+    "name": "france_services_ayen",
+    "title": "France Services - Ayen",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/correze/msap-19015-01",
+    "metadata": {
+      "email": "rsp.mairieayen@orange.fr",
+      "telephone": "05 55 25 76 12",
+      "url": "https://www.maisondeservicesaupublic.fr/content/ayen"
+    }
+  },
+  {
+    "id": "a4391478cb2bb7001d6089fcacaa26a75c015a6e",
+    "name": "france_services_bacqueville_en_caux",
+    "title": "France Services - Bacqueville-en-Caux",
+    "url": "https://lannuaire.service-public.fr/normandie/seine-maritime/msap-76051-01",
+    "metadata": {
+      "email": "maisonfranceservices@terroirdecaux.net",
+      "telephone": "02 27 28 07 64",
+      "url": "http://www.terroirdecaux.fr"
+    }
+  },
+  {
+    "id": "2037ff1879e4a8a41e26a0bf2d35efcc762ba43d",
+    "name": "france_services_bagneres_de_bigorre",
+    "title": "France Services - Bagnères-de-Bigorre",
+    "url": "https://lannuaire.service-public.fr/occitanie/hautes-pyrenees/msap-65059-01",
+    "metadata": {
+      "email": "msap@haute-bigorre.fr",
+      "telephone": "05 62 90 42 02",
+      "url": "https://www.maisondeservicesaupublic.fr/content/bagneres-de-bigorre"
+    }
+  },
+  {
+    "id": "700f19d32952d71d942b87320d5d4f13501bf892",
+    "name": "france_services_ballancourt_sur_essonne",
+    "title": "France Services - Ballancourt-sur-Essonne",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/essonne/msap-91045-01",
+    "metadata": {
+      "email": "msap@ccvalessonne.com",
+      "telephone": "01 64 93 76 61",
+      "url": "https://www.maisondeservicesaupublic.fr/content/val-dessonne"
+    }
+  },
+  {
+    "id": "8392f7401d414cf31b00e5ca52591696bec3c5fe",
+    "name": "france_services_banon",
+    "title": "France Services - Banon",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/alpes-de-haute-provence/msap-04018-01",
+    "metadata": {
+      "email": "msap.banon@laposte.fr",
+      "telephone": "",
+      "url": "https://www.maisondeservicesaupublic.fr/content/banon-bureau-de-poste"
+    }
+  },
+  {
+    "id": "1527ba14ee81d44de63457db37210aba13801211",
+    "name": "france_services_banyuls_sur_mer",
+    "title": "France Services - Banyuls-sur-Mer",
+    "url": "https://lannuaire.service-public.fr/occitanie/pyrenees-orientales/msap-66016-01",
+    "metadata": {
+      "email": "ccas.banyuls@banyuls-sur-mer.com",
+      "telephone": "04 68 88 78 13",
+      "url": "https://www.maisondeservicesaupublic.fr/content/banyuls-sur-mer"
+    }
+  },
+  {
+    "id": "d7a74c4f5e77c4b379eaff43959fd89b5d9821c2",
+    "name": "france_services_barbezieux_saint_hilaire",
+    "title": "France Services - Barbezieux-Saint-Hilaire",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/charente/msap-16028-01",
+    "metadata": {
+      "email": "msapbarbezieux@gmail.com",
+      "telephone": "05 45 98 93 60",
+      "url": "https://www.maisondeservicesaupublic.fr/content/maison-communautaire-pour-lemploi-barbezieux-saint-hilaire-et-ses-antennes-baignes-brossac"
+    }
+  },
+  {
+    "id": "751db97dea1a775527d6e128de3f8cd674417eca",
+    "alternateName": "Ubaye Serre-Ponçon",
+    "name": "france_services_barcelonnette_ubaye_serre_poncon",
+    "title": "France Services - Barcelonnette (Ubaye Serre-Ponçon)",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/alpes-de-haute-provence/msap-04019-01",
+    "metadata": {
+      "email": "msap@ccvusp.fr",
+      "telephone": "04 92 80 71 30",
+      "url": "https://www.maisondeservicesaupublic.fr/content/msap-ubaye-serre-poncon"
+    }
+  },
+  {
+    "id": "18d1107bfd38fe2bc34211ca47bafea08481fd1b",
+    "name": "france_services_bar_sur_aube",
+    "title": "France Services - Bar-sur-Aube",
+    "url": "https://lannuaire.service-public.fr/grand-est/aube/msap-10033-01",
+    "metadata": {
+      "email": "",
+      "telephone": "",
+      "url": ""
+    }
+  },
+  {
+    "id": "f3e49297b3573984ef3feef216b4c28df786958e",
+    "name": "france_services_bassuet",
+    "title": "France Services - Bassuet",
+    "url": "https://lannuaire.service-public.fr/grand-est/marne/msap-51040-01",
+    "metadata": {
+      "email": "",
+      "telephone": "",
+      "url": ""
+    }
+  },
+  {
+    "id": "85c60b40d48f9648d93e73f417dfe6ea62109715",
+    "name": "france_services_baume_les_dames",
+    "title": "France Services - Baume-les-Dames",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/doubs/msap-25047-01",
+    "metadata": {
+      "email": "msap@baumelesdames.org",
+      "telephone": "03 81 84 72 45",
+      "url": "https://www.maisondeservicesaupublic.fr/content/doubs-baumois"
+    }
+  },
+  {
+    "id": "94a5ca3b1cfe2925a2819a48055a8bda1dc04c02",
+    "name": "france_services_beaufort",
+    "title": "France Services - Beaufort",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/jura/msap-39016-01",
+    "metadata": {
+      "email": "msap@petitemontagne.fr",
+      "telephone": "03 84 48 04 78",
+      "url": "https://www.maisondeservicesaupublic.fr/content/petite-montagne"
+    }
+  },
+  {
+    "id": "94a5ca3b1cfe2925a2819a48055a8bda1dc04c02",
+    "name": "france_services_beaufort",
+    "title": "France Services - Beaufort",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/jura/msap-39043-01",
+    "metadata": {
+      "email": "msap@ccportedujura.fr",
+      "telephone": "03 84 48 45 45",
+      "url": "https://www.maisondeservicesaupublic.fr/content/msap-porte-du-jura"
+    }
+  },
+  {
+    "id": "d3aa43ba0c5c932b6998d251ee99d7cf31dd743a",
+    "name": "france_services_beaumont_le_roger",
+    "title": "France Services - Beaumont-le-Roger",
+    "url": "https://lannuaire.service-public.fr/normandie/eure/msap-27051-01",
+    "metadata": {
+      "email": "msap.beaumont@bernaynormandie.fr",
+      "telephone": "02 32 43 83 47",
+      "url": "https://www.maisondeservicesaupublic.fr/content/beaumont-le-roger"
+    }
+  },
+  {
+    "id": "bbf35bd1b5a7b7331bff70ab0508d7398d61ef65",
+    "name": "france_services_beaune_la_rolande",
+    "title": "France Services - Beaune-la-Rolande",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/loiret/msap-45030-01",
+    "metadata": {
+      "email": "msap.beaunois@pithiveraisgatinais.fr",
+      "telephone": "02 38 33 92 68",
+      "url": "https://www.maisondeservicesaupublic.fr/content/communaute-de-communes-du-pithiverais-gatinais"
+    }
+  },
+  {
+    "id": "b8be07ef82f731d09d9b0c5fa4cb147828f79f6a",
+    "name": "france_services_beaupreau_en_mauges",
+    "title": "France Services - Beaupréau-en-Mauges",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/maine-et-loire/msap-49023-01",
+    "metadata": {
+      "email": "msap.csevreetmauges@orange.fr",
+      "telephone": "02 41 63 06 33",
+      "url": "https://www.maisondeservicesaupublic.fr/content/beaupreau"
+    }
+  },
+  {
+    "id": "f4f1fdb728a4cd58eefde5de4b130fd03454b735",
+    "name": "france_services_bellencombre",
+    "title": "France Services - Bellencombre",
+    "url": "https://lannuaire.service-public.fr/normandie/seine-maritime/msap-76070-01",
+    "metadata": {
+      "email": "accueil.caravelles@orange.fr",
+      "telephone": "02 35 93 26 78",
+      "url": "https://www.maisondeservicesaupublic.fr/content/caravelles"
+    }
+  },
+  {
+    "id": "2dae4546166984823aad774ffbfa09390903192b",
+    "name": "france_services_bellengreville",
+    "title": "France Services - Bellengreville",
+    "url": "https://lannuaire.service-public.fr/normandie/calvados/msap-14057-01",
+    "metadata": {
+      "email": "msap@valesdunes.fr",
+      "telephone": "02 31 80 78 28",
+      "url": "https://www.maisondeservicesaupublic.fr/content/val-es-dunes"
+    }
+  },
+  {
+    "id": "6f449934f356d9989a6c751e981fd99e9174d550",
+    "name": "france_services_belves",
+    "title": "France Services - Belvès",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/dordogne/msap-24035-01",
+    "metadata": {
+      "email": "pointpublic-belves@wanadoo.fr",
+      "telephone": "05 53 31 44 81",
+      "url": "https://www.maisondeservicesaupublic.fr/content/belves"
+    }
+  },
+  {
+    "id": "5f46c029f1ef379229cdacbd217d34bb289ba513",
+    "name": "france_services_besancon",
+    "title": "France Services - Besançon",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/doubs/msap-25056-01",
+    "metadata": {
+      "email": "msap@besancon.fr",
+      "telephone": "03 81 41 22 21",
+      "url": "http://www.besancon.fr"
+    }
+  },
+  {
+    "id": "7b55154833bb18555d288ca1261919a4208c358f",
+    "alternateName": "Centre administratif",
+    "name": "france_services_bethune_centre_administratif",
+    "title": "France services - Béthune (Centre administratif)",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/pas-de-calais/msap-62119-02",
+    "metadata": {
+      "email": "mairie@ville-bethune.fr",
+      "telephone": "03 21 63 00 00",
+      "url": "https://www.bethune.fr"
+    }
+  },
+  {
+    "id": "3ebe18ca91f643777d2ba62fe53f693e45e82712",
+    "alternateName": "Service itinérant",
+    "name": "france_services_bethune_service_itinerant",
+    "title": "France Services - Béthune (Service itinérant)",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/pas-de-calais/msap-62119-03",
+    "metadata": {
+      "email": "lens@pimms.org",
+      "telephone": "03 21 28 78 17",
+      "url": ""
+    }
+  },
+  {
+    "id": "176a1eb08378b24e6d7d1f8fb0f10947229defbd",
+    "name": "france_services_betz",
+    "title": "France Services - Betz",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/oise/msap-60069-01",
+    "metadata": {
+      "email": "franceservices-evm@orange.fr",
+      "telephone": "03 44 87 44 59",
+      "url": "https://www.maisondeservicesaupublic.fr/content/betz-bureau-de-poste"
+    }
+  },
+  {
+    "id": "84086a04f93c72891c18408e1ba0b2931a8c5d2a",
+    "name": "france_services_blangy_sur_bresle",
+    "title": "France Services - Blangy-sur-Bresle",
+    "url": "https://lannuaire.service-public.fr/normandie/seine-maritime/msap-76101-01",
+    "metadata": {
+      "email": "",
+      "telephone": "",
+      "url": ""
+    }
+  },
+  {
+    "id": "2d65686b6aa151cb9ac47f4be8ce37a9ceb02044",
+    "name": "france_services_blaye",
+    "title": "France Services - Blaye",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/gironde/msap-33058-01",
+    "metadata": {
+      "email": "accueil.france-services@ccb-blaye.com",
+      "telephone": "05 57 42 82 72",
+      "url": "https://ccb-blaye.com/service-a-la-personne/lespace-france-services/"
+    }
+  },
+  {
+    "id": "eab5de2d06e13d959b885306d56069be2a8dffca",
+    "name": "france_services_blois",
+    "title": "France Services - Blois",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/loir-et-cher/msap-41018-01",
+    "metadata": {
+      "email": "blois@pimms.org",
+      "telephone": "02 54 45 34 54",
+      "url": "https://www.maisondeservicesaupublic.fr/content/pimms-de-blois"
+    }
+  },
+  {
+    "id": "ee1acc93d6514ea8d1cacfeb01b4a3915aa19076",
+    "name": "france_services_bogny_sur_meuse",
+    "title": "France Services - Bogny-sur-Meuse",
+    "url": "https://lannuaire.service-public.fr/grand-est/ardennes/msap-08081-01",
+    "metadata": {
+      "email": "msap@aymonlire.fr",
+      "telephone": "03 24 52 45 39",
+      "url": "https://www.maisondeservicesaupublic.fr/content/bogny-sur-meuse"
+    }
+  },
+  {
+    "id": "18320827d8e8dd52c677e3262a9204725d230978",
+    "name": "france_services_bologne",
+    "title": "France Services - Bologne",
+    "url": "https://lannuaire.service-public.fr/grand-est/haute-marne/msap-52058-01",
+    "metadata": {
+      "email": "arobinet@agglo-chaumont.fr",
+      "telephone": "03 25 03 44 08",
+      "url": "https://www.maisondeservicesaupublic.fr/content/bologne"
+    }
+  },
+  {
+    "id": "0937aa8e259a8f006118368f9bca73bad8f9460f",
+    "name": "france_services_bonneville",
+    "title": "France Services - Bonneville",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/haute-savoie/msap-74042-01",
+    "metadata": {
+      "email": "contact@faucignymontblanc.com",
+      "telephone": "04 50 97 29 50",
+      "url": "https://www.maisondeservicesaupublic.fr/content/maison-de-services-au-public-faucigny-glieres"
+    }
+  },
+  {
+    "id": "9a57d298363ec6f3e9f480f2578a0ba501511944",
+    "name": "france_services_bourbourg",
+    "title": "France Services - Bourbourg",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/nord/msap-59094-01",
+    "metadata": {
+      "email": "andyvie.msap.bourbourg@orange.fr",
+      "telephone": "03 28 22 55 87",
+      "url": "https://www.maisondeservicesaupublic.fr/content/lasso-de-bourbourg"
+    }
+  },
+  {
+    "id": "39aa18b9435dcb620f02cfd9b423c64ba61780b9",
+    "name": "france_services_bourg_lastic",
+    "title": "France Services - Bourg-Lastic",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/puy-de-dome/msap-63048-01",
+    "metadata": {
+      "email": "franceservices.bourglastic@ccvcommunaute.fr",
+      "telephone": "04 73 21 88 68",
+      "url": "http://www.ccvcommunaute.fr/services/franceservices/"
+    }
+  },
+  {
+    "id": "bd5d2a6ee687a6ff8b305974b9d16072bf241c93",
+    "name": "france_services_boussac",
+    "title": "France Services - Boussac",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/creuse/msap-23031-01",
+    "metadata": {
+      "email": "msapboussac23@orange.fr",
+      "telephone": "09 67 30 09 53",
+      "url": "https://www.maisondeservicesaupublic.fr/content/boussac"
+    }
+  },
+  {
+    "id": "61be4eea301385ed3dc3fedad2da0dce63fe542a",
+    "name": "france_services_bozouls",
+    "title": "France Services - Bozouls",
+    "url": "https://lannuaire.service-public.fr/occitanie/aveyron/msap-12033-01",
+    "metadata": {
+      "email": "msap-bozoulscomtal@orange.fr",
+      "telephone": "05 65 48 37 12",
+      "url": "https://www.maisondeservicesaupublic.fr/content/bozouls-comtal"
+    }
+  },
+  {
+    "id": "d8289d4d136603853e0b087223b719a888f5205b",
+    "name": "france_services_bram",
+    "title": "France Services - Bram",
+    "url": "https://lannuaire.service-public.fr/occitanie/aude/msap-11049-01",
+    "metadata": {
+      "email": "msap@ccplm.fr",
+      "telephone": "04 68 76 69 40",
+      "url": "https://www.maisondeservicesaupublic.fr/content/piege-lauragais-malepere"
+    }
+  },
+  {
+    "id": "357cbd319a0c52ec35954ba2699845a7469bee93",
+    "name": "france_services_brecey",
+    "title": "France Services - Brécey",
+    "url": "https://lannuaire.service-public.fr/normandie/manche/msap-50275-01",
+    "metadata": {
+      "email": "msap.brecey@msm-normandie.fr",
+      "telephone": "02 33 68 21 50",
+      "url": "https://www.maisondeservicesaupublic.fr/content/du-val-de-see"
+    }
+  },
+  {
+    "id": "6de50eca2d33a26e44b035407946603b0a177c8b",
+    "name": "france_services_brest_keresdern",
+    "title": "France Services - Brest - Kérésdern",
+    "url": "https://lannuaire.service-public.fr/bretagne/finistere/msap-29019-02",
+    "metadata": {
+      "email": "brest.keredern@pimms.org",
+      "telephone": "02 98 47 10 61",
+      "url": ""
+    }
+  },
+  {
+    "id": "8c2557c80f7ff5f11ef812424a4a686af52cda5d",
+    "name": "france_services_brest_pontanezen",
+    "title": "France Services - Brest - Pontanézen",
+    "url": "https://lannuaire.service-public.fr/bretagne/finistere/msap-29019-01",
+    "metadata": {
+      "email": "contact@pimmsdebrest.org",
+      "telephone": "02 98 41 00 66",
+      "url": "https://www.maisondeservicesaupublic.fr/content/pimms-brest"
+    }
+  },
+  {
+    "id": "0ea736ec937ebba38098a90766d73f225995f948",
+    "name": "france_services_briancon",
+    "title": "France Services - Briançon",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/hautes-alpes/msap-05023-01",
+    "metadata": {
+      "email": "franceservices@ccbrianconnais.fr",
+      "telephone": "04 92 45 45 85",
+      "url": "http://www.ccbrianconnais.fr"
+    }
+  },
+  {
+    "id": "806781feb34ad743d102e847384d37502bd1d7a2",
+    "name": "france_services_brinon_sur_beuvron",
+    "title": "France Services - Brinon-sur-Beuvron",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/nievre/msap-58041-01",
+    "metadata": {
+      "email": "msap.beuvron@orange.fr",
+      "telephone": "03 86 29 60 02",
+      "url": "https://www.maisondeservicesaupublic.fr/content/brinon-sur-beuvron"
+    }
+  },
+  {
+    "id": "fe1bc94dec19ae47b5ceed9994d5dba977723c11",
+    "name": "france_services_bruay_la_buissiere",
+    "title": "France Services - Bruay-la-Buissière",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/pas-de-calais/msap-62178-01",
+    "metadata": {
+      "email": "artois@pimms.org",
+      "telephone": "03 21 52 99 78",
+      "url": "https://www.maisondeservicesaupublic.fr/content/pimms-de-lartois"
+    }
+  },
+  {
+    "id": "2d146d505912563885a59c2ef549e068cfd58978",
+    "name": "france_services_bruay_sur_l_escaut",
+    "title": "France Services - Bruay-sur-l'Escaut",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/nord/msap-59112-01",
+    "metadata": {
+      "email": "bruay.franceservices@lenord.fr",
+      "telephone": "03 59 73 27 00",
+      "url": "https://www.bruaysurescaut.fr/"
+    }
+  },
+  {
+    "id": "9e79b1a11c72541ab1dea1cbccbebc35ac5fcc90",
+    "name": "france_services_brulon",
+    "title": "France Services - Brûlon",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/sarthe/msap-72050-01",
+    "metadata": {
+      "email": "msap.brulon@orange.fr",
+      "telephone": "02 43 95 51 78",
+      "url": "https://www.maisondeservicesaupublic.fr/content/brulon"
+    }
+  },
+  {
+    "id": "434a07cc7aedbdd4bc8d7c7b09cb36ae20bc0c93",
+    "name": "france_services_brunoy",
+    "title": "France Services - Brunoy",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/essonne/msap-91114-01",
+    "metadata": {
+      "email": "serviceformation@mairie-brunoy.fr",
+      "telephone": "",
+      "url": "https://www.brunoy.fr/"
+    }
+  },
+  {
+    "id": "54788f2d6ab6d7c2a4411c85ab97659eb1f2970a",
+    "name": "france_services_bruyeres",
+    "title": "France Services - Bruyères",
+    "url": "https://lannuaire.service-public.fr/grand-est/vosges/msap-88078-01",
+    "metadata": {
+      "email": "c.germain@cc-bruyeres.fr",
+      "telephone": "03 29 57 99 79",
+      "url": "https://www.maisondeservicesaupublic.fr/content/bruyeres"
+    }
+  },
+  {
+    "id": "9b1825b209784885f7aa6e8728759f1fa01eef5b",
+    "name": "france_services_caen_pierre_heuze",
+    "title": "France Services - Caen Pierre Heuzé",
+    "url": "https://lannuaire.service-public.fr/normandie/calvados/msap-14118-02",
+    "metadata": {
+      "email": "",
+      "telephone": "02 31 93 37 51",
+      "url": ""
+    }
+  },
+  {
+    "id": "b4413672d89a45bcdb6d7fdb706990cd8d0ea3f3",
+    "name": "france_services_caen_venoix",
+    "title": "France Services - Caen Venoix",
+    "url": "https://lannuaire.service-public.fr/normandie/calvados/msap-14118-01",
+    "metadata": {
+      "email": "a.leboucher@caen.fr",
+      "telephone": "02 14 37 31 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "bb931f379fcf9efcea6bf814a1614e7487bf55e2",
+    "name": "france_services_cahors",
+    "title": "France Services - Cahors",
+    "url": "https://lannuaire.service-public.fr/occitanie/lot/msap-46042-01",
+    "metadata": {
+      "email": "cardesservicespublics@grandcahors.fr",
+      "telephone": "07 62 60 96 94",
+      "url": "https://www.maisondeservicesaupublic.fr/content/car-des-services-publics-itinerants"
+    }
+  },
+  {
+    "id": "15186aa9785532a3996eea029ddbe6b0b9386c5d",
+    "name": "france_services_cajarc",
+    "title": "France Services - Cajarc",
+    "url": "https://lannuaire.service-public.fr/occitanie/lot/msap-46045-01",
+    "metadata": {
+      "email": "accueil@cajarc.fr",
+      "telephone": "05 65 40 65 20",
+      "url": "https://www.maisondeservicesaupublic.fr/content/cajarc"
+    }
+  },
+  {
+    "id": "3100e6b9e0f532fef5f34847de3235acfa20bf63",
+    "name": "france_services_calacuccia",
+    "title": "France Services - Calacuccia",
+    "url": "https://lannuaire.service-public.fr/corse/haute-corse/msap-2B047-01",
+    "metadata": {
+      "email": "msap.calacuccia@laposte.fr",
+      "telephone": "",
+      "url": "https://www.maisondeservicesaupublic.fr/content/calacuccia-bureau-de-poste"
+    }
+  },
+  {
+    "id": "2ac8bba7373c8a4b3a34e3092b731a5078cdba84",
+    "name": "france_services_calvisson",
+    "title": "France Services - Calvisson",
+    "url": "https://lannuaire.service-public.fr/occitanie/gard/msap-30062-01",
+    "metadata": {
+      "email": "centresocial.calvisson@calade.org",
+      "telephone": "04 66 22 16 35",
+      "url": "https://www.maisondeservicesaupublic.fr/content/calvisson"
+    }
+  },
+  {
+    "id": "607290d53aa1d941d2e8c7a1330d1944c6fbef6a",
+    "name": "france_services_capendu",
+    "title": "France Services - Capendu",
+    "url": "https://lannuaire.service-public.fr/occitanie/aude/msap-11068-01",
+    "metadata": {
+      "email": "msap@carcassonne-agglo.fr",
+      "telephone": "04 68 79 87 01",
+      "url": ""
+    }
+  },
+  {
+    "id": "f0a44b66bfbf6ac48578a319d6c22f8784f0c9f7",
+    "name": "france_services_capestang",
+    "title": "France Services - Capestang",
+    "url": "https://lannuaire.service-public.fr/occitanie/herault/msap-34052-01",
+    "metadata": {
+      "email": "msap@cc-sud-herault.fr",
+      "telephone": "04 67 26 37 10",
+      "url": "https://www.maisondeservicesaupublic.fr/content/sud-herault-capestang"
+    }
+  },
+  {
+    "id": "4861f218044428b9fecbc16acd6b0612fd3eaa69",
+    "name": "france_services_captieux",
+    "title": "France Services - Captieux",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/gironde/msap-33095-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 56 65 60 31",
+      "url": ""
+    }
+  },
+  {
+    "id": "667ce34fa79821c3de786f1b073e4bfd1881628d",
+    "name": "france_services_carentan",
+    "title": "France Services - Carentan",
+    "url": "https://lannuaire.service-public.fr/normandie/manche/msap-50099-01",
+    "metadata": {
+      "email": "msap.carentan@ccbdc.fr",
+      "telephone": "09 85 60 01 33",
+      "url": "https://www.maisondeservicesaupublic.fr/content/communaute-de-communes-de-la-baie-du-cotentin"
+    }
+  },
+  {
+    "id": "da76241067c2ffbd9693fd19d4eec237be02cbd7",
+    "name": "france_services_carpentras",
+    "title": "France Services - Carpentras",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/vaucluse/msap-84031-01",
+    "metadata": {
+      "email": "thierry.villemarie@yahoo.fr",
+      "telephone": "04 90 67 08 42",
+      "url": "https://www.maisondeservicesaupublic.fr/content/esc-villemarie"
+    }
+  },
+  {
+    "id": "5979b6bbe26b42b99cbadebdc19f33f29aa6d285",
+    "name": "france_services_castello_di_rostino",
+    "title": "France Services - Castello-di-Rostino",
+    "url": "https://lannuaire.service-public.fr/corse/haute-corse/msap-2B079-01",
+    "metadata": {
+      "email": "msap.castello-di-rostino@laposte.fr",
+      "telephone": "",
+      "url": "https://www.maisondeservicesaupublic.fr/content/castello-di-rostino-bureau-de-poste"
+    }
+  },
+  {
+    "id": "bf47f722215c06e5914cf7b89a62cf697eb06df8",
+    "name": "france_services_catus",
+    "title": "France Services - Catus",
+    "url": "https://lannuaire.service-public.fr/occitanie/lot/msap-46064-01",
+    "metadata": {
+      "email": "msap-catus@grandcahors.fr",
+      "telephone": "05 65 20 86 40",
+      "url": "https://www.maisondeservicesaupublic.fr/content/msap-catus"
+    }
+  },
+  {
+    "id": "58f8d3cf8cc01221d21132daf209e254e03f0ffe",
+    "name": "france_services_cercy_la_tour",
+    "title": "France Services - Cercy-la-Tour",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/nievre/msap-58046-01",
+    "metadata": {
+      "email": "centre-social-fours@wanadoo.fr",
+      "telephone": "03 86 50 89 16",
+      "url": "https://www.maisondeservicesaupublic.fr/content/centre-social-entre-loire-et-morvan-msap-cercy-la-tour"
+    }
+  },
+  {
+    "id": "50e22a186cfdc564b294e4a58aaf114e1b49a256",
+    "name": "france_services_cergy",
+    "title": "France Services - Cergy",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/val-d-oise/msap-95127-01",
+    "metadata": {
+      "email": "cergy@pimms.org",
+      "telephone": "01 34 22 18 10",
+      "url": "https://www.maisondeservicesaupublic.fr/content/pimms-de-cergy"
+    }
+  },
+  {
+    "id": "a22e868219bf1c007bb93ddc91119861f4b2a5c3",
+    "name": "france_services_chaillac",
+    "title": "France Services - Chaillac",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/indre/msap-36035-01",
+    "metadata": {
+      "email": "msap.chaillac@laposte.fr",
+      "telephone": "",
+      "url": "https://www.maisondeservicesaupublic.fr/content/chaillac-bureau-de-poste"
+    }
+  },
+  {
+    "id": "08968ae3086be5cefb0c8684c9d1fd9c686edc6a",
+    "name": "france_services_chaille_les_marais",
+    "title": "France Services - Chaillé-les-Marais",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/vendee/msap-85042-01",
+    "metadata": {
+      "email": "maisondeservicesaupublic@sudvendeelittoral.fr",
+      "telephone": "02 51 56 70 88",
+      "url": "https://www.maisondeservicesaupublic.fr/content/chaille-les-marais"
+    }
+  },
+  {
+    "id": "89ba10aa3cbd68ff93918291a2cea9f597735f32",
+    "name": "france_services_chalonnes_sur_loire",
+    "title": "France Services - Chalonnes-sur-Loire",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/maine-et-loire/msap-49063-01",
+    "metadata": {
+      "email": "msaploirelayon@chalonnes-sur-loire.fr",
+      "telephone": "02 41 74 10 82",
+      "url": "https://www.maisondeservicesaupublic.fr/content/loire-layon-antenne-chalonnes-sur-loire"
+    }
+  },
+  {
+    "id": "3a88f5ac29b76a20bc5e9348b00af1687a2f690b",
+    "name": "france_services_chalus",
+    "title": "France Services - Châlus",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/haute-vienne/msap-87032-01",
+    "metadata": {
+      "email": "referent.msap@paysdenexon-montsdechalus.fr",
+      "telephone": "05 55 78 29 29",
+      "url": "https://www.maisondeservicesaupublic.fr/content/communaute-de-communes-pays-de-nexon-monts-de-chalus"
+    }
+  },
+  {
+    "id": "9571f19151ea7e34bf2b00113a5f7758b03574dc",
+    "name": "france_services_chamberet",
+    "title": "France Services - Chamberet",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/correze/msap-19036-01",
+    "metadata": {
+      "email": "msap.chamberet@laposte.fr",
+      "telephone": "05 55 98 32 73",
+      "url": "https://www.maisondeservicesaupublic.fr/content/chamberet-bureau-de-poste"
+    }
+  },
+  {
+    "id": "fe5109dc54cce87b71094bcae398f0e8bdbc5b48",
+    "name": "france_services_champagney",
+    "title": "France Services - Champagney",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/haute-saone/msap-70120-01",
+    "metadata": {
+      "email": "v.duban@ccrc70.fr",
+      "telephone": "03 84 36 51 59",
+      "url": "https://www.maisondeservicesaupublic.fr/content/rahin-et-cherimont-champagney"
+    }
+  },
+  {
+    "id": "aeb3ef72777c21c244fc819370bc0e8bd19ab5fe",
+    "name": "france_services_champenoux",
+    "title": "France Services - Champenoux",
+    "url": "https://lannuaire.service-public.fr/grand-est/meurthe-et-moselle/msap-54113-01",
+    "metadata": {
+      "email": "msap@cc-gc.fr",
+      "telephone": "03 83 31 03 51",
+      "url": "https://www.maisondeservicesaupublic.fr/content/champenoux"
+    }
+  },
+  {
+    "id": "9680cd31a9ff21502b1c015341c2fbb8911373d8",
+    "name": "france_services_chantonnay",
+    "title": "France Services - Chantonnay",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/vendee/msap-85051-01",
+    "metadata": {
+      "email": "https://www.chantonnay.fr/systeme/nous-contacter/",
+      "telephone": "02 51 94 30 36",
+      "url": "https://www.chantonnay.fr"
+    }
+  },
+  {
+    "id": "3883c7b950494ed355161dd410ebe49c7934f4ec",
+    "name": "france_services_charny_oree_de_puisaye",
+    "title": "France Services - Charny Orée de Puisaye",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/yonne/msap-89086-01",
+    "metadata": {
+      "email": "rsp@ccop.fr",
+      "telephone": "03 86 80 54 09",
+      "url": "https://www.maisondeservicesaupublic.fr/content/charny-oree-de-puisaye"
+    }
+  },
+  {
+    "id": "816c2bb034162244c2958f5058b7fbd47836a95a",
+    "name": "france_services_chateau_arnoux_saint_auban",
+    "title": "France Services - Château-Arnoux-Saint-Auban",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/alpes-de-haute-provence/msap-04049-01",
+    "metadata": {
+      "email": "msap.valdurance@provencealpesagglo.fr",
+      "telephone": "04 92 37 25 94",
+      "url": "https://www.provencealpesagglo.fr/maison-de-services-au-public/"
+    }
+  },
+  {
+    "id": "02aae13bb7feddcbb6fd6ed2161848f57d1e684e",
+    "name": "france_services_chateau_chinon",
+    "title": "France Services - Château-Chinon",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/nievre/msap-58062-01",
+    "metadata": {
+      "email": "relaisaccueil-chateauchinon@hotmail.fr",
+      "telephone": "03 86 85 29 21",
+      "url": "https://www.maisondeservicesaupublic.fr/content/maison-de-la-solidarite-chateau-chinon"
+    }
+  },
+  {
+    "id": "c13f38eaa3e8ab6994af417b292294e1edf022de",
+    "name": "france_services_chateaulin",
+    "title": "France Services - Châteaulin",
+    "url": "https://lannuaire.service-public.fr/bretagne/finistere/msap-29026-01",
+    "metadata": {
+      "email": "franceservices@ccpcp.bzh",
+      "telephone": "02 98 16 14 20",
+      "url": "https://www.ccpcp.bzh/vie-pratique/franceservices/"
+    }
+  },
+  {
+    "id": "9c01fe97a78a5322ade68419a36b46882197d058",
+    "name": "france_services_chateauneuf_sur_charente",
+    "title": "France Services - Châteauneuf-sur-Charente",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/charente/msap-16090-01",
+    "metadata": {
+      "email": "mfs_chateauneuf@grand-cognac.fr",
+      "telephone": "06 75 08 42 63",
+      "url": "https://www.grand-cognac.fr"
+    }
+  },
+  {
+    "id": "02152cd1d13b8c52bc55d91aa4f6edcb5272b41f",
+    "name": "france_services_chateauponsac",
+    "title": "France Services - Châteauponsac",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/haute-vienne/msap-87041-01",
+    "metadata": {
+      "email": "msap.chateauponsac@orange.fr",
+      "telephone": "05 44 25 60 66",
+      "url": "https://www.maisondeservicesaupublic.fr/content/chateauponsac"
+    }
+  },
+  {
+    "id": "82608b41af670d50db2af9df6ea8d311ea04e6a4",
+    "name": "france_services_chateau_renault",
+    "title": "France Services - Château-Renault",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/indre-et-loire/msap-37063-01",
+    "metadata": {
+      "email": "msap@cc-castelrenaudais.fr",
+      "telephone": "02 47 29 57 40",
+      "url": "https://www.maisondeservicesaupublic.fr/content/maison-de-services-au-public-du-castelrenaudais"
+    }
+  },
+  {
+    "id": "40fd40e358097d20396b6b5f15d2fc1a9e4bb8ba",
+    "name": "france_services_chatillon_en_bazois",
+    "title": "France Services - Châtillon-en-Bazois",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/nievre/msap-58065-01",
+    "metadata": {
+      "email": "contact@csbazois.org",
+      "telephone": "03 86 84 19 00",
+      "url": "https://www.maisondeservicesaupublic.fr/content/chatillon-en-bazois"
+    }
+  },
+  {
+    "id": "1d17969f8c3384280ec6202e5df19c9abeb88da8",
+    "name": "france_services_chaudes_aigues",
+    "title": "France Services - Chaudes-Aigues",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/cantal/msap-15045-01",
+    "metadata": {
+      "email": "a.salson@saintflourco.fr",
+      "telephone": "04 71 23 92 33",
+      "url": "https://www.maisondeservicesaupublic.fr/content/maison-des-services-de-chaudes-aigues"
+    }
+  },
+  {
+    "id": "dd41d9737c7af4623846b9e96938926d8a4d4845",
+    "name": "france_services_chauffailles",
+    "title": "France Services - Chauffailles",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/saone-et-loire/msap-71120-01",
+    "metadata": {
+      "email": "pimmscantondechauffailles@pimms.org",
+      "telephone": "03 85 24 29 50",
+      "url": "https://www.maisondeservicesaupublic.fr/content/pimms-de-chauffailles"
+    }
+  },
+  {
+    "id": "b05183f427db9fee8f413efa0a7351a7a3427cbd",
+    "name": "france_services_chazelles_sur_lyon",
+    "title": "France Services - Chazelles-sur-Lyon",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/loire/msap-42059-01",
+    "metadata": {
+      "email": "",
+      "telephone": "",
+      "url": ""
+    }
+  },
+  {
+    "id": "eb8abe56bcbc21ac08bacf3b2eb8b1cdce8c0c9e",
+    "name": "france_services_chemille_en_anjou",
+    "title": "France Services - Chemillé-en-Anjou",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/maine-et-loire/msap-49092-01",
+    "metadata": {
+      "email": "msap@centresocial-chemille.asso.fr",
+      "telephone": "02 41 30 50 55",
+      "url": "https://www.maisondeservicesaupublic.fr/content/chemille-en-anjou"
+    }
+  },
+  {
+    "id": "eb1a921caff662811bfb80b435f3b32f92cba9b8",
+    "name": "france_services_cheroy",
+    "title": "France Services - Chéroy",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/yonne/msap-89100-01",
+    "metadata": {
+      "email": "msap.cheroy@laposte.fr",
+      "telephone": "03 86 97 53 07",
+      "url": "https://www.maisondeservicesaupublic.fr/content/cheroy-bureau-de-poste"
+    }
+  },
+  {
+    "id": "aa152eaa7d54a6d219c914e61b3bb662068782a6",
+    "name": "france_services_coeur_de_causse",
+    "title": "France Services - Coeur de Causse",
+    "url": "https://lannuaire.service-public.fr/occitanie/lot/msap-46138-01",
+    "metadata": {
+      "email": "msap@cc-labastide-murat.fr",
+      "telephone": "05 65 20 08 50",
+      "url": "http://www.cc-labastide-murat.fr/fr/vivre-sur-le-causse/maison-de-services-au-public.html"
+    }
+  },
+  {
+    "id": "3b95fc12a57febf19fc9df3e45ef80a78b42d52b",
+    "name": "france_services_collobrieres",
+    "title": "France Services - Collobrières",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/var/msap-83043-01",
+    "metadata": {
+      "email": "msap.collobrieres@laposte.fr",
+      "telephone": "",
+      "url": "https://www.maisondeservicesaupublic.fr/content/collobrieres-bureau-de-poste"
+    }
+  },
+  {
+    "id": "dfe2d3b6e061f14fac5f06054c1c4dab277824d5",
+    "name": "france_services_colomars",
+    "title": "France Services - Colomars",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/alpes-maritimes/msap-06046-01",
+    "metadata": {
+      "email": "msap.colomars@svdb.fr",
+      "telephone": "04 93 37 82 42",
+      "url": "https://www.maisondeservicesaupublic.fr/content/colomars"
+    }
+  },
+  {
+    "id": "f181477f11625cd0315b204e23083fb54850077e",
+    "name": "france_services_colombes_aragon",
+    "title": "France Services - Colombes - Aragon",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/hauts-de-seine/msap-92025-01",
+    "metadata": {
+      "email": "mqaragon@mairie-colombes.fr",
+      "telephone": "01 41 19 49 80",
+      "url": "https://www.maisondeservicesaupublic.fr/content/mairie-de-proximite-aragon"
+    }
+  },
+  {
+    "id": "132b3652dbeb5617022dfe1bfb37b0a97fd28645",
+    "name": "france_services_combourg",
+    "title": "France Services - Combourg",
+    "url": "https://lannuaire.service-public.fr/bretagne/ille-et-vilaine/msap-35085-01",
+    "metadata": {
+      "email": "maison-des-services@bretagneromantique.fr",
+      "telephone": "02 23 16 45 45",
+      "url": "https://www.maisondeservicesaupublic.fr/content/la-maison-des-services-bretagne-romantique"
+    }
+  },
+  {
+    "id": "4b6909ce270c467c2c988aa5715de38ac45a995b",
+    "name": "france_services_commercy",
+    "title": "France Services - Commercy",
+    "url": "https://lannuaire.service-public.fr/grand-est/meuse/msap-55122-01",
+    "metadata": {
+      "email": "sp-commercy@meuse.gouv.fr",
+      "telephone": "03 29 91 70 71",
+      "url": ""
+    }
+  },
+  {
+    "id": "ab31ef7ab6c4c29453212fc03411a79156d06e4e",
+    "name": "france_services_conde_en_normandie",
+    "title": "France Services - Condé-en-Normandie",
+    "url": "https://lannuaire.service-public.fr/normandie/calvados/msap-14174-01",
+    "metadata": {
+      "email": "espace-formation@pi14.fr",
+      "telephone": "02 31 69 71 94",
+      "url": "https://www.maisondeservicesaupublic.fr/content/point-info-14-conde-en-normandie"
+    }
+  },
+  {
+    "id": "859e5fd573dafa7e11c34594ea1a2a0eeebc16cf",
+    "name": "france_services_corbenay",
+    "title": "France Services - Corbenay",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/haute-saone/msap-70171-01",
+    "metadata": {
+      "email": "msappij@cchc.fr",
+      "telephone": "03 84 49 76 25",
+      "url": "https://www.maisondeservicesaupublic.fr/content/msappij-de-la-haute-comte"
+    }
+  },
+  {
+    "id": "1ed3eb9b1701a80ad68e524e576f7bf327ae2b02",
+    "name": "france_services_corbigny",
+    "title": "France Services - Corbigny",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/nievre/msap-58083-01",
+    "metadata": {
+      "email": "accueil@cctbc.fr",
+      "telephone": "03 86 20 22 03",
+      "url": "https://www.maisondeservicesaupublic.fr/content/maison-de-pays-corbigny"
+    }
+  },
+  {
+    "id": "d74a6a0c08e6589ec786e84be88e20e9900bed9e",
+    "name": "france_services_coulounieix_chamiers",
+    "title": "France Services - Coulounieix-Chamiers",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/dordogne/msap-24138-01",
+    "metadata": {
+      "email": "cscc24.correa@gmail.com",
+      "telephone": "05 53 45 60 30",
+      "url": ""
+    }
+  },
+  {
+    "id": "02758ad01bcf1409c290f8ed58c6259f6d956676",
+    "name": "france_services_courseulles_sur_mer",
+    "title": "France Services - Courseulles-sur-Mer",
+    "url": "https://lannuaire.service-public.fr/normandie/calvados/msap-14191-01",
+    "metadata": {
+      "email": "point-info-14@ville-courseulles.fr",
+      "telephone": "02 31 36 22 50",
+      "url": "https://www.maisondeservicesaupublic.fr/content/point-info-14-de-courseulles-sur-mer"
+    }
+  },
+  {
+    "id": "2d709aabcf55a4dace1a24181fa5915d8057be89",
+    "name": "france_services_cozes",
+    "title": "France Services - Cozes",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/charente-maritime/msap-17131-01",
+    "metadata": {
+      "email": "csc.cozes@wanadoo.fr",
+      "telephone": "05 46 90 86 67",
+      "url": "https://arcenciel-centresocioculturelcozes.com/maison-de-services-au-public-msap/"
+    }
+  },
+  {
+    "id": "192bbb389b98cff515d6f1c4ede994039d66926b",
+    "name": "france_services_craon",
+    "title": "France Services - Craon",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/mayenne/msap-53084-01",
+    "metadata": {
+      "email": "franceservices@cias.paysdecraon.fr",
+      "telephone": "02 43 09 09 65",
+      "url": "https://www.maisondeservicesaupublic.fr/content/pays-de-craon"
+    }
+  },
+  {
+    "id": "cf9dfd163331ce3e8d3c5e4cd6633fa3cd71878a",
+    "name": "france_services_craponne_sur_arzon",
+    "title": "France Services - Craponne-sur-Arzon",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/haute-loire/msap-43080-01",
+    "metadata": {
+      "email": "msap.craponne@lepuyenvelay.fr",
+      "telephone": "04 71 03 31 40",
+      "url": "https://www.maisondeservicesaupublic.fr/content/pays-de-craponne-sur-arzon"
+    }
+  },
+  {
+    "id": "b8b6ce03b7c5348778ceffc276176db2f17adeb9",
+    "name": "france_services_crevecoeur_le_grand",
+    "title": "France Services - Crèvecoeur-le-Grand",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/oise/msap-60178-01",
+    "metadata": {
+      "email": "crevecoeur-msap@gmail.com",
+      "telephone": "03 44 10 82 30",
+      "url": "https://www.maisondeservicesaupublic.fr/content/maison-du-conseil-departemental-de-crevecoeur-le-grand"
+    }
+  },
+  {
+    "id": "fafd4a0fe730dd3e89906fc2c4e5cf706c0ad533",
+    "name": "france_services_cussac_fort_medoc",
+    "title": "France Services - Cussac-Fort-Médoc",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/gironde/msap-33146-01",
+    "metadata": {
+      "email": "msap-cussacfortmedoc@orange.fr",
+      "telephone": "05 57 88 85 00",
+      "url": "https://www.maisondeservicesaupublic.fr/content/cussac-fort-medoc"
+    }
+  },
+  {
+    "id": "d64563aac8570dd892b87d1e19d43fded6cf37b5",
+    "name": "france_services_dammartin_en_goele",
+    "title": "France Services - Dammartin-en-Goële",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/seine-et-marne/msap-77153-01",
+    "metadata": {
+      "email": "msap.itinerante@cc-pmf.fr",
+      "telephone": "07 87 08 67 22",
+      "url": "https://www.maisondeservicesaupublic.fr/content/msap-itinerante-de-la-communaute-de-communes-plaines-et-monts-de-france"
+    }
+  },
+  {
+    "id": "dd0ea53256830b052f72da9b213f085ae6991a44",
+    "name": "france_services_derval",
+    "title": "France Services - Derval",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/loire-atlantique/msap-44051-01",
+    "metadata": {
+      "email": "msap@cc-chateaubriant-derval.fr",
+      "telephone": "02 40 81 82 26",
+      "url": "https://www.maisondeservicesaupublic.fr/content/derval"
+    }
+  },
+  {
+    "id": "2d01cc73c140f72df3a28d11a023c722c8a43fb8",
+    "name": "france_services_descartes",
+    "title": "France Services - Descartes",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/indre-et-loire/msap-37115-01",
+    "metadata": {
+      "email": "msap@lochessudtouraine.com",
+      "telephone": "02 47 59 83 29",
+      "url": "https://www.maisondeservicesaupublic.fr/content/descartes-loches-sud-touraine"
+    }
+  },
+  {
+    "id": "005c13b9c65d62c30a75f507a225029d35d6fed7",
+    "name": "france_services_desvres",
+    "title": "France Services - Desvres",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/pas-de-calais/msap-62268-01",
+    "metadata": {
+      "email": "maisondesservices@cc-desvressamer.fr",
+      "telephone": "03 21 99 26 00",
+      "url": "https://www.cc-desvressamer.fr/structures/miss/"
+    }
+  },
+  {
+    "id": "124c522f7e066fc02e5192ea3ed91c2a3ca4efcc",
+    "name": "france_services_die",
+    "title": "France Services - Die",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/drome/msap-26113-01",
+    "metadata": {
+      "email": "cdr.cfppa.die@educagri.fr",
+      "telephone": "04 75 22 31 87",
+      "url": "https://www.maisondeservicesaupublic.fr/content/msap-epn-du-diois"
+    }
+  },
+  {
+    "id": "200b3d09bb25588653a5ad48c9b62d6104d81fb8",
+    "name": "france_services_dompierre_sur_besbre",
+    "title": "France Services - Dompierre-sur-Besbre",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/allier/msap-03102-01",
+    "metadata": {
+      "email": "cecile.moreau@interco-abl.fr",
+      "telephone": "04 70 48 21 10",
+      "url": "https://www.maisondeservicesaupublic.fr/content/dompierre-sur-besbre"
+    }
+  },
+  {
+    "id": "ed9d624081c03367124fda4fc9118f7a2ccd6682",
+    "name": "france_services_donzere",
+    "title": "France Services - Donzère",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/drome/msap-26116-01",
+    "metadata": {
+      "email": "msap.pimms@gmail.com",
+      "telephone": "04 69 14 30 30",
+      "url": "https://www.maisondeservicesaupublic.fr/content/pimms-portes-de-provence"
+    }
+  },
+  {
+    "id": "121512b9a13e45b8e20df342e1031298f7a795be",
+    "name": "france_services_donzy",
+    "title": "France Services - Donzy",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/nievre/msap-58102-01",
+    "metadata": {
+      "email": "msap-donzy@orange.fr",
+      "telephone": "03 86 24 42 48",
+      "url": "https://www.maisondeservicesaupublic.fr/content/donzy"
+    }
+  },
+  {
+    "id": "7081036bd5c2b7bc36ddd71d6f43d5d62b2c2184",
+    "name": "france_services_dormans",
+    "title": "France Services - Dormans",
+    "url": "https://lannuaire.service-public.fr/grand-est/marne/msap-51217-01",
+    "metadata": {
+      "email": "msap@ccpc51.fr",
+      "telephone": "07 85 93 51 18",
+      "url": "https://www.maisondeservicesaupublic.fr/content/msap-des-paysages-de-la-champagne-ccpc51"
+    }
+  },
+  {
+    "id": "a864f086bd486007ec8a46a7d07fcfc727d97739",
+    "name": "france_services_doudeville",
+    "title": "France Services - Doudeville",
+    "url": "https://lannuaire.service-public.fr/normandie/seine-maritime/msap-76219-01",
+    "metadata": {
+      "email": "contact@plateaudecaux.fr",
+      "telephone": "02 35 95 07 25",
+      "url": "https://www.maisondeservicesaupublic.fr/content/communaute-de-communes-plateau-de-caux-doudeville-yerville"
+    }
+  },
+  {
+    "id": "6e84e5fcfe17dfb24d2bc7393d2ae12fc1d2aced",
+    "name": "france_services_dozule",
+    "title": "France Services - Dozulé",
+    "url": "https://lannuaire.service-public.fr/normandie/calvados/msap-14229-01",
+    "metadata": {
+      "email": "pointinfo14-dozule@normandiecabourgpaysdauge.fr",
+      "telephone": "02 31 73 00 75",
+      "url": "https://www.maisondeservicesaupublic.fr/content/dozule"
+    }
+  },
+  {
+    "id": "ebb4f4cf2b29907080975fdabed670a8f28ada34",
+    "alternateName": "Martinique",
+    "name": "france_services_ducos_martinique",
+    "title": "France Services - Ducos (Martinique)",
+    "url": "https://lannuaire.service-public.fr/martinique/martinique/msap-97207-01",
+    "metadata": {
+      "email": "MSAP@mairie-ducos.fr",
+      "telephone": "05 96 57 43 22",
+      "url": "https://www.maisondeservicesaupublic.fr/content/ducos"
+    }
+  },
+  {
+    "id": "0b6540ae516ef18cfeca8efe736191ac068b9879",
+    "name": "france_services_dun_le_palestel",
+    "title": "France Services - Dun-le-Palestel",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/creuse/msap-23075-01",
+    "metadata": {
+      "email": "contact@lapalette23.fr",
+      "telephone": "05 87 66 00 00",
+      "url": "https://www.maisondeservicesaupublic.fr/content/dun-le-palestel"
+    }
+  },
+  {
+    "id": "be4f60e7fd1330658831b1aea12b64a4f21baae9",
+    "name": "france_services_duras",
+    "title": "France Services - Duras",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/lot-et-garonne/msap-47086-01",
+    "metadata": {
+      "email": "ppms.duras@wanadoo.fr",
+      "telephone": "05 53 20 38 38",
+      "url": "https://www.maisondeservicesaupublic.fr/content/pays-de-duras"
+    }
+  },
+  {
+    "id": "670670a6c7198da624749693400dcc89a8edb013",
+    "name": "france_services_durrenbach",
+    "title": "France Services - Durrenbach",
+    "url": "https://lannuaire.service-public.fr/grand-est/bas-rhin/msap-67110-01",
+    "metadata": {
+      "email": "info@sauer-pechelbronn.fr",
+      "telephone": "03 88 90 77 60",
+      "url": "https://www.maisondeservicesaupublic.fr/content/communaute-de-communes-sauer-pechelbronn"
+    }
+  },
+  {
+    "id": "8c477a773f9bad09266bc8f3b4b09d4fbe57352c",
+    "name": "france_services_ebreuil",
+    "title": "France Services - Ébreuil",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/allier/msap-03107-01",
+    "metadata": {
+      "email": "msap-ebreuil@ccspsl.fr",
+      "telephone": "04 70 58 43 65",
+      "url": "http://comcom-ccspsl.fr/-Maison-de-service-public-MSAP"
+    }
+  },
+  {
+    "id": "67898977e17acbc10e861c570dea1b5ce8db0de9",
+    "name": "france_services_einville_au_jard",
+    "title": "France Services - Einville-au-Jard",
+    "url": "https://lannuaire.service-public.fr/grand-est/meurthe-et-moselle/msap-54176-01",
+    "metadata": {
+      "email": "relaisfamilles.einville@famillesrurales.org",
+      "telephone": "03 83 72 06 91",
+      "url": "https://www.maisondeservicesaupublic.fr/content/relais-familles-msap-einville-et-environs-association-familles-rurales-einville-et-environs"
+    }
+  },
+  {
+    "id": "81fbeab693de1ccc9e32e42b7e1c6db4474ab81b",
+    "name": "france_services_embrun",
+    "title": "France Services - Embrun",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/hautes-alpes/msap-05046-01",
+    "metadata": {
+      "email": "msapembrun@ccserreponcon.com",
+      "telephone": "04 92 22 27 60",
+      "url": "https://www.maisondeservicesaupublic.fr/content/serre-poncon-antenne-principale-dembrun"
+    }
+  },
+  {
+    "id": "d23dcd68ce34bdb682dbb03db91674dffffaca7d",
+    "name": "france_services_ennery",
+    "title": "France Services - Ennery",
+    "url": "https://lannuaire.service-public.fr/grand-est/moselle/msap-57193-01",
+    "metadata": {
+      "email": "msap.ennery@laposte.fr",
+      "telephone": "",
+      "url": "https://www.maisondeservicesaupublic.fr/content/ennery-bureau-de-poste"
+    }
+  },
+  {
+    "id": "801c06049b25a4f71ee136d77e98651a06ef467c",
+    "name": "france_services_entrange",
+    "title": "France Services - Entrange",
+    "url": "https://lannuaire.service-public.fr/grand-est/moselle/msap-57194-01",
+    "metadata": {
+      "email": "mairie.entrange@wanadoo.fr",
+      "telephone": "",
+      "url": "https://entrange.fr"
+    }
+  },
+  {
+    "id": "236186dbc698a3a175d07aec5fd3bfb303ffe3c3",
+    "name": "france_services_entraygues_sur_truyere",
+    "title": "France Services - Entraygues-sur-Truyère",
+    "url": "https://lannuaire.service-public.fr/occitanie/aveyron/msap-12094-01",
+    "metadata": {
+      "email": "centresocial.entraygues@wanadoo.fr",
+      "telephone": "05 65 44 49 57",
+      "url": ""
+    }
+  },
+  {
+    "id": "6d6c6f2bcb9a293458e0913cb3a52032d47bf7de",
+    "name": "france_services_entrelacs",
+    "title": "France Services - Entrelacs",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/savoie/msap-73010-01",
+    "metadata": {
+      "email": "relais.albanais@grand-lac.fr",
+      "telephone": "04 79 63 89 46",
+      "url": "https://www.maisondeservicesaupublic.fr/content/albensentrelacs"
+    }
+  },
+  {
+    "id": "eccb032f37434bc7a939a51ce7fbb80aabaf4f93",
+    "name": "france_services_envermeu",
+    "title": "France Services - Envermeu",
+    "url": "https://lannuaire.service-public.fr/normandie/seine-maritime/msap-76235-01",
+    "metadata": {
+      "email": "msap@falaisesdutalou.fr",
+      "telephone": "02 35 04 85 10",
+      "url": "https://www.maisondeservicesaupublic.fr/content/falaises-du-talou"
+    }
+  },
+  {
+    "id": "12209d6b118eb390113ce99ab56ba21ba2f984ff",
+    "name": "france_services_ernee",
+    "title": "France Services - Ernée",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/mayenne/msap-53096-01",
+    "metadata": {
+      "email": "msap@lernee.fr",
+      "telephone": "02 43 05 46 31",
+      "url": "https://www.maisondeservicesaupublic.fr/content/ernee"
+    }
+  },
+  {
+    "id": "294016060bf8b47e796717ee6a72a13a3d4d14e4",
+    "name": "france_services_estissac",
+    "title": "France Services - Estissac",
+    "url": "https://lannuaire.service-public.fr/grand-est/aube/msap-10142-01",
+    "metadata": {
+      "email": "estissac.msap@troyes-cm.fr",
+      "telephone": "03 25 40 42 42",
+      "url": "https://www.maisondeservicesaupublic.fr/content/troyes-champagne-metropole-estissac"
+    }
+  },
+  {
+    "id": "03ec3c39e93e4a98871d5899c223e79d05dfb6e2",
+    "name": "france_services_etain",
+    "title": "France Services - Étain",
+    "url": "https://lannuaire.service-public.fr/grand-est/meuse/msap-55181-01",
+    "metadata": {
+      "email": "emilie.borel@cscetain.org",
+      "telephone": "03 29 87 21 41",
+      "url": "https://www.maisondeservicesaupublic.fr/content/centre-socioculturel-detain-et-sa-region"
+    }
+  },
+  {
+    "id": "919aa06d93f34e7b753a11655e0d6e778dc11d15",
+    "name": "france_services_etampes",
+    "title": "France Services - Étampes",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/essonne/msap-91223-01",
+    "metadata": {
+      "email": "sp-etampes@essonne.gouv.fr",
+      "telephone": "01 69 92 99 91",
+      "url": "http://www.essonne.gouv.fr"
+    }
+  },
+  {
+    "id": "53dbc3bd942fdd9565c2237b772379c11625087d",
+    "name": "france_services_etrepagny",
+    "title": "France Services - Étrépagny",
+    "url": "https://lannuaire.service-public.fr/normandie/eure/msap-27226-01",
+    "metadata": {
+      "email": "msap@ccvexin-normand.fr",
+      "telephone": "02 32 27 41 87",
+      "url": "https://www.maisondeservicesaupublic.fr/content/etrepagny"
+    }
+  },
+  {
+    "id": "1f436d99da0fc5c7092ba4c19d819a81c304130e",
+    "name": "france_services_evreux_la_madeleine",
+    "title": "France Services - Evreux - La Madeleine",
+    "url": "https://lannuaire.service-public.fr/normandie/eure/msap-27229-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 32 31 72 02",
+      "url": "https://www.evreuxportesdenormandie.fr/1884-relais-des-services-publics.htm"
+    }
+  },
+  {
+    "id": "b35e5415ef744a072a0d00fcc8440e4550f18bff",
+    "name": "france_services_evry",
+    "title": "France Services - Évry",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/essonne/msap-91228-01",
+    "metadata": {
+      "email": "evry@pimms.org",
+      "telephone": "01 60 91 81 81",
+      "url": "https://www.maisondeservicesaupublic.fr/content/pimms-evry-coeur-essonne"
+    }
+  },
+  {
+    "id": "ddfb19117a879fd355117b8a746a186147dde3b8",
+    "name": "france_services_fayence",
+    "title": "France Services - Fayence",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/var/msap-83055-01",
+    "metadata": {
+      "email": "france-services@cc-paysdefayence.fr",
+      "telephone": "04 94 39 09 10",
+      "url": "https://www.cc-paysdefayence.fr/enfance-service-a-la-population/maison-de-service-au-public-msap"
+    }
+  },
+  {
+    "id": "089d712232cc7e1591322c736417f4d638644e31",
+    "name": "france_services_fleurance",
+    "title": "France Services - Fleurance",
+    "url": "https://lannuaire.service-public.fr/occitanie/gers/msap-32132-01",
+    "metadata": {
+      "email": "ccas.accueil@villefleurance.fr",
+      "telephone": "05 62 64 02 04",
+      "url": "https://www.maisondeservicesaupublic.fr/content/fleurance"
+    }
+  },
+  {
+    "id": "947ce728f4ec49d0e43f2dca8632da8cae97341c",
+    "name": "france_services_fleurie",
+    "title": "France Services - Fleurie",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/rhone/msap-69084-01",
+    "metadata": {
+      "email": "msap.fleurie@laposte.fr",
+      "telephone": "04 74 04 18 97",
+      "url": "https://www.maisondeservicesaupublic.fr/content/fleurie-bureau-de-poste"
+    }
+  },
+  {
+    "id": "8fc30eb6f41010acd96ba2005b21412dbcbe86b2",
+    "alternateName": "Nangis Lude",
+    "name": "france_services_fontenailles_nangis_lude",
+    "title": "France Services - Fontenailles (Nangis Lude)",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/seine-et-marne/msap-77191-01",
+    "metadata": {
+      "email": "accueil@nangislude.fr",
+      "telephone": "09 53 87 99 05",
+      "url": "http://www.brienangissienne.fr/L-ESPACE-SERVICES-PUBLICS-DE-LA.html"
+    }
+  },
+  {
+    "id": "6e4c00e4a22f09078aec7c1e9c3f2f5205fbe923",
+    "name": "france_services_forcalquier",
+    "title": "France Services - Forcalquier",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/alpes-de-haute-provence/msap-04088-01",
+    "metadata": {
+      "email": "msap@forcalquier-lure.com",
+      "telephone": "04 92 75 46 21",
+      "url": "https://www.maisondeservicesaupublic.fr/content/forcalquier"
+    }
+  },
+  {
+    "id": "842b75894cd2401dbbe9d7a368de00f765dd621a",
+    "name": "france_services_fourchambault",
+    "title": "France Services - Fourchambault",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/nievre/msap-58117-01",
+    "metadata": {
+      "email": "cs.fourchambault@free.fr",
+      "telephone": "03 86 90 90 00",
+      "url": "https://www.maisondeservicesaupublic.fr/content/centre-social-de-fourchambault"
+    }
+  },
+  {
+    "id": "963c3226805cde771a33f2cdb37762d51c22b7b6",
+    "name": "france_services_fresnay_sur_sarthe",
+    "title": "France Services - Fresnay-sur-Sarthe",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/sarthe/msap-72138-01",
+    "metadata": {
+      "email": "contact@cchautesarthealpesmancelles.fr",
+      "telephone": "02 43 33 33 99",
+      "url": "https://www.maisondeservicesaupublic.fr/content/haute-sarthe-alpes-mancelles"
+    }
+  },
+  {
+    "id": "ae9cd4dbf3118b23093aab31e43f5ff7e910b6a1",
+    "name": "france_services_gaillard",
+    "title": "France Services - Gaillard",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/haute-savoie/msap-74133-01",
+    "metadata": {
+      "email": "http://www.gaillard.fr/systeme/contact/",
+      "telephone": "04 50 92 06 74",
+      "url": "http://www.gaillard.fr/alm-emploi/"
+    }
+  },
+  {
+    "id": "c907ec2a87ed553bf279d2171054ebcb7bef448e",
+    "name": "france_services_gaillon",
+    "title": "France Services - Gaillon",
+    "url": "https://lannuaire.service-public.fr/normandie/eure/msap-27275-01",
+    "metadata": {
+      "email": "stephanesaboya@espacecondorcet.org",
+      "telephone": "02 32 77 50 80",
+      "url": "https://www.maisondeservicesaupublic.fr/content/espace-condorcet-centre-social"
+    }
+  },
+  {
+    "id": "3c833f4d349a07379f957ca0d3f267b5162a9eee",
+    "name": "france_services_garges_sarcelles",
+    "title": "France Services - Garges-Sarcelles",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/val-d-oise/msap-95268-01",
+    "metadata": {
+      "email": "direction.garges-sarcelles@pimms.org",
+      "telephone": "01 34 04 27 28",
+      "url": "https://www.maisondeservicesaupublic.fr/content/pimms-de-garges-sarcelles"
+    }
+  },
+  {
+    "id": "ec89a43a6d1081e90daf87843d9aff31541aeac2",
+    "name": "france_services_geaune",
+    "title": "France Services - Geaune",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/landes/msap-40110-01",
+    "metadata": {
+      "email": "msap.geaune@laposte.fr",
+      "telephone": "",
+      "url": "https://www.maisondeservicesaupublic.fr/content/geaune-bureau-de-poste"
+    }
+  },
+  {
+    "id": "8344884f313349f0472e38fa336b797d556f1164",
+    "name": "france_services_giat",
+    "title": "France Services - Giat",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/puy-de-dome/msap-63165-01",
+    "metadata": {
+      "email": "franceservices.giat@ccvcommunaute.fr",
+      "telephone": "04 73 21 71 67",
+      "url": "http://www.ccvcommunaute.fr/services/franceservices/"
+    }
+  },
+  {
+    "id": "6b6338f07d68f2f32abf80e7d97fe8c9b83e2dd5",
+    "name": "france_services_gondrecourt_le_chateau",
+    "title": "France Services - Gondrecourt-le-Château",
+    "url": "https://lannuaire.service-public.fr/grand-est/meuse/msap-55215-01",
+    "metadata": {
+      "email": "msap.gondrecourt-le-chateau@laposte.fr",
+      "telephone": "",
+      "url": "https://www.maisondeservicesaupublic.fr/content/gondrecourt-le-chateau-bureau-de-poste"
+    }
+  },
+  {
+    "id": "f104105bea83b82a6db718eb617c8cafd1db2025",
+    "name": "france_services_gonfreville_l_orcher",
+    "title": "France Services - Gonfreville-l'Orcher",
+    "url": "https://lannuaire.service-public.fr/normandie/seine-maritime/msap-76305-01",
+    "metadata": {
+      "email": "centresocialagies@gmail.com",
+      "telephone": "02 35 45 44 75",
+      "url": "https://www.maisondeservicesaupublic.fr/content/centre-social-agies"
+    }
+  },
+  {
+    "id": "f0e416a13390d697af95b683eed40ccf8d4335f5",
+    "name": "france_services_gorron",
+    "title": "France Services - Gorron",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/mayenne/msap-53107-01",
+    "metadata": {
+      "email": "msap@gorron.fr",
+      "telephone": "02 43 30 10 58",
+      "url": "https://www.maisondeservicesaupublic.fr/content/gorron"
+    }
+  },
+  {
+    "id": "8f3338ea1ce2b34a59ecac1cc7d1c32e87f29557",
+    "name": "france_services_gournay_en_bray",
+    "title": "France Services - Gournay-en-Bray",
+    "url": "https://lannuaire.service-public.fr/normandie/seine-maritime/msap-76312-01",
+    "metadata": {
+      "email": "msap.gournay-en-bray@laposte.fr",
+      "telephone": "02 32 89 91 83",
+      "url": "https://www.maisondeservicesaupublic.fr/content/gournay-en-bray-bureau-de-poste"
+    }
+  },
+  {
+    "id": "4694076b9d655469b16fbea04a8ade57fa32b13a",
+    "name": "france_services_grand_champ",
+    "title": "France Services - Grand-Champ",
+    "url": "https://lannuaire.service-public.fr/bretagne/morbihan/msap-56067-01",
+    "metadata": {
+      "email": "lochinfoservices@gmvagglo.bzh",
+      "telephone": "02 97 61 40 16",
+      "url": "https://www.maisondeservicesaupublic.fr/content/loch-info-services-grand-champ"
+    }
+  },
+  {
+    "id": "683931d0cde39288dbd59d699e6e09bdac4225be",
+    "name": "france_services_grandvilliers",
+    "title": "France Services - Grandvilliers",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/oise/msap-60286-01",
+    "metadata": {
+      "email": "msap.grandvilliers60210@gmail.com",
+      "telephone": "03 44 46 75 41",
+      "url": "https://www.maisondeservicesaupublic.fr/content/grandvilliers"
+    }
+  }
+]

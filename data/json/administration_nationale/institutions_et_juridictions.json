@@ -1,0 +1,158 @@
+[
+  {
+    "id": "164199eeed4a70e26484402e72ea2f8f0845544d",
+    "name": "presidence_de_la_republique",
+    "title": "Présidence de la République",
+    "url": "https://lannuaire.service-public.fr/institutions-juridictions/institution_165663",
+    "metadata": {
+      "email": "",
+      "telephone": "01 42 92 81 00",
+      "url": "https://www.elysee.fr/"
+    }
+  },
+  {
+    "id": "c1a344b368ffac089632532db75af3753076e864",
+    "name": "conseil_constitutionnel",
+    "title": "Conseil constitutionnel",
+    "url": "https://lannuaire.service-public.fr/institutions-juridictions/institution_167042",
+    "metadata": {
+      "email": "info@conseil-constitutionnel.fr",
+      "telephone": "01 40 15 30 00",
+      "url": "http://www.conseil-constitutionnel.fr"
+    }
+  },
+  {
+    "id": "5ddac9b8eb2c83482cfbf45af192aea19988b608",
+    "name": "conseil_superieur_de_la_magistrature",
+    "title": "Conseil supérieur de la magistrature",
+    "url": "https://lannuaire.service-public.fr/institutions-juridictions/institution_168325",
+    "metadata": {
+      "email": "",
+      "telephone": "01 53 58 48 40",
+      "url": "http://www.conseil-superieur-magistrature.fr"
+    }
+  },
+  {
+    "id": "02968b563aa1b3ed23bc630f5fbf30ac2e8cd5b1",
+    "name": "assemblee_nationale",
+    "title": "Assemblée nationale",
+    "url": "https://lannuaire.service-public.fr/institutions-juridictions/institution_169433",
+    "metadata": {
+      "email": "infos@assemblee-nationale.fr",
+      "telephone": "01 40 63 60 00",
+      "url": "http://www.assemblee-nationale.fr"
+    }
+  },
+  {
+    "id": "4c79b203ac948b9cf57e816a8cc2393e65e1d32f",
+    "name": "senat",
+    "title": "Sénat",
+    "url": "https://lannuaire.service-public.fr/institutions-juridictions/institution_170197",
+    "metadata": {
+      "email": "",
+      "telephone": "01 42 34 20 00",
+      "url": "http://www.senat.fr"
+    }
+  },
+  {
+    "id": "5b44569722bfb40b4d68fe5baa3b8f6f6a75978f",
+    "name": "cour_des_comptes",
+    "title": "Cour des comptes",
+    "url": "https://lannuaire.service-public.fr/institutions-juridictions/juridiction_171750",
+    "metadata": {
+      "email": "courdescomptes@ccomptes.fr",
+      "telephone": "01 42 98 95 00",
+      "url": "https://www.ccomptes.fr"
+    }
+  },
+  {
+    "id": "cf48446eb22f200ad7f1f801df353927e4502092",
+    "alternateName": "CESE",
+    "name": "conseil_economique_social_et_environnemental",
+    "title": "Conseil économique, social et environnemental",
+    "url": "https://lannuaire.service-public.fr/institutions-juridictions/institution_171050",
+    "metadata": {
+      "email": "contact@lecese.fr",
+      "telephone": "01 44 43 60 00",
+      "url": "http://www.lecese.fr"
+    }
+  },
+  {
+    "id": "b8e2fd85efc01b1a48d8467f610840d29c7f8d22",
+    "name": "conseil_d_etat",
+    "title": "Conseil d'État",
+    "url": "https://lannuaire.service-public.fr/institutions-juridictions/institution_171313",
+    "metadata": {
+      "email": "",
+      "telephone": "01 40 20 80 00",
+      "url": "http://www.conseil-etat.fr"
+    }
+  },
+  {
+    "id": "5ce20b8c2f92dc0bc4090211996ac5aaac4fcf36",
+    "name": "cour_de_cassation",
+    "title": "Cour de cassation",
+    "url": "https://lannuaire.service-public.fr/institutions-juridictions/juridiction_171643",
+    "metadata": {
+      "email": "",
+      "telephone": "",
+      "url": "http://www.courdecassation.fr"
+    }
+  },
+  {
+    "id": "1130022fe05efce62de5a820b5a3311565f21979",
+    "name": "tribunal_des_conflits",
+    "title": "Tribunal des conflits",
+    "url": "https://lannuaire.service-public.fr/institutions-juridictions/juridiction_171510",
+    "metadata": {
+      "email": "secretariat_tc@conseil-etat.fr",
+      "telephone": "01 40 20 80 87",
+      "url": "http://www.tribunal-conflits.fr"
+    }
+  },
+  {
+    "id": "30a323799688746f47f6bd1bf55eb9c3e6c46468",
+    "name": "cour_de_justice_de_la_republique",
+    "title": "Cour de justice de la République",
+    "url": "https://lannuaire.service-public.fr/institutions-juridictions/juridiction_170701",
+    "metadata": {
+      "email": "courdejustice.courdecassation@justice.fr",
+      "telephone": "01 44 11 31 00",
+      "url": "http://www.courdecassation.fr"
+    }
+  },
+  {
+    "id": "f6504639dfd9fc1fcb75c034e5a265f88e378fe9",
+    "alternateName": "CDC",
+    "name": "caisse_des_depots_et_consignations",
+    "title": "Caisse des dépôts et consignations",
+    "url": "https://lannuaire.service-public.fr/institutions-juridictions/juridiction_906678",
+    "metadata": {
+      "email": "",
+      "telephone": "01 58 50 00 00",
+      "url": "http://www.caissedesdepots.fr/"
+    }
+  },
+  {
+    "id": "f761ac26e4208258cae1a6d2b0d4ee24a1a4525b",
+    "name": "banque_de_france",
+    "title": "Banque de France",
+    "url": "https://lannuaire.service-public.fr/",
+    "metadata": {
+      "email": "",
+      "telephone": "151718112115116 000116 111116 117114191196197",
+      "url": ""
+    }
+  },
+  {
+    "id": "46f738ac374f312c4a5edd6bd9d4321567c8e38a",
+    "name": "institut_de_france",
+    "title": "Institut de France",
+    "url": "https://lannuaire.service-public.fr/institutions-juridictions/institution_1170793",
+    "metadata": {
+      "email": "",
+      "telephone": "01 44 41 44 41",
+      "url": "http://www.institut-de-france.fr"
+    }
+  }
+]

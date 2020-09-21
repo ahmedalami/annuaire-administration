@@ -1,0 +1,86 @@
+[
+  {
+    "id": "252d2f230896371ae9f552e93688acc9d225443b",
+    "alternateName": "VNF",
+    "name": "voies_navigables_de_france_vnf_direction_territoriale_bassin_de_la_seine",
+    "title": "Voies navigables de France (VNF) - Direction territoriale - Bassin de la Seine",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/paris/service_navigation-75115-01",
+    "metadata": {
+      "email": "",
+      "telephone": "01 83 94 44 00",
+      "url": "http://www.bassindelaseine.vnf.fr"
+    }
+  },
+  {
+    "id": "a41998bc80780e1b658ecc305a16addcc5eaa7a6",
+    "alternateName": "VNF",
+    "name": "voies_navigables_de_france_vnf_direction_territoriale_centre_bourgogne",
+    "title": "Voies navigables de France (VNF) - Direction territoriale - Centre-Bourgogne",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/cote-d-or/service_navigation-21231-01",
+    "metadata": {
+      "email": "dt.centrebourgogne@vnf.fr",
+      "telephone": "03 45 34 13 00",
+      "url": "http://www.vnf.fr"
+    }
+  },
+  {
+    "id": "977fe3290f44960d2a77b1394d52b867597f623e",
+    "alternateName": "VNF",
+    "name": "voies_navigables_de_france_vnf_direction_territoriale_nord_est",
+    "title": "Voies navigables de France (VNF) - Direction territoriale - Nord-Est",
+    "url": "https://lannuaire.service-public.fr/grand-est/meurthe-et-moselle/service_navigation-54395-01",
+    "metadata": {
+      "email": "dt.nordest@vnf.fr",
+      "telephone": "03 83 95 30 01",
+      "url": "http://www.nordest.vnf.fr"
+    }
+  },
+  {
+    "id": "c07e4f65a5f0fa01e6f91dadfe723de249325a6e",
+    "alternateName": "VNF",
+    "name": "voies_navigables_de_france_vnf_direction_territoriale_nord_pas_de_calais",
+    "title": "Voies navigables de France (VNF) - Direction territoriale - Nord-Pas-de-Calais",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/nord/service_navigation-59350-01",
+    "metadata": {
+      "email": "dt-nordpasdecalais@vnf.fr",
+      "telephone": "03 20 15 49 70",
+      "url": "http://www.nordpasdecalais.vnf.fr"
+    }
+  },
+  {
+    "id": "3228713adc0d8851d5da217a258d13c79d72b6a8",
+    "alternateName": "VNF",
+    "name": "voies_navigables_de_france_vnf_direction_territoriale_rhone_saone",
+    "title": "Voies navigables de France (VNF) - Direction territoriale - Rhône-Saône",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/rhone/service_navigation-69385-01",
+    "metadata": {
+      "email": "dt.rhonesaone@vnf.fr",
+      "telephone": "04 72 56 59 00",
+      "url": "http://www.vnf.fr"
+    }
+  },
+  {
+    "id": "2500f6dbdc77886608e13fb3a5712502ba9133a0",
+    "alternateName": "VNF",
+    "name": "voies_navigables_de_france_vnf_direction_territoriale_strasbourg",
+    "title": "Voies navigables de France (VNF) - Direction territoriale - Strasbourg",
+    "url": "https://lannuaire.service-public.fr/grand-est/bas-rhin/service_navigation-67482-01",
+    "metadata": {
+      "email": "dt-strasbourg@vnf.fr",
+      "telephone": "03 67 07 92 15",
+      "url": "http://vnf-strasbourg.fr/"
+    }
+  },
+  {
+    "id": "aa04917a5b2a2d55f9b5a2148bac5c9c57e05f98",
+    "alternateName": "VNF",
+    "name": "voies_navigables_de_france_vnf_direction_territoriale_sud_ouest",
+    "title": "Voies navigables de France (VNF) - Direction territoriale - Sud-Ouest",
+    "url": "https://lannuaire.service-public.fr/occitanie/haute-garonne/service_navigation-31555-01",
+    "metadata": {
+      "email": "dt.sudouest@vnf.fr",
+      "telephone": "05 61 36 24 24",
+      "url": "http://www.sudouest.vnf.fr"
+    }
+  }
+]

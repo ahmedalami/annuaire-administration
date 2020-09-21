@@ -1,0 +1,310 @@
+[
+  {
+    "id": "9ef2dec79fcc892cc11c2ac037c02c3087a226e2",
+    "name": "onisep_delegation_regionale_auvergne_rhone_alpes_site_de_clermont_ferrand",
+    "title": "ONISEP - Délégation régionale Auvergne-Rhône-Alpes - Site de Clermont-Ferrand",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/puy-de-dome/dronisep-63075-01",
+    "metadata": {
+      "email": "droclermont@onisep.fr",
+      "telephone": "04 73 43 62 62",
+      "url": "http://www.onisep.fr/clermont-ferrand"
+    }
+  },
+  {
+    "id": "7fa081bd21bc9ce7853560d6aaee1723f8be6226",
+    "name": "onisep_delegation_regionale_auvergne_rhone_alpes_site_de_grenoble",
+    "title": "ONISEP - Délégation régionale Auvergne-Rhône-Alpes - Site de Grenoble",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/isere/dronisep-38185-01",
+    "metadata": {
+      "email": "drogrenoble@onisep.fr",
+      "telephone": "04 76 74 70 27",
+      "url": "http://www.onisep.fr/Pres-de-chez-vous/Auvergne-Rhone-Alpes/Grenoble"
+    }
+  },
+  {
+    "id": "a30cde398f5ddc8ad842ca2e2f6f0d64da2c88d4",
+    "name": "onisep_delegation_regionale_auvergne_rhone_alpes_site_de_lyon",
+    "title": "ONISEP - Délégation régionale Auvergne-Rhône-Alpes - Site de Lyon",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/rhone/dronisep-69385-01",
+    "metadata": {
+      "email": "drolyon@onisep.fr",
+      "telephone": "04 78 25 46 30",
+      "url": "http://www.onisep.fr/lyon"
+    }
+  },
+  {
+    "id": "1338ccaf2a0d4c76ad91f8d7fffdc9a7bdc6cc3b",
+    "name": "onisep_delegation_regionale_bourgogne_franche_comte_site_de_besancon",
+    "title": "ONISEP - Délégation régionale Bourgogne-Franche-Comté - Site de Besançon",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/doubs/dronisep-25056-01",
+    "metadata": {
+      "email": "drobesancon@onisep.fr",
+      "telephone": "03 81 65 74 90",
+      "url": "http://www.onisep.fr/besancon"
+    }
+  },
+  {
+    "id": "f43e8bc571c7c929c73ab988050fca65a7620c39",
+    "name": "onisep_delegation_regionale_bourgogne_franche_comte_site_de_dijon",
+    "title": "ONISEP - Délégation régionale Bourgogne-Franche-Comté - Site de Dijon",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/cote-d-or/dronisep-21231-01",
+    "metadata": {
+      "email": "drodijon@onisep.fr",
+      "telephone": "03 80 50 97 50",
+      "url": "http://www.onisep.fr/dijon"
+    }
+  },
+  {
+    "id": "c57ac522a52e75a43e36b2e829a9788a646323e1",
+    "name": "onisep_delegation_regionale_bretagne",
+    "title": "ONISEP - Délégation régionale Bretagne",
+    "url": "https://lannuaire.service-public.fr/bretagne/ille-et-vilaine/dronisep-35238-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 99 25 18 00",
+      "url": "http://www.onisep.fr/Pres-de-chez-vous/Bretagne/Rennes"
+    }
+  },
+  {
+    "id": "e6436241712e94eb097b60c210b2c9274442b184",
+    "name": "onisep_delegation_regionale_centre_val_de_loire",
+    "title": "ONISEP - Délégation régionale Centre-Val de Loire",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/loiret/dronisep-45234-01",
+    "metadata": {
+      "email": "droorleans@onisep.fr",
+      "telephone": "02 38 42 16 42",
+      "url": "http://www.onisep.fr/orleans"
+    }
+  },
+  {
+    "id": "272e2b0c8af9f518f71c2f963ad7ff4f7ec90200",
+    "name": "onisep_delegation_regionale_corse_corse_du_sud",
+    "title": "ONISEP - Délégation régionale Corse - Corse-du-Sud",
+    "url": "https://lannuaire.service-public.fr/corse/corse-du-sud/dronisep-2A004-01",
+    "metadata": {
+      "email": "drocorse@onisep.fr",
+      "telephone": "04 95 51 59 57",
+      "url": "http://www.onisep.fr/corse"
+    }
+  },
+  {
+    "id": "0e5860126562843d8145c69c56c44c1d17501981",
+    "name": "onisep_delegation_regionale_grand_est_site_de_nancy",
+    "title": "ONISEP - Délégation régionale Grand Est - Site de Nancy",
+    "url": "https://lannuaire.service-public.fr/grand-est/meurthe-et-moselle/dronisep-54395-01",
+    "metadata": {
+      "email": "dronancy@onisep.fr",
+      "telephone": "03 83 35 71 09",
+      "url": "http://www.onisep.fr/nancy"
+    }
+  },
+  {
+    "id": "99a81301780e56c3daa84dbbcb8f4796ffb9a899",
+    "name": "onisep_delegation_regionale_grand_est_site_de_reims",
+    "title": "ONISEP - Délégation régionale Grand Est - Site de Reims",
+    "url": "https://lannuaire.service-public.fr/grand-est/marne/dronisep-51454-01",
+    "metadata": {
+      "email": "droreims@onisep.fr",
+      "telephone": "03 26 40 32 63",
+      "url": "http://www.onisep.fr/reims"
+    }
+  },
+  {
+    "id": "2107a67cb82064bd2eab95cdba32f749adf0fced",
+    "name": "onisep_delegation_regionale_grand_est_site_de_strasbourg",
+    "title": "ONISEP - Délégation régionale Grand Est - Site de Strasbourg",
+    "url": "https://lannuaire.service-public.fr/grand-est/bas-rhin/dronisep-67482-01",
+    "metadata": {
+      "email": "drostrasbourg@onisep.fr",
+      "telephone": "03 88 15 09 35",
+      "url": "http://www.onisep.fr/strasbourg"
+    }
+  },
+  {
+    "id": "900097c794de931046a36def46e14386f5e860ab",
+    "name": "onisep_delegation_regionale_guadeloupe",
+    "title": "ONISEP - Délégation régionale Guadeloupe",
+    "url": "https://lannuaire.service-public.fr/guadeloupe/guadeloupe/dronisep-97101-01",
+    "metadata": {
+      "email": "droguadeloupe@onisep.fr",
+      "telephone": "+590 5 90 60 99 00",
+      "url": "http://www.onisep.fr/guadeloupe"
+    }
+  },
+  {
+    "id": "9bf86f0b0617476932bef943fe8273c9b5f6fff2",
+    "name": "onisep_delegation_regionale_guyane",
+    "title": "ONISEP - Délégation régionale Guyane",
+    "url": "https://lannuaire.service-public.fr/guyane/guyane/dronisep-97302-01",
+    "metadata": {
+      "email": "droguyane@onisep.fr",
+      "telephone": "+594 5 94 28 64 50",
+      "url": "http://www.onisep.fr"
+    }
+  },
+  {
+    "id": "c3262c5ee3b263963a213de8349abf2e34cb8c9b",
+    "name": "onisep_delegation_regionale_hauts_de_france_site_d_amiens",
+    "title": "ONISEP - Délégation régionale Hauts-de-France - Site d'Amiens",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/somme/dronisep-80021-01",
+    "metadata": {
+      "email": "droamiens@onisep.fr",
+      "telephone": "03 22 92 73 81",
+      "url": "http://www.onisep.fr/amiens"
+    }
+  },
+  {
+    "id": "b3064432c58e32830fc1da223d1818a8accd1a33",
+    "name": "onisep_delegation_regionale_hauts_de_france_site_de_lille",
+    "title": "ONISEP - Délégation régionale Hauts-de-France - Site de Lille",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/nord/dronisep-59350-01",
+    "metadata": {
+      "email": "drolille@onisep.fr",
+      "telephone": "03 20 15 81 61",
+      "url": "http://www.onisep.fr/lille"
+    }
+  },
+  {
+    "id": "0afe58d867c1419673ab9d52b6661f602e9eaf78",
+    "name": "onisep_delegation_regionale_ile_de_france",
+    "title": "ONISEP - Délégation régionale Île-de-France",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/hauts-de-seine/dronisep-92075-01",
+    "metadata": {
+      "email": "droidf@onisep.fr",
+      "telephone": "01 74 71 50 43",
+      "url": "http://www.onisep.fr/Pres-de-chez-vous/Ile-de-France/Creteil-Paris-Versailles/Qui-sommes-nous"
+    }
+  },
+  {
+    "id": "31b87ab7951fb7d0200164fa3ad115d6c03bb15c",
+    "name": "onisep_delegation_regionale_la_reunion",
+    "title": "ONISEP - Délégation régionale La Réunion",
+    "url": "https://lannuaire.service-public.fr/la-reunion/reunion/dronisep-97411-01",
+    "metadata": {
+      "email": "droreunion@onisep.fr",
+      "telephone": "+262 2 62 41 92 24",
+      "url": "http://www.onisep.fr/reunion"
+    }
+  },
+  {
+    "id": "326fee6f21090716f2c4daf366cb3ee9ba462959",
+    "name": "onisep_delegation_regionale_martinique",
+    "title": "ONISEP - Délégation régionale Martinique",
+    "url": "https://lannuaire.service-public.fr/martinique/martinique/dronisep-97209-01",
+    "metadata": {
+      "email": "dromartinique@onisep.fr",
+      "telephone": "+596 5 96 72 57 97",
+      "url": "http://www.onisep.fr/martinique"
+    }
+  },
+  {
+    "id": "b76c1fc41df0a3a4de18a67906e304e254560f93",
+    "name": "onisep_delegation_regionale_normandie_site_de_caen",
+    "title": "ONISEP - Délégation régionale Normandie - Site de Caen",
+    "url": "https://lannuaire.service-public.fr/normandie/calvados/dronisep-14118-01",
+    "metadata": {
+      "email": "drocaen@onisep.fr",
+      "telephone": "02 31 56 64 64",
+      "url": "http://www.onisep.fr/caen"
+    }
+  },
+  {
+    "id": "a9da776c4984d08b09153d1abed1635aaa75f491",
+    "name": "onisep_delegation_regionale_normandie_site_de_rouen",
+    "title": "ONISEP - Délégation régionale Normandie - Site de Rouen",
+    "url": "https://lannuaire.service-public.fr/normandie/seine-maritime/dronisep-76451-01",
+    "metadata": {
+      "email": "drorouen@onisep.fr",
+      "telephone": "02 32 08 98 30",
+      "url": "http://www.onisep.fr/rouen"
+    }
+  },
+  {
+    "id": "4dd230b7b057132baab69144ab7dc5f97f70cee4",
+    "name": "onisep_delegation_regionale_nouvelle_aquitaine_site_de_bordeaux",
+    "title": "ONISEP - Délégation régionale Nouvelle-Aquitaine - Site de Bordeaux",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/gironde/dronisep-33063-01",
+    "metadata": {
+      "email": "drobordeaux@onisep.fr",
+      "telephone": "05 40 54 71 41",
+      "url": "http://www.onisep.fr/bordeaux"
+    }
+  },
+  {
+    "id": "3699c5152dfec3dbdbb555d8cccbd532f104596b",
+    "name": "onisep_delegation_regionale_nouvelle_aquitaine_site_de_limoges",
+    "title": "ONISEP - Délégation régionale Nouvelle-Aquitaine - Site de Limoges",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/haute-vienne/dronisep-87085-01",
+    "metadata": {
+      "email": "drolimoges@onisep.fr",
+      "telephone": "05 55 43 28 10",
+      "url": "http://www.onisep.fr/limoges"
+    }
+  },
+  {
+    "id": "99d336cf8d315a0a5081c3ce73ce9fdce4bf0b59",
+    "name": "onisep_delegation_regionale_nouvelle_aquitaine_site_de_poitiers",
+    "title": "ONISEP - Délégation régionale Nouvelle-Aquitaine - Site de Poitiers",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/vienne/dronisep-86194-01",
+    "metadata": {
+      "email": "dropoitiers@onisep.fr",
+      "telephone": "05 16 52 69 30",
+      "url": "http://www.onisep.fr/poitiers"
+    }
+  },
+  {
+    "id": "245d90ae3a953ec58ead22ac05b1222967bfa151",
+    "name": "onisep_delegation_regionale_occitanie_site_de_montpellier",
+    "title": "ONISEP - Délégation régionale Occitanie - Site de Montpellier",
+    "url": "https://lannuaire.service-public.fr/occitanie/herault/dronisep-34172-01",
+    "metadata": {
+      "email": "dromontpellier@onisep.fr",
+      "telephone": "04 67 60 55 85",
+      "url": "http://www.onisep.fr/montpellier"
+    }
+  },
+  {
+    "id": "49cce2a2cd7a94710f083a82e7c87401ab6f3913",
+    "name": "onisep_delegation_regionale_occitanie_site_de_toulouse",
+    "title": "ONISEP - Délégation régionale Occitanie - Site de Toulouse",
+    "url": "https://lannuaire.service-public.fr/occitanie/haute-garonne/dronisep-31555-01",
+    "metadata": {
+      "email": "drotoulouse@onisep.fr",
+      "telephone": "05 36 25 82 10",
+      "url": "http://www.onisep.fr/toulouse"
+    }
+  },
+  {
+    "id": "ee909be870443013a1f25486c5ca0c6eba65f2c1",
+    "name": "onisep_delegation_regionale_pays_de_la_loire",
+    "title": "ONISEP - Délégation régionale Pays de la Loire",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/loire-atlantique/dronisep-44109-01",
+    "metadata": {
+      "email": "dronantes@onisep.fr",
+      "telephone": "02 40 16 02 16",
+      "url": "http://www.onisep.fr/nantes"
+    }
+  },
+  {
+    "id": "57639d88f94262e6e591e447c9a085b420627d9d",
+    "name": "onisep_delegation_regionale_provence_alpes_cote_d_azur_site_d_aix_marseille",
+    "title": "ONISEP - Délégation régionale Provence-Alpes-Côte d'Azur - Site d'Aix-Marseille",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/dronisep-13001-01",
+    "metadata": {
+      "email": "droaix@onisep.fr",
+      "telephone": "04 42 91 75 99",
+      "url": "http://www.onisep.fr/Pres-de-chez-vous/Provence-Alpes-Cote-d-Azur/Aix-Marseille"
+    }
+  },
+  {
+    "id": "66639cbc24f6175ccc3eafa97cb5b29ff5cab6f3",
+    "name": "onisep_delegation_regionale_provence_alpes_cote_d_azur_site_de_nice",
+    "title": "ONISEP - Délégation régionale Provence-Alpes-Côte d'Azur - Site de Nice",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/alpes-maritimes/dronisep-06088-01",
+    "metadata": {
+      "email": "dronice@onisep.fr",
+      "telephone": "04 93 53 70 66",
+      "url": "http://www.onisep.fr/nice"
+    }
+  }
+]

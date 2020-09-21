@@ -1,0 +1,338 @@
+[
+  {
+    "id": "972bde8aff15963ba5ebe029960f8aee514e5d8f",
+    "alternateName": "CIR",
+    "name": "centre_dinformation_et_de_recrutement_cir_de_la_gendarmerie_nationale_amiens",
+    "title": "Centre d'information et de recrutement (CIR) de la gendarmerie nationale - Amiens",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/somme/cirgn-80021-01",
+    "metadata": {
+      "email": "https://www.lagendarmerierecrute.fr/Contacts",
+      "telephone": "03 22 72 12 22",
+      "url": "https://www.lagendarmerierecrute.fr/Pres-de-chez-vous/AMIENS"
+    }
+  },
+  {
+    "id": "2c53a99d09ddcb1de22c55a80d55b503a700bcde",
+    "alternateName": "CIR",
+    "name": "centre_dinformation_et_de_recrutement_cir_de_la_gendarmerie_nationale_besancon",
+    "title": "Centre d'information et de recrutement (CIR) de la gendarmerie nationale - Besançon",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/doubs/cirgn-25056-01",
+    "metadata": {
+      "email": "https://www.lagendarmerierecrute.fr/Contacts",
+      "telephone": "03 81 40 50 47",
+      "url": "https://www.lagendarmerierecrute.fr/Pres-de-chez-vous/BESANCON"
+    }
+  },
+  {
+    "id": "bf37240b979edb860ebdb24dc2b9bb4720b719c9",
+    "alternateName": "CIR",
+    "name": "centre_dinformation_et_de_recrutement_cir_de_la_gendarmerie_nationale_bordeaux",
+    "title": "Centre d'information et de recrutement (CIR) de la gendarmerie nationale - Bordeaux",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/gironde/cirgn-33063-01",
+    "metadata": {
+      "email": "https://www.lagendarmerierecrute.fr/Contacts",
+      "telephone": "05 56 52 23 10",
+      "url": "https://www.lagendarmerierecrute.fr/Pres-de-chez-vous/BORDEAUX"
+    }
+  },
+  {
+    "id": "c3c02f7c86985a7a05a69ead8ad0a028e4a0fdaf",
+    "alternateName": "CIR",
+    "name": "centre_dinformation_et_de_recrutement_cir_de_la_gendarmerie_nationale_caen",
+    "title": "Centre d'information et de recrutement (CIR) de la gendarmerie nationale - Caen",
+    "url": "https://lannuaire.service-public.fr/normandie/calvados/cirgn-14118-01",
+    "metadata": {
+      "email": "https://www.lagendarmerierecrute.fr/Contacts",
+      "telephone": "0820 220 221 (0,09€ TTC/mn)",
+      "url": "https://www.lagendarmerierecrute.fr/Pres-de-chez-vous/CAEN"
+    }
+  },
+  {
+    "id": "95da63e8f3ef4789282382236f47da22b386366c",
+    "alternateName": "CIR",
+    "name": "centre_dinformation_et_de_recrutement_cir_de_la_gendarmerie_nationale_clermont_ferrand",
+    "title": "Centre d'information et de recrutement (CIR) de la gendarmerie nationale - Clermont-Ferrand",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/puy-de-dome/cirgn-63113-01",
+    "metadata": {
+      "email": "https://www.lagendarmerierecrute.fr/Contacts",
+      "telephone": "04 73 41 38 09",
+      "url": "https://www.lagendarmerierecrute.fr/Pres-de-chez-vous/CLERMONT-FERRAND"
+    }
+  },
+  {
+    "id": "b35f19fbfcee6616228def3bde3ab81e917ab5c3",
+    "alternateName": "CIR",
+    "name": "centre_dinformation_et_de_recrutement_cir_de_la_gendarmerie_nationale_dijon",
+    "title": "Centre d'information et de recrutement (CIR) de la gendarmerie nationale - Dijon",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/cote-d-or/cirgn-21231-01",
+    "metadata": {
+      "email": "https://www.lagendarmerierecrute.fr/Contacts",
+      "telephone": "03 80 70 66 93",
+      "url": "https://www.lagendarmerierecrute.fr/Pres-de-chez-vous/DIJON"
+    }
+  },
+  {
+    "id": "5d03d496f582ee23a36238278e9366972e8f5d4e",
+    "alternateName": "CIR",
+    "name": "centre_dinformation_et_de_recrutement_cir_de_la_gendarmerie_nationale_lille",
+    "title": "Centre d'information et de recrutement (CIR) de la gendarmerie nationale - Lille",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/nord/cirgn-59350-01",
+    "metadata": {
+      "email": "https://www.lagendarmerierecrute.fr/Contacts",
+      "telephone": "03 20 16 96 79",
+      "url": "https://www.lagendarmerierecrute.fr/Pres-de-chez-vous/LILLE"
+    }
+  },
+  {
+    "id": "ed5b1601649c470790de6d0636225d9bcd7f2ac0",
+    "alternateName": "CIR",
+    "name": "centre_dinformation_et_de_recrutement_cir_de_la_gendarmerie_nationale_limoges",
+    "title": "Centre d'information et de recrutement (CIR) de la gendarmerie nationale - Limoges",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/haute-vienne/cirgn-87085-01",
+    "metadata": {
+      "email": "https://www.lagendarmerierecrute.fr/Contacts",
+      "telephone": "05 55 10 70 70",
+      "url": "https://www.lagendarmerierecrute.fr/Pres-de-chez-vous/LIMOGES"
+    }
+  },
+  {
+    "id": "afc78ca60f71cc560b1c39aa593417127ddfbf53",
+    "alternateName": "CIR",
+    "name": "centre_dinformation_et_de_recrutement_cir_de_la_gendarmerie_nationale_lyon",
+    "title": "Centre d'information et de recrutement (CIR) de la gendarmerie nationale - Lyon",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/rhone/cirgn-69382-01",
+    "metadata": {
+      "email": "https://www.lagendarmerierecrute.fr/Contacts",
+      "telephone": "04 78 60 63 65",
+      "url": "https://www.lagendarmerierecrute.fr/Pres-de-chez-vous/LYON"
+    }
+  },
+  {
+    "id": "21920321fc15c3f1bc0522b60c9cf9c3876b0d2e",
+    "alternateName": "CIR",
+    "name": "centre_dinformation_et_de_recrutement_cir_de_la_gendarmerie_nationale_marseille",
+    "title": "Centre d'information et de recrutement (CIR) de la gendarmerie nationale - Marseille",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/cirgn-13210-01",
+    "metadata": {
+      "email": "cir.marseille@gendarmerie.interieur.gouv.fr",
+      "telephone": "04 91 85 73 20",
+      "url": "https://www.lagendarmerierecrute.fr/Pres-de-chez-vous/MARSEILLE"
+    }
+  },
+  {
+    "id": "590b9c3c085366b7494efbdf64b59e3b86fbc3e3",
+    "alternateName": "CIR",
+    "name": "centre_dinformation_et_de_recrutement_cir_de_la_gendarmerie_nationale_metz",
+    "title": "Centre d'information et de recrutement (CIR) de la gendarmerie nationale - Metz",
+    "url": "https://lannuaire.service-public.fr/grand-est/moselle/cirgn-57463-01",
+    "metadata": {
+      "email": "https://www.lagendarmerierecrute.fr/Contacts",
+      "telephone": "03 87 74 85 37",
+      "url": "https://www.lagendarmerierecrute.fr/Pres-de-chez-vous/METZ"
+    }
+  },
+  {
+    "id": "ed9f07f24dd79c3c9152e0adb2d21aa5cc1447a6",
+    "alternateName": "CIR",
+    "name": "centre_dinformation_et_de_recrutement_cir_de_la_gendarmerie_nationale_montpellier",
+    "title": "Centre d'information et de recrutement (CIR) de la gendarmerie nationale - Montpellier",
+    "url": "https://lannuaire.service-public.fr/occitanie/herault/cirgn-34172-01",
+    "metadata": {
+      "email": "https://www.lagendarmerierecrute.fr/Contacts",
+      "telephone": "04 67 123 999",
+      "url": "https://www.lagendarmerierecrute.fr/Pres-de-chez-vous/MONTPELLIER"
+    }
+  },
+  {
+    "id": "152b6065b0c1b1901879d0d9aac8187b13e88d5f",
+    "alternateName": "CIR",
+    "name": "centre_dinformation_et_de_recrutement_cir_de_la_gendarmerie_nationale_nantes",
+    "title": "Centre d'information et de recrutement (CIR) de la gendarmerie nationale - Nantes",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/loire-atlantique/cirgn-44109-01",
+    "metadata": {
+      "email": "https://www.lagendarmerierecrute.fr/Contacts",
+      "telephone": "02 40 20 24 24",
+      "url": "https://www.lagendarmerierecrute.fr/Pres-de-chez-vous/NANTES"
+    }
+  },
+  {
+    "id": "ebf2f362a32250f6ed77cb2342df46d151db06b2",
+    "alternateName": "CIR",
+    "name": "centre_dinformation_et_de_recrutement_cir_de_la_gendarmerie_nationale_orleans",
+    "title": "Centre d'information et de recrutement (CIR) de la gendarmerie nationale - Orléans",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/loiret/cirgn-45234-01",
+    "metadata": {
+      "email": "https://www.lagendarmerierecrute.fr/Contacts",
+      "telephone": "02 38 53 90 95",
+      "url": "https://www.lagendarmerierecrute.fr/Pres-de-chez-vous/ORLEANS"
+    }
+  },
+  {
+    "id": "444a871c967489cc4cbecae0bedc3a0b9bf48084",
+    "alternateName": "CIR",
+    "name": "centre_dinformation_et_de_recrutement_cir_de_la_gendarmerie_nationale_paris",
+    "title": "Centre d'information et de recrutement (CIR) de la gendarmerie nationale - Paris",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/paris/cirgn-75110-01",
+    "metadata": {
+      "email": "https://www.lagendarmerierecrute.fr/Contacts",
+      "telephone": "0 820 220 221 (0,09€ TTC/mn)",
+      "url": "https://www.lagendarmerierecrute.fr/Pres-de-chez-vous/PARIS"
+    }
+  },
+  {
+    "id": "3feb6c793cd36b5b92fa2c48af5d6a4e5e54b6ba",
+    "alternateName": "CIR",
+    "name": "centre_dinformation_et_de_recrutement_cir_de_la_gendarmerie_nationale_poitiers",
+    "title": "Centre d'information et de recrutement (CIR) de la gendarmerie nationale - Poitiers",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/vienne/cirgn-86194-01",
+    "metadata": {
+      "email": "https://www.lagendarmerierecrute.fr/Contacts",
+      "telephone": "05 49 61 66 66",
+      "url": "https://www.lagendarmerierecrute.fr/Pres-de-chez-vous/POITIERS"
+    }
+  },
+  {
+    "id": "20e53c63e43c46aa1e7f4713f667117bfc35c7d8",
+    "alternateName": "CIR",
+    "name": "centre_dinformation_et_de_recrutement_cir_de_la_gendarmerie_nationale_reims",
+    "title": "Centre d'information et de recrutement (CIR) de la gendarmerie nationale - Reims",
+    "url": "https://lannuaire.service-public.fr/grand-est/marne/cirgn-51454-01",
+    "metadata": {
+      "email": "https://www.lagendarmerierecrute.fr/Contacts",
+      "telephone": "03 26 07 98 88",
+      "url": "https://www.lagendarmerierecrute.fr/Pres-de-chez-vous/REIMS"
+    }
+  },
+  {
+    "id": "01133a0a48983e842251781354efac6332d074d6",
+    "alternateName": "CIR",
+    "name": "centre_dinformation_et_de_recrutement_cir_de_la_gendarmerie_nationale_rennes",
+    "title": "Centre d'information et de recrutement (CIR) de la gendarmerie nationale - Rennes",
+    "url": "https://lannuaire.service-public.fr/bretagne/ille-et-vilaine/cirgn-35238-01",
+    "metadata": {
+      "email": "https://www.lagendarmerierecrute.fr/Contacts",
+      "telephone": "02 99 32 52 90",
+      "url": "https://www.lagendarmerierecrute.fr/Pres-de-chez-vous/RENNES"
+    }
+  },
+  {
+    "id": "39934b5d7340da8bd5c7e5f4ce3901a60d1edab0",
+    "alternateName": "CIR",
+    "name": "centre_dinformation_et_de_recrutement_cir_de_la_gendarmerie_nationale_rouen",
+    "title": "Centre d'information et de recrutement (CIR) de la gendarmerie nationale - Rouen",
+    "url": "https://lannuaire.service-public.fr/normandie/seine-maritime/cirgn-76540-01",
+    "metadata": {
+      "email": "https://www.lagendarmerierecrute.fr/Contacts",
+      "telephone": "02 35 14 43 91",
+      "url": "https://www.lagendarmerierecrute.fr/Pres-de-chez-vous/ROUEN"
+    }
+  },
+  {
+    "id": "315144222925b87a720a3a585ab6e5f7c2a7a8d0",
+    "alternateName": "CIR",
+    "name": "centre_dinformation_et_de_recrutement_cir_de_la_gendarmerie_nationale_strasbourg",
+    "title": "Centre d'information et de recrutement (CIR) de la gendarmerie nationale - Strasbourg",
+    "url": "https://lannuaire.service-public.fr/grand-est/bas-rhin/cirgn-67482-01",
+    "metadata": {
+      "email": "https://www.lagendarmerierecrute.fr/Contacts",
+      "telephone": "03 88 22 23 33",
+      "url": "https://www.lagendarmerierecrute.fr/Pres-de-chez-vous/STRASBOURG"
+    }
+  },
+  {
+    "id": "7bd9176adfe6d4b5953d19d485f2536eb1b29071",
+    "alternateName": "CIR",
+    "name": "centre_dinformation_et_de_recrutement_cir_de_la_gendarmerie_nationale_toulouse",
+    "title": "Centre d'information et de recrutement (CIR) de la gendarmerie nationale - Toulouse",
+    "url": "https://lannuaire.service-public.fr/occitanie/haute-garonne/cirgn-31555-01",
+    "metadata": {
+      "email": "https://www.lagendarmerierecrute.fr/Contacts",
+      "telephone": "05 61 17 48 49",
+      "url": "https://www.lagendarmerierecrute.fr/Pres-de-chez-vous/TOULOUSE"
+    }
+  },
+  {
+    "id": "8c48b99ec2aa4bcbb12fdf414ab0e4575d3a5cb4",
+    "alternateName": "CRCS",
+    "name": "centre_de_recrutement_concours_et_selection_crcs_de_la_gendarmerie_nationale_cayenne_guyane",
+    "title": "Centre de recrutement concours et sélection (CRCS) de la gendarmerie nationale - Cayenne (Guyane)",
+    "url": "https://lannuaire.service-public.fr/guyane/guyane/cirgn-97302-01",
+    "metadata": {
+      "email": "https://www.lagendarmerierecrute.fr/Contacts",
+      "telephone": "0820 220 221 (0,09€ TTC/mn)",
+      "url": "https://www.lagendarmerierecrute.fr/Pres-de-chez-vous/CAYENNE"
+    }
+  },
+  {
+    "id": "f5263ba7709318ac9e9026e851b41c080753bd5a",
+    "alternateName": "CRCS",
+    "name": "centre_de_recrutement_concours_et_selection_crcs_de_la_gendarmerie_nationale_fort_de_france_martinique",
+    "title": "Centre de recrutement concours et sélection (CRCS) de la gendarmerie nationale - Fort-de-France (Martinique)",
+    "url": "https://lannuaire.service-public.fr/martinique/martinique/cirgn-97209-01",
+    "metadata": {
+      "email": "https://www.lagendarmerierecrute.fr/Contacts",
+      "telephone": "0820 220 221 (0,09€ TTC/mn)",
+      "url": "https://www.lagendarmerierecrute.fr/Pres-de-chez-vous/FORT-DE-FRANCE-MARTINIQUE"
+    }
+  },
+  {
+    "id": "a993779fddbf93aa6ef27a71db54865bdbdf42b8",
+    "alternateName": "CRCS",
+    "name": "centre_de_recrutement_concours_et_selection_crcs_de_la_gendarmerie_nationale_noumea_nouvelle_caledonie",
+    "title": "Centre de recrutement concours et sélection (CRCS) de la gendarmerie nationale - Nouméa (Nouvelle-Calédonie)",
+    "url": "https://lannuaire.service-public.fr/collectivites-d-outre-mer/nouvelle-caledonie/cirgn-98818-01",
+    "metadata": {
+      "email": "https://www.lagendarmerierecrute.fr/Contacts",
+      "telephone": "0820 220 221 (0,09€ TTC/mn)",
+      "url": "https://www.lagendarmerierecrute.fr"
+    }
+  },
+  {
+    "id": "02244cee5384fce7374421df39edaf9269318881",
+    "alternateName": "CRCS",
+    "name": "centre_de_recrutement_concours_et_selection_crcs_de_la_gendarmerie_nationale_pamandzi_mayotte",
+    "title": "Centre de recrutement concours et sélection  (CRCS) de la gendarmerie nationale - Pamandzi (Mayotte)",
+    "url": "https://lannuaire.service-public.fr/mayotte/mayotte/cirgn-97615-01",
+    "metadata": {
+      "email": "https://www.lagendarmerierecrute.fr/Contacts",
+      "telephone": "0820 220 221 (0,09€ TTC/mn)",
+      "url": "https://www.lagendarmerierecrute.fr/Pres-de-chez-vous/MAYOTTE"
+    }
+  },
+  {
+    "id": "d029b70d3a89b3eafae4be4749b5b3f7506bbc69",
+    "alternateName": "CRCS",
+    "name": "centre_de_recrutement_concours_et_selection_crcs_de_la_gendarmerie_nationale_papeete_tahiti_polynesie_francaise",
+    "title": "Centre de recrutement concours et sélection (CRCS) de la gendarmerie nationale - Papeete Tahiti (Polynésie française)",
+    "url": "https://lannuaire.service-public.fr/collectivites-d-outre-mer/polynesie-francaise/cirgn-98735-01",
+    "metadata": {
+      "email": "https://www.lagendarmerierecrute.fr/Contacts",
+      "telephone": "0820 220 221 (0,09€ TTC/mn)",
+      "url": "https://www.lagendarmerierecrute.fr"
+    }
+  },
+  {
+    "id": "43e6da66d881f9e5176144168ec2c50c173a8838",
+    "alternateName": "CRCS",
+    "name": "centre_de_recrutement_concours_et_selection_crcs_de_la_gendarmerie_nationale_saint_claude_guadeloupe",
+    "title": "Centre de recrutement concours et sélection  (CRCS) de la gendarmerie nationale - Saint-Claude (Guadeloupe)",
+    "url": "https://lannuaire.service-public.fr/guadeloupe/guadeloupe/cirgn-97124-01",
+    "metadata": {
+      "email": "https://www.lagendarmerierecrute.fr/Contacts",
+      "telephone": "0820 220 221 (0,09€ TTC/mn)",
+      "url": "https://www.lagendarmerierecrute.fr/Pres-de-chez-vous/SAINT-CLAUDE"
+    }
+  },
+  {
+    "id": "bdc613f603540a663c5398d6243fc284edf3fb39",
+    "alternateName": "CRCS",
+    "name": "centre_de_recrutement_concours_et_selection_crcs_de_la_gendarmerie_nationale_saint_denis_la_reunion",
+    "title": "Centre de recrutement concours et sélection (CRCS) de la gendarmerie nationale - Saint-Denis (La Réunion)",
+    "url": "https://lannuaire.service-public.fr/la-reunion/reunion/cirgn-97411-01",
+    "metadata": {
+      "email": "https://www.lagendarmerierecrute.fr/Contacts",
+      "telephone": "0820 220 221 (0,09€ TTC/mn)",
+      "url": "https://www.lagendarmerierecrute.fr/Pres-de-chez-vous/LA-REUNION"
+    }
+  }
+]

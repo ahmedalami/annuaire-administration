@@ -1,0 +1,928 @@
+[
+  {
+    "id": "666792a7213b06f07ad8c4135452b6eb1e426113",
+    "alternateName": "CAMP",
+    "name": "centre_d_analyses_mediterranee_pyrenees_camp_pyrenees_orientales",
+    "title": "Centre d'Analyses Méditerranée Pyrénées (CAMP) - Pyrénées-Orientales",
+    "url": "https://lannuaire.service-public.fr/occitanie/pyrenees-orientales/laboratoire_departemental-66136-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 68 68 33 00",
+      "url": "http://www.camp-lda.com"
+    }
+  },
+  {
+    "id": "8d48810ec349035c4f45edc67de9bf3f58485fc1",
+    "alternateName": "Laboratoire départemental d'analyses",
+    "name": "inovalys_laboratoire_departemental_danalyses_indre_et_loire",
+    "title": "Inovalys (Laboratoire départemental d'analyses) - Indre-et-Loire",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/indre-et-loire/laboratoire_departemental-37261-01",
+    "metadata": {
+      "email": "contact@inovalys.fr",
+      "telephone": "02 47 29 44 47",
+      "url": "https://www.inovalys.fr/"
+    }
+  },
+  {
+    "id": "b2764e2b896df7857c77c55bec9b4ca6b7ef13f3",
+    "alternateName": "Laboratoire départemental d'analyses",
+    "name": "inovalys_laboratoire_departemental_danalyses_loire_atlantique",
+    "title": "Inovalys (Laboratoire départemental d'analyses) - Loire-Atlantique",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/loire-atlantique/laboratoire_departemental-44109-01",
+    "metadata": {
+      "email": "contact@inovalys.fr",
+      "telephone": "02 51 85 44 50",
+      "url": "https://www.inovalys.fr/"
+    }
+  },
+  {
+    "id": "55a3b1a82ccc385be536da10dcc3f8ff8fff19ff",
+    "alternateName": "Laboratoire départemental d'analyses",
+    "name": "inovalys_laboratoire_departemental_danalyses_maine_et_loire",
+    "title": "Inovalys (Laboratoire départemental d'analyses) - Maine-et-Loire",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/maine-et-loire/laboratoire_departemental-49007-01",
+    "metadata": {
+      "email": "contact@inovalys.fr",
+      "telephone": "02 41 22 68 10",
+      "url": "https://www.inovalys.fr/"
+    }
+  },
+  {
+    "id": "d4bdfd7cd15c472b66e04ee8376b4aad50861518",
+    "alternateName": "Laboratoire départemental d'analyses",
+    "name": "inovalys_laboratoire_departemental_danalyses_sarthe",
+    "title": "Inovalys (Laboratoire départemental d'analyses) - Sarthe",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/sarthe/laboratoire_departemental-72181-01",
+    "metadata": {
+      "email": "contact@inovalys.fr",
+      "telephone": "02 43 39 95 80",
+      "url": "https://www.inovalys.fr/"
+    }
+  },
+  {
+    "id": "017454699c0521a22ded5fb849fb4bd0b4bd51a8",
+    "alternateName": "Pôle d'analyses et de recherche de Normandie",
+    "name": "labeo_pole_danalyses_et_de_recherche_de_normandie_eure",
+    "title": "Labéo (Pôle d'analyses et de recherche de Normandie) - Eure",
+    "url": "https://lannuaire.service-public.fr/normandie/eure/laboratoire_departemental-27229-01",
+    "metadata": {
+      "email": "le-client@laboratoire-labeo.fr",
+      "telephone": "02 32 38 26 70",
+      "url": "http://www.laboratoire-labeo.fr"
+    }
+  },
+  {
+    "id": "031253dad3f3ed620765a9f6408112a6a840916e",
+    "alternateName": "Pôle d'analyses et de recherche de Normandie",
+    "name": "labeo_pole_danalyses_et_de_recherche_de_normandie_manche",
+    "title": "Labéo (Pôle d'analyses et de recherche de Normandie) - Manche",
+    "url": "https://lannuaire.service-public.fr/normandie/manche/laboratoire_departemental-50502-01",
+    "metadata": {
+      "email": "lm-client@laboratoire-labeo.fr",
+      "telephone": "02 33 75 63 00",
+      "url": "http://www.laboratoire-labeo.fr"
+    }
+  },
+  {
+    "id": "c21eb92df751069ca497108a80eddc72ed3be910",
+    "alternateName": "Pôle d'analyses et de recherche de Normandie",
+    "name": "labeo_pole_danalyses_et_de_recherche_de_normandie_orne",
+    "title": "Labéo (Pôle d'analyses et de recherche de Normandie) - Orne",
+    "url": "https://lannuaire.service-public.fr/normandie/orne/laboratoire_departemental-61001-01",
+    "metadata": {
+      "email": "lo-client@laboratoire-labeo.fr",
+      "telephone": "02 33 82 39 00",
+      "url": "http://www.laboratoire-labeo.fr"
+    }
+  },
+  {
+    "id": "08203fe05ec27e5fa27e667cc96fa4e4637b23f5",
+    "alternateName": "Pôle d'analyses et de recherche de Normandie",
+    "name": "labeo_frank_duncombe_pole_danalyses_et_de_recherche_de_normandie_calvados",
+    "title": "Labéo Frank Duncombe (Pôle d'analyses et de recherche de Normandie) - Calvados",
+    "url": "https://lannuaire.service-public.fr/normandie/calvados/laboratoire_departemental-14566-01",
+    "metadata": {
+      "email": "Lfd-client@laboratoire-labeo.fr",
+      "telephone": "02 31 47 19 19",
+      "url": "http://www.laboratoire-labeo.fr"
+    }
+  },
+  {
+    "id": "02eba9a0678150bf1fc408c0133570e93162f4f9",
+    "alternateName": "Laboratoire départemental d'analyses",
+    "name": "labocea_laboratoire_departemental_danalyses_cotes_d_armor",
+    "title": "Labocea (Laboratoire départemental d'analyses) - Côtes-d'Armor",
+    "url": "https://lannuaire.service-public.fr/bretagne/cotes-d-armor/laboratoire_departemental-22215-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 96 01 37 22",
+      "url": "https://www.labocea.fr"
+    }
+  },
+  {
+    "id": "45fdbb84b10dbc619b988de93488cd53496ea957",
+    "alternateName": "Laboratoire départemental d'analyses",
+    "name": "labocea_laboratoire_departemental_danalyses_finistere_brest",
+    "title": "Labocea (Laboratoire départemental d'analyses) - Finistère (Brest)",
+    "url": "https://lannuaire.service-public.fr/bretagne/finistere/laboratoire_departemental-29212-02",
+    "metadata": {
+      "email": "",
+      "telephone": "02 98 34 11 00",
+      "url": "https://www.labocea.fr"
+    }
+  },
+  {
+    "id": "aea38af9fe62c21d9094ae1da21a75a247bb05ac",
+    "alternateName": "Laboratoire départemental d'analyses",
+    "name": "labocea_laboratoire_departemental_danalyses_finistere_quimper",
+    "title": "Labocea (Laboratoire départemental d'analyses) - Finistère (Quimper)",
+    "url": "https://lannuaire.service-public.fr/bretagne/finistere/laboratoire_departemental-29232-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 98 10 28 88",
+      "url": "https://www.labocea.fr"
+    }
+  },
+  {
+    "id": "dbda70992aa9baf58bd2075e35a5a7c20b47f2f8",
+    "alternateName": "Laboratoire départemental d'analyses",
+    "name": "labocea_laboratoire_departemental_danalyses_ille_et_vilaine",
+    "title": "Labocea (Laboratoire départemental d'analyses) - Ille-et-Vilaine",
+    "url": "https://lannuaire.service-public.fr/bretagne/ille-et-vilaine/laboratoire_departemental-35115-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 99 94 74 10",
+      "url": "https://www.labocea.fr"
+    }
+  },
+  {
+    "id": "19de2046e8cb8a26ed517e7328afce3fcf47c827",
+    "alternateName": "LDAE 95",
+    "name": "laboratoire_departemental_danalyse_de_leau_val_d_oise_ldae_95",
+    "title": "Laboratoire départemental d'analyse de l'eau - Val-d'Oise (LDAE 95)",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/val-d-oise/laboratoire_departemental-95127-01",
+    "metadata": {
+      "email": "ldae95@valdoise.fr",
+      "telephone": "01 34 25 30 30",
+      "url": "https://www.valdoise.fr/523-le-laboratoire-d-analyse-de-l-eau.htm"
+    }
+  },
+  {
+    "id": "6f9d84418b19dc90d09ea062e630e18b3dbb4a15",
+    "alternateName": "LDA01",
+    "name": "laboratoire_departemental_danalyses_ain_lda_01",
+    "title": "Laboratoire départemental d'analyses - Ain (LDA01)",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/ain/laboratoire_departemental-01053-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 74 45 52 40",
+      "url": "https://www.alimentec.com/laboratoire-departemental-d-analyses-lda-01.html"
+    }
+  },
+  {
+    "id": "cd2704ea7e0fb3eccadaf003bd958cd564cb8e45",
+    "name": "laboratoire_departemental_danalyses_allier",
+    "title": "Laboratoire départemental d'analyses - Allier",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/allier/laboratoire_departemental-03190-01",
+    "metadata": {
+      "email": "contact@allier.fr",
+      "telephone": "04 70 47 71 00",
+      "url": "http://www.allier.fr"
+    }
+  },
+  {
+    "id": "31dfae10229d6eddd24b00f9634828eb2477882e",
+    "name": "laboratoire_departemental_danalyses_ardennes",
+    "title": "Laboratoire départemental d'analyses - Ardennes",
+    "url": "https://lannuaire.service-public.fr/grand-est/ardennes/laboratoire_departemental-08205-01",
+    "metadata": {
+      "email": "labo08@cd08.fr",
+      "telephone": "03 24 59 61 53",
+      "url": "https://cd08.fr/le-conseil-departemental/les-services-departementaux/le-laboratoire-departemental-danalyses-des-ardennes"
+    }
+  },
+  {
+    "id": "aea14489ff2a4a383f130d1af7257ebbd1bd0423",
+    "name": "laboratoire_departemental_danalyses_aube",
+    "title": "Laboratoire départemental d'analyses - Aube",
+    "url": "https://lannuaire.service-public.fr/grand-est/aube/laboratoire_departemental-10387-01",
+    "metadata": {
+      "email": "departement.lvd@aube.fr",
+      "telephone": "03 25 42 52 00",
+      "url": "http://www.aube.fr/262-laboratoire-departemental.htm"
+    }
+  },
+  {
+    "id": "b8badbcd2d68d6814168f2bac464fe859e0a5548",
+    "alternateName": "LDA67",
+    "name": "laboratoire_departemental_danalyses_bas_rhin_lda_67",
+    "title": "Laboratoire départemental d'analyses - Bas-Rhin (LDA67)",
+    "url": "https://lannuaire.service-public.fr/grand-est/bas-rhin/laboratoire_departemental-67482-01",
+    "metadata": {
+      "email": "lvd.67@bas-rhin.fr",
+      "telephone": "03 69 33 23 23",
+      "url": "https://www.bas-rhin.fr/habitat-environnement/laboratoire-departemental-d-analyses/"
+    }
+  },
+  {
+    "id": "eee0329c681564667398aa32725c3a22a177171a",
+    "alternateName": "LDA13",
+    "name": "laboratoire_departemental_danalyses_bouches_du_rhone_lda_13",
+    "title": "Laboratoire départemental d'analyses - Bouches-du-Rhône (LDA13)",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/laboratoire_departemental-13213-01",
+    "metadata": {
+      "email": "lda13@cg13.fr",
+      "telephone": "04 13 31 90 00",
+      "url": "https://www.departement13.fr/nos-actions/sante/les-dispositifs/lda/"
+    }
+  },
+  {
+    "id": "aaf9133626d086263e6d5dfa6e2984a63017f728",
+    "name": "laboratoire_departemental_danalyses_charente",
+    "title": "Laboratoire départemental d'analyses - Charente",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/charente/laboratoire_departemental-16015-01",
+    "metadata": {
+      "email": "contact@lacharente.fr",
+      "telephone": "05 16 09 50 12",
+      "url": "https://www.lacharente.fr/le-departement/les-actions-du-departement/environnement-et-espaces-naturels/#c909"
+    }
+  },
+  {
+    "id": "a35e30dd8a959ca4617814c8434af13210679db6",
+    "name": "laboratoire_departemental_danalyses_cher",
+    "title": "Laboratoire départemental d'analyses - Cher",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/cher/laboratoire_departemental-18033-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 48 21 15 31",
+      "url": "https://www.labo18.fr/"
+    }
+  },
+  {
+    "id": "6127c665c958e5f0d9bf41a39a521122e4544b02",
+    "name": "laboratoire_departemental_danalyses_cote_d_or",
+    "title": "Laboratoire départemental d'analyses - Côte-d'Or",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/cote-d-or/laboratoire_departemental-21231-01",
+    "metadata": {
+      "email": "laboratoire.departemental@cotedor.fr",
+      "telephone": "03 80 63 27 31",
+      "url": "http://www.ldco.cotedor.fr/"
+    }
+  },
+  {
+    "id": "4fee2b8e8fe23f686b7b74891fd35d299a23e944",
+    "name": "laboratoire_departemental_danalyses_creuse",
+    "title": "Laboratoire départemental d'analyses - Creuse",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/creuse/laboratoire_departemental-23002-01",
+    "metadata": {
+      "email": "laboratoire@creuse.fr",
+      "telephone": "05 55 81 87 30",
+      "url": "http://www.laboratoire-analyses-creuse.fr/"
+    }
+  },
+  {
+    "id": "57eb150e8ad4e72be1df3eeeb2c2a6d9f4a52e5d",
+    "alternateName": "LDAR 24",
+    "name": "laboratoire_departemental_danalyses_et_de_recherche_dordogne_ldar_24",
+    "title": "Laboratoire départemental d'analyses et de recherche - Dordogne (LDAR 24)",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/dordogne/laboratoire_departemental-24138-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 53 06 80 00",
+      "url": "http://labo.dordogne.fr"
+    }
+  },
+  {
+    "id": "ef1f827434d3c641d7afc470ba01bc8d9a2c27d5",
+    "name": "laboratoire_departemental_danalyses_et_de_recherches_haute_vienne",
+    "title": "Laboratoire départemental d'analyses et de recherches - Haute-Vienne",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/haute-vienne/laboratoire_departemental-87085-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 55 34 40 12",
+      "url": "https://laboratoire.haute-vienne.fr/"
+    }
+  },
+  {
+    "id": "d57ac339aa34d408704c0787de9d908633c6513e",
+    "name": "laboratoire_departemental_danalyses_gard",
+    "title": "Laboratoire départemental d'analyses - Gard",
+    "url": "https://lannuaire.service-public.fr/occitanie/gard/laboratoire_departemental-30189-01",
+    "metadata": {
+      "email": "lda30@gard.fr",
+      "telephone": "04 66 04 30 70",
+      "url": "http://lda.gard.fr/accueil.html"
+    }
+  },
+  {
+    "id": "84ed1e10d6c8b17ea9adf6b9b56dc75fb1329f5e",
+    "alternateName": "LDA33",
+    "name": "laboratoire_departemental_danalyses_gironde_lda_33",
+    "title": "Laboratoire départemental d'analyses - Gironde (LDA33)",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/gironde/laboratoire_departemental-33318-01",
+    "metadata": {
+      "email": "lda33@gironde.fr",
+      "telephone": "05 57 35 01 90",
+      "url": "https://www.gironde.fr/environnement/laboratoire-departemental-danalyses-lda33"
+    }
+  },
+  {
+    "id": "54f1ad9e7a1533869c0e1bde0da1154d86c90614",
+    "alternateName": "LDA-2B",
+    "name": "laboratoire_departemental_danalyses_haute_corse_lda_2_b",
+    "title": "Laboratoire départemental d'analyses - Haute-Corse (LDA-2B)",
+    "url": "https://lannuaire.service-public.fr/corse/haute-corse/laboratoire_departemental-2B033-01",
+    "metadata": {
+      "email": "contact@haute-corse.fr",
+      "telephone": "02 48 21 15 31",
+      "url": "https://www.haute-corse.fr/site/index.php?page=laboratoire-departemental-d-analyses"
+    }
+  },
+  {
+    "id": "16933edfac5af513a8a865a20bf23cfd51022088",
+    "alternateName": "Eva 31",
+    "name": "laboratoire_departemental_danalyses_haute_garonne_eva_31",
+    "title": "Laboratoire départemental d'analyses - Haute-Garonne (Eva 31)",
+    "url": "https://lannuaire.service-public.fr/occitanie/haute-garonne/laboratoire_departemental-31282-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 62 10 49 00",
+      "url": "https://laboratoire.haute-garonne.fr/"
+    }
+  },
+  {
+    "id": "2460c6ffebc3e81eb135b0a4ede6a7d299c3f323",
+    "alternateName": "LDA52",
+    "name": "laboratoire_departemental_danalyses_haute_marne_lda_52",
+    "title": "Laboratoire départemental d'analyses - Haute-Marne (LDA52)",
+    "url": "https://lannuaire.service-public.fr/grand-est/haute-marne/laboratoire_departemental-52125-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 25 30 31 70",
+      "url": "https://haute-marne.fr/fr/les-missions/environnement/le-laboratoire-departemental-danalyse/"
+    }
+  },
+  {
+    "id": "38c12c96f1d90870873101f6a55f9770415b0379",
+    "name": "laboratoire_departemental_danalyses_indre",
+    "title": "Laboratoire départemental d'analyses - Indre",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/indre/laboratoire_departemental-36044-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 54 22 01 85",
+      "url": "https://www.indre.fr/le-laboratoire-danalyses-l%E2%80%99expertise-au-service-de-la-s%C3%A9curit%C3%A9"
+    }
+  },
+  {
+    "id": "76730bde3ff746313fdf0072598acc2c9b1970dd",
+    "alternateName": "LDA39",
+    "name": "laboratoire_departemental_danalyses_jura_lda_39",
+    "title": "Laboratoire départemental d'analyses - Jura (LDA39)",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/jura/laboratoire_departemental-39434-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 84 73 73 40",
+      "url": "http://lda39.fr"
+    }
+  },
+  {
+    "id": "bcc8017e9cd0818e0b6736fc8449081b89aeb0dc",
+    "name": "laboratoire_departemental_danalyses_la_drome_laboratoire",
+    "title": "Laboratoire départemental d'analyses - La Drôme Laboratoire",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/drome/laboratoire_departemental-26362-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 75 81 70 70",
+      "url": "https://www.ladromelaboratoire.fr"
+    }
+  },
+  {
+    "id": "e853c359b7f524bc2232560b44daed006150e0f8",
+    "name": "laboratoire_departemental_danalyses_loir_et_cher",
+    "title": "Laboratoire départemental d'analyses - Loir-et-Cher",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/loir-et-cher/laboratoire_departemental-41018-01",
+    "metadata": {
+      "email": "sec.laboratoire@departement41.fr",
+      "telephone": "02 54 55 74 40",
+      "url": "https://www.departement41.fr/ses-missions/autres-missions/laboratoire-departemental-danalyses/"
+    }
+  },
+  {
+    "id": "de3f0fa40f723b6fab8c3957c7dbcae69bd9a232",
+    "name": "laboratoire_departemental_danalyses_lot",
+    "title": "Laboratoire départemental d'analyses - Lot",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/lot/laboratoire_departemental-46042-01",
+    "metadata": {
+      "email": "lda@lot.fr",
+      "telephone": "05 65 53 45 01",
+      "url": "http://www.public-labos.fr/"
+    }
+  },
+  {
+    "id": "3c307c72bc7b2d060e638caa23bbb79cdbbff2f8",
+    "alternateName": "LDA48",
+    "name": "laboratoire_departemental_danalyses_lozere_lda_48",
+    "title": "Laboratoire départemental d'analyses - Lozère (LDA48)",
+    "url": "https://lannuaire.service-public.fr/occitanie/lozere/laboratoire_departemental-48095-01",
+    "metadata": {
+      "email": "lda@lozere.fr",
+      "telephone": "04 66 65 72 10",
+      "url": "http://lda.lozere.fr"
+    }
+  },
+  {
+    "id": "2ff2fc8e8d51d4c1a63e621fb0553968e981b9e7",
+    "alternateName": "LDA53",
+    "name": "laboratoire_departemental_danalyses_mayenne_lda_53",
+    "title": "Laboratoire départemental d'analyses - Mayenne (LDA53)",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/mayenne/laboratoire_departemental-53130-01",
+    "metadata": {
+      "email": "Lda53@lamayenne.fr",
+      "telephone": "02 43 56 36 81",
+      "url": "http://www.lda53.fr"
+    }
+  },
+  {
+    "id": "e9d8cccf695374a2ba59c472f589eb46ef22fb9d",
+    "alternateName": "LDA56",
+    "name": "laboratoire_departemental_danalyses_morbihan_lda_56",
+    "title": "Laboratoire départemental d'analyses - Morbihan (LDA56)",
+    "url": "https://lannuaire.service-public.fr/bretagne/morbihan/laboratoire_departemental-56206-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 97 46 14 15",
+      "url": "https://www.morbihan.fr/lda/laboratoire-departemental/presentation-du-lda/"
+    }
+  },
+  {
+    "id": "0d0ab0059ef7a47f9845248910bd241d74183481",
+    "alternateName": "LDAC",
+    "name": "laboratoire_departemental_danalyses_nievre_ldac",
+    "title": "Laboratoire départemental d'analyses - Nièvre (LDAC)",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/nievre/laboratoire_departemental-58194-01",
+    "metadata": {
+      "email": "laboratoire@nievre.fr",
+      "telephone": "03 86 71 93 60",
+      "url": "http://nievre.fr/dans-tous-les-domaines/la-sante/le-laboratoire-departemental/"
+    }
+  },
+  {
+    "id": "8fce2c04c19172740e037a5907886608322cbdb0",
+    "name": "laboratoire_departemental_danalyses_pas_de_calais",
+    "title": "Laboratoire départemental d'analyses - Pas-de-Calais",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/pas-de-calais/laboratoire_departemental-62041-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 21 51 46 54",
+      "url": "https://www.pasdecalais.fr/Environnement-Cadre-de-vie/Laboratoire-departemental-d-analyses"
+    }
+  },
+  {
+    "id": "60d3a33ccf5ac223f93bcb0aa87ce356e86030b3",
+    "alternateName": "Agrivalys71",
+    "name": "laboratoire_departemental_danalyses_saone_et_loire_agrivalys_71",
+    "title": "Laboratoire départemental d'analyses - Saône-et-Loire (Agrivalys71)",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/saone-et-loire/laboratoire_departemental-71270-01",
+    "metadata": {
+      "email": "contact@agrivalys71.fr",
+      "telephone": "03 85 33 52 20",
+      "url": "https://www.saoneetloire71.fr/accueil/vous-etes-agriculteur/viticulteur/agrivalys71"
+    }
+  },
+  {
+    "id": "2a3fc0c89113bacc1fcdc46c920f42ce506d0bd6",
+    "alternateName": "LDA77",
+    "name": "laboratoire_departemental_danalyses_seine_et_marne_lda_77",
+    "title": "Laboratoire départemental d'analyses - Seine-et-Marne (LDA77)",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/seine-et-marne/laboratoire_departemental-77288-01",
+    "metadata": {
+      "email": "lda77@departement77.fr",
+      "telephone": "01 64 14 76 56",
+      "url": "http://www.cg77.fr/Cadre-de-vie-Transports/Eau/Le-laboratoire-departemental-d-analyse-de-l-eau"
+    }
+  },
+  {
+    "id": "1a573e5456abe3b4728b067dc54cb15108540e85",
+    "alternateName": "LDA76",
+    "name": "laboratoire_departemental_danalyses_seine_maritime_lda_76",
+    "title": "Laboratoire départemental d'analyses - Seine-Maritime (LDA76)",
+    "url": "https://lannuaire.service-public.fr/normandie/seine-maritime/laboratoire_departemental-76540-01",
+    "metadata": {
+      "email": "lda@seinemaritime.fr",
+      "telephone": "02 35 03 50 00",
+      "url": "https://www.seinemaritime.fr/vos-services/economie-amenagement-et-projet-de-territoire/la-politique-agricole-1/laboratoire-agro-veterinaire.html"
+    }
+  },
+  {
+    "id": "d6734fcce97b386c10e9551930a36e4df0744086",
+    "alternateName": "LDA80",
+    "name": "laboratoire_departemental_danalyses_somme_lda_80",
+    "title": "Laboratoire départemental d'analyses - Somme (LDA80)",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/somme/laboratoire_departemental-80261-01",
+    "metadata": {
+      "email": "labo.veto@somme.fr",
+      "telephone": "03 22 71 97 80",
+      "url": "https://www.somme.fr/services/securite-civile-et-sanitaire/le-laboratoire-departemental/le-laboratoire-departemental"
+    }
+  },
+  {
+    "id": "0c782b7556f3682288d6135f7e26569c4475c4b3",
+    "name": "laboratoire_departemental_danalyses_tarn",
+    "title": "Laboratoire départemental d'analyses - Tarn",
+    "url": "https://lannuaire.service-public.fr/occitanie/tarn/laboratoire_departemental-81004-01",
+    "metadata": {
+      "email": "lda@tarn.fr",
+      "telephone": "05 63 47 57 75",
+      "url": "http://www.public-labos.fr/"
+    }
+  },
+  {
+    "id": "5ca622631398edb77932a24739b2d81bc0e81371",
+    "name": "laboratoire_departemental_danalyses_tarn_et_garonne",
+    "title": "Laboratoire départemental d'analyses - Tarn-et-Garonne",
+    "url": "https://lannuaire.service-public.fr/occitanie/tarn-et-garonne/laboratoire_departemental-82121-01",
+    "metadata": {
+      "email": "contact@ldv82.com",
+      "telephone": "05 63 66 71 71",
+      "url": "http://www.public-labos.fr/"
+    }
+  },
+  {
+    "id": "ec3073807d829f32eeb1e527c71ca1096a0b553a",
+    "name": "laboratoire_departemental_danalyses_var_site_de_draguignan",
+    "title": "Laboratoire départemental d'analyses - Var - Site de Draguignan",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/var/laboratoire_departemental-83050-01",
+    "metadata": {
+      "email": "lda83@var.fr",
+      "telephone": "04 83 95 32 30",
+      "url": "https://www.var.fr/environnement/preservation-des-milieux-aquatiques-amelioration-de-la-gestion-en-eau/laboratoire-d-analyses-du-var"
+    }
+  },
+  {
+    "id": "142bcbabeb44fcf0239bf849591fe27431308526",
+    "name": "laboratoire_departemental_danalyses_var_site_de_toulon",
+    "title": "Laboratoire départemental d'analyses - Var - Site de Toulon",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/var/laboratoire_departemental-83137-02",
+    "metadata": {
+      "email": "lda83@var.fr",
+      "telephone": "04 83 95 32 30",
+      "url": "https://www.var.fr/environnement/preservation-des-milieux-aquatiques-amelioration-de-la-gestion-en-eau/laboratoire-d-analyses-du-var"
+    }
+  },
+  {
+    "id": "5385e695e9c20a0e69bca2bb8454bcf568b53098",
+    "name": "laboratoire_departemental_danalyses_vaucluse",
+    "title": "Laboratoire départemental d'analyses - Vaucluse",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/vaucluse/laboratoire_departemental-84007-01",
+    "metadata": {
+      "email": "lda84@vaucluse.fr",
+      "telephone": "04 90 16 41 00",
+      "url": "http://www.vaucluse.fr/nos-services/le-laboratoire-departemental-d-analyses-963.html"
+    }
+  },
+  {
+    "id": "5c9e9ed8499c832f3b320681c50a3b1f8509e32e",
+    "name": "laboratoire_departemental_danalyses_vosges",
+    "title": "Laboratoire départemental d'analyses - Vosges",
+    "url": "https://lannuaire.service-public.fr/grand-est/vosges/laboratoire_departemental-88160-01",
+    "metadata": {
+      "email": "labo@vosges.fr",
+      "telephone": "03 29 38 21 40",
+      "url": "https://labo.vosges.fr"
+    }
+  },
+  {
+    "id": "8cd072c4d55eee63ffb10b09f37b2a3f4690e14a",
+    "name": "laboratoire_departemental_aveyron_labo",
+    "title": "Laboratoire départemental - Aveyron Labo",
+    "url": "https://lannuaire.service-public.fr/occitanie/aveyron/laboratoire_departemental-12202-01",
+    "metadata": {
+      "email": "centre@aveyron-labo.fr",
+      "telephone": "05 65 76 51 14",
+      "url": "http://www.aveyron-labo.com"
+    }
+  },
+  {
+    "id": "07872284610c8a1ca70e4135e8f9235db9a027bf",
+    "alternateName": "LDAR",
+    "name": "laboratoire_departemental_danalyses_et_de_recherche_ldar_aisne",
+    "title": "Laboratoire départemental d’analyses et de recherche (LDAR) - Aisne",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/aisne/laboratoire_departemental-02408-01",
+    "metadata": {
+      "email": "ldar@aisne.fr",
+      "telephone": "03 23 24 06 00",
+      "url": "https://aisne.com/a-votre-service/laboratoire-departemental"
+    }
+  },
+  {
+    "id": "15672c93c0ce1415300d72d2fef89915ef7065b3",
+    "name": "laboratoire_departemental_public_danalyses_nord",
+    "title": "Laboratoire départemental public d'analyses - Nord",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/nord/laboratoire_departemental-59009-01",
+    "metadata": {
+      "email": "ldp59-ha@lenord.fr",
+      "telephone": "03 59 73 01 00",
+      "url": "http://laboratoiredepartemental.lenord.fr"
+    }
+  },
+  {
+    "id": "69d81a1edb8eb282f930e1c53fdad5329e785354",
+    "name": "laboratoire_departemental_de_sante_environnementale_val_de_marne",
+    "title": "Laboratoire départemental de santé environnementale - Val-de-Marne",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/val-de-marne/laboratoire_departemental-94011-01",
+    "metadata": {
+      "email": "",
+      "telephone": "01 49 56 88 03",
+      "url": "https://laboratoire.valdemarne.fr"
+    }
+  },
+  {
+    "id": "a344eb96d55f6506699859884481ef87ff221186",
+    "name": "laboratoire_departemental_veterinaire_et_dhygiene_alimentaire_hautes_alpes",
+    "title": "Laboratoire départemental vétérinaire et d'hygiène alimentaire - Hautes-Alpes",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/hautes-alpes/laboratoire_departemental-05061-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 92 52 44 44",
+      "url": "https://www.hautes-alpes.fr/3685-laboratoire-departemental.htm"
+    }
+  },
+  {
+    "id": "397ce33840df9b14d90fa12ef17066b32706f7a4",
+    "name": "laboratoire_departemental_veterinaire_herault",
+    "title": "Laboratoire départemental vétérinaire - Hérault",
+    "url": "https://lannuaire.service-public.fr/occitanie/herault/laboratoire_departemental-34172-01",
+    "metadata": {
+      "email": "ldv34@herault.fr",
+      "telephone": "04 67 67 51 40",
+      "url": "https://laboratoire.herault.fr/"
+    }
+  },
+  {
+    "id": "07ee952a53d9cf3aac20ec725ef1a55992bb1151",
+    "name": "laboratoire_de_lenvironnement_et_de_lalimentation_vendee",
+    "title": "Laboratoire de l’environnement et de l’alimentation - Vendée",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/vendee/laboratoire_departemental-85191-01",
+    "metadata": {
+      "email": "labo@vendee.fr",
+      "telephone": "02 28 85 79 79",
+      "url": "http://www.vendee.fr/Territoire-et-environnement/Environnement/17669-Laboratoire-de-l-Environnement-et-de-l-Alimentation-de-la-Vendee"
+    }
+  },
+  {
+    "id": "7ec0c56cd26e7802cd485cb0860341e12fde40f7",
+    "alternateName": "LPL",
+    "name": "laboratoires_des_pyrenees_et_des_landes_lpl_hautes_pyrenees",
+    "title": "Laboratoires des Pyrénées et des Landes (LPL) - Hautes-Pyrénées",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/hautes-pyrenees/laboratoire_departemental-65440-01",
+    "metadata": {
+      "email": "contact-tarbes@labopl.com",
+      "telephone": "05 62 56 71 65",
+      "url": "http://www.labopl.com"
+    }
+  },
+  {
+    "id": "c28fc992926ce6ee9dfc3bfb47c627e01d37f554",
+    "alternateName": "LPL",
+    "name": "laboratoires_des_pyrenees_et_des_landes_lpl_landes",
+    "title": "Laboratoires des Pyrénées et des Landes (LPL) - Landes",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/landes/laboratoire_departemental-40192-01",
+    "metadata": {
+      "email": "contactmdm@labopl.com",
+      "telephone": "05 58 06 08 08",
+      "url": "http://www.labopl.com"
+    }
+  },
+  {
+    "id": "eafa8e3d83faa41f13d7ffc551eb5baf39e689f0",
+    "alternateName": "LPL",
+    "name": "laboratoires_des_pyrenees_et_des_landes_lpl_pyrenees_atlantiques",
+    "title": "Laboratoires des Pyrénées et des Landes (LPL) - Pyrénées-Atlantiques",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/pyrenees-atlantiques/laboratoire_departemental-64301-01",
+    "metadata": {
+      "email": "contact-lagor@labopl.com",
+      "telephone": "05 59 60 23 85",
+      "url": "http://www.labopl.com"
+    }
+  },
+  {
+    "id": "e62217359841a62cc5e22a5c1e32750936aeb0ef",
+    "alternateName": "LVES 32",
+    "name": "laboratoire_veterinaire_eaux_et_sols_gers_lves_32",
+    "title": "Laboratoire vétérinaire, eaux et sols - GERS (LVES 32)",
+    "url": "https://lannuaire.service-public.fr/occitanie/gers/laboratoire_departemental-32013-01",
+    "metadata": {
+      "email": "Contact-lve32@gers.fr",
+      "telephone": "05 31 00 32 32",
+      "url": "https://www.gers.fr/aides-infos-pratiques/environnement-et-eau/laboratoire-departemental-veterinaire-eaux-et-sols"
+    }
+  },
+  {
+    "id": "61bfc9bc6e11552bb17369d6f0e954e34f61a800",
+    "name": "laboratoire_veterinaire_departemental_alpes_de_haute_provence",
+    "title": "Laboratoire vétérinaire départemental - Alpes-de-Haute-Provence",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/alpes-de-haute-provence/laboratoire_departemental-04070-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 92 32 39 33",
+      "url": "http://www.mondepartement04.fr/economie/laboratoire-departemental.html"
+    }
+  },
+  {
+    "id": "e876c9620cdac4d5a0fdb472eb9d0ed80230fcfe",
+    "name": "laboratoire_veterinaire_departemental_alpes_maritimes",
+    "title": "Laboratoire vétérinaire départemental - Alpes-Maritimes",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/alpes-maritimes/laboratoire_departemental-06018-01",
+    "metadata": {
+      "email": "labo-veto@departement06.fr",
+      "telephone": "04 89 04 52 80",
+      "url": "https://lvd.departement06.fr/laboratoire-veterinaire-departemental-13519.html"
+    }
+  },
+  {
+    "id": "d0f872b34f18656b7396adecbe11e50c840851ab",
+    "name": "laboratoire_veterinaire_departemental_danalyses_doubs",
+    "title": "Laboratoire vétérinaire départemental d'analyses - Doubs",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/doubs/laboratoire_departemental-25056-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 81 25 88 50",
+      "url": "https://lvd.doubs.fr/"
+    }
+  },
+  {
+    "id": "1963c0397f04a6b81d1487fbcd9d27a04befbf9b",
+    "name": "laboratoire_veterinaire_departemental_ariege",
+    "title": "Laboratoire vétérinaire départemental - Ariège",
+    "url": "https://lannuaire.service-public.fr/occitanie/ariege/laboratoire_departemental-09122-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 61 65 07 21",
+      "url": "http://www.ariege.fr/"
+    }
+  },
+  {
+    "id": "3c136354d6256c40d53d305ead28c69e917b2dd5",
+    "name": "laboratoire_veterinaire_departemental_aude",
+    "title": "Laboratoire vétérinaire départemental - Aude",
+    "url": "https://lannuaire.service-public.fr/occitanie/aude/laboratoire_departemental-11069-01",
+    "metadata": {
+      "email": "secretariat-lvd11@aude.fr",
+      "telephone": "04 68 11 67 54",
+      "url": "https://www.aude.fr/veiller-la-sante-animale-la-securite-alimentaire-et-la-qualite-de-leau"
+    }
+  },
+  {
+    "id": "c4f733d7bcb6cf14737ff466f4e838519a1b1bf5",
+    "name": "laboratoire_veterinaire_departemental_haut_rhin",
+    "title": "Laboratoire vétérinaire départemental - Haut-Rhin",
+    "url": "https://lannuaire.service-public.fr/grand-est/haut-rhin/laboratoire_departemental-68066-01",
+    "metadata": {
+      "email": "lvd@haut-rhin.fr",
+      "telephone": "03 89 30 10 40",
+      "url": "https://www.haut-rhin.fr/content/au-service-du-monde-agricole"
+    }
+  },
+  {
+    "id": "aa42a634a834aa73652f6228127840cffaeae7ce",
+    "name": "laboratoire_veterinaire_departemental_isere",
+    "title": "Laboratoire vétérinaire départemental - Isère",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/isere/laboratoire_departemental-38185-01",
+    "metadata": {
+      "email": "laboratoire-veterinaire@isere.fr",
+      "telephone": "04 76 03 75 40",
+      "url": "https://www.isere.fr/sante"
+    }
+  },
+  {
+    "id": "593999ba136d479736b74557ba757b5561f9a80d",
+    "alternateName": "LVD55 - Segilab",
+    "name": "laboratoire_veterinaire_departemental_meuse_lvd_55_segilab",
+    "title": "Laboratoire vétérinaire départemental - Meuse (LVD55 - Segilab)",
+    "url": "https://lannuaire.service-public.fr/grand-est/meuse/laboratoire_departemental-55029-01",
+    "metadata": {
+      "email": "contact@lvd55-segilab.fr",
+      "telephone": "03 29 79 96 01",
+      "url": "http://lvd55-segilab.fr"
+    }
+  },
+  {
+    "id": "8ea623474ed8ca1f9526728cd05977be7ae5dea0",
+    "alternateName": "LVAD54",
+    "name": "laboratoire_veterinaire_et_alimentaire_departemental_meurthe_et_moselle_lvad_54",
+    "title": "Laboratoire vétérinaire et alimentaire départemental - Meurthe-et-Moselle (LVAD54)",
+    "url": "https://lannuaire.service-public.fr/grand-est/meurthe-et-moselle/laboratoire_departemental-54339-01",
+    "metadata": {
+      "email": "lvad54@departement54.fr",
+      "telephone": "03 83 33 28 60",
+      "url": "http://meurthe-et-moselle.fr/actions/le-laboratoire-v%C3%A9t%C3%A9rinaire-et-alimentaire"
+    }
+  },
+  {
+    "id": "85e5e936988ec970c68a5f8ff5dab1015605edb4",
+    "alternateName": "Laboratoire départemental d'analyses",
+    "name": "qualyse_laboratoire_departemental_danalyses_charente_maritime",
+    "title": "Qualyse (Laboratoire départemental d'analyses) - Charente-Maritime",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/charente-maritime/laboratoire_departemental-17300-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 46 28 12 12",
+      "url": "https://www.qualyse.fr/"
+    }
+  },
+  {
+    "id": "6338ce25ea84565984ca4443038d48999d81940c",
+    "alternateName": "Laboratoire départemental d'analyses",
+    "name": "qualyse_laboratoire_departemental_danalyses_correze",
+    "title": "Qualyse (Laboratoire départemental d'analyses) - Corrèze",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/correze/laboratoire_departemental-19272-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 55 26 77 00",
+      "url": "https://www.qualyse.fr/"
+    }
+  },
+  {
+    "id": "690ca4ab213e91845f686ddeded1dd6d9f679284",
+    "alternateName": "Laboratoire départemental d'analyses",
+    "name": "qualyse_laboratoire_departemental_danalyses_deux_sevres",
+    "title": "Qualyse (Laboratoire départemental d'analyses) - Deux-Sèvres",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/deux-sevres/laboratoire_departemental-79066-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 49 25 31 10",
+      "url": "https://www.qualyse.fr/"
+    }
+  },
+  {
+    "id": "6bfa239a0d88fe741da089dec76beb39ac977499",
+    "alternateName": "Laboratoire départemental d'analyses",
+    "name": "qualyse_laboratoire_departemental_danalyses_vienne",
+    "title": "Qualyse (Laboratoire départemental d'analyses) - Vienne",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/vienne/laboratoire_departemental-86194-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 49 61 23 23",
+      "url": "https://www.qualyse.fr/"
+    }
+  },
+  {
+    "id": "e56dbe8888a89ffb7ab3b16feff35e417db29eb6",
+    "name": "savoie_labo",
+    "title": "Savoie Labo",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/savoie/laboratoire_departemental-73051-01",
+    "metadata": {
+      "email": "accueil@savoie-labo.fr",
+      "telephone": "04 79 25 37 25",
+      "url": "https://www.savoie-labo.com"
+    }
+  },
+  {
+    "id": "1c2c4281608323c7e1552eb2eb8538f012ba7e54",
+    "alternateName": "Laboratoire public d'analyses pour la santé humaine et animale",
+    "name": "terana_laboratoire_public_danalyses_pour_la_sante_humaine_et_animale_cantal",
+    "title": "Terana (Laboratoire public d'analyses pour la santé humaine et animale) - Cantal",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/cantal/laboratoire_departemental-15014-01",
+    "metadata": {
+      "email": "cantal@labo-terana.fr",
+      "telephone": "04 71 45 58 80",
+      "url": "http://www.labo-terana.fr"
+    }
+  },
+  {
+    "id": "49fbd6c6b12cea1131e426aafe39dd7f99af1ba4",
+    "alternateName": "Laboratoire public d'analyses pour la santé humaine et animale",
+    "name": "terana_laboratoire_public_danalyses_pour_la_sante_humaine_et_animale_haute_loire",
+    "title": "Terana (Laboratoire public d'analyses pour la santé humaine et animale) - Haute-Loire",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/haute-loire/laboratoire_departemental-43157-01",
+    "metadata": {
+      "email": "hauteloire@labo-terana.fr",
+      "telephone": "04 71 05 76 76",
+      "url": "http://www.labo-terana.fr"
+    }
+  },
+  {
+    "id": "bf270ac5087ceb1778bbab4c00d7c30d91431293",
+    "alternateName": "Laboratoire public d'analyses pour la santé humaine et animale",
+    "name": "terana_laboratoire_public_danalyses_pour_la_sante_humaine_et_animale_loire",
+    "title": "Terana (Laboratoire public d'analyses pour la santé humaine et animale) - Loire",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/loire/laboratoire_departemental-42147-01",
+    "metadata": {
+      "email": "loire@labo-terana.fr",
+      "telephone": "04 77 58 28 05",
+      "url": "http://www.labo-terana.fr"
+    }
+  },
+  {
+    "id": "bb0631e3322259f5eea0fc5bead633e1074704e7",
+    "alternateName": "Laboratoire public d'analyses pour la santé humaine et animale",
+    "name": "terana_laboratoire_public_danalyses_pour_la_sante_humaine_et_animale_puy_de_dome",
+    "title": "Terana (Laboratoire public d'analyses pour la santé humaine et animale) - Puy-de-Dôme",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/puy-de-dome/laboratoire_departemental-63193-01",
+    "metadata": {
+      "email": "puy-de-dome@labo-terana.fr",
+      "telephone": "04 73 90 10 41",
+      "url": "http://www.labo-terana.fr"
+    }
+  }
+]

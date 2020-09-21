@@ -1,0 +1,37 @@
+[
+  {
+    "id": "61ca349bc22f8309bd646adf5a6d3683b35f54ec",
+    "alternateName": "CCEE",
+    "name": "conseil_de_la_culture_de_leducation_et_de_lenvironnement_ccee_la_reunion",
+    "title": "Conseil de la culture, de l'éducation et de l'environnement (CCEE) - La Réunion",
+    "url": "https://lannuaire.service-public.fr/la-reunion/reunion/conseil_culture-97411-01",
+    "metadata": {
+      "email": "courrier@ccee.re",
+      "telephone": "+262 2 62 41 44 12",
+      "url": "http://www.ccee.re"
+    }
+  },
+  {
+    "id": "6944b03758057d3a094746bdbd799e4a1e4c2bd2",
+    "alternateName": "CCEEM",
+    "name": "conseil_de_la_culture_de_leducation_et_de_lenvironnement_cceem_mayotte",
+    "title": "Conseil de la culture, de l'éducation et de l'environnement (CCEEM) - Mayotte",
+    "url": "https://lannuaire.service-public.fr/mayotte/mayotte/conseil_culture-97611-01",
+    "metadata": {
+      "email": "ccee.mayotte@wanadoo.fr",
+      "telephone": "+269 2 69 61 30 71",
+      "url": "https://cg976.fr/le-conseil-departemental/conseils-consultatifs/cceem"
+    }
+  },
+  {
+    "id": "7db231d32beb27047466806c0875074fa2a95840",
+    "name": "conseil_de_la_culture_de_leducation_et_de_lenvironnement_guadeloupe",
+    "title": "Conseil de la culture, de l'éducation et de l'environnement - Guadeloupe",
+    "url": "https://lannuaire.service-public.fr/guadeloupe/guadeloupe/conseil_culture-97105-01",
+    "metadata": {
+      "email": "",
+      "telephone": "+590 5 90 41 05 15",
+      "url": "http://www.cr-guadeloupe.fr"
+    }
+  }
+]

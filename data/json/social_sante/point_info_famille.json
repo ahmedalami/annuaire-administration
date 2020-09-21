@@ -1,0 +1,1982 @@
+[
+  {
+    "id": "574ae30431c31d081c26c3c24bd3eca8bb9fee5c",
+    "name": "point_info_famille_agen_esquirol",
+    "title": "Point info famille - Agen - Esquirol",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/lot-et-garonne/pif-47001-01",
+    "metadata": {
+      "email": "cidf-47@wanadoo.fr",
+      "telephone": "05 53 47 47 25",
+      "url": "https://www.unaf.fr"
+    }
+  },
+  {
+    "id": "af29df936ec3a29f4c671b83077ce34c7281d18c",
+    "name": "point_info_famille_agen_roger_johan",
+    "title": "Point info famille - Agen - Roger-Johan",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/lot-et-garonne/pif-47001-02",
+    "metadata": {
+      "email": "pif@udaf47.asso.fr",
+      "telephone": "05 53 41 53 23",
+      "url": "https://www.udaf47.fr"
+    }
+  },
+  {
+    "id": "71f88ec11ec77afa28b6e2148d659c1c648a1694",
+    "name": "point_info_famille_aiguilles",
+    "title": "Point info famille - Aiguilles",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/hautes-alpes/pif-05003-01",
+    "metadata": {
+      "email": "laetitia.acssq@queyras.org",
+      "telephone": "04 92 46 85 23",
+      "url": "https://www.unaf.frspip.php?rubrique305"
+    }
+  },
+  {
+    "id": "428e12288f607f4e9800561550573e232bf5aec0",
+    "name": "point_info_famille_aire_sur_l_adour",
+    "title": "Point info famille - Aire-sur-l'Adour",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/landes/pif-40001-01",
+    "metadata": {
+      "email": "pifat@orange.fr",
+      "telephone": "05 58 71 92 98",
+      "url": "https://www.unaf.fr"
+    }
+  },
+  {
+    "id": "fe076717d749ba0ca2e0c358f7c17369f95ba705",
+    "name": "point_info_famille_aix_en_provence",
+    "title": "Point info famille - Aix-en-Provence",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/pif-13001-01",
+    "metadata": {
+      "email": "csclaprovence@gmail.com",
+      "telephone": "04 42 59 19 73",
+      "url": "https://www.csc-laprovence.com"
+    }
+  },
+  {
+    "id": "b04ed79d8970989ab4a33007a9d1a158555800be",
+    "name": "point_info_famille_ajaccio_achille_peretti",
+    "title": "Point info famille - Ajaccio - Achille-Peretti",
+    "url": "https://lannuaire.service-public.fr/corse/corse-du-sud/pif-2A004-03",
+    "metadata": {
+      "email": "falep2a@wanadoo.fr",
+      "telephone": "",
+      "url": "https://www.unaf.fr"
+    }
+  },
+  {
+    "id": "be2190e9582ba7891a3b8f9d8959c6f004262754",
+    "name": "point_info_famille_ajaccio_les_hauts_de_bodiccione",
+    "title": "Point info famille - Ajaccio - Les Hauts de Bodiccione",
+    "url": "https://lannuaire.service-public.fr/corse/corse-du-sud/pif-2A004-02",
+    "metadata": {
+      "email": "cidf@wanadoo.fr",
+      "telephone": "04 95 23 01 85",
+      "url": "https://www.unaf.fr"
+    }
+  },
+  {
+    "id": "eb56f3b09cd4fe7069457c3dfd50b55f25acb8a7",
+    "name": "point_info_famille_ajaccio_marechal_lyautey",
+    "title": "Point info famille - Ajaccio - Maréchal-Lyautey",
+    "url": "https://lannuaire.service-public.fr/corse/corse-du-sud/pif-2A004-01",
+    "metadata": {
+      "email": "udaf2a@udaf2a.fr",
+      "telephone": "04 95 22 25 89",
+      "url": "https://www.unaf.fr/spip.php?article1562"
+    }
+  },
+  {
+    "id": "055718d26e02f6894a96ee81d66fb0761240ccac",
+    "name": "point_info_famille_albi",
+    "title": "Point info famille - Albi",
+    "url": "https://lannuaire.service-public.fr/occitanie/tarn/pif-81004-01",
+    "metadata": {
+      "email": "udaf81.actionfamiliale@orange.fr",
+      "telephone": "05 63 48 73 00",
+      "url": "https://www.unaf.fr"
+    }
+  },
+  {
+    "id": "04ec1eaa2623d5798421ebf9a36c44c2deb6576f",
+    "name": "point_info_famille_alencon_cerise",
+    "title": "Point info famille - Alençon - Cerisé",
+    "url": "https://lannuaire.service-public.fr/normandie/orne/pif-61001-01",
+    "metadata": {
+      "email": "udaf61@wanadoo.fr",
+      "telephone": "02 33 80 32 20",
+      "url": "https://www.unaf.fr"
+    }
+  },
+  {
+    "id": "94625d12bd3f182860e1265f5c4b3e976394a9be",
+    "name": "point_info_famille_alencon_poulet_malassis",
+    "title": "Point info famille - Alençon - Poulet-Malassis",
+    "url": "https://lannuaire.service-public.fr/normandie/orne/pif-61001-02",
+    "metadata": {
+      "email": "bijorne@wanadoo.fr",
+      "telephone": "02 33 80 48 90",
+      "url": "https://www.unaf.fr"
+    }
+  },
+  {
+    "id": "7a659c255cead347c6523b0f3ab054cb3117ef47",
+    "name": "point_info_famille_amiens",
+    "title": "Point info famille - Amiens",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/somme/pif-80021-01",
+    "metadata": {
+      "email": "asso.caps@wanadoo.fr",
+      "telephone": "03 22 46 38 85",
+      "url": "https://www.unaf.fr"
+    }
+  },
+  {
+    "id": "24e75c3635835f3dcc1c803764d0bbc0a9a65883",
+    "name": "point_info_famille_ancy_le_franc",
+    "title": "Point info famille - Ancy-le-Franc",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/yonne/pif-89005-01",
+    "metadata": {
+      "email": "ccaf.ancy@wanadoo.fr",
+      "telephone": "",
+      "url": "http://www.social-sante.gouv.fr"
+    }
+  },
+  {
+    "id": "38498a34dec3891198bcac95a44fe0571ef540c3",
+    "name": "point_info_famille_andrezieux_boutheon",
+    "title": "Point info famille - Andrézieux-Bouthéon",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/loire/pif-42005-01",
+    "metadata": {
+      "email": "infoparents@andrezieux-boutheon.com",
+      "telephone": "04 77 36 78 48",
+      "url": "https://www.unaf.fr"
+    }
+  },
+  {
+    "id": "761cecd18b77d382ca3befa4215633492ae29344",
+    "name": "point_info_famille_angers",
+    "title": "Point info famille - Angers",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/maine-et-loire/pif-49007-01",
+    "metadata": {
+      "email": "pointinfofamille@ville.angers.fr",
+      "telephone": "02 41 05 45 80",
+      "url": "https://www.unaf.fr"
+    }
+  },
+  {
+    "id": "53e53325a779af3dbe6136c9f2c940b11f2892bf",
+    "name": "point_info_famille_angouleme_grande_garenne",
+    "title": "Point info famille - Angoulême - Grande-Garenne",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/charente/pif-16015-02",
+    "metadata": {
+      "email": "mjc.gg@wanadoo.fr",
+      "telephone": "05 45 91 76 11",
+      "url": "https://www.unaf.fr"
+    }
+  },
+  {
+    "id": "3f36dde50daff37c9b62928378bb58f392954536",
+    "name": "point_info_famille_angouleme_halage",
+    "title": "Point info famille - Angoulême - Halage",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/charente/pif-16015-03",
+    "metadata": {
+      "email": "developpement-social@cscs-rivesdecharente.com",
+      "telephone": "05 45 94 81 03",
+      "url": "http://www.cscs-rivesdecharente.com"
+    }
+  },
+  {
+    "id": "64203a104f36b4fab58afa7d6584d5226af8e66d",
+    "name": "point_info_famille_angouleme_henri_chamarre",
+    "title": "Point info famille - Angoulême - Henri-Chamarre",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/charente/pif-16015-01",
+    "metadata": {
+      "email": "caj16@wanadoo.fr",
+      "telephone": "05 45 93 22 22",
+      "url": "http://www.caj-grand-font.org"
+    }
+  },
+  {
+    "id": "abc64f7fbcee3882b1665369b4f55f2acf7cd91a",
+    "name": "point_info_famille_angouleme_jean_jaures",
+    "title": "Point info famille - Angoulême - Jean-Jaurès",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/charente/pif-16015-04",
+    "metadata": {
+      "email": "",
+      "telephone": "05 45 97 40 00",
+      "url": "http://www.angouleme.fr"
+    }
+  },
+  {
+    "id": "a30186f566431da7c5d3d0c341f062eabb3d85d6",
+    "name": "point_info_famille_angouleme_verrazzano",
+    "title": "Point info famille - Angoulème - Verrazzano",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/charente/pif-16015-05",
+    "metadata": {
+      "email": "cscsbasseau@yahoo.fr",
+      "telephone": "05 45 91 68 64",
+      "url": "https://www.unaf.fr"
+    }
+  },
+  {
+    "id": "91923179e81a3e7cfd9330708767e6b21e3a7543",
+    "name": "point_info_famille_annecy_le_vieux",
+    "title": "Point info famille - Annecy-le-Vieux",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/haute-savoie/pif-74010-01",
+    "metadata": {
+      "email": "pif@mairie-annecy-le-vieux.fr",
+      "telephone": "04 50 09 96 08",
+      "url": "http://www.mairie-annecy-le-vieux.fr"
+    }
+  },
+  {
+    "id": "1bf2eb2b20efaabc1440c87936c07cfaf31c7e82",
+    "name": "point_info_famille_annecy_louis_armand",
+    "title": "Point info famille - Annecy - Louis-Armand",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/haute-savoie/pif-74010-03",
+    "metadata": {
+      "email": "pointinfofamille@udaf74.fr",
+      "telephone": "04 50 09 52 40",
+      "url": "http://www.udaf74.fr"
+    }
+  },
+  {
+    "id": "c2c203288f103256e524753cd564b0fe80a95c3c",
+    "name": "point_info_famille_annecy_solidarite",
+    "title": "Point info famille - Annecy - Solidarité",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/haute-savoie/pif-74010-02",
+    "metadata": {
+      "email": "infofamille@mjcdesromains.org",
+      "telephone": "04 50 57 30 97",
+      "url": "http://www.mjc-forum-des-romains.fr"
+    }
+  },
+  {
+    "id": "4b6241c526945f7205821e80655ec0b6ff1510de",
+    "name": "point_info_famille_arcachon",
+    "title": "Point info famille - Arcachon",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/gironde/pif-33009-01",
+    "metadata": {
+      "email": "pointinfofamille-arcachon@cg33.fr",
+      "telephone": "05 56 54 56 37",
+      "url": "https://www.unaf.fr"
+    }
+  },
+  {
+    "id": "a012bfbde446b96ae66924310c7554f3daba0ab3",
+    "name": "point_info_famille_arcis_sur_aube",
+    "title": "Point info famille - Arcis-sur-Aube",
+    "url": "https://lannuaire.service-public.fr/grand-est/aube/pif-10006-01",
+    "metadata": {
+      "email": "centre.social.arcis@cegetel.net",
+      "telephone": "03 25 37 06 03",
+      "url": "https://www.unaf.fr"
+    }
+  },
+  {
+    "id": "1e8673950ca30cbfa9d9cf38667ef869ae6a4978",
+    "name": "point_info_famille_argenteuil",
+    "title": "Point info famille - Argenteuil",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/val-d-oise/pif-95018-01",
+    "metadata": {
+      "email": "veronique.lorquin-deparis@ville-argenteuil.fr",
+      "telephone": "01 34 23 44 71",
+      "url": "https://www.unaf.fr"
+    }
+  },
+  {
+    "id": "c7b62512bc3c100b55af032d2d140ef7451847be",
+    "name": "point_info_famille_arras_baude",
+    "title": "Point info famille - Arras - Baude",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/pas-de-calais/pif-62041-01",
+    "metadata": {
+      "email": "aqscentresocial@yahoo.fr",
+      "telephone": "03 21 07 71 31",
+      "url": "http://www.csaqs.centres-sociaux.fr"
+    }
+  },
+  {
+    "id": "2f1c7e26130c91c9ea46ee97c3476c5f9fe788d3",
+    "name": "point_info_famille_arras_carnot",
+    "title": "Point info famille - Arras - Carnot",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/pas-de-calais/pif-62041-02",
+    "metadata": {
+      "email": "pifarras-udaf@wanadoo.fr",
+      "telephone": "03 21 71 22 72",
+      "url": "http://www.point-infofamille.fr"
+    }
+  },
+  {
+    "id": "c40f2f11aed6d6246268ee476fe7eb33cbff8d24",
+    "name": "point_info_famille_asnieres_sur_seine",
+    "title": "Point info famille - Asnières-sur-Seine",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/hauts-de-seine/pif-92004-03",
+    "metadata": {
+      "email": "mlc@mlc.asso.fr",
+      "telephone": "01 47 98 00 05",
+      "url": "http://www.mlc.asso.fr"
+    }
+  },
+  {
+    "id": "ebbc7ed30b29efa4bb6fde71a8a85733223574c1",
+    "name": "point_info_famille_asnieres_sur_seine_emile_zola",
+    "title": "Point info famille - Asnières-sur-Seine - Émile-Zola",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/hauts-de-seine/pif-92004-02",
+    "metadata": {
+      "email": "maison.desfemmes@wanadoo.fr",
+      "telephone": "01 47 98 35 97",
+      "url": "https://www.unaf.fr"
+    }
+  },
+  {
+    "id": "c7ee4533a680a1d6923689c3ebdff44cadf8663d",
+    "name": "point_info_famille_asnieres_sur_seine_gresillons",
+    "title": "Point info famille - Asnières-sur-Seine - Grésillons",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/hauts-de-seine/pif-92004-01",
+    "metadata": {
+      "email": "noah@csc-ynoah.com",
+      "telephone": "01 41 11 02 22",
+      "url": "https://www.unaf.fr"
+    }
+  },
+  {
+    "id": "e08ca5b647a574b77962dec9c8a8d4f4c27009a5",
+    "name": "point_info_famille_aspres_sur_buech",
+    "title": "Point info famille - Aspres-sur-Buëch",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/hautes-alpes/pif-05010-01",
+    "metadata": {
+      "email": "ciashautbuech@wanadoo.fr",
+      "telephone": "04 92 58 79 63",
+      "url": "https://www.unaf.fr"
+    }
+  },
+  {
+    "id": "b25641f4ed352b3bb64aa682b222473bfacd93e0",
+    "name": "point_info_famille_auch",
+    "title": "Point info famille - Auch",
+    "url": "https://lannuaire.service-public.fr/occitanie/gers/pif-32013-01",
+    "metadata": {
+      "email": "pifgers@wanadoo.fr",
+      "telephone": "05 62 63 40 75",
+      "url": "http://www.cidff32.net"
+    }
+  },
+  {
+    "id": "8b950b8f67accbda6a7f1ef38cdc04cba1f83375",
+    "name": "point_info_famille_auch_montaigne",
+    "title": "Point info famille - Auch - Montaigne",
+    "url": "https://lannuaire.service-public.fr/occitanie/gers/pif-32013-02",
+    "metadata": {
+      "email": "pif.montaigne@wanadoo.fr",
+      "telephone": "05 62 05 24 42",
+      "url": "https://www.unaf.fr"
+    }
+  },
+  {
+    "id": "eaf581a4a7f8d5b42b4384a8c3fc525e3334f775",
+    "name": "point_info_famille_aulnay_sous_bois",
+    "title": "Point info famille - Aulnay-sous-Bois",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/seine-saint-denis/pif-93005-01",
+    "metadata": {
+      "email": "albatros-bourdonnais@wanadoo.fr",
+      "telephone": "01 48 79 07 60",
+      "url": "https://www.unaf.fr"
+    }
+  },
+  {
+    "id": "00968b1936c150a8a54fdb50cdb9dfc7d88e6596",
+    "name": "point_info_famille_auneuil",
+    "title": "Point info famille - Auneuil",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/oise/pif-60029-01",
+    "metadata": {
+      "email": "csr-cyber-auneuil@hotmail.fr",
+      "telephone": "03 44 84 46 83",
+      "url": "http://www.csrcantonauneuil.com"
+    }
+  },
+  {
+    "id": "a194e9c47cfd2b4f17bc37fbc47fef5fac1b147d",
+    "name": "point_info_famille_aurillac",
+    "title": "Point info famille - Aurillac",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/cantal/pif-15014-01",
+    "metadata": {
+      "email": "udaf15@wanadoo.fr",
+      "telephone": "04 71 43 43 43",
+      "url": "http://www.pointinfofamille-cantal.org"
+    }
+  },
+  {
+    "id": "86df964830d9f292b3540413378c90fb1a8707cb",
+    "name": "point_info_famille_autun",
+    "title": "Point info famille - Autun",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/saone-et-loire/pif-71014-01",
+    "metadata": {
+      "email": "kiosquefamille@cc-autunois.fr",
+      "telephone": "03 85 54 38 99",
+      "url": "https://www.unaf.fr"
+    }
+  },
+  {
+    "id": "86cd7579baae29dfd67a9129642679bac7d423cf",
+    "name": "point_info_famille_auxerre",
+    "title": "Point info famille - Auxerre",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/yonne/pif-89024-01",
+    "metadata": {
+      "email": "pifauxerre.cafauxerre@caf.fr",
+      "telephone": "03 86 72 82 18",
+      "url": "https://www.unaf.fr"
+    }
+  },
+  {
+    "id": "63de4257545c045562ba9fab88884ffc20e3ed91",
+    "name": "point_info_famille_avallon",
+    "title": "Point info famille - Avallon",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/yonne/pif-89025-01",
+    "metadata": {
+      "email": "pifavallon.cafauxerre@caf.fr",
+      "telephone": "08 20 31 27 56",
+      "url": "https://www.unaf.fr"
+    }
+  },
+  {
+    "id": "524a13ebb52620d88093137605058f9e7990a379",
+    "name": "point_info_famille_avignon",
+    "title": "Point info famille - Avignon",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/vaucluse/pif-84007-01",
+    "metadata": {
+      "email": "pif@ccasavignon.org",
+      "telephone": "04 90 88 06 65",
+      "url": "https://www.unaf.fr"
+    }
+  },
+  {
+    "id": "64a4e73a1fdaa8b042f23a1bbb70084faee85d1d",
+    "name": "point_info_famille_barbezieux_saint_hilaire",
+    "title": "Point info famille - Barbezieux-Saint-Hilaire",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/charente/pif-16028-01",
+    "metadata": {
+      "email": "cscbarbezieux@wanadoo.fr",
+      "telephone": "05 45 78 05 92",
+      "url": "https://www.unaf.fr"
+    }
+  },
+  {
+    "id": "86a54975f52fdf189f118b29d713caef08070a3a",
+    "name": "point_info_famille_bastia_imperiale",
+    "title": "Point info famille - Bastia - Impériale",
+    "url": "https://lannuaire.service-public.fr/corse/haute-corse/pif-2B033-02",
+    "metadata": {
+      "email": "",
+      "telephone": "04 95 30 12 00",
+      "url": "https://www.unaf.fr"
+    }
+  },
+  {
+    "id": "f8b20489e9cadce63c2e92847ec0a7257c29602f",
+    "name": "point_info_famille_bastia_san_angelo",
+    "title": "Point info famille - Bastia - San-Angelo",
+    "url": "https://lannuaire.service-public.fr/corse/haute-corse/pif-2B033-01",
+    "metadata": {
+      "email": "epehautecorse@yahoo.fr",
+      "telephone": "04 95 32 62 40",
+      "url": "https://www.unaf.fr"
+    }
+  },
+  {
+    "id": "d8582a1f0fde1077d6f61473e7b0e87a6a5cffb5",
+    "name": "point_info_famille_bayonne",
+    "title": "Point info famille - Bayonne",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/pyrenees-atlantiques/pif-64102-01",
+    "metadata": {
+      "email": "point-infofamille@cafbayonne.cnafmail.fr",
+      "telephone": "05 59 46 78 71",
+      "url": "https://www.unaf.fr"
+    }
+  },
+  {
+    "id": "d8e9edf2f9270599354c29366e46e46fc9653081",
+    "name": "point_info_famille_beaufort_en_anjou",
+    "title": "Point info famille - Beaufort-en-Anjou",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/maine-et-loire/pif-49021-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 41 45 60 89",
+      "url": ""
+    }
+  },
+  {
+    "id": "ee6bf77da5dc4afb3490c86bec729b61d419e180",
+    "name": "point_info_famille_beaumont_sur_sarthe",
+    "title": "Point info famille - Beaumont-sur-Sarthe",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/sarthe/pif-72029-01",
+    "metadata": {
+      "email": "cgrouault.familles@wanadoo.fr",
+      "telephone": "02 43 97 50 70",
+      "url": ""
+    }
+  },
+  {
+    "id": "4f06c5de8e2684ef4d8c1e77cc5c632dc5deba56",
+    "name": "point_info_famille_beaune",
+    "title": "Point info famille - Beaune",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/cote-d-or/pif-21054-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 80 24 55 90",
+      "url": "https://www.unaf.fr"
+    }
+  },
+  {
+    "id": "4a9b421055a18c4aad8ed4cb53f03c5f08612875",
+    "name": "point_info_famille_beauvais_marechal_leclerc",
+    "title": "Point info famille - Beauvais - Maréchal-Leclerc",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/oise/pif-60057-02",
+    "metadata": {
+      "email": "udafoise@udaf60.fr",
+      "telephone": "03 44 06 83 83",
+      "url": "https://www.unaf.fr"
+    }
+  },
+  {
+    "id": "de1b219df3353dc0c1a48b37f7910814b9e25406",
+    "name": "point_info_famille_beauvais_saint_jean",
+    "title": "Point info famille - Beauvais - Saint-Jean",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/oise/pif-60057-03",
+    "metadata": {
+      "email": "apei-beauvais@wanadoo.fr",
+      "telephone": "03 44 45 46 38",
+      "url": "https://www.unaf.fr"
+    }
+  },
+  {
+    "id": "160e287ef997aa7117c8c0933848d0a88cf99bd2",
+    "name": "point_info_famille_begles",
+    "title": "Point info famille - Bègles",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/gironde/pif-33039-01",
+    "metadata": {
+      "email": "social@mairie-begles.fr",
+      "telephone": "05 56 49 04 70",
+      "url": "https://www.unaf.fr"
+    }
+  },
+  {
+    "id": "19a7d7d90a280d70acb3a4fd64bbaeff8d4b2642",
+    "name": "point_info_famille_bellac",
+    "title": "Point info famille - Bellac",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/haute-vienne/pif-87011-01",
+    "metadata": {
+      "email": "afr.bellac@aliceadsl.fr",
+      "telephone": "05 55 68 73 47",
+      "url": "https://www.unaf.fr"
+    }
+  },
+  {
+    "id": "cec3d433861cd3c20b861c6de9b8dad4467b277b",
+    "name": "point_info_famille_bellencombre",
+    "title": "Point info famille - Bellencombre",
+    "url": "https://lannuaire.service-public.fr/normandie/seine-maritime/pif-76070-01",
+    "metadata": {
+      "email": "car-centresocial@wanadoo.fr",
+      "telephone": "02 35 93 26 78",
+      "url": "https://www.unaf.fr"
+    }
+  },
+  {
+    "id": "11bbc1ee8a1829da81aeb02751c60c125ece0ed8",
+    "name": "point_info_famille_belves",
+    "title": "Point info famille - Belvès",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/dordogne/pif-24035-01",
+    "metadata": {
+      "email": "pointpublic-belves@wanadoo.fr",
+      "telephone": "05 53 31 44 81",
+      "url": "https://www.unaf.fr"
+    }
+  },
+  {
+    "id": "177466a9498ebe5e3fdf92178529b4bb1d0f3f0f",
+    "name": "point_info_famille_beziers",
+    "title": "Point info famille - Béziers",
+    "url": "https://lannuaire.service-public.fr/occitanie/herault/pif-34032-01",
+    "metadata": {
+      "email": "maison-parentalite@wanadoo.fr",
+      "telephone": "04 67 28 52 80",
+      "url": "https://www.unaf.fr"
+    }
+  },
+  {
+    "id": "23f9e9f6e4977429f24de0ae5d65c5165e182d5c",
+    "name": "point_info_famille_bidache",
+    "title": "Point info famille - Bidache",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/pyrenees-atlantiques/pif-64123-01",
+    "metadata": {
+      "email": "commune.christianne.bidache@wanadoo.fr",
+      "telephone": "05 59 56 00 10",
+      "url": "https://www.unaf.fr"
+    }
+  },
+  {
+    "id": "3bb46f677aeeec8d0ae87675c1abb1605d3f543e",
+    "name": "point_info_famille_billere",
+    "title": "Point info famille - Billère",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/pyrenees-atlantiques/pif-64129-01",
+    "metadata": {
+      "email": "animation.ayguette@ville-billere.fr",
+      "telephone": "05 59 92 55 55",
+      "url": "https://www.unaf.fr"
+    }
+  },
+  {
+    "id": "7889c268ae3a3ef25309b531680bea53f9d00f0b",
+    "name": "point_info_famille_blois_bourseul",
+    "title": "Point info famille - Blois - Bourseul",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/loir-et-cher/pif-41018-01",
+    "metadata": {
+      "email": "cidff41@orange.fr",
+      "telephone": "02 54 42 17 39",
+      "url": "https://www.unaf.fr"
+    }
+  },
+  {
+    "id": "453cc891dddf722da591e8d592d2fd9fa45f6105",
+    "name": "point_info_famille_blois_dupre",
+    "title": "Point info famille - Blois - Dupré",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/loir-et-cher/pif-41018-02",
+    "metadata": {
+      "email": "alcv.blois@wanadoo.fr",
+      "telephone": "02 54 78 64 45",
+      "url": "https://www.unaf.fr"
+    }
+  },
+  {
+    "id": "ec0da7f84a9a717bc0e963792159ea9bcbee466f",
+    "name": "point_info_famille_bolbec",
+    "title": "Point info famille - Bolbec",
+    "url": "https://lannuaire.service-public.fr/normandie/seine-maritime/pif-76114-01",
+    "metadata": {
+      "email": "celine.delpech@leolagrange.net",
+      "telephone": "02 35 38 73 80",
+      "url": "https://www.unaf.fr"
+    }
+  },
+  {
+    "id": "b60baa1c15c059fc0ada6f2518cab7713d0e3cb0",
+    "name": "point_info_famille_bompas",
+    "title": "Point info famille - Bompas",
+    "url": "https://lannuaire.service-public.fr/occitanie/pyrenees-orientales/pif-66021-01",
+    "metadata": {
+      "email": "accueil.solidarite.bompas@wanadoo.fr",
+      "telephone": "04 68 34 76 42",
+      "url": "http://www.point-infofamille.fr"
+    }
+  },
+  {
+    "id": "cf4de45eec32d49c46ec917348d6524cf4afb3f9",
+    "name": "point_info_famille_bondy",
+    "title": "Point info famille - Bondy",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/seine-saint-denis/pif-93010-01",
+    "metadata": {
+      "email": "s.amara@ville-bondy.fr",
+      "telephone": "01 48 48 39 63",
+      "url": "http://www.point-infofamille.fr"
+    }
+  },
+  {
+    "id": "d657211093ce191f2ed15db3d0fb287ef3af2518",
+    "name": "point_info_famille_bonnetable",
+    "title": "Point info famille - Bonnétable",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/sarthe/pif-72039-01",
+    "metadata": {
+      "email": "clic.maine301@orange.fr",
+      "telephone": "02 43 29 00 01",
+      "url": "https://www.unaf.frspip.php?rubrique305"
+    }
+  },
+  {
+    "id": "69d4e10fceb1a8772b88fbe422642b81c03ab089",
+    "name": "point_info_famille_bordeaux",
+    "title": "Point info famille - Bordeaux",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/gironde/pif-33063-01",
+    "metadata": {
+      "email": "cidff33bordeaux@orange.fr",
+      "telephone": "05 56 44 30 30",
+      "url": "https://www.unaf.fr"
+    }
+  },
+  {
+    "id": "6a9bc1339812ca41c236680e87d3e0572f738380",
+    "name": "point_info_famille_boulogne_sur_mer",
+    "title": "Point info famille - Boulogne-sur-Mer",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/pas-de-calais/pif-62160-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 21 80 87 75",
+      "url": "https://www.unaf.fr"
+    }
+  },
+  {
+    "id": "058de4b9892e54a984b8ae8478390fdedb529145",
+    "name": "point_info_famille_bourg_en_bresse",
+    "title": "Point info famille - Bourg-en-Bresse",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/ain/pif-01053-01",
+    "metadata": {
+      "email": "pif01@udaf01.unaf.fr",
+      "telephone": "04 74 32 11 46",
+      "url": "https://www.unaf.fr"
+    }
+  },
+  {
+    "id": "329abcf6d5bb199862654b0323a49ad1cf9b91de",
+    "name": "point_info_famille_bourges",
+    "title": "Point info famille - Bourges",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/cher/pif-18033-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 48 24 18 47",
+      "url": "https://www.unaf.fr"
+    }
+  },
+  {
+    "id": "d879c73f5860c3a069c80699017f87d7394db6c4",
+    "name": "point_info_famille_brienne_le_chateau",
+    "title": "Point info famille - Brienne-le-Château",
+    "url": "https://lannuaire.service-public.fr/grand-est/aube/pif-10064-01",
+    "metadata": {
+      "email": "centresocial.brienne@wanadoo.fr",
+      "telephone": "03 25 92 91 91",
+      "url": "https://www.unaf.fr"
+    }
+  },
+  {
+    "id": "8e00dec33573d1bbcc2bfa2555bc7a898659a463",
+    "name": "point_info_famille_brignoles",
+    "title": "Point info famille - Brignoles",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/var/pif-83023-01",
+    "metadata": {
+      "email": "f.delafosse@wanadoo.fr",
+      "telephone": "04 94 69 42 24",
+      "url": "https://www.unaf.fr"
+    }
+  },
+  {
+    "id": "4a7a3805c6ac379defbd78c960af507e4ef85abc",
+    "name": "point_info_famille_brive_la_gaillarde",
+    "title": "Point info famille - Brive-la-Gaillarde",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/correze/pif-19031-01",
+    "metadata": {
+      "email": "christine.rochevalier@cafbrive.cnafmail.fr",
+      "telephone": "05 55 92 85 92",
+      "url": "https://www.unaf.fr"
+    }
+  },
+  {
+    "id": "731fd38584ec424e8bf19c9f6499dba014e002bc",
+    "name": "point_info_famille_budeliere",
+    "title": "Point info famille - Budelière",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/creuse/pif-23035-01",
+    "metadata": {
+      "email": "pifagirhmc@wanadoo.fr",
+      "telephone": "05 55 82 80 47",
+      "url": ""
+    }
+  },
+  {
+    "id": "44bc464520ac6abd2ce42becb9ddd99b4af815f5",
+    "name": "point_info_famille_cagnes_sur_mer",
+    "title": "Point info famille - Cagnes-sur-Mer",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/alpes-maritimes/pif-06027-01",
+    "metadata": {
+      "email": "infos@arpas.fr",
+      "telephone": "04 93 20 67 01",
+      "url": "https://www.unaf.fr"
+    }
+  },
+  {
+    "id": "4984354d0a13adfd8d320e6e5f12ec2a981b417d",
+    "name": "point_info_famille_cahors",
+    "title": "Point info famille - Cahors",
+    "url": "https://lannuaire.service-public.fr/occitanie/lot/pif-46042-01",
+    "metadata": {
+      "email": "gcazard@udaf46.unaf.fr",
+      "telephone": "08 25 87 63 87",
+      "url": "https://www.unaf.fr"
+    }
+  },
+  {
+    "id": "aac1be6fec5d09fa89e63fa24aca0a955589e3f3",
+    "name": "point_info_famille_calais",
+    "title": "Point info famille - Calais",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/pas-de-calais/pif-62193-01",
+    "metadata": {
+      "email": "maison-famille@mairie-calais.fr",
+      "telephone": "03 21 97 60 73",
+      "url": "https://www.unaf.fr"
+    }
+  },
+  {
+    "id": "931c04f050c5207f67a4044de3728097f29ded93",
+    "name": "point_info_famille_cambrai",
+    "title": "Point info famille - Cambrai",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/nord/pif-59122-01",
+    "metadata": {
+      "email": "cscv.adultesfamilles@wanadoo.fr",
+      "telephone": "03 27 70 07 36",
+      "url": "https://www.unaf.fr"
+    }
+  },
+  {
+    "id": "488526ee42f0bb2adacf642759b9231deb879274",
+    "name": "point_info_famille_cande",
+    "title": "Point info famille - Candé",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/maine-et-loire/pif-49054-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 41 94 19 40",
+      "url": ""
+    }
+  },
+  {
+    "id": "4e4bbeaaebdb1302ac403e3175f483f2e45abdbf",
+    "name": "point_info_famille_carpentras",
+    "title": "Point info famille - Carpentras",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/vaucluse/pif-84031-01",
+    "metadata": {
+      "email": "maisondepartementcarpentras@cg84.fr",
+      "telephone": "04 32 85 84 40",
+      "url": "https://www.unaf.fr"
+    }
+  },
+  {
+    "id": "7290134e19363637b3e75f7e6210c1fd82be5091",
+    "name": "point_info_famille_castelnaudary",
+    "title": "Point info famille - Castelnaudary",
+    "url": "https://lannuaire.service-public.fr/occitanie/aude/pif-11076-01",
+    "metadata": {
+      "email": "aafp11@orange.fr",
+      "telephone": "04 68 94 98 03",
+      "url": "https://www.unaf.fr"
+    }
+  },
+  {
+    "id": "40e2b788bfe0b20aba84bdfbd53e60edf73c68aa",
+    "name": "point_info_famille_castres",
+    "title": "Point info famille - Castres",
+    "url": "https://lannuaire.service-public.fr/occitanie/tarn/pif-81065-01",
+    "metadata": {
+      "email": "cidffcastres@wanadoo.fr",
+      "telephone": "05 63 72 15 00",
+      "url": "https://www.unaf.fr"
+    }
+  },
+  {
+    "id": "9d2e3e998f3ca1bebe2f1e6269457965c0575e85",
+    "name": "point_info_famille_cayenne_justin_catayee",
+    "title": "Point info famille - Cayenne - Justin-Catayée",
+    "url": "https://lannuaire.service-public.fr/guyane/guyane/pif-97302-01",
+    "metadata": {
+      "email": "droitsdelenfant@wanadoo.fr",
+      "telephone": "+594 5 94 31 24 69",
+      "url": "https://www.unaf.fr"
+    }
+  },
+  {
+    "id": "303b25bad94d795cddc52bce9bbef9417fb80cd9",
+    "name": "point_info_famille_cayenne_metabo",
+    "title": "Point info famille - Cayenne - Metabo",
+    "url": "https://lannuaire.service-public.fr/guyane/guyane/pif-97302-02",
+    "metadata": {
+      "email": "udaf.guyane@wanadoo.fr",
+      "telephone": "+594 5 94 35 28 56",
+      "url": "https://www.unaf.fr"
+    }
+  },
+  {
+    "id": "04ea6db582f9a26bf9a76a44b603804bf287a7e5",
+    "name": "point_info_famille_cercy_la_tour",
+    "title": "Point info famille - Cercy-la-Tour",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/nievre/pif-58118-01",
+    "metadata": {
+      "email": "centre-social-fours@wanadoo.fr",
+      "telephone": "03 86 50 89 16",
+      "url": "https://www.unaf.fr"
+    }
+  },
+  {
+    "id": "5498e1abd8a6726d402ffd78f2091fb506bd452d",
+    "name": "point_info_famille_cergy",
+    "title": "Point info famille - Cergy",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/val-d-oise/pif-95127-01",
+    "metadata": {
+      "email": "cidff95@orange.fr",
+      "telephone": "01 34 41 42 93",
+      "url": "https://www.unaf.fr"
+    }
+  },
+  {
+    "id": "8aab711f2eb59a65d4b5d3344eb09d180f2712c4",
+    "name": "point_info_famille_chalons_en_champagne",
+    "title": "Point info famille - Châlons-en-Champagne",
+    "url": "https://lannuaire.service-public.fr/grand-est/marne/pif-51108-01",
+    "metadata": {
+      "email": "csc-vsp@wanadoo.fr",
+      "telephone": "03 26 68 38 24",
+      "url": "https://www.unaf.fr"
+    }
+  },
+  {
+    "id": "f3f87c1e68678db17d981729dcf5fee44d90da9f",
+    "name": "point_info_famille_chambery",
+    "title": "Point info famille - Chambéry",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/savoie/pif-73065-02",
+    "metadata": {
+      "email": "lucie.tarajeat@cg73.fr",
+      "telephone": "04 79 60 29 24",
+      "url": "https://www.unaf.fr"
+    }
+  },
+  {
+    "id": "bf9b61966427e8874e8b7610d5122acc88a40992",
+    "name": "point_info_famille_chambery_laurier",
+    "title": "Point info famille - Chambéry - Laurier",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/savoie/pif-73065-01",
+    "metadata": {
+      "email": "aqcv@wanadoo.fr",
+      "telephone": "04 79 85 50 76",
+      "url": "https://www.unaf.fr"
+    }
+  },
+  {
+    "id": "33c6ff3051106a3e0d132e2d5476d3d84cf02e9f",
+    "name": "point_info_famille_charleville_mezieres",
+    "title": "Point info famille - Charleville-Mézières",
+    "url": "https://lannuaire.service-public.fr/grand-est/ardennes/pif-08105-01",
+    "metadata": {
+      "email": "pif@udaf08.fr",
+      "telephone": "03 24 57 99 33",
+      "url": "https://www.unaf.fr"
+    }
+  },
+  {
+    "id": "fc3c4e35eaddc4b12f93e6bb04afb7261bd20ba7",
+    "name": "point_info_famille_chateauroux_centre_dinformation_sur_les_droits_des_femmes_et_des_familles",
+    "title": "Point info famille - Châteauroux - Centre d’information sur les droits des femmes et des familles",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/indre/pif-36044-01",
+    "metadata": {
+      "email": "cidfbaie-36@wanadoo.fr",
+      "telephone": "02 54 34 48 71",
+      "url": "https://www.unaf.fr"
+    }
+  },
+  {
+    "id": "6bd35412ceebed7ebd1317e92aa11f5784922989",
+    "name": "point_info_famille_chateauroux_familles_rurales",
+    "title": "Point info famille - Châteauroux - Familles rurales",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/indre/pif-36044-02",
+    "metadata": {
+      "email": "pif36@famillesrurales.org",
+      "telephone": "02 54 08 71 71",
+      "url": "https://www.unaf.fr"
+    }
+  },
+  {
+    "id": "3881519039b9f695583ec755c86b241952d126b5",
+    "name": "point_info_famille_chateau_thierry",
+    "title": "Point info famille - Château-Thierry",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/aisne/pif-02168-01",
+    "metadata": {
+      "email": "espace-famille@ville-chateau-thierry.fr",
+      "telephone": "03 23 84 87 04",
+      "url": "http://chateau-thierry.espace-famille.net"
+    }
+  },
+  {
+    "id": "b4ee441144ebc679b379b2e8c924db53a32f1c1a",
+    "name": "point_info_famille_chaumont",
+    "title": "Point info famille - Chaumont",
+    "url": "https://lannuaire.service-public.fr/grand-est/haute-marne/pif-52121-01",
+    "metadata": {
+      "email": "pif-52@caf.fr",
+      "telephone": "03 25 30 27 29",
+      "url": "https://www.unaf.fr"
+    }
+  },
+  {
+    "id": "da565a2660f998bd462faa039da46b891fef25c7",
+    "name": "point_info_famille_chemillois",
+    "title": "Point info famille - Chemillois",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/maine-et-loire/pif-49092-01",
+    "metadata": {
+      "email": "infos@centresocial-chemille.asso.fr",
+      "telephone": "02 41 30 50 55",
+      "url": ""
+    }
+  },
+  {
+    "id": "ad65671e90bb5b697b8919d5336922fb14b832e4",
+    "name": "point_info_famille_chenove",
+    "title": "Point info famille - Chenôve",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/cote-d-or/pif-21166-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 80 52 64 24",
+      "url": "https://www.unaf.fr"
+    }
+  },
+  {
+    "id": "0a86172b343807b64f665a1a6b3e0abca5f749c0",
+    "name": "point_info_famille_clamecy",
+    "title": "Point info famille - Clamecy",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/nievre/pif-58079-01",
+    "metadata": {
+      "email": "espace-social@vaux-yonne.com",
+      "telephone": "03 86 24 44 19",
+      "url": "https://www.unaf.fr"
+    }
+  },
+  {
+    "id": "674854635645d7a1880e401865c54f7d4ff05910",
+    "name": "point_info_famille_cleon",
+    "title": "Point info famille - Cléon",
+    "url": "https://lannuaire.service-public.fr/normandie/seine-maritime/pif-76178-01",
+    "metadata": {
+      "email": "centresocialbobylapointe@wanadoo.fr",
+      "telephone": "02 32 96 01 01",
+      "url": "https://www.unaf.fr"
+    }
+  },
+  {
+    "id": "d7ede760f5cd140ea0f4cb95333a9cbf2face4c3",
+    "name": "point_info_famille_clermont",
+    "title": "Point info famille - Clermont",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/oise/pif-60157-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 44 19 23 44",
+      "url": "https://www.unaf.fr"
+    }
+  },
+  {
+    "id": "96cd9aa04929fe47d005de344b3e798a144ef853",
+    "name": "point_info_famille_clermont_ferrand_hauts_de_chanturgue",
+    "title": "Point info famille - Clermont-Ferrand - Hauts-de-Chanturgue",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/puy-de-dome/pif-63113-01",
+    "metadata": {
+      "email": "cidff63-direction@orange.fr",
+      "telephone": "04 73 25 63 95",
+      "url": "http://www.cidff63.com"
+    }
+  },
+  {
+    "id": "feddf4995a0bd507a94c3a9bab76d55bca925883",
+    "name": "point_info_famille_cognac",
+    "title": "Point info famille - Cognac",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/charente/pif-16102-01",
+    "metadata": {
+      "email": "aserc@free.fr",
+      "telephone": "05 45 36 87 50",
+      "url": "https://www.unaf.fr"
+    }
+  },
+  {
+    "id": "38ccf9025274273b0a797a83307929452bb66256",
+    "name": "point_info_famille_colmar",
+    "title": "Point info famille - Colmar",
+    "url": "https://lannuaire.service-public.fr/grand-est/haut-rhin/pif-68066-01",
+    "metadata": {
+      "email": "cidff68@orange.fr",
+      "telephone": "03 89 60 45 43",
+      "url": "https://www.unaf.fr"
+    }
+  },
+  {
+    "id": "745450b037dc0d9a11ae28997973b200a37cc910",
+    "name": "point_info_famille_colombes_europe",
+    "title": "Point info famille - Colombes - Europe",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/hauts-de-seine/pif-92025-02",
+    "metadata": {
+      "email": "contact@asso-eim.com",
+      "telephone": "01 47 84 89 67",
+      "url": "https://www.unaf.fr"
+    }
+  },
+  {
+    "id": "88ab147e14545143d20e7767e5d8960e89116980",
+    "name": "point_info_famille_colombes_jules_michelet",
+    "title": "Point info famille - Colombes - Jules-Michelet",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/hauts-de-seine/pif-92025-01",
+    "metadata": {
+      "email": "colombes.csc@wanadoo.fr",
+      "telephone": "",
+      "url": "http://www.csc-fossesjean.com"
+    }
+  },
+  {
+    "id": "b22919bf6f7df51078cda8b02d13304ebd6c934c",
+    "name": "point_info_famille_colombey_les_belles",
+    "title": "Point info famille - Colombey-les-Belles",
+    "url": "https://lannuaire.service-public.fr/grand-est/meurthe-et-moselle/pif-54135-01",
+    "metadata": {
+      "email": "relaisfamilles.colombey@wanadoo.fr",
+      "telephone": "03 83 52 06 49",
+      "url": "https://www.unaf.fr"
+    }
+  },
+  {
+    "id": "d0a0712409514b9a9a8e57241f3e4ee69212c407",
+    "name": "point_info_famille_conlie",
+    "title": "Point info famille - Conlie",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/sarthe/pif-72089-01",
+    "metadata": {
+      "email": "csconlie72@wanadoo.fr",
+      "telephone": "02 43 52 11 50",
+      "url": "https://www.unaf.fr"
+    }
+  },
+  {
+    "id": "ab1f4964c56e55fd238f6c16b26f24a166152b90",
+    "name": "point_info_famille_corte",
+    "title": "Point info famille - Corte",
+    "url": "https://lannuaire.service-public.fr/corse/haute-corse/pif-2B096-01",
+    "metadata": {
+      "email": "rinascita@wanadoo.fr",
+      "telephone": "",
+      "url": "https://www.unaf.fr"
+    }
+  },
+  {
+    "id": "137adaecb7ef4c4d0206397f79c38d43e90090ea",
+    "name": "point_info_famille_cosne_cours_sur_loire",
+    "title": "Point info famille - Cosne-Cours-sur-Loire",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/nievre/pif-58086-01",
+    "metadata": {
+      "email": "info@centresocialcosne.org",
+      "telephone": "03 86 28 20 96",
+      "url": "https://www.unaf.fr"
+    }
+  },
+  {
+    "id": "f87f4c10384674fd1e2b575934fb38c40befa243",
+    "name": "point_info_famille_coulanges_sur_yonne",
+    "title": "Point info famille - Coulanges-sur-Yonne",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/yonne/pif-89119-01",
+    "metadata": {
+      "email": "ccpcy.pims@wanadoo.fr",
+      "telephone": "",
+      "url": "https://www.unaf.fr"
+    }
+  },
+  {
+    "id": "4dd2d7617e3bc0a5fba6b500b227f479590e002a",
+    "name": "point_info_famille_coulounieix_chamiers",
+    "title": "Point info famille - Coulounieix-Chamiers",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/dordogne/pif-24138-01",
+    "metadata": {
+      "email": "cscc24@orange.fr",
+      "telephone": "05 53 45 60 30",
+      "url": "https://saintexupery.centres-sociaux.fr"
+    }
+  },
+  {
+    "id": "d7ce3334367ba74fb71caa4b3c6dfcde6e169247",
+    "name": "point_info_famille_courbevoie",
+    "title": "Point info famille - Courbevoie",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/hauts-de-seine/pif-92026-01",
+    "metadata": {
+      "email": "espace.parents@ville-courbevoie.fr",
+      "telephone": "01 43 33 28 18",
+      "url": "https://www.unaf.fr"
+    }
+  },
+  {
+    "id": "3773bfcfc1f2c6d64c3916c1129418aabaad226a",
+    "name": "point_info_famille_creil",
+    "title": "Point info famille - Creil",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/oise/pif-60175-01",
+    "metadata": {
+      "email": "pif.cafcreil@cafcreil.cnafmail.fr",
+      "telephone": "03 44 61 26 78",
+      "url": "https://www.unaf.fr"
+    }
+  },
+  {
+    "id": "b7bf758611ce7e024f6eeba2900d83847a5025e8",
+    "name": "point_info_famille_creteil",
+    "title": "Point info famille - Créteil",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/val-de-marne/pif-94028-01",
+    "metadata": {
+      "email": "espace-droit-famille@wanadoo.fr",
+      "telephone": "01 48 98 05 78",
+      "url": "https://www.unaf.fr"
+    }
+  },
+  {
+    "id": "a75f4a3fae88c384a5ae021bce4706bf6a1c6597",
+    "name": "point_info_famille_criel_sur_mer",
+    "title": "Point info famille - Criel-sur-Mer",
+    "url": "https://lannuaire.service-public.fr/normandie/seine-maritime/pif-76192-01",
+    "metadata": {
+      "email": "villa-neptune-criel@wanadoo.fr",
+      "telephone": "02 35 50 78 52",
+      "url": "https://www.unaf.fr"
+    }
+  },
+  {
+    "id": "9892c7ac4d12965663f89f375caf695c4276ffdc",
+    "name": "point_info_famille_dammarie_les_lys",
+    "title": "Point info famille - Dammarie-les-Lys",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/seine-et-marne/pif-77152-01",
+    "metadata": {
+      "email": "",
+      "telephone": "01 64 87 49 49",
+      "url": "https://www.unaf.fr"
+    }
+  },
+  {
+    "id": "21857af76c7ba90539eefae49ce48361ace75acf",
+    "name": "point_info_famille_darnetal",
+    "title": "Point info famille - Darnétal",
+    "url": "https://lannuaire.service-public.fr/normandie/seine-maritime/pif-76212-01",
+    "metadata": {
+      "email": "marie-odile.sos@wanadoo.fr",
+      "telephone": "02 32 12 14 45",
+      "url": "https://www.unaf.fr"
+    }
+  },
+  {
+    "id": "5138498c3c914b2882f49645355ca8933d8b51b5",
+    "name": "point_info_famille_decize",
+    "title": "Point info famille - Decize",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/nievre/pif-58095-01",
+    "metadata": {
+      "email": "famille.cscdecize@orange.fr",
+      "telephone": "03 86 77 19 20",
+      "url": "https://www.unaf.fr"
+    }
+  },
+  {
+    "id": "c179c90e439d99faada4553a8172c19ac2cafee6",
+    "name": "point_info_famille_dinan",
+    "title": "Point info famille - Dinan",
+    "url": "https://lannuaire.service-public.fr/bretagne/cotes-d-armor/pif-22050-01",
+    "metadata": {
+      "email": "centre.social.dinan@cnafmail.fr",
+      "telephone": "02 96 39 38 21",
+      "url": "https://www.unaf.fr"
+    }
+  },
+  {
+    "id": "53a1a2983e8eb11064cad2023c92ffcff967620e",
+    "name": "point_info_famille_dole",
+    "title": "Point info famille - Dole",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/jura/pif-39198-01",
+    "metadata": {
+      "email": "femmesdebout@orange.fr",
+      "telephone": "03 84 82 14 37",
+      "url": "https://www.unaf.fr"
+    }
+  },
+  {
+    "id": "f1676098376b3725178ae4c2051bb0b2b87cac61",
+    "name": "point_info_famille_domevre_en_haye",
+    "title": "Point info famille - Domèvre-en-Haye",
+    "url": "https://lannuaire.service-public.fr/grand-est/meurthe-et-moselle/pif-54160-01",
+    "metadata": {
+      "email": "relaisfamillesdomevre@wanadoo.fr",
+      "telephone": "03 83 23 19 97",
+      "url": "https://www.unaf.fr"
+    }
+  },
+  {
+    "id": "0dd16a55b622722860ebafb79dbef3287289d2e9",
+    "name": "point_info_famille_dormans",
+    "title": "Point info famille - Dormans",
+    "url": "https://lannuaire.service-public.fr/grand-est/marne/pif-51217-01",
+    "metadata": {
+      "email": "familles.rurales.dormans@wanadoo.fr",
+      "telephone": "03 26 58 80 37",
+      "url": "https://www.unaf.fr"
+    }
+  },
+  {
+    "id": "4e278ca39707ab7853661487a9048d6963b242fd",
+    "name": "point_info_famille_douai",
+    "title": "Point info famille - Douai",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/nord/pif-59178-01",
+    "metadata": {
+      "email": "pif.douaisis@wanadoo.fr",
+      "telephone": "03 27 95 29 36",
+      "url": "https://www.unaf.fr"
+    }
+  },
+  {
+    "id": "af57e948f9efe9125528dca45f29bc7bd9999202",
+    "name": "point_info_famille_doue_la_fontaine",
+    "title": "Point info famille - Doué-la-Fontaine",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/maine-et-loire/pif-49125-01",
+    "metadata": {
+      "email": "contact@douelafontaine.centresocial.org",
+      "telephone": "02 41 59 77 09",
+      "url": "https://www.unaf.frspip.php?rubrique305"
+    }
+  },
+  {
+    "id": "7f95eeed8405ae99e4ba2b13812c44b379b9edcb",
+    "name": "point_info_famille_drancy",
+    "title": "Point info famille - Drancy",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/seine-saint-denis/pif-93029-01",
+    "metadata": {
+      "email": "adept@wanadoo.fr",
+      "telephone": "01 48 31 19 71",
+      "url": "https://www.unaf.fr"
+    }
+  },
+  {
+    "id": "d88a14cd3b16eb3848b2cdb9fdd4dadfa68f68cf",
+    "name": "point_info_famille_drap",
+    "title": "Point info famille - Drap",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/alpes-maritimes/pif-06054-01",
+    "metadata": {
+      "email": "mairieannexe.drap@wanadoo.fr",
+      "telephone": "04 93 91 69 90",
+      "url": "https://www.unaf.fr"
+    }
+  },
+  {
+    "id": "bc69d676fca62a5b9c221d2929ace88b55fae29e",
+    "name": "point_info_famille_dunkerque",
+    "title": "Point info famille - Dunkerque",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/nord/pif-59183-01",
+    "metadata": {
+      "email": "cidff.dunkerque@wanadoo.f",
+      "telephone": "03 28 59 29 30",
+      "url": "https://www.unaf.fr"
+    }
+  },
+  {
+    "id": "9f67f7f612587277a06816bf2338a42e45f26117",
+    "name": "point_info_famille_einville_au_jard",
+    "title": "Point info famille - Einville-au-Jard",
+    "url": "https://lannuaire.service-public.fr/grand-est/meurthe-et-moselle/pif-54176-01",
+    "metadata": {
+      "email": "fruraleseinville@free.fr",
+      "telephone": "03 83 72 06 91",
+      "url": "https://www.unaf.fr"
+    }
+  },
+  {
+    "id": "96bca431acfb6bc9158e92a3390c99bdfe522448",
+    "name": "point_info_famille_elbeuf",
+    "title": "Point info famille - Elbeuf",
+    "url": "https://lannuaire.service-public.fr/normandie/seine-maritime/pif-76231-01",
+    "metadata": {
+      "email": "cspuchot@wanadoo.fr",
+      "telephone": "02 35 77 23 48",
+      "url": "https://www.unaf.fr"
+    }
+  },
+  {
+    "id": "515893afe03fa097e2556b91f771e29e67d33a3f",
+    "name": "point_info_famille_embrun",
+    "title": "Point info famille - Embrun",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/hautes-alpes/pif-05046-01",
+    "metadata": {
+      "email": "euroscopeasso@orange.fr",
+      "telephone": "04 92 20 69 75",
+      "url": "https://www.unaf.fr"
+    }
+  },
+  {
+    "id": "6c2358c53366c3e47dc6b34fd4c0d2297f77e249",
+    "name": "point_info_famille_entre_deux",
+    "title": "Point info famille - Entre-Deux",
+    "url": "https://lannuaire.service-public.fr/la-reunion/reunion/pif-97403-01",
+    "metadata": {
+      "email": "mairie.entredeux@wanadoo.fr",
+      "telephone": "",
+      "url": ""
+    }
+  },
+  {
+    "id": "f523cc4b85e1323d89e57459a12b42978a8c0862",
+    "name": "point_info_famille_epinal",
+    "title": "Point info famille - Épinal",
+    "url": "https://lannuaire.service-public.fr/grand-est/vosges/pif-88160-01",
+    "metadata": {
+      "email": "infofamille@udaf88.unaf.fr",
+      "telephone": "03 29 35 16 16",
+      "url": "https://www.unaf.fr"
+    }
+  },
+  {
+    "id": "9a9abe0d548ea000b2ceca4984235365f85f7911",
+    "name": "point_info_famille_epinay_sur_seine",
+    "title": "Point info famille - Épinay-sur-Seine",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/seine-saint-denis/pif-93031-01",
+    "metadata": {
+      "email": "brigitte.parot@epinay-sur-seine.fr",
+      "telephone": "01 49 71 42 64",
+      "url": "https://www.unaf.fr"
+    }
+  },
+  {
+    "id": "f3944ff3d604861e4e235ef59f8545df06a0c42c",
+    "name": "point_info_famille_equeurdreville",
+    "title": "Point info famille - Équeurdreville",
+    "url": "https://lannuaire.service-public.fr/normandie/manche/pif-50129-01",
+    "metadata": {
+      "email": "ibonnemains@mairie-equeurdreville.fr",
+      "telephone": "02 33 53 96 40",
+      "url": "http://www.ville-equeurdreville.frmairie/contacts"
+    }
+  },
+  {
+    "id": "81533aaceef28d741108dbfb71085dc5524a8144",
+    "name": "point_info_famille_etreaupont",
+    "title": "Point info famille - Etréaupont",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/aisne/pif-02490-01",
+    "metadata": {
+      "email": "famillesrurales.etreaupont@wanadoo.fr",
+      "telephone": "03 23 58 40 87",
+      "url": "https://www.unaf.fr"
+    }
+  },
+  {
+    "id": "4d1e92e1aa6b21821b0c1785209246a532465601",
+    "name": "point_info_famille_eze",
+    "title": "Point info famille - Èze",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/alpes-maritimes/pif-06059-01",
+    "metadata": {
+      "email": "contact@ville-eze.fr",
+      "telephone": "04 92 10 60 60",
+      "url": "https://www.unaf.fr"
+    }
+  },
+  {
+    "id": "edb2ac13c52861e0652fde32c3ad5494b53f6777",
+    "name": "point_info_famille_fecamp",
+    "title": "Point info famille - Fécamp",
+    "url": "https://lannuaire.service-public.fr/normandie/seine-maritime/pif-76259-01",
+    "metadata": {
+      "email": "stephane.levieux@ville-fecamp.fr",
+      "telephone": "02 35 27 94 61",
+      "url": "https://www.unaf.fr"
+    }
+  },
+  {
+    "id": "8c82325b387f61bf8e9b3296167e90e71a7e37ef",
+    "name": "point_info_famille_flers",
+    "title": "Point info famille - Flers",
+    "url": "https://lannuaire.service-public.fr/normandie/orne/pif-61169-01",
+    "metadata": {
+      "email": "",
+      "telephone": "",
+      "url": "https://www.unaf.fr"
+    }
+  },
+  {
+    "id": "87256a769431abe27b5437bf4d4ae2e886ff29dd",
+    "name": "point_info_famille_floirac",
+    "title": "Point info famille - Floirac",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/gironde/pif-33167-01",
+    "metadata": {
+      "email": "espacefamille.rd33@wanadoo.fr",
+      "telephone": "05 57 77 30 15",
+      "url": "https://www.unaf.fr"
+    }
+  },
+  {
+    "id": "141b8d371037dfd8b65eb4114d4f86171d4596b5",
+    "name": "point_info_famille_folelli",
+    "title": "Point info famille - Folelli",
+    "url": "https://lannuaire.service-public.fr/corse/haute-corse/pif-2B207-01",
+    "metadata": {
+      "email": "asso.fiumaltu@laposte.net",
+      "telephone": "04 95 36 89 28",
+      "url": "https://www.unaf.fr"
+    }
+  },
+  {
+    "id": "35c27e4f4432c9d4e826d92eec99ed144cb57e25",
+    "name": "point_info_famille_fontenoy_la_joute",
+    "title": "Point info famille - Fontenoy-la-Joûte",
+    "url": "https://lannuaire.service-public.fr/grand-est/meurthe-et-moselle/pif-54201-01",
+    "metadata": {
+      "email": "relais.fontenoy-la-joute@wanadoo.fr",
+      "telephone": "03 83 71 53 87",
+      "url": "https://www.unaf.fr"
+    }
+  },
+  {
+    "id": "73115fdf11da221d634c29d4b2a44003d1b654ef",
+    "name": "point_info_famille_fort_de_france",
+    "title": "Point info famille - Fort-de-France",
+    "url": "https://lannuaire.service-public.fr/martinique/martinique/pif-97209-01",
+    "metadata": {
+      "email": "udaf972@wanadoo.fr",
+      "telephone": "",
+      "url": "https://www.unaf.fr"
+    }
+  },
+  {
+    "id": "8fd461a8fc69f6d114f0747cab8eb5593e28a273",
+    "name": "point_info_famille_fourchambault",
+    "title": "Point info famille - Fourchambault",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/nievre/pif-58303-01",
+    "metadata": {
+      "email": "cs.fourchambault@free.fr",
+      "telephone": "03 86 90 90 01",
+      "url": "https://www.unaf.fr"
+    }
+  },
+  {
+    "id": "11ae7555e9890fca586fe2360a05dc16fe3c162f",
+    "name": "point_info_famille_frejus",
+    "title": "Point info famille - Fréjus",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/var/pif-83061-01",
+    "metadata": {
+      "email": "c.s.les-bosquets@wanadoo.fr",
+      "telephone": "04 94 51 09 56",
+      "url": "https://www.unaf.fr"
+    }
+  },
+  {
+    "id": "f8d936911f907fb70de31e532be94b0186877bfb",
+    "name": "point_info_famille_fresnay_sur_sarthe",
+    "title": "Point info famille - Fresnay-sur-Sarthe",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/sarthe/pif-72138-01",
+    "metadata": {
+      "email": "cse72@wanadoo.fr",
+      "telephone": "02 43 34 82 47",
+      "url": "http://www.association-escale.com"
+    }
+  },
+  {
+    "id": "007346b63735ac8852383cb4902bc5e9ae8d3bc8",
+    "name": "point_info_famille_fresnoy_le_grand",
+    "title": "Point info famille - Fresnoy-le-Grand",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/aisne/pif-02334-01",
+    "metadata": {
+      "email": "casoc@wanadoo.fr",
+      "telephone": "03 23 09 13 63",
+      "url": "https://www.unaf.fr"
+    }
+  },
+  {
+    "id": "66172f2119c5dc14b1766c35aac765adc7058b16",
+    "name": "point_info_famille_gagny",
+    "title": "Point info famille - Gagny",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/seine-saint-denis/pif-93032-01",
+    "metadata": {
+      "email": "cscbaschenay@wanadoo.fr",
+      "telephone": "01 43 08 91 41",
+      "url": "https://www.unaf.fr"
+    }
+  },
+  {
+    "id": "8d5a740805479768a1906290cfad36acbc529861",
+    "name": "point_info_famille_gaillon",
+    "title": "Point info famille - Gaillon",
+    "url": "https://lannuaire.service-public.fr/normandie/eure/pif-27275-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 32 77 50 80",
+      "url": "https://www.unaf.fr"
+    }
+  },
+  {
+    "id": "640638e264d1eb3048472ba572911dbbf1f33b65",
+    "name": "point_info_famille_gap",
+    "title": "Point info famille - Gap",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/hautes-alpes/pif-05061-01",
+    "metadata": {
+      "email": "info.familles@ville-gap.fr",
+      "telephone": "04 92 53 25 25",
+      "url": "https://www.unaf.fr"
+    }
+  },
+  {
+    "id": "c861aa7a5a5f1e3eefc51123397cb3be39f27822",
+    "name": "point_info_famille_genlis",
+    "title": "Point info famille - Genlis",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/cote-d-or/pif-21292-01",
+    "metadata": {
+      "email": "secteurfamille.coluche@gmail.com",
+      "telephone": "06 83 86 26 86",
+      "url": "https://www.unaf.fr"
+    }
+  },
+  {
+    "id": "6b52d2131ee97e2158fa16f2d65c92b6771e97ce",
+    "name": "point_info_famille_ghisonaccia",
+    "title": "Point info famille - Ghisonaccia",
+    "url": "https://lannuaire.service-public.fr/corse/haute-corse/pif-2B123-01",
+    "metadata": {
+      "email": "afarif@wanadoo.fr",
+      "telephone": "04 95 56 10 89",
+      "url": "https://www.unaf.fr"
+    }
+  },
+  {
+    "id": "c7db1ab0134973f7477f2a66cfd1494181fe00ec",
+    "name": "point_info_famille_gonfreville_l_orcher",
+    "title": "Point info famille - Gonfreville-l'Orcher",
+    "url": "https://lannuaire.service-public.fr/normandie/seine-maritime/pif-76305-01",
+    "metadata": {
+      "email": "centresocial.agies@wanadoo.fr",
+      "telephone": "02 35 45 44 75",
+      "url": "https://www.unaf.fr"
+    }
+  },
+  {
+    "id": "79e1a7bded4c561319ed941a1e7959a4b00f5672",
+    "name": "point_info_famille_gournay_en_bray",
+    "title": "Point info famille - Gournay-en-Bray",
+    "url": "https://lannuaire.service-public.fr/normandie/seine-maritime/pif-76312-01",
+    "metadata": {
+      "email": "csgournay@free.fr",
+      "telephone": "",
+      "url": "https://www.unaf.fr"
+    }
+  },
+  {
+    "id": "d8b237b5a778373d687f207af6b8760783f9477a",
+    "name": "point_info_famille_granville",
+    "title": "Point info famille - Granville",
+    "url": "https://lannuaire.service-public.fr/normandie/manche/pif-50218-01",
+    "metadata": {
+      "email": "lagora.famille@wanadoo.fr",
+      "telephone": "02 33 50 96 06",
+      "url": "https://www.unaf.fr"
+    }
+  },
+  {
+    "id": "5e764e4025ccee7077fde318545a3a00a4edfe64",
+    "name": "point_info_famille_grenoble_moidieu",
+    "title": "Point info famille - Grenoble - Moidieu",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/isere/pif-38185-01",
+    "metadata": {
+      "email": "infofamille38@udaf38.fr",
+      "telephone": "04 76 85 13 24",
+      "url": "https://www.unaf.fr"
+    }
+  },
+  {
+    "id": "4946b4837eb700c74f57cebd1053175f752e1efb",
+    "name": "point_info_famille_grenoble_premol",
+    "title": "Point info famille - Grenoble - Prémol",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/isere/pif-38185-02",
+    "metadata": {
+      "email": "mdh.premol@grenoble.fr",
+      "telephone": "04 76 09 00 28",
+      "url": "http://www.grenoble.frlieu/403/137-maison-des-habitants-premol.htm"
+    }
+  },
+  {
+    "id": "4282c7e498bfbb22019db6e6f71acf04b0eabff7",
+    "name": "point_info_famille_guerigny",
+    "title": "Point info famille - Guérigny",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/nievre/pif-58131-01",
+    "metadata": {
+      "email": "centresocialguerigny@free.fr",
+      "telephone": "03 86 60 43 60",
+      "url": "https://www.unaf.fr"
+    }
+  },
+  {
+    "id": "c422202822351ec4006210a844e4b7c0fa0775b4",
+    "name": "point_info_famille_gueugnon",
+    "title": "Point info famille - Gueugnon",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/saone-et-loire/pif-71230-01",
+    "metadata": {
+      "email": "point-info-famille@gueugnon.net",
+      "telephone": "03 85 85 57 60",
+      "url": "https://www.unaf.fr"
+    }
+  },
+  {
+    "id": "8b99dddcc04e00e90e7f3cb842e35283b8ab9e29",
+    "name": "point_info_famille_guyancourt",
+    "title": "Point info famille - Guyancourt",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/yvelines/pif-78297-01",
+    "metadata": {
+      "email": "",
+      "telephone": "01 30 48 33 90",
+      "url": "https://www.unaf.fr"
+    }
+  },
+  {
+    "id": "0e6016f00d255fa8da9091707372a59affebe96c",
+    "name": "point_info_famille_hasparren",
+    "title": "Point info famille - Hasparren",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/pyrenees-atlantiques/pif-64256-01",
+    "metadata": {
+      "email": "mspelgar.hasparren@wanadoo.fr",
+      "telephone": "05 59 70 20 36",
+      "url": "https://www.unaf.fr"
+    }
+  },
+  {
+    "id": "27efb759b2062dc127d96b91b9c33cb40a1006df",
+    "name": "point_info_famille_hirson",
+    "title": "Point info famille - Hirson",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/aisne/pif-02381-01",
+    "metadata": {
+      "email": "ccas@hirson.net",
+      "telephone": "",
+      "url": "https://www.unaf.fr"
+    }
+  },
+  {
+    "id": "d613c3d0ab0a6142a59fa1e826f908202c3f640c",
+    "name": "point_info_famille_hyeres",
+    "title": "Point info famille - Hyères",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/var/pif-83069-02",
+    "metadata": {
+      "email": "association.acs@wanadoo.fr",
+      "telephone": "04 94 65 13 71",
+      "url": "https://www.unaf.fr"
+    }
+  },
+  {
+    "id": "022a115b57cff463d9129b9501a471322a1d7b75",
+    "name": "point_info_famille_iguerande",
+    "title": "Point info famille - Iguerande",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/saone-et-loire/pif-71238-01",
+    "metadata": {
+      "email": "iguerande.abise@wanadoo.fr",
+      "telephone": "03 85 25 27 54",
+      "url": "https://www.unaf.fr"
+    }
+  },
+  {
+    "id": "53aa71283fcf4ac2ab905d5a9bce84ba2db9a22f",
+    "name": "point_info_famille_ile_rousse",
+    "title": "Point info famille - Île-Rousse",
+    "url": "https://lannuaire.service-public.fr/corse/haute-corse/pif-2B134-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 95 11 03 20",
+      "url": "https://www.unaf.fr"
+    }
+  },
+  {
+    "id": "0108162664c97d6fe73f842af83df64363ab0319",
+    "name": "point_info_famille_issy_les_moulineaux",
+    "title": "Point info famille - Issy-les-Moulineaux",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/hauts-de-seine/pif-92040-01",
+    "metadata": {
+      "email": "espaceparent-enfant@ville-issy.fr",
+      "telephone": "01 41 23 92 20",
+      "url": "https://www.unaf.fr"
+    }
+  },
+  {
+    "id": "92270ba090414f854464a084626b905baef56714",
+    "name": "point_info_famille_jonchery_sur_vesle",
+    "title": "Point info famille - Jonchery-sur-Vesle",
+    "url": "https://lannuaire.service-public.fr/grand-est/marne/pif-51308-01",
+    "metadata": {
+      "email": "relaisfamilles-jonchery2@wanadoo.fr",
+      "telephone": "09 60 46 66 46",
+      "url": "https://www.famillesrurales.org/jonchery_sur_vesle"
+    }
+  },
+  {
+    "id": "c8b2f5198b47824fd6293e282039006042d42809",
+    "name": "point_info_famille_krautergersheim",
+    "title": "Point info famille - Krautergersheim",
+    "url": "https://lannuaire.service-public.fr/grand-est/bas-rhin/pif-67248-01",
+    "metadata": {
+      "email": "",
+      "telephone": "",
+      "url": "https://www.unaf.fr"
+    }
+  },
+  {
+    "id": "81fa261a1e3f99bc66c7f1e056e65a2949de731e",
+    "name": "point_info_famille_l_aigle",
+    "title": "Point info famille - L'Aigle",
+    "url": "https://lannuaire.service-public.fr/normandie/orne/pif-61214-01",
+    "metadata": {
+      "email": "accueil.cias@paysdelaigle.fr",
+      "telephone": "02 33 84 90 28",
+      "url": "https://www.unaf.fr"
+    }
+  },
+  {
+    "id": "85cf5f94e885dc731686ee3d5199e14d53499ed0",
+    "name": "point_info_famille_l_ile_d_yeu",
+    "title": "Point info famille - L'Île-d'Yeu",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/vendee/pif-85113-01",
+    "metadata": {
+      "email": "pif-yeu@wanadoo.fr",
+      "telephone": "02 28 12 91 22",
+      "url": "https://www.unaf.fr"
+    }
+  },
+  {
+    "id": "011e5d195f34bc0095fb5b1370895533971e6dac",
+    "name": "point_info_famille_l_isle_jourdain",
+    "title": "Point info famille - L'Isle-Jourdain",
+    "url": "https://lannuaire.service-public.fr/occitanie/gers/pif-32160-01",
+    "metadata": {
+      "email": "social-ijo@wanadoo.fr",
+      "telephone": "05 62 07 33 52",
+      "url": "https://www.unaf.fr"
+    }
+  },
+  {
+    "id": "d0d18b24d31682a46de56638093a3246f752d317",
+    "name": "point_info_famille_l_isle_sur_la_sorgue",
+    "title": "Point info famille - L'Isle-sur-la-Sorgue",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/vaucluse/pif-84054-01",
+    "metadata": {
+      "email": "maisondepartementislesurlasorgue@cg84.fr",
+      "telephone": "04 90 20 51 70",
+      "url": "https://www.unaf.fr"
+    }
+  },
+  {
+    "id": "67492e733984451ad49aa5d7e4cb369f2cb81236",
+    "name": "point_info_famille_laigne_en_belin",
+    "title": "Point info famille - Laigné-en-Belin",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/sarthe/pif-72155-01",
+    "metadata": {
+      "email": "cs.laignestgervais72@wanadoo.fr",
+      "telephone": "02 43 42 99 13",
+      "url": ""
+    }
+  },
+  {
+    "id": "161b445f97fd6c531e615de2c42284996ecb1763",
+    "name": "point_info_famille_la_machine",
+    "title": "Point info famille - La Machine",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/nievre/pif-58151-01",
+    "metadata": {
+      "email": "csc.lamachine@wanadoo.fr",
+      "telephone": "03 86 50 84 97",
+      "url": "https://www.unaf.fr"
+    }
+  },
+  {
+    "id": "639aa00a137e9264534a1d97cd7c2ea332c384d7",
+    "name": "point_info_famille_lamorlaye",
+    "title": "Point info famille - Lamorlaye",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/oise/pif-60346-01",
+    "metadata": {
+      "email": "csrlam.espacefamille@laposte.net",
+      "telephone": "03 44 21 61 61",
+      "url": "https://www.unaf.fr"
+    }
+  },
+  {
+    "id": "b385ad5c79172607fc4ef08d2c5a1bcb9e5c4d9b",
+    "name": "point_info_famille_laon",
+    "title": "Point info famille - Laon",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/aisne/pif-02408-01",
+    "metadata": {
+      "email": "pifcapno@free.fr",
+      "telephone": "03 23 23 50 60",
+      "url": "https://solidarites-sante.gouv.fr/archives/famille-enfance/points-info"
+    }
+  },
+  {
+    "id": "dd890a349f55481fffe4ccec0b439cc21e769be8",
+    "name": "point_info_famille_la_pacaudiere",
+    "title": "Point info famille - La Pacaudière",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/loire/pif-42163-01",
+    "metadata": {
+      "email": "pacau.associationfamillesrurales@wanadoo.fr",
+      "telephone": "04 77 64 14 17",
+      "url": "https://www.unaf.fr"
+    }
+  },
+  {
+    "id": "5a6171ef76328d8fbda4155d57192a33c7d64589",
+    "name": "point_info_famille_larche",
+    "title": "Point info famille - Larche",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/correze/pif-19031-02",
+    "metadata": {
+      "email": "afr.larche@wanadoo.fr",
+      "telephone": "05 55 85 29 72",
+      "url": "https://www.unaf.frspip.php?rubrique305"
+    }
+  },
+  {
+    "id": "0b42fd011b25709cd438f3c48d4676585c0930b3",
+    "name": "point_info_famille_la_rochelle_re",
+    "title": "Point info famille - La Rochelle - Ré",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/charente-maritime/pif-17300-01",
+    "metadata": {
+      "email": "contact@missionlocale.com",
+      "telephone": "05 46 27 65 20",
+      "url": "https://www.unaf.fr"
+    }
+  },
+  {
+    "id": "2a9e7b2980d8b25fe2efc2d373a74a96a2142c85",
+    "name": "point_info_famille_la_roche_sur_yon",
+    "title": "Point info famille - La Roche-sur-Yon",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/vendee/pif-85191-01",
+    "metadata": {
+      "email": "pointinfofamille@udaf85.unaf.fr",
+      "telephone": "02 51 44 37 02",
+      "url": "https://www.unaf.fr"
+    }
+  },
+  {
+    "id": "75d69d711c64e2c99e6b690fe364b5d57699d3be",
+    "name": "point_info_famille_la_souterraine",
+    "title": "Point info famille - La Souterraine",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/creuse/pif-23176-01",
+    "metadata": {
+      "email": "mjc.famille@wanadoo.fr",
+      "telephone": "05 55 63 19 06",
+      "url": ""
+    }
+  },
+  {
+    "id": "f444e310f934e4e6af2cee26ffbfb1099d6944d3",
+    "name": "point_info_famille_le_blanc",
+    "title": "Point info famille - Le Blanc",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/indre/pif-36018-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 54 28 33 40",
+      "url": "https://www.unaf.fr"
+    }
+  },
+  {
+    "id": "7492850bec61d9cf108eb20840f1e00c6228a10a",
+    "name": "point_info_famille_le_coudray_saint_germer",
+    "title": "Point info famille - Le Coudray-Saint-Germer",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/oise/pif-60164-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 44 81 83 00",
+      "url": "https://www.unaf.fr"
+    }
+  },
+  {
+    "id": "8da8e79cd016928874ab930434ed906e2abedc19",
+    "name": "point_info_famille_le_diamant",
+    "title": "Point info famille - Le Diamant",
+    "url": "https://lannuaire.service-public.fr/martinique/martinique/pif-97206-01",
+    "metadata": {
+      "email": "famille-diamantinoise@orange.fr",
+      "telephone": "+596 5 96 76 26 52",
+      "url": "https://www.unaf.fr"
+    }
+  },
+  {
+    "id": "fe250141b0426ab90d2b61686d812eef4954dc18",
+    "name": "point_info_famille_le_havre_albert_samain",
+    "title": "Point info famille - Le Havre - Albert-Samain",
+    "url": "https://lannuaire.service-public.fr/normandie/seine-maritime/pif-76351-04",
+    "metadata": {
+      "email": "pif-bleville@orange.fr",
+      "telephone": "02 32 85 30 43",
+      "url": "https://www.unaf.fr"
+    }
+  }
+]

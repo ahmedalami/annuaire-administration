@@ -1,0 +1,311 @@
+[
+  {
+    "id": "1f50a68a039e1e9e8edb28999811d75322ba6477",
+    "alternateName": "AFLD",
+    "name": "agence_francaise_de_lutte_contre_le_dopage",
+    "title": "Agence française de lutte contre le dopage",
+    "url": "https://lannuaire.service-public.fr/autorites-independantes/autorite-administrative-independante_171889",
+    "metadata": {
+      "email": "info@afld.fr",
+      "telephone": "01 40 62 76 76",
+      "url": "https://www.afld.fr/"
+    }
+  },
+  {
+    "id": "cc57ba1000f998afd88710ef6e2fc142d9d92e31",
+    "alternateName": "ACNUSA",
+    "name": "autorite_de_controle_des_nuisances_aeroportuaires",
+    "title": "Autorité de contrôle des nuisances aéroportuaires",
+    "url": "https://lannuaire.service-public.fr/autorites-independantes/autorite-administrative-independante_171978",
+    "metadata": {
+      "email": "contact@acnusa.fr",
+      "telephone": "01 53 63 31 80",
+      "url": "http://www.acnusa.fr"
+    }
+  },
+  {
+    "id": "2bd26f5ec39f224bebdf77d48fcaa4ea0b5a80df",
+    "alternateName": "ARCEP",
+    "name": "autorite_de_regulation_des_communications_electroniques_et_des_postes",
+    "title": "Autorité de régulation des communications électroniques et des postes",
+    "url": "https://lannuaire.service-public.fr/autorites-independantes/autorite-administrative-independante_172039",
+    "metadata": {
+      "email": "",
+      "telephone": "01 40 47 70 00",
+      "url": "http://www.arcep.frhttp://www.telecom-infoconso.fr"
+    }
+  },
+  {
+    "id": "dd688754b01f86ef231f6a9b7dd0b8bbe1e1f11c",
+    "name": "autorite_de_la_concurrence",
+    "title": "Autorité de la concurrence",
+    "url": "https://lannuaire.service-public.fr/autorites-independantes/autorite-administrative-independante_172188",
+    "metadata": {
+      "email": "",
+      "telephone": "01 55 04 00 00",
+      "url": "http://www.autoritedelaconcurrence.fr"
+    }
+  },
+  {
+    "id": "b9b832ba6bb873257122b4561408a8d8461c3aca",
+    "alternateName": "ARDP",
+    "name": "autorite_de_regulation_de_la_distribution_de_la_presse",
+    "title": "Autorité de régulation de la distribution de la presse",
+    "url": "https://lannuaire.service-public.fr/autorites-independantes/autorite-administrative-independante_781913",
+    "metadata": {
+      "email": "secretariat@ardpresse.fr",
+      "telephone": "01 42 75 61 28",
+      "url": "http://www.ardpresse.fr/"
+    }
+  },
+  {
+    "id": "56909e1449fac30246b24d0daa545d194e63407b",
+    "alternateName": "ART",
+    "name": "autorite_de_regulation_des_transports",
+    "title": "Autorité de régulation des transports",
+    "url": "https://lannuaire.service-public.fr/autorites-independantes/autorite-publique-independante_800145",
+    "metadata": {
+      "email": "",
+      "telephone": "01 58 01 01 10",
+      "url": "https://www.arafer.fr/"
+    }
+  },
+  {
+    "id": "4b237a8e0bea299695ea3789107feacef411ac15",
+    "alternateName": "ANJ",
+    "name": "autorite_nationale_des_jeux",
+    "title": "Autorité nationale des jeux",
+    "url": "https://lannuaire.service-public.fr/autorites-independantes/autorite-administrative-independante_192796",
+    "metadata": {
+      "email": "",
+      "telephone": "01 57 13 13 00",
+      "url": "http://www.anj.fr"
+    }
+  },
+  {
+    "id": "9877813f563da161765a54ab4496be6981c69426",
+    "alternateName": "AMF",
+    "name": "autorite_des_marches_financiers",
+    "title": "Autorité des marchés financiers",
+    "url": "https://lannuaire.service-public.fr/autorites-independantes/autorite-administrative-independante_172012",
+    "metadata": {
+      "email": "",
+      "telephone": "01 53 45 60 00",
+      "url": "http://www.amf-france.org"
+    }
+  },
+  {
+    "id": "233fdf82e941ed28ab2e932ce10d65d31b76bd92",
+    "alternateName": "ASN",
+    "name": "autorite_de_surete_nucleaire",
+    "title": "Autorité de sûreté nucléaire",
+    "url": "https://lannuaire.service-public.fr/autorites-independantes/autorite-administrative-independante_172062",
+    "metadata": {
+      "email": "",
+      "telephone": "01 46 16 40 00",
+      "url": "http://www.asn.fr"
+    }
+  },
+  {
+    "id": "70afc66e01527acac500a409e06c7675aa82d4f5",
+    "alternateName": "CIVEN",
+    "name": "comite_dindemnisation_des_victimes_des_essais_nucleaires",
+    "title": "Comité d'indemnisation des victimes des essais nucléaires",
+    "url": "https://lannuaire.service-public.fr/autorites-independantes/autorite-administrative-independante_929186",
+    "metadata": {
+      "email": "",
+      "telephone": "01 42 75 72 30",
+      "url": "http://www.gouvernement.fr/presentation-du-civen-3024"
+    }
+  },
+  {
+    "id": "74e745da7a3bf1d7da9d16d8dd5472bdcdb7c09f",
+    "alternateName": "CADA",
+    "name": "commission_dacces_aux_documents_administratifs",
+    "title": "Commission d'accès aux documents administratifs",
+    "url": "https://lannuaire.service-public.fr/autorites-independantes/autorite-administrative-independante_172082",
+    "metadata": {
+      "email": "cada@cada.fr",
+      "telephone": "01 42 75 79 99",
+      "url": "http://www.cada.fr"
+    }
+  },
+  {
+    "id": "22b712ce27956aeb1dae9b031c9d66ca51ddff72",
+    "alternateName": "CSDN",
+    "name": "commission_du_secret_de_la_defense_nationale",
+    "title": "Commission du secret de la défense nationale",
+    "url": "https://lannuaire.service-public.fr/autorites-independantes/autorite-administrative-independante_172100",
+    "metadata": {
+      "email": "",
+      "telephone": "01 42 75 75 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "c9822b7371ef4d2ee38232b2199566175f41cecf",
+    "alternateName": "CGLPL",
+    "name": "controleur_general_des_lieux_de_privation_de_liberte",
+    "title": "Contrôleur général des lieux de privation de liberté",
+    "url": "https://lannuaire.service-public.fr/autorites-independantes/autorite-administrative-independante_172198",
+    "metadata": {
+      "email": "",
+      "telephone": "01 53 38 47 80",
+      "url": "http://www.cglpl.fr"
+    }
+  },
+  {
+    "id": "dd470802de1784b672156b0b14bfa2906a045732",
+    "alternateName": "CNCCFP",
+    "name": "commission_nationale_des_comptes_de_campagne_et_des_financements_politiques",
+    "title": "Commission nationale des comptes de campagne et des financements politiques",
+    "url": "https://lannuaire.service-public.fr/autorites-independantes/autorite-administrative-independante_172114",
+    "metadata": {
+      "email": "",
+      "telephone": "01 44 09 45 09",
+      "url": "http://www.cnccfp.fr"
+    }
+  },
+  {
+    "id": "f3625f53c2c61dfbb7f22a91e22325948eb70e4f",
+    "alternateName": "CNCTR",
+    "name": "commission_nationale_de_controle_des_techniques_de_renseignement",
+    "title": "Commission nationale de contrôle des techniques de renseignement",
+    "url": "https://lannuaire.service-public.fr/autorites-independantes/autorite-administrative-independante_172128",
+    "metadata": {
+      "email": "",
+      "telephone": "",
+      "url": "https://www.cnctr.fr/"
+    }
+  },
+  {
+    "id": "0e31f35c342f0c60d71555a531332edea1fd3508",
+    "alternateName": "CNDP",
+    "name": "commission_nationale_du_debat_public",
+    "title": "Commission nationale du débat public",
+    "url": "https://lannuaire.service-public.fr/autorites-independantes/autorite-administrative-independante_172139",
+    "metadata": {
+      "email": "",
+      "telephone": "01 44 49 85 60",
+      "url": "http://www.debatpublic.fr"
+    }
+  },
+  {
+    "id": "ae7fc16336b18701dd50aaa484b85a2f7a7badb1",
+    "alternateName": "CNIL",
+    "name": "commission_nationale_de_linformatique_et_des_libertes",
+    "title": "Commission nationale de l'informatique et des libertés",
+    "url": "https://lannuaire.service-public.fr/autorites-independantes/autorite-administrative-independante_172156",
+    "metadata": {
+      "email": "",
+      "telephone": "01 53 73 22 22",
+      "url": "https://www.cnil.fr/"
+    }
+  },
+  {
+    "id": "2c987cfa729d37aecd4049d12159c5b75fcd8cc3",
+    "alternateName": "CRE",
+    "name": "commission_de_regulation_de_lenergie",
+    "title": "Commission de régulation de l'énergie",
+    "url": "https://lannuaire.service-public.fr/autorites-independantes/autorite-administrative-independante_172168",
+    "metadata": {
+      "email": "",
+      "telephone": "01 44 50 41 00",
+      "url": "http://www.cre.fr"
+    }
+  },
+  {
+    "id": "a9df4b05bd5e44a20e9d701dbeca48f2feed6dac",
+    "alternateName": "CSA",
+    "name": "conseil_superieur_de_laudiovisuel",
+    "title": "Conseil supérieur de l'audiovisuel",
+    "url": "https://lannuaire.service-public.fr/autorites-independantes/autorite-administrative-independante_172192",
+    "metadata": {
+      "email": "",
+      "telephone": "01 40 58 38 00",
+      "url": "https://www.csa.fr/"
+    }
+  },
+  {
+    "id": "d2d8f8d7c7696c1cb4b7016b8f31e000288bdac6",
+    "name": "defenseur_des_droits",
+    "title": "Défenseur des droits",
+    "url": "https://lannuaire.service-public.fr/autorites-independantes/autorite-administrative-independante_195381",
+    "metadata": {
+      "email": "",
+      "telephone": "01 53 29 22 0009 69 39 00 00 (du lundi au vendredi de 8h à 20h, coût d'un appel local)",
+      "url": "https://www.defenseurdesdroits.fr"
+    }
+  },
+  {
+    "id": "28692ae72be5a00fe3f1ecd3d5e55d5f319a0a75",
+    "alternateName": "HAS",
+    "name": "haute_autorite_de_sante",
+    "title": "Haute Autorité de santé",
+    "url": "https://lannuaire.service-public.fr/autorites-independantes/autorite-administrative-independante_172206",
+    "metadata": {
+      "email": "",
+      "telephone": "01 55 93 70 00",
+      "url": "http://www.has-sante.fr"
+    }
+  },
+  {
+    "id": "30dc8ef2dda8cb279be3244f489e897b51ddff78",
+    "alternateName": "HCERES",
+    "name": "haut_conseil_de_levaluation_de_la_recherche_et_de_lenseignement_superieur",
+    "title": "Haut Conseil de l'évaluation de la recherche et de l'enseignement supérieur",
+    "url": "https://lannuaire.service-public.fr/autorites-independantes/autorite-administrative-independante_171830",
+    "metadata": {
+      "email": "",
+      "telephone": "01 55 55 60 10",
+      "url": "http://www.hceres.fr/"
+    }
+  },
+  {
+    "id": "cbc792943288003516cc053c0523d7e708224dcf",
+    "alternateName": "H3C",
+    "name": "haut_conseil_du_commissariat_aux_comptes",
+    "title": "Haut Conseil du commissariat aux comptes",
+    "url": "https://lannuaire.service-public.fr/autorites-independantes/autorite-publique-independante_432801",
+    "metadata": {
+      "email": "",
+      "telephone": "01 80 40 75 00",
+      "url": "http://www.h3c.org"
+    }
+  },
+  {
+    "id": "fd1111b4f7a38c9cb2c4b9dbc96a992972a5fe4c",
+    "alternateName": "HADOPI",
+    "name": "haute_autorite_pour_la_diffusion_des_oeuvres_et_la_protection_des_droits_sur_internet",
+    "title": "Haute Autorité pour la diffusion des œuvres et la protection des droits sur Internet",
+    "url": "https://lannuaire.service-public.fr/autorites-independantes/autorite-publique-independante_185956",
+    "metadata": {
+      "email": "",
+      "telephone": "09 69 32 90 90",
+      "url": "http://www.hadopi.fr"
+    }
+  },
+  {
+    "id": "aa5cd73742b5da0d9245b9108a1313977ade289b",
+    "alternateName": "HATVP",
+    "name": "haute_autorite_pour_la_transparence_de_la_vie_publique",
+    "title": "Haute Autorité pour la transparence de la vie publique",
+    "url": "https://lannuaire.service-public.fr/autorites-independantes/autorite-administrative-independante_172183",
+    "metadata": {
+      "email": "secretariat.sg@hatvp.fr",
+      "telephone": "01 86 21 94 70",
+      "url": "http://www.hatvp.fr"
+    }
+  },
+  {
+    "id": "ad4770befa03cd64e5b8530f48ec63210062f258",
+    "name": "mediateur_national_de_lenergie",
+    "title": "Médiateur national de l'énergie",
+    "url": "https://lannuaire.service-public.fr/autorites-independantes/autorite-administrative-independante_177406",
+    "metadata": {
+      "email": "",
+      "telephone": "01 44 94 66 00",
+      "url": "http://www.energie-mediateur.fr"
+    }
+  }
+]

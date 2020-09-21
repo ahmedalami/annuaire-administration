@@ -1,0 +1,189 @@
+[
+  {
+    "id": "e272096f7bcbee45ee35443bd9980a7491cadd85",
+    "name": "prefecture_de_region_auvergne_rhone_alpes",
+    "title": "Préfecture de région - Auvergne-Rhône-Alpes",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/rhone/prefecture_region-69383-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 72 61 61 61",
+      "url": "http://prefectures-regions.gouv.fr/auvergne-rhone-alpes"
+    }
+  },
+  {
+    "id": "d6099e09f2669682a3a51ce083be2d63268420f2",
+    "name": "prefecture_de_region_bourgogne_franche_comte",
+    "title": "Préfecture de région - Bourgogne-Franche-Comté",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/cote-d-or/prefecture_region-21231-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 80 44 64 00",
+      "url": "http://www.prefectures-regions.gouv.fr/bourgogne-franche-comte"
+    }
+  },
+  {
+    "id": "21332a1939fbfa34a4f30c73d7625e06dd01d54f",
+    "name": "prefecture_de_region_bretagne",
+    "title": "Préfecture de région - Bretagne",
+    "url": "https://lannuaire.service-public.fr/bretagne/ille-et-vilaine/prefecture_region-35238-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 99 02 10 35",
+      "url": "http://prefectures-regions.gouv.fr/bretagne"
+    }
+  },
+  {
+    "id": "a5b7445194e18f1abe442f12bddf0a343bad6b31",
+    "name": "prefecture_de_region_centre_val_de_loire",
+    "title": "Préfecture de région - Centre-Val de Loire",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/loiret/prefecture_region-45234-01",
+    "metadata": {
+      "email": "",
+      "telephone": "0 821 80 30 45",
+      "url": "http://prefectures-regions.gouv.fr/centre-val-de-loire"
+    }
+  },
+  {
+    "id": "3c1caf9ffdae7570996cafe3d6825c834a37d438",
+    "name": "prefecture_de_region_corse",
+    "title": "Préfecture de région - Corse",
+    "url": "https://lannuaire.service-public.fr/corse/corse-du-sud/prefecture_region-2A004-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 95 11 12 13",
+      "url": "http://prefectures-regions.gouv.fr/corse"
+    }
+  },
+  {
+    "id": "57b4c68ef236d5eb56d4c7ab9677879dcb9eb856",
+    "name": "prefecture_de_region_grand_est",
+    "title": "Préfecture de région - Grand Est",
+    "url": "https://lannuaire.service-public.fr/grand-est/bas-rhin/prefecture_region-67482-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 88 21 67 68",
+      "url": "https://www.prefectures-regions.gouv.fr/grand-est"
+    }
+  },
+  {
+    "id": "b0e21d8943e3ea9ef90d5001696724eb4ff62d8f",
+    "name": "prefecture_de_region_guadeloupe",
+    "title": "Préfecture de région - Guadeloupe",
+    "url": "https://lannuaire.service-public.fr/guadeloupe/guadeloupe/prefecture_region-97105-01",
+    "metadata": {
+      "email": "",
+      "telephone": "+590 5 90 99 39 00",
+      "url": "http://www.guadeloupe.pref.gouv.fr/"
+    }
+  },
+  {
+    "id": "0d5d16796bbf7466ef245222546b4748b059e761",
+    "name": "prefecture_de_region_guyane",
+    "title": "Préfecture de région - Guyane",
+    "url": "https://lannuaire.service-public.fr/guyane/guyane/prefecture_region-97302-01",
+    "metadata": {
+      "email": "",
+      "telephone": "+594 5 94 39 45 00",
+      "url": "http://www.guyane.pref.gouv.fr/"
+    }
+  },
+  {
+    "id": "db22671d8c12dd564b02ac0fb924abb36db8e608",
+    "name": "prefecture_de_region_hauts_de_france",
+    "title": "Préfecture de région - Hauts-de-France",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/nord/prefecture_region-59350-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 20 30 59 59",
+      "url": "http://prefectures-regions.gouv.fr/hauts-de-france"
+    }
+  },
+  {
+    "id": "f26312858880dd458420a2de27aabf99ca0daf17",
+    "name": "prefecture_de_region_ile_de_france",
+    "title": "Préfecture de région - Île-de-France",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/paris/prefecture_region-75115-01",
+    "metadata": {
+      "email": "",
+      "telephone": "01 82 52 40 00",
+      "url": "http://prefectures-regions.gouv.fr/ile-de-france"
+    }
+  },
+  {
+    "id": "59cebb25f0ed2dc399f63ae109874645d460235d",
+    "name": "prefecture_de_region_la_reunion",
+    "title": "Préfecture de région - La Réunion",
+    "url": "https://lannuaire.service-public.fr/la-reunion/reunion/prefecture_region-97411-01",
+    "metadata": {
+      "email": "",
+      "telephone": "+262 2 62 40 77 77",
+      "url": "http://www.reunion.gouv.fr/"
+    }
+  },
+  {
+    "id": "befc7e14a49552aae183612da63255ff9e6b875f",
+    "name": "prefecture_de_region_martinique",
+    "title": "Préfecture de région - Martinique",
+    "url": "https://lannuaire.service-public.fr/martinique/martinique/prefecture_region-97209-01",
+    "metadata": {
+      "email": "",
+      "telephone": "+596 5 96 39 36 00",
+      "url": "http://www.martinique.pref.gouv.fr/"
+    }
+  },
+  {
+    "id": "752ff62a77561acfe10402d636c396751185ad90",
+    "name": "prefecture_de_region_normandie",
+    "title": "Préfecture de région - Normandie",
+    "url": "https://lannuaire.service-public.fr/normandie/seine-maritime/prefecture_region-76540-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 32 76 50 00",
+      "url": "http://prefectures-regions.gouv.fr/normandie"
+    }
+  },
+  {
+    "id": "46caa6f4fea4dc3e1bdee385b191ab6cbe17d9b3",
+    "name": "prefecture_de_region_nouvelle_aquitaine",
+    "title": "Préfecture de région - Nouvelle-Aquitaine",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/gironde/prefecture_region-33063-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 56 90 60 60",
+      "url": "http://prefectures-regions.gouv.fr/nouvelle-aquitaine"
+    }
+  },
+  {
+    "id": "4151b45e339fef7260371b0110de5f8631f85987",
+    "name": "prefecture_de_region_occitanie",
+    "title": "Préfecture de région - Occitanie",
+    "url": "https://lannuaire.service-public.fr/occitanie/haute-garonne/prefecture_region-31555-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 34 45 34 45",
+      "url": "http://prefectures-regions.gouv.fr/occitanie"
+    }
+  },
+  {
+    "id": "7101b6b92836573b34089a0fb0de8952929bf88e",
+    "name": "prefecture_de_region_pays_de_la_loire",
+    "title": "Préfecture de région - Pays de la Loire",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/loire-atlantique/prefecture_region-44109-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 40 41 20 20",
+      "url": "http://prefectures-regions.gouv.fr/pays-de-la-loire"
+    }
+  },
+  {
+    "id": "4232544a4d741edcf00b7b6a7eda887abfd15860",
+    "name": "prefecture_de_region_provence_alpes_cote_d_azur",
+    "title": "Préfecture de région - Provence-Alpes-Côte-d'Azur",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/prefecture_region-13055-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 84 35 40 00",
+      "url": "http://prefectures-regions.gouv.fr/provence-alpes-cote-dazur"
+    }
+  }
+]

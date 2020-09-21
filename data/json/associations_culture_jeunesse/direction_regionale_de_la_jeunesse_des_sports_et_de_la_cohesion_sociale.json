@@ -1,0 +1,332 @@
+[
+  {
+    "id": "c36660a038545ab785e23fb01f62dbf10ac2197a",
+    "name": "direction_de_la_jeunesse_des_sports_et_de_la_cohesion_sociale_guadeloupe",
+    "title": "Direction de la jeunesse, des sports et de la cohésion sociale - Guadeloupe",
+    "url": "https://lannuaire.service-public.fr/guadeloupe/guadeloupe/drjscs-97109-01",
+    "metadata": {
+      "email": "",
+      "telephone": "+590 5 90 81 33 57",
+      "url": ""
+    }
+  },
+  {
+    "id": "8212bdaa5b1c000e8ed8213ba694a589540fab92",
+    "name": "direction_de_la_jeunesse_des_sports_et_de_la_cohesion_sociale_la_reunion",
+    "title": "Direction de la jeunesse, des sports et de la cohésion sociale - La Réunion",
+    "url": "https://lannuaire.service-public.fr/la-reunion/reunion/drjscs-97411-01",
+    "metadata": {
+      "email": "djscs974@drjscs.gouv.fr",
+      "telephone": "+262 2 62 20 54 54",
+      "url": "http://www.reunion.drjscs.gouv.fr"
+    }
+  },
+  {
+    "id": "16dc8db543c9dee693cf9391676cb1af51e751f3",
+    "name": "direction_de_la_jeunesse_des_sports_et_de_la_cohesion_sociale_martinique",
+    "title": "Direction de la jeunesse, des sports et de la cohésion sociale - Martinique",
+    "url": "https://lannuaire.service-public.fr/martinique/martinique/drjscs-97209-01",
+    "metadata": {
+      "email": "djscs972@drjscs.gouv.fr",
+      "telephone": "+596 5 96 66 36 00",
+      "url": "http://www.martinique.drjscs.gouv.fr"
+    }
+  },
+  {
+    "id": "9e23d5f278475bb349a91c0d10fabaeb4c6c8659",
+    "name": "direction_de_la_jeunesse_des_sports_et_de_la_cohesion_sociale_mayotte",
+    "title": "Direction de la jeunesse, des sports et de la cohésion sociale - Mayotte",
+    "url": "https://lannuaire.service-public.fr/mayotte/mayotte/drjscs-97611-01",
+    "metadata": {
+      "email": "DJSCS976@drjscs.gouv.fr",
+      "telephone": "+269 2 69 61 60 50",
+      "url": ""
+    }
+  },
+  {
+    "id": "64805b881c675b203a773f2763d0f2eb8cb53edc",
+    "name": "direction_de_la_jeunesse_et_des_sports_nouvelle_caledonie",
+    "title": "Direction de la jeunesse et des sports - Nouvelle-Calédonie",
+    "url": "https://lannuaire.service-public.fr/collectivites-d-outre-mer/nouvelle-caledonie/drjscs-98818-01",
+    "metadata": {
+      "email": "djsnc@gouv.nc",
+      "telephone": "+687 25 23 84",
+      "url": "http://www.djs.gouv.nc"
+    }
+  },
+  {
+    "id": "a86c683295b8fcdf4671271c5943c3ce6677b19a",
+    "alternateName": "DRJSCS",
+    "name": "direction_regionale_de_la_jeunesse_des_sports_et_de_la_cohesion_sociale_drjscs_auvergne_rhone_alpes_siege_de_lyon",
+    "title": "Direction régionale de la jeunesse, des sports et de la cohésion sociale (DRJSCS) - Auvergne-Rhône-Alpes - Siège de Lyon",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/rhone/drjscs-69383-01",
+    "metadata": {
+      "email": "drjscs69@drjscs.gouv.fr",
+      "telephone": "04 78 60 40 40",
+      "url": "http://auvergne-rhone-alpes.drdjscs.gouv.fr"
+    }
+  },
+  {
+    "id": "907b93d2588c2f1c1a6c9363aa9827ed86145d35",
+    "alternateName": "DRJSCS",
+    "name": "direction_regionale_de_la_jeunesse_des_sports_et_de_la_cohesion_sociale_drjscs_auvergne_rhone_alpes_site_de_clermont_ferrand",
+    "title": "Direction régionale de la jeunesse, des sports et de la cohésion sociale (DRJSCS) - Auvergne-Rhône-Alpes - Site de Clermont-Ferrand",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/puy-de-dome/drjscs-63113-01",
+    "metadata": {
+      "email": "drjscs69@drjscs.gouv.fr",
+      "telephone": "04 78 60 40 40",
+      "url": "http://auvergne-rhone-alpes.drdjscs.gouv.fr"
+    }
+  },
+  {
+    "id": "bce8e78c0ae11f125f64a42e1d055705e70e27eb",
+    "alternateName": "DRJSCS",
+    "name": "direction_regionale_de_la_jeunesse_des_sports_et_de_la_cohesion_sociale_drjscs_bourgogne_franche_comte_antenne_de_besancon",
+    "title": "Direction régionale de la jeunesse, des sports et de la cohésion sociale (DRJSCS) - Bourgogne-Franche-Comté - Antenne de Besançon",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/doubs/drjscs-25056-01",
+    "metadata": {
+      "email": "DRDJSCS-BFC@jscs.gouv.fr.",
+      "telephone": "03 81 21 60 00",
+      "url": "http://bourgogne-franche-comte.drdjscs.gouv.fr"
+    }
+  },
+  {
+    "id": "667e03cadd097281a4c6016d3f9e90c73d4b6656",
+    "alternateName": "DRJSCS",
+    "name": "direction_regionale_de_la_jeunesse_des_sports_et_de_la_cohesion_sociale_drjscs_bourgogne_franche_comte_siege_de_dijon",
+    "title": "Direction régionale de la jeunesse, des sports et de la cohésion sociale (DRJSCS) - Bourgogne-Franche-Comté - Siège de Dijon",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/cote-d-or/drjscs-21231-01",
+    "metadata": {
+      "email": "DRDJSCS-BFC@jscs.gouv.fr",
+      "telephone": "03 80 68 39 00",
+      "url": "http://bourgogne-franche-comte.drdjscs.gouv.fr"
+    }
+  },
+  {
+    "id": "d90fb6bf44dfd9599bf4aceb7927b2ab6cdad4ab",
+    "alternateName": "DRJSCS",
+    "name": "direction_regionale_de_la_jeunesse_des_sports_et_de_la_cohesion_sociale_drjscs_bretagne",
+    "title": "Direction régionale de la jeunesse, des sports et de la cohésion sociale (DRJSCS) - Bretagne",
+    "url": "https://lannuaire.service-public.fr/bretagne/ille-et-vilaine/drjscs-35238-01",
+    "metadata": {
+      "email": "drjscs35@drjscs.gouv.fr",
+      "telephone": "02 23 48 24 00",
+      "url": "http://www.bretagne.drjscs.gouv.fr"
+    }
+  },
+  {
+    "id": "9aec8a2bff769891dc84a01de4b93c66e9e435e2",
+    "alternateName": "DRJSCS",
+    "name": "direction_regionale_de_la_jeunesse_des_sports_et_de_la_cohesion_sociale_drjscs_centre_val_de_loire",
+    "title": "Direction régionale de la jeunesse, des sports et de la cohésion sociale (DRJSCS) - Centre-Val de Loire",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/loiret/drjscs-45234-01",
+    "metadata": {
+      "email": "drjscs45@drjscs.gouv.fr",
+      "telephone": "02 38 77 49 00",
+      "url": "http://centre-val-de-loire.drdjscs.gouv.fr"
+    }
+  },
+  {
+    "id": "0690fd2fe4488d7576235f821c12beaa9593f4e2",
+    "alternateName": "DRJSCS",
+    "name": "direction_regionale_de_la_jeunesse_des_sports_et_de_la_cohesion_sociale_drjscs_corse",
+    "title": "Direction régionale de la jeunesse, des sports et de la cohésion sociale (DRJSCS) - Corse",
+    "url": "https://lannuaire.service-public.fr/corse/corse-du-sud/drjscs-2A004-01",
+    "metadata": {
+      "email": "drjscs20@drjscs.gouv.fr",
+      "telephone": "04 95 29 67 67",
+      "url": "http://www.corse.drjscs.gouv.fr"
+    }
+  },
+  {
+    "id": "d6b6ca58617b401dfe34a1dcb3c84c8d94ed600c",
+    "alternateName": "DRJSCS",
+    "name": "direction_regionale_de_la_jeunesse_des_sports_et_de_la_cohesion_sociale_drjscs_grand_est_antenne_de_chalons_en_champagne",
+    "title": "Direction régionale de la jeunesse, des sports et de la cohésion sociale (DRJSCS) - Grand Est - Antenne de Châlons-en-Champagne",
+    "url": "https://lannuaire.service-public.fr/grand-est/marne/drjscs-51108-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 26 26 98 00",
+      "url": "http://grand-est.drdjscs.gouv.fr"
+    }
+  },
+  {
+    "id": "7c0f94b8a1708d06d637f2e65f004c64d0992e44",
+    "alternateName": "DRJSCS",
+    "name": "direction_regionale_de_la_jeunesse_des_sports_et_de_la_cohesion_sociale_drjscs_grand_est_antenne_de_nancy",
+    "title": "Direction régionale de la jeunesse, des sports et de la cohésion sociale (DRJSCS) - Grand Est - Antenne de Nancy",
+    "url": "https://lannuaire.service-public.fr/grand-est/meurthe-et-moselle/drjscs-54395-01",
+    "metadata": {
+      "email": "drjscs54@drjscs.gouv.fr",
+      "telephone": "03 83 17 91 01",
+      "url": "http://grand-est.drdjscs.gouv.fr"
+    }
+  },
+  {
+    "id": "a3a8bafdda7d549e71f498ae4a9f94b12aebd557",
+    "alternateName": "DRJSCS",
+    "name": "direction_regionale_de_la_jeunesse_des_sports_et_de_la_cohesion_sociale_drjscs_grand_est_siege_de_strasbourg",
+    "title": "Direction régionale de la jeunesse, des sports et de la cohésion sociale (DRJSCS) - Grand Est - Siège de Strasbourg",
+    "url": "https://lannuaire.service-public.fr/grand-est/bas-rhin/drjscs-67482-01",
+    "metadata": {
+      "email": "drjscs67@drjscs.gouv.fr",
+      "telephone": "03 88 76 76 16",
+      "url": "http://grand-est.drdjscs.gouv.fr"
+    }
+  },
+  {
+    "id": "0b9533e92bb12d4e4ac7f125097087a036370ae3",
+    "alternateName": "DRJSCS",
+    "name": "direction_regionale_de_la_jeunesse_des_sports_et_de_la_cohesion_sociale_drjscs_hauts_de_france",
+    "title": "Direction régionale de la jeunesse, des sports et de la cohésion sociale (DRJSCS) - Hauts-de-France",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/somme/drjscs-80021-01",
+    "metadata": {
+      "email": "drjscs-npdcp-contacts@drjscs.gouv.fr",
+      "telephone": "03 22 33 89 00",
+      "url": "http://hauts-de-france.drjscs.gouv.fr"
+    }
+  },
+  {
+    "id": "d635fa82bb9d20fa949024a29eaa085eb67035f6",
+    "alternateName": "DRJSCS",
+    "name": "direction_regionale_de_la_jeunesse_des_sports_et_de_la_cohesion_sociale_drjscs_ile_de_france",
+    "title": "Direction régionale de la jeunesse, des sports et de la cohésion sociale (DRJSCS) - Île-de-France",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/paris/drjscs-75113-01",
+    "metadata": {
+      "email": "drjscs75@drjscs.gouv.fr",
+      "telephone": "01 40 77 55 00",
+      "url": "http://www.ile-de-france.drjscs.gouv.fr"
+    }
+  },
+  {
+    "id": "f9f0aa4090167e3e6910ee373bb857e8e74bc64b",
+    "alternateName": "DRJSCS",
+    "name": "direction_regionale_de_la_jeunesse_des_sports_et_de_la_cohesion_sociale_drjscs_normandie_antenne_de_caen",
+    "title": "Direction régionale de la jeunesse, des sports et de la cohésion sociale (DRJSCS) - Normandie - Antenne de Caen",
+    "url": "https://lannuaire.service-public.fr/normandie/calvados/drjscs-14118-01",
+    "metadata": {
+      "email": "drjscs14-direction@drjscs.gouv.fr",
+      "telephone": "02 31 52 73 00",
+      "url": "http://normandie.drdjscs.gouv.fr"
+    }
+  },
+  {
+    "id": "d724cb7bd1f5c2e333cdd9fc3cc48d816e1e5c68",
+    "alternateName": "DRJSCS",
+    "name": "direction_regionale_de_la_jeunesse_des_sports_et_de_la_cohesion_sociale_drjscs_normandie_siege_de_rouen",
+    "title": "Direction régionale de la jeunesse, des sports et de la cohésion sociale (DRJSCS) - Normandie - Siège de Rouen",
+    "url": "https://lannuaire.service-public.fr/normandie/seine-maritime/drjscs-76540-01",
+    "metadata": {
+      "email": "drjscs76@drjscs.gouv.fr",
+      "telephone": "02 32 18 15 20",
+      "url": "http://normandie.drdjscs.gouv.fr"
+    }
+  },
+  {
+    "id": "905eb86c778e8123a8478d726cfd838cb9dc9e13",
+    "alternateName": "DRJSCS",
+    "name": "direction_regionale_de_la_jeunesse_des_sports_et_de_la_cohesion_sociale_drjscs_nouvelle_aquitaine_antenne_de_limoges",
+    "title": "Direction régionale de la jeunesse, des sports et de la cohésion sociale (DRJSCS) - Nouvelle-Aquitaine - Antenne de Limoges",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/haute-vienne/drjscs-87085-01",
+    "metadata": {
+      "email": "drjscs87@drjscs.gouv.fr",
+      "telephone": "05 55 45 24 50",
+      "url": "http://nouvelle-aquitaine.drdjscs.gouv.fr"
+    }
+  },
+  {
+    "id": "d06c8e56069e302c4655114b0c9359cb58307401",
+    "alternateName": "DRJSCS",
+    "name": "direction_regionale_de_la_jeunesse_des_sports_et_de_la_cohesion_sociale_drjscs_nouvelle_aquitaine_antenne_de_poitiers",
+    "title": "Direction régionale de la jeunesse, des sports et de la cohésion sociale (DRJSCS) - Nouvelle-Aquitaine - Antenne de Poitiers",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/vienne/drjscs-86194-01",
+    "metadata": {
+      "email": "ddcs@vienne.gouv.fr",
+      "telephone": "05 49 42 30 00",
+      "url": "http://nouvelle-aquitaine.drdjscs.gouv.fr"
+    }
+  },
+  {
+    "id": "50a309ec2ea08cc2f0a2ba56a7ede2778ac935b8",
+    "alternateName": "DRJSCS",
+    "name": "direction_regionale_de_la_jeunesse_des_sports_et_de_la_cohesion_sociale_drjscs_nouvelle_aquitaine_siege_de_bordeaux",
+    "title": "Direction régionale de la jeunesse, des sports et de la cohésion sociale (DRJSCS) - Nouvelle-Aquitaine - Siège de Bordeaux",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/gironde/drjscs-33075-01",
+    "metadata": {
+      "email": "drjscs33@drjscs.gouv.fr",
+      "telephone": "05 56 69 38 00",
+      "url": "http://nouvelle-aquitaine.drdjscs.gouv.fr"
+    }
+  },
+  {
+    "id": "52dce09f5fab38d56280d722a50011e415e3e195",
+    "alternateName": "DRJSCS",
+    "name": "direction_regionale_de_la_jeunesse_des_sports_et_de_la_cohesion_sociale_drjscs_occitanie_siege_de_montpellier",
+    "title": "Direction régionale de la jeunesse, des sports et de la cohésion sociale (DRJSCS) - Occitanie - Siège de Montpellier",
+    "url": "https://lannuaire.service-public.fr/occitanie/herault/drjscs-34172-01",
+    "metadata": {
+      "email": "drjscs34@drjscs.gouv.fr",
+      "telephone": "09 70 83 03 3004 67 10 14 00",
+      "url": "http://occitanie.drjscs.gouv.fr"
+    }
+  },
+  {
+    "id": "90afb8698552ee450fef3367af2d646f11038280",
+    "alternateName": "DRJSCS",
+    "name": "direction_regionale_de_la_jeunesse_des_sports_et_de_la_cohesion_sociale_drjscs_occitanie_site_de_toulouse",
+    "title": "Direction régionale de la jeunesse, des sports et de la cohésion sociale (DRJSCS) - Occitanie - Site de Toulouse",
+    "url": "https://lannuaire.service-public.fr/occitanie/haute-garonne/drjscs-31555-01",
+    "metadata": {
+      "email": "drjscs31@drjscs.gouv.fr",
+      "telephone": "09 70 83 03 30",
+      "url": "http://occitanie.drjscs.gouv.fr"
+    }
+  },
+  {
+    "id": "d760774f59c4db3dab5d96112f187e8ffc28c517",
+    "alternateName": "DRJSCS",
+    "name": "direction_regionale_de_la_jeunesse_des_sports_et_de_la_cohesion_sociale_drjscs_pays_de_la_loire",
+    "title": "Direction régionale de la jeunesse, des sports et de la cohésion sociale (DRJSCS) - Pays de la Loire",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/loire-atlantique/drjscs-44109-01",
+    "metadata": {
+      "email": "drjscs44@drjscs.gouv.fr",
+      "telephone": "02 40 12 80 00",
+      "url": "http://www.pays-de-la-loire.drjscs.gouv.fr"
+    }
+  },
+  {
+    "id": "c13d19bcbf43104c39eba2c33040772976da9086",
+    "alternateName": "DRJSCS",
+    "name": "direction_regionale_de_la_jeunesse_des_sports_et_de_la_cohesion_sociale_drjscs_provence_alpes_cote_d_azur",
+    "title": "Direction régionale de la jeunesse, des sports et de la cohésion sociale (DRJSCS) - Provence-Alpes-Côte d'Azur",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/alpes-maritimes/drjscs-13208-01",
+    "metadata": {
+      "email": "dr013@drjscs.gouv.fr",
+      "telephone": "04 88 04 00 10",
+      "url": "http://www.paca.drjscs.gouv.fr"
+    }
+  },
+  {
+    "id": "5844b36bfe2b9f6142534d50a2ecfc81d0fc5314",
+    "alternateName": "Jeunesse-Sports",
+    "name": "mission_daide_et_dassistance_technique_jeunesse_sports_polynesie_francaise",
+    "title": "Mission d'aide et d'assistance technique (Jeunesse-Sports) - Polynésie française",
+    "url": "https://lannuaire.service-public.fr/collectivites-d-outre-mer/polynesie-francaise/drjscs-98735-01",
+    "metadata": {
+      "email": "ST987@jeunesse-sports.gouv.fr",
+      "telephone": "+689 40 50 18 88",
+      "url": ""
+    }
+  },
+  {
+    "id": "8ed1cfd1f9e858a5edda4647951a377148af9c95",
+    "name": "service_jeunesse_et_sport_wallis_et_futuna",
+    "title": "Service jeunesse et sport - Wallis-et-Futuna",
+    "url": "https://lannuaire.service-public.fr/collectivites-d-outre-mer/wallis-et-futuna/drjscs-98613-01",
+    "metadata": {
+      "email": "jeusport@mail.wf",
+      "telephone": "+681 72 21 88",
+      "url": ""
+    }
+  }
+]

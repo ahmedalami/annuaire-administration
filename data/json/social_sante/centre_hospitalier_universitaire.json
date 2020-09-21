@@ -1,0 +1,386 @@
+[
+  {
+    "id": "189254ddf87e1c5580b99e3085d2ce4f2fc790a6",
+    "alternateName": "CHR",
+    "name": "centre_hospitalier_regional_chr_metz_thionville",
+    "title": "Centre hospitalier régional (CHR) - Metz-Thionville",
+    "url": "https://lannuaire.service-public.fr/grand-est/moselle/chu-57463-01",
+    "metadata": {
+      "email": "dg-secretariat@chr-metz-thionville.fr",
+      "telephone": "03 87 55 31 31",
+      "url": "http://www.chr-metz-thionville.fr/"
+    }
+  },
+  {
+    "id": "8f382e7eddd07e7d08d8b72d5ca7ecd20236c53e",
+    "alternateName": "CHR",
+    "name": "centre_hospitalier_regional_chr_orleans",
+    "title": "Centre hospitalier régional (CHR) - Orléans",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/loiret/chu-45234-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 38 51 44 44",
+      "url": "http://www.chr-orleans.fr/"
+    }
+  },
+  {
+    "id": "b3bd3af6640d3a936bd47134dbe9ff37fc17e7b6",
+    "alternateName": "CHRU",
+    "name": "centre_hospitalier_regional_universitaire_chru_besancon",
+    "title": "Centre hospitalier régional universitaire (CHRU) - Besançon",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/doubs/chu-25056-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 81 66 81 66",
+      "url": "https://www.chu-besancon.fr/"
+    }
+  },
+  {
+    "id": "48ec0cd4b081ad02869780ead75e2ddd8cf1b361",
+    "alternateName": "CHRU",
+    "name": "centre_hospitalier_regional_universitaire_chru_brest",
+    "title": "Centre hospitalier régional universitaire (CHRU) - Brest",
+    "url": "https://lannuaire.service-public.fr/bretagne/finistere/chu-29019-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 98 22 33 33",
+      "url": "https://www.chu-brest.fr/fr"
+    }
+  },
+  {
+    "id": "3af04b566dee19d2cd2f320561844e9068252661",
+    "alternateName": "CHRU",
+    "name": "centre_hospitalier_regional_universitaire_chru_lille",
+    "title": "Centre hospitalier régional universitaire (CHRU) - Lille",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/nord/chu-59350-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 20 44 59 62",
+      "url": "http://www.chru-lille.fr/"
+    }
+  },
+  {
+    "id": "6e205404c3341904b9ec692d53f0ca6af1f95813",
+    "alternateName": "CHRU",
+    "name": "centre_hospitalier_regional_universitaire_chru_nancy",
+    "title": "Centre hospitalier régional universitaire (CHRU) - Nancy",
+    "url": "https://lannuaire.service-public.fr/grand-est/meurthe-et-moselle/chu-54395-01",
+    "metadata": {
+      "email": "communication@chru-nancy.fr",
+      "telephone": "03 83 85 85 85",
+      "url": "http://www.chu-nancy.fr/"
+    }
+  },
+  {
+    "id": "c3efcf9aaa04af89527356bfc3bb9686d51b86b6",
+    "alternateName": "CHU",
+    "name": "centre_hospitalier_universitaire_chu_amiens_picardie",
+    "title": "Centre hospitalier universitaire (CHU) - Amiens-Picardie",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/somme/chu-80021-01",
+    "metadata": {
+      "email": "chu@chu-amiens.fr",
+      "telephone": "03 22 08 80 00",
+      "url": "http://www.chu-amiens.fr"
+    }
+  },
+  {
+    "id": "56d82a0a7e25c2e52bcfaf4d4ac4d4dfb8ef9d41",
+    "alternateName": "CHU",
+    "name": "centre_hospitalier_universitaire_chu_angers",
+    "title": "Centre hospitalier universitaire (CHU) - Angers",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/maine-et-loire/chu-49007-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 41 35 36 37",
+      "url": "https://www.chu-angers.fr/"
+    }
+  },
+  {
+    "id": "55230873e8976f412b8e4b273720ae933a3f4a33",
+    "alternateName": "CHU",
+    "name": "centre_hospitalier_universitaire_chu_assistance_publique_hopitaux_de_marseille",
+    "title": "Centre hospitalier universitaire (CHU) - Assistance publique - Hôpitaux de Marseille",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/chu-13055-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 91 38 00 00",
+      "url": "http://fr.ap-hm.fr/"
+    }
+  },
+  {
+    "id": "c0799c79383f3e200e20ed96ba7942061593bc7e",
+    "alternateName": "CHU",
+    "name": "centre_hospitalier_universitaire_chu_assistance_publique_hopitaux_de_paris",
+    "title": "Centre hospitalier universitaire (CHU) - Assistance publique - Hôpitaux de Paris",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/paris/chu-75056-01",
+    "metadata": {
+      "email": "06communication.institutionnelle@sap.aphp.fr",
+      "telephone": "01 40 27 30 00",
+      "url": "http://www.aphp.fr/"
+    }
+  },
+  {
+    "id": "fc8b1a2d5787aacabf7d444a3adad87c2cad4148",
+    "alternateName": "CHU",
+    "name": "centre_hospitalier_universitaire_chu_bordeaux",
+    "title": "Centre hospitalier universitaire (CHU) - Bordeaux",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/gironde/chu-33522-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 56 79 56 79",
+      "url": "https://www.chu-bordeaux.fr/"
+    }
+  },
+  {
+    "id": "7deaca3c7361e75ef1cbb5938eac52af6908a75d",
+    "alternateName": "CHU",
+    "name": "centre_hospitalier_universitaire_chu_caen",
+    "title": "Centre hospitalier universitaire (CHU) - Caen",
+    "url": "https://lannuaire.service-public.fr/normandie/calvados/chu-14118-01",
+    "metadata": {
+      "email": "https://www.chu-caen.fr/contact.php",
+      "telephone": "02 31 06 31 06",
+      "url": "http://www.chu-caen.fr/"
+    }
+  },
+  {
+    "id": "e7dd2a30758222a54b921420f9ee41bb1f9404fd",
+    "alternateName": "CHU",
+    "name": "centre_hospitalier_universitaire_chu_clermont_ferrand",
+    "title": "Centre hospitalier universitaire (CHU) - Clermont-Ferrand",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/puy-de-dome/chu-63113-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 73 750 750",
+      "url": "https://www.chu-clermontferrand.fr/internet/default.aspx"
+    }
+  },
+  {
+    "id": "af8310f54c384a1450cbc60abddc51e8fdcf0598",
+    "alternateName": "CHU",
+    "name": "centre_hospitalier_universitaire_chu_dijon_bourgogne",
+    "title": "Centre hospitalier universitaire (CHU) - Dijon-Bourgogne",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/cote-d-or/chu-21231-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 80 29 30 31",
+      "url": "http://www.chu-dijon.fr/fr"
+    }
+  },
+  {
+    "id": "01b1e951ae0b9acf7a2c2f25d886a3a5b2affdf0",
+    "alternateName": "CHU",
+    "name": "centre_hospitalier_universitaire_chu_grenoble_alpes",
+    "title": "Centre hospitalier universitaire (CHU) - Grenoble-Alpes",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/isere/chu-38185-01",
+    "metadata": {
+      "email": "directioncommunication@chu-grenoble.fr",
+      "telephone": "04 76 76 75 75",
+      "url": "http://www.chu-grenoble.fr/"
+    }
+  },
+  {
+    "id": "4743586d31046a4e197ad662f23ba639f8a6a274",
+    "alternateName": "CHU",
+    "name": "centre_hospitalier_universitaire_chu_hospices_civils_de_lyon",
+    "title": "Centre hospitalier universitaire (CHU) - Hospices civils de Lyon",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/rhone/chu-69123-01",
+    "metadata": {
+      "email": "a.votre-ecoute@chu-lyon.fr",
+      "telephone": "0825 0825 69",
+      "url": "http://www.chu-lyon.fr/web/"
+    }
+  },
+  {
+    "id": "448f25a870f2bdadeabd2497d3a219a7492e7cf2",
+    "alternateName": "CHU",
+    "name": "centre_hospitalier_universitaire_chu_la_reunion",
+    "title": "Centre hospitalier universitaire (CHU) - La Réunion",
+    "url": "https://lannuaire.service-public.fr/la-reunion/reunion/chu-97415-01",
+    "metadata": {
+      "email": "communication@chu-reunion.fr",
+      "telephone": "02 62 35 95 4002 62 35 95 41",
+      "url": "http://www.chu-reunion.fr/"
+    }
+  },
+  {
+    "id": "d5b16f2ec1e3470e6e2cc9d1dc0ab80f1f060804",
+    "alternateName": "CHU",
+    "name": "centre_hospitalier_universitaire_chu_limoges",
+    "title": "Centre hospitalier universitaire (CHU) - Limoges",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/haute-vienne/chu-87085-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 55 05 55 55",
+      "url": "http://www.chu-limoges.fr/"
+    }
+  },
+  {
+    "id": "bd49636a456fc429319021e13ad444a651634901",
+    "alternateName": "CHU",
+    "name": "centre_hospitalier_universitaire_chu_martinique",
+    "title": "Centre hospitalier universitaire (CHU) - Martinique",
+    "url": "https://lannuaire.service-public.fr/martinique/martinique/chu-97209-01",
+    "metadata": {
+      "email": "secretariat.communication@chu-fortdefrance.fr",
+      "telephone": "05 96 55 20 00",
+      "url": "http://www.chu-martinique.fr/"
+    }
+  },
+  {
+    "id": "513b63d3a7d52f3fcad594d6669505221401078a",
+    "alternateName": "CHU",
+    "name": "centre_hospitalier_universitaire_chu_montpellier",
+    "title": "Centre hospitalier universitaire (CHU) - Montpellier",
+    "url": "https://lannuaire.service-public.fr/occitanie/herault/chu-34172-01",
+    "metadata": {
+      "email": "http://www.chu-montpellier.fr/fr/contact/",
+      "telephone": "04 67 33 67 33",
+      "url": "http://www.chu-montpellier.fr/fr/patients-et-visiteurs/"
+    }
+  },
+  {
+    "id": "f95d2f557e66b51e85d446196628ddba2512162a",
+    "alternateName": "CHU",
+    "name": "centre_hospitalier_universitaire_chu_nantes",
+    "title": "Centre hospitalier universitaire (CHU) - Nantes",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/loire-atlantique/chu-44109-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 40 08 33 33",
+      "url": "http://www.chu-nantes.fr/"
+    }
+  },
+  {
+    "id": "1a76c66565e74e69d4ed3aa816f62324bd46552b",
+    "alternateName": "CHU",
+    "name": "centre_hospitalier_universitaire_chu_nice",
+    "title": "Centre hospitalier universitaire (CHU) - Nice",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/alpes-maritimes/chu-06088-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 92 03 77 77",
+      "url": "http://www.chu-nice.fr/"
+    }
+  },
+  {
+    "id": "3d009737ad03106cc90cd53a2e68e3ff616da238",
+    "alternateName": "CHU",
+    "name": "centre_hospitalier_universitaire_chu_nimes",
+    "title": "Centre hospitalier universitaire (CHU) - Nîmes",
+    "url": "https://lannuaire.service-public.fr/occitanie/gard/chu-30189-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 66 68 68 68",
+      "url": "http://www.chu-nimes.fr/"
+    }
+  },
+  {
+    "id": "79e1338632b158310bd9f88061c2655dccefe2cc",
+    "alternateName": "CHU",
+    "name": "centre_hospitalier_universitaire_chu_pointe_a_pitre",
+    "title": "Centre hospitalier universitaire (CHU) - Pointe-à-Pitre",
+    "url": "https://lannuaire.service-public.fr/guadeloupe/guadeloupe/chu-97120-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 90 89 10 1005 90 89 10 79",
+      "url": "https://www.chu-guadeloupe.fr/"
+    }
+  },
+  {
+    "id": "90c916137adc4dbccbffa3fa1ab00cd01fffbf2c",
+    "alternateName": "CHU",
+    "name": "centre_hospitalier_universitaire_chu_poitiers",
+    "title": "Centre hospitalier universitaire (CHU) - Poitiers",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/vienne/chu-86194-01",
+    "metadata": {
+      "email": "miletrie@chu-poitiers.fr",
+      "telephone": "05 49 44 44 44",
+      "url": "http://www.chu-poitiers.fr/"
+    }
+  },
+  {
+    "id": "b6e295c2010596437522e46a2428acca05e1303e",
+    "alternateName": "CHU",
+    "name": "centre_hospitalier_universitaire_chu_reims",
+    "title": "Centre hospitalier universitaire (CHU) - Reims",
+    "url": "https://lannuaire.service-public.fr/grand-est/marne/chu-51454-01",
+    "metadata": {
+      "email": "communication@chu-reims.fr",
+      "telephone": "03 26 78 78 78",
+      "url": "http://www.chu-reims.fr/"
+    }
+  },
+  {
+    "id": "c51f08fc9a129bf0e9eba29045a7aa722c7da7da",
+    "alternateName": "CHU",
+    "name": "centre_hospitalier_universitaire_chu_rennes",
+    "title": "Centre hospitalier universitaire (CHU) - Rennes",
+    "url": "https://lannuaire.service-public.fr/bretagne/ille-et-vilaine/chu-35238-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 99 28 43 21",
+      "url": "https://www.chu-rennes.fr/"
+    }
+  },
+  {
+    "id": "d115b0ebb8ac8e4db7a36b1d621fe0e74d30fea5",
+    "alternateName": "CHU",
+    "name": "centre_hospitalier_universitaire_chu_rouen",
+    "title": "Centre hospitalier universitaire (CHU) - Rouen",
+    "url": "https://lannuaire.service-public.fr/normandie/seine-maritime/chu-76540-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 32 88 89 90",
+      "url": "https://www.chu-rouen.fr/hopital/hopital-charles-nicolle-rouen/"
+    }
+  },
+  {
+    "id": "e94c77ae0032b58d3f1ea9a6292f0adbb4435ae1",
+    "alternateName": "CHU",
+    "name": "centre_hospitalier_universitaire_chu_saint_etienne",
+    "title": "Centre hospitalier universitaire (CHU) - Saint-Etienne",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/loire/chu-42218-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 77 82 80 00",
+      "url": "http://www.chu-st-etienne.fr/"
+    }
+  },
+  {
+    "id": "58b21f64ee5c175225a2a9e3e7d5d360be94a265",
+    "alternateName": "CHU",
+    "name": "centre_hospitalier_universitaire_chu_strasbourg",
+    "title": "Centre hospitalier universitaire (CHU) - Strasbourg",
+    "url": "https://lannuaire.service-public.fr/grand-est/bas-rhin/chu-67482-01",
+    "metadata": {
+      "email": "courrierdg@chru-strasbourg.fr",
+      "telephone": "03 88 11 67 68",
+      "url": "http://www.chru-strasbourg.fr/"
+    }
+  },
+  {
+    "id": "b1c841a7d8ea305e1980f156bbd68f0809b446fe",
+    "alternateName": "CHU",
+    "name": "centre_hospitalier_universitaire_chu_toulouse",
+    "title": "Centre hospitalier universitaire (CHU) - Toulouse",
+    "url": "https://lannuaire.service-public.fr/occitanie/haute-garonne/chu-31555-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 61 77 22 23",
+      "url": "http://www.chu-toulouse.fr/"
+    }
+  },
+  {
+    "id": "f2a8c49040c9c92582f702a03b55cd145289db2f",
+    "alternateName": "CHU",
+    "name": "centre_hospitalier_universitaire_chu_tours",
+    "title": "Centre hospitalier universitaire (CHU) - Tours",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/indre-et-loire/chu-37261-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 47 47 47 47",
+      "url": "http://www.chu-tours.fr/"
+    }
+  }
+]

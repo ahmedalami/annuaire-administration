@@ -1,0 +1,1118 @@
+[
+  {
+    "id": "54a4d6820ce03bfc249d291de80bb47b6986057c",
+    "alternateName": "CAUE",
+    "name": "conseil_darchitecture_durbanisme_et_de_lenvironnement_caue_ain",
+    "title": "Conseil d'architecture, d'urbanisme et de l'environnement (CAUE) - Ain",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/ain/caue-01053-01",
+    "metadata": {
+      "email": "contact@caue-ain.com",
+      "telephone": "04 74 21 11 31",
+      "url": "http://www.caue01.org/"
+    }
+  },
+  {
+    "id": "46c4feab51d2c46481f879624a07e337c2f2d295",
+    "alternateName": "CAUE",
+    "name": "conseil_darchitecture_durbanisme_et_de_lenvironnement_caue_aisne",
+    "title": "Conseil d'architecture, d'urbanisme et de l'environnement (CAUE) - Aisne",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/aisne/caue-02408-01",
+    "metadata": {
+      "email": "info@caue02.com",
+      "telephone": "03 23 79 00 03",
+      "url": "http://www.caue02.com"
+    }
+  },
+  {
+    "id": "4388e18bc411f584eb8836dc4c11a10176a32163",
+    "alternateName": "CAUE",
+    "name": "conseil_darchitecture_durbanisme_et_de_lenvironnement_caue_allier",
+    "title": "Conseil d'architecture, d'urbanisme et de l'environnement (CAUE) - Allier",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/allier/caue-03190-01",
+    "metadata": {
+      "email": "contact@caue03.fr",
+      "telephone": "04 70 20 11 00",
+      "url": "http://www.caue03.com"
+    }
+  },
+  {
+    "id": "b6ea1a56745c3e71c902198e1c47a5a4fc677fbe",
+    "alternateName": "CAUE",
+    "name": "conseil_darchitecture_durbanisme_et_de_lenvironnement_caue_alpes_maritimes",
+    "title": "Conseil d'architecture, d'urbanisme et de l'environnement (CAUE) - Alpes-Maritimes",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/alpes-maritimes/caue-06088-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 92 00 38 38",
+      "url": "http://www.caue06.fr"
+    }
+  },
+  {
+    "id": "c31d56b2adf083da480a80dc39fda2e7165816cc",
+    "alternateName": "CAUE",
+    "name": "conseil_darchitecture_durbanisme_et_de_lenvironnement_caue_ardeche",
+    "title": "Conseil d'architecture, d'urbanisme et de l'environnement (CAUE) - Ardèche",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/ardeche/caue-07186-01",
+    "metadata": {
+      "email": "caue-07@wanadoo.fr",
+      "telephone": "04 75 64 36 04",
+      "url": "http://www.caue07.fr"
+    }
+  },
+  {
+    "id": "62d07de917629337571e120932685658a9d8e0ea",
+    "alternateName": "CAUE",
+    "name": "conseil_darchitecture_durbanisme_et_de_lenvironnement_caue_ariege",
+    "title": "Conseil d'architecture, d'urbanisme et de l'environnement (CAUE) - Ariège",
+    "url": "https://lannuaire.service-public.fr/occitanie/ariege/caue-09122-01",
+    "metadata": {
+      "email": "caue.ariege@wanadoo.fr",
+      "telephone": "05 34 09 78 30",
+      "url": "http://www.caue-mp.fr/09-ariege-actualite-principale/itemid-2.html"
+    }
+  },
+  {
+    "id": "ef024c61f4260b8bc88d42637efe7422d6c96f1b",
+    "alternateName": "CAUE",
+    "name": "conseil_darchitecture_durbanisme_et_de_lenvironnement_caue_aude",
+    "title": "Conseil d'architecture, d'urbanisme et de l'environnement (CAUE) - Aude",
+    "url": "https://lannuaire.service-public.fr/occitanie/aude/caue-11069-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 68 11 56 20",
+      "url": "https://www.les-caue-occitanie.fr/aude"
+    }
+  },
+  {
+    "id": "fb15a55acfd5e8ce70a964bcfe06305789e338d5",
+    "alternateName": "CAUE",
+    "name": "conseil_darchitecture_durbanisme_et_de_lenvironnement_caue_aveyron",
+    "title": "Conseil d'architecture, d'urbanisme et de l'environnement (CAUE) - Aveyron",
+    "url": "https://lannuaire.service-public.fr/occitanie/aveyron/caue-12202-01",
+    "metadata": {
+      "email": "caue@caueaveyron.fr",
+      "telephone": "05 65 68 66 45",
+      "url": "http://caueactu.fr"
+    }
+  },
+  {
+    "id": "65bfcf74708b6e338104cbdefe2e0682b5b4d937",
+    "alternateName": "CAUE",
+    "name": "conseil_darchitecture_durbanisme_et_de_lenvironnement_caue_bas_rhin",
+    "title": "Conseil d'architecture, d'urbanisme et de l'environnement (CAUE) - Bas-Rhin",
+    "url": "https://lannuaire.service-public.fr/grand-est/bas-rhin/caue-67482-01",
+    "metadata": {
+      "email": "caue@caue67.com",
+      "telephone": "03 88 15 02 30",
+      "url": "http://www.caue67.com/contact/"
+    }
+  },
+  {
+    "id": "0ecf23b8a533141ea397c8ba1a476c4cdaa4e21b",
+    "alternateName": "CAUE",
+    "name": "conseil_darchitecture_durbanisme_et_de_lenvironnement_caue_bouches_du_rhone",
+    "title": "Conseil d'architecture, d'urbanisme et de l'environnement (CAUE) - Bouches-du-Rhône",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/caue-13207-01",
+    "metadata": {
+      "email": "caue13@caue13.fr",
+      "telephone": "04 96 11 01 20",
+      "url": "http://www.caue13.fr"
+    }
+  },
+  {
+    "id": "63f4104c080a11a462b48363b058f1dfad83186c",
+    "alternateName": "CAUE",
+    "name": "conseil_darchitecture_durbanisme_et_de_lenvironnement_caue_calvados",
+    "title": "Conseil d'architecture, d'urbanisme et de l'environnement (CAUE) - Calvados",
+    "url": "https://lannuaire.service-public.fr/normandie/calvados/caue-14118-01",
+    "metadata": {
+      "email": "contact@caue14.fr",
+      "telephone": "02 31 15 59 60",
+      "url": "http://www.caue14.fr"
+    }
+  },
+  {
+    "id": "7fdde1c67a53526f7162a30b367148f9e75fedf5",
+    "alternateName": "CAUE",
+    "name": "conseil_darchitecture_durbanisme_et_de_lenvironnement_caue_cantal",
+    "title": "Conseil d'architecture, d'urbanisme et de l'environnement (CAUE) - Cantal",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/cantal/caue-15014-01",
+    "metadata": {
+      "email": "caue.cantal@wanadoo.fr",
+      "telephone": "04 71 48 50 22",
+      "url": "http://caue15.fr"
+    }
+  },
+  {
+    "id": "d160aefe53052153e69849300008ecbb4d43b987",
+    "alternateName": "CAUE",
+    "name": "conseil_darchitecture_durbanisme_et_de_lenvironnement_caue_charente",
+    "title": "Conseil d'architecture, d'urbanisme et de l'environnement (CAUE) - Charente",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/charente/caue-16015-01",
+    "metadata": {
+      "email": "caue16@wanadoo.fr",
+      "telephone": "05 45 92 95 93",
+      "url": "http://www.caue16.fr"
+    }
+  },
+  {
+    "id": "30dff5423dcc8bc48e3a0e4bdcd5311b7be78661",
+    "alternateName": "CAUE",
+    "name": "conseil_darchitecture_durbanisme_et_de_lenvironnement_caue_charente_maritime",
+    "title": "Conseil d'architecture, d'urbanisme et de l'environnement (CAUE) - Charente-Maritime",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/charente-maritime/caue-17300-01",
+    "metadata": {
+      "email": "contact@caue17.fr",
+      "telephone": "05 45 92 95 93",
+      "url": "http://caue17.com"
+    }
+  },
+  {
+    "id": "c98f6f9dddfdc486104aede02690c4a78344f0d6",
+    "alternateName": "CAUE",
+    "name": "conseil_darchitecture_durbanisme_et_de_lenvironnement_caue_cher",
+    "title": "Conseil d'architecture, d'urbanisme et de l'environnement (CAUE) - Cher",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/cher/caue-18033-01",
+    "metadata": {
+      "email": "contact@caue18.fr",
+      "telephone": "02 48 50 75 18",
+      "url": "http://caue18.fr/"
+    }
+  },
+  {
+    "id": "536d90569947e232c6aae3becd3d78d09ae10bec",
+    "alternateName": "CAUE",
+    "name": "conseil_darchitecture_durbanisme_et_de_lenvironnement_caue_correze",
+    "title": "Conseil d'architecture, d'urbanisme et de l'environnement (CAUE) - Corrèze",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/correze/caue-19272-01",
+    "metadata": {
+      "email": "caue.19@wanadoo.fr",
+      "telephone": "05 55 26 06 48",
+      "url": "http://www.caue19.fr"
+    }
+  },
+  {
+    "id": "c9ba91e51147e6b8f06bbf5f9928a14ba0516a30",
+    "alternateName": "CAUE",
+    "name": "conseil_darchitecture_durbanisme_et_de_lenvironnement_caue_corse_du_sud",
+    "title": "Conseil d'architecture, d'urbanisme et de l'environnement (CAUE) - Corse-du-Sud",
+    "url": "https://lannuaire.service-public.fr/corse/corse-du-sud/caue-2A004-01",
+    "metadata": {
+      "email": "caue-2a@wanadoo.fr",
+      "telephone": "04 95 21 19 48",
+      "url": ""
+    }
+  },
+  {
+    "id": "63fc2a00f766205da909de725363d2f8a2e53e1e",
+    "alternateName": "CAUE",
+    "name": "conseil_darchitecture_durbanisme_et_de_lenvironnement_caue_cote_d_or",
+    "title": "Conseil d'architecture, d'urbanisme et de l'environnement (CAUE) - Côte-d'Or",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/cote-d-or/caue-21231-01",
+    "metadata": {
+      "email": "info@caue21.fr",
+      "telephone": "03 80 30 02 38",
+      "url": "http://www.caue21.fr"
+    }
+  },
+  {
+    "id": "39167a4d60044d4fb0b8642ea40a1901ab297d45",
+    "alternateName": "CAUE",
+    "name": "conseil_darchitecture_durbanisme_et_de_lenvironnement_caue_cotes_d_armor",
+    "title": "Conseil d'architecture, d'urbanisme et de l'environnement (CAUE) - Côtes-d'Armor",
+    "url": "https://lannuaire.service-public.fr/bretagne/cotes-d-armor/caue-22278-01",
+    "metadata": {
+      "email": "caue22@wanadoo.fr",
+      "telephone": "03 96 61 51 97",
+      "url": "http://www.caue22.fr/"
+    }
+  },
+  {
+    "id": "e59e8db328b462196db282bac5eef3f0788ddc85",
+    "alternateName": "CAUE",
+    "name": "conseil_darchitecture_durbanisme_et_de_lenvironnement_caue_creuse",
+    "title": "Conseil d'architecture, d'urbanisme et de l'environnement (CAUE) - Creuse",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/creuse/caue-23096-01",
+    "metadata": {
+      "email": "caue23@caue23.fr",
+      "telephone": "05 44 30 27 56",
+      "url": "http://www.caue23.fr"
+    }
+  },
+  {
+    "id": "87bd3829f3506efc373ac2024b5c0b94bf09743c",
+    "alternateName": "CAUE",
+    "name": "conseil_darchitecture_durbanisme_et_de_lenvironnement_caue_deux_sevres",
+    "title": "Conseil d'architecture, d'urbanisme et de l'environnement (CAUE) - Deux-Sèvres",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/deux-sevres/caue-79191-01",
+    "metadata": {
+      "email": "contact@caue79.fr",
+      "telephone": "05 49 28 06 28",
+      "url": "http://www.caue79.fr/"
+    }
+  },
+  {
+    "id": "77851871cf115be3411acfbfa9242141a22d71e0",
+    "alternateName": "CAUE",
+    "name": "conseil_darchitecture_durbanisme_et_de_lenvironnement_caue_dordogne",
+    "title": "Conseil d'architecture, d'urbanisme et de l'environnement (CAUE) - Dordogne",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/dordogne/caue-42169-01",
+    "metadata": {
+      "email": "courriel@cauedordogne.com",
+      "telephone": "05 53 08 37 13",
+      "url": "http://www.cauedordogne.com"
+    }
+  },
+  {
+    "id": "ee07339c090f12d6b3e640ac316c077a6aa86c4f",
+    "alternateName": "CAUE",
+    "name": "conseil_darchitecture_durbanisme_et_de_lenvironnement_caue_doubs",
+    "title": "Conseil d'architecture, d'urbanisme et de l'environnement (CAUE) - Doubs",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/doubs/caue-25056-01",
+    "metadata": {
+      "email": "caue25@caue25.org",
+      "telephone": "03 81 82 19 22",
+      "url": "http://www.caue25.org"
+    }
+  },
+  {
+    "id": "3d38e6d84f7035c66b300081a3a264627d1998d2",
+    "alternateName": "CAUE",
+    "name": "conseil_darchitecture_durbanisme_et_de_lenvironnement_caue_drome",
+    "title": "Conseil d'architecture, d'urbanisme et de l'environnement (CAUE) - Drôme",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/drome/caue-26362-01",
+    "metadata": {
+      "email": "caue@dromenet.org",
+      "telephone": "04 75 79 04 03",
+      "url": "http://caue.dromenet.org"
+    }
+  },
+  {
+    "id": "56e2ea4bb665d82797885c0cd796014544a89b90",
+    "alternateName": "CAUE",
+    "name": "conseil_darchitecture_durbanisme_et_de_lenvironnement_caue_essonne",
+    "title": "Conseil d'architecture, d'urbanisme et de l'environnement (CAUE) - Essonne",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/essonne/caue-91228-01",
+    "metadata": {
+      "email": "caue91@caue91.asso.fr",
+      "telephone": "01 60 79 35 44",
+      "url": "http://www.caue91.asso.fr/"
+    }
+  },
+  {
+    "id": "16b3f9e228fee2268a1acabd9572ddb4846664ae",
+    "alternateName": "CAUE",
+    "name": "conseil_darchitecture_durbanisme_et_de_lenvironnement_caue_eure",
+    "title": "Conseil d'architecture, d'urbanisme et de l'environnement (CAUE) - Eure",
+    "url": "https://lannuaire.service-public.fr/normandie/eure/caue-27229-01",
+    "metadata": {
+      "email": "contact@caue27.fr",
+      "telephone": "02 32 33 15 78",
+      "url": "https://caue27.fr/"
+    }
+  },
+  {
+    "id": "500566efe37e1b17385150833d1a86f2d5e73246",
+    "alternateName": "CAUE",
+    "name": "conseil_darchitecture_durbanisme_et_de_lenvironnement_caue_eure_et_loir",
+    "title": "Conseil d'architecture, d'urbanisme et de l'environnement (CAUE) - Eure-et-Loir",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/eure-et-loir/caue-28229-01",
+    "metadata": {
+      "email": "CONTACT@CAUE28.ORG",
+      "telephone": "02 37 21 21 31",
+      "url": "http://caue28.org/"
+    }
+  },
+  {
+    "id": "67f3a14bc79856c4611b42c7d02ddb76c975a6fa",
+    "alternateName": "CAUE",
+    "name": "conseil_darchitecture_durbanisme_et_de_lenvironnement_caue_finistere",
+    "title": "Conseil d'architecture, d'urbanisme et de l'environnement (CAUE) - Finistère",
+    "url": "https://lannuaire.service-public.fr/bretagne/finistere/caue-29232-01",
+    "metadata": {
+      "email": "contact@caue-finistere.fr",
+      "telephone": "02 98 98 69 15",
+      "url": "http://www.caue-finistere.fr/"
+    }
+  },
+  {
+    "id": "38570f6a67e1efcbf6dd9a9f9205dc131547d489",
+    "alternateName": "CAUE",
+    "name": "conseil_darchitecture_durbanisme_et_de_lenvironnement_caue_gard",
+    "title": "Conseil d'architecture, d'urbanisme et de l'environnement (CAUE) - Gard",
+    "url": "https://lannuaire.service-public.fr/occitanie/gard/caue-30189-01",
+    "metadata": {
+      "email": "accueil@caue30.fr",
+      "telephone": "04 66 36 10 60",
+      "url": "https://www.les-caue-occitanie.fr/gard"
+    }
+  },
+  {
+    "id": "00a3f6bd0dbb2de4e12e24637a4fbe10ab7c2142",
+    "alternateName": "CAUE",
+    "name": "conseil_darchitecture_durbanisme_et_de_lenvironnement_caue_gers",
+    "title": "Conseil d'architecture, d'urbanisme et de l'environnement (CAUE) - Gers",
+    "url": "https://lannuaire.service-public.fr/occitanie/gers/caue-32013-01",
+    "metadata": {
+      "email": "cauegers@caue32.fr",
+      "telephone": "05 62 05 75 34",
+      "url": "http://www.caue-mp.fr/32-gers-actualite-principale/itemid-27.html"
+    }
+  },
+  {
+    "id": "46cfb653a608b0b53a7bcb32df5d427ee3176f61",
+    "alternateName": "CAUE",
+    "name": "conseil_darchitecture_durbanisme_et_de_lenvironnement_caue_gironde",
+    "title": "Conseil d'architecture, d'urbanisme et de l'environnement (CAUE) - Gironde",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/gironde/caue-33063-01",
+    "metadata": {
+      "email": "contact@cauegironde.com",
+      "telephone": "05 56 97 81 89",
+      "url": "http://www.cauegironde.com/"
+    }
+  },
+  {
+    "id": "5aab0611f76dc84ee0968a7caf2950cb04dd522a",
+    "alternateName": "CAUE",
+    "name": "conseil_darchitecture_durbanisme_et_de_lenvironnement_caue_guadeloupe",
+    "title": "Conseil d'architecture, d'urbanisme et de l'environnement (CAUE) - Guadeloupe",
+    "url": "https://lannuaire.service-public.fr/guadeloupe/guadeloupe/caue-97101-01",
+    "metadata": {
+      "email": "caue971@wanadoo.fr",
+      "telephone": "590 81 83 85",
+      "url": "http://www.caue971.org/"
+    }
+  },
+  {
+    "id": "da16a87056c2c8865507b6e6db9ab8cf73a6617c",
+    "alternateName": "CAUE",
+    "name": "conseil_darchitecture_durbanisme_et_de_lenvironnement_caue_guyane",
+    "title": "Conseil d'architecture, d'urbanisme et de l'environnement (CAUE) - Guyane",
+    "url": "https://lannuaire.service-public.fr/guyane/guyane/caue-97302-01",
+    "metadata": {
+      "email": "-contact@caue-martinique.com",
+      "telephone": "0596 70 10 10",
+      "url": "https://www.caue-martinique.com/"
+    }
+  },
+  {
+    "id": "f1b0003f2b3fc32f31c9126b1bbe65c6c00dc469",
+    "alternateName": "CAUE",
+    "name": "conseil_darchitecture_durbanisme_et_de_lenvironnement_caue_haute_corse",
+    "title": "Conseil d'architecture, d'urbanisme et de l'environnement (CAUE) - Haute-Corse",
+    "url": "https://lannuaire.service-public.fr/corse/haute-corse/caue-2B033-01",
+    "metadata": {
+      "email": "caue-2b@wanadoo.fr",
+      "telephone": "04 95 31 80 90",
+      "url": "http://caue2b.com"
+    }
+  },
+  {
+    "id": "3daec73054ace691b10085783e616757d7c16581",
+    "alternateName": "CAUE",
+    "name": "conseil_darchitecture_durbanisme_et_de_lenvironnement_caue_haute_garonne",
+    "title": "Conseil d'architecture, d'urbanisme et de l'environnement (CAUE) - Haute-Garonne",
+    "url": "https://lannuaire.service-public.fr/occitanie/haute-garonne/caue-31555-01",
+    "metadata": {
+      "email": "caue@caue31.org",
+      "telephone": "05 62 73 73 62",
+      "url": "http://www.caue-mp.fr/31-haute-garonne-actualite-principale/itemid-5.html"
+    }
+  },
+  {
+    "id": "071f59f914c20e6de5f8efdb1b8b6e3c3d9ff7f2",
+    "alternateName": "CAUE",
+    "name": "conseil_darchitecture_durbanisme_et_de_lenvironnement_caue_haute_loire",
+    "title": "Conseil d'architecture, d'urbanisme et de l'environnement (CAUE) - Haute-Loire",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/haute-loire/caue-43157-01",
+    "metadata": {
+      "email": "contact@caue43.fr",
+      "telephone": "04 71 07 41 76",
+      "url": "http://www.caue43.fr/"
+    }
+  },
+  {
+    "id": "e7047837c43b9bacaac48a020f574ad9b3df1b87",
+    "alternateName": "CAUE",
+    "name": "conseil_darchitecture_durbanisme_et_de_lenvironnement_caue_haute_marne",
+    "title": "Conseil d'architecture, d'urbanisme et de l'environnement (CAUE) - Haute-Marne",
+    "url": "https://lannuaire.service-public.fr/grand-est/haute-marne/caue-52121-01",
+    "metadata": {
+      "email": "caue@haute-marne.fr",
+      "telephone": "03 25 32 52 62",
+      "url": ""
+    }
+  },
+  {
+    "id": "41c3c0b180b83c8685f3ebc5a8afe8f146ab14e1",
+    "alternateName": "CAUE",
+    "name": "conseil_darchitecture_durbanisme_et_de_lenvironnement_caue_hautes_alpes",
+    "title": "Conseil d'architecture, d'urbanisme et de l'environnement (CAUE) - Hautes-Alpes",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/hautes-alpes/caue-05046-01",
+    "metadata": {
+      "email": "caue05@orange.fr",
+      "telephone": "04 92 43 60 31",
+      "url": "http://www.caue05.com"
+    }
+  },
+  {
+    "id": "cdacb2447854c89cc1512033e020119cc945f743",
+    "alternateName": "CAUE",
+    "name": "conseil_darchitecture_durbanisme_et_de_lenvironnement_caue_haute_saone",
+    "title": "Conseil d'architecture, d'urbanisme et de l'environnement (CAUE) - Haute-Saône",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/haute-saone/caue-70550-01",
+    "metadata": {
+      "email": "contact@caue70.fr",
+      "telephone": "03 84 96 97 77",
+      "url": "https://www.caue70.fr/"
+    }
+  },
+  {
+    "id": "f2d52101398fa8acf9d0b7a052b130bc28462a47",
+    "alternateName": "CAUE",
+    "name": "conseil_darchitecture_durbanisme_et_de_lenvironnement_caue_haute_savoie",
+    "title": "Conseil d'architecture, d'urbanisme et de l'environnement (CAUE) - Haute-Savoie",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/haute-savoie/caue-74010-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 50 88 21 10",
+      "url": "http://www.caue74.fr/"
+    }
+  },
+  {
+    "id": "016be35d737e841fec93d9c87c6f85f8f0f569ea",
+    "alternateName": "CAUE",
+    "name": "conseil_darchitecture_durbanisme_et_de_lenvironnement_caue_hautes_pyrenees",
+    "title": "Conseil d'architecture, d'urbanisme et de l'environnement (CAUE) - Hautes-Pyrénées",
+    "url": "https://lannuaire.service-public.fr/occitanie/hautes-pyrenees/caue-65440-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 62 56 71 45",
+      "url": "https://www.les-caue-occitanie.fr/hautes-pyrenees"
+    }
+  },
+  {
+    "id": "22e24ef0b702df7c9b1b239e39a73d6629894a0f",
+    "alternateName": "CAUE",
+    "name": "conseil_darchitecture_durbanisme_et_de_lenvironnement_caue_haute_vienne",
+    "title": "Conseil d'architecture, d'urbanisme et de l'environnement (CAUE) - Haute-Vienne",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/haute-vienne/caue-87085-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 55 32 32 40",
+      "url": "http://www.caue87.fr/"
+    }
+  },
+  {
+    "id": "e6e6469118d8bdb93b1716f71ce1bf828818b262",
+    "alternateName": "CAUE",
+    "name": "conseil_darchitecture_durbanisme_et_de_lenvironnement_caue_haut_rhin",
+    "title": "Conseil d'architecture, d'urbanisme et de l'environnement (CAUE) - Haut-Rhin",
+    "url": "https://lannuaire.service-public.fr/grand-est/haut-rhin/caue-68066-01",
+    "metadata": {
+      "email": "info@caue68.com",
+      "telephone": "03 89 23 33 01",
+      "url": "http://www.caue68.com/"
+    }
+  },
+  {
+    "id": "24922f75b93ce3a9ba5e1c540ec0d3e3af5d167c",
+    "alternateName": "CAUE",
+    "name": "conseil_darchitecture_durbanisme_et_de_lenvironnement_caue_hauts_de_seine",
+    "title": "Conseil d'architecture, d'urbanisme et de l'environnement (CAUE) - Hauts-de-Seine",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/hauts-de-seine/caue-92050-01",
+    "metadata": {
+      "email": "contact@caue92.com",
+      "telephone": "01 71 04 52 49",
+      "url": "http://www.caue92.fr/"
+    }
+  },
+  {
+    "id": "469c70900fd08293eb7fa19f5945abbeacbc48d5",
+    "alternateName": "CAUE",
+    "name": "conseil_darchitecture_durbanisme_et_de_lenvironnement_caue_herault",
+    "title": "Conseil d'architecture, d'urbanisme et de l'environnement (CAUE) - Hérault",
+    "url": "https://lannuaire.service-public.fr/occitanie/herault/caue-34172-01",
+    "metadata": {
+      "email": "contact@caue34.fr",
+      "telephone": "04 99 13 37 00",
+      "url": "https://www.caue34.fr/"
+    }
+  },
+  {
+    "id": "3ff36f1da13e133dfa6c4ac441cbf6717f400867",
+    "alternateName": "CAUE",
+    "name": "conseil_darchitecture_durbanisme_et_de_lenvironnement_caue_indre",
+    "title": "Conseil d'architecture, d'urbanisme et de l'environnement (CAUE) - Indre",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/indre/caue-36044-01",
+    "metadata": {
+      "email": "caue.36@free.fr",
+      "telephone": "02 54 27 50 85",
+      "url": "http://caue.36.free.fr/"
+    }
+  },
+  {
+    "id": "7925ffffa4747162f6b29de1f6917b17d6bb67bb",
+    "alternateName": "CAUE",
+    "name": "conseil_darchitecture_durbanisme_et_de_lenvironnement_caue_indre_et_loire",
+    "title": "Conseil d'architecture, d'urbanisme et de l'environnement (CAUE) - Indre-et-Loire",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/indre-et-loire/caue-37261-01",
+    "metadata": {
+      "email": "caue37@caue37.fr",
+      "telephone": "02 47 31 13 40",
+      "url": "https://www.caue37.fr/"
+    }
+  },
+  {
+    "id": "77de9fda9f15b92e7475d316d362318a79a39606",
+    "alternateName": "CAUE",
+    "name": "conseil_darchitecture_durbanisme_et_de_lenvironnement_caue_isere",
+    "title": "Conseil d'architecture, d'urbanisme et de l'environnement (CAUE) - Isère",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/isere/caue-38185-01",
+    "metadata": {
+      "email": "info@caue-isere.org",
+      "telephone": "04 76 00 02 21",
+      "url": "https://www.caue-isere.org/"
+    }
+  },
+  {
+    "id": "57bab967e6442d50deb9ac73733a818c7898f0a9",
+    "alternateName": "CAUE",
+    "name": "conseil_darchitecture_durbanisme_et_de_lenvironnement_caue_jura",
+    "title": "Conseil d'architecture, d'urbanisme et de l'environnement (CAUE) - Jura",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/jura/caue-39300-01",
+    "metadata": {
+      "email": "caue39@caue39.fr",
+      "telephone": "03 84 24 30 36",
+      "url": "https://www.caue39.fr/"
+    }
+  },
+  {
+    "id": "54c4013e84415234d672e059a56991af3a1d3355",
+    "alternateName": "CAUE",
+    "name": "conseil_darchitecture_durbanisme_et_de_lenvironnement_caue_landes",
+    "title": "Conseil d'architecture, d'urbanisme et de l'environnement (CAUE) - Landes",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/landes/caue-40192-01",
+    "metadata": {
+      "email": "contact@caue40.com",
+      "telephone": "05 58 06 11 77",
+      "url": "http://caue40.com/"
+    }
+  },
+  {
+    "id": "ebf8e6b8400bc6c8bc87d87365814c598a9c2181",
+    "alternateName": "CAUE",
+    "name": "conseil_darchitecture_durbanisme_et_de_lenvironnement_caue_la_reunion",
+    "title": "Conseil d'architecture, d'urbanisme et de l'environnement (CAUE) - La Réunion",
+    "url": "https://lannuaire.service-public.fr/la-reunion/reunion/caue-97411-01",
+    "metadata": {
+      "email": "courrier@caue974.com",
+      "telephone": "02 62 21 60 86",
+      "url": "http://www.caue974.com/fr/"
+    }
+  },
+  {
+    "id": "59e5887828149d800eb48c43806fb8e1c2b847f7",
+    "alternateName": "CAUE",
+    "name": "conseil_darchitecture_durbanisme_et_de_lenvironnement_caue_loire_atlantique",
+    "title": "Conseil d'architecture, d'urbanisme et de l'environnement (CAUE) - Loire-Atlantique",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/loire-atlantique/caue-44109-01",
+    "metadata": {
+      "email": "caue44@loireatlantique-developpement.fr",
+      "telephone": "02 40 20 20 44",
+      "url": "https://www.caue44.com/"
+    }
+  },
+  {
+    "id": "d6a7111a592f369011b5f49240b64eb4613ff817",
+    "alternateName": "CAUE",
+    "name": "conseil_darchitecture_durbanisme_et_de_lenvironnement_caue_loiret",
+    "title": "Conseil d'architecture, d'urbanisme et de l'environnement (CAUE) - Loiret",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/loiret/caue-45234-01",
+    "metadata": {
+      "email": "contact@caue45.fr",
+      "telephone": "02 38 54 13 98",
+      "url": "https://www.caue45.fr/"
+    }
+  },
+  {
+    "id": "bd6773424e2ff09aefb87c3c1913abecb91106b3",
+    "alternateName": "CAUE",
+    "name": "conseil_darchitecture_durbanisme_et_de_lenvironnement_caue_loir_et_cher",
+    "title": "Conseil d'architecture, d'urbanisme et de l'environnement (CAUE) - Loir-et-Cher",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/loir-et-cher/caue-41018-01",
+    "metadata": {
+      "email": "contact@caue41.fr",
+      "telephone": "02 54 51 56 50",
+      "url": "http://www.caue41.fr/"
+    }
+  },
+  {
+    "id": "775eea9e7d8772f0855b0df1d3052984131d57c0",
+    "alternateName": "CAUE",
+    "name": "conseil_darchitecture_durbanisme_et_de_lenvironnement_caue_lot",
+    "title": "Conseil d'architecture, d'urbanisme et de l'environnement (CAUE) - Lot",
+    "url": "https://lannuaire.service-public.fr/occitanie/lot/caue-46042-01",
+    "metadata": {
+      "email": "caue.46@wanadoo.fr",
+      "telephone": "05 65 30 14 35",
+      "url": "http://www.caue-mp.fr/46-lot-actualite-principale/itemid-28.html"
+    }
+  },
+  {
+    "id": "7e8fadb74f943777c8ef717a7bd71f8a29235046",
+    "alternateName": "CAUE",
+    "name": "conseil_darchitecture_durbanisme_et_de_lenvironnement_caue_lot_et_garonne",
+    "title": "Conseil d'architecture, d'urbanisme et de l'environnement (CAUE) - Lot-et-Garonne",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/lot-et-garonne/caue-47001-01",
+    "metadata": {
+      "email": "contact@caue47.com",
+      "telephone": "05 53 48 46 70",
+      "url": "https://www.caue47.com/"
+    }
+  },
+  {
+    "id": "8bb11a93501ab2daeb681c9e6480179e99353ce8",
+    "alternateName": "CAUE",
+    "name": "conseil_darchitecture_durbanisme_et_de_lenvironnement_caue_lozere",
+    "title": "Conseil d'architecture, d'urbanisme et de l'environnement (CAUE) - Lozère",
+    "url": "https://lannuaire.service-public.fr/occitanie/lozere/caue-48095-01",
+    "metadata": {
+      "email": "cauelozere@wanadoo.fr",
+      "telephone": "04 66 49 06 55",
+      "url": "http://caue-lozere.fr/"
+    }
+  },
+  {
+    "id": "c28000c4a5c2e0fd34994ff07195b13d549f3bec",
+    "alternateName": "CAUE",
+    "name": "conseil_darchitecture_durbanisme_et_de_lenvironnement_caue_maine_et_loire",
+    "title": "Conseil d'architecture, d'urbanisme et de l'environnement (CAUE) - Maine-et-Loire",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/maine-et-loire/caue-49007-01",
+    "metadata": {
+      "email": "contact@caue49.com",
+      "telephone": "02 41 22 99 99",
+      "url": "https://www.caue49.com/"
+    }
+  },
+  {
+    "id": "9f4d7c67ac4100f47238d9b7efd907e0afa8556b",
+    "alternateName": "CAUE",
+    "name": "conseil_darchitecture_durbanisme_et_de_lenvironnement_caue_manche",
+    "title": "Conseil d'architecture, d'urbanisme et de l'environnement (CAUE) - Manche",
+    "url": "https://lannuaire.service-public.fr/normandie/manche/caue-50502-01",
+    "metadata": {
+      "email": "courrier@caue50.fr",
+      "telephone": "02 33 77 20 77",
+      "url": "http://www.caue50.fr/"
+    }
+  },
+  {
+    "id": "2a7f7f8c8924cdeea48c2b5f59e4bff0188158dc",
+    "alternateName": "CAUE",
+    "name": "conseil_darchitecture_durbanisme_et_de_lenvironnement_caue_martinique",
+    "title": "Conseil d'architecture, d'urbanisme et de l'environnement (CAUE) - Martinique",
+    "url": "https://lannuaire.service-public.fr/martinique/martinique/caue-97209-01",
+    "metadata": {
+      "email": "contact@caue-martinique.com",
+      "telephone": "0596 70 10 10",
+      "url": "https://www.caue-martinique.com/"
+    }
+  },
+  {
+    "id": "ccc53e20deef908f11c34bd0a2abf4e62e5f384f",
+    "alternateName": "CAUE",
+    "name": "conseil_darchitecture_durbanisme_et_de_lenvironnement_caue_mayenne",
+    "title": "Conseil d'architecture, d'urbanisme et de l'environnement (CAUE) - Mayenne",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/mayenne/caue-53130-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 43 56 41 79",
+      "url": "https://www.caue53.com/"
+    }
+  },
+  {
+    "id": "305036821268110b1aaf2051dc16c3fe3b638b3a",
+    "alternateName": "CAUE",
+    "name": "conseil_darchitecture_durbanisme_et_de_lenvironnement_caue_meurthe_et_moselle",
+    "title": "Conseil d'architecture, d'urbanisme et de l'environnement (CAUE) - Meurthe-et-Moselle",
+    "url": "https://lannuaire.service-public.fr/grand-est/meurthe-et-moselle/caue-54395-01",
+    "metadata": {
+      "email": "caue@caue54.departement54.fr",
+      "telephone": "03 83 94 51 78",
+      "url": "http://www.caue54.com/"
+    }
+  },
+  {
+    "id": "5919545be15b27d6e2b837266a186a015abf389a",
+    "alternateName": "CAUE",
+    "name": "conseil_darchitecture_durbanisme_et_de_lenvironnement_caue_meuse",
+    "title": "Conseil d'architecture, d'urbanisme et de l'environnement (CAUE) - Meuse",
+    "url": "https://lannuaire.service-public.fr/grand-est/meuse/caue-55029-01",
+    "metadata": {
+      "email": "contact@caue55.fr",
+      "telephone": "03 29 45 77 68",
+      "url": "https://www.caue55.fr/"
+    }
+  },
+  {
+    "id": "69bdcd62ff85e188ec109928695d9c15622ec9c6",
+    "alternateName": "CAUE",
+    "name": "conseil_darchitecture_durbanisme_et_de_lenvironnement_caue_morbihan",
+    "title": "Conseil d'architecture, d'urbanisme et de l'environnement (CAUE) - Morbihan",
+    "url": "https://lannuaire.service-public.fr/bretagne/morbihan/caue-56260-01",
+    "metadata": {
+      "email": "conseil@caue56.fr",
+      "telephone": "02 97 62 40 90",
+      "url": "http://www.caue56.fr/"
+    }
+  },
+  {
+    "id": "a529e1a0aa9abf281b34ee9e7241fc8d5dd306d1",
+    "alternateName": "CAUE",
+    "name": "conseil_darchitecture_durbanisme_et_de_lenvironnement_caue_moselle",
+    "title": "Conseil d'architecture, d'urbanisme et de l'environnement (CAUE) - Moselle",
+    "url": "https://lannuaire.service-public.fr/grand-est/moselle/caue-57463-01",
+    "metadata": {
+      "email": "contact@caue57.com",
+      "telephone": "03 87 74 46 06",
+      "url": "https://www.caue57.com/"
+    }
+  },
+  {
+    "id": "171ccf7cc709440ff27111baf05b8fba38a3bbd7",
+    "alternateName": "CAUE",
+    "name": "conseil_darchitecture_durbanisme_et_de_lenvironnement_caue_nievre",
+    "title": "Conseil d'architecture, d'urbanisme et de l'environnement (CAUE) - Nièvre",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/nievre/caue-58194-01",
+    "metadata": {
+      "email": "caue58@wanadoo.fr",
+      "telephone": "03 86 71 66 90",
+      "url": "http://www.caue58.com/"
+    }
+  },
+  {
+    "id": "61a2f99c3582be417d7d36d8ff0dba86aff4d82e",
+    "alternateName": "CAUE",
+    "name": "conseil_darchitecture_durbanisme_et_de_lenvironnement_caue_nord",
+    "title": "Conseil d'architecture, d'urbanisme et de l'environnement (CAUE) - Nord",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/nord/caue-59350-01",
+    "metadata": {
+      "email": "contact@caue-nord.com",
+      "telephone": "03 20 57 67 67",
+      "url": "http://www.caue-nord.com/fr/portail/41/index.html"
+    }
+  },
+  {
+    "id": "9224c2a6c4cd8717fa5efa61f7f77528f637b383",
+    "alternateName": "CAUE",
+    "name": "conseil_darchitecture_durbanisme_et_de_lenvironnement_caue_oise",
+    "title": "Conseil d'architecture, d'urbanisme et de l'environnement (CAUE) - Oise",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/oise/caue-60057-01",
+    "metadata": {
+      "email": "caue60@wanadoo.fr",
+      "telephone": "03 44 82 14 14",
+      "url": "http://www.caue60.com/"
+    }
+  },
+  {
+    "id": "cbda30b8eb91f655d50763699162b80078fb996e",
+    "alternateName": "CAUE",
+    "name": "conseil_darchitecture_durbanisme_et_de_lenvironnement_caue_orne",
+    "title": "Conseil d'architecture, d'urbanisme et de l'environnement (CAUE) - Orne",
+    "url": "https://lannuaire.service-public.fr/normandie/orne/caue-61001-01",
+    "metadata": {
+      "email": "contact@caue61.fr",
+      "telephone": "02 33 26 14 14",
+      "url": "https://www.caue61.fr/"
+    }
+  },
+  {
+    "id": "031653b2ebcc7a85e290025a9b0c0a07ba16704a",
+    "alternateName": "CAUE",
+    "name": "conseil_darchitecture_durbanisme_et_de_lenvironnement_caue_paris",
+    "title": "Conseil d'architecture, d'urbanisme et de l'environnement (CAUE) - Paris",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/paris/caue-75104-01",
+    "metadata": {
+      "email": "contact@caue75.fr",
+      "telephone": "01 48 87 70 56",
+      "url": "http://www.caue75.fr/"
+    }
+  },
+  {
+    "id": "72a6b394af1d0b595db1c4a3a4cb401b15722e59",
+    "alternateName": "CAUE",
+    "name": "conseil_darchitecture_durbanisme_et_de_lenvironnement_caue_pas_de_calais",
+    "title": "Conseil d'architecture, d'urbanisme et de l'environnement (CAUE) - Pas-de-Calais",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/pas-de-calais/caue-62041-01",
+    "metadata": {
+      "email": "caue62@caue62.org",
+      "telephone": "03 21 21 65 65",
+      "url": "https://www.caue62.org/"
+    }
+  },
+  {
+    "id": "33ed9a22d7a42c0043e599bee3cf63556f331779",
+    "alternateName": "CAUE",
+    "name": "conseil_darchitecture_durbanisme_et_de_lenvironnement_caue_puy_de_dome",
+    "title": "Conseil d'architecture, d'urbanisme et de l'environnement (CAUE) - Puy-de-Dôme",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/puy-de-dome/caue-63113-01",
+    "metadata": {
+      "email": "contact@caue63.com",
+      "telephone": "04 73 42 21 20",
+      "url": "https://www.caue63.com/"
+    }
+  },
+  {
+    "id": "ccb08ffaeddf1b12e6b5ff8c778b08d475497ce9",
+    "alternateName": "CAUE",
+    "name": "conseil_darchitecture_durbanisme_et_de_lenvironnement_caue_pyrenees_atlantiques",
+    "title": "Conseil d'architecture, d'urbanisme et de l'environnement (CAUE) - Pyrénées-Atlantiques",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/pyrenees-atlantiques/caue-64445-01",
+    "metadata": {
+      "email": "contact@caue64.fr",
+      "telephone": "05 59 84 53 66",
+      "url": "http://www.caue64.fr/"
+    }
+  },
+  {
+    "id": "3c8d6778b6eb8ac411a8e74369ff156b2d907b09",
+    "alternateName": "CAUE",
+    "name": "conseil_darchitecture_durbanisme_et_de_lenvironnement_caue_pyrenees_orientales",
+    "title": "Conseil d'architecture, d'urbanisme et de l'environnement (CAUE) - Pyrénées-Orientales",
+    "url": "https://lannuaire.service-public.fr/occitanie/pyrenees-orientales/caue-66136-01",
+    "metadata": {
+      "email": "contact@caue66.fr",
+      "telephone": "04 68 34 12 37",
+      "url": "https://www.caue66.fr/"
+    }
+  },
+  {
+    "id": "474d2494d3e277d8012464ae36f17028c931f179",
+    "alternateName": "CAUE",
+    "name": "conseil_darchitecture_durbanisme_et_de_lenvironnement_caue_rhone",
+    "title": "Conseil d'architecture, d'urbanisme et de l'environnement (CAUE) - Rhône",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/rhone/caue-69123-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 72 07 44 55",
+      "url": "http://www.caue69.fr/"
+    }
+  },
+  {
+    "id": "4287b3fa9d3739a1b7a89783c292bece08e88504",
+    "alternateName": "CAUE",
+    "name": "conseil_darchitecture_durbanisme_et_de_lenvironnement_caue_saone_et_loire",
+    "title": "Conseil d'architecture, d'urbanisme et de l'environnement (CAUE) - Saône-et-Loire",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/saone-et-loire/caue-71306-01",
+    "metadata": {
+      "email": "contact@caue71.fr",
+      "telephone": "03 85 69 05 25",
+      "url": "https://www.caue71.fr/"
+    }
+  },
+  {
+    "id": "ab883c146a59496e458b36b355cba01096a671bc",
+    "alternateName": "CAUE",
+    "name": "conseil_darchitecture_durbanisme_et_de_lenvironnement_caue_sarthe",
+    "title": "Conseil d'architecture, d'urbanisme et de l'environnement (CAUE) - Sarthe",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/sarthe/caue-72181-01",
+    "metadata": {
+      "email": "caue.sarthe@wanadoo.fr",
+      "telephone": "02 43 72 35 31",
+      "url": "https://www.caue-sarthe.com/"
+    }
+  },
+  {
+    "id": "258e547f082143610ab5afc7288fb9763142d8b4",
+    "alternateName": "CAUE",
+    "name": "conseil_darchitecture_durbanisme_et_de_lenvironnement_caue_savoie",
+    "title": "Conseil d'architecture, d'urbanisme et de l'environnement (CAUE) - Savoie",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/savoie/caue-73065-01",
+    "metadata": {
+      "email": "caue@cauesavoie.org",
+      "telephone": "04 79 60 75 50",
+      "url": "http://www.cauesavoie.org/"
+    }
+  },
+  {
+    "id": "df58201affff5b8f1596096a8e4816bdfd919448",
+    "alternateName": "CAUE",
+    "name": "conseil_darchitecture_durbanisme_et_de_lenvironnement_caue_seine_et_marne",
+    "title": "Conseil d'architecture, d'urbanisme et de l'environnement (CAUE) - Seine-et-Marne",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/seine-et-marne/caue-77131-01",
+    "metadata": {
+      "email": "accueil@caue77.fr",
+      "telephone": "01 64 03 30 62",
+      "url": "http://www.caue77.fr/"
+    }
+  },
+  {
+    "id": "b90405edc2e6df284e616bc3a90f218f948d7ef9",
+    "alternateName": "CAUE",
+    "name": "conseil_darchitecture_durbanisme_et_de_lenvironnement_caue_seine_maritime",
+    "title": "Conseil d'architecture, d'urbanisme et de l'environnement (CAUE) - Seine-Maritime",
+    "url": "https://lannuaire.service-public.fr/normandie/seine-maritime/caue-76498-01",
+    "metadata": {
+      "email": "caue@caue76.org",
+      "telephone": "02 35 72 94 50",
+      "url": "http://www.caue76.org/"
+    }
+  },
+  {
+    "id": "07a83216ab783d3eb2ef72c5cb41a3c40a6a7340",
+    "alternateName": "CAUE",
+    "name": "conseil_darchitecture_durbanisme_et_de_lenvironnement_caue_seine_saint_denis",
+    "title": "Conseil d'architecture, d'urbanisme et de l'environnement (CAUE) - Seine-Saint-Denis",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/seine-saint-denis/caue-93055-01",
+    "metadata": {
+      "email": "caue93@caue93.fr",
+      "telephone": "01 48 32 25 93",
+      "url": "http://www.caue93.fr/"
+    }
+  },
+  {
+    "id": "0f6033759c82835f7d3be06e4f45e67628a4ca52",
+    "alternateName": "CAUE",
+    "name": "conseil_darchitecture_durbanisme_et_de_lenvironnement_caue_somme",
+    "title": "Conseil d'architecture, d'urbanisme et de l'environnement (CAUE) - Somme",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/somme/caue-80021-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 22 91 11 65",
+      "url": "http://www.caue80.fr/"
+    }
+  },
+  {
+    "id": "16eda6337c325f24ed9d3c6f2e977b9dce5da34c",
+    "alternateName": "CAUE",
+    "name": "conseil_darchitecture_durbanisme_et_de_lenvironnement_caue_tarn",
+    "title": "Conseil d'architecture, d'urbanisme et de l'environnement (CAUE) - Tarn",
+    "url": "https://lannuaire.service-public.fr/occitanie/tarn/caue-81004-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 63 60 16 70",
+      "url": "https://www.les-caue-occitanie.fr/tarn"
+    }
+  },
+  {
+    "id": "99ccacc2b33373b3e1b1416b4fe065ae871dcd72",
+    "alternateName": "CAUE",
+    "name": "conseil_darchitecture_durbanisme_et_de_lenvironnement_caue_tarn_et_garonne",
+    "title": "Conseil d'architecture, d'urbanisme et de l'environnement (CAUE) - Tarn-et-Garonne",
+    "url": "https://lannuaire.service-public.fr/occitanie/tarn-et-garonne/caue-82121-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 63 03 80 88",
+      "url": "http://www.caue-mp.fr/82-tarn-et-garonne-actualite-principale/itemid-31.html"
+    }
+  },
+  {
+    "id": "736c38a1878335f67ab0ff8d3ae15694f709dec3",
+    "alternateName": "CAUE",
+    "name": "conseil_darchitecture_durbanisme_et_de_lenvironnement_caue_val_d_oise",
+    "title": "Conseil d'architecture, d'urbanisme et de l'environnement (CAUE) - Val-d'Oise",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/val-d-oise/caue-95500-01",
+    "metadata": {
+      "email": "caue95@caue95.org",
+      "telephone": "01 30 38 68 68",
+      "url": "http://www.caue95.org/"
+    }
+  },
+  {
+    "id": "9f92624c039f16fa1a29255d59049c679aa89520",
+    "alternateName": "CAUE",
+    "name": "conseil_darchitecture_durbanisme_et_de_lenvironnement_caue_val_de_marne",
+    "title": "Conseil d'architecture, d'urbanisme et de l'environnement (CAUE) - Val-de-Marne",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/val-de-marne/caue-94046-01",
+    "metadata": {
+      "email": "contact@caue94.fr",
+      "telephone": "01 48 52 55 20",
+      "url": "http://www.caue94.fr/"
+    }
+  },
+  {
+    "id": "38c1b7b16b68a58c6ba0ac91d414689ab84a6c62",
+    "alternateName": "CAUE",
+    "name": "conseil_darchitecture_durbanisme_et_de_lenvironnement_caue_var",
+    "title": "Conseil d'architecture, d'urbanisme et de l'environnement (CAUE) - Var",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/var/caue-83137-01",
+    "metadata": {
+      "email": "contact@cauevar.fr",
+      "telephone": "04 94 22 65 75",
+      "url": "http://www.cauevar.fr"
+    }
+  },
+  {
+    "id": "b6df0808acfc4dbc30259c554bc506c726228bd3",
+    "alternateName": "CAUE",
+    "name": "conseil_darchitecture_durbanisme_et_de_lenvironnement_caue_vaucluse",
+    "title": "Conseil d'architecture, d'urbanisme et de l'environnement (CAUE) - Vaucluse",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/vaucluse/caue-84007-01",
+    "metadata": {
+      "email": "secretariat@caue84.fr",
+      "telephone": "04 90 13 49 50",
+      "url": "http://www.caue84.fr/"
+    }
+  },
+  {
+    "id": "aa06bcb097625f9be91b86a93b1c32242c3525f6",
+    "alternateName": "CAUE",
+    "name": "conseil_darchitecture_durbanisme_et_de_lenvironnement_caue_vendee",
+    "title": "Conseil d'architecture, d'urbanisme et de l'environnement (CAUE) - Vendée",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/vendee/caue-85191-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 51 37 44 95",
+      "url": "https://www.caue85.com/"
+    }
+  },
+  {
+    "id": "06d2a24ec9d1463ab8556428dde0dd3916afba80",
+    "alternateName": "CAUE",
+    "name": "conseil_darchitecture_durbanisme_et_de_lenvironnement_caue_vienne",
+    "title": "Conseil d'architecture, d'urbanisme et de l'environnement (CAUE) - Vienne",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/vienne/caue-86062-7",
+    "metadata": {
+      "email": "",
+      "telephone": "05 49 49 91 83",
+      "url": "https://www.caue86.fr/"
+    }
+  },
+  {
+    "id": "c5994b8d22e74651369d2fdd69953684b9ac738f",
+    "alternateName": "CAUE",
+    "name": "conseil_darchitecture_durbanisme_et_de_lenvironnement_caue_vosges",
+    "title": "Conseil d'architecture, d'urbanisme et de l'environnement (CAUE) - Vosges",
+    "url": "https://lannuaire.service-public.fr/grand-est/vosges/caue-88160-01",
+    "metadata": {
+      "email": "caue88@vosges.fr",
+      "telephone": "03 29 29 89 40",
+      "url": "http://www.caue88.com"
+    }
+  },
+  {
+    "id": "2723386eb9a6248756ef4dfb063df6c5a0869289",
+    "alternateName": "CAUE",
+    "name": "conseil_darchitecture_durbanisme_et_de_lenvironnement_caue_yonne",
+    "title": "Conseil d'architecture, d'urbanisme et de l'environnement (CAUE) - Yonne",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/yonne/caue-89024-01",
+    "metadata": {
+      "email": "accueil@caue89.fr",
+      "telephone": "03 58 43 80 33",
+      "url": "https://www.caue89.fr/"
+    }
+  },
+  {
+    "id": "d35739963b03044a7ed54548b528a4defab1d4cc",
+    "alternateName": "CAUE",
+    "name": "conseil_darchitecture_durbanisme_et_de_lenvironnement_caue_yvelines",
+    "title": "Conseil d'architecture, d'urbanisme et de l'environnement (CAUE) - Yvelines",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/yvelines/caue-78423-01",
+    "metadata": {
+      "email": "caue78@caue78.com",
+      "telephone": "",
+      "url": "http://www.caue78.fr/"
+    }
+  }
+]

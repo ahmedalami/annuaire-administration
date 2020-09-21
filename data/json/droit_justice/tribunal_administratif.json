@@ -1,0 +1,431 @@
+[
+  {
+    "id": "c1990f19e5ab784456a6164f274f6ac539294de8",
+    "name": "tribunal_administratif_amiens",
+    "title": "Tribunal administratif - Amiens",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/somme/ta-80021-01",
+    "metadata": {
+      "email": "greffe.ta-amiens@juradm.fr",
+      "telephone": "03 22 33 61 70",
+      "url": "http://amiens.tribunal-administratif.fr"
+    }
+  },
+  {
+    "id": "952bd4cdb12f3966f5da66d4e422e4fd53841c97",
+    "name": "tribunal_administratif_bastia",
+    "title": "Tribunal administratif - Bastia",
+    "url": "https://lannuaire.service-public.fr/corse/haute-corse/ta-2B033-01",
+    "metadata": {
+      "email": "greffe.ta-bastia@juradm.fr",
+      "telephone": "04 95 32 88 66",
+      "url": "http://bastia.tribunal-administratif.fr"
+    }
+  },
+  {
+    "id": "167dd5e88b9074fe8af5642a106ff7fdf546cea0",
+    "name": "tribunal_administratif_besancon",
+    "title": "Tribunal administratif - Besançon",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/doubs/ta-25056-01",
+    "metadata": {
+      "email": "greffe.ta-besancon@juradm.fr",
+      "telephone": "03 81 82 60 00",
+      "url": "http://besancon.tribunal-administratif.fr"
+    }
+  },
+  {
+    "id": "2da2cbf395ac63a267f9777bc2089f5c7ec1f47c",
+    "name": "tribunal_administratif_bordeaux",
+    "title": "Tribunal administratif - Bordeaux",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/gironde/ta-33063-01",
+    "metadata": {
+      "email": "greffe.ta-bordeaux@juradm.fr",
+      "telephone": "05 56 99 38 00",
+      "url": "http://bordeaux.tribunal-administratif.fr"
+    }
+  },
+  {
+    "id": "c848eeba5539fc8415d86e5a8fc86e3871362c03",
+    "name": "tribunal_administratif_caen",
+    "title": "Tribunal administratif - Caen",
+    "url": "https://lannuaire.service-public.fr/normandie/calvados/ta-14118-01",
+    "metadata": {
+      "email": "greffe.ta-caen@juradm.fr",
+      "telephone": "02 31 70 72 72",
+      "url": "http://caen.tribunal-administratif.fr"
+    }
+  },
+  {
+    "id": "51f6cad7b930a0778f7a5e10b98bf0d8e71d45c6",
+    "name": "tribunal_administratif_cergy_pontoise",
+    "title": "Tribunal administratif - Cergy-Pontoise",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/val-d-oise/ta-95127-01",
+    "metadata": {
+      "email": "greffe.ta-cergy-pontoise@juradm.fr",
+      "telephone": "01 30 17 34 00",
+      "url": "http://cergy-pontoise.tribunal-administratif.fr"
+    }
+  },
+  {
+    "id": "c5ca4360d528876fb0fc0abeda46dc40ca1f6a48",
+    "name": "tribunal_administratif_chalons_en_champagne",
+    "title": "Tribunal administratif - Châlons-en-Champagne",
+    "url": "https://lannuaire.service-public.fr/grand-est/marne/ta-51108-01",
+    "metadata": {
+      "email": "greffe.ta-chalons-en-champagne@juradm.fr",
+      "telephone": "03 26 66 86 87",
+      "url": "http://chalons-en-champagne.tribunal-administratif.fr"
+    }
+  },
+  {
+    "id": "d8b4f82d92f65395dd3e64f57d08c659fb170325",
+    "name": "tribunal_administratif_clermont_ferrand",
+    "title": "Tribunal administratif - Clermont-Ferrand",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/puy-de-dome/ta-63113-01",
+    "metadata": {
+      "email": "greffe.ta-clermont-ferrand@juradm.fr",
+      "telephone": "04 73 14 61 00",
+      "url": "http://clermont-ferrand.tribunal-administratif.fr"
+    }
+  },
+  {
+    "id": "52e0fcf85e14115cbf3b3b255bc6c98093d9900c",
+    "name": "tribunal_administratif_dijon",
+    "title": "Tribunal administratif - Dijon",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/cote-d-or/ta-21231-01",
+    "metadata": {
+      "email": "greffe.ta-dijon@juradm.fr",
+      "telephone": "03 80 73 91 00",
+      "url": "http://dijon.tribunal-administratif.fr"
+    }
+  },
+  {
+    "id": "0c0a3acac928b4b3f95a63513206b319a03791b9",
+    "name": "tribunal_administratif_grenoble",
+    "title": "Tribunal administratif - Grenoble",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/isere/ta-38185-01",
+    "metadata": {
+      "email": "greffe.ta-grenoble@juradm.fr",
+      "telephone": "04 76 42 90 00",
+      "url": "http://grenoble.tribunal-administratif.fr"
+    }
+  },
+  {
+    "id": "0484c1474484337958a45789f4ed361c4f0ba7eb",
+    "name": "tribunal_administratif_guadeloupe",
+    "title": "Tribunal administratif - Guadeloupe",
+    "url": "https://lannuaire.service-public.fr/guadeloupe/guadeloupe/ta-97105-01",
+    "metadata": {
+      "email": "greffe.ta-basse-terre@juradm.fr",
+      "telephone": "+590 5 90 81 45 38",
+      "url": "http://basse-terre.tribunal-administratif.fr"
+    }
+  },
+  {
+    "id": "1016b3666de5f41f6d698980259b6b820247fe3f",
+    "name": "tribunal_administratif_guyane",
+    "title": "Tribunal administratif - Guyane",
+    "url": "https://lannuaire.service-public.fr/guyane/guyane/ta-97302-01",
+    "metadata": {
+      "email": "greffe.ta-cayenne@juradm.fr",
+      "telephone": "+594 5 94 25 49 70",
+      "url": "http://cayenne.tribunal-administratif.fr"
+    }
+  },
+  {
+    "id": "9762b15b82551c4486ec90584ebd672ca4d654bb",
+    "name": "tribunal_administratif_la_reunion",
+    "title": "Tribunal administratif - La Réunion",
+    "url": "https://lannuaire.service-public.fr/la-reunion/reunion/ta-97411-01",
+    "metadata": {
+      "email": "greffe.ta-saint-denis@juradm.fr",
+      "telephone": "+262 2 62 92 43 60",
+      "url": "http://la-reunion.tribunal-administratif.fr"
+    }
+  },
+  {
+    "id": "a260cba33cc937767a32715531e5a461491ac3a4",
+    "name": "tribunal_administratif_lille",
+    "title": "Tribunal administratif - Lille",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/nord/ta-59350-01",
+    "metadata": {
+      "email": "greffe.ta-lille@juradm.fr",
+      "telephone": "03 59 54 23 42",
+      "url": "http://lille.tribunal-administratif.fr"
+    }
+  },
+  {
+    "id": "75ca49c5dbc3471c5383419bb727388e052c25f6",
+    "name": "tribunal_administratif_limoges",
+    "title": "Tribunal administratif - Limoges",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/haute-vienne/ta-87085-01",
+    "metadata": {
+      "email": "greffe.ta-limoges@juradm.fr",
+      "telephone": "05 55 33 91 55",
+      "url": "http://limoges.tribunal-administratif.fr"
+    }
+  },
+  {
+    "id": "45806bf83b28395ca2bab61b7fb975487a855b14",
+    "name": "tribunal_administratif_lyon",
+    "title": "Tribunal administratif - Lyon",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/rhone/ta-69383-01",
+    "metadata": {
+      "email": "greffe.ta-lyon@juradm.fr",
+      "telephone": "04 78 14 10 10",
+      "url": "http://lyon.tribunal-administratif.fr"
+    }
+  },
+  {
+    "id": "558cf7f8d28f1aee4cc4e4c32fc7b8faf3f5de50",
+    "name": "tribunal_administratif_marseille",
+    "title": "Tribunal administratif - Marseille",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/ta-13206-01",
+    "metadata": {
+      "email": "greffe.ta-marseille@juradm.fr",
+      "telephone": "04 91 13 48 13",
+      "url": "http://marseille.tribunal-administratif.fr"
+    }
+  },
+  {
+    "id": "488fc41b46b7681ff60a3bb31b322b17835867af",
+    "name": "tribunal_administratif_martinique",
+    "title": "Tribunal administratif - Martinique",
+    "url": "https://lannuaire.service-public.fr/martinique/martinique/ta-97229-01",
+    "metadata": {
+      "email": "greffe.ta-fort-de-france@juradm.fr",
+      "telephone": "+596 5 96 71 66 67",
+      "url": "http://martinique.tribunal-administratif.fr"
+    }
+  },
+  {
+    "id": "30aa881155e4fbb68a69de317a64a2ed46529e72",
+    "name": "tribunal_administratif_mayotte",
+    "title": "Tribunal administratif - Mayotte",
+    "url": "https://lannuaire.service-public.fr/mayotte/mayotte/ta-97611-01",
+    "metadata": {
+      "email": "greffe.ta-mayotte@juradm.fr",
+      "telephone": "+269 2 69 61 18 56",
+      "url": "http://mayotte.tribunal-administratif.fr"
+    }
+  },
+  {
+    "id": "03681003294df75270dfddbdd225bfece4b0788a",
+    "name": "tribunal_administratif_melun",
+    "title": "Tribunal administratif - Melun",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/seine-et-marne/ta-77288-01",
+    "metadata": {
+      "email": "",
+      "telephone": "01 60 56 66 30",
+      "url": "http://melun.tribunal-administratif.fr"
+    }
+  },
+  {
+    "id": "8ace57e1139474ab32d3377a4553ce2e4a04953e",
+    "name": "tribunal_administratif_montpellier",
+    "title": "Tribunal administratif - Montpellier",
+    "url": "https://lannuaire.service-public.fr/occitanie/herault/ta-34172-01",
+    "metadata": {
+      "email": "greffe.ta-montpellier@juradm.fr",
+      "telephone": "04 67 54 81 00",
+      "url": "http://montpellier.tribunal-administratif.fr"
+    }
+  },
+  {
+    "id": "51eb8309f2f7e68b26830c845fdc6ec82e347ece",
+    "name": "tribunal_administratif_montreuil",
+    "title": "Tribunal administratif - Montreuil",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/seine-saint-denis/ta-93048-01",
+    "metadata": {
+      "email": "greffe.ta-montreuil@juradm.fr",
+      "telephone": "01 49 20 20 00",
+      "url": "http://montreuil.tribunal-administratif.fr"
+    }
+  },
+  {
+    "id": "144fab034576cf0d014249c2266c6783e4400e32",
+    "name": "tribunal_administratif_nancy",
+    "title": "Tribunal administratif - Nancy",
+    "url": "https://lannuaire.service-public.fr/grand-est/meurthe-et-moselle/ta-54395-01",
+    "metadata": {
+      "email": "greffe.ta-nancy@juradm.fr",
+      "telephone": "03 83 17 43 43",
+      "url": "http://nancy.tribunal-administratif.fr"
+    }
+  },
+  {
+    "id": "11db31460c82e6ff730e4a2071df8f9995411e5e",
+    "name": "tribunal_administratif_nantes",
+    "title": "Tribunal administratif - Nantes",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/loire-atlantique/ta-44109-01",
+    "metadata": {
+      "email": "greffe.ta-nantes@juradm.fr",
+      "telephone": "02 40 99 46 00",
+      "url": "http://nantes.tribunal-administratif.fr"
+    }
+  },
+  {
+    "id": "2cae826dff5d1a7c67a44ba1074483ab46301a04",
+    "name": "tribunal_administratif_nice",
+    "title": "Tribunal administratif - Nice",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/alpes-maritimes/ta-06088-01",
+    "metadata": {
+      "email": "greffe.ta-nice@juradm.fr",
+      "telephone": "04 89 97 86 00",
+      "url": "http://nice.tribunal-administratif.fr"
+    }
+  },
+  {
+    "id": "6ab78cad736ca6f0cd1c4571c444d225b6ae96d5",
+    "name": "tribunal_administratif_nimes",
+    "title": "Tribunal administratif - Nîmes",
+    "url": "https://lannuaire.service-public.fr/occitanie/gard/ta-30189-01",
+    "metadata": {
+      "email": "greffe.ta-nimes@juradm.fr",
+      "telephone": "04 66 27 37 00",
+      "url": "http://nimes.tribunal-administratif.fr"
+    }
+  },
+  {
+    "id": "7ffa03ae34ce2ed7077de7fa9c0fddb293fc1141",
+    "name": "tribunal_administratif_nouvelle_caledonie",
+    "title": "Tribunal administratif - Nouvelle-Calédonie",
+    "url": "https://lannuaire.service-public.fr/collectivites-d-outre-mer/nouvelle-caledonie/ta-98818-01",
+    "metadata": {
+      "email": "greffe.ta-noumea@juradm.fr",
+      "telephone": "+687 25 06 30",
+      "url": "http://nouvelle-caledonie.tribunal-administratif.fr"
+    }
+  },
+  {
+    "id": "69b259624b750c2f1c114473654a0c0da7244182",
+    "name": "tribunal_administratif_orleans",
+    "title": "Tribunal administratif - Orléans",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/loiret/ta-45234-01",
+    "metadata": {
+      "email": "greffe.ta-orleans@juradm.fr",
+      "telephone": "02 38 77 59 00",
+      "url": "http://orleans.tribunal-administratif.fr"
+    }
+  },
+  {
+    "id": "9c0a0b76fcc1e01a75de18f9158af5e1802b9215",
+    "name": "tribunal_administratif_paris",
+    "title": "Tribunal administratif - Paris",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/paris/ta-75104-01",
+    "metadata": {
+      "email": "greffe.ta-paris@juradm.fr",
+      "telephone": "01 44 59 44 00",
+      "url": "http://paris.tribunal-administratif.fr"
+    }
+  },
+  {
+    "id": "beeba09152f614feaf9938ea7ebf47a9b5eedc2f",
+    "name": "tribunal_administratif_pau",
+    "title": "Tribunal administratif - Pau",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/pyrenees-atlantiques/ta-64445-01",
+    "metadata": {
+      "email": "greffe.ta-pau@juradm.fr",
+      "telephone": "05 59 84 94 40",
+      "url": "http://pau.tribunal-administratif.fr"
+    }
+  },
+  {
+    "id": "e03717bedaa45bba39337529644854e6d2149d4d",
+    "name": "tribunal_administratif_poitiers",
+    "title": "Tribunal administratif - Poitiers",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/vienne/ta-86194-01",
+    "metadata": {
+      "email": "greffe.ta-poitiers@juradm.fr",
+      "telephone": "05 49 60 79 19",
+      "url": "http://poitiers.tribunal-administratif.fr"
+    }
+  },
+  {
+    "id": "29f300cac4a934ab13854a105ffa88908298a6f5",
+    "name": "tribunal_administratif_polynesie_francaise",
+    "title": "Tribunal administratif - Polynésie française",
+    "url": "https://lannuaire.service-public.fr/collectivites-d-outre-mer/polynesie-francaise/ta-98735-01",
+    "metadata": {
+      "email": "tadelapolynesidfrancaise@mail.pf",
+      "telephone": "+689 40 50 90 25",
+      "url": "http://polynesie-francaise.tribunal-administratif.fr"
+    }
+  },
+  {
+    "id": "52a3676badc62de3a599b5d4b22876c1f5cafd8f",
+    "name": "tribunal_administratif_rennes",
+    "title": "Tribunal administratif - Rennes",
+    "url": "https://lannuaire.service-public.fr/bretagne/ille-et-vilaine/ta-35238-01",
+    "metadata": {
+      "email": "greffe.ta-rennes@juradm.fr",
+      "telephone": "02 23 21 28 28",
+      "url": "http://rennes.tribunal-administratif.fr"
+    }
+  },
+  {
+    "id": "ce7d6b5047cf2c3ee8bfae5943423474db20dd86",
+    "name": "tribunal_administratif_rouen",
+    "title": "Tribunal administratif - Rouen",
+    "url": "https://lannuaire.service-public.fr/normandie/seine-maritime/ta-76540-01",
+    "metadata": {
+      "email": "greffe.ta-rouen@juradm.fr",
+      "telephone": "02 35 58 35 00",
+      "url": "http://rouen.tribunal-administratif.fr"
+    }
+  },
+  {
+    "id": "7ba46990b18623c751b99282f95d0f39933bfb48",
+    "name": "tribunal_administratif_saint_pierre_et_miquelon",
+    "title": "Tribunal administratif - Saint-Pierre-et-Miquelon",
+    "url": "https://lannuaire.service-public.fr/collectivites-d-outre-mer/saint-pierre-et-miquelon/ta-97502-01",
+    "metadata": {
+      "email": "",
+      "telephone": "+508 41 10 30",
+      "url": "http://saint-pierre-et-miquelon.tribunal-administratif.fr"
+    }
+  },
+  {
+    "id": "654629c98d88d1dd3567cb62ece6b823b2538696",
+    "name": "tribunal_administratif_strasbourg",
+    "title": "Tribunal administratif - Strasbourg",
+    "url": "https://lannuaire.service-public.fr/grand-est/bas-rhin/ta-67482-01",
+    "metadata": {
+      "email": "greffe.ta-strasbourg@juradm.fr",
+      "telephone": "03 88 21 23 23",
+      "url": "http://strasbourg.tribunal-administratif.fr"
+    }
+  },
+  {
+    "id": "751bd659d5b0ee837132c886b85f12103a9b3451",
+    "name": "tribunal_administratif_toulon",
+    "title": "Tribunal administratif - Toulon",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/var/ta-83137-01",
+    "metadata": {
+      "email": "greffe.ta-toulon@juradm.fr",
+      "telephone": "04 94 42 79 30",
+      "url": "http://toulon.tribunal-administratif.fr"
+    }
+  },
+  {
+    "id": "e85cb0ecb5156d941177c33fe8d58fe4bd026c6c",
+    "name": "tribunal_administratif_toulouse",
+    "title": "Tribunal administratif - Toulouse",
+    "url": "https://lannuaire.service-public.fr/occitanie/haute-garonne/ta-31555-01",
+    "metadata": {
+      "email": "greffe.ta-toulouse@juradm.fr",
+      "telephone": "05 62 73 57 57",
+      "url": "http://toulouse.tribunal-administratif.fr"
+    }
+  },
+  {
+    "id": "4f6a789dfcfd04a3cfbdfc3723f049cd9d0a9523",
+    "name": "tribunal_administratif_versailles",
+    "title": "Tribunal administratif - Versailles",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/yvelines/ta-78646-01",
+    "metadata": {
+      "email": "greffe.ta-versailles@juradm.fr",
+      "telephone": "01 39 20 54 00",
+      "url": "http://versailles.tribunal-administratif.fr"
+    }
+  }
+]

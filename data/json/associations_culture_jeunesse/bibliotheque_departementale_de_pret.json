@@ -1,0 +1,1036 @@
+[
+  {
+    "id": "cbfeefc375e73c3256a6521fcb4de832ce9cd003",
+    "name": "bibliotheque_departementale_ain",
+    "title": "Bibliothèque départementale - Ain",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/ain/bibli-01053-01",
+    "metadata": {
+      "email": "bdpain@ain.fr",
+      "telephone": "04 74 25 22 06",
+      "url": "https://lecture.ain.fr/"
+    }
+  },
+  {
+    "id": "260cb5a181cca8b22b4838999aed822be4a4451b",
+    "name": "bibliotheque_departementale_aisne",
+    "title": "Bibliothèque départementale - Aisne",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/aisne/bibli-02408-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 23 24 98 30",
+      "url": "http://bibliotheque.aisne.com"
+    }
+  },
+  {
+    "id": "3ec7c46a06a534587bf47ffc6cf6d99435e4537c",
+    "name": "bibliotheque_departementale_ardeche",
+    "title": "Bibliothèque départementale - Ardèche",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/ardeche/bibli-07186-01",
+    "metadata": {
+      "email": "bibliotheque.departementale@ardeche.fr",
+      "telephone": "04 75 66 05 90",
+      "url": "http://lecture.ardeche.fr/exploitation/"
+    }
+  },
+  {
+    "id": "fc408dffb01e2d1b0070094ece3ab8e61d6751be",
+    "name": "bibliotheque_departementale_ardennes",
+    "title": "Bibliothèque départementale - Ardennes",
+    "url": "https://lannuaire.service-public.fr/grand-est/ardennes/bibli-08105-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 24 56 03 76",
+      "url": "https://bda.cd08.fr/"
+    }
+  },
+  {
+    "id": "5f0d41ca32205a68e13154193b2513071e9aeb98",
+    "name": "bibliotheque_departementale_ariege",
+    "title": "Bibliothèque départementale - Ariège",
+    "url": "https://lannuaire.service-public.fr/occitanie/ariege/bibli-09122-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 34 09 81 30",
+      "url": "http://bda.ariege.fr/"
+    }
+  },
+  {
+    "id": "8e3eb3fcbb89030d44361824fd5e18f36043e3e0",
+    "name": "bibliotheque_departementale_aube",
+    "title": "Bibliothèque départementale - Aube",
+    "url": "https://lannuaire.service-public.fr/grand-est/aube/bibli-10333-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 25 82 58 21",
+      "url": "http://www.aube.fr/Annuaire/30/21-carte-interactive.htm"
+    }
+  },
+  {
+    "id": "44a998357c89de807c61801fc04da2fc50815ee6",
+    "name": "bibliotheque_departementale_aude",
+    "title": "Bibliothèque départementale - Aude",
+    "url": "https://lannuaire.service-public.fr/occitanie/aude/bibli-11069-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 68 11 66 77",
+      "url": "https://audealaculture.fr/jutilise-les-ressources-et-les-services-de-la-bibliotheque-departementale-de-laude-0"
+    }
+  },
+  {
+    "id": "1296a82dc53a1ed83eee765790eb24fb9ffc9d45",
+    "name": "bibliotheque_departementale_bas_rhin",
+    "title": "Bibliothèque départementale - Bas-Rhin",
+    "url": "https://lannuaire.service-public.fr/grand-est/bas-rhin/bibli-67495-01",
+    "metadata": {
+      "email": "acc.bdbr@bas-rhin.fr",
+      "telephone": "03 69 33 23 50",
+      "url": "http://biblio.bas-rhin.fr/"
+    }
+  },
+  {
+    "id": "197ce1be8a03939b89a4d70567c5dca5797bdbd6",
+    "name": "bibliotheque_departementale_bouches_du_rhone",
+    "title": "Bibliothèque départementale - Bouches-du-Rhône",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/bibli-13203-01",
+    "metadata": {
+      "email": "biblio13@departement13.fr",
+      "telephone": "04 13 31 82 00",
+      "url": "http://www.biblio13.fr/biblio13/home.html"
+    }
+  },
+  {
+    "id": "d39cef4e07fecbf3d95651ccdd8f6d5a812feb42",
+    "name": "bibliotheque_departementale_calvados",
+    "title": "Bibliothèque départementale - Calvados",
+    "url": "https://lannuaire.service-public.fr/normandie/calvados/bibli-14530-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 31 78 78 87",
+      "url": "https://bibliotheque.calvados.fr/"
+    }
+  },
+  {
+    "id": "cd1b860f9dcd73f64024a3607cfe476d23981bc9",
+    "name": "bibliotheque_departementale_correze",
+    "title": "Bibliothèque départementale - Corrèze",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/correze/bibli-19272-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 19 07 84 30",
+      "url": "http://bdp.correze.fr/opacwebaloes/index.aspx"
+    }
+  },
+  {
+    "id": "8d51f4214819e3eb05c6377dfe1468424760d3b9",
+    "name": "bibliotheque_departementale_corse_du_sud",
+    "title": "Bibliothèque départementale - Corse-du-Sud",
+    "url": "https://lannuaire.service-public.fr/corse/corse-du-sud/bibli-2A004-01",
+    "metadata": {
+      "email": "bdp@corsedusud.fr",
+      "telephone": "04 95 23 61 71",
+      "url": "http://biblio.cg-corsedusud.fr/exploitation/"
+    }
+  },
+  {
+    "id": "f6813bc10af15c1a05c2afbad16ca08323e26b5a",
+    "name": "bibliotheque_departementale_cotes_d_armor",
+    "title": "Bibliothèque départementale - Côtes-d'Armor",
+    "url": "https://lannuaire.service-public.fr/bretagne/cotes-d-armor/bibli-22187-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 96 74 51 05",
+      "url": "http://bca.cotesdarmor.fr/la-bca.aspx"
+    }
+  },
+  {
+    "id": "4646cebf8c824aaed1137c35f430fe1794fd9223",
+    "name": "bibliotheque_departementale_creuse",
+    "title": "Bibliothèque départementale - Creuse",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/creuse/bibli-23096-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 44 30 26 26",
+      "url": "https://biblio.creuse.fr"
+    }
+  },
+  {
+    "id": "3cf47e8aa478dd92f7274a49d113f2bffff8d5aa",
+    "name": "bibliotheque_departementale_dordogne",
+    "title": "Bibliothèque départementale - Dordogne",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/dordogne/bibli-24322-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 53 02 03 00",
+      "url": "http://biblio.dordogne.fr/"
+    }
+  },
+  {
+    "id": "ca9500874910e162dc78d14758a95ed96f97e85f",
+    "name": "bibliotheque_departementale_drome",
+    "title": "Bibliothèque départementale - Drôme",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/drome/bibli-26362-01",
+    "metadata": {
+      "email": "mbaudiere@ladrome.fr",
+      "telephone": "04 75 78 41 90",
+      "url": "https://mediatheque.ladrome.fr"
+    }
+  },
+  {
+    "id": "2ae15d45b5d7ab19778d7af87f2538d86f30cb61",
+    "name": "bibliotheque_departementale_essonne",
+    "title": "Bibliothèque départementale - Essonne",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/essonne/bibli-91228-01",
+    "metadata": {
+      "email": "bde@cd-essonne.fr",
+      "telephone": "01 60 77 63 58",
+      "url": "https://bde.essonne91.fr"
+    }
+  },
+  {
+    "id": "03bb441a5ceab78b8738a17d289fd1526e443da0",
+    "name": "bibliotheque_departementale_eure_et_loir",
+    "title": "Bibliothèque départementale - Eure-et-Loir",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/eure-et-loir/bibli-28085-01",
+    "metadata": {
+      "email": "bdel@eurelien.fr",
+      "telephone": "02 37 18 31 70",
+      "url": "https://mediatheques.eurelien.fr/"
+    }
+  },
+  {
+    "id": "e1e381aab67e437daebabb7250d85f2c37676222",
+    "name": "bibliotheque_departementale_finistere",
+    "title": "Bibliothèque départementale - Finistère",
+    "url": "https://lannuaire.service-public.fr/bretagne/finistere/bibli-29232-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 98 95 88 12",
+      "url": "http://biblio.finistere.fr/"
+    }
+  },
+  {
+    "id": "22b16123942fe640495c7b06f17e5a04257e0bad",
+    "name": "bibliotheque_departementale_gard",
+    "title": "Bibliothèque départementale - Gard",
+    "url": "https://lannuaire.service-public.fr/occitanie/gard/bibli-30189-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 66 23 01 88",
+      "url": "http://www.biblio.gard.fr/"
+    }
+  },
+  {
+    "id": "2dbf4e24e28fdb4c00186a9576f3fb77e4b84741",
+    "name": "bibliotheque_departementale_gironde",
+    "title": "Bibliothèque départementale - Gironde",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/gironde/bibli-33449-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 56 16 13 80",
+      "url": "http://biblio.gironde.fr/"
+    }
+  },
+  {
+    "id": "0c9c7405cc3e3f1a242b830ed94b6407db0e8fcc",
+    "name": "bibliotheque_departementale_guyane",
+    "title": "Bibliothèque départementale - Guyane",
+    "url": "https://lannuaire.service-public.fr/guyane/guyane/bibli-97302-01",
+    "metadata": {
+      "email": "bdp@ctguyane.fr",
+      "telephone": "0594 29 07 08",
+      "url": ""
+    }
+  },
+  {
+    "id": "d82f2f6d772ba22685b99a75efdb2589f1cfdda4",
+    "name": "bibliotheque_departementale_haute_loire",
+    "title": "Bibliothèque départementale - Haute-Loire",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/haute-loire/bibli-43157-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 71 02 17 00",
+      "url": "http://mediatheque.hauteloire.fr/"
+    }
+  },
+  {
+    "id": "01d6b59a81dda036894a42b31046d9c087df20c2",
+    "name": "bibliotheque_departementale_hautes_alpes",
+    "title": "Bibliothèque départementale - Hautes-Alpes",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/hautes-alpes/bibli-05061-01",
+    "metadata": {
+      "email": "ac-bdp@hautes-alpes.fr",
+      "telephone": "04 86 15 30 00",
+      "url": "https://bibliotheques.hautes-alpes.fr/"
+    }
+  },
+  {
+    "id": "830f11a559082849749238edfc4470a1369b36d9",
+    "name": "bibliotheque_departementale_haute_savoie",
+    "title": "Bibliothèque départementale - Haute-Savoie",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/haute-savoie/bibli-74112-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 50 33 21 99",
+      "url": "https://www.savoie-biblio.fr"
+    }
+  },
+  {
+    "id": "e943401ec3005e4acd672cd07c0fb84e6cd84f80",
+    "name": "bibliotheque_departementale_haute_vienne",
+    "title": "Bibliothèque départementale - Haute-Vienne",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/haute-vienne/bibli-87085-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 55 31 88 90",
+      "url": "http://www.haute-vienne.fr/conseil-departemental/ses-actions/culture/la-bibliotheque-departementale-de-pret/la-structure.html"
+    }
+  },
+  {
+    "id": "459ef9ba5c18addbdaa5cf04326af4e96f31c419",
+    "name": "bibliotheque_departementale_indre",
+    "title": "Bibliothèque départementale - Indre",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/indre/bibli-36044-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 54 27 29 24",
+      "url": "https://www.biblio36.fr/"
+    }
+  },
+  {
+    "id": "08270e8ceb65b25dd8692826320dc72a8a3c775f",
+    "name": "bibliotheque_departementale_indre_et_loire",
+    "title": "Bibliothèque départementale - Indre-et-Loire",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/indre-et-loire/bibli-37261-01",
+    "metadata": {
+      "email": "direction-lecture@cg37.fr",
+      "telephone": "02 47 54 74 02",
+      "url": "https://www.lirentouraine.com/missions-et-actions.html"
+    }
+  },
+  {
+    "id": "e22d2c25247967481f96c0f388476e03af864f25",
+    "name": "bibliotheque_departementale_la_reunion",
+    "title": "Bibliothèque départementale - La Réunion",
+    "url": "https://lannuaire.service-public.fr/la-reunion/reunion/bibli-01",
+    "metadata": {
+      "email": "bdr@cg974.fr",
+      "telephone": "0262 21 13 96",
+      "url": ""
+    }
+  },
+  {
+    "id": "62128823bb85e28da84ffab959af1e7bd5390589",
+    "name": "bibliotheque_departementale_loire_atlantique",
+    "title": "Bibliothèque départementale - Loire-Atlantique",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/loire-atlantique/bibli-44109-01",
+    "metadata": {
+      "email": "accueil.bdla@loire-atlantique.fr",
+      "telephone": "02 40 30 32 30",
+      "url": "https://www.loire-atlantique.fr"
+    }
+  },
+  {
+    "id": "83a9331c79205ef6d378bc57423cbf64b4729404",
+    "name": "bibliotheque_departementale_loir_et_cher",
+    "title": "Bibliothèque départementale - Loir-et-Cher",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/loir-et-cher/bibli-41018-01",
+    "metadata": {
+      "email": "dlp.contact@departement41.fr",
+      "telephone": "02 54 42 36 30",
+      "url": "http://lecture41.culture41.fr/"
+    }
+  },
+  {
+    "id": "8163109f193a3c721956c745c4d8bd1870705731",
+    "name": "bibliotheque_departementale_lot",
+    "title": "Bibliothèque départementale - Lot",
+    "url": "https://lannuaire.service-public.fr/occitanie/lot/bibli-46042-01",
+    "metadata": {
+      "email": "bibliotheque@lot.fr",
+      "telephone": "05 65 53 49 30",
+      "url": "https://lot.fr/bibliotheque-departementale-de-pret"
+    }
+  },
+  {
+    "id": "59ca86803bbd753869e8e7670749115a3dc78261",
+    "name": "bibliotheque_departementale_maine_et_loire",
+    "title": "Bibliothèque départementale - Maine-et-Loire",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/maine-et-loire/bibli-49015-01",
+    "metadata": {
+      "email": "accueil.bibliopole@maine-et-loire.fr",
+      "telephone": "02 41 33 03 20",
+      "url": "https://bibliopole.maine-et-loire.fr/bibliopole-le-reseau-de-lecture-du-departement/"
+    }
+  },
+  {
+    "id": "54160b23a4f5d17a66d29bbc0149d88f9086c7d9",
+    "name": "bibliotheque_departementale_manche",
+    "title": "Bibliothèque départementale - Manche",
+    "url": "https://lannuaire.service-public.fr/normandie/manche/bibli-50502-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 33 77 70 10",
+      "url": "https://biblio.manche.fr/"
+    }
+  },
+  {
+    "id": "deee66e43443da2b3d0b2adec2310e0743db883b",
+    "name": "bibliotheque_departementale_marne",
+    "title": "Bibliothèque départementale - Marne",
+    "url": "https://lannuaire.service-public.fr/grand-est/marne/bibli-51108-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 26 70 48 34",
+      "url": "http://bdm.marne.fr/index.php"
+    }
+  },
+  {
+    "id": "020051ff11c6586f6e6b0104186936612f09d7d7",
+    "name": "bibliotheque_departementale_martinique",
+    "title": "Bibliothèque départementale - Martinique",
+    "url": "https://lannuaire.service-public.fr/martinique/martinique/bibli-97209-01",
+    "metadata": {
+      "email": "Bdp@collectivitedemartinique.mq",
+      "telephone": "0596 55 43 71",
+      "url": ""
+    }
+  },
+  {
+    "id": "e340891299da1391a59aacaaebbe972c90ca0bf3",
+    "name": "bibliotheque_departementale_mayenne",
+    "title": "Bibliothèque départementale - Mayenne",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/mayenne/bibli-53201-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 43 01 20 70",
+      "url": "http://bdm.lamayenne.fr/index.php"
+    }
+  },
+  {
+    "id": "e4c83f6717351832a27b6a4e6839c162caae4a42",
+    "name": "bibliotheque_departementale_meuse",
+    "title": "Bibliothèque départementale - Meuse",
+    "url": "https://lannuaire.service-public.fr/grand-est/meuse/bibli-55029-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 29 45 09 04",
+      "url": "http://www.meuse.fr/page.php?url=culture-et-tourisme/bibliotheque-departementale"
+    }
+  },
+  {
+    "id": "249396c8c0811cec1646e81aad7b2b70bb50d4f1",
+    "name": "bibliotheque_departementale_moselle",
+    "title": "Bibliothèque départementale - Moselle",
+    "url": "https://lannuaire.service-public.fr/grand-est/moselle/bibli-57463-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 87 35 02 51",
+      "url": "http://www.cg57.fr"
+    }
+  },
+  {
+    "id": "f98a062eeaf38850f4835dd007d97172c52f2728",
+    "name": "bibliotheque_departementale_nievre",
+    "title": "Bibliothèque départementale - Nièvre",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/nievre/bibli-58303-01",
+    "metadata": {
+      "email": "bibliotheque@nievre.fr",
+      "telephone": "03 86 71 69 60",
+      "url": "https://www.bibliotheque.nievre.fr/"
+    }
+  },
+  {
+    "id": "c190d7ed0a1fb0ef88f5dcd1e8c28a98e34448e8",
+    "name": "bibliotheque_departementale_pyrenees_atlantiques",
+    "title": "Bibliothèque départementale - Pyrénées-Atlantiques",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/pyrenees-atlantiques/bibli-64445-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 59 14 43 80",
+      "url": "https://bibliotheque.le64.fr/public/catalogue"
+    }
+  },
+  {
+    "id": "34abc226182448efbe7d5783df0277266e75420b",
+    "name": "bibliotheque_departementale_saone_et_loire",
+    "title": "Bibliothèque départementale - Saône-et-Loire",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/saone-et-loire/bibli-71270-01",
+    "metadata": {
+      "email": "bdsl@saoneetloire71.fr",
+      "telephone": "03 85 20 55 71",
+      "url": "https://www.bibliotheques71.fr/"
+    }
+  },
+  {
+    "id": "05666e71fedb650a32fb93f7f7082712fc651e1d",
+    "name": "bibliotheque_departementale_sarthe",
+    "title": "Bibliothèque départementale - Sarthe",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/sarthe/bibli-72181-01",
+    "metadata": {
+      "email": "bds@sarthe.fr",
+      "telephone": "02 43 54 11 70",
+      "url": "http://biblio.sarthe.fr/"
+    }
+  },
+  {
+    "id": "cf7fb94cb4c31495690a9649a8143c96ba92dfaa",
+    "name": "bibliotheque_departementale_savoie",
+    "title": "Bibliothèque départementale - Savoie",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/savoie/bibli-73065-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 50 33 21 99",
+      "url": "https://www.savoie-biblio.fr"
+    }
+  },
+  {
+    "id": "caf70e29d3584ab4ff588f569705fa043c783e10",
+    "name": "bibliotheque_departementales_mayotte",
+    "title": "Bibliothèque départementales - Mayotte",
+    "url": "https://lannuaire.service-public.fr/mayotte/mayotte/bibli-97611-01",
+    "metadata": {
+      "email": "archives.mayotte@cg976.fr",
+      "telephone": "0269 64 93 52",
+      "url": "http://www.cg976.fr/votre-departement/linstitution/les-services-administratifs/pssp/dadds"
+    }
+  },
+  {
+    "id": "7f46e9562ac75d48314fdddc3ed73638ba087fb7",
+    "name": "bibliotheque_departementale_somme",
+    "title": "Bibliothèque départementale - Somme",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/somme/bibli-80021-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 22 71 97 00",
+      "url": "http://www.bibliotheque.somme.fr/"
+    }
+  },
+  {
+    "id": "fbd78a9432ed647dd2972f2a79d1fe3819c98bd6",
+    "name": "bibliotheque_departementale_val_d_oise",
+    "title": "Bibliothèque départementale - Val-d'Oise",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/val-d-oise/bibli-95500-01",
+    "metadata": {
+      "email": "bdvo@valdoise.fr",
+      "telephone": "01 34 33 85 85",
+      "url": "http://www.valdoise.fr/49-bdvo.htm"
+    }
+  },
+  {
+    "id": "b56e78653d68810113d42048f2d9e6e0e47a86cd",
+    "name": "bibliotheque_departementale_vaucluse",
+    "title": "Bibliothèque départementale - Vaucluse",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/vaucluse/bibli-84007-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 90 83 49 95",
+      "url": "http://sll.vaucluse.fr/"
+    }
+  },
+  {
+    "id": "c3fe417267b96f2f928dc6c56485e5f6f7e7bdab",
+    "name": "bibliotheque_departementale_vendee",
+    "title": "Bibliothèque départementale - Vendée",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/vendee/bibli-85191-01",
+    "metadata": {
+      "email": "bdv@vendee.fr",
+      "telephone": "02 28 85 79 00",
+      "url": "http://bibliotheque.vendee.fr/la-direction-des-bibliotheques.aspx#"
+    }
+  },
+  {
+    "id": "4163a607ce77c9c234587d9bcd94402783606548",
+    "name": "bibliotheque_departementale_vienne",
+    "title": "Bibliothèque départementale - Vienne",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/vienne/bibli-86194-01",
+    "metadata": {
+      "email": "bdv@departement86.fr",
+      "telephone": "05 49 61 40 65",
+      "url": "https://bdv.departement86.fr/"
+    }
+  },
+  {
+    "id": "a0122fae3bbd2600c33405bc7eb2dc20a46168e5",
+    "name": "medatheque_departementale_orne",
+    "title": "Médathèque départementale - Orne",
+    "url": "https://lannuaire.service-public.fr/normandie/orne/bibli-61001-01",
+    "metadata": {
+      "email": "mdo@orne.fr",
+      "telephone": "02 33 29 15 06",
+      "url": "http://www.mdo.orne.fr/"
+    }
+  },
+  {
+    "id": "2608511570292dec966c7e511cc16d97ca74f47b",
+    "name": "mediatheque_departementale_allier",
+    "title": "Médiathèque départementale - Allier",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/allier/bibli-03085-01",
+    "metadata": {
+      "email": "bda-coulandon@allier.fr",
+      "telephone": "04 70 44 50 60",
+      "url": "http://www.mediatheque.allier.fr"
+    }
+  },
+  {
+    "id": "2138bedf2756aa864009045a582300091c302595",
+    "name": "mediatheque_departementale_alpes_de_haute_provence",
+    "title": "Médiathèque départementale - Alpes-de-Haute-Provence",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/alpes-de-haute-provence/bibli-04070-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 92 32 62 20",
+      "url": "http://mediathequedepartementale.cg04.fr"
+    }
+  },
+  {
+    "id": "6e21858ba8b7a226e9f3f373b8d71bed02ff25dd",
+    "name": "mediatheque_departementale_alpes_maritimes",
+    "title": "Médiathèque départementale - Alpes-Maritimes",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/alpes-maritimes/bibli-06088-01",
+    "metadata": {
+      "email": "mediatheque-departementale@departement06.fr",
+      "telephone": "04 97 18 69 22",
+      "url": "https://www.mediatheque06.fr/"
+    }
+  },
+  {
+    "id": "8e0c8ed25ada18de93e5b84d9cc49a5d3374ca47",
+    "name": "mediatheque_departementale_aveyron",
+    "title": "Médiathèque départementale - Aveyron",
+    "url": "https://lannuaire.service-public.fr/occitanie/aveyron/bibli-12202-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 65 73 72 50",
+      "url": "https://aveyron.fr/"
+    }
+  },
+  {
+    "id": "e3428aa90bb9f86dc401fe6e17d83a2b58bf7670",
+    "name": "mediatheque_departementale_cantal",
+    "title": "Médiathèque départementale - Cantal",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/cantal/bibli-15014-01",
+    "metadata": {
+      "email": "culturecantal@cantal.fr",
+      "telephone": "04 71 63 52 94",
+      "url": "http://culture.cantal.fr/"
+    }
+  },
+  {
+    "id": "6dfea104ceddf971af70a09c41be5d3c4a8befa5",
+    "name": "mediatheque_departementale_charente_maritime",
+    "title": "Médiathèque départementale - Charente-Maritime",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/charente-maritime/bibli-17415-01",
+    "metadata": {
+      "email": "mediatheque.departementale@charente-maritime.fr",
+      "telephone": "05 46 95 04 07",
+      "url": "https://md17.charente-maritime.fr"
+    }
+  },
+  {
+    "id": "aa347bb4d391311d84d2abb936b8a4868f4cb82e",
+    "name": "mediatheque_departementale_cher",
+    "title": "Médiathèque départementale - Cher",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/cher/bibli-18033-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02.48.55.82.80",
+      "url": "http://lecturepublique18.fr"
+    }
+  },
+  {
+    "id": "a02c3d05178ebb77c0b8cbe7f10fbf80294cfce1",
+    "name": "mediatheque_departementale_cote_d_or",
+    "title": "Médiathèque départementale - Côte-d'Or",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/cote-d-or/bibli-21540-01",
+    "metadata": {
+      "email": "mediatheque@cotedor.fr",
+      "telephone": "03 80 63 27 31",
+      "url": "https://mediatheque.cotedor.fr/"
+    }
+  },
+  {
+    "id": "abb04e8daafcfb34457d0dc17749fe493cbf44b0",
+    "name": "mediatheque_departementale_deux_sevres",
+    "title": "Médiathèque départementale - Deux-Sèvres",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/deux-sevres/bibli-79191-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 49 26 28 20",
+      "url": "http://mediatheque.deux-sevres.com/"
+    }
+  },
+  {
+    "id": "68d4c341b20ba8e1a937e7e6d06988e3d974d17a",
+    "name": "mediatheque_departementale_doubs",
+    "title": "Médiathèque départementale - Doubs",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/doubs/bibli-25056-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 81 25 84 60",
+      "url": "https://mediatheque.doubs.fr/"
+    }
+  },
+  {
+    "id": "9cffcd17906c09dee2ceb27c854692a70e818906",
+    "name": "mediatheque_departementale_eure",
+    "title": "Médiathèque départementale - Eure",
+    "url": "https://lannuaire.service-public.fr/normandie/eure/bibli-27229-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 32 39 23 24",
+      "url": "http://mediatheque.cg27.fr/"
+    }
+  },
+  {
+    "id": "b4b4f61c4ecf517840d543906850e2278054ab02",
+    "name": "mediatheque_departementale_gers",
+    "title": "Médiathèque départementale - Gers",
+    "url": "https://lannuaire.service-public.fr/occitanie/gers/bibli-32013-01",
+    "metadata": {
+      "email": "mediagers@gers.fr",
+      "telephone": "05 62 67 43 20",
+      "url": "https://www.mediagers.fr/"
+    }
+  },
+  {
+    "id": "439d7bfbbeb94c410b61d8305ebfd0dca65657f1",
+    "name": "mediatheque_departementale_haute_corse",
+    "title": "Médiathèque départementale - Haute-Corse",
+    "url": "https://lannuaire.service-public.fr/corse/haute-corse/bibli-2B096-01",
+    "metadata": {
+      "email": "mdhc@haute-corse.fr",
+      "telephone": "04 95 45 04 50",
+      "url": ""
+    }
+  },
+  {
+    "id": "4257728d5688421ab187756a17f2a725c27107e9",
+    "name": "mediatheque_departementale_haute_garonne",
+    "title": "Médiathèque départementale - Haute-Garonne",
+    "url": "https://lannuaire.service-public.fr/occitanie/haute-garonne/bibli-31555-01",
+    "metadata": {
+      "email": "md.web@cd31.fr",
+      "telephone": "05 61 28 77 00",
+      "url": "http://www.haute-garonne.fr"
+    }
+  },
+  {
+    "id": "b557c53178747f800e5b6eafdd40929f5fddeca9",
+    "name": "mediatheque_departementale_haute_marne",
+    "title": "Médiathèque départementale - Haute-Marne",
+    "url": "https://lannuaire.service-public.fr/grand-est/haute-marne/bibli-52125-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 25 03 29 19",
+      "url": "http://opaci.haute-marne.fr/"
+    }
+  },
+  {
+    "id": "f4303a97dd4ba383fcba031b80d235bd4d227966",
+    "name": "mediatheque_departementale_haute_saone",
+    "title": "Médiathèque départementale - Haute-Saône",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/haute-saone/bibli-70550-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 84 95 76 10",
+      "url": "http://mediatheque.haute-saone.fr/"
+    }
+  },
+  {
+    "id": "05c39f0aaa4e258c5a7d1fa56df92a319e5543d3",
+    "name": "mediatheque_departementale_hautes_pyrenees",
+    "title": "Médiathèque départementale - Hautes-Pyrénées",
+    "url": "https://lannuaire.service-public.fr/occitanie/hautes-pyrenees/bibli-65440-01",
+    "metadata": {
+      "email": "mediatheque@ha-py.fr",
+      "telephone": "05 62 56 75 65",
+      "url": "http://www.hapybiblio.fr/"
+    }
+  },
+  {
+    "id": "d697f5b4214355314d0033efbeac8231f2b7e67d",
+    "name": "mediatheque_departementale_haut_rhin",
+    "title": "Médiathèque départementale - Haut-Rhin",
+    "url": "https://lannuaire.service-public.fr/grand-est/haut-rhin/bibli-68066-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 89 22 90 10",
+      "url": "https://www.mediatheque68.fr/"
+    }
+  },
+  {
+    "id": "0405191d3fecef3e7e537946fa69f4a8c80d735f",
+    "name": "mediatheque_departementale_herault",
+    "title": "Médiathèque départementale - Hérault",
+    "url": "https://lannuaire.service-public.fr/occitanie/herault/bibli-34172-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 67 67 30 00",
+      "url": "http://pierresvives.herault.fr/page-standard/pr%C3%A9sentation-0"
+    }
+  },
+  {
+    "id": "966fcc470714ed44884f442ffc1b3093974a5607",
+    "name": "mediatheque_departementale_ille_et_vilaine",
+    "title": "Médiathèque départementale - Ille-et-Vilaine",
+    "url": "https://lannuaire.service-public.fr/bretagne/ille-et-vilaine/bibli-35238-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 99 02 21 63",
+      "url": "https://mediatheque.ille-et-vilaine.fr/services-mediatheque-departementale"
+    }
+  },
+  {
+    "id": "e820e84f8256f0122083ab154e02c5c0d2a2deec",
+    "name": "mediatheque_departementale_isere",
+    "title": "Médiathèque départementale - Isère",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/isere/bibli-38185-01",
+    "metadata": {
+      "email": "mediath@isere.fr",
+      "telephone": "04 26 73 07 00",
+      "url": "http://mediatheque-departementale.isere.fr"
+    }
+  },
+  {
+    "id": "7bbf080bafa771254449ed27e5ca2b6e1c4c8311",
+    "name": "mediatheque_departementale_jura",
+    "title": "Médiathèque départementale - Jura",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/jura/bibli-39300-01",
+    "metadata": {
+      "email": "bdpjura@jura.fr",
+      "telephone": "03 84 43 29 79",
+      "url": "http://mediatheque.jura.fr/la-mdj"
+    }
+  },
+  {
+    "id": "519d3f9ffb5e588b7371153fccd49c85633ee2cf",
+    "name": "mediatheque_departementale_landes",
+    "title": "Médiathèque départementale - Landes",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/landes/bibli-40192-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 58 75 76 06",
+      "url": "https://www.landes.fr/mediatheque"
+    }
+  },
+  {
+    "id": "9fe5c8bbed1adc55fbb11932725f14d8ea4580b4",
+    "name": "mediatheque_departementale_loire",
+    "title": "Médiathèque départementale - Loire",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/loire/bibli-42147-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 77 58 16 00",
+      "url": "https://www.loire.fr/jcms/plw_1121498/mediatheque-departementale"
+    }
+  },
+  {
+    "id": "0ae91b4ef869d0a6525ec62fdc3ac3e961128b0b",
+    "name": "mediatheque_departementale_loiret",
+    "title": "Médiathèque départementale - Loiret",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/loiret/bibli-45234-01",
+    "metadata": {
+      "email": "mdl@loiret.fr",
+      "telephone": "02 38 25 68 68",
+      "url": ""
+    }
+  },
+  {
+    "id": "ced4652a21246bef962d65104d6ea2d57e8fb55b",
+    "name": "mediatheque_departementale_lot_et_garonne",
+    "title": "Médiathèque départementale - Lot-et-Garonne",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/lot-et-garonne/bibli-47001-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 53 40 14 40",
+      "url": "http://www.mediatheque.lotetgaronne.fr"
+    }
+  },
+  {
+    "id": "797fc604a90b494bc4732062dde8ee8364af8237",
+    "name": "mediatheque_departementale_lozere",
+    "title": "Médiathèque départementale - Lozère",
+    "url": "https://lannuaire.service-public.fr/occitanie/lozere/bibli-48095-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 66 49 16 04",
+      "url": "http://biblio.lozere.fr/"
+    }
+  },
+  {
+    "id": "e54cb78ebe78fe073bb584c5820e5d5d5a8c48ac",
+    "name": "mediatheque_departementale_meurthe_et_moselle",
+    "title": "Médiathèque départementale - Meurthe-et-Moselle",
+    "url": "https://lannuaire.service-public.fr/grand-est/meurthe-et-moselle/bibli-54304-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 83 90 87 50",
+      "url": "http://www.mediatheque.meurthe-et-moselle.fr/"
+    }
+  },
+  {
+    "id": "e0a12886c6d6e19d0ddcb907c9e64094fdcb76a1",
+    "name": "mediatheque_departementale_morbihan",
+    "title": "Médiathèque départementale - Morbihan",
+    "url": "https://lannuaire.service-public.fr/bretagne/morbihan/bibli-56260-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 97 63 39 30",
+      "url": "https://mediatheque.morbihan.fr/"
+    }
+  },
+  {
+    "id": "265094ecca8a49bf27769307909705b91f93f06a",
+    "name": "mediatheque_departementale_nord",
+    "title": "Médiathèque départementale - Nord",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/nord/bibli-59350-01",
+    "metadata": {
+      "email": "mediathequedunord@lenord.fr",
+      "telephone": "03 59 73 09 50",
+      "url": "https://mediathequedepartementale.lenord.fr/"
+    }
+  },
+  {
+    "id": "f0407cbdb06ffa99aa58deb0c5df8c8589769c94",
+    "name": "mediatheque_departementale_oise",
+    "title": "Médiathèque départementale - Oise",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/oise/bibli-60057-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 44 10 83 00",
+      "url": "http://mdo.oise.fr/"
+    }
+  },
+  {
+    "id": "da158ed36d5de84617b48f4cc380ef3613c8b2cc",
+    "name": "mediatheque_departementale_pas_de_calais",
+    "title": "Médiathèque départementale - Pas-de-Calais",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/pas-de-calais/bibli-62041-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 21 21 47 16",
+      "url": "https://mediatheque.pasdecalais.fr/"
+    }
+  },
+  {
+    "id": "6748f6ffd998b577ddb0cec30e5b9990816692f3",
+    "name": "mediatheque_departementale_puy_de_dome",
+    "title": "Médiathèque départementale - Puy-de-Dôme",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/puy-de-dome/bibli-63113-01",
+    "metadata": {
+      "email": "md63@puy-de-dome.fr",
+      "telephone": "04 73 25 84 80",
+      "url": "https://md.puy-de-dome.fr/"
+    }
+  },
+  {
+    "id": "e53e8cfe9dcb1ed57e62e5a8ebe75048da9c255a",
+    "name": "mediatheque_departementale_pyrenees_orientales",
+    "title": "Médiathèque départementale - Pyrénées-Orientales",
+    "url": "https://lannuaire.service-public.fr/occitanie/pyrenees-orientales/bibli-66210-01",
+    "metadata": {
+      "email": "bdp66@cg66.fr",
+      "telephone": "04 68 53 44 82",
+      "url": "https://www.ledepartement66.fr/dossier/la-mediatheque-departementale-claude-simon/"
+    }
+  },
+  {
+    "id": "8576040b0f4c1010361baae4453fe660009f9239",
+    "name": "mediatheque_departementale_rhone",
+    "title": "Médiathèque départementale - Rhône",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/rhone/bibli-69043-01",
+    "metadata": {
+      "email": "mediatheque@rhone.fr",
+      "telephone": "04 87 34 02 35",
+      "url": "https://mediatheque.rhone.fr/"
+    }
+  },
+  {
+    "id": "b843a0e8f023e2edf2d34cb7718a80d059b8fbfb",
+    "name": "mediatheque_departementale_seine_et_marne",
+    "title": "Médiathèque départementale - Seine-et-Marne",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/seine-et-marne/bibli-77285-01",
+    "metadata": {
+      "email": "mediatheque@departement77.fr",
+      "telephone": "01 60 56 95 00",
+      "url": "http://mediatheque.seine-et-marne.fr/fr"
+    }
+  },
+  {
+    "id": "8c83982bc3bdf8941dcf21ec1362cc491d6706be",
+    "name": "mediatheque_departementale_seine_maritime",
+    "title": "Médiathèque départementale - Seine-Maritime",
+    "url": "https://lannuaire.service-public.fr/normandie/seine-maritime/bibli-76474-01",
+    "metadata": {
+      "email": "mdsm76@seinemaritime.fr",
+      "telephone": "02 35 71 26 84",
+      "url": "https://www.seinemaritime.fr/vos-services/culture-et-patrimoine/lecture-publique-et-mediatheque-departementale/la-mediatheque-departementale-de-seine-maritime.html"
+    }
+  },
+  {
+    "id": "47d891831695852c13eb4cdf475034647d0b0475",
+    "name": "mediatheque_departementale_tarn",
+    "title": "Médiathèque départementale - Tarn",
+    "url": "https://lannuaire.service-public.fr/occitanie/tarn/bibli-81004-01",
+    "metadata": {
+      "email": "bdt@tarn.fr",
+      "telephone": "05 63 60 37 04",
+      "url": "http://bib.tarn.fr/exploitation/"
+    }
+  },
+  {
+    "id": "f9251bf7e6406e86c709d7ecea1cd08bc6733899",
+    "name": "mediatheque_departementale_tarn_et_garonne",
+    "title": "Médiathèque départementale - Tarn-et-Garonne",
+    "url": "https://lannuaire.service-public.fr/occitanie/tarn-et-garonne/bibli-82121-01",
+    "metadata": {
+      "email": "mediathequedepartementale@cg82.fr",
+      "telephone": "05 63 03 67 25",
+      "url": "http://www.mediatheque.cg82.fr/medias/"
+    }
+  },
+  {
+    "id": "0fdcc4cc045e95982fbd53f2fce2899f5ec682f6",
+    "name": "mediatheque_departementale_territoire_de_belfort",
+    "title": "Médiathèque départementale - Territoire de Belfort",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/territoire-de-belfort/bibli-90010-01",
+    "metadata": {
+      "email": "mediatheque.departementale@territoiredebelfort.fr",
+      "telephone": "03 84 90 99 40",
+      "url": "https://www.territoiredebelfort.fr/culture/la-mediatheque-departementale"
+    }
+  },
+  {
+    "id": "1f7b950a65594679daf42f4b61ffdfb1b1fa0619",
+    "name": "mediatheque_departementale_var",
+    "title": "Médiathèque départementale - Var",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/var/bibli-83050-01",
+    "metadata": {
+      "email": "mdv@var.fr",
+      "telephone": "04 83 95 37 40",
+      "url": "https://www.var.fr/culture/mediatheque"
+    }
+  },
+  {
+    "id": "bd71444e6e34e64897174391fe15631586f7a084",
+    "name": "mediatheque_departementale_vosges",
+    "title": "Médiathèque départementale - Vosges",
+    "url": "https://lannuaire.service-public.fr/grand-est/vosges/bibli-88160-01",
+    "metadata": {
+      "email": "mediatheque-departementale@vosges.fr",
+      "telephone": "03 29 31 10 95",
+      "url": "http://www.mediatheque.vosges.fr/"
+    }
+  },
+  {
+    "id": "2e195c38fdaeb58f10260feca4ac400606506a62",
+    "name": "service_departemental_de_la_lecture_charente",
+    "title": "Service départemental de la lecture - Charente",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/charente/bibli-16287-01",
+    "metadata": {
+      "email": "sdl@lacharente.fr",
+      "telephone": "05 16 09 50 14",
+      "url": "https://sdl16.lacharente.fr"
+    }
+  }
+]

@@ -1,0 +1,241 @@
+[
+  {
+    "id": "e3b689d3624b7c7c70aa3ff5139b8f2a2c03920d",
+    "name": "administration_territoriale_de_sante_saint_pierre_et_miquelon",
+    "title": "Administration territoriale de santé - Saint-Pierre-et-Miquelon",
+    "url": "https://lannuaire.service-public.fr/collectivites-d-outre-mer/saint-pierre-et-miquelon/ars-97502-01",
+    "metadata": {
+      "email": "dd975-direction@sante.gouv.fr",
+      "telephone": "+508 41 16 90",
+      "url": ""
+    }
+  },
+  {
+    "id": "320ee6c2f8e40aea07dd54f1be18388cd1ce92c8",
+    "alternateName": "ARS",
+    "name": "agence_regionale_de_sante_ars_auvergne_rhone_alpes",
+    "title": "Agence régionale de santé (ARS) - Auvergne-Rhône-Alpes",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/rhone/ars-69123-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 72 34 74 00",
+      "url": "http://www.ars.auvergne-rhone-alpes.sante.fr"
+    }
+  },
+  {
+    "id": "46ac1da28d3211dcd74cc6ccb66695b7f9756f8f",
+    "alternateName": "ARS",
+    "name": "agence_regionale_de_sante_ars_bourgogne_franche_comte_siege_de_dijon",
+    "title": "Agence régionale de santé (ARS) - Bourgogne-Franche-Comté - Siége de Dijon",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/cote-d-or/ars-21231-01",
+    "metadata": {
+      "email": "ars-bfc-direction-generale@ars.sante.fr",
+      "telephone": "0 808 80 71 07",
+      "url": "https://www.bourgogne-franche-comte.ars.sante.fr/"
+    }
+  },
+  {
+    "id": "d16938597684ba860baf199456c07eea4a95b645",
+    "alternateName": "ARS",
+    "name": "agence_regionale_de_sante_ars_bourgogne_franche_comte_site_de_besancon",
+    "title": "Agence régionale de santé (ARS) - Bourgogne-Franche-Comté - Site de Besançon",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/doubs/ars-25056-01",
+    "metadata": {
+      "email": "ars-bfc-communication@ars.sante.fr",
+      "telephone": "08 08 80 71 07",
+      "url": "https://www.bourgogne-franche-comte.ars.sante.fr/"
+    }
+  },
+  {
+    "id": "a1ebe591cff87ca5fb7bd2a908a2501f5c9d5094",
+    "alternateName": "ARS",
+    "name": "agence_regionale_de_sante_ars_bretagne",
+    "title": "Agence régionale de santé (ARS) - Bretagne",
+    "url": "https://lannuaire.service-public.fr/bretagne/ille-et-vilaine/ars-35238-01",
+    "metadata": {
+      "email": "ars-bretagne-contact@ars.sante.fr",
+      "telephone": "02 90 08 80 00",
+      "url": "http://www.ars.bretagne.sante.fr/"
+    }
+  },
+  {
+    "id": "5786ffd7c14985731cca1ba022c9d9d9792fc74f",
+    "alternateName": "ARS",
+    "name": "agence_regionale_de_sante_ars_centre_val_de_loire",
+    "title": "Agence régionale de santé (ARS) - Centre-Val de Loire",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/loiret/ars-45234-01",
+    "metadata": {
+      "email": "ars-centre-contact@ars.sante.fr",
+      "telephone": "02 38 77 32 32",
+      "url": "https://www.centre-val-de-loire.ars.sante.fr/"
+    }
+  },
+  {
+    "id": "0f6c6fa5953fa4c6292a3980d13e7b337ad6d082",
+    "alternateName": "ARS",
+    "name": "agence_regionale_de_sante_ars_corse",
+    "title": "Agence régionale de santé (ARS) - Corse",
+    "url": "https://lannuaire.service-public.fr/corse/corse-du-sud/ars-2A004-01",
+    "metadata": {
+      "email": "ars-corse-communication@ars.sante.fr",
+      "telephone": "04 95 51 98 98",
+      "url": "https://www.corse.ars.sante.fr"
+    }
+  },
+  {
+    "id": "990edd8ac7b10ea37b3d5ad3d8e1291efa572799",
+    "alternateName": "ARS",
+    "name": "agence_regionale_de_sante_ars_grand_est_siege",
+    "title": "Agence régionale de santé (ARS) - Grand Est - Siège",
+    "url": "https://lannuaire.service-public.fr/grand-est/meurthe-et-moselle/ars-54395-01",
+    "metadata": {
+      "email": "ars-grandest-contact@ars.sante.fr",
+      "telephone": "03 83 39 30 30",
+      "url": "https://www.grand-est.ars.sante.fr"
+    }
+  },
+  {
+    "id": "36a4e3f312acb2595d1cc34dbf18c9b0ed9d3f41",
+    "alternateName": "ARS",
+    "name": "agence_regionale_de_sante_ars_guadeloupe",
+    "title": "Agence régionale de santé (ARS) - Guadeloupe",
+    "url": "https://lannuaire.service-public.fr/guadeloupe/guadeloupe/ars-97109-01",
+    "metadata": {
+      "email": "ars971-direction-generale@ars.sante.fr",
+      "telephone": "+590 5 90 80 94 94",
+      "url": "https://www.guadeloupe.ars.sante.fr/"
+    }
+  },
+  {
+    "id": "61d781ef2160d85e51299106b6cf021ba69b1eae",
+    "alternateName": "ARS",
+    "name": "agence_regionale_de_sante_ars_guyane",
+    "title": "Agence régionale de santé (ARS) - Guyane",
+    "url": "https://lannuaire.service-public.fr/guyane/guyane/ars-97302-01",
+    "metadata": {
+      "email": "ars-guyane-contact@ars.sante.fr",
+      "telephone": "+594 5 94 25 49 89",
+      "url": "https://www.guyane.ars.sante.fr"
+    }
+  },
+  {
+    "id": "46916ebff96295864cada12272ad13a4d1ef44c1",
+    "alternateName": "ARS",
+    "name": "agence_regionale_de_sante_ars_hauts_de_france",
+    "title": "Agence régionale de santé (ARS) - Hauts-de-France",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/nord/ars-59350-01",
+    "metadata": {
+      "email": "",
+      "telephone": "08 09 40 20 32",
+      "url": "http://www.ars.hauts-de-france.sante.fr/index.php?id=185819"
+    }
+  },
+  {
+    "id": "753f6b03b2ecb3ee6ab11d14154a4f1812fa9097",
+    "alternateName": "ARS",
+    "name": "agence_regionale_de_sante_ars_ile_de_france",
+    "title": "Agence régionale de santé (ARS) - Île-de-France",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/paris/ars-75119-01",
+    "metadata": {
+      "email": "",
+      "telephone": "01 44 02 00 00",
+      "url": "https://www.iledefrance.ars.sante.fr/"
+    }
+  },
+  {
+    "id": "3990d9662dff7ae48b70fe9973ae6b1615746d58",
+    "alternateName": "ARS",
+    "name": "agence_regionale_de_sante_ars_la_reunion",
+    "title": "Agence régionale de santé (ARS) - La Réunion",
+    "url": "https://lannuaire.service-public.fr/la-reunion/reunion/ars-97411-01",
+    "metadata": {
+      "email": "ars-oi-direction-generale@ars.sante.fr",
+      "telephone": "+262 2 62 97 90 00",
+      "url": "https://www.lareunion.ars.sante.fr/"
+    }
+  },
+  {
+    "id": "53a5d81d22101a5e6f740845f48c9b8a74b0388d",
+    "alternateName": "ARS",
+    "name": "agence_regionale_de_sante_ars_martinique",
+    "title": "Agence régionale de santé (ARS) - Martinique",
+    "url": "https://lannuaire.service-public.fr/martinique/martinique/ars-97209-01",
+    "metadata": {
+      "email": "secretariat-direction@ars.sante.fr",
+      "telephone": "+596 5 96 39 42 43",
+      "url": "https://www.martinique.ars.sante.fr/"
+    }
+  },
+  {
+    "id": "9d9cca9acc59038ef8d57a4b955d9cd050f58a60",
+    "alternateName": "ARS",
+    "name": "agence_regionale_de_sante_ars_mayotte",
+    "title": "Agence régionale de santé (ARS) - Mayotte",
+    "url": "https://lannuaire.service-public.fr/mayotte/mayotte/ars-97611-01",
+    "metadata": {
+      "email": "ars-mayotte-com@ars.sante.fr",
+      "telephone": "02 69 61 12 25",
+      "url": "https://www.mayotte.ars.sante.fr/"
+    }
+  },
+  {
+    "id": "987072d5d934450e28b59f25915f26f8217cf22b",
+    "alternateName": "ARS",
+    "name": "agence_regionale_de_sante_ars_normandie",
+    "title": "Agence régionale de santé (ARS) - Normandie",
+    "url": "https://lannuaire.service-public.fr/normandie/calvados/ars-14118-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 31 70 96 96",
+      "url": "https://www.normandie.ars.sante.fr/"
+    }
+  },
+  {
+    "id": "923a6f921a918cb615abd5b06165ef22b64d581b",
+    "alternateName": "ARS",
+    "name": "agence_regionale_de_sante_ars_nouvelle_aquitaine",
+    "title": "Agence régionale de santé (ARS) - Nouvelle-Aquitaine",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/gironde/ars-33063-01",
+    "metadata": {
+      "email": "ars-dd33-direction@ars.sante.fr",
+      "telephone": "05 57 01 44 00",
+      "url": "https://www.nouvelle-aquitaine.ars.sante.fr"
+    }
+  },
+  {
+    "id": "ce17259e81b980410207a34795d7bc2b37bb2a73",
+    "alternateName": "ARS",
+    "name": "agence_regionale_de_sante_ars_occitanie",
+    "title": "Agence régionale de santé (ARS) - Occitanie",
+    "url": "https://lannuaire.service-public.fr/occitanie/herault/ars-34172-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 67 07 20 07",
+      "url": ""
+    }
+  },
+  {
+    "id": "05fcc093c8d77df17652714ff3107a18d99bd3f8",
+    "alternateName": "ARS",
+    "name": "agence_regionale_de_sante_ars_pays_de_la_loire",
+    "title": "Agence régionale de santé (ARS) - Pays de la Loire",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/loire-atlantique/ars-44109-01",
+    "metadata": {
+      "email": "ars-pdl-contact@ars.sante.fr",
+      "telephone": "02 49 10 40 00",
+      "url": "https://www.pays-de-la-loire.ars.sante.fr/"
+    }
+  },
+  {
+    "id": "33a5e35622ef43f7a6b22813b0467792c39016a2",
+    "alternateName": "ARS",
+    "name": "agence_regionale_de_sante_ars_provence_alpes_cote_d_azur",
+    "title": "Agence régionale de santé (ARS) - Provence-Alpes-Côte d'Azur",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/ars-13055-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 13 55 80 10",
+      "url": "http://www.ars.paca.sante.fr"
+    }
+  }
+]

@@ -1,0 +1,602 @@
+[
+  {
+    "id": "5dffa8ca35bb782b80154dcf898f26c52494f678",
+    "alternateName": "DDCS",
+    "name": "direction_departementale_de_la_cohesion_sociale_ddcs_ain",
+    "title": "Direction départementale de la cohésion sociale (DDCS) - Ain",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/ain/ddcs-01053-01",
+    "metadata": {
+      "email": "ddcs@ain.gouv.fr",
+      "telephone": "04 74 32 55 00",
+      "url": "http://www.ain.gouv.fr/direction-departementale-de-la-a1287.html"
+    }
+  },
+  {
+    "id": "3ddcfa299c9654232f5c01d1443fe1321164e3e8",
+    "alternateName": "DDCS",
+    "name": "direction_departementale_de_la_cohesion_sociale_ddcs_aisne",
+    "title": "Direction Départementale de la Cohésion Sociale (DDCS) - Aisne",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/aisne/ddcs-02408-01",
+    "metadata": {
+      "email": "dd002@n.gouv.fr",
+      "telephone": "03 60 81 50 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "c96c16ac41383791eaf34e8c51936a9ea6c35e67",
+    "alternateName": "DDCS",
+    "name": "direction_departementale_de_la_cohesion_sociale_ddcs_alpes_maritimes",
+    "title": "Direction départementale de la cohésion sociale (DDCS) - Alpes-Maritimes",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/alpes-maritimes/ddcs-06088-01",
+    "metadata": {
+      "email": "dd06-direction@sante.gouv.fr",
+      "telephone": "04 93 72 27 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "759a78e904b445ef7e3383ace76a641698aa147d",
+    "alternateName": "DDCS",
+    "name": "direction_departementale_de_la_cohesion_sociale_ddcs_du_bas_rhin",
+    "title": "Direction départementale de la cohésion sociale (DDCS) du Bas-Rhin",
+    "url": "https://lannuaire.service-public.fr/grand-est/bas-rhin/ddcs-67482-01",
+    "metadata": {
+      "email": "ddcs@bas-rhin.gouv.fr",
+      "telephone": "03 88 76 76 16",
+      "url": "http://www.bas-rhin.gouv.fr"
+    }
+  },
+  {
+    "id": "08913b93f7660fb02fc0b193f844c512390ab037",
+    "alternateName": "DDCS",
+    "name": "direction_departementale_de_la_cohesion_sociale_ddcs_des_bouches_du_rhone",
+    "title": "Direction départementale de la cohésion sociale (DDCS) des Bouches-du-Rhône",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/ddcs-13055-01",
+    "metadata": {
+      "email": "ddcs@bouches-du-rhone.gouv.fr",
+      "telephone": "04 91 00 57 00",
+      "url": "http://www.bouches-du-rhone.gouv.fr"
+    }
+  },
+  {
+    "id": "1cb1e6f74a3f2bb0c88ac38d4d0f1304873aa7c1",
+    "alternateName": "DDCS",
+    "name": "direction_departementale_de_la_cohesion_sociale_ddcs_calvados",
+    "title": "Direction départementale de la cohésion sociale (DDCS) - Calvados",
+    "url": "https://lannuaire.service-public.fr/normandie/calvados/ddcs-14118-01",
+    "metadata": {
+      "email": "ddcs@calvados.gouv.fr",
+      "telephone": "02 31 52 74 02",
+      "url": ""
+    }
+  },
+  {
+    "id": "655039bde37e6eec1550ba0a2f4f62e492a1cec1",
+    "alternateName": "DDCS",
+    "name": "direction_departementale_de_la_cohesion_sociale_ddcs_charente_maritime",
+    "title": "Direction Départementale de la Cohésion Sociale (DDCS)- Charente-Maritime",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/charente-maritime/ddcs-17300-01",
+    "metadata": {
+      "email": "ddcs@charente-maritime.gouv.fr",
+      "telephone": "05 46 35 25 30",
+      "url": "http://www.charente-maritime.gouv.fr"
+    }
+  },
+  {
+    "id": "36c7ab7abb81f0f75f84b1368a9421014e19a966",
+    "alternateName": "DDCS",
+    "name": "direction_departementale_de_la_cohesion_sociale_ddcs_cotes_d_armor",
+    "title": "Direction départementale de la cohésion sociale (DDCS) - Côtes-d'Armor",
+    "url": "https://lannuaire.service-public.fr/bretagne/cotes-d-armor/ddcs-22278-01",
+    "metadata": {
+      "email": "ddcs@cotes-darmor.gouv.fr",
+      "telephone": "02 96 62 08 09",
+      "url": ""
+    }
+  },
+  {
+    "id": "6ac8618b93789e7d307dec47443040498fbe5ccb",
+    "alternateName": "DDCS",
+    "name": "direction_departementale_de_la_cohesion_sociale",
+    "title": "Direction départementale de la cohésion sociale",
+    "url": "https://lannuaire.service-public.fr/bretagne/finistere/ddcs-29232-01",
+    "metadata": {
+      "email": "ddcs@finistere.gouv.fr",
+      "telephone": "02 98 64 99 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "6ac8618b93789e7d307dec47443040498fbe5ccb",
+    "alternateName": "DDCS",
+    "name": "direction_departementale_de_la_cohesion_sociale",
+    "title": "Direction départementale de la cohésion sociale",
+    "url": "https://lannuaire.service-public.fr/occitanie/gard/ddcs-30189-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 30 08 61 20",
+      "url": ""
+    }
+  },
+  {
+    "id": "4edccf3a74aa2580dcc045279bc967976c286d8c",
+    "alternateName": "DDCS",
+    "name": "direction_departementale_de_la_cohesion_sociale_ddcs_gironde",
+    "title": "Direction départementale de la cohésion sociale - (DDCS) Gironde",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/gironde/ddcs-33063-01",
+    "metadata": {
+      "email": "ddcs33@gironde.gouv.fr",
+      "telephone": "05 57 01 91 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "9748eda1561f8d7d7d1be85d22e1cd90d6b3ae1f",
+    "alternateName": "DDCS",
+    "name": "direction_departementale_de_la_cohesion_sociale_ddcs_haute_garonne",
+    "title": "Direction départementale de la cohésion sociale (DDCS) - Haute-Garonne",
+    "url": "https://lannuaire.service-public.fr/occitanie/haute-garonne/ddcs-31555-01",
+    "metadata": {
+      "email": "ddcs@haute-garonne.gouv.fr",
+      "telephone": "05 34 45 34 45",
+      "url": "http://www.haute-garonne.gouv.fr"
+    }
+  },
+  {
+    "id": "c02b907b297cd8ba03cb4e4cd406023fae506066",
+    "alternateName": "DDCS",
+    "name": "direction_departementale_de_la_cohesion_sociale_ddcs_haute_savoie",
+    "title": "Direction départementale de la cohésion sociale (DDCS) - Haute-Savoie",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/haute-savoie/ddcs-74010-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 50 88 41 40",
+      "url": "http://www.haute-savoie.gouv.fr"
+    }
+  },
+  {
+    "id": "8ed19bc6ecf178cdc668b02311179709c13b8667",
+    "alternateName": "DDCS",
+    "name": "direction_departementale_de_la_cohesion_sociale_ddcs_des_hauts_de_seine",
+    "title": "Direction départementale de la cohésion sociale (DDCS) des Hauts-de-Seine",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/hauts-de-seine/ddcs-92050-01",
+    "metadata": {
+      "email": "ddcs@hauts-de-seine.gouv.fr",
+      "telephone": "01 40 97 45 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "fc8183eee07e1e1c62d0354e93a057d5e09f3c30",
+    "alternateName": "DDCS",
+    "name": "direction_departementale_de_la_cohesion_sociale_ddcs_indre_et_loire",
+    "title": "Direction départementale de la cohésion sociale (DDCS) - Indre-et-Loire",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/indre-et-loire/ddcs-37261-01",
+    "metadata": {
+      "email": "ddcs@indre-et-loire.gouv.fr",
+      "telephone": "02 47 70 11 00",
+      "url": "http://www.indre-et-loire.gouv.fr"
+    }
+  },
+  {
+    "id": "b77d17e999ed09dd2d6658416384cc7c8678377e",
+    "alternateName": "DDCS",
+    "name": "direction_departementale_de_la_cohesion_sociale_ddcs_isere",
+    "title": "Direction Départementale de la Cohésion Sociale (DDCS) - Isère",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/isere/ddcs-38185-01",
+    "metadata": {
+      "email": "ddcs@isere.gouv.fr",
+      "telephone": "04 57 38 65 38",
+      "url": "http://www.isere.gouv.fr"
+    }
+  },
+  {
+    "id": "6ac8618b93789e7d307dec47443040498fbe5ccb",
+    "alternateName": "DDCS",
+    "name": "direction_departementale_de_la_cohesion_sociale",
+    "title": "Direction départementale de la cohésion sociale",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/essonne/ddcs-91182-01",
+    "metadata": {
+      "email": "ddcs@essonne.gouv.fr",
+      "telephone": "01 69 87 30 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "6ac8618b93789e7d307dec47443040498fbe5ccb",
+    "alternateName": "DDCS",
+    "name": "direction_departementale_de_la_cohesion_sociale",
+    "title": "Direction départementale de la cohésion sociale",
+    "url": "https://lannuaire.service-public.fr/normandie/eure/ddcs-27229-01",
+    "metadata": {
+      "email": "ddcs@eure.gouv.fr",
+      "telephone": "02 32 24 86 05",
+      "url": "http://www.eure.gouv.fr"
+    }
+  },
+  {
+    "id": "6ac8618b93789e7d307dec47443040498fbe5ccb",
+    "alternateName": "DDCS",
+    "name": "direction_departementale_de_la_cohesion_sociale",
+    "title": "Direction départementale de la cohésion sociale",
+    "url": "https://lannuaire.service-public.fr/occitanie/herault/ddcs-34172-01",
+    "metadata": {
+      "email": "ddcs@herault.gouv.fr",
+      "telephone": "04 67 41 72 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "6ac8618b93789e7d307dec47443040498fbe5ccb",
+    "alternateName": "DDCS",
+    "name": "direction_departementale_de_la_cohesion_sociale",
+    "title": "Direction départementale de la cohésion sociale",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/oise/ddcs-60057-01",
+    "metadata": {
+      "email": "ddcs@oise.gouv.fr",
+      "telephone": "03 44 06 48 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "6ac8618b93789e7d307dec47443040498fbe5ccb",
+    "alternateName": "DDCS",
+    "name": "direction_departementale_de_la_cohesion_sociale",
+    "title": "Direction départementale de la cohésion sociale",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/drome/ddcs-26362-01",
+    "metadata": {
+      "email": "ddcs@drome.gouv.fr",
+      "telephone": "04 26 52 22 80",
+      "url": "http://www.drome.gouv.fr/direction-departementale-de-la-cohesion-sociale-r842.html"
+    }
+  },
+  {
+    "id": "6ac8618b93789e7d307dec47443040498fbe5ccb",
+    "alternateName": "DDCS",
+    "name": "direction_departementale_de_la_cohesion_sociale",
+    "title": "Direction départementale de la cohésion sociale",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/loire/ddcs-42218-01",
+    "metadata": {
+      "email": "ddcs@loire.gouv.fr",
+      "telephone": "04 77 49 63 63",
+      "url": "http://www.loire.gouv.fr"
+    }
+  },
+  {
+    "id": "6ac8618b93789e7d307dec47443040498fbe5ccb",
+    "alternateName": "DDCS",
+    "name": "direction_departementale_de_la_cohesion_sociale",
+    "title": "Direction départementale de la cohésion sociale",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/somme/ddcs-80021-01",
+    "metadata": {
+      "email": "ddcs@somme.gouv.fr",
+      "telephone": "03 22 50 23 23",
+      "url": "http://www.somme.gouv.fr"
+    }
+  },
+  {
+    "id": "6ac8618b93789e7d307dec47443040498fbe5ccb",
+    "alternateName": "DDCS",
+    "name": "direction_departementale_de_la_cohesion_sociale",
+    "title": "Direction départementale de la cohésion sociale",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/vienne/ddcs-86194-01",
+    "metadata": {
+      "email": "ddcs@vienne.gouv.fr",
+      "telephone": "05 49 44 83 50",
+      "url": ""
+    }
+  },
+  {
+    "id": "4a8e6dbb4af2824c5547bbc05582683700e63998",
+    "alternateName": "DDCS",
+    "name": "direction_departementale_de_la_cohesion_sociale_ddcs_loire_atlantique",
+    "title": "Direction départementale de la cohésion sociale (DDCS) - Loire-Atlantique",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/loire-atlantique/ddcs-44109-01",
+    "metadata": {
+      "email": "ddcs-directeur@loire-atlantique.gouv.fr",
+      "telephone": "02 40 12 80 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "efc4ba00cdd0eeab20e82faf8300d3c7833821b4",
+    "alternateName": "DDCS",
+    "name": "direction_departementale_de_la_cohesion_sociale_ddcs_loiret",
+    "title": "Direction Départementale de la Cohésion Sociale (DDCS) - Loiret",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/loiret/ddcs-45234-01",
+    "metadata": {
+      "email": "ddcs@loiret.gouv.fr",
+      "telephone": "02 38 42 42 42",
+      "url": "http://www.loiret.gouv.fr"
+    }
+  },
+  {
+    "id": "3e4336de81c9104ad586e1420eddb9a87b547b9e",
+    "alternateName": "DDCS",
+    "name": "direction_departementale_de_la_cohesion_sociale_ddcs_maine_et_loire",
+    "title": "Direction départementale de la cohésion sociale (DDCS) - Maine-et-Loire",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/maine-et-loire/ddcs-49007-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 41 72 47 20",
+      "url": "http://www.maine-et-loire.gouv.fr"
+    }
+  },
+  {
+    "id": "fdd85426fd54459f080d41264cca0b2f43c9ec5b",
+    "alternateName": "DDCS",
+    "name": "direction_departementale_de_la_cohesion_sociale_ddcs_manche",
+    "title": "Direction départementale de la Cohésion Sociale (DDCS) - Manche",
+    "url": "https://lannuaire.service-public.fr/normandie/manche/ddcs-50502-01",
+    "metadata": {
+      "email": "ddcs@manche.gouv.fr",
+      "telephone": "02 50 71 50 00",
+      "url": "http://www.manche.gouv.fr/Services-de-l-Etat/Sante-et-Cohesion-sociale/DDCS"
+    }
+  },
+  {
+    "id": "512efa78b884f6ca1f9109929e133f331734c143",
+    "alternateName": "DDCS",
+    "name": "direction_departementale_de_la_cohesion_sociale_ddcs_de_meurthe_et_moselle",
+    "title": "Direction départementale de la cohésion sociale (DDCS) de Meurthe-et-Moselle",
+    "url": "https://lannuaire.service-public.fr/grand-est/meurthe-et-moselle/ddcs-54395-01",
+    "metadata": {
+      "email": "ddcs@meurthe-et-moselle.gouv.fr",
+      "telephone": "03 57 29 13 13",
+      "url": ""
+    }
+  },
+  {
+    "id": "155a8aa4a2f30d38fa390bccd6bcd9f73449042d",
+    "alternateName": "DDCS",
+    "name": "direction_departementale_de_la_cohesion_sociale_ddcs_morbihan",
+    "title": "Direction départementale de la cohésion sociale (DDCS) - Morbihan",
+    "url": "https://lannuaire.service-public.fr/bretagne/morbihan/ddcs-56260-01",
+    "metadata": {
+      "email": "ddcs@morbihan.gouv.fr",
+      "telephone": "02 22 07 20 20",
+      "url": "http://www.morbihan.gouv.fr"
+    }
+  },
+  {
+    "id": "8f3e844b55f1cb758a23d0a286aa7765a208e4cd",
+    "alternateName": "DDCS",
+    "name": "direction_departementale_de_la_cohesion_sociale_ddcs_moselle",
+    "title": "Direction départementale de la cohésion sociale (DDCS) - Moselle",
+    "url": "https://lannuaire.service-public.fr/grand-est/moselle/ddcs-57463-01",
+    "metadata": {
+      "email": "ddcs@moselle.gouv.fr",
+      "telephone": "03 87 75 41 55",
+      "url": "http://www.moselle.gouv.fr"
+    }
+  },
+  {
+    "id": "ca851359ae004c5c4fb0e57573fbd19c9df757cb",
+    "alternateName": "DDCS",
+    "name": "direction_departementale_de_la_cohesion_sociale_ddcs_nord",
+    "title": "Direction départementale de la cohésion sociale (DDCS) - Nord",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/nord/ddcs-59350-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 20 18 33 33",
+      "url": "http://www.drdjs-nordpasdecalais.jeunesse-sports.gouv.fr"
+    }
+  },
+  {
+    "id": "16a84fbd23f4bc95028db0eab38cd563a6c92ffe",
+    "alternateName": "DDCS",
+    "name": "direction_departementale_de_la_cohesion_sociale_ddcs_paris",
+    "title": "Direction départementale de la cohésion sociale (DDCS) - Paris",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/paris/ddcs-75115-01",
+    "metadata": {
+      "email": "ddcs@paris.gouv.fr",
+      "telephone": "01 82 52 40 00",
+      "url": "http://www.ddcs.paris.gouv.fr/SITE-DDCS/LA-DDCS-DE-PARIS"
+    }
+  },
+  {
+    "id": "1ec69ab627aca84674f0c595185c83f117abfda1",
+    "alternateName": "DDCS",
+    "name": "direction_departementale_de_la_cohesion_sociale_ddcs_pas_de_calais",
+    "title": "Direction départementale de la cohésion sociale (DDCS) - Pas-de-Calais",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/pas-de-calais/ddcs-62041-01",
+    "metadata": {
+      "email": "ddcs@pas-de-calais.gouv.fr",
+      "telephone": "03 21 23 87 87",
+      "url": "http://www.pas-de-calais.gouv.fr"
+    }
+  },
+  {
+    "id": "a0936ff6bc985add672e92791e0ca9449c4e2189",
+    "alternateName": "DDCS",
+    "name": "direction_departementale_de_la_cohesion_sociale_ddcs_du_puy_de_dome",
+    "title": "Direction départementale de la cohésion sociale (DDCS) du Puy-de-Dôme",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/puy-de-dome/ddcs-63113-01",
+    "metadata": {
+      "email": "ddcs63@puy-de-dome.gouv.fr",
+      "telephone": "04 73 14 76 00",
+      "url": "http://www.puy-de-dome.gouv.fr/ddcs-direction-departementale-de-la-cohesion-r1014.html"
+    }
+  },
+  {
+    "id": "7b590274d5ce49201a0e2715af71bfc3ef2bbbd7",
+    "alternateName": "DDCS",
+    "name": "direction_departementale_de_la_cohesion_sociale_ddcs_pyrenees_atlantiques",
+    "title": "Direction départementale de la cohésion sociale (DDCS) - Pyrénées-Atlantiques",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/pyrenees-atlantiques/ddcs-64445-01",
+    "metadata": {
+      "email": "ddcs@pyrenees-atlantiques.gouv.fr",
+      "telephone": "05 47 41 33 10",
+      "url": ""
+    }
+  },
+  {
+    "id": "bf7044c65e7d0aaa3a93af115a243b43ba5c9f72",
+    "alternateName": "DDCS",
+    "name": "direction_departementale_de_la_cohesion_sociale_ddcs_des_pyrenees_orientales",
+    "title": "Direction départementale de la cohésion sociale (DDCS) des Pyrénées-Orientales",
+    "url": "https://lannuaire.service-public.fr/occitanie/pyrenees-orientales/ddcs-66136-01",
+    "metadata": {
+      "email": "ddcs@pyrenees-orientales.gouv.fr",
+      "telephone": "04 68 35 50 49",
+      "url": "http://www.pyrenees-orientales.gouv.fr"
+    }
+  },
+  {
+    "id": "6ac8618b93789e7d307dec47443040498fbe5ccb",
+    "alternateName": "DDCS",
+    "name": "direction_departementale_de_la_cohesion_sociale",
+    "title": "Direction départementale de la cohésion sociale",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/rhone/ddcs-69123-01",
+    "metadata": {
+      "email": "ddcs-contacts@rhone.gouv.fr",
+      "telephone": "04 81 92 44 00",
+      "url": "http://www.rhone.gouv.fr"
+    }
+  },
+  {
+    "id": "7405de0590e0343836ce1c95aefcc126c9654f9d",
+    "alternateName": "DDCS",
+    "name": "direction_departementale_de_la_cohesion_sociale_ddcs_saone_et_loire",
+    "title": "Direction départementale de la cohésion sociale (DDCS) - Saône-et-Loire",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/saone-et-loire/ddcs-71270-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 58 79 32 20",
+      "url": "http://www.saone-et-loire.gouv.fr"
+    }
+  },
+  {
+    "id": "b93fdce016f3f0640ec2831c6bd4eb79074576b1",
+    "alternateName": "DDCS",
+    "name": "direction_departementale_de_la_cohesion_sociale_ddcs_sarthe",
+    "title": "Direction Départementale de la Cohésion Sociale (DDCS) - Sarthe",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/sarthe/ddcs-72181-01",
+    "metadata": {
+      "email": "ddcs@sarthe.gouv.fr",
+      "telephone": "02 72 16 43 06",
+      "url": "http://www.sarthe.gouv.fr"
+    }
+  },
+  {
+    "id": "9e517c8ec6e087fa122f30df1d7ee2a4ad2d04d1",
+    "alternateName": "DDCS",
+    "name": "direction_departementale_de_la_cohesion_sociale_ddcs_de_seine_et_marne",
+    "title": "Direction départementale de la cohésion sociale (DDCS) de Seine-et-Marne",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/seine-et-marne/ddcs-77288-01",
+    "metadata": {
+      "email": "ddcs@seine-et-marne.gouv.fr",
+      "telephone": "01 75 18 70 00",
+      "url": "http://www.seine-et-marne.gouv.fr/Services-de-l-Etat"
+    }
+  },
+  {
+    "id": "adf04370852f5c50ab24b3352e34c3550c9986e5",
+    "alternateName": "DDCS",
+    "name": "direction_departementale_de_la_cohesion_sociale_ddcs_de_seine_maritime",
+    "title": "Direction départementale de la cohésion sociale (DDCS) de Seine-Maritime",
+    "url": "https://lannuaire.service-public.fr/normandie/seine-maritime/ddcs-76540-01",
+    "metadata": {
+      "email": "ddcs@seine-maritime.gouv.fr",
+      "telephone": "02 76 27 71 01",
+      "url": "http://www.seine-maritime.gouv.fr"
+    }
+  },
+  {
+    "id": "decf2f95470794a59df80fbaa0fcf356979d7bb7",
+    "alternateName": "DDCS",
+    "name": "direction_departementale_de_la_cohesion_sociale_ddcs_seine_saint_denis",
+    "title": "Direction départementale de la cohésion sociale (DDCS) - Seine-Saint-Denis",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/seine-saint-denis/ddcs-93008-01",
+    "metadata": {
+      "email": "ddcs@seine-saint-denis.gouv.fr",
+      "telephone": "01 74 73 36 00",
+      "url": "http://www.seine-saint-denis.gouv.fr"
+    }
+  },
+  {
+    "id": "4aec3ad29d154bbbc4b76cc67e72a4a8f94ee14d",
+    "alternateName": "DDCS",
+    "name": "direction_departementale_de_la_cohesion_sociale_ddcs_du_val_d_oise",
+    "title": "Direction départementale de la cohésion sociale (DDCS) du Val-d'Oise",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/val-d-oise/ddcs-95127-01",
+    "metadata": {
+      "email": "ddcs@val-doise.gouv.fr",
+      "telephone": "01 77 63 61 00",
+      "url": "http://www.val-doise.gouv.fr"
+    }
+  },
+  {
+    "id": "219e7fc77c3eba37e7fce1e10019a215093b0f48",
+    "alternateName": "DDCS",
+    "name": "direction_departementale_de_la_cohesion_sociale_ddcs_val_de_marne",
+    "title": "Direction départementale de la cohésion sociale (DDCS) - Val-de-Marne",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/val-de-marne/ddcs-94028-01",
+    "metadata": {
+      "email": "ddcs@val-de-marne.gouv.fr",
+      "telephone": "01 45 17 09 25",
+      "url": "http://www.val-de-marne.gouv.fr"
+    }
+  },
+  {
+    "id": "d99eacae949e18316099da55f07713749755a023",
+    "alternateName": "DDCS",
+    "name": "direction_departementale_de_la_cohesion_sociale_ddcs_var",
+    "title": "Direction départementale de la cohésion sociale (DDCS) - Var",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/var/ddcs-83137-01",
+    "metadata": {
+      "email": "ddcs@var.gouv.fr",
+      "telephone": "04 94 18 83 83",
+      "url": ""
+    }
+  },
+  {
+    "id": "8c4aec3d58661062e7d7e6cf53e1abf5de7134ea",
+    "alternateName": "DDCS",
+    "name": "direction_departementale_de_la_cohesion_sociale_ddcs_vaucluse",
+    "title": "Direction départementale de la cohésion sociale (DDCS) - Vaucluse",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/vaucluse/ddcs-84007-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 88 17 84 84",
+      "url": ""
+    }
+  },
+  {
+    "id": "6ac8618b93789e7d307dec47443040498fbe5ccb",
+    "alternateName": "DDCS",
+    "name": "direction_departementale_de_la_cohesion_sociale",
+    "title": "Direction départementale de la cohésion sociale",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/vendee/ddcs-85191-01",
+    "metadata": {
+      "email": "ddcs@vendee.gouv.fr",
+      "telephone": "02 51 36 75 00",
+      "url": "http://www.vendee.gouv.fr"
+    }
+  },
+  {
+    "id": "4af690e22ebbce9af5f81caf2b0b3542f652b9d9",
+    "alternateName": "DDCS",
+    "name": "direction_departementale_de_la_cohesion_sociale_ddcs_yvelines",
+    "title": "Direction départementale de la cohésion sociale (DDCS) - Yvelines",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/yvelines/ddcs-78646-01",
+    "metadata": {
+      "email": "ddcs@yvelines.gouv.fr",
+      "telephone": "01 39 49 78 78",
+      "url": "http://www.yvelines.gouv.fr"
+    }
+  },
+  {
+    "id": "8491dd9b04d8c05d83d9fddab39d5c2ed859b11b",
+    "alternateName": "DDDCS",
+    "name": "direction_departementale_deleguee_de_la_cohesion_sociale_dddcs_cote_d_or",
+    "title": "Direction départementale déléguée de la cohésion sociale (DDDCS) - Côte-d'Or",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/cote-d-or/ddcs-21231-01",
+    "metadata": {
+      "email": "ddcs@cote-dor.gouv.fr",
+      "telephone": "03 80 68 30 00",
+      "url": ""
+    }
+  }
+]

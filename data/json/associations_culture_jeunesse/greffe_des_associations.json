@@ -1,0 +1,2098 @@
+[
+  {
+    "id": "c528c07a0a405d0588c353bb575e4e742d9cb175",
+    "name": "greffe_des_associations_ain_belley",
+    "title": "Greffe des associations - Ain Belley",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/ain/prefecture_greffe_associations-01034-01",
+    "metadata": {
+      "email": "sp-belley-associations@ain.gouv.fr",
+      "telephone": "04 79 87 87 45",
+      "url": "http://www.ain.gouv.fr"
+    }
+  },
+  {
+    "id": "875087a5db558a7b06327dbd2115aecb4524ef85",
+    "alternateName": "Château-Thierry",
+    "name": "greffe_des_associations_aisne_chateau_thierry",
+    "title": "Greffe des associations - Aisne (Château-Thierry)",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/aisne/prefecture_greffe_associations-02168-01",
+    "metadata": {
+      "email": "solenne.courtais@aisne.gouv.fr",
+      "telephone": "03 60 09 80 56",
+      "url": "http://www.aisne.gouv.fr"
+    }
+  },
+  {
+    "id": "aebd448b1e23223fd480933dc3575c2bb6c88ba3",
+    "alternateName": "Vervins",
+    "name": "greffe_des_associations_aisne_vervins",
+    "title": "Greffe des associations - Aisne (Vervins)",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/aisne/prefecture_greffe_associations-02789-01",
+    "metadata": {
+      "email": "sp-vervins@aisne.gouv.fr",
+      "telephone": "03 23 91 32 32",
+      "url": ""
+    }
+  },
+  {
+    "id": "4dcda57de91300219963f4d6471fcd48f2e638db",
+    "name": "greffe_des_associations_aisne_laon",
+    "title": "Greffe des associations - Aisne Laon",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/aisne/prefecture_greffe_associations-02408-01",
+    "metadata": {
+      "email": "ddcs02-directeur@aisne.gouv.fr",
+      "telephone": "03 60 81 50 00",
+      "url": "http://www.aisne.gouv.fr"
+    }
+  },
+  {
+    "id": "43e3f13542fc7c55202829e29cab5370b79bed36",
+    "name": "greffe_des_associations_aisne_saint_quentin",
+    "title": "Greffe des associations - Aisne Saint-Quentin",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/aisne/prefecture_greffe_associations-02691-01",
+    "metadata": {
+      "email": "sp-saint-quentin@aisne.gouv.fr",
+      "telephone": "03 60 09 81 06",
+      "url": ""
+    }
+  },
+  {
+    "id": "cc7a3e95511f84dc3d7e5f1b069a238a62ee8e1a",
+    "alternateName": "Montluçon",
+    "name": "greffe_des_associations_allier_montlucon",
+    "title": "Greffe des associations - Allier (Montluçon)",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/allier/prefecture_greffe_associations-03185-01",
+    "metadata": {
+      "email": "pref-associations@allier.gouv.fr",
+      "telephone": "04 70 02 25 04",
+      "url": "http://www.allier.gouv.fr"
+    }
+  },
+  {
+    "id": "e80713559d34909d56f0310890d0ea119f92da67",
+    "alternateName": "Castellane",
+    "name": "greffe_des_associations_alpes_de_haute_provence_castellane",
+    "title": "Greffe des associations - Alpes-de-Haute-Provence (Castellane)",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/alpes-de-haute-provence/prefecture_greffe_associations-04039-01",
+    "metadata": {
+      "email": "sp-castellane@alpes-de-haute-provence.gouv.fr",
+      "telephone": "04 92 36 77 65",
+      "url": "http://www.alpes-de-haute-provence.gouv.fr"
+    }
+  },
+  {
+    "id": "09bf4aa2a33f35babeb128e7ce02daed9500a7ec",
+    "name": "greffe_des_associations_alpes_de_haute_provence_barcelonnette",
+    "title": "Greffe des associations - Alpes-de-Haute-Provence Barcelonnette",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/alpes-de-haute-provence/prefecture_greffe_associations-04019-01",
+    "metadata": {
+      "email": "sp-barcelonnette@alpes-de-haute-provence.gouv.fr",
+      "telephone": "04 92 36 77 86",
+      "url": "http://www.alpes-de-haute-provence.gouv.fr"
+    }
+  },
+  {
+    "id": "bf30efb5bf58cb1b484c6ef3d7a1a7d600e9345b",
+    "name": "greffe_des_associations_alpes_de_haute_provence_digne_les_bains",
+    "title": "Greffe des associations - Alpes-de-Haute-Provence Digne-les-Bains",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/alpes-de-haute-provence/prefecture_greffe_associations-04070-01",
+    "metadata": {
+      "email": "yveline.meyer@alpes-de-haute-provence.gouv.fr",
+      "telephone": "04 92 30 37 72",
+      "url": "http://www.alpes-de-haute-provence.gouv.fr"
+    }
+  },
+  {
+    "id": "ef898cce5077675e7143944e9ad61a64093f229a",
+    "name": "greffe_des_associations_alpes_de_haute_provence_forcalquier",
+    "title": "Greffe des associations - Alpes-de-Haute-Provence Forcalquier",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/alpes-de-haute-provence/prefecture_greffe_associations-04088-01",
+    "metadata": {
+      "email": "catherine.roche@alpes-de-haute-provence.gouv.fr",
+      "telephone": "04 92 36 77 45",
+      "url": "http://www.alpes-de-haute-provence.gouv.fr"
+    }
+  },
+  {
+    "id": "6672031dc8e0d4b766f11e0dae974bedcefe3cf6",
+    "alternateName": "Grasse",
+    "name": "greffe_des_associations_alpes_maritimes_grasse",
+    "title": "Greffe des associations - Alpes-Maritimes (Grasse)",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/alpes-maritimes/prefecture_greffe_associations-06069-01",
+    "metadata": {
+      "email": "catherine.prudhomme@alpes-maritimes.gouv.fr",
+      "telephone": "04 92 42 32 47",
+      "url": "http://www.alpes-maritimes.gouv.fr"
+    }
+  },
+  {
+    "id": "b7a79649d54e69977f90c28a7798e1242e5bb6db",
+    "alternateName": "Nice",
+    "name": "greffe_des_associations_alpes_maritimes_nice",
+    "title": "Greffe des associations - Alpes-Maritimes (Nice)",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/alpes-maritimes/prefecture_greffe_associations-06088-01",
+    "metadata": {
+      "email": "pref-associations@alpes-maritimes.gouv.fr",
+      "telephone": "04 93 72 25 33",
+      "url": "http://www.alpes-maritimes.gouv.fr/Contactez-nous/Associations"
+    }
+  },
+  {
+    "id": "2b7647da5c4dae281d841eba49e1a5d2b178a16c",
+    "alternateName": "Largentière",
+    "name": "greffe_des_associations_ardeche_largentiere",
+    "title": "Greffe des associations - Ardèche (Largentière)",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/ardeche/prefecture_greffe_associations-07132-01",
+    "metadata": {
+      "email": "pref-assospl@ardeche.gouv.fr",
+      "telephone": "04 75 89 90 83",
+      "url": "http://www.ardeche.gouv.fr"
+    }
+  },
+  {
+    "id": "5e838bf7a807c1ea6905ece8cecd1af09282824b",
+    "alternateName": "Privas",
+    "name": "greffe_des_associations_ardeche_privas",
+    "title": "Greffe des associations - Ardèche (Privas)",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/ardeche/prefecture_greffe_associations-07186-01",
+    "metadata": {
+      "email": "associations@ardeche.gouv.fr",
+      "telephone": "04 75 66 50 00",
+      "url": "http://www.ardeche.gouv.fr"
+    }
+  },
+  {
+    "id": "6e9bb1eabcf72a20e5a34bee9b0ae6af74249db4",
+    "alternateName": "Tournon-sur-Rhône",
+    "name": "greffe_des_associations_ardeche_tournon_sur_rhone",
+    "title": "Greffe des associations - Ardèche (Tournon-sur-Rhône)",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/ardeche/prefecture_greffe_associations-07324-01",
+    "metadata": {
+      "email": "sp-tournon@ardeche.gouv.fr",
+      "telephone": "04 75 07 07 70",
+      "url": "http://www.ardeche.gouv.fr"
+    }
+  },
+  {
+    "id": "5ed56057b16ffc49aba77110e5414d568371fbdb",
+    "alternateName": "Charleville-Mézières",
+    "name": "greffe_des_associations_ardennes_charleville_mezieres",
+    "title": "Greffe des associations - Ardennes (Charleville-Mézières)",
+    "url": "https://lannuaire.service-public.fr/grand-est/ardennes/prefecture_greffe_associations-08105-01",
+    "metadata": {
+      "email": "ddcspp-greffe-assoc@ardennes.gouv.fr",
+      "telephone": "03 10 07 33 86",
+      "url": "http://www.ardennes.gouv.fr"
+    }
+  },
+  {
+    "id": "2daea5a3b6ba3d4aa171948637a34256650e0603",
+    "alternateName": "Foix",
+    "name": "greffe_des_associations_ariege_foix",
+    "title": "Greffe des associations - Ariège (Foix)",
+    "url": "https://lannuaire.service-public.fr/occitanie/ariege/prefecture_greffe_associations-09122-01",
+    "metadata": {
+      "email": "magali.gaubert@ariege.gouv.fr",
+      "telephone": "05 61 02 43 75",
+      "url": "http://www.ariege.gouv.fr"
+    }
+  },
+  {
+    "id": "284ecac0e8fe41d93409ffb2d371347827ffadc9",
+    "alternateName": "Troyes",
+    "name": "greffe_des_associations_aube_troyes",
+    "title": "Greffe des associations - Aube (Troyes)",
+    "url": "https://lannuaire.service-public.fr/grand-est/aube/prefecture_greffe_associations-10387-01",
+    "metadata": {
+      "email": "laure.hardy@aube.gouv.fr",
+      "telephone": "03 25 80 33 33",
+      "url": "http://www.aube.gouv.fr"
+    }
+  },
+  {
+    "id": "e77dc74823ceacf07390a9869cdc43e24bcfe807",
+    "name": "greffe_des_associations_aube_bar_sur_aube",
+    "title": "Greffe des associations - Aube - Bar-sur-Aube",
+    "url": "https://lannuaire.service-public.fr/grand-est/aube/prefecture_greffe_associations-10033-01",
+    "metadata": {
+      "email": "simon.pasquereau@aube.gouv.fr",
+      "telephone": "03 25 27 50 86",
+      "url": "http://www.aube.gouv.fr"
+    }
+  },
+  {
+    "id": "a59cc1461bb5a7a7fef434e06faf6956bff14d34",
+    "name": "greffe_des_associations_aube_nogent_sur_seine",
+    "title": "Greffe des associations - Aube - Nogent-sur-Seine",
+    "url": "https://lannuaire.service-public.fr/grand-est/aube/prefecture_greffe_associations-10268-01",
+    "metadata": {
+      "email": "sp-nogent-sur-seine@aube.gouv.fr",
+      "telephone": "03 25 39 82 19",
+      "url": ""
+    }
+  },
+  {
+    "id": "cca7457c4a4788d6c76f876a5041da17165efce3",
+    "name": "greffe_des_associations_aude_carcassonne",
+    "title": "Greffe des associations - Aude - Carcassonne",
+    "url": "https://lannuaire.service-public.fr/occitanie/aude/prefecture_greffe_associations-11069-01",
+    "metadata": {
+      "email": "courrier@aude.gouv.fr",
+      "telephone": "04 68 10 27 51",
+      "url": "http://www.aude.gouv.fr"
+    }
+  },
+  {
+    "id": "db612c0bcd3feb23522f073d3a3dd7049a498f84",
+    "name": "greffe_des_associations_aveyron_millau",
+    "title": "Greffe des associations - Aveyron - Millau",
+    "url": "https://lannuaire.service-public.fr/occitanie/aveyron/prefecture_greffe_associations-12145-01",
+    "metadata": {
+      "email": "pref-associations@aveyron.gouv.fr",
+      "telephone": "05 65 61 17 00",
+      "url": "http://www.aveyron.gouv.fr"
+    }
+  },
+  {
+    "id": "62ca09ea782349df05f109f2cd35475bb108a6d4",
+    "name": "greffe_des_associations_bas_rhin_illkirch_graffenstaden",
+    "title": "Greffe des associations - Bas-Rhin - Illkirch-Graffenstaden",
+    "url": "https://lannuaire.service-public.fr/grand-est/bas-rhin/prefecture_greffe_associations-67218-01",
+    "metadata": {
+      "email": "associations.tprx-illkirch.graffenstaden@justice.fr",
+      "telephone": "03 88 55 94 45",
+      "url": ""
+    }
+  },
+  {
+    "id": "6df79dca1d355a2d276b9147eaa8c8d05b7b06f0",
+    "name": "greffe_des_associations_bas_rhin_molsheim",
+    "title": "Greffe des associations - Bas-Rhin - Molsheim",
+    "url": "https://lannuaire.service-public.fr/grand-est/bas-rhin/prefecture_greffe_associations-67300-01",
+    "metadata": {
+      "email": "accueil.tprx-molsheim@justice.fr",
+      "telephone": "03 88 49 72 49",
+      "url": ""
+    }
+  },
+  {
+    "id": "378ed2308dcaf6fe331b7ed2e1c5e9b0c83ea0e0",
+    "name": "greffe_des_associations_bas_rhin_saverne",
+    "title": "Greffe des associations - Bas-Rhin - Saverne",
+    "url": "https://lannuaire.service-public.fr/grand-est/bas-rhin/prefecture_greffe_associations-67437-01",
+    "metadata": {
+      "email": "tj1-saverne@justice.fr",
+      "telephone": "03 88 71 61 51",
+      "url": ""
+    }
+  },
+  {
+    "id": "7acc025b090cd5a017ed9cb5a0be3b32785f8c8c",
+    "name": "greffe_des_associations_bas_rhin_schiltigheim",
+    "title": "Greffe des associations - Bas-Rhin - Schiltigheim",
+    "url": "https://lannuaire.service-public.fr/grand-est/bas-rhin/prefecture_greffe_associations-67447-01",
+    "metadata": {
+      "email": "associations.tprx-schiltigheim@justice.fr",
+      "telephone": "03 88 19 27 82",
+      "url": ""
+    }
+  },
+  {
+    "id": "d980d0c5f77929dccd12f7abc048012928bf0044",
+    "name": "greffe_des_associations_bas_rhin_selestat",
+    "title": "Greffe des associations - Bas-Rhin - Sélestat",
+    "url": "https://lannuaire.service-public.fr/grand-est/bas-rhin/prefecture_greffe_associations-67462-01",
+    "metadata": {
+      "email": "associations.tprix-selestat@justice.fr",
+      "telephone": "03 69 56 00 21",
+      "url": "http://www.reseau-sara.org"
+    }
+  },
+  {
+    "id": "99fd8bc8bae4e788548eee2d4474735fa1a1f960",
+    "name": "greffe_des_associations_bas_rhin_strasbourg",
+    "title": "Greffe des associations - Bas-Rhin - Strasbourg",
+    "url": "https://lannuaire.service-public.fr/grand-est/bas-rhin/prefecture_greffe_associations-67482-01",
+    "metadata": {
+      "email": "associations.tj-strasbourg@justice.fr",
+      "telephone": "03 88 15 59 29",
+      "url": ""
+    }
+  },
+  {
+    "id": "e1b4b7b779913c6d460fedfa8874a70372aacc78",
+    "alternateName": "Istres",
+    "name": "greffe_des_associations_bouches_du_rhone_istres",
+    "title": "Greffe des associations - Bouches-du-Rhône (Istres)",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/prefecture_greffe_associations-13047-01",
+    "metadata": {
+      "email": "sp-istres-associations@bouches-du-rhone.gouv.fr",
+      "telephone": "04 42 86 57 69",
+      "url": "http://www.bouches-du-rhone.gouv.fr"
+    }
+  },
+  {
+    "id": "7c1f7924bf6d170c154c82f726ed22ab8fb1ac64",
+    "alternateName": "Caen",
+    "name": "greffe_des_associations_calvados_caen",
+    "title": "Greffe des associations - Calvados (Caen)",
+    "url": "https://lannuaire.service-public.fr/normandie/calvados/prefecture_greffe_associations-14118-01",
+    "metadata": {
+      "email": "pref-associations@calvados.gouv.fr",
+      "telephone": "02 31 30 63 14",
+      "url": "http://www.calvados.gouv.fr"
+    }
+  },
+  {
+    "id": "4d4b96117e03719667387fca1d4ca8a3a0e6fa68",
+    "alternateName": "Saint-Flour",
+    "name": "greffe_des_associations_cantal_saint_flour",
+    "title": "Greffe des associations - Cantal (Saint-Flour)",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/cantal/prefecture_greffe_associations-15187-01",
+    "metadata": {
+      "email": "sous-prefecture-de-mauriac@cantal.gouv.fr",
+      "telephone": "04 71 68 06 06",
+      "url": "http://www.cantal.gouv.fr"
+    }
+  },
+  {
+    "id": "e7052e493ee6f24dd47308cb2e258e4195f3431f",
+    "name": "greffe_des_associations_cantal_mauriac",
+    "title": "Greffe des associations - Cantal - Mauriac",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/cantal/prefecture_greffe_associations-15120-01",
+    "metadata": {
+      "email": "beatrice.chambon@cantal.gouv.fr",
+      "telephone": "04 71 68 06 06",
+      "url": "http://www.cantal.gouv.fr"
+    }
+  },
+  {
+    "id": "6ad184bc17842bbc41d1daf979516cd1f9d4e16f",
+    "alternateName": "Angoulême",
+    "name": "greffe_des_associations_charente_angouleme",
+    "title": "Greffe des associations - Charente (Angoulême)",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/charente/prefecture_greffe_associations-16015-01",
+    "metadata": {
+      "email": "ddcspp@charente.gouv.fr",
+      "telephone": "05 16 16 62 19",
+      "url": "http://www.charente.gouv.fr"
+    }
+  },
+  {
+    "id": "4a5b975c48a108baed324f222d3b615672d388ab",
+    "alternateName": "Jonzac",
+    "name": "greffe_des_associations_charente_maritime_jonzac",
+    "title": "Greffe des associations - Charente-Maritime (Jonzac)",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/charente-maritime/prefecture_greffe_associations-17197-01",
+    "metadata": {
+      "email": "yasmina.bordas@charente-maritime.gouv.fr",
+      "telephone": "05 46 48 02 11",
+      "url": ""
+    }
+  },
+  {
+    "id": "77a3182b4ed75a7df77beb9195e8a29f9661916c",
+    "alternateName": "La Rochelle",
+    "name": "greffe_des_associations_charente_maritime_la_rochelle",
+    "title": "Greffe des associations - Charente-Maritime (La Rochelle)",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/charente-maritime/prefecture_greffe_associations-17300-01",
+    "metadata": {
+      "email": "ddcs@charente-maritime.gouv.fr",
+      "telephone": "05 46 35 25 53",
+      "url": "http://www.charente-maritime.gouv.fr"
+    }
+  },
+  {
+    "id": "26e2445e4dbcf2efdfa60fda1d690ceebe004a2c",
+    "alternateName": "Saintes",
+    "name": "greffe_des_associations_charente_maritime_saintes",
+    "title": "Greffe des associations - Charente-Maritime (Saintes)",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/charente-maritime/prefecture_greffe_associations-17415-01",
+    "metadata": {
+      "email": "sp-saintes@charente-maritime.gouv.fr",
+      "telephone": "05 46 27 43 00",
+      "url": "http://www.charente-maritime.gouv.fr"
+    }
+  },
+  {
+    "id": "4ae4ea9ce39fc48f95bbab42b2c9a7403c46e692",
+    "alternateName": "Saint-Jean-d'Angély",
+    "name": "greffe_des_associations_charente_maritime_saint_jean_d_angely",
+    "title": "Greffe des associations - Charente-Maritime (Saint-Jean-d'Angély)",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/charente-maritime/prefecture_greffe_associations-17347-01",
+    "metadata": {
+      "email": "sp-saint-jean-d-angely@charente-maritime.gouv.fr",
+      "telephone": "05 46 27 45 82",
+      "url": "http://charente-maritime.gouv.fr"
+    }
+  },
+  {
+    "id": "a515ecfabe60b82400eb34e4060f06b2f710c4c3",
+    "name": "greffe_des_associations_charente_maritime_rochefort",
+    "title": "Greffe des associations - Charente-Maritime - Rochefort",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/charente-maritime/prefecture_greffe_associations-17299-01",
+    "metadata": {
+      "email": "sp-rochefort@charente-maritime.gouv.fr",
+      "telephone": "05 46 27 43 00",
+      "url": "http://www.charente-maritime.gouv.fr"
+    }
+  },
+  {
+    "id": "e295d81728f8a8f215f1ed73a1b1573c173c899e",
+    "alternateName": "Bourges",
+    "name": "greffe_des_associations_cher_bourges",
+    "title": "Greffe des associations - Cher (Bourges)",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/cher/prefecture_greffe_associations-18033-01",
+    "metadata": {
+      "email": "patricia.bouet@cher.gouv.fr",
+      "telephone": "02 36 78 37 52",
+      "url": ""
+    }
+  },
+  {
+    "id": "6d151571d3bf80d273a0a45c44a8864467930d6b",
+    "alternateName": "Ussel",
+    "name": "greffe_des_associations_correze_ussel",
+    "title": "Greffe des associations - Corrèze (Ussel)",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/correze/prefecture_greffe_associations-19275-01",
+    "metadata": {
+      "email": "sous-prefecture-ussel@correze.gouv.fr",
+      "telephone": "05 55 72 62 37",
+      "url": "http://www.correze.gouv.fr"
+    }
+  },
+  {
+    "id": "459fec89a2b34a871d8e366fe201bee67539a6fd",
+    "name": "greffe_des_associations_correze_brive_la_gaillarde",
+    "title": "Greffe des associations - Corrèze - Brive-la-Gaillarde",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/correze/prefecture_greffe_associations-19031-01",
+    "metadata": {
+      "email": "sp-brive@correze.gouv.fr",
+      "telephone": "05 55 17 79 53",
+      "url": "http://www.correze.gouv.fr"
+    }
+  },
+  {
+    "id": "9d343726567cdab30558832e616731d36d0085fe",
+    "name": "greffe_des_associations_correze_tulle",
+    "title": "Greffe des associations - Corrèze - Tulle",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/correze/prefecture_greffe_associations-19272-01",
+    "metadata": {
+      "email": "marie-josee.madur@correze.gouv.fr",
+      "telephone": "05 55 20 55 69",
+      "url": "http://www.correze.gouv.fr"
+    }
+  },
+  {
+    "id": "edb09dcdbfe99f02f8df5a519a43e9c7f7bb842c",
+    "alternateName": "Ajaccio",
+    "name": "greffe_des_associations_corse_du_sud_ajaccio",
+    "title": "Greffe des associations - Corse du Sud (Ajaccio)",
+    "url": "https://lannuaire.service-public.fr/corse/corse-du-sud/prefecture_greffe_associations-2A004-01",
+    "metadata": {
+      "email": "christine.campana@corse-du-sud.gouv.fr",
+      "telephone": "04 95 11 11 01",
+      "url": "http://www.corse.gouv.fr"
+    }
+  },
+  {
+    "id": "0721dd588091a5fa2d1539ba26863539b9788016",
+    "alternateName": "Dijon",
+    "name": "greffe_des_associations_cote_d_or_dijon",
+    "title": "Greffe des associations - Côte-d'Or (Dijon)",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/cote-d-or/prefecture_greffe_associations-21231-01",
+    "metadata": {
+      "email": "ddcs-associations@cote-dor.gouv.fr",
+      "telephone": "03 80 68 31 00",
+      "url": "http://www.bourgogne.gouv.fr"
+    }
+  },
+  {
+    "id": "0c46a3b957cdbb4080f753c133d1bcccc3b00a1b",
+    "alternateName": "Saint-Brieuc",
+    "name": "greffe_des_associations_cotes_d_armor_saint_brieuc",
+    "title": "Greffe des associations - Côtes-d'Armor (Saint-Brieuc)",
+    "url": "https://lannuaire.service-public.fr/bretagne/cotes-d-armor/prefecture_greffe_associations-22278-01",
+    "metadata": {
+      "email": "ddcs-associations@cotes-darmor.gouv.fr",
+      "telephone": "02 96 62 83 30",
+      "url": "http://www.cotes-darmor.pref.gouv.fr"
+    }
+  },
+  {
+    "id": "cc000886810e6de248675090130ba504ec6faddf",
+    "alternateName": "Aubusson",
+    "name": "greffe_des_associations_creuse_aubusson",
+    "title": "Greffe des associations - Creuse (Aubusson)",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/creuse/prefecture_greffe_associations-23008-01",
+    "metadata": {
+      "email": "standard-prefecture@creuse.gouv.fr",
+      "telephone": "08 10 01 23 23",
+      "url": "http://www.creuse.gouv.fr"
+    }
+  },
+  {
+    "id": "236523614311dc397ef194a1be6eba51edd76bd7",
+    "alternateName": "Guéret",
+    "name": "greffe_des_associations_creuse_gueret",
+    "title": "Greffe des associations - Creuse (Guéret)",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/creuse/prefecture_greffe_associations-23096-01",
+    "metadata": {
+      "email": "ddcspp@creuse.gouv.fr",
+      "telephone": "08 10 01 23 23",
+      "url": "http://www.creuse.gouv.fr"
+    }
+  },
+  {
+    "id": "c05c15658efa0060cf507719f0c49feff14c155c",
+    "alternateName": "Bressuire",
+    "name": "greffe_des_associations_deux_sevres_bressuire",
+    "title": "Greffe des associations - Deux-Sèvres (Bressuire)",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/deux-sevres/prefecture_greffe_associations-79049-01",
+    "metadata": {
+      "email": "sp-bressuire@deux-sevres.gouv.fr",
+      "telephone": "05 49 08 68 68",
+      "url": "http://www.deux-sevres.gouv.fr"
+    }
+  },
+  {
+    "id": "55d5817992690609e6d018c892d66c32254a9b03",
+    "alternateName": "Niort",
+    "name": "greffe_des_associations_deux_sevres_niort",
+    "title": "Greffe des associations - Deux-Sèvres (Niort)",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/deux-sevres/prefecture_greffe_associations-79191-01",
+    "metadata": {
+      "email": "ddcspp-associations@deux-sevres.gouv.fr",
+      "telephone": "05 49 17 27 07",
+      "url": "http://www.deux-sevres.gouv.fr"
+    }
+  },
+  {
+    "id": "cded7b5ebffe3d7a1cfe083837ec88a68a0a4edc",
+    "name": "greffe_des_associations_deux_sevres_parthenay",
+    "title": "Greffe des associations - Deux-Sèvres - Parthenay",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/deux-sevres/prefecture_greffe_associations-79202-01",
+    "metadata": {
+      "email": "sp-parthenay@deux-sevres.gouv.fr",
+      "telephone": "05 49 08 68 68",
+      "url": "http://www.deux-sevres.gouv.fr"
+    }
+  },
+  {
+    "id": "f51a2ddf29f9e0edac6b642a575cbc4fdf8e87ed",
+    "alternateName": "Bergerac",
+    "name": "greffe_des_associations_dordogne_bergerac",
+    "title": "Greffe des associations - Dordogne (Bergerac)",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/dordogne/prefecture_greffe_associations-24037-01",
+    "metadata": {
+      "email": "sp-bergerac@dordogne.gouv.fr",
+      "telephone": "05 47 24 16 14",
+      "url": "http://www.dordogne.gouv.fr"
+    }
+  },
+  {
+    "id": "5d8329cde9c394a1f48c0c23b3caf653775ed74d",
+    "alternateName": "Périgueux",
+    "name": "greffe_des_associations_dordogne_perigueux",
+    "title": "Greffe des associations - Dordogne (Périgueux)",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/dordogne/prefecture_greffe_associations-24322-01",
+    "metadata": {
+      "email": "ddcspp@dordogne.gouv.fr",
+      "telephone": "05 53 03 66 35",
+      "url": "http://www.dordogne.gouv.fr"
+    }
+  },
+  {
+    "id": "fc071d11cf84dee83c45e6c43e412735e5a3d905",
+    "name": "greffe_des_associations_dordogne_nontron",
+    "title": "Greffe des associations - Dordogne - Nontron",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/dordogne/prefecture_greffe_associations-24311-01",
+    "metadata": {
+      "email": "sp-nontron@dordogne.gouv.fr",
+      "telephone": "05 47 24 16 88",
+      "url": "http://www.dordogne.gouv.fr"
+    }
+  },
+  {
+    "id": "e0ff858c290b17c06b5a7b1f775211c12d8ef7f5",
+    "name": "greffe_des_associations_dordogne_sarlat_la_caneda",
+    "title": "Greffe des associations - Dordogne - Sarlat-la-Canéda",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/dordogne/prefecture_greffe_associations-24520-01",
+    "metadata": {
+      "email": "sp-sarlat@dordogne.gouv.fr",
+      "telephone": "05 47 24 16 66",
+      "url": "http://www.dordogne.gouv.fr"
+    }
+  },
+  {
+    "id": "466a8986f4d7ef518244f0ad9499ae9712636bc7",
+    "alternateName": "Pontarlier",
+    "name": "greffe_des_associations_doubs_pontarlier",
+    "title": "Greffe des associations - Doubs (Pontarlier)",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/doubs/prefecture_greffe_associations-25462-01",
+    "metadata": {
+      "email": "prefecture@doubs.gouv.fr",
+      "telephone": "03 81 39 81 39",
+      "url": "http://www.doubs.gouv.fr"
+    }
+  },
+  {
+    "id": "72c397907995662cd90b49178df5d0d203021133",
+    "alternateName": "Valence",
+    "name": "greffe_des_associations_drome_valence",
+    "title": "Greffe des associations - Drôme (Valence)",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/drome/prefecture_greffe_associations-26362-01",
+    "metadata": {
+      "email": "ddcs-associations@drome.gouv.fr",
+      "telephone": "04 26 52 22 61",
+      "url": "http://www.drome.gouv.fr"
+    }
+  },
+  {
+    "id": "81b86e29a496ad0fca8fbefb4798802683613e03",
+    "alternateName": "Étampes",
+    "name": "greffe_des_associations_essonne_etampes",
+    "title": "Greffe des associations - Essonne (Étampes)",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/essonne/prefecture_greffe_associations-91223-01",
+    "metadata": {
+      "email": "pref-associations-sp-etampes@essonne.gouv.fr",
+      "telephone": "01 69 91 91 91",
+      "url": "http://www.essonne.gouv.fr"
+    }
+  },
+  {
+    "id": "307bf99093271ce7ba413fdf50eb56dc14880046",
+    "alternateName": "Évreux",
+    "name": "greffe_des_associations_eure_evreux",
+    "title": "Greffe des associations - Eure (Évreux)",
+    "url": "https://lannuaire.service-public.fr/normandie/eure/prefecture_greffe_associations-27229-01",
+    "metadata": {
+      "email": "valerie.peysse@eure.gouv.fr",
+      "telephone": "02 32 24 88 28",
+      "url": "http://www.eure.gouv.fr"
+    }
+  },
+  {
+    "id": "af9d2303e35fe709bae1c60d724543868f9d6588",
+    "alternateName": "Châteaudun",
+    "name": "greffe_des_associations_eure_et_loir_chateaudun",
+    "title": "Greffe des associations - Eure-et-Loir (Châteaudun)",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/eure-et-loir/prefecture_greffe_associations-28088-01",
+    "metadata": {
+      "email": "sp-chateaudun@eure-et-loir.gouv.fr",
+      "telephone": "02 37 27 71 19",
+      "url": "http://www.eure-et-loir.gouv.fr"
+    }
+  },
+  {
+    "id": "feb6a47a00dc9c427ddbf5f908fe381c4ea0ada5",
+    "alternateName": "Dreux",
+    "name": "greffe_des_associations_eure_et_loir_dreux",
+    "title": "Greffe des associations - Eure-et-Loir (Dreux)",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/eure-et-loir/prefecture_greffe_associations-28134-01",
+    "metadata": {
+      "email": "sylvie.trombini@eure-et-loir.gouv.fr",
+      "telephone": "02 37 27 72 00",
+      "url": "http://www.eure-et-loir.gouv.fr"
+    }
+  },
+  {
+    "id": "c997408150bf1d91113a34cbe785ab68636bb808",
+    "name": "greffe_des_associations_eure_et_loir_chartres",
+    "title": "Greffe des associations - Eure-et-Loir - Chartres",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/eure-et-loir/prefecture_greffe_associations-28085-01",
+    "metadata": {
+      "email": "ddcspp-associations@eure-et-loir.gouv.fr",
+      "telephone": "02 37 20 52 43",
+      "url": "http://www.eure-et-loir.gouv.fr"
+    }
+  },
+  {
+    "id": "7075a09968989ae866e70b54c1c32ab00ee49091",
+    "name": "greffe_des_associations_finistere_brest",
+    "title": "Greffe des associations - Finistère - Brest",
+    "url": "https://lannuaire.service-public.fr/bretagne/finistere/prefecture_greffe_associations-29019-01",
+    "metadata": {
+      "email": "sp-brest-associations@finistere.gouv.fr",
+      "telephone": "02 98 00 97 96",
+      "url": "http://www.finistere.gouv.fr"
+    }
+  },
+  {
+    "id": "69f9b46c1fa207b8ea48fc09270de1b88eb1c25a",
+    "name": "greffe_des_associations_finistere_morlaix",
+    "title": "Greffe des associations - Finistère - Morlaix",
+    "url": "https://lannuaire.service-public.fr/bretagne/finistere/prefecture_greffe_associations-29151-01",
+    "metadata": {
+      "email": "sp-brest-associations@finistère.gouv.fr",
+      "telephone": "02 98 00 97 96",
+      "url": "http://www.finistere.gouv.fr"
+    }
+  },
+  {
+    "id": "fb3557ab1bded3b543d89be2f7494821249d24d7",
+    "name": "greffe_des_associations_finistere_quimper",
+    "title": "Greffe des associations - Finistère - Quimper",
+    "url": "https://lannuaire.service-public.fr/bretagne/finistere/prefecture_greffe_associations-29232-01",
+    "metadata": {
+      "email": "pref-associations@finistere.gouv.fr",
+      "telephone": "02 98 76 28 53",
+      "url": "http://www.finistere.gouv.fr"
+    }
+  },
+  {
+    "id": "0386209cfc38fe1407bbb2a0e7877d0a28c0b6ea",
+    "name": "greffe_des_associations_gard",
+    "title": "Greffe des associations - Gard",
+    "url": "https://lannuaire.service-public.fr/occitanie/gard/prefecture_greffe_associations-30007-01",
+    "metadata": {
+      "email": "pref-associations@gard.gouv.fr",
+      "telephone": "04 66 56 39 17",
+      "url": "www.gard.gouv.fr"
+    }
+  },
+  {
+    "id": "9cf37a7da97a88133907cbf1e5e0be76684c0f0f",
+    "alternateName": "Condom",
+    "name": "greffe_des_associations_gers_condom",
+    "title": "Greffe des associations - Gers (Condom)",
+    "url": "https://lannuaire.service-public.fr/occitanie/gers/prefecture_greffe_associations-32107-01",
+    "metadata": {
+      "email": "sp-condom@gers.gouv.fr",
+      "telephone": "05 62 61 44 00",
+      "url": "http://www.gers.gouv.fr"
+    }
+  },
+  {
+    "id": "2d0fc7a7bf0974c508bd147e2ef80eef78c232ce",
+    "alternateName": "Mirande",
+    "name": "greffe_des_associations_gers_mirande",
+    "title": "Greffe des associations - Gers (Mirande)",
+    "url": "https://lannuaire.service-public.fr/occitanie/gers/prefecture_greffe_associations-32256-01",
+    "metadata": {
+      "email": "sp-mirande@gers.gouv.fr",
+      "telephone": "05 62 61 45 26",
+      "url": "http://www.gers.gouv.fr"
+    }
+  },
+  {
+    "id": "ec5fe91f53f795b598b4e75bf163322ef414e8e6",
+    "name": "greffe_des_associations_gers_auch",
+    "title": "Greffe des associations - Gers - Auch",
+    "url": "https://lannuaire.service-public.fr/occitanie/gers/prefecture_greffe_associations-32013-01",
+    "metadata": {
+      "email": "pref-associations@gers.gouv.fr",
+      "telephone": "05 62 61 43 72",
+      "url": "http://www.gers.gouv.fr"
+    }
+  },
+  {
+    "id": "b3c97e82b0cc29d63d9bf0b82bb9f53e25dba83f",
+    "alternateName": "Arcachon",
+    "name": "greffe_des_associations_gironde_arcachon",
+    "title": "Greffe des associations - Gironde (Arcachon)",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/gironde/prefecture_greffe_associations-33009-01",
+    "metadata": {
+      "email": "josiane.cami@gironde.gouv.fr",
+      "telephone": "535002311",
+      "url": "http://www.gironde.gouv.fr"
+    }
+  },
+  {
+    "id": "bba6c674e382b8e6b398c979ee4079de275bbbbf",
+    "alternateName": "Blaye",
+    "name": "greffe_des_associations_gironde_blaye",
+    "title": "Greffe des associations - Gironde (Blaye)",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/gironde/prefecture_greffe_associations-33058-01",
+    "metadata": {
+      "email": "sp-blaye@gironde.gouv.fr",
+      "telephone": "05 56 90 66 66",
+      "url": "http://www.gironde.gouv.fr"
+    }
+  },
+  {
+    "id": "fe76eabddc08cc85c14052d91a47eb16e4703b9b",
+    "alternateName": "Bordeaux - ASL et AFUL",
+    "name": "greffe_des_associations_gironde_bordeaux_asl_et_aful",
+    "title": "Greffe des associations - Gironde (Bordeaux - ASL et AFUL)",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/gironde/prefecture_greffe_associations-33063-01",
+    "metadata": {
+      "email": "pref-dcl-greffe@gironde.gouv.fr",
+      "telephone": "556906331",
+      "url": "http://www.gironde.gouv.fr/Demarches-administratives/Associations-toutes-vos-demarches/ASL-et-AFUL"
+    }
+  },
+  {
+    "id": "d99b6a5a5afe0c49af9ea04d493dae855712f8ac",
+    "alternateName": "Bordeaux - loi 1901",
+    "name": "greffe_des_associations_gironde_bordeaux_loi_1901",
+    "title": "Greffe des associations - Gironde (Bordeaux - loi 1901)",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/gironde/prefecture_greffe_associations-33063-02",
+    "metadata": {
+      "email": "ddcs-associations@gironde.gouv.fr",
+      "telephone": "05 47 47 47 52",
+      "url": ""
+    }
+  },
+  {
+    "id": "9d6053a294056b6131e9a8302d055dd9d19b05ff",
+    "alternateName": "Langon",
+    "name": "greffe_des_associations_gironde_langon",
+    "title": "Greffe des associations - Gironde (Langon)",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/gironde/prefecture_greffe_associations-33227-01",
+    "metadata": {
+      "email": "sp-langon@gironde.gouv.fr",
+      "telephone": "05 56 90 60 60",
+      "url": "http://www.gironde.gouv.fr"
+    }
+  },
+  {
+    "id": "3422a5af3064da43ef37e2feb888dd8968fa39ea",
+    "alternateName": "Lesparre-Médoc",
+    "name": "greffe_des_associations_gironde_lesparre_medoc",
+    "title": "Greffe des associations - Gironde (Lesparre-Médoc)",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/gironde/prefecture_greffe_associations-33240-01",
+    "metadata": {
+      "email": "sp-lesparre@gironde.gouv.fr",
+      "telephone": "05 35 00 23 96",
+      "url": ""
+    }
+  },
+  {
+    "id": "b34b04ece4b0ba2b007113a344afac03c80bf662",
+    "alternateName": "Libourne",
+    "name": "greffe_des_associations_gironde_libourne",
+    "title": "Greffe des associations - Gironde (Libourne)",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/gironde/prefecture_greffe_associations-33243-01",
+    "metadata": {
+      "email": "catherine.sarlandie@gironde.gouv.fr",
+      "telephone": "05 35 00 24 29",
+      "url": ""
+    }
+  },
+  {
+    "id": "b41526a819a397b545284bd017025ebf73c2ff44",
+    "alternateName": "Basse-Terre",
+    "name": "greffe_des_associations_guadeloupe_basse_terre",
+    "title": "Greffe des associations - Guadeloupe (Basse-Terre)",
+    "url": "https://lannuaire.service-public.fr/guadeloupe/guadeloupe/prefecture_greffe_associations-97105-01",
+    "metadata": {
+      "email": "associations-loi-1901@guadeloupe.pref.gouv.fr",
+      "telephone": "",
+      "url": ""
+    }
+  },
+  {
+    "id": "c393b8097a93832b5a298d3b1a23340c4e17f9ba",
+    "alternateName": "Les Abymes",
+    "name": "greffe_des_associations_guadeloupe_les_abymes",
+    "title": "Greffe des associations - Guadeloupe (Les Abymes)",
+    "url": "https://lannuaire.service-public.fr/guadeloupe/guadeloupe/prefecture_greffe_associations-97101-01",
+    "metadata": {
+      "email": "",
+      "telephone": "+590 5 90 48 91 66",
+      "url": ""
+    }
+  },
+  {
+    "id": "3c22dbdf88142798ea0c51424bf96e9410a414f4",
+    "alternateName": "Cayenne",
+    "name": "greffe_des_associations_guyane_cayenne",
+    "title": "Greffe des associations - Guyane (Cayenne)",
+    "url": "https://lannuaire.service-public.fr/guyane/guyane/prefecture_greffe_associations-97302-01",
+    "metadata": {
+      "email": "djscs-guyane-associations@jscs.gouv.fr",
+      "telephone": "+594 5 94 25 53 10",
+      "url": "http://www.guyane.drjscs.gouv.fr"
+    }
+  },
+  {
+    "id": "dfaa069b47b328d28ceaea610795c068805105b2",
+    "alternateName": "Bastia",
+    "name": "greffe_des_associations_haute_corse_bastia",
+    "title": "Greffe des associations - Haute-Corse (Bastia)",
+    "url": "https://lannuaire.service-public.fr/corse/haute-corse/prefecture_greffe_associations-2B033-01",
+    "metadata": {
+      "email": "pref-associations@haute-corse.gouv.fr",
+      "telephone": "04 95 34 52 69",
+      "url": "http://www.haute-corse.gouv.fr/pour-les-associations-r338.html"
+    }
+  },
+  {
+    "id": "7e89d0ca40db49da2965484aa1298eae3defccff",
+    "alternateName": "Muret",
+    "name": "greffe_des_associations_haute_garonne_muret",
+    "title": "Greffe des associations - Haute-Garonne (Muret)",
+    "url": "https://lannuaire.service-public.fr/occitanie/haute-garonne/prefecture_greffe_associations-31395-01",
+    "metadata": {
+      "email": "pref-public-associations@haute-garonne.gouv.fr",
+      "telephone": "05 34 45 34 45",
+      "url": "http://www.haute-garonne.gouv.fr/Demarches-administratives/Associations/Informations-locales/Votre-association-100-en-ligne"
+    }
+  },
+  {
+    "id": "23acde64f5244f46ce4ba826cb4e9196d2b5c5e0",
+    "alternateName": "Le Puy-en-Velay",
+    "name": "greffe_des_associations_haute_loire_le_puy_en_velay",
+    "title": "Greffe des associations - Haute-Loire (Le Puy-en-Velay)",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/haute-loire/prefecture_greffe_associations-43157-01",
+    "metadata": {
+      "email": "",
+      "telephone": "471508184",
+      "url": "http://www.haute-loire.gouv.fr"
+    }
+  },
+  {
+    "id": "f9dd7223d1df2073ae239b090566aa182e1b1cf9",
+    "name": "greffe_des_associations_haute_loire_brioude",
+    "title": "Greffe des associations - Haute-Loire - Brioude",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/haute-loire/prefecture_greffe_associations-43040-01",
+    "metadata": {
+      "email": "pref-associations@haute-loire.gouv.fr",
+      "telephone": "04 71 50 81 84",
+      "url": ""
+    }
+  },
+  {
+    "id": "44b353f301856d00ec039dc323798f95fdd4eb85",
+    "name": "greffe_des_associations_haute_loire_yssingeaux",
+    "title": "Greffe des associations - Haute-Loire - Yssingeaux",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/haute-loire/prefecture_greffe_associations-43268-01",
+    "metadata": {
+      "email": "sp-yssingeaux@haute-loire.gouv.fr",
+      "telephone": "04 71 65 71 04",
+      "url": ""
+    }
+  },
+  {
+    "id": "b239c32176da0bcc38a4325d45633a65a83c6580",
+    "alternateName": "Langres",
+    "name": "greffe_des_associations_haute_marne_langres",
+    "title": "Greffe des associations - Haute-Marne (Langres)",
+    "url": "https://lannuaire.service-public.fr/grand-est/haute-marne/prefecture_greffe_associations-52269-01",
+    "metadata": {
+      "email": "sous-prefecture-de-langres@haute-marne.gouv.fr",
+      "telephone": "03 25 87 07 57",
+      "url": "http://www.haute-marne.gouv.fr"
+    }
+  },
+  {
+    "id": "4a4aaff2818e8e35eabe134a9f2bcb07ca52a43f",
+    "alternateName": "Saint-Dizier",
+    "name": "greffe_des_associations_haute_marne_saint_dizier",
+    "title": "Greffe des associations - Haute-Marne (Saint-Dizier)",
+    "url": "https://lannuaire.service-public.fr/grand-est/haute-marne/prefecture_greffe_associations-52448-01",
+    "metadata": {
+      "email": "sous-prefecture-de-saint-dizier@haute-marne.pref.gouv.fr",
+      "telephone": "03 25 56 94 71",
+      "url": "http://www.haute-marne.gouv.fr"
+    }
+  },
+  {
+    "id": "f78c27ede25875f74e998e15c0ba45b52ec91408",
+    "name": "greffe_des_associations_haute_marne_chaumont",
+    "title": "Greffe des associations - Haute-Marne - Chaumont",
+    "url": "https://lannuaire.service-public.fr/grand-est/haute-marne/prefecture_greffe_associations-52121-01",
+    "metadata": {
+      "email": "prefecture@haute-marne.gouv.fr",
+      "telephone": "03 25 30 52 52",
+      "url": "http://www.haute-marne.gouv.fr"
+    }
+  },
+  {
+    "id": "18d3895f1b06da960d654bcc6beffcc40a353298",
+    "alternateName": "Briançon",
+    "name": "greffe_des_associations_hautes_alpes_briancon",
+    "title": "Greffe des associations - Hautes-Alpes (Briançon)",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/hautes-alpes/prefecture_greffe_associations-05023-01",
+    "metadata": {
+      "email": "pref-associations@hautes-alpes.gouv.fr",
+      "telephone": "04 92 25 47 16",
+      "url": "http://www.hautes-alpes.gouv.fr"
+    }
+  },
+  {
+    "id": "d917fe9f451b4593cff5e2b3ad08b23053cfb109",
+    "alternateName": "Vesoul",
+    "name": "greffe_des_associations_haute_saone_vesoul",
+    "title": "Greffe des associations - Haute-Saône (Vesoul)",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/haute-saone/prefecture_greffe_associations-70550-01",
+    "metadata": {
+      "email": "maryse.broussier@haute-saone.gouv.fr",
+      "telephone": "03 84 77 70 74",
+      "url": "http://www.haute-saone.gouv.fr"
+    }
+  },
+  {
+    "id": "eb5da66e59ff3714174f6388c750c08133f1ba52",
+    "alternateName": "Annecy - Thonon-les-Bains - Saint-Julien-en-Genevois",
+    "name": "greffe_des_associations_haute_savoie_annecy_thonon_les_bains_saint_julien_en_genevois",
+    "title": "Greffe des associations - Haute-Savoie (Annecy - Thonon-les-Bains - Saint-Julien-en-Genevois)",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/haute-savoie/prefecture_greffe_associations-74010-01",
+    "metadata": {
+      "email": "pref-associations@haute-savoie.gouv.fr",
+      "telephone": "04 50 33 60 00",
+      "url": "http://www.haute-savoie.gouv.fr"
+    }
+  },
+  {
+    "id": "5db3e914c5ac0fc5b72bc85dba996f172f6adfe4",
+    "alternateName": "Bagnères-de-Bigorre",
+    "name": "greffe_des_associations_hautes_pyrenees_bagneres_de_bigorre",
+    "title": "Greffe des associations - Hautes-Pyrénées (Bagnères-de-Bigorre)",
+    "url": "https://lannuaire.service-public.fr/occitanie/hautes-pyrenees/prefecture_greffe_associations-65059-01",
+    "metadata": {
+      "email": "sp-bagneres@hautes-pyrenees.gouv.fr",
+      "telephone": "05 62 91 30 30",
+      "url": "http://www.hautes-pyrenees.gouv.fr"
+    }
+  },
+  {
+    "id": "ede475b821a36fc25bbb284d7920b2062d28a560",
+    "alternateName": "Tarbes",
+    "name": "greffe_des_associations_hautes_pyrenees_tarbes",
+    "title": "Greffe des associations - Hautes-Pyrénées (Tarbes)",
+    "url": "https://lannuaire.service-public.fr/occitanie/hautes-pyrenees/prefecture_greffe_associations-65440-01",
+    "metadata": {
+      "email": "ddcspp-jsva@hautes-pyrenees.gouv.fr",
+      "telephone": "05 62 46 42 20",
+      "url": "http://www.hautes-pyrenees.gouv.fr"
+    }
+  },
+  {
+    "id": "0726cf4788f33b487148801913f5387efb7ad35b",
+    "name": "greffe_des_associations_hautes_pyrenees_argeles_gazost",
+    "title": "Greffe des associations - Hautes-Pyrénées - Argelès-Gazost",
+    "url": "https://lannuaire.service-public.fr/occitanie/hautes-pyrenees/prefecture_greffe_associations-65025-01",
+    "metadata": {
+      "email": "sp-argeles@hautes-pyrenees.gouv.fr",
+      "telephone": "05 62 97 71 71",
+      "url": "http://www.hautes-pyrenees.gouv.fr"
+    }
+  },
+  {
+    "id": "c78603a1f857c5b1ce4e157e87cc01086fb86f10",
+    "alternateName": "Limoges",
+    "name": "greffe_des_associations_haute_vienne_limoges",
+    "title": "Greffe des associations - Haute-Vienne (Limoges)",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/haute-vienne/prefecture_greffe_associations-87085-01",
+    "metadata": {
+      "email": "pref-pass87@haute-vienne.gouv.fr",
+      "telephone": "05 19 76 12 57",
+      "url": "http://www.haute-vienne.gouv.fr"
+    }
+  },
+  {
+    "id": "e1d24b2ed45cc60c6de677cf8d55d5a2102d3e64",
+    "name": "greffe_des_associations_haute_vienne_rochechouart",
+    "title": "Greffe des associations - Haute-Vienne - Rochechouart",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/haute-vienne/prefecture_greffe_associations-87126-01",
+    "metadata": {
+      "email": "sp-rochechouart@haute-vienne.gouv.fr",
+      "telephone": "05 55 43 83 10",
+      "url": "http://www.haute-vienne.gouv.fr"
+    }
+  },
+  {
+    "id": "b05c739806317e671921490944de76f298b56994",
+    "alternateName": "Colmar",
+    "name": "greffe_des_associations_haut_rhin_colmar",
+    "title": "Greffe des associations - Haut-Rhin (Colmar)",
+    "url": "https://lannuaire.service-public.fr/grand-est/haut-rhin/prefecture_greffe_associations-68066-01",
+    "metadata": {
+      "email": "associations.ti-colmar@justice.fr",
+      "telephone": "03 89 24 77 59",
+      "url": "http://www.reseau-sara.org"
+    }
+  },
+  {
+    "id": "4757daf58c56ceb9aac20161117b206ae34eaa4c",
+    "name": "greffe_des_associations_haut_rhin_guebwiller",
+    "title": "Greffe des associations - Haut-Rhin - Guebwiller",
+    "url": "https://lannuaire.service-public.fr/grand-est/haut-rhin/prefecture_greffe_associations-68112-01",
+    "metadata": {
+      "email": "associations.tprx-guebwiller@justice.fr",
+      "telephone": "03 89 62 17 20",
+      "url": "http://www.reseau-sara.org"
+    }
+  },
+  {
+    "id": "5bf2f04b95e6e4a4e8849d49ba933a30378a8f6f",
+    "name": "greffe_des_associations_haut_rhin_mulhouse",
+    "title": "Greffe des associations - Haut-Rhin - Mulhouse",
+    "url": "https://lannuaire.service-public.fr/grand-est/haut-rhin/prefecture_greffe_associations-68224-01",
+    "metadata": {
+      "email": "associations.tj-mulhouse@justice.fr",
+      "telephone": "03 89 35 42 69",
+      "url": ""
+    }
+  },
+  {
+    "id": "095d252e16e542c1c5dc6f18424d3a0b202901c2",
+    "name": "greffe_des_associations_haut_rhin_thann",
+    "title": "Greffe des associations - Haut-Rhin - Thann",
+    "url": "https://lannuaire.service-public.fr/grand-est/haut-rhin/prefecture_greffe_associations-68334-01",
+    "metadata": {
+      "email": "associations.tprx-thann@justice.fr",
+      "telephone": "03 89 37 41 44",
+      "url": ""
+    }
+  },
+  {
+    "id": "1658e515ff8423bf2d6deed0d6b848e0a03ac8c3",
+    "alternateName": "Antony",
+    "name": "greffe_des_associations_hauts_de_seine_antony",
+    "title": "Greffe des associations - Hauts-de-Seine (Antony)",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/hauts-de-seine/prefecture_greffe_associations-92002-01",
+    "metadata": {
+      "email": "",
+      "telephone": "01 40 97 20 00",
+      "url": "http://www.hauts-de-seine.gouv.fr"
+    }
+  },
+  {
+    "id": "93b5513404d930d3e615c6232a1d8cd3a6e84ff5",
+    "name": "greffe_des_associations_hauts_de_seine_nanterre",
+    "title": "Greffe des associations - Hauts-de-Seine - Nanterre",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/hauts-de-seine/prefecture_greffe_associations-92050-01",
+    "metadata": {
+      "email": "ddcs-associations@hauts-de-seine.gouv.fr",
+      "telephone": "01 40 97 45 78",
+      "url": "http://www.service-public.frassociations"
+    }
+  },
+  {
+    "id": "7b4b4ae376bdcb34fd8a11f105b8bbd9d15d5cd6",
+    "alternateName": "Béziers - arrondissement",
+    "name": "greffe_des_associations_herault_beziers_arrondissement",
+    "title": "Greffe des associations - Hérault (Béziers - arrondissement)",
+    "url": "https://lannuaire.service-public.fr/occitanie/herault/prefecture_greffe_associations-34032-01",
+    "metadata": {
+      "email": "ddcs-associations@herault.gouv.fr",
+      "telephone": "04 67 36 70 69",
+      "url": "http://herault.gouv.fr/Politiques-publiques/Jeunesse-sport-et-associations/Associations2/Greffe-des-associations"
+    }
+  },
+  {
+    "id": "b60c0f2d2aa62f0f5a1f3bb5a34c5c28d1a60d68",
+    "alternateName": "Lodève - arrondissement",
+    "name": "greffe_des_associations_herault_lodeve_arrondissement",
+    "title": "Greffe des associations - Hérault (Lodève - arrondissement)",
+    "url": "https://lannuaire.service-public.fr/occitanie/herault/prefecture_greffe_associations-34142-01",
+    "metadata": {
+      "email": "ddcs-associations@herault.gouv.fr",
+      "telephone": "04 67 88 34 00",
+      "url": "http://herault.gouv.fr/Politiques-publiques/Jeunesse-sport-et-associations/Associations2/Greffe-des-associations"
+    }
+  },
+  {
+    "id": "a260f8c011ccf95683dff01af31bc89f4dac89f5",
+    "name": "greffe_des_associations_herault_montpellier_arrondissement",
+    "title": "Greffe des associations - Hérault - Montpellier - Arrondissement",
+    "url": "https://lannuaire.service-public.fr/occitanie/herault/prefecture_greffe_associations-34172-01",
+    "metadata": {
+      "email": "ddcs-associations@herault.gouv.fr",
+      "telephone": "04 67 41 72 00",
+      "url": "http://www.herault.gouv.fr"
+    }
+  },
+  {
+    "id": "9ae4cf281d9da500b4302bf298f826ebdde049c0",
+    "alternateName": "Redon",
+    "name": "greffe_des_associations_ille_et_vilaine_redon",
+    "title": "Greffe des associations - Ille-et-Vilaine (Redon)",
+    "url": "https://lannuaire.service-public.fr/bretagne/ille-et-vilaine/prefecture_greffe_associations-35236-01",
+    "metadata": {
+      "email": "chantal.theou@ille-et-vilaine.gouv.fr",
+      "telephone": "08 21 80 30 35",
+      "url": "http://www.ille-et-vilaine.gouv.fr"
+    }
+  },
+  {
+    "id": "f242f84a31423e752788fd52cf4c9ccb41cb6380",
+    "alternateName": "Rennes",
+    "name": "greffe_des_associations_ille_et_vilaine_rennes",
+    "title": "Greffe des associations - Ille-et-Vilaine (Rennes)",
+    "url": "https://lannuaire.service-public.fr/bretagne/ille-et-vilaine/prefecture_greffe_associations-35238-01",
+    "metadata": {
+      "email": "pref-associations@ille-et-vilaine.gouv.fr",
+      "telephone": "02 99 02 14 22",
+      "url": "http://www.ille-et-vilaine.gouv.fr"
+    }
+  },
+  {
+    "id": "407572a96c5cabfe729f910ac9f90fdc81e35b84",
+    "alternateName": "Saint-Malo",
+    "name": "greffe_des_associations_ille_et_vilaine_saint_malo",
+    "title": "Greffe des associations - Ille-et-Vilaine (Saint-Malo)",
+    "url": "https://lannuaire.service-public.fr/bretagne/ille-et-vilaine/prefecture_greffe_associations-35288-01",
+    "metadata": {
+      "email": "pref-saint-malo-reglementation@ille-et-vilaine.gouv.fr",
+      "telephone": "08 21 80 30 35",
+      "url": "http://www.ille-et-vilaine.gouv.fr"
+    }
+  },
+  {
+    "id": "5b6505b89235a6334804054e5050ef362539088c",
+    "name": "greffe_des_associations_ille_et_vilaine_fougeres_vitre",
+    "title": "Greffe des associations - Ille-et-Vilaine - Fougères-Vitré",
+    "url": "https://lannuaire.service-public.fr/bretagne/ille-et-vilaine/prefecture_greffe_associations-35115-01",
+    "metadata": {
+      "email": "sp-fougeres-vitre@ille-et-vilaine.gouv.fr",
+      "telephone": "02 99 94 56 00",
+      "url": "http://www.bretagne.gouv.fr"
+    }
+  },
+  {
+    "id": "f7bafdee04ad7e6bfb8895a2d939738c5bfacfb2",
+    "alternateName": "Châteauroux",
+    "name": "greffe_des_associations_indre_chateauroux",
+    "title": "Greffe des associations - Indre (Châteauroux)",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/indre/prefecture_greffe_associations-36044-01",
+    "metadata": {
+      "email": "ddcspp@indre.gouv.fr",
+      "telephone": "02 54 53 82 12",
+      "url": "http://www.indre.gouv.fr"
+    }
+  },
+  {
+    "id": "7ffc43865c5884e156e81ca8e60d0c33bba1b531",
+    "alternateName": "Issoudun",
+    "name": "greffe_des_associations_indre_issoudun",
+    "title": "Greffe des associations - Indre (Issoudun)",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/indre/prefecture_greffe_associations-36088-01",
+    "metadata": {
+      "email": "sp-issoudun@indre.gouv.fr",
+      "telephone": "02 54 03 50 00",
+      "url": "http://www.indre.gouv.fr"
+    }
+  },
+  {
+    "id": "854ca66332f3f03269f46127b4c7c2b97c9d2e97",
+    "alternateName": "La Châtre",
+    "name": "greffe_des_associations_indre_la_chatre",
+    "title": "Greffe des associations - Indre (La Châtre)",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/indre/prefecture_greffe_associations-36046-01",
+    "metadata": {
+      "email": "sp-la-chatre@indre.gouv.fr",
+      "telephone": "02 54 62 15 00",
+      "url": "http://www.indre.gouv.fr"
+    }
+  },
+  {
+    "id": "7fbe81af94accbd6847353ccbed164d0f2310cb6",
+    "alternateName": "Le Blanc",
+    "name": "greffe_des_associations_indre_le_blanc",
+    "title": "Greffe des associations - Indre (Le Blanc)",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/indre/prefecture_greffe_associations-36018-01",
+    "metadata": {
+      "email": "sp-le-blanc@indre.gouv.fr",
+      "telephone": "02 54 37 10 91",
+      "url": "http://www.indre.gouv.fr"
+    }
+  },
+  {
+    "id": "8d691137c047c7780f16a28775c3448981cb6bee",
+    "name": "greffe_des_associations_indre_et_loire_tours",
+    "title": "Greffe des associations - Indre-et-Loire - Tours",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/indre-et-loire/prefecture_greffe_associations-37261-01",
+    "metadata": {
+      "email": "pref-associations@indre-et-loire.gouv.fr",
+      "telephone": "02 47 33 11 98",
+      "url": "http://www.associations37.org"
+    }
+  },
+  {
+    "id": "d3675ec73af7e374f22643e2e69a69a3e7759b28",
+    "alternateName": "Grenoble",
+    "name": "greffe_des_associations_isere_grenoble",
+    "title": "Greffe des associations - Isère (Grenoble)",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/isere/prefecture_greffe_associations-38185-01",
+    "metadata": {
+      "email": "ddcs-associations@isere.gouv.fr",
+      "telephone": "04 57 38 65 19",
+      "url": ""
+    }
+  },
+  {
+    "id": "a7ea5fde9a749e3f24b2307096db17ef7d6f6fa4",
+    "alternateName": "Saint-Claude",
+    "name": "greffe_des_associations_jura_saint_claude",
+    "title": "Greffe des associations - Jura (Saint-Claude)",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/jura/prefecture_greffe_associations-39478-01",
+    "metadata": {
+      "email": "brigitte.mugnier@jura.gouv.fr",
+      "telephone": "03 84 41 32 25",
+      "url": "http://www.jura.gouv.fr"
+    }
+  },
+  {
+    "id": "7f8bb3ab5607935969604eac353a978764275893",
+    "name": "greffe_des_associations_jura_dole",
+    "title": "Greffe des associations - Jura - Dole",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/jura/prefecture_greffe_associations-39198-01",
+    "metadata": {
+      "email": "spdole@jura.gouv.fr",
+      "telephone": "03 84 79 44 00",
+      "url": "http://www.jura.gouv.fr"
+    }
+  },
+  {
+    "id": "d10890c9b503a94554c00872ef6926404b5375aa",
+    "name": "greffe_des_associations_jura_lons_le_saunier",
+    "title": "Greffe des associations - Jura - Lons-le-Saunier",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/jura/prefecture_greffe_associations-39300-01",
+    "metadata": {
+      "email": "pref-associations@jura.gouv.fr",
+      "telephone": "03 84 86 85 59",
+      "url": ""
+    }
+  },
+  {
+    "id": "9e2740e62fa24cdc986ba53dda7f67505b6f9cb3",
+    "alternateName": "Mont-de-Marsan",
+    "name": "greffe_des_associations_landes_mont_de_marsan",
+    "title": "Greffe des associations - Landes (Mont-de-Marsan)",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/landes/prefecture_greffe_associations-40192-01",
+    "metadata": {
+      "email": "ddcspp-jsva@landes.gouv.fr",
+      "telephone": "05 58 05 76 90",
+      "url": "http://www.landes.gouv.fr"
+    }
+  },
+  {
+    "id": "c047fc5e58be1cf41fdd50c4f636d157e6558c5f",
+    "alternateName": "Saint-Denis",
+    "name": "greffe_des_associations_la_reunion_saint_denis",
+    "title": "Greffe des associations - La Réunion (Saint-Denis)",
+    "url": "https://lannuaire.service-public.fr/la-reunion/reunion/prefecture_greffe_associations-97411-01",
+    "metadata": {
+      "email": "dd974@drjscs.gouv.fr",
+      "telephone": "+262 262 20 96 47",
+      "url": "http://www.reunion.drjscs.gouv.fr"
+    }
+  },
+  {
+    "id": "76029d0186495df564ed60fad35edc2c61eec852",
+    "alternateName": "Saint-Paul",
+    "name": "greffe_des_associations_la_reunion_saint_paul",
+    "title": "Greffe des associations - La Réunion (Saint-Paul)",
+    "url": "https://lannuaire.service-public.fr/la-reunion/reunion/prefecture_greffe_associations-97415-01",
+    "metadata": {
+      "email": "associations@reunion.pref.gouv.fr",
+      "telephone": "+262 2 62 35 89 50",
+      "url": "http://www.service-public-asso.fr"
+    }
+  },
+  {
+    "id": "cdc6b82d69fcbd634f48295795247b0818e3edf6",
+    "alternateName": "Roanne",
+    "name": "greffe_des_associations_loire_roanne",
+    "title": "Greffe des associations - Loire (Roanne)",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/loire/prefecture_greffe_associations-42187-01",
+    "metadata": {
+      "email": "sp-roanne@loire.gouv.fr",
+      "telephone": "04 77 23 64 64",
+      "url": "http://www.loire.gouv.fr"
+    }
+  },
+  {
+    "id": "5737e6994cdbaa6c3ce92a13d8f6970ffe1b39c5",
+    "alternateName": "Saint-Étienne",
+    "name": "greffe_des_associations_loire_saint_etienne",
+    "title": "Greffe des associations - Loire (Saint-Étienne)",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/loire/prefecture_greffe_associations-42218-01",
+    "metadata": {
+      "email": "associations@loire.pref.gouv.fr",
+      "telephone": "04 77 48 47 63",
+      "url": "http://www.loire.gouv.fr"
+    }
+  },
+  {
+    "id": "c3b5e838af4d59b4f98daf00e2dcdf36d11205ac",
+    "alternateName": "Nantes",
+    "name": "greffe_des_associations_loire_atlantique_nantes",
+    "title": "Greffe des associations - Loire-Atlantique (Nantes)",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/loire-atlantique/prefecture_greffe_associations-44109-01",
+    "metadata": {
+      "email": "pref-associations@loire-atlantique.gouv.fr",
+      "telephone": "02 40 41 22 16",
+      "url": "http://www.loire-atlantique.gouv.fr"
+    }
+  },
+  {
+    "id": "0aeb487fb72755ce0fb845dbe9908e868b7d3456",
+    "name": "greffe_des_associations_loire_atlantique_chateaubriant_ancenis",
+    "title": "Greffe des associations - Loire-Atlantique - Châteaubriant-Ancenis",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/loire-atlantique/prefecture_greffe_associations-44036-01",
+    "metadata": {
+      "email": "sp-chateaubriant-ancenis@loire-atlantique.gouv.fr",
+      "telephone": "02 40 81 50 02",
+      "url": "http://www.loire-atlantique.gouv.fr"
+    }
+  },
+  {
+    "id": "6e0df402ec0e158143458557ccfe36e332ee3919",
+    "name": "greffe_des_associations_loire_montbrison",
+    "title": "Greffe des associations - Loire - Montbrison",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/loire/prefecture_greffe_associations-42147-01",
+    "metadata": {
+      "email": "pref-associations-montbrison@loire.gouv.fr",
+      "telephone": "04 77 96 37 28",
+      "url": "http://www.loire.gouv.fr"
+    }
+  },
+  {
+    "id": "3a72b7a7e918eab682043cff9ef508f9e50cdd1c",
+    "alternateName": "Orléans",
+    "name": "greffe_des_associations_loiret_orleans",
+    "title": "Greffe des associations - Loiret (Orléans)",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/loiret/prefecture_greffe_associations-45234-01",
+    "metadata": {
+      "email": "ddcs-associations@loiret.gouv.fr",
+      "telephone": "02 38 77 49 51",
+      "url": "http://www.loiret.gouv.fr/Demarches-administratives/Associations"
+    }
+  },
+  {
+    "id": "07c47b565d8c2da0ec7547896aad90542c03b4cc",
+    "alternateName": "Blois",
+    "name": "greffe_des_associations_loir_et_cher_blois",
+    "title": "Greffe des associations - Loir-et-Cher (Blois)",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/loir-et-cher/prefecture_greffe_associations-41018-01",
+    "metadata": {
+      "email": "ddcspp@loir-et-cher.gouv.fr",
+      "telephone": "02 54 70 41 41",
+      "url": "http://www.loir-et-cher.gouv.fr"
+    }
+  },
+  {
+    "id": "fcc60d59ee7be6c3b8de76fd1af7503992b586a5",
+    "name": "greffe_des_associations_loir_et_cher_romorantin_lanthenay",
+    "title": "Greffe des associations - Loir-et-Cher - Romorantin-Lanthenay",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/loir-et-cher/prefecture_greffe_associations-41194-01",
+    "metadata": {
+      "email": "pref-romorantin-accueil@loir-et-cher.gouv.fr",
+      "telephone": "02 54 95 22 34",
+      "url": "http://www.loir-et-cher.gouv.fr"
+    }
+  },
+  {
+    "id": "1042e6d65b06549108f9e1fe9ef2f92425c59058",
+    "name": "greffe_des_associations_loir_et_cher_vendome",
+    "title": "Greffe des associations - Loir-et-Cher - Vendôme",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/loir-et-cher/prefecture_greffe_associations-41269-01",
+    "metadata": {
+      "email": "sp-vendome@loir-et-cher.gouv.fr",
+      "telephone": "02 54 73 57 07",
+      "url": ""
+    }
+  },
+  {
+    "id": "5fd21765eae717e77fb7ceaeac739380068bb574",
+    "alternateName": "Figeac",
+    "name": "greffe_des_associations_lot_figeac",
+    "title": "Greffe des associations - Lot (Figeac)",
+    "url": "https://lannuaire.service-public.fr/occitanie/lot/prefecture_greffe_associations-46102-01",
+    "metadata": {
+      "email": "sp-figeac@lot.gouv.fr",
+      "telephone": "05 65 34 89 86",
+      "url": "http://www.lot.gouv.fr"
+    }
+  },
+  {
+    "id": "d548c25b4b9887a1167c0c2bf8ee9f77d4a0ef70",
+    "alternateName": "Gourdon",
+    "name": "greffe_des_associations_lot_gourdon",
+    "title": "Greffe des associations - Lot (Gourdon)",
+    "url": "https://lannuaire.service-public.fr/occitanie/lot/prefecture_greffe_associations-46127-01",
+    "metadata": {
+      "email": "sp-gourdon@lot.gouv.fr",
+      "telephone": "05 65 41 00 08",
+      "url": "http://www.lot.gouv.fr"
+    }
+  },
+  {
+    "id": "3652c79c1948d82e6f81b2c596515158e5e5c277",
+    "name": "greffe_des_associations_lot_cahors",
+    "title": "Greffe des associations - Lot - Cahors",
+    "url": "https://lannuaire.service-public.fr/occitanie/lot/prefecture_greffe_associations-46042-01",
+    "metadata": {
+      "email": "christelle.raffy@lot.gouv.fr",
+      "telephone": "05 65 23 11 65",
+      "url": "http://www.lot.gouv.fr"
+    }
+  },
+  {
+    "id": "0199468da7aeb83274ea3ce16e3d0bfa3610ca79",
+    "alternateName": "Agen et Nérac",
+    "name": "greffe_des_associations_lot_et_garonne_agen_et_nerac",
+    "title": "Greffe des associations - Lot-et-Garonne (Agen et Nérac)",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/lot-et-garonne/prefecture_greffe_associations-47001-01",
+    "metadata": {
+      "email": "greffe-asso-ddcspp@lot-et-garonne.gouv.fr",
+      "telephone": "05 53 98 66 78",
+      "url": "http://www.lot-et-garonne.gouv.fr"
+    }
+  },
+  {
+    "id": "c26d901a347bfee51c07a1f460f568647afafc61",
+    "name": "greffe_des_associations_lozere_florac_trois_rivieres",
+    "title": "Greffe des associations - Lozère - Florac-Trois-Rivières",
+    "url": "https://lannuaire.service-public.fr/occitanie/lozere/prefecture_greffe_associations-48061-01",
+    "metadata": {
+      "email": "sp-florac@lozere.gouv.fr",
+      "telephone": "04 66 65 62 80",
+      "url": "http://www.lozere.gouv.fr"
+    }
+  },
+  {
+    "id": "8f80791d6ea017a9479e4fbb90a9862567f53403",
+    "alternateName": "Cholet",
+    "name": "greffe_des_associations_maine_et_loire_cholet",
+    "title": "Greffe des associations - Maine-et-Loire (Cholet)",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/maine-et-loire/prefecture_greffe_associations-49099-01",
+    "metadata": {
+      "email": "sp-associations-cholet@maine-et-loire.gouv.fr",
+      "telephone": "",
+      "url": "https://www.service-public.fr/associations/vosdroits/services-en-ligne-et-formulaires"
+    }
+  },
+  {
+    "id": "8a6fcf6601a26802093d5ddbe646bda1540f2a71",
+    "alternateName": "Saumur",
+    "name": "greffe_des_associations_maine_et_loire_saumur",
+    "title": "Greffe des associations - Maine-et-Loire (Saumur)",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/maine-et-loire/prefecture_greffe_associations-49328-01",
+    "metadata": {
+      "email": "isabelle.prevot@maine-et-loire.gouv.fr",
+      "telephone": "02 53 57 90 23",
+      "url": "https://www.service-public.fr/associations/vosdroits/services-en-ligne-et-formulaires"
+    }
+  },
+  {
+    "id": "a25da8a4624f8aa07db41d5dd59f959dd477add9",
+    "alternateName": "Segré-en-Anjou Bleu",
+    "name": "greffe_des_associations_maine_et_loire_segre_en_anjou_bleu",
+    "title": "Greffe des associations - Maine-et-Loire (Segré-en-Anjou Bleu)",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/maine-et-loire/prefecture_greffe_associations-49331-01",
+    "metadata": {
+      "email": "sp-segre@maine-et-loire.gouv.fr",
+      "telephone": "02 41 81 80 80",
+      "url": "https://www.service-public.fr/associations/vosdroits/services-en-ligne-et-formulaires"
+    }
+  },
+  {
+    "id": "09150fe4ee23f914127858e25a5bd5968c683031",
+    "name": "greffe_des_associations_maine_et_loire_angers",
+    "title": "Greffe des associations - Maine-et-Loire - Angers",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/maine-et-loire/prefecture_greffe_associations-49007-01",
+    "metadata": {
+      "email": "pref-associations@maine-et-loire.gouv.fr",
+      "telephone": "02 41 81 81 11",
+      "url": "https://www.service-public.frassociations/vosdroits/services-en-ligne-et-formulaires"
+    }
+  },
+  {
+    "id": "a83a43f45df7e6e07c71df6041fbfec235b3c0c3",
+    "alternateName": "Saint-Lô",
+    "name": "greffe_des_associations_manche_saint_lo",
+    "title": "Greffe des associations - Manche (Saint-Lô)",
+    "url": "https://lannuaire.service-public.fr/normandie/manche/prefecture_greffe_associations-50502-01",
+    "metadata": {
+      "email": "ddcs-associations@manche.gouv.fr",
+      "telephone": "02 50 71 50 00",
+      "url": "http://www.manche.gouv.fr"
+    }
+  },
+  {
+    "id": "0edafe50fc60bac7aa3af4e9212c850e7d7c0a92",
+    "alternateName": "Reims",
+    "name": "greffe_des_associations_marne_reims",
+    "title": "Greffe des associations - Marne (Reims)",
+    "url": "https://lannuaire.service-public.fr/grand-est/marne/prefecture_greffe_associations-51454-01",
+    "metadata": {
+      "email": "sp-reims@marne.gouv.fr",
+      "telephone": "03 26 86 71 00",
+      "url": "http://www.marne.gouv.fr"
+    }
+  },
+  {
+    "id": "8e65625d9bf2d589261c3e9d4991d0bc4421aee4",
+    "name": "greffe_des_associations_mayenne_chateau_gontier",
+    "title": "Greffe des associations - Mayenne - Château-Gontier",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/mayenne/prefecture_greffe_associations-53062-01",
+    "metadata": {
+      "email": "pref-associations@mayenne.gouv.fr",
+      "telephone": "02 53 54 54 54",
+      "url": "http://www.mayenne.gouv.fr"
+    }
+  },
+  {
+    "id": "d756398705283c31f8d208c77c3879bac4da5e5d",
+    "name": "greffe_des_associations_mayenne_laval",
+    "title": "Greffe des associations - Mayenne - Laval",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/mayenne/prefecture_greffe_associations-53130-01",
+    "metadata": {
+      "email": "pref-associations@mayenne.gouv.fr",
+      "telephone": "02 53 54 54 54",
+      "url": "http://www.mayenne.gouv.fr"
+    }
+  },
+  {
+    "id": "8f673305952f07cbed75b36febe55a555eab04a4",
+    "alternateName": "Briey",
+    "name": "greffe_des_associations_meurthe_et_moselle_briey",
+    "title": "Greffe des associations - Meurthe-et-Moselle (Briey)",
+    "url": "https://lannuaire.service-public.fr/grand-est/meurthe-et-moselle/prefecture_greffe_associations-54099-01",
+    "metadata": {
+      "email": "sp-briey@meurthe-et-moselle.gouv.fr",
+      "telephone": "03 54 59 55 00",
+      "url": "http://www.meurthe-et-moselle.gouv.fr"
+    }
+  },
+  {
+    "id": "94901c2b8d4ef0bea2c9133f59699e0bfbe2b82e",
+    "alternateName": "Lunéville",
+    "name": "greffe_des_associations_meurthe_et_moselle_luneville",
+    "title": "Greffe des associations - Meurthe-et-Moselle (Lunéville)",
+    "url": "https://lannuaire.service-public.fr/grand-est/meurthe-et-moselle/prefecture_greffe_associations-54329-01",
+    "metadata": {
+      "email": "sp-luneville@meurthe-et-moselle.gouv.fr",
+      "telephone": "03 83 76 64 00",
+      "url": "http://www.meurthe-et-moselle.gouv.fr"
+    }
+  },
+  {
+    "id": "a68c51d809cbdfaa8d41fbc5aeb03af39a83053d",
+    "alternateName": "Nancy",
+    "name": "greffe_des_associations_meurthe_et_moselle_nancy",
+    "title": "Greffe des associations - Meurthe-et-Moselle (Nancy)",
+    "url": "https://lannuaire.service-public.fr/grand-est/meurthe-et-moselle/prefecture_greffe_associations-54395-01",
+    "metadata": {
+      "email": "pref-associations@meurthe-et-moselle.gouv.fr",
+      "telephone": "03 83 34 27 54",
+      "url": "http://www.meurthe-et-moselle.gouv.fr"
+    }
+  },
+  {
+    "id": "d55d72765f1a47481c57fb5d0e4267e50a3067f9",
+    "name": "greffe_des_associations_meurthe_et_moselle_toul",
+    "title": "Greffe des associations - Meurthe-et-Moselle - Toul",
+    "url": "https://lannuaire.service-public.fr/grand-est/meurthe-et-moselle/prefecture_greffe_associations-54528-01",
+    "metadata": {
+      "email": "sp-toul-reglementation@meurthe-et-moselle.gouv.fr",
+      "telephone": "03 83 65 35 35",
+      "url": "http://www.meurthe-et-moselle.gouv.fr"
+    }
+  },
+  {
+    "id": "db3caa71a4529c75ee71c1f1471d83f909daf420",
+    "alternateName": "Commercy",
+    "name": "greffe_des_associations_meuse_commercy",
+    "title": "Greffe des associations - Meuse (Commercy)",
+    "url": "https://lannuaire.service-public.fr/grand-est/meuse/prefecture_greffe_associations-55122-01",
+    "metadata": {
+      "email": "sp-commercy@meuse.gouv.fr",
+      "telephone": "03 29 91 11 52",
+      "url": "http://www.meuse.gouv.fr"
+    }
+  },
+  {
+    "id": "ba140f7ed7a49a1ad8a29e33163fe2021c752b77",
+    "name": "greffe_des_associations_meuse_bar_le_duc",
+    "title": "Greffe des associations - Meuse - Bar-le-Duc",
+    "url": "https://lannuaire.service-public.fr/grand-est/meuse/prefecture_greffe_associations-55029-01",
+    "metadata": {
+      "email": "pref-associations@meuze.gouv.fr",
+      "telephone": "03 29 77 58 69",
+      "url": "http://www.meuse.gouv.fr"
+    }
+  },
+  {
+    "id": "2329671b0cfb585a22adf786433a5085a4dc05cd",
+    "name": "greffe_des_associations_morbihan_lorient",
+    "title": "Greffe des associations - Morbihan - Lorient",
+    "url": "https://lannuaire.service-public.fr/bretagne/morbihan/prefecture_greffe_associations-56121-01",
+    "metadata": {
+      "email": "pref-associations@morbihan.gouv.fr",
+      "telephone": "02 97 27 67 68",
+      "url": "http://www.morbihan.gouv.fr"
+    }
+  },
+  {
+    "id": "d0cea64076701db60d6a7842f7f66d8ce9e29123",
+    "name": "greffe_des_associations_morbihan_pontivy",
+    "title": "Greffe des associations - Morbihan - Pontivy",
+    "url": "https://lannuaire.service-public.fr/bretagne/morbihan/prefecture_greffe_associations-56178-01",
+    "metadata": {
+      "email": "pref-associations@morbihan.gouv.fr",
+      "telephone": "02 97 27 67 68",
+      "url": "http://www.morbihan.gouv.fr"
+    }
+  },
+  {
+    "id": "34a09ca82d016bd9f2d2c41a02e1f910589d279d",
+    "alternateName": "Metz",
+    "name": "greffe_des_associations_moselle_metz",
+    "title": "Greffe des associations - Moselle (Metz)",
+    "url": "https://lannuaire.service-public.fr/grand-est/moselle/prefecture_greffe_associations-57463-01",
+    "metadata": {
+      "email": "gug.metz@justice.fr",
+      "telephone": "03 87 56 75 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "a997f00c7dbd72596c2ed6d8aec42bdd9c826d29",
+    "alternateName": "Saint-Avold",
+    "name": "greffe_des_associations_moselle_saint_avold",
+    "title": "Greffe des associations - Moselle (Saint-Avold)",
+    "url": "https://lannuaire.service-public.fr/grand-est/moselle/prefecture_greffe_associations-57606-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 87 92 11 55",
+      "url": ""
+    }
+  },
+  {
+    "id": "64159e69e1aafdd58123ceb7ed868a6f18c746ea",
+    "alternateName": "Sarrebourg",
+    "name": "greffe_des_associations_moselle_sarrebourg",
+    "title": "Greffe des associations - Moselle (Sarrebourg)",
+    "url": "https://lannuaire.service-public.fr/grand-est/moselle/prefecture_greffe_associations-57630-01",
+    "metadata": {
+      "email": "associations-ti-sarrebourg@justice.fr",
+      "telephone": "03 87 23 71 82",
+      "url": ""
+    }
+  },
+  {
+    "id": "8ffc9facfab5f62276c56994e1efbc67de600ce0",
+    "alternateName": "Thionville",
+    "name": "greffe_des_associations_moselle_thionville",
+    "title": "Greffe des associations - Moselle (Thionville)",
+    "url": "https://lannuaire.service-public.fr/grand-est/moselle/prefecture_greffe_associations-57672-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 55 84 30 20",
+      "url": ""
+    }
+  },
+  {
+    "id": "6bd2cc51a7ea85dcd0601154f5638cf62fac3286",
+    "name": "greffe_des_associations_moselle_sarreguemines",
+    "title": "Greffe des associations - Moselle - Sarreguemines",
+    "url": "https://lannuaire.service-public.fr/grand-est/moselle/prefecture_greffe_associations-57631-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 87 28 31 13",
+      "url": "http://www.alsacemouvementassociatif.org.fr"
+    }
+  },
+  {
+    "id": "8b1891ba779055a10e66aa14e5853df798c824f3",
+    "alternateName": "Clamecy",
+    "name": "greffe_des_associations_nievre_clamecy",
+    "title": "Greffe des associations - Nièvre (Clamecy)",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/nievre/prefecture_greffe_associations-58079-01",
+    "metadata": {
+      "email": "sous-prefecture-de-clamecy@nievre.gouv.fr",
+      "telephone": "03 86 60 71 71",
+      "url": "http://www.nievre.gouv.fr"
+    }
+  },
+  {
+    "id": "7e3b6e04c82ad102a9a2b21995639fa0d0e845c0",
+    "alternateName": "Cosne-Cours-sur-Loire",
+    "name": "greffe_des_associations_nievre_cosne_cours_sur_loire",
+    "title": "Greffe des associations - Nièvre (Cosne-Cours-sur-Loire)",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/nievre/prefecture_greffe_associations-58086-01",
+    "metadata": {
+      "email": "sous-prefecture-de-cosne-sur-loire@nievre.pref.gouv.fr",
+      "telephone": "03 86 26 70 48",
+      "url": "http://www.nievre.gouv.fr"
+    }
+  },
+  {
+    "id": "32ee46ab66ae950713f16c3de1b1756de953fe84",
+    "alternateName": "Nevers",
+    "name": "greffe_des_associations_nievre_nevers",
+    "title": "Greffe des associations - Nièvre (Nevers)",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/nievre/prefecture_greffe_associations-58194-01",
+    "metadata": {
+      "email": "associations@nievre.pref.gouv.fr",
+      "telephone": "386607127",
+      "url": "http://www.nievre.gouv.fr"
+    }
+  },
+  {
+    "id": "f5efe9e4c3d25ec0b46cf01d5f76de706b881120",
+    "name": "greffe_des_associations_nievre_chateau_chinon",
+    "title": "Greffe des associations - Nièvre - Château-Chinon",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/nievre/prefecture_greffe_associations-58062-01",
+    "metadata": {
+      "email": "sous-prefecture-de-chateau-chinon@nievre.gouv.fr",
+      "telephone": "03 86 79 48 48",
+      "url": "http://www.nievre.gouv.fr"
+    }
+  },
+  {
+    "id": "74b9427de25efb70e55572f5660b80c328384779",
+    "alternateName": "Cambrai",
+    "name": "greffe_des_associations_nord_cambrai",
+    "title": "Greffe des associations - Nord (Cambrai)",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/nord/prefecture_greffe_associations-59122-01",
+    "metadata": {
+      "email": "maryse.beague@nord.gouv.fr",
+      "telephone": "03 27 72 59 75",
+      "url": "http://www.nord.gouv.fr"
+    }
+  },
+  {
+    "id": "22150b954f02d2ac64478b4c48176d27373704a6",
+    "alternateName": "Douai",
+    "name": "greffe_des_associations_nord_douai",
+    "title": "Greffe des associations - Nord (Douai)",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/nord/prefecture_greffe_associations-59178-01",
+    "metadata": {
+      "email": "sp-douai-associations@nord.gouv.fr",
+      "telephone": "03 27 93 59 59",
+      "url": "http://www.nord.gouv.fr"
+    }
+  },
+  {
+    "id": "a9f196488ad050b6d1899426aaab89be8a302523",
+    "alternateName": "Dunkerque",
+    "name": "greffe_des_associations_nord_dunkerque",
+    "title": "Greffe des associations - Nord (Dunkerque)",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/nord/prefecture_greffe_associations-59183-01",
+    "metadata": {
+      "email": "sp-dunkerque-associations@nord.gouv.fr",
+      "telephone": "03 28 20 59 48",
+      "url": "http://www.nord.gouv.fr"
+    }
+  },
+  {
+    "id": "2dd695118385cc31e5d3e5fcb4b3540aa60d4c73",
+    "alternateName": "Lille",
+    "name": "greffe_des_associations_nord_lille",
+    "title": "Greffe des associations - Nord (Lille)",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/nord/prefecture_greffe_associations-59350-01",
+    "metadata": {
+      "email": "pref-associations@nord.gouv.fr",
+      "telephone": "03 27 93 59 59",
+      "url": "http://www.nord.gouv.fr"
+    }
+  },
+  {
+    "id": "acfcb83e80f8cfd2e90a79e0ce01ae26f5d17454",
+    "alternateName": "Valenciennes",
+    "name": "greffe_des_associations_nord_valenciennes",
+    "title": "Greffe des associations - Nord (Valenciennes)",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/nord/prefecture_greffe_associations-59606-01",
+    "metadata": {
+      "email": "sp-valenciennes-ag@nord.gouv.fr",
+      "telephone": "03 27 14 59 44",
+      "url": ""
+    }
+  },
+  {
+    "id": "c8c0ad2299d367652eadbf1ab82dea6292119ec3",
+    "name": "greffe_des_associations_nord_avesnes_sur_helpe",
+    "title": "Greffe des associations - Nord - Avesnes-sur-Helpe",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/nord/prefecture_greffe_associations-59036-01",
+    "metadata": {
+      "email": "spp-avesnes@nord.gouv.fr",
+      "telephone": "03 27 61 59 66",
+      "url": "http://www.nord.gouv.fr"
+    }
+  },
+  {
+    "id": "f83b96122fab692e8fb493389afe246fbf817c91",
+    "name": "greffe_des_associations_oise_beauvais",
+    "title": "Greffe des associations - Oise - Beauvais",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/oise/prefecture_greffe_associations-60057-01",
+    "metadata": {
+      "email": "ddcs-greffe-asso@oise.gouv.fr",
+      "telephone": "03 44 06 48 00",
+      "url": "http://www.oise.gouv.fr"
+    }
+  },
+  {
+    "id": "3e0c455d2b2b35432a80200cbcdf461b60c9dabd",
+    "alternateName": "Alençon",
+    "name": "greffe_des_associations_orne_alencon",
+    "title": "Greffe des associations - Orne (Alençon)",
+    "url": "https://lannuaire.service-public.fr/normandie/orne/prefecture_greffe_associations-61001-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 33 80 61 61",
+      "url": "http://www.orne.gouv.fr"
+    }
+  },
+  {
+    "id": "767f9050b9648c3b99c3f52249888b451ea13010",
+    "name": "greffe_des_associations_paris",
+    "title": "Greffe des associations - Paris",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/paris/prefecture_greffe_associations-75056-01",
+    "metadata": {
+      "email": "pp-dpg-association@interieur.gouv.fr",
+      "telephone": "3430",
+      "url": "https://www.prefecturedepolice.interieur.gouv.fr/Demarches/Association"
+    }
+  },
+  {
+    "id": "c76db7892225373115385924d124631c7fd1dc65",
+    "name": "greffe_des_associations_pas_de_calais_arras",
+    "title": "Greffe des associations - Pas-de-Calais - Arras",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/pas-de-calais/prefecture_greffe_associations-62041-01",
+    "metadata": {
+      "email": "pref-associations@pas-de-calais.gouv.fr",
+      "telephone": "03 21 21 21 63",
+      "url": "http://www.pas-de-calais.gouv.fr"
+    }
+  },
+  {
+    "id": "0beceba28aaa295c78395d64a8b145b2a50588b9",
+    "alternateName": "Riom",
+    "name": "greffe_des_associations_puy_de_dome_riom",
+    "title": "Greffe des associations - Puy-de-Dôme (Riom)",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/puy-de-dome/prefecture_greffe_associations-63300-01",
+    "metadata": {
+      "email": "sp-riom@puy-de-dome.gouv.fr",
+      "telephone": "04 73 64 65 00",
+      "url": "http://www.puy-de-dome.gouv.fr"
+    }
+  },
+  {
+    "id": "e08758ebe9f3982c5b4fd2599d9ca192f58b5a8c",
+    "alternateName": "Bayonne",
+    "name": "greffe_des_associations_pyrenees_atlantiques_bayonne",
+    "title": "Greffe des associations - Pyrénées-Atlantiques (Bayonne)",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/pyrenees-atlantiques/prefecture_greffe_associations-64102-01",
+    "metadata": {
+      "email": "sp-bayonne@pyrenees-atlantiques.gouv.fr",
+      "telephone": "05 40 17 27 27",
+      "url": "http://www.pyrenees-atlantiques.gouv.fr"
+    }
+  },
+  {
+    "id": "15715d52969f12c76f521bc038d37ff74845c909",
+    "alternateName": "Pau",
+    "name": "greffe_des_associations_pyrenees_atlantiques_pau",
+    "title": "Greffe des associations - Pyrénées-Atlantiques (Pau)",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/pyrenees-atlantiques/prefecture_greffe_associations-64445-01",
+    "metadata": {
+      "email": "associations@pyrenees-atlantiques.pref.gouv.fr",
+      "telephone": "05 59 98 23 44",
+      "url": "http://www.pyrenees-atlantiques.gouv.fr"
+    }
+  },
+  {
+    "id": "a07849742af22b1cde74455420f5b8913d1cd6ef",
+    "alternateName": "Perpignan",
+    "name": "greffe_des_associations_pyrenees_orientales_perpignan",
+    "title": "Greffe des associations - Pyrénées-Orientales (Perpignan)",
+    "url": "https://lannuaire.service-public.fr/occitanie/pyrenees-orientales/prefecture_greffe_associations-66136-01",
+    "metadata": {
+      "email": "pref-contact@pyrenees-orientales.gouv.fr",
+      "telephone": "04 68 51 66 37",
+      "url": "http://www.pyrenees-orientales.gouv.fr"
+    }
+  },
+  {
+    "id": "b96a6f783707a25d0c74eec37e05eba20482bab5",
+    "name": "greffe_des_associations_rhone_lyon",
+    "title": "Greffe des associations - Rhône - Lyon",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/rhone/prefecture_greffe_associations-69123-01",
+    "metadata": {
+      "email": "pref-associations@rhone.gouv.fr",
+      "telephone": "04 72 61 61 44",
+      "url": "http://www.rhone.gouv.fr"
+    }
+  },
+  {
+    "id": "586d56aec6788b5778ca5673b632bfe0bef198c8",
+    "alternateName": "Autun",
+    "name": "greffe_des_associations_saone_et_loire_autun",
+    "title": "Greffe des associations - Saône-et-Loire (Autun)",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/saone-et-loire/prefecture_greffe_associations-71014-01",
+    "metadata": {
+      "email": "spresse-autun.pref71@saone-et-loire.gouv.fr",
+      "telephone": "03 85 21 81 00",
+      "url": "http://www.saone-et-loire.gouv.fr"
+    }
+  },
+  {
+    "id": "f146d69d4e243c7c483c273101c4b2a4dd1db3c5",
+    "alternateName": "Charolles",
+    "name": "greffe_des_associations_saone_et_loire_charolles",
+    "title": "Greffe des associations - Saône-et-Loire (Charolles)",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/saone-et-loire/prefecture_greffe_associations-71106-01",
+    "metadata": {
+      "email": "spref-charolles.pref71@saone-et-loire.gouv.fr",
+      "telephone": "03 85 21 81 00",
+      "url": "http://www.saone-et-loire.gouv.fr"
+    }
+  },
+  {
+    "id": "ac66ffbf1fdd0dc292603fbe26b73d7c39010a23",
+    "alternateName": "Louhans",
+    "name": "greffe_des_associations_saone_et_loire_louhans",
+    "title": "Greffe des associations - Saône-et-Loire (Louhans)",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/saone-et-loire/prefecture_greffe_associations-71263-01",
+    "metadata": {
+      "email": "marieline.bert@saone-et-loire.gouv.fr",
+      "telephone": "03 85 75 77 76",
+      "url": "http://www.saone-et-loire.gouv.fr"
+    }
+  },
+  {
+    "id": "f83dbafe5db26670b19df80dde772bf122ee6602",
+    "alternateName": "Mâcon",
+    "name": "greffe_des_associations_saone_et_loire_macon",
+    "title": "Greffe des associations - Saône-et-Loire (Mâcon)",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/saone-et-loire/prefecture_greffe_associations-71270-01",
+    "metadata": {
+      "email": "pref-associations@saone-et-loire.gouv.fr",
+      "telephone": "03 85 21 81 00",
+      "url": "http://www.saone-et-loire.gouv.fr"
+    }
+  },
+  {
+    "id": "bad2f6ad8b71c5f0a382a61eb27ed9ea1eab39a3",
+    "name": "greffe_des_associations_saone_et_loire_chalon_sur_saone",
+    "title": "Greffe des associations - Saône-et-Loire - Chalon-sur-Saône",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/saone-et-loire/prefecture_greffe_associations-71076-01",
+    "metadata": {
+      "email": "pref-associations@saone-et-loire.gouv.fr",
+      "telephone": "03 85 42 55 55",
+      "url": "http://www.saone-et-loire.gouv.fr"
+    }
+  },
+  {
+    "id": "bd054ac2ba9fe2c005cde4bd8b5319439a9b4f38",
+    "alternateName": "Le Mans",
+    "name": "greffe_des_associations_sarthe_le_mans",
+    "title": "Greffe des associations - Sarthe (Le Mans)",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/sarthe/prefecture_greffe_associations-72181-01",
+    "metadata": {
+      "email": "ddcs-associations@sarthe.gouv.fr",
+      "telephone": "02 72 16 43 06",
+      "url": "http://www.associations.gouv.fr"
+    }
+  },
+  {
+    "id": "2a74171c864d2511f136d3e6de039853132b1235",
+    "alternateName": "Albertville",
+    "name": "greffe_des_associations_savoie_albertville",
+    "title": "Greffe des associations - Savoie (Albertville)",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/savoie/prefecture_greffe_associations-73011-01",
+    "metadata": {
+      "email": "pref-associations@savoie.gouv.fr",
+      "telephone": "479595611",
+      "url": "http://www.associations.gouv.fr"
+    }
+  }
+]

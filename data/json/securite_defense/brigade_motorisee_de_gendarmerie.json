@@ -1,0 +1,1982 @@
+[
+  {
+    "id": "789b03ab7891eede1d6a04ec817a65050c6157f2",
+    "name": "gendarmerie_brigade_motorisee_aix_en_provence",
+    "title": "Gendarmerie - Brigade motorisée - Aix-en-Provence",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/gendarmerie_moto-13001-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "04 42 20 91 16",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "b90fc361c3614fca7212e9798d9af2d968a28205",
+    "name": "gendarmerie_brigade_motorisee_ajaccio",
+    "title": "Gendarmerie - Brigade motorisée - Ajaccio",
+    "url": "https://lannuaire.service-public.fr/corse/corse-du-sud/gendarmerie_moto-2A004-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "04 20 04 06 60",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "d6389cce6c5e9ce5811de974c65cc868c39b4c23",
+    "name": "gendarmerie_brigade_motorisee_alencon",
+    "title": "Gendarmerie - Brigade motorisée - Alençon",
+    "url": "https://lannuaire.service-public.fr/normandie/orne/gendarmerie_moto-61001-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "02 33 32 70 19",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "3d8f704e590eab6326260d6ef1836c4640195488",
+    "name": "gendarmerie_brigade_motorisee_ales",
+    "title": "Gendarmerie - Brigade motorisée - Alès",
+    "url": "https://lannuaire.service-public.fr/occitanie/gard/gendarmerie_moto-30007-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "04 66 86 97 96",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "64e4ffe5f25504e62cb9cb0f3339a669978b8970",
+    "name": "gendarmerie_brigade_motorisee_altkirch",
+    "title": "Gendarmerie - Brigade motorisée - Altkirch",
+    "url": "https://lannuaire.service-public.fr/grand-est/haut-rhin/gendarmerie_moto-68004-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "03 89 88 55 33",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "3f7fb22232ae26501d26cb048673e360b7122612",
+    "name": "gendarmerie_brigade_motorisee_amberieu_en_bugey",
+    "title": "Gendarmerie - Brigade motorisée - Ambérieu-en-Bugey",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/ain/gendarmerie_moto-01004-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "04 74 38 96 90",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "da7298f439fb9c8116ade497beb03a2fd0d74ffb",
+    "name": "gendarmerie_brigade_motorisee_amboise",
+    "title": "Gendarmerie - Brigade motorisée - Amboise",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/indre-et-loire/gendarmerie_moto-37003-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "02 47 30 63 82",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "0f96fc50503fb3096f6c3347a43a4d477e737e7a",
+    "name": "gendarmerie_brigade_motorisee_angouleme",
+    "title": "Gendarmerie - Brigade motorisée - Angoulême",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/charente/gendarmerie_moto-16015-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "05 45 37 50 00",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "24be2185b58088b0673a7f23ce2888e2e602573c",
+    "name": "gendarmerie_brigade_motorisee_antibes",
+    "title": "Gendarmerie - Brigade motorisée - Antibes",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/alpes-maritimes/gendarmerie_moto-06004-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "04 92 90 72 37",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "1096e57546f85d0a095f3182a49598f0395e22d9",
+    "name": "gendarmerie_brigade_motorisee_argentan",
+    "title": "Gendarmerie - Brigade motorisée - Argentan",
+    "url": "https://lannuaire.service-public.fr/normandie/orne/gendarmerie_moto-61006-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "02 33 12 49 22",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "84009c507a930180d3eaed42c973660175d8de18",
+    "name": "gendarmerie_brigade_motorisee_arles",
+    "title": "Gendarmerie - Brigade motorisée - Arles",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/gendarmerie_moto-13004-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "04 90 52 50 73",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "d6f752d5e3746f96f060bbd144902af382785380",
+    "name": "gendarmerie_brigade_motorisee_arras",
+    "title": "Gendarmerie - Brigade motorisée - Arras",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/pas-de-calais/gendarmerie_moto-62041-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "03 61 47 33 63",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "b053eef33376124bbde30d051f941d4845888894",
+    "name": "gendarmerie_brigade_motorisee_aubagne",
+    "title": "Gendarmerie - Brigade motorisée - Aubagne",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/gendarmerie_moto-13005-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "04 42 82 45 85",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "e7c31361d6b1afcc8b64f27b51c192f10fefd16a",
+    "name": "gendarmerie_brigade_motorisee_aubenas",
+    "title": "Gendarmerie - Brigade motorisée - Aubenas",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/ardeche/gendarmerie_moto-07019-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "04 75 93 66 99",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "0265bbe99938757a3522243ee2ef49c24283a7d8",
+    "name": "gendarmerie_brigade_motorisee_aubusson",
+    "title": "Gendarmerie - Brigade motorisée - Aubusson",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/creuse/gendarmerie_moto-23008-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "05 55 66 33 00",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "cf0230373c39d6cf9ac28d512c3ed75f05293686",
+    "name": "gendarmerie_brigade_motorisee_auch",
+    "title": "Gendarmerie - Brigade motorisée - Auch",
+    "url": "https://lannuaire.service-public.fr/occitanie/gers/gendarmerie_moto-32013-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "05 62 60 50 00",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "fe47d52cf9505009bab8f711aaffecf467979f1b",
+    "name": "gendarmerie_brigade_motorisee_autrey_les_gray",
+    "title": "Gendarmerie - Brigade motorisée - Autrey-lès-Gray",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/haute-saone/gendarmerie_moto-70041-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "03 84 32 32 17",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "85caa847817b5a0d457c28498deb2debfb778bf0",
+    "name": "gendarmerie_brigade_motorisee_avignon",
+    "title": "Gendarmerie - Brigade motorisée - Avignon",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/vaucluse/gendarmerie_moto-84007-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "04 90 32 44 75",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "a4bc6a555ce20373118b30c67358b41356cc98f9",
+    "name": "gendarmerie_brigade_motorisee_bagnols_sur_ceze",
+    "title": "Gendarmerie - Brigade motorisée - Bagnols-sur-Cèze",
+    "url": "https://lannuaire.service-public.fr/occitanie/gard/gendarmerie_moto-30028-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "04 66 89 82 11",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "82dd0a5ea04684a5838e4ec7252bc88da07812ba",
+    "name": "gendarmerie_brigade_motorisee_barbezieux_saint_hilaire",
+    "title": "Gendarmerie - Brigade motorisée - Barbezieux-Saint-Hilaire",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/charente/gendarmerie_moto-16028-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "05 45 78 81 32",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "d208201103935d20b2b2faedb53d25d636198df8",
+    "name": "gendarmerie_brigade_motorisee_bar_le_duc",
+    "title": "Gendarmerie - Brigade motorisée - Bar-le-Duc",
+    "url": "https://lannuaire.service-public.fr/grand-est/meuse/gendarmerie_moto-55029-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "03 29 79 54 44",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "36e869eadc2a88d4a6e052345a7052910c202ecf",
+    "name": "gendarmerie_brigade_motorisee_bar_sur_aube",
+    "title": "Gendarmerie - Brigade motorisée - Bar-sur-Aube",
+    "url": "https://lannuaire.service-public.fr/grand-est/aube/gendarmerie_moto-10033-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "03 25 27 55 91",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "6dbd28a11a14e5b4ca5d89acda1615ce953370c1",
+    "name": "gendarmerie_brigade_motorisee_beaumettes",
+    "title": "Gendarmerie - Brigade motorisée - Beaumettes",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/vaucluse/gendarmerie_moto-84013-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "04 90 72 21 01",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "26a8d27bf368e6b6b75e1bdfab396047fb009f60",
+    "name": "gendarmerie_brigade_motorisee_beaune",
+    "title": "Gendarmerie - Brigade motorisée - Beaune",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/cote-d-or/gendarmerie_moto-21054-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "03 80 25 98 40",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "578ddebab6c6b012172e7119afcc737db7a2c0eb",
+    "name": "gendarmerie_brigade_motorisee_beauvais",
+    "title": "Gendarmerie - Brigade motorisée - Beauvais",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/oise/gendarmerie_moto-60057-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "03 44 06 16 96",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "0416e5841eb8ac360c0aa4b33dde5d489c24376e",
+    "name": "gendarmerie_brigade_motorisee_bellac",
+    "title": "Gendarmerie - Brigade motorisée - Bellac",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/haute-vienne/gendarmerie_moto-87011-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "05 55 60 27 88",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "47515e992ffad742602d80516e4ae20d53a12fb6",
+    "name": "gendarmerie_brigade_motorisee_bellerive_sur_allier",
+    "title": "Gendarmerie - Brigade motorisée - Bellerive-sur-Allier",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/allier/gendarmerie_moto-03023-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "04 70 32 31 65",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "fd97156b115beb8f207c086868046c898579aef8",
+    "name": "gendarmerie_brigade_motorisee_belley",
+    "title": "Gendarmerie - Brigade motorisée - Belley",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/ain/gendarmerie_moto-01034-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "04 79 81 69 18",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "b88e136b1d54baf73bf9b319eda848bd347daf77",
+    "name": "gendarmerie_brigade_motorisee_bergerac",
+    "title": "Gendarmerie - Brigade motorisée - Bergerac",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/dordogne/gendarmerie_moto-24037-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "05 53 74 70 21",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "6571e96a8a2a653d1dfa02a17655ac88163c2551",
+    "name": "gendarmerie_brigade_motorisee_beynes",
+    "title": "Gendarmerie - Brigade motorisée - Beynes",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/yvelines/gendarmerie_moto-78062-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "01 34 91 93 91",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "9ec8690eb354f1782ccf1c50572e40e3e66c6107",
+    "name": "gendarmerie_brigade_motorisee_beziers",
+    "title": "Gendarmerie - Brigade motorisée - Beziers",
+    "url": "https://lannuaire.service-public.fr/occitanie/herault/gendarmerie_moto-34032-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "04 67 35 82 70",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "aaedb087c5bc3a57bbb85ecb89189db64910d473",
+    "name": "gendarmerie_brigade_motorisee_biarritz",
+    "title": "Gendarmerie - Brigade motorisée - Biarritz",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/pyrenees-atlantiques/gendarmerie_moto-64122-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "05 59 48 42 40",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "7bfe727599508eb01890cc1cecae9aeb30b5d5ef",
+    "name": "gendarmerie_brigade_motorisee_biscarrosse",
+    "title": "Gendarmerie - Brigade motorisée - Biscarrosse",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/landes/gendarmerie_moto-40046-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "05 58 82 00 30",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "ec50dc03ebee5720caf1a3675973c18075f40e3d",
+    "name": "gendarmerie_brigade_motorisee_bordeaux",
+    "title": "Gendarmerie - Brigade motorisée - Bordeaux",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/gironde/gendarmerie_moto-33063-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "05 56 90 28 40",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "1cbb29bd5877ae5637d828d92e03950649fe519e",
+    "name": "gendarmerie_brigade_motorisee_borgo",
+    "title": "Gendarmerie - Brigade motorisée - Borgo",
+    "url": "https://lannuaire.service-public.fr/corse/haute-corse/gendarmerie_moto-2B042-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "04 20 00 78 05",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "bac7a286de195144ca1a1bd3049b366f76548f81",
+    "name": "gendarmerie_brigade_motorisee_bourges",
+    "title": "Gendarmerie - Brigade motorisée - Bourges",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/cher/gendarmerie_moto-18033-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "02 48 23 52 91",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "2639cf996992f8f2e4afca7dc23a6cd887605d83",
+    "name": "gendarmerie_brigade_motorisee_bressuire",
+    "title": "Gendarmerie - Brigade motorisée - Bressuire",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/deux-sevres/gendarmerie_moto-79049-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "05 49 65 94 37",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "47760b190cbd768659accbb29f470770025f5b1d",
+    "name": "gendarmerie_brigade_motorisee_brest",
+    "title": "Gendarmerie - Brigade motorisée - Brest",
+    "url": "https://lannuaire.service-public.fr/bretagne/finistere/gendarmerie_moto-29019-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "02 98 42 78 29",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "44b6ea4761d56dbf9ea37aaa2c26490b6b42eed8",
+    "name": "gendarmerie_brigade_motorisee_briare",
+    "title": "Gendarmerie - Brigade motorisée - Briare",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/loiret/gendarmerie_moto-45053-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "02 38 37 25 15",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "4fa3fbc64a4a69893ad110741774eec10076ed71",
+    "name": "gendarmerie_brigade_motorisee_brignais",
+    "title": "Gendarmerie - Brigade motorisée - Brignais",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/rhone/gendarmerie_moto-69027-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "04 78 92 71 00",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "29f792ba54e51c311736a3e04e1193e9202458ef",
+    "name": "gendarmerie_brigade_motorisee_brive_la_gaillarde",
+    "title": "Gendarmerie - Brigade motorisée - Brive-la-Gaillarde",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/correze/gendarmerie_moto-19031-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "05 55 86 34 16",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "efb66fedd89573a77cf5a36f9b54816f68c4f901",
+    "name": "gendarmerie_brigade_motorisee_cadalen",
+    "title": "Gendarmerie - Brigade motorisée - Cadalen",
+    "url": "https://lannuaire.service-public.fr/occitanie/tarn/gendarmerie_moto-81046-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "05 63 33 68 20",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "39d4080b4283f5c94b895bedb656af1d25c0f385",
+    "name": "gendarmerie_brigade_motorisee_castelnau_le_lez",
+    "title": "Gendarmerie - Brigade motorisée - Castelnau-le-lez",
+    "url": "https://lannuaire.service-public.fr/occitanie/herault/gendarmerie_moto-34057-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "04 99 74 29 65",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "0e8318170ffeb3a48216802ff3004630a8309b6c",
+    "name": "gendarmerie_brigade_motorisee_castres",
+    "title": "Gendarmerie - Brigade motorisée - Castres",
+    "url": "https://lannuaire.service-public.fr/occitanie/tarn/gendarmerie_moto-81065-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "05 63 51 41 65",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "d5a39d9a3574af52273e511ceca05ffd004f8df0",
+    "name": "gendarmerie_brigade_motorisee_cerans_foulletourte",
+    "title": "Gendarmerie - Brigade motorisée - Cérans-Foulletourte",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/sarthe/gendarmerie_moto-72051-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "02 43 87 80 11",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "ecb1dc0dd7df2a9b349c168e9e6418a86a9e64a6",
+    "name": "gendarmerie_brigade_motorisee_ceret",
+    "title": "Gendarmerie - Brigade motorisée - Céret",
+    "url": "https://lannuaire.service-public.fr/occitanie/pyrenees-orientales/gendarmerie_moto-66049-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "04 68 68 48 14",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "067ac9f73d396b85224ba4faa8d64461353b7de0",
+    "name": "gendarmerie_brigade_motorisee_challans",
+    "title": "Gendarmerie - Brigade motorisée - Challans",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/vendee/gendarmerie_moto-85047-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "02 51 68 84 75",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "ac015e39571e9d08cdd48791fdfe650e7a557d9a",
+    "name": "gendarmerie_brigade_motorisee_chambery",
+    "title": "Gendarmerie - Brigade motorisée - Chambéry",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/savoie/gendarmerie_moto-73065-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "04 79 71 82 00",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "e1833c9b4ee1919d3e3fc2009addc1bed19f7061",
+    "name": "gendarmerie_brigade_motorisee_champagnole",
+    "title": "Gendarmerie - Brigade motorisée - Champagnole",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/jura/gendarmerie_moto-39097-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "03 84 52 77 51",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "373c2c6a394d3b0d40ae99d31864a2fa3960373e",
+    "name": "gendarmerie_brigade_motorisee_chasseneuil_sur_bonnieure",
+    "title": "Gendarmerie - Brigade motorisée - Chasseneuil-sur-Bonnieure",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/charente/gendarmerie_moto-16085-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "05 45 39 74 94",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "aa2eb57d63689eca3a648e3100e3de53ea2f1aeb",
+    "name": "gendarmerie_brigade_motorisee_chateau_chinon_ville",
+    "title": "Gendarmerie - Brigade motorisée - Château-Chinon-Ville",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/nievre/gendarmerie_moto-58062-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "03 86 85 35 24",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "2b82e3250f58307b40deb6a4cf397c75623b3784",
+    "name": "gendarmerie_brigade_motorisee_chateaudun",
+    "title": "Gendarmerie - Brigade motorisée - Châteaudun",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/eure-et-loir/gendarmerie_moto-28088-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "02 37 94 09 65",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "107de666b4cc66a2e2e90081851c873569d1fea7",
+    "name": "gendarmerie_brigade_motorisee_chateau_gontier",
+    "title": "Gendarmerie - Brigade motorisée - Château-Gontier",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/mayenne/gendarmerie_moto-53062-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "02 43 09 15 00",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "13c20f8798fe72255b1d68ec823c472d455d2f17",
+    "name": "gendarmerie_brigade_motorisee_chateau_salins",
+    "title": "Gendarmerie - Brigade motorisée - Château-Salins",
+    "url": "https://lannuaire.service-public.fr/grand-est/moselle/gendarmerie_moto-57132-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "03 87 05 61 26",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "3ac24aab639fa1a6c8d1cbb5f69d1a337dad25cb",
+    "name": "gendarmerie_brigade_motorisee_chatenois",
+    "title": "Gendarmerie - Brigade motorisée - Châtenois",
+    "url": "https://lannuaire.service-public.fr/grand-est/vosges/gendarmerie_moto-88095-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "03 29 94 50 17",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "f41513dc01bbe2da59d529a2940d220452828635",
+    "name": "gendarmerie_brigade_motorisee_chatillon_sur_seine",
+    "title": "Gendarmerie - Brigade motorisée - Châtillon-sur-Seine",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/cote-d-or/gendarmerie_moto-21154-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "03 80 91 84 14",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "5728ecf1d6d418b6d52e351c3cd2e0326e31d3a8",
+    "name": "gendarmerie_brigade_motorisee_chaumont",
+    "title": "Gendarmerie - Brigade motorisée - Chaumont",
+    "url": "https://lannuaire.service-public.fr/grand-est/haute-marne/gendarmerie_moto-52121-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "03 25 30 50 14",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "19fc38bc9d80f40ad14bf50c81e951be1629853c",
+    "name": "gendarmerie_brigade_motorisee_chevillon",
+    "title": "Gendarmerie - Brigade motorisée - Chevillon",
+    "url": "https://lannuaire.service-public.fr/grand-est/haute-marne/gendarmerie_moto-52123-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "03 25 94 20 88",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "fe0b1800b481c179aab397b2e707d4b550b12053",
+    "name": "gendarmerie_brigade_motorisee_chinon",
+    "title": "Gendarmerie - Brigade motorisée - Chinon",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/indre-et-loire/gendarmerie_moto-37072-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "02 47 93 57 90",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "42b2f9a7283602ec7408b15854dd21751118e0dd",
+    "name": "gendarmerie_brigade_motorisee_clamecy",
+    "title": "Gendarmerie - Brigade motorisée - Clamecy",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/nievre/gendarmerie_moto-58079-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "03 86 27 59 77",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "6128f67ca9dcbe5121996b04c689ab326b675c76",
+    "name": "gendarmerie_brigade_motorisee_clermont",
+    "title": "Gendarmerie - Brigade motorisée - Clermont",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/oise/gendarmerie_moto-60157-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "03 44 50 91 83",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "dd6ab57bb3c26165c99dda81f22f17e95bf9f23c",
+    "name": "gendarmerie_brigade_motorisee_colmar",
+    "title": "Gendarmerie - Brigade motorisée - Colmar",
+    "url": "https://lannuaire.service-public.fr/grand-est/haut-rhin/gendarmerie_moto-68066-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "03 89 21 51 99",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "8240a6c2bbf701f390ed15e7ef4ae70ec07254cd",
+    "name": "gendarmerie_brigade_motorisee_commercy",
+    "title": "Gendarmerie - Brigade motorisée - Commercy",
+    "url": "https://lannuaire.service-public.fr/grand-est/meuse/gendarmerie_moto-55122-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "03 29 91 85 27",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "a34955b48a41db07ffc679d95f2261751a60332a",
+    "name": "gendarmerie_brigade_motorisee_compiegne",
+    "title": "Gendarmerie - Brigade motorisée - Compiègne",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/oise/gendarmerie_moto-60159-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "03 44 91 61 31",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "0d929bfec790b61df2125f98a51bfec3e3638ed7",
+    "name": "gendarmerie_brigade_motorisee_concarneau",
+    "title": "Gendarmerie - Brigade motorisée - Concarneau",
+    "url": "https://lannuaire.service-public.fr/bretagne/finistere/gendarmerie_moto-29039-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "02 98 60 70 47",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "872c4dd94d033c775f0aae3b4ae085ceafd47746",
+    "name": "gendarmerie_brigade_motorisee_corbeil_essonnes",
+    "title": "Gendarmerie - Brigade motorisée - Corbeil-Essonnes",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/essonne/gendarmerie_moto-91174-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "01 64 96 26 26",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "14a85c60adbc6b99070137ac813138f90f47bdaa",
+    "name": "gendarmerie_brigade_motorisee_coulommiers",
+    "title": "Gendarmerie - Brigade motorisée - Coulommiers",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/seine-et-marne/gendarmerie_moto-77131-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "01 64 03 71 43",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "0e1710743f036cb4e06f22227af9ecf3458a7788",
+    "name": "gendarmerie_brigade_motorisee_creil",
+    "title": "Gendarmerie - Brigade motorisée - Creil",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/oise/gendarmerie_moto-60175-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "03 44 28 47 17",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "d5873accc84827d1b69e99779c793ab68dbc004e",
+    "name": "gendarmerie_brigade_motorisee_crepy_en_valois",
+    "title": "Gendarmerie - Brigade motorisée - Crépy-en-Valois",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/oise/gendarmerie_moto-60176-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "03 44 94 28 24",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "8984907615ffca8669fee66dc4127fe84189381a",
+    "name": "gendarmerie_brigade_motorisee_dardilly",
+    "title": "Gendarmerie - Brigade motorisée - Dardilly",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/rhone/gendarmerie_moto-69072-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "04 37 49 64 51",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "d330827f695cf1000f5c74c05706e58dfbf99e95",
+    "name": "gendarmerie_brigade_motorisee_deauville",
+    "title": "Gendarmerie - Brigade motorisée - Deauville",
+    "url": "https://lannuaire.service-public.fr/normandie/calvados/gendarmerie_moto-14220-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "02 31 14 30 40",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "79d5e67aebe98d4b152be930df1dd5302240604c",
+    "name": "gendarmerie_brigade_motorisee_dieppe",
+    "title": "Gendarmerie - Brigade motorisée - Dieppe",
+    "url": "https://lannuaire.service-public.fr/normandie/seine-maritime/gendarmerie_moto-76217-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "02 35 82 01 60",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "1ed7b2d5f015e36f0b71250756333374037d527e",
+    "name": "gendarmerie_brigade_motorisee_digne_les_bains",
+    "title": "Gendarmerie - Brigade motorisée - Digne-les-Bains",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/alpes-de-haute-provence/gendarmerie_moto-04070-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "04 92 30 11 16",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "e2754a7d8cbe9445aa91ac5a2a774ca35613443e",
+    "name": "gendarmerie_brigade_motorisee_domfront_en_poiraie",
+    "title": "Gendarmerie - Brigade motorisée - Domfront-en-Poiraie",
+    "url": "https://lannuaire.service-public.fr/normandie/orne/gendarmerie_moto-61145-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "02 33 14 03 58",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "12c0ee01c0270c2a5508090a048b5876cad087f2",
+    "name": "gendarmerie_brigade_motorisee_douarnenez",
+    "title": "Gendarmerie - Brigade motorisée - Douarnenez",
+    "url": "https://lannuaire.service-public.fr/bretagne/finistere/gendarmerie_moto-29046-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "02 98 92 99 01",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "4ae65ebe9ea82470ae5df4ffd2ecb4e96612633c",
+    "name": "gendarmerie_brigade_motorisee_doullens",
+    "title": "Gendarmerie - Brigade motorisée - Doullens",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/somme/gendarmerie_moto-80253-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "03 22 77 78 35",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "512c033b0b940d8a34a2bc5a246fbe2d3c33608a",
+    "name": "gendarmerie_brigade_motorisee_draguignan",
+    "title": "Gendarmerie - Brigade motorisée - Draguignan",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/var/gendarmerie_moto-83050-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "04 98 10 24 71",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "0765673af0ac019c5bd87e8313401f561cc2ae19",
+    "name": "gendarmerie_brigade_motorisee_dreux",
+    "title": "Gendarmerie - Brigade motorisée - Dreux",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/eure-et-loir/gendarmerie_moto-28134-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "02 37 38 57 45",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "3e1c1904571b2bfcbbf7d6dd29a033dc10d0fcdf",
+    "name": "gendarmerie_brigade_motorisee_ecuires",
+    "title": "Gendarmerie - Brigade motorisée - Écuires",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/pas-de-calais/gendarmerie_moto-62289-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "03 21 06 74 25",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "4aa18db486b0d57be84e49c8f92f817b0e451074",
+    "name": "gendarmerie_brigade_motorisee_etampes",
+    "title": "Gendarmerie - Brigade motorisée - Étampes",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/essonne/gendarmerie_moto-91223-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "01 64 94 69 45",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "d917e8f9d2676c12dba4f4466584c37967c4e430",
+    "name": "gendarmerie_brigade_motorisee_evran",
+    "title": "Gendarmerie - Brigade motorisée - Évran",
+    "url": "https://lannuaire.service-public.fr/bretagne/cotes-d-armor/gendarmerie_moto-22056-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "02 96 27 40 17",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "5d44fb94656fd388a28eedf98f35c00c70781bc2",
+    "name": "gendarmerie_brigade_motorisee_evreux",
+    "title": "Gendarmerie - Brigade motorisée - Évreux",
+    "url": "https://lannuaire.service-public.fr/normandie/eure/gendarmerie_moto-27229-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "02 77 12 01 07",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "1d6ca83d98210fbb7b9ee9b8809b4af4dd5cd911",
+    "name": "gendarmerie_brigade_motorisee_faaa",
+    "title": "Gendarmerie - Brigade motorisée - Faaa",
+    "url": "https://lannuaire.service-public.fr/collectivites-d-outre-mer/polynesie-francaise/gendarmerie_moto-98715-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "+689 40 46 74 60",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "663cbd5caff2b53d04f402f69e3407d2decd88e6",
+    "name": "gendarmerie_brigade_motorisee_figari",
+    "title": "Gendarmerie - Brigade motorisée - Figari",
+    "url": "https://lannuaire.service-public.fr/corse/corse-du-sud/gendarmerie_moto-2A114-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "04 95 71 00 17",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "1434e0a4389ab9b20fb4831de96bb0f73ec8a46c",
+    "name": "gendarmerie_brigade_motorisee_figeac",
+    "title": "Gendarmerie - Brigade motorisée - Figeac",
+    "url": "https://lannuaire.service-public.fr/occitanie/lot/gendarmerie_moto-46102-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "05 65 50 92 68",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "85b8cc1a64b82ee3f8b78829dad8d9852b68efcc",
+    "name": "gendarmerie_brigade_motorisee_florac_trois_rivieres",
+    "title": "Gendarmerie - Brigade motorisée - Florac-Trois-Rivières",
+    "url": "https://lannuaire.service-public.fr/occitanie/lozere/gendarmerie_moto-48061-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "04 66 45 86 51",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "03f031e922c7417d876cdd8e847b91639fa59c78",
+    "name": "gendarmerie_brigade_motorisee_foix",
+    "title": "Gendarmerie - Brigade motorisée - Foix",
+    "url": "https://lannuaire.service-public.fr/occitanie/ariege/gendarmerie_moto-09122-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "05 61 02 17 24",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "7cab1f68ba05921b79ffb34d0f0b4c9ac05792b1",
+    "name": "gendarmerie_brigade_motorisee_fort_de_france",
+    "title": "Gendarmerie - Brigade motorisée - Fort-de-France",
+    "url": "https://lannuaire.service-public.fr/martinique/martinique/gendarmerie_moto-97209-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "+596 5 96 59 91 15",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "e2039bf6c0ce0d0ad08fd6c7f43b60910a5fbe32",
+    "name": "gendarmerie_brigade_motorisee_gap",
+    "title": "Gendarmerie - Brigade motorisée - Gap",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/hautes-alpes/gendarmerie_moto-05061-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "04 92 20 64 84",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "d7d3b85ed90a2a7524b193e2c8766627aa14b7e0",
+    "name": "gendarmerie_brigade_motorisee_gassin_saint_tropez",
+    "title": "Gendarmerie - Brigade motorisée - Gassin-Saint-Tropez",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/var/gendarmerie_moto-83065-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "04 94 56 70 93",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "2d3db226086b6d328502cede64ae4bed662bc66b",
+    "name": "gendarmerie_brigade_motorisee_gourdon",
+    "title": "Gendarmerie - Brigade motorisée - Gourdon",
+    "url": "https://lannuaire.service-public.fr/occitanie/lot/gendarmerie_moto-46127-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "05 65 41 73 50",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "bc578868377a85b352d939c21b25ff65ef6798cb",
+    "name": "gendarmerie_brigade_motorisee_grasse",
+    "title": "Gendarmerie - Brigade motorisée - Grasse",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/alpes-maritimes/gendarmerie_moto-06069-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "04 93 70 39 44",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "a6cf26dfd17abb43f02cada64a77b095c7992aad",
+    "name": "gendarmerie_brigade_motorisee_gueret",
+    "title": "Gendarmerie - Brigade motorisée - Guéret",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/creuse/gendarmerie_moto-23096-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "05 55 51 50 25",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "04d6a5bcaaa6b3f5adb7b1c21859b6034d8b2dec",
+    "name": "gendarmerie_brigade_motorisee_guillestre",
+    "title": "Gendarmerie - Brigade motorisée - Guillestre",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/hautes-alpes/gendarmerie_moto-05065-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "04 92 45 00 08",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "3a3988f890eabd77aba30afd0487171ec37fad7d",
+    "name": "gendarmerie_brigade_motorisee_hautmont",
+    "title": "Gendarmerie - Brigade motorisée - Hautmont",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/nord/gendarmerie_moto-59291-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "03 27 66 23 97",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "91c9e90db3c76ce08f0f6c800b7067eae5501015",
+    "name": "gendarmerie_brigade_motorisee_hayange",
+    "title": "Gendarmerie - Brigade motorisée - Hayange",
+    "url": "https://lannuaire.service-public.fr/grand-est/moselle/gendarmerie_moto-57306-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "03 82 84 22 67",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "ef208a7a3ccf19e93da6884cf0be60fffaeca046",
+    "name": "gendarmerie_brigade_motorisee_hazebrouck",
+    "title": "Gendarmerie - Brigade motorisée - Hazebrouck",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/nord/gendarmerie_moto-59295-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "03 28 41 96 27",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "9419dae39f3346981dac246a45450122e0e02518",
+    "name": "gendarmerie_brigade_motorisee_hoymille",
+    "title": "Gendarmerie - Brigade motorisée - Hoymille",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/nord/gendarmerie_moto-59319-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "03 28 68 06 95",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "f60762e83322259c3619c3c3070fa2adc7e64650",
+    "name": "gendarmerie_brigade_motorisee_janville",
+    "title": "Gendarmerie - Brigade motorisée - Janville",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/eure-et-loir/gendarmerie_moto-28199-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "02 37 25 42 54",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "ad35698fdf733ade030c0cb0fc59b8359649df02",
+    "name": "gendarmerie_brigade_motorisee_joigny",
+    "title": "Gendarmerie - Brigade motorisée - Joigny",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/yonne/gendarmerie_moto-89206-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "03 86 19 34 60",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "429795a3023a403f9de1995bb404f32d9f527f9e",
+    "name": "gendarmerie_brigade_motorisee_jonzac",
+    "title": "Gendarmerie - Brigade motorisée - Jonzac",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/charente-maritime/gendarmerie_moto-17197-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "05 46 48 95 79",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "7e0e8ea9a5ff0b892fb013a6a519fb0283a25908",
+    "name": "gendarmerie_brigade_motorisee_kourou",
+    "title": "Gendarmerie - Brigade motorisée - Kourou",
+    "url": "https://lannuaire.service-public.fr/guyane/guyane/gendarmerie_moto-97304-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "+594 22 01 59",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "324330306bd62cc2b988d9744ca9e0ab2e67e15f",
+    "name": "gendarmerie_brigade_motorisee_l_isle_jourdain",
+    "title": "Gendarmerie - Brigade motorisée - l'Isle-Jourdain",
+    "url": "https://lannuaire.service-public.fr/occitanie/gers/gendarmerie_moto-32160-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "05 62 07 65 65",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "d9ee6c40661b182c20ef84d82e8c2a6578d405de",
+    "name": "gendarmerie_brigade_motorisee_la_bassee",
+    "title": "Gendarmerie - Brigade motorisée - La Bassée",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/nord/gendarmerie_moto-59051-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "03 20 53 54 50",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "9dad4aa2aa0278fedf3161549b5213e8d4764d90",
+    "name": "gendarmerie_brigade_motorisee_lannemezan",
+    "title": "Gendarmerie - Brigade motorisée - Lannemezan",
+    "url": "https://lannuaire.service-public.fr/occitanie/hautes-pyrenees/gendarmerie_moto-65258-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "05 62 50 17 79",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "409c3198bc87d171ac8692a3dcd895b1918636a4",
+    "name": "gendarmerie_brigade_motorisee_laon",
+    "title": "Gendarmerie - Brigade motorisée - Laon",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/aisne/gendarmerie_moto-02408-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "03 23 22 53 77",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "2e8274b322a50fea819de109c10ff37b448d0464",
+    "name": "gendarmerie_brigade_motorisee_la_reole",
+    "title": "Gendarmerie - Brigade motorisée - La Réole",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/gironde/gendarmerie_moto-33352-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "05 56 71 72 15",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "14973dfd0cfdfd91475a1a7dbf2c627a67743827",
+    "name": "gendarmerie_brigade_motorisee_la_riviere_saint_louis",
+    "title": "Gendarmerie - Brigade motorisée - La-Rivière-Saint-Louis",
+    "url": "https://lannuaire.service-public.fr/guadeloupe/guadeloupe/gendarmerie_moto-97126-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "+262 39 00 22",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "2ed75e46526935e629f7e63963fb9e2de4e2477a",
+    "name": "gendarmerie_brigade_motorisee_la_rochelle",
+    "title": "Gendarmerie - Brigade motorisée - La Rochelle",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/charente-maritime/gendarmerie_moto-17300-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "05 46 00 50 53",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "e8c38e22e74bee8c3f7094e23e99098fcf54149f",
+    "name": "gendarmerie_brigade_motorisee_la_roche_sur_yon",
+    "title": "Gendarmerie - Brigade motorisée - La Roche-sur-Yon",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/vendee/gendarmerie_moto-85191-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "02 51 45 19 80",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "a52ae1dc66b0432fb61381be0182d37bc0b64628",
+    "name": "gendarmerie_brigade_motorisee_la_trinite",
+    "title": "Gendarmerie - Brigade motorisée - La Trinité",
+    "url": "https://lannuaire.service-public.fr/martinique/martinique/gendarmerie_moto-97230-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "+596 5 96 58 17 49",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "b8d86b46710895d4f39dbacc58551b97d53122db",
+    "name": "gendarmerie_brigade_motorisee_la_valette_du_var",
+    "title": "Gendarmerie - Brigade motorisée - La Valette-du-Var",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/var/gendarmerie_moto-83144-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "04 94 46 84 80",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "2ec5f9b51d80fd72e1361ee62852caa2bef55f0d",
+    "name": "gendarmerie_brigade_motorisee_le_creusot",
+    "title": "Gendarmerie - Brigade motorisée - Le Creusot",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/saone-et-loire/gendarmerie_moto-71153-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "03 85 73 93 72",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "f2f0156587c1488a9fce30dbcdd2899c3ac7f3b5",
+    "name": "gendarmerie_brigade_motorisee_le_lamentin",
+    "title": "Gendarmerie - Brigade motorisée - Le Lamentin",
+    "url": "https://lannuaire.service-public.fr/martinique/martinique/gendarmerie_moto-97213-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "+596 51 45 44",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "be3a4f5e0bd5b831f1b2b43717499caf1172299b",
+    "name": "gendarmerie_brigade_motorisee_le_mans",
+    "title": "Gendarmerie - Brigade motorisée - Le Mans",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/sarthe/gendarmerie_moto-72181-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "02 43 78 55 04",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "3ca39f011aa43bbd961d34ff43d1f7ddbaedda85",
+    "name": "gendarmerie_brigade_motorisee_le_moule",
+    "title": "Gendarmerie - Brigade motorisée - Le Moule",
+    "url": "https://lannuaire.service-public.fr/guadeloupe/guadeloupe/gendarmerie_moto-97117-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "+590 22 23 22",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "871e37619df7300577bb643f59d1f2cac4e204a7",
+    "name": "gendarmerie_brigade_motorisee_lempdes_sur_allagnon",
+    "title": "Gendarmerie - Brigade motorisée - Lempdes-sur-Allagnon",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/haute-loire/gendarmerie_moto-43120-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "04 71 76 50 06",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "c46c7d6e84dbc9dcf932f2eaac57cdbd5877efef",
+    "name": "gendarmerie_brigade_motorisee_le_pont_de_claix",
+    "title": "Gendarmerie - Brigade motorisée - Le Pont-de-Claix",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/isere/gendarmerie_moto-38317-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "04 76 98 17 10",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "516066b520bbe2fab0e9a0d2f29aeab65249cbac",
+    "name": "gendarmerie_brigade_motorisee_le_puy_en_velay",
+    "title": "Gendarmerie - Brigade motorisée - Le Puy-en-Velay",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/haute-loire/gendarmerie_moto-43157-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "04 71 04 52 43",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "8e34ee8c7c63fe25e05f0e56efd0eb166f7d1628",
+    "name": "gendarmerie_brigade_motorisee_les_abrets_en_dauphine",
+    "title": "Gendarmerie - Brigade motorisée - Les-Abrets-en-Dauphiné",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/isere/gendarmerie_moto-38001-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "04 76 32 09 22",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "1f2af300eb58f3f9ab8cde9396931b7a30d25310",
+    "name": "gendarmerie_brigade_motorisee_les_abymes",
+    "title": "Gendarmerie - Brigade motorisée - Les Abymes",
+    "url": "https://lannuaire.service-public.fr/guadeloupe/guadeloupe/gendarmerie_moto-97101-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "+590 48 18 00",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "0f3d550cc4f88f7a310880bb15ce5c4c14897e5c",
+    "name": "gendarmerie_brigade_motorisee_les_andelys",
+    "title": "Gendarmerie - Brigade motorisée - Les Andelys",
+    "url": "https://lannuaire.service-public.fr/normandie/eure/gendarmerie_moto-27016-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "02 32 54 79 14",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "6d83113de75a2fb7fbe8bcdc15321fa962b55dcf",
+    "name": "gendarmerie_brigade_motorisee_lesparre_medoc",
+    "title": "Gendarmerie - Brigade motorisée - Lesparre-Médoc",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/gironde/gendarmerie_moto-33240-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "05 56 73 46 86",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "48c4720fc7cd7d4d6362a95893cbd685f5550eef",
+    "name": "gendarmerie_brigade_motorisee_le_teil",
+    "title": "Gendarmerie - Brigade motorisée - Le Teil",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/ardeche/gendarmerie_moto-07319-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "04 75 49 59 72",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "6225559f12ffa080c4296cd580098d11063224c1",
+    "name": "gendarmerie_brigade_motorisee_libourne",
+    "title": "Gendarmerie - Brigade motorisée - Libourne",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/gironde/gendarmerie_moto-33243-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "05 57 50 82 06",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "4833bc6df068e8ddbcee24f83c65db68d0855227",
+    "name": "gendarmerie_brigade_motorisee_limoux",
+    "title": "Gendarmerie - Brigade motorisée - Limoux",
+    "url": "https://lannuaire.service-public.fr/occitanie/aude/gendarmerie_moto-11206-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "04 68 31 97 42",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "d2b2023b70f50a862784654b37362dce73eecd90",
+    "name": "gendarmerie_brigade_motorisee_lisieux",
+    "title": "Gendarmerie - Brigade motorisée - Lisieux",
+    "url": "https://lannuaire.service-public.fr/normandie/calvados/gendarmerie_moto-14366-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "02 31 31 89 26",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "8491da2d3b298303acedeafa2e5c29935721b8bb",
+    "name": "gendarmerie_brigade_motorisee_loches",
+    "title": "Gendarmerie - Brigade motorisée - Loches",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/indre-et-loire/gendarmerie_moto-37132-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "02 47 91 17 92",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "2dd526d17c242c9b2b05cc3563fd9d3491b219a7",
+    "name": "gendarmerie_brigade_motorisee_lodeve",
+    "title": "Gendarmerie - Brigade motorisée - Lodève",
+    "url": "https://lannuaire.service-public.fr/occitanie/herault/gendarmerie_moto-34142-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "04 67 44 91 15",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "2c78729e2ac8cc55281ba5cb25eb564146a3a696",
+    "name": "gendarmerie_brigade_motorisee_loriol_sur_drome",
+    "title": "Gendarmerie - Brigade motorisée - Loriol-sur-Drôme",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/drome/gendarmerie_moto-26166-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "04 75 61 82 77",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "ac6e32739696e17823a9425d8fddae91bfc8361b",
+    "name": "gendarmerie_brigade_motorisee_loudeac",
+    "title": "Gendarmerie - Brigade motorisée - Loudéac",
+    "url": "https://lannuaire.service-public.fr/bretagne/cotes-d-armor/gendarmerie_moto-22136-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "02 96 28 12 79",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "65003fec664a536ac7d8f7f27de27511a9a9aa17",
+    "name": "gendarmerie_brigade_motorisee_louhans",
+    "title": "Gendarmerie - Brigade motorisée - Louhans",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/saone-et-loire/gendarmerie_moto-71263-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "03 85 74 33 05",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "41205a074f959a3130165d27e756145087b83604",
+    "name": "gendarmerie_brigade_motorisee_louvres",
+    "title": "Gendarmerie - Brigade motorisée - Louvres",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/val-d-oise/gendarmerie_moto-95351-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "01 30 29 39 80",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "37beadec2fc1cdd85a1e8dadaa600dc0c49fa90f",
+    "name": "gendarmerie_brigade_motorisee_lunel",
+    "title": "Gendarmerie - Brigade motorisée - Lunel",
+    "url": "https://lannuaire.service-public.fr/occitanie/herault/gendarmerie_moto-34145-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "04 67 47 49  99",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "4a44c4fec09508c4b479eb1c6cb525d4c5608d83",
+    "name": "gendarmerie_brigade_motorisee_luneville",
+    "title": "Gendarmerie - Brigade motorisée - Lunéville",
+    "url": "https://lannuaire.service-public.fr/grand-est/meurthe-et-moselle/gendarmerie_moto-54329-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "03 83 76 85 70",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "d61c82fb951ecab997f982effafc515f8b37204e",
+    "name": "gendarmerie_brigade_motorisee_lure",
+    "title": "Gendarmerie - Brigade motorisée - Lure",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/haute-saone/gendarmerie_moto-70310-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "03 84 30 48 66",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "dff9240498a4acb9161ae90baaa336267f5f0e7a",
+    "name": "gendarmerie_brigade_motorisee_lusignan",
+    "title": "Gendarmerie - Brigade motorisée - Lusignan",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/vienne/gendarmerie_moto-86139-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "05 49 43 81 56",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "2985b6b91e22436d17ce7bdda0fb9b6c0795c33d",
+    "name": "gendarmerie_brigade_motorisee_manosque",
+    "title": "Gendarmerie - Brigade motorisée - Manosque",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/alpes-de-haute-provence/gendarmerie_moto-04112-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "04 92 72 29 09",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "588ce49377445e150d0f17566fc0293748a1b7db",
+    "name": "gendarmerie_brigade_motorisee_marennes",
+    "title": "Gendarmerie - Brigade motorisée - Marennes",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/charente-maritime/gendarmerie_moto-17219-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "05 46 85 00 19",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "45b65f12bc2eb63f7e07f17e3ed1be2223624bbb",
+    "name": "gendarmerie_brigade_motorisee_marmande",
+    "title": "Gendarmerie - Brigade motorisée - Marmande",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/lot-et-garonne/gendarmerie_moto-47157-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "05 53 20 50 85",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "9229be9b0c870894aeef0b5818c22d5b144d95ab",
+    "name": "gendarmerie_brigade_motorisee_matoury",
+    "title": "Gendarmerie - Brigade motorisée - Matoury",
+    "url": "https://lannuaire.service-public.fr/guyane/guyane/gendarmerie_moto-97307-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "+594 5 94 31 09 09",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "28e355c11eff845bd9c0b0a39331a2b196d44caf",
+    "name": "gendarmerie_brigade_motorisee_mauriac",
+    "title": "Gendarmerie - Brigade motorisée - Mauriac",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/cantal/gendarmerie_moto-15120-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "04 71 68 39 85",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "b4ae9d010f5135b47b53543e6bda089ce6f6be44",
+    "name": "gendarmerie_brigade_motorisee_mayenne",
+    "title": "Gendarmerie - Brigade motorisée - Mayenne",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/mayenne/gendarmerie_moto-53147-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "02 43 30 20 66",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "fb23f4948205e8c5337ccad6e37678f5107648d8",
+    "name": "gendarmerie_brigade_motorisee_meaux",
+    "title": "Gendarmerie - Brigade motorisée - Meaux",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/seine-et-marne/gendarmerie_moto-77284-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "01 64 34 96 50",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "6b08fc62447328655a1394c6e45f01b971b2b77d",
+    "name": "gendarmerie_brigade_motorisee_melle",
+    "title": "Gendarmerie - Brigade motorisée - Melle",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/deux-sevres/gendarmerie_moto-79174-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "05 49 27 97 38",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "8af1125311fa820fed9dda5afd0212f9264b4556",
+    "name": "gendarmerie_brigade_motorisee_melun",
+    "title": "Gendarmerie - Brigade motorisée - Melun",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/seine-et-marne/gendarmerie_moto-77288-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "01 64 71 71 95",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "96d1fe8f226b254435d503d987c7583dbef2355b",
+    "name": "gendarmerie_brigade_motorisee_mende",
+    "title": "Gendarmerie - Brigade motorisée - Mende",
+    "url": "https://lannuaire.service-public.fr/occitanie/lozere/gendarmerie_moto-48095-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "04 66 49 54 55",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "e9eb095a63345f7db655a32746be796b43887a95",
+    "name": "gendarmerie_brigade_motorisee_menton",
+    "title": "Gendarmerie - Brigade motorisée - Menton",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/alpes-maritimes/gendarmerie_moto-06083-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "04 92 41 84 73",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "1d6503e634536d4d4802caa216d8a7e72c7444b8",
+    "name": "gendarmerie_brigade_motorisee_mery_sur_seine",
+    "title": "Gendarmerie - Brigade motorisée - Méry-sur-Seine",
+    "url": "https://lannuaire.service-public.fr/grand-est/aube/gendarmerie_moto-10233-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "03 25 21 08 18",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "3652b0691c62535379faa1ea0e7a92b01b117fe0",
+    "name": "gendarmerie_brigade_motorisee_metz",
+    "title": "Gendarmerie - Brigade motorisée - Metz",
+    "url": "https://lannuaire.service-public.fr/grand-est/moselle/gendarmerie_moto-57463-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "03 87 56 68 69",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "60c266af799397748b6294ab68d8fb6552a4cced",
+    "name": "gendarmerie_brigade_motorisee_modane",
+    "title": "Gendarmerie - Brigade motorisée - Modane",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/savoie/gendarmerie_moto-73157-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "04 79 05 51 05",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "e0ea20fa586880ea310563b55d8ae9fded63a30a",
+    "name": "gendarmerie_brigade_motorisee_moissac",
+    "title": "Gendarmerie - Brigade motorisée - Moissac",
+    "url": "https://lannuaire.service-public.fr/occitanie/tarn-et-garonne/gendarmerie_moto-82112-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "05 63 04 66 40",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "f648057ced8c9297ba111e2757036d21d81b9a63",
+    "name": "gendarmerie_brigade_motorisee_molsheim",
+    "title": "Gendarmerie - Brigade motorisée - Molsheim",
+    "url": "https://lannuaire.service-public.fr/grand-est/bas-rhin/gendarmerie_moto-67300-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "03 88 04 81 36",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "b96b04ec63fb041e24b586ca9dbfc9f7aadf8363",
+    "name": "gendarmerie_brigade_motorisee_moltifao",
+    "title": "Gendarmerie - Brigade motorisée - Moltifao",
+    "url": "https://lannuaire.service-public.fr/corse/haute-corse/gendarmerie_moto-2B162-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "04 95 47 83 68",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "65894233ba743f3fd37995ec260595753bc48187",
+    "name": "gendarmerie_brigade_motorisee_montbrison",
+    "title": "Gendarmerie - Brigade motorisée - Montbrison",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/loire/gendarmerie_moto-42147-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "04 77 96 62 29",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "adc30777a81d5b55ea8c9b0a437ab9611c34e580",
+    "name": "gendarmerie_brigade_motorisee_montmorillon",
+    "title": "Gendarmerie - Brigade motorisée - Montmorillon",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/vienne/gendarmerie_moto-86165-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "05 49 91 88 76",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "23f71ca1e745baf3800306a4d33393924b0e593e",
+    "name": "gendarmerie_brigade_motorisee_mortagne_au_perche",
+    "title": "Gendarmerie - Brigade motorisée - Mortagne-au-Perche",
+    "url": "https://lannuaire.service-public.fr/normandie/orne/gendarmerie_moto-61293-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "02 33 83 11 87",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "aff319f7f69a348bbbb872e6ec5ae679bccebe5d",
+    "name": "gendarmerie_brigade_motorisee_mulhouse",
+    "title": "Gendarmerie - Brigade motorisée - Mulhouse",
+    "url": "https://lannuaire.service-public.fr/grand-est/haut-rhin/gendarmerie_moto-68224-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "03 89 63 42 67",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "94bc559c159625951856a2e4b83c9f8f4db54d97",
+    "name": "gendarmerie_brigade_motorisee_narbonne",
+    "title": "Gendarmerie - Brigade motorisée - Narbonne",
+    "url": "https://lannuaire.service-public.fr/occitanie/aude/gendarmerie_moto-11262-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "04 68 27 74 99",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "0f2c0ac6a6422e7285df10768426a81f75fbb929",
+    "name": "gendarmerie_brigade_motorisee_nemours",
+    "title": "Gendarmerie - Brigade motorisée - Nemours",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/seine-et-marne/gendarmerie_moto-77333-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "01 64 28 85 55",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "659c76f4034f11855d7a9895f05ca2f03e7fc2cb",
+    "name": "gendarmerie_brigade_motorisee_nevers",
+    "title": "Gendarmerie - Brigade motorisée - Nevers",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/nievre/gendarmerie_moto-58194-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "03 86 71 73 25",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "67134460b812928c0c3a914848ce8018590d2dba",
+    "name": "gendarmerie_brigade_motorisee_nice",
+    "title": "Gendarmerie - Brigade motorisée - Nice",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/alpes-maritimes/gendarmerie_moto-06088-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "04 93 18 42 32",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "1d12017b35dd4d759a7262faf5967f2233a5ab47",
+    "name": "gendarmerie_brigade_motorisee_niort",
+    "title": "Gendarmerie - Brigade motorisée - Niort",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/deux-sevres/gendarmerie_moto-79191-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "05 49 28 63 55",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "d98df1fba5a66ac600c0bca2a8f08239011dba60",
+    "name": "gendarmerie_brigade_motorisee_nogaro",
+    "title": "Gendarmerie - Brigade motorisée - Nogaro",
+    "url": "https://lannuaire.service-public.fr/occitanie/gers/gendarmerie_moto-32296-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "05 62 08 78 40",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "ca94508666083413d478a07a331aa5a3ca11d527",
+    "name": "gendarmerie_brigade_motorisee_nogent_le_rotrou",
+    "title": "Gendarmerie - Brigade motorisée - Nogent-le-Rotrou",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/eure-et-loir/gendarmerie_moto-28280-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "02 37 53 54 15",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "be9fe1b29b32e1dfd2434eb155d279604a1f4f7d",
+    "name": "gendarmerie_brigade_motorisee_noumea",
+    "title": "Gendarmerie - Brigade motorisée - Nouméa",
+    "url": "https://lannuaire.service-public.fr/collectivites-d-outre-mer/nouvelle-caledonie/gendarmerie_moto-98818-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "+687 29 56 70",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "dcce42fcd4c62ab4f0db7f864ea7db4f8ca8d936",
+    "name": "gendarmerie_brigade_motorisee_oloron_sainte_marie",
+    "title": "Gendarmerie - Brigade motorisée - Oloron-Sainte-Marie",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/pyrenees-atlantiques/gendarmerie_moto-64422-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "05 59 36 33 26",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "f35a2fc5a9c08d96eeac0ae356a4c0fe19e61e25",
+    "name": "gendarmerie_brigade_motorisee_orange",
+    "title": "Gendarmerie - Brigade motorisée - Orange",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/vaucluse/gendarmerie_moto-84087-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "04 90 34 96 25",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "7af5c1b66efb4e041b7bbaa6d14ac7dbcecbf4b3",
+    "name": "gendarmerie_brigade_motorisee_orleans",
+    "title": "Gendarmerie - Brigade motorisée - Orléans",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/loiret/gendarmerie_moto-45234-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "02 38 52 51 41",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "7c0dc065c96731e61a7702a9d308c920b0e9da29",
+    "name": "gendarmerie_brigade_motorisee_palaiseau",
+    "title": "Gendarmerie - Brigade motorisée - Palaiseau",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/essonne/gendarmerie_moto-91477-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "01 60 14 76 50",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "1b36cf96eaa24a7d4ce5af396b347eb61edd93bc",
+    "name": "gendarmerie_brigade_motorisee_paray_le_monial",
+    "title": "Gendarmerie - Brigade motorisée -  Paray-le-Monial",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/saone-et-loire/gendarmerie_moto-71342-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "03 85 81 70 51",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "3157cd31c000a2670546e55bce247522cd339af9",
+    "name": "gendarmerie_brigade_motorisee_parthenay",
+    "title": "Gendarmerie - Brigade motorisée -  Parthenay",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/deux-sevres/gendarmerie_moto-79202-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "05 49 95 26 17",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "1d4c98e22c75996fd28cab6aac7c7808225ba75a",
+    "name": "gendarmerie_brigade_motorisee_pau",
+    "title": "Gendarmerie - Brigade motorisée -  Pau",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/pyrenees-atlantiques/gendarmerie_moto-64445-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "05 59 82 40 17",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "67d3657b81d68d470fc465d84bd4082a84304461",
+    "name": "gendarmerie_brigade_motorisee_perigueux",
+    "title": "Gendarmerie - Brigade motorisée -  Périgueux",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/dordogne/gendarmerie_moto-24322-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "05 53 02 14 95",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "61eb2f2c8018ef7ccbbc549b17f77270a7cf39e6",
+    "name": "gendarmerie_brigade_motorisee_perpignan",
+    "title": "Gendarmerie - Brigade motorisée -  Perpignan",
+    "url": "https://lannuaire.service-public.fr/occitanie/pyrenees-orientales/gendarmerie_moto-66136-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "04 68 66 16 55",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "2cd40d022602548d610c600a1431f78e5b23a701",
+    "name": "gendarmerie_brigade_motorisee_ploermel",
+    "title": "Gendarmerie - Brigade motorisée - Ploërmel",
+    "url": "https://lannuaire.service-public.fr/bretagne/morbihan/gendarmerie_moto-56165-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "02 97 74 06 14",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "df6a76a438d2dcd7ce0ba33c3e7a5090e54c63f7",
+    "name": "gendarmerie_brigade_motorisee_poitiers",
+    "title": "Gendarmerie - Brigade motorisée - Poitiers",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/vienne/gendarmerie_moto-86194-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "05 49 00 57 71",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "ed6cb76a68764c60924fb9204746a45ffd0af267",
+    "name": "gendarmerie_brigade_motorisee_pontarlier",
+    "title": "Gendarmerie - Brigade motorisée - Pontarlier",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/doubs/gendarmerie_moto-25462-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "03 81 39 99 18",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "1efdab07bae7b4a998e54ef6f3797ffff0a3ce04",
+    "name": "gendarmerie_brigade_motorisee_pontivy",
+    "title": "Gendarmerie - Brigade motorisée - Pontivy",
+    "url": "https://lannuaire.service-public.fr/bretagne/morbihan/gendarmerie_moto-56178-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "02 97 25 90 04",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "f15d05da9fecbb2dc5795c0f1830b699dddebc26",
+    "name": "gendarmerie_brigade_motorisee_pontoise",
+    "title": "Gendarmerie - Brigade motorisée - Pontoise",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/val-d-oise/gendarmerie_moto-95500-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "01 30 30 75 10",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  }
+]

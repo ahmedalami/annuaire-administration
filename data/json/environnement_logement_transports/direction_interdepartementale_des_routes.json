@@ -1,0 +1,132 @@
+[
+  {
+    "id": "591ac0b55ffa12234d85e36fb2f46e909c9cf188",
+    "alternateName": "DIR",
+    "name": "direction_interdepartementale_des_routes_dir_atlantique",
+    "title": "Direction interdépartementale des routes (DIR) - Atlantique",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/gironde/did_routes-33063-01",
+    "metadata": {
+      "email": "dir-atlantique@developpement-durable.gouv.fr",
+      "telephone": "05 57 81 64 90",
+      "url": "http://www.dir.atlantique.developpement-durable.gouv.fr"
+    }
+  },
+  {
+    "id": "774ed206d4dbda6eaefefea15e0aa36ec4e24380",
+    "alternateName": "DIR",
+    "name": "direction_interdepartementale_des_routes_dir_est",
+    "title": "Direction interdépartementale des routes (DIR) - Est",
+    "url": "https://lannuaire.service-public.fr/grand-est/meurthe-et-moselle/did_routes-54395-01",
+    "metadata": {
+      "email": "dir-est@developpement-durable.gouv.fr",
+      "telephone": "03 83 50 96 00",
+      "url": "http://www.dir.est.developpement-durable.gouv.fr"
+    }
+  },
+  {
+    "id": "c6b495f0afbc12fd13791cc10a7a711aa377b070",
+    "alternateName": "DIR",
+    "name": "direction_interdepartementale_des_routes_dir_massif_central",
+    "title": "Direction interdépartementale des routes (DIR) - Massif central",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/puy-de-dome/did_routes-63113-01",
+    "metadata": {
+      "email": "dir-mc@developpement-durable.gouv.fr",
+      "telephone": "04 73 29 79 79",
+      "url": "http://www.dir-mc.fr"
+    }
+  },
+  {
+    "id": "db32fa5ecaf33795857dc35a7118aef7c28419e4",
+    "alternateName": "DIR",
+    "name": "direction_interdepartementale_des_routes_dir_mediterranee",
+    "title": "Direction interdépartementale des routes (DIR) - Méditerranée",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/did_routes-13201-01",
+    "metadata": {
+      "email": "relations-usagers.dirmed@developpement-durable.gouv.fr",
+      "telephone": "04 91 28 40 68",
+      "url": "http://www.enroute.mediterranee.equipement.gouv.fr"
+    }
+  },
+  {
+    "id": "625c073863a3b9da5662b2e5fdb4322a613a4b26",
+    "alternateName": "DIR",
+    "name": "direction_interdepartementale_des_routes_dir_nord",
+    "title": "Direction interdépartementale des routes (DIR) - Nord",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/nord/did_routes-59350-01",
+    "metadata": {
+      "email": "communication.dirn@developpement-durable.gouv.fr",
+      "telephone": "03 20 49 63 44",
+      "url": "http://www.dir-nord.developpement-durable.gouv.fr/"
+    }
+  },
+  {
+    "id": "832c596abf37979e1e7110cf59052de766c12ce3",
+    "alternateName": "DIR",
+    "name": "direction_interdepartementale_des_routes_dir_nord_ouest",
+    "title": "Direction interdépartementale des routes (DIR) - Nord-Ouest",
+    "url": "https://lannuaire.service-public.fr/normandie/seine-maritime/did_routes-76540-01",
+    "metadata": {
+      "email": "dir-no@developpement-durable.gouv.fr",
+      "telephone": "02 76 00 03 43",
+      "url": "http://www.dir.nord-ouest.developpement-durable.gouv.fr/"
+    }
+  },
+  {
+    "id": "b6427ef7a0d505911c7927d8513e528dfe433adb",
+    "alternateName": "DIR",
+    "name": "direction_interdepartementale_des_routes_dir_ouest",
+    "title": "Direction interdépartementale des routes (DIR) - Ouest",
+    "url": "https://lannuaire.service-public.fr/bretagne/ille-et-vilaine/did_routes-35238-01",
+    "metadata": {
+      "email": "diro@developpement-durable.gouv.fr",
+      "telephone": "02 99 33 46 52",
+      "url": "http://www.enroute.ouest.equipement.gouv.fr"
+    }
+  },
+  {
+    "id": "5a7161e8161b4dbedb37aa8d0f848e47f8deff2b",
+    "alternateName": "DIR",
+    "name": "direction_interdepartementale_des_routes_dir_sud_ouest",
+    "title": "Direction interdépartementale des routes (DIR) - Sud-Ouest",
+    "url": "https://lannuaire.service-public.fr/occitanie/haute-garonne/did_routes-31555-01",
+    "metadata": {
+      "email": "dir-sud-ouest@developpement-durable.gouv.fr",
+      "telephone": "05 61 58 59 70",
+      "url": "http://www.dir-sud-ouest.fr"
+    }
+  },
+  {
+    "id": "ccb2e5769fd5a0605ae423a2e55217e920d1dfb6",
+    "alternateName": "DIRIF",
+    "name": "direction_interdepartementale_des_routes_dirif_ile_de_france",
+    "title": "Direction interdépartementale des routes (DIRIF) - Île-de-France",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/val-de-marne/did_routes-94028-01",
+    "metadata": {
+      "email": "driea-if@developpement-durable.gouv.fr",
+      "telephone": "01 46 76 87 00",
+      "url": "http://www.enroute.ile-de-france.developpement-durable.gouv.fr"
+    }
+  },
+  {
+    "id": "6dc5026e9f84d7bcb05ab067bb9d563b8f136ac6",
+    "name": "direction_interdepartementale_des_routes_centre_est",
+    "title": "Direction interdépartementale des routes - Centre-Est",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/rhone/did_routes-69383-01",
+    "metadata": {
+      "email": "dirce@developpement-durable.gouv.fr",
+      "telephone": "04 69 16 62 00",
+      "url": "http://www.enroute.centre-est.developpement-durable.gouv.fr/spip.php?page=sommaire"
+    }
+  },
+  {
+    "id": "ad648ccb1619c59f89936f46c26cdb4cb0c59cfe",
+    "name": "direction_interdepartementale_des_routes_centre_ouest",
+    "title": "Direction interdépartementale des routes - Centre-Ouest",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/haute-vienne/did_routes-87085-01",
+    "metadata": {
+      "email": "contactez-nous.dirco@equipement.gouv.fr",
+      "telephone": "05 87 50 60 00",
+      "url": "http://www.enroute.centre-ouest.developpement-durable.gouv.fr/"
+    }
+  }
+]

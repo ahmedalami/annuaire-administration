@@ -1,0 +1,1442 @@
+[
+  {
+    "id": "470b6e641d78c26cea3f9b1fb526f1d75c47b252",
+    "alternateName": "MVAC",
+    "name": "maison_dela_vie_associative_et_citoyenne_mvac_paris_14_e_arrondissement",
+    "title": "Maison dela vie associative et citoyenne (MVAC) - Paris 14e arrondissement",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/paris/maia-75114-01",
+    "metadata": {
+      "email": "maison.asso.14@paris.fr",
+      "telephone": "01 53 63 31 50",
+      "url": "https://www.paris.fr/equipements/maisons-de-la-vie-associative-et-citoyenne"
+    }
+  },
+  {
+    "id": "ea3cb4b7eff20e688ab3e15ad66bb8de3462c699",
+    "alternateName": "MVAC",
+    "name": "maison_dela_vie_associative_et_citoyenne_mvac_paris_15_e_arrondissement",
+    "title": "Maison dela vie associative et citoyenne (MVAC) - Paris 15e arrondissement",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/paris/maia-75115-01",
+    "metadata": {
+      "email": "maison.asso.15@paris.fr",
+      "telephone": "",
+      "url": "https://www.paris.fr/equipements/maisons-de-la-vie-associative-et-citoyenne"
+    }
+  },
+  {
+    "id": "66ee61b29dd6fd3d0dfe26a7f075293b1572c968",
+    "alternateName": "MVAC",
+    "name": "maison_dela_vie_associative_et_citoyenne_mvac_paris_17_e_arrondissement",
+    "title": "Maison dela vie associative et citoyenne (MVAC) - Paris 17e arrondissement",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/paris/maia-75117-01",
+    "metadata": {
+      "email": "maison.asso.17@paris.fr",
+      "telephone": "01 58 60 16 20",
+      "url": "https://www.paris.fr/equipements/maisons-de-la-vie-associative-et-citoyenne"
+    }
+  },
+  {
+    "id": "cfa7a9779be1da67b1d7ac454f97a514d5a505af",
+    "alternateName": "MVAC",
+    "name": "maison_de_la_vie_associative_et_citoyenne_mvac_paris_11_e_arrondissement",
+    "title": "Maison de la vie associative et citoyenne (MVAC) - Paris 11e arrondissement",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/paris/maia-75111-01",
+    "metadata": {
+      "email": "maison.asso.11@paris.fr",
+      "telephone": "01 55 28 35 90",
+      "url": "https://www.paris.fr/equipements/maisons-de-la-vie-associative-et-citoyenne"
+    }
+  },
+  {
+    "id": "72fe77560dc14ed56c15d7844128ec5284126b8a",
+    "alternateName": "MVAC",
+    "name": "maison_de_la_vie_associative_et_citoyenne_mvac_paris_12_e_arrondissement",
+    "title": "Maison de la vie associative et citoyenne (MVAC) - Paris 12e arrondissement",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/paris/maia-75112-01",
+    "metadata": {
+      "email": "maison.asso.12@paris.fr",
+      "telephone": "01 53 33 51 20",
+      "url": "https://www.paris.fr/equipements/maisons-de-la-vie-associative-et-citoyenne"
+    }
+  },
+  {
+    "id": "13a68f6f6075916ac3e37ff24647d6b38454ab22",
+    "alternateName": "MVAC",
+    "name": "maison_de_la_vie_associative_et_citoyenne_mvac_paris_13_e_arrondissement",
+    "title": "Maison de la vie associative et citoyenne (MVAC) - Paris 13e arrondissement",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/paris/maia-75113-01",
+    "metadata": {
+      "email": "maison.asso.13@paris.fr",
+      "telephone": "01 56 61 77 60",
+      "url": "https://www.paris.fr/equipements/maisons-de-la-vie-associative-et-citoyenne"
+    }
+  },
+  {
+    "id": "9ed7271714056b5eaecc92fa1b0d8b39e73c3b10",
+    "alternateName": "MVAC",
+    "name": "maison_de_la_vie_associative_et_citoyenne_mvac_paris_16_e_arrondissement",
+    "title": "Maison de la vie associative et citoyenne (MVAC) - Paris 16e arrondissement",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/paris/maia-75116-01",
+    "metadata": {
+      "email": "maison.asso.16@paris.fr",
+      "telephone": "01 53 92 29 30",
+      "url": "https://www.paris.fr/equipements/maisons-de-la-vie-associative-et-citoyenne"
+    }
+  },
+  {
+    "id": "2abf429a2a15c8159976e153d8d0de7268b60cbb",
+    "alternateName": "MVAC",
+    "name": "maison_de_la_vie_associative_et_citoyenne_mvac_paris_18_e_arrondissement",
+    "title": "Maison de la vie associative et citoyenne (MVAC) - Paris 18e arrondissement",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/paris/maia-75118-01",
+    "metadata": {
+      "email": "maison.asso.18@paris.fr",
+      "telephone": "01 42 23 20 20",
+      "url": "https://www.paris.fr/equipements/maisons-de-la-vie-associative-et-citoyenne"
+    }
+  },
+  {
+    "id": "032bec3ca65857fc63f547e6da422c6ccb2b8215",
+    "alternateName": "MVAC",
+    "name": "maison_de_la_vie_associative_et_citoyenne_mvac_paris_19_e_arrondissement",
+    "title": "Maison de la vie associative et citoyenne (MVAC) - Paris 19e arrondissement",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/paris/maia-75119-01",
+    "metadata": {
+      "email": "maison.asso.19@paris.fr",
+      "telephone": "01 53 72 89 10",
+      "url": "https://www.paris.fr/equipements/maisons-de-la-vie-associative-et-citoyenne"
+    }
+  },
+  {
+    "id": "0bb9b0f31a2d38795926a213d8903232c643b027",
+    "alternateName": "MVAC",
+    "name": "maison_de_la_vie_associative_et_citoyenne_mvac_paris_1_er_et_2_e_arrondissements",
+    "title": "Maison de la vie associative et citoyenne (MVAC) - Paris 1er et 2e arrondissements",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/paris/maia-75101-01",
+    "metadata": {
+      "email": "maison.asso.01.02@paris.fr",
+      "telephone": "01 47 03 69 90",
+      "url": "https://www.paris.fr/equipements/maisons-de-la-vie-associative-et-citoyenne"
+    }
+  },
+  {
+    "id": "8b1534aeab4151f80653fb680c2bcc946c250a0c",
+    "alternateName": "MVAC",
+    "name": "maison_de_la_vie_associative_et_citoyenne_mvac_paris_20_e_arrondissement",
+    "title": "Maison de la vie associative et citoyenne (MVAC)- Paris 20e arrondissement",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/paris/maia-75120-01",
+    "metadata": {
+      "email": "maison.asso.20@paris.fr",
+      "telephone": "01 40 33 33 61",
+      "url": "https://www.paris.fr/equipements/maisons-de-la-vie-associative-et-citoyenne"
+    }
+  },
+  {
+    "id": "57cc9b8fdd1f9bc0d1dee51bad96af0a32363f66",
+    "alternateName": "MVAC",
+    "name": "maison_de_la_vie_associative_et_citoyenne_mvac_paris_3_e_et_4_e_arrondissements",
+    "title": "Maison de la vie associative et citoyenne (MVAC) - Paris 3e et 4e arrondissements",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/paris/maia-75103-01",
+    "metadata": {
+      "email": "maison.asso.3.4@paris.fr",
+      "telephone": "01 53 01 76 94",
+      "url": "https://www.paris.fr/equipements/maisons-de-la-vie-associative-et-citoyenne"
+    }
+  },
+  {
+    "id": "37ed689e103660949464db469276c5fffba9751d",
+    "alternateName": "MVAC",
+    "name": "maison_de_la_vie_associative_et_citoyenne_mvac_paris_5_e_et_6_e_arrondissements",
+    "title": "Maison de la vie associative et citoyenne (MVAC) - Paris 5e et 6e arrondissements",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/paris/maia-75105-01",
+    "metadata": {
+      "email": "maison.asso.5.6@paris.fr",
+      "telephone": "01 44 08 78 80",
+      "url": "https://www.paris.fr/equipements/maisons-de-la-vie-associative-et-citoyenne"
+    }
+  },
+  {
+    "id": "15d62588047a06700ae5e566be0da51f898d4c32",
+    "alternateName": "MVAC",
+    "name": "maison_de_la_vie_associative_et_citoyenne_mvac_paris_7_e_et_8_e_arrondissements",
+    "title": "Maison de la vie associative et citoyenne (MVAC) - Paris 7e et 8e arrondissements",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/paris/maia-75107-01",
+    "metadata": {
+      "email": "maison.asso.7.8@paris.fr",
+      "telephone": "01 53 59 44 90",
+      "url": "https://www.paris.fr/equipements/maisons-de-la-vie-associative-et-citoyenne"
+    }
+  },
+  {
+    "id": "04f7b6ee6559e8fd621909f9e6615d600a65b8bd",
+    "alternateName": "MVAC",
+    "name": "maison_de_la_vie_associative_et_citoyenne_mvac_paris_9_e_arrondissement",
+    "title": "Maison de la vie associative et citoyenne (MVAC) - Paris 9e arrondissement",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/paris/maia-75109-01",
+    "metadata": {
+      "email": "maison.asso.09@paris.fr",
+      "telephone": "01 49 70 81 70",
+      "url": "https://www.paris.fr/equipements/maisons-de-la-vie-associative-et-citoyenne"
+    }
+  },
+  {
+    "id": "8f634a22dced78cddfe95f33b7609020a5dce12d",
+    "alternateName": "MVCA",
+    "name": "maison_de_la_vie_associative_et_citoyenne_mvca_paris_10_e_arrondissement",
+    "title": "Maison de la vie associative et citoyenne (MVCA) - Paris 10e arrondissement",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/paris/maia-75110-01",
+    "metadata": {
+      "email": "maison.asso.10@paris.fr",
+      "telephone": "01 40 38 80 70",
+      "url": "https://www.paris.fr/equipements/maisons-de-la-vie-associative-et-citoyenne"
+    }
+  },
+  {
+    "id": "c5b6f8aacb2f401968eeafc4d754ee708e67f596",
+    "alternateName": "Maia",
+    "name": "mission_daccueil_et_dinformation_des_associations_maia_ain",
+    "title": "Mission d'accueil et d'information des associations (Maia) - Ain",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/ain/maia-01053-01",
+    "metadata": {
+      "email": "ddcs@ain.gouv.fr",
+      "telephone": "0474325508",
+      "url": "http://www.associations.gouv.fr"
+    }
+  },
+  {
+    "id": "2b5e7b3865ea25090b2dd5a3254ec37a163115d6",
+    "alternateName": "Maia",
+    "name": "mission_daccueil_et_dinformation_des_associations_maia_aisne",
+    "title": "Mission d'accueil et d'information des associations (Maia) - Aisne",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/aisne/maia-02408-01",
+    "metadata": {
+      "email": "jocelyne.pierretbonheur@aisne.gouv.fr",
+      "telephone": "0360815030",
+      "url": "http://www.associations.gouv.fr"
+    }
+  },
+  {
+    "id": "bd063404cb5e37e8c4bf4aa6e85d344b9aa55c19",
+    "alternateName": "Maia",
+    "name": "mission_daccueil_et_dinformation_des_associations_maia_allier",
+    "title": "Mission d'accueil et d'information des associations (Maia) - Allier",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/allier/maia-03321-01",
+    "metadata": {
+      "email": "veronique.soussan@allier.gouv.fr",
+      "telephone": "0470483500",
+      "url": "http://www.associations.gouv.fr"
+    }
+  },
+  {
+    "id": "fb14deb4028635be768522052656759d9e259b87",
+    "alternateName": "MAIA",
+    "name": "mission_daccueil_et_dinformation_des_associations_maia_alpes_de_haute_provence",
+    "title": "Mission d'accueil et d'information des associations (MAIA) - Alpes-de-Haute-Provence",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/alpes-de-haute-provence/maia-04070-01",
+    "metadata": {
+      "email": "sandrine.corriol@alpes-de-haute-provence.gouv.fr",
+      "telephone": "04 92 30 37 76",
+      "url": "http://www.associations.gouv.fr"
+    }
+  },
+  {
+    "id": "798a45749d7cba879a941c9d2ab92836a44e6430",
+    "alternateName": "Maia",
+    "name": "mission_daccueil_et_dinformation_des_associations_maia_alpes_maritimes",
+    "title": "Mission d'accueil et d'information des associations (Maia) - Alpes-Maritimes",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/alpes-maritimes/maia-06088-01",
+    "metadata": {
+      "email": "philippe.barbet@alpes-maritimes.gouv.fr",
+      "telephone": "0493722758",
+      "url": "http://www.associations.gouv.fr"
+    }
+  },
+  {
+    "id": "9a271dd7c7eef47cfc1b002d69a61d52ba520e34",
+    "alternateName": "Maia",
+    "name": "mission_daccueil_et_dinformation_des_associations_maia_ardeche",
+    "title": "Mission d'accueil et d'information des associations (Maia) - Ardèche",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/ardeche/maia-07186-01",
+    "metadata": {
+      "email": "albane.jean-peytavin@ardeche.gouv.fr",
+      "telephone": "0475665396",
+      "url": "http://www.associations.gouv.fr"
+    }
+  },
+  {
+    "id": "2578dff51a617da2f553e6b2e355cfeb0ecbe564",
+    "alternateName": "Maia",
+    "name": "mission_daccueil_et_dinformation_des_associations_maia_ardennes",
+    "title": "Mission d'accueil et d'information des associations (Maia) - Ardennes",
+    "url": "https://lannuaire.service-public.fr/grand-est/ardennes/maia-08105-01",
+    "metadata": {
+      "email": "jean-luc.leclercq@ardennes.gouv.fr",
+      "telephone": "0324526730",
+      "url": "http://www.associations.gouv.fr"
+    }
+  },
+  {
+    "id": "d384fc27c4552ac9e81b198436fdd0e359498991",
+    "alternateName": "Maia",
+    "name": "mission_daccueil_et_dinformation_des_associations_maia_ariege",
+    "title": "Mission d'accueil et d'information des associations (Maia) - Ariège",
+    "url": "https://lannuaire.service-public.fr/occitanie/ariege/maia-09122-01",
+    "metadata": {
+      "email": "bernard.marjault@aveyron.gouv.fr",
+      "telephone": "0561024370",
+      "url": "http://www.associations.gouv.fr"
+    }
+  },
+  {
+    "id": "3da26091bd50edbed2d1fff2b62943bb4049cb90",
+    "alternateName": "Maia",
+    "name": "mission_daccueil_et_dinformation_des_associations_maia_aube",
+    "title": "Mission d'accueil et d'information des associations (Maia) - Aube",
+    "url": "https://lannuaire.service-public.fr/grand-est/aube/maia-10387-01",
+    "metadata": {
+      "email": "ddcspp@aube.gouv.fr",
+      "telephone": "0325704654",
+      "url": "http://www.aube.gouv.fr"
+    }
+  },
+  {
+    "id": "b601858deaf07ac9ce46f4419eeef0bb1ca716f1",
+    "alternateName": "Maia",
+    "name": "mission_daccueil_et_dinformation_des_associations_maia_aude",
+    "title": "Mission d'accueil et d'information des associations (Maia) - Aude",
+    "url": "https://lannuaire.service-public.fr/occitanie/aude/maia-11069-01",
+    "metadata": {
+      "email": "erick.lenguin@aude.gouv.fr",
+      "telephone": "0434429052",
+      "url": "http://www.associations.gouv.fr"
+    }
+  },
+  {
+    "id": "d6772746bb9f94bf2fa073584e90235a0c37e20f",
+    "alternateName": "Maia",
+    "name": "mission_daccueil_et_dinformation_des_associations_maia_aveyron",
+    "title": "Mission d'accueil et d'information des associations (Maia) - Aveyron",
+    "url": "https://lannuaire.service-public.fr/occitanie/aveyron/maia-12202-01",
+    "metadata": {
+      "email": "",
+      "telephone": "0565735200",
+      "url": "http://www.associations.gouv.fr"
+    }
+  },
+  {
+    "id": "05966aea62935ef82a83247e688b84817af39279",
+    "alternateName": "Maia",
+    "name": "mission_daccueil_et_dinformation_des_associations_maia_bas_rhin",
+    "title": "Mission d'accueil et d'information des associations (Maia) - Bas-Rhin",
+    "url": "https://lannuaire.service-public.fr/grand-est/bas-rhin/maia-67482-01",
+    "metadata": {
+      "email": "info@reseau-sara.org",
+      "telephone": "0388232638",
+      "url": ""
+    }
+  },
+  {
+    "id": "4c92e52b75119cc84d2adf7520c37b7c8214ce8f",
+    "alternateName": "Maia",
+    "name": "mission_daccueil_et_dinformation_des_associations_maia_bouches_du_rhone",
+    "title": "Mission d'accueil et d'information des associations (Maia) - Bouches-du-Rhône",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/maia-13206-01",
+    "metadata": {
+      "email": "ddcs-ddva@bouches-du-rhone.gouv.fr",
+      "telephone": "0491005760",
+      "url": "http://www.associations.gouv.fr"
+    }
+  },
+  {
+    "id": "be3e908abe9a80fba21e86ade1ebdd62ac47647c",
+    "alternateName": "Maia",
+    "name": "mission_daccueil_et_dinformation_des_associations_maia_calvados",
+    "title": "Mission d'accueil et d'information des associations (Maia) - Calvados",
+    "url": "https://lannuaire.service-public.fr/normandie/calvados/maia-14118-01",
+    "metadata": {
+      "email": "natacha.blanc@calvados.gouv.fr",
+      "telephone": "0231527425",
+      "url": "http://www.associations.gouv.fr"
+    }
+  },
+  {
+    "id": "7a1c1ef4a6f3e47b7731821cf7335b40c67b950b",
+    "alternateName": "Maia",
+    "name": "mission_daccueil_et_dinformation_des_associations_maia_cantal",
+    "title": "Mission d'accueil et d'information des associations (Maia) - Cantal",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/cantal/maia-15014-01",
+    "metadata": {
+      "email": "beatrice.chambon@cantal.gouv.fr",
+      "telephone": "0471680606",
+      "url": "http://www.associations.gouv.fr"
+    }
+  },
+  {
+    "id": "1d9c09d936ffd0b0a74677c187e9788deec2499c",
+    "alternateName": "Maia",
+    "name": "mission_daccueil_et_dinformation_des_associations_maia_charente",
+    "title": "Mission d'accueil et d'information des associations (Maia) - Charente",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/charente/maia-16015-01",
+    "metadata": {
+      "email": "serge.milon@charente.gouv.fr",
+      "telephone": "0516166238",
+      "url": "http://www.associations.gouv.fr"
+    }
+  },
+  {
+    "id": "3a8e12ec27407c6d077a51c2c4548444caff540e",
+    "alternateName": "Maia",
+    "name": "mission_daccueil_et_dinformation_des_associations_maia_charente_maritime",
+    "title": "Mission d'accueil et d'information des associations (Maia) - Charente-Maritime",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/charente-maritime/maia-17300-01",
+    "metadata": {
+      "email": "meidhi.vermeulen@charente-maritime.gouv.fr",
+      "telephone": "0546352530",
+      "url": "http://www.maia-17.fr"
+    }
+  },
+  {
+    "id": "5c976000feb4885b69cf375e6cc19bfb32b08e88",
+    "alternateName": "Maia",
+    "name": "mission_daccueil_et_dinformation_des_associations_maia_cher",
+    "title": "Mission d'accueil et d'information des associations (Maia) - Cher",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/cher/maia-18033-01",
+    "metadata": {
+      "email": "philippe.frery@cher.gouv.fr",
+      "telephone": "0236783746",
+      "url": "http://www.associations.gouv.fr"
+    }
+  },
+  {
+    "id": "be6ae775d8ace0534c870aa129b2118b0972cef1",
+    "alternateName": "Maia",
+    "name": "mission_daccueil_et_dinformation_des_associations_maia_correze",
+    "title": "Mission d'accueil et d'information des associations (Maia) - Corrèze",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/correze/maia-19272-01",
+    "metadata": {
+      "email": "bernadette.vignal@correze.gouv.fr",
+      "telephone": "0587019101",
+      "url": "http://www.associations.gouv.fr"
+    }
+  },
+  {
+    "id": "4d19a9032bbb55c36c20650d3ca016bb752f51a6",
+    "alternateName": "Maia",
+    "name": "mission_daccueil_et_dinformation_des_associations_maia_corse_du_sud",
+    "title": "Mission d'accueil et d'information des associations (Maia) -  Corse-du-Sud",
+    "url": "https://lannuaire.service-public.fr/corse/corse-du-sud/maia-2A004-01",
+    "metadata": {
+      "email": "christian.osty@corse-du-sud.gouv.fr",
+      "telephone": "0495503958",
+      "url": "http://www.maiassociations2a.com"
+    }
+  },
+  {
+    "id": "fa12ead8dc7f90cebe13fb5fd2a520c96428811c",
+    "alternateName": "Maia",
+    "name": "mission_daccueil_et_dinformation_des_associations_maia_cote_d_or",
+    "title": "Mission d'accueil et d'information des associations (Maia) - Côte-d'Or",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/cote-d-or/maia-21231-01",
+    "metadata": {
+      "email": "laurent.dailliez@cote-dor.gouv.fr",
+      "telephone": "0380683000",
+      "url": "http://www.associations.gouv.fr"
+    }
+  },
+  {
+    "id": "4dcd53f75dd480c91f88c1c44d3bd2971ff97be4",
+    "alternateName": "Maia",
+    "name": "mission_daccueil_et_dinformation_des_associations_maia_cotes_d_armor",
+    "title": "Mission d'accueil et d'information des associations (Maia) - Côtes-d'Armor",
+    "url": "https://lannuaire.service-public.fr/bretagne/cotes-d-armor/maia-22278-01",
+    "metadata": {
+      "email": "christophe.buzzi@cotes-darmor.gouv.fr",
+      "telephone": "0296628367",
+      "url": "http://www.associations.gouv.fr"
+    }
+  },
+  {
+    "id": "4a24a71f82d2b21ea96373681045393d279347e7",
+    "alternateName": "Maia",
+    "name": "mission_daccueil_et_dinformation_des_associations_maia_creuse",
+    "title": "Mission d'accueil et d'information des associations (Maia) -  Creuse",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/creuse/maia-23096-01",
+    "metadata": {
+      "email": "ddcspp-csj@creuse.gouv.fr",
+      "telephone": "0555411420",
+      "url": "http://www.associations.gouv.fr"
+    }
+  },
+  {
+    "id": "63ec89a5e07bda4a2c38ceb080b76ced88734299",
+    "alternateName": "Maia",
+    "name": "mission_daccueil_et_dinformation_des_associations_maia_deux_sevres",
+    "title": "Mission d'accueil et d'information des associations (Maia) - Deux-Sèvres",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/deux-sevres/maia-79191-01",
+    "metadata": {
+      "email": "renaud.gautron@deux-sevres.gouv.fr",
+      "telephone": "0549172700",
+      "url": "http://www.associations.gouv.fr"
+    }
+  },
+  {
+    "id": "67eeb116f7d5d020e4f7f384b506caa45212ba5b",
+    "alternateName": "Maia",
+    "name": "mission_daccueil_et_dinformation_des_associations_maia_dordogne",
+    "title": "Mission d'accueil et d'information des associations (Maia) - Dordogne",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/dordogne/maia-24322-01",
+    "metadata": {
+      "email": "delphine.labails@dordogne.gouv.fr",
+      "telephone": "0553036500",
+      "url": "http://www.associations.gouv.fr"
+    }
+  },
+  {
+    "id": "32234c6a2850b3f683996d7645397b350bff4e01",
+    "alternateName": "Maia",
+    "name": "mission_daccueil_et_dinformation_des_associations_maia_doubs",
+    "title": "Mission d'accueil et d'information des associations (Maia) - Doubs",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/doubs/maia-25056-01",
+    "metadata": {
+      "email": "didier.barthel@doubs.gouv.fr",
+      "telephone": "0381607460",
+      "url": "http://www.associations.gouv.fr"
+    }
+  },
+  {
+    "id": "0b9f6a2b42c80d4ce3e36295f0be1eaebbb0de19",
+    "alternateName": "Maia",
+    "name": "mission_daccueil_et_dinformation_des_associations_maia_drome",
+    "title": "Mission d'accueil et d'information des associations (Maia) -  Drôme",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/drome/maia-26362-01",
+    "metadata": {
+      "email": "ddcs@drome.gouv.fr",
+      "telephone": "0426522280",
+      "url": "http://www.drome.gouv.fr"
+    }
+  },
+  {
+    "id": "561d80d9042294008afe133685777109b223c328",
+    "alternateName": "MAIA",
+    "name": "mission_daccueil_et_dinformation_des_associations_maia_est_indre_et_loire",
+    "title": "Mission d'accueil et d'information des associations (MAIA) Est - Indre-et-Loire",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/indre-et-loire/maia-37261-01",
+    "metadata": {
+      "email": "pilote.maia@scs.fede37.admr.org",
+      "telephone": "02 47 77 50 28",
+      "url": "http://www.associations37.org"
+    }
+  },
+  {
+    "id": "02ce707a471e564e1943802cb2c13b6484df764f",
+    "alternateName": "Maia",
+    "name": "mission_daccueil_et_dinformation_des_associations_maia_eure",
+    "title": "Mission d'accueil et d'information des associations (Maia) - Eure",
+    "url": "https://lannuaire.service-public.fr/normandie/eure/maia-27229-01",
+    "metadata": {
+      "email": "ddcs@eure.gouv.fr",
+      "telephone": "0232248971",
+      "url": "http://www.eure.gouv.fr"
+    }
+  },
+  {
+    "id": "c52fd166a3ec375de3ab9a20857812365ba076b3",
+    "alternateName": "Maia",
+    "name": "mission_daccueil_et_dinformation_des_associations_maia_eure_et_loir",
+    "title": "Mission d'accueil et d'information des associations (Maia) - Eure-et-Loir",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/eure-et-loir/maia-28085-01",
+    "metadata": {
+      "email": "christele.gautier@eure-et-loir.gouv.fr",
+      "telephone": "0237205155",
+      "url": "http://www.associations.gouv.fr"
+    }
+  },
+  {
+    "id": "3d1b75bf9640ddef5e2db3e1b77516164f38bd6a",
+    "alternateName": "Maia",
+    "name": "mission_daccueil_et_dinformation_des_associations_maia_finistere",
+    "title": "Mission d'accueil et d'information des associations (Maia) - Finistère",
+    "url": "https://lannuaire.service-public.fr/bretagne/finistere/maia-29232-01",
+    "metadata": {
+      "email": "ddcs@finistere.gouv.fr",
+      "telephone": "0298649900",
+      "url": "http://www.associations.gouv.fr"
+    }
+  },
+  {
+    "id": "0464b1700b356a18adc6e2b8491459e2c290cd75",
+    "alternateName": "Maia",
+    "name": "mission_daccueil_et_dinformation_des_associations_maia_gard",
+    "title": "Mission d'accueil et d'information des associations (Maia) - Gard",
+    "url": "https://lannuaire.service-public.fr/occitanie/gard/maia-30189-01",
+    "metadata": {
+      "email": "marie-helene.coll@gard.gouv.fr",
+      "telephone": "0430086157",
+      "url": "http://www.gard.gouv.fr/Politiques-publiques/Jeunesse-sport-et-vie-associative/Vie-associative"
+    }
+  },
+  {
+    "id": "c35e1661fcbd4b3d903cdf0eec0b5b4a04ecbcad",
+    "alternateName": "Maia",
+    "name": "mission_daccueil_et_dinformation_des_associations_maia_gers",
+    "title": "Mission d'accueil et d'information des associations (Maia) - Gers",
+    "url": "https://lannuaire.service-public.fr/occitanie/gers/maia-32013-01",
+    "metadata": {
+      "email": "patricia.query-legrand@gers.gouv.fr",
+      "telephone": "0562581285",
+      "url": "http://www.associations.gouv.fr"
+    }
+  },
+  {
+    "id": "6efc07ea1c02e78ed81817d737ffcb700296a7d0",
+    "alternateName": "Maia",
+    "name": "mission_daccueil_et_dinformation_des_associations_maia_gironde",
+    "title": "Mission d'accueil et d'information des associations (Maia) - Gironde",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/gironde/maia-33063-01",
+    "metadata": {
+      "email": "caroline.lauzeral@gironde.gouv.fr",
+      "telephone": "0547474754",
+      "url": "http://www.associations.gouv.fr"
+    }
+  },
+  {
+    "id": "166b9531e7aa6e5237d039299129bb52b9f7642a",
+    "alternateName": "Maia",
+    "name": "mission_daccueil_et_dinformation_des_associations_maia_guadeloupe",
+    "title": "Mission d'accueil et d'information des associations (Maia) - Guadeloupe",
+    "url": "https://lannuaire.service-public.fr/guadeloupe/guadeloupe/maia-97105-01",
+    "metadata": {
+      "email": "roselita.grandisson@drjscs.gouv.fr",
+      "telephone": "+590590813357",
+      "url": "http://www.associations.gouv.fr"
+    }
+  },
+  {
+    "id": "b813474d4d1c1b5b20ce9c92e6eb69e6ebc0abf2",
+    "alternateName": "MAIA",
+    "name": "mission_daccueil_et_dinformation_des_associations_maia_guyane",
+    "title": "Mission d'accueil et d'information des associations (MAIA) - Guyane",
+    "url": "https://lannuaire.service-public.fr/guyane/guyane/maia-97302-01",
+    "metadata": {
+      "email": "sonia.francius@jeunesse-sports.gouv.fr",
+      "telephone": "+594 594 25 53 00",
+      "url": "http://www.associations.gouv.fr"
+    }
+  },
+  {
+    "id": "7b9db7dae33bae05665db8066b5a3778220d4d42",
+    "alternateName": "Maia",
+    "name": "mission_daccueil_et_dinformation_des_associations_maia_haute_corse",
+    "title": "Mission d'accueil et d'information des associations (Maia) - Haute-Corse",
+    "url": "https://lannuaire.service-public.fr/corse/haute-corse/maia-2B033-01",
+    "metadata": {
+      "email": "pref-associations@haute-corse.gouv.fr",
+      "telephone": "0495345269",
+      "url": "http://www.haute-corse.gouv.fr"
+    }
+  },
+  {
+    "id": "dfa05189d335676945aba582f67655ede8eef485",
+    "alternateName": "Maia",
+    "name": "mission_daccueil_et_dinformation_des_associations_maia_haute_garonne",
+    "title": "Mission d'accueil et d'information des associations (Maia) - Haute-Garonne",
+    "url": "https://lannuaire.service-public.fr/occitanie/haute-garonne/maia-31555-01",
+    "metadata": {
+      "email": "ddcs31-jsva@haute-garonne.gouv.fr",
+      "telephone": "0534453712",
+      "url": "http://maia31.gouv.fr"
+    }
+  },
+  {
+    "id": "04d4c1ea634cb74e0a6657736d4b54507b88e2ed",
+    "alternateName": "MAIA",
+    "name": "mission_daccueil_et_dinformation_des_associations_maia_haute_loire",
+    "title": "Mission d'accueil et d'information des associations (MAIA) -  Haute-Loire",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/haute-loire/maia-43040-01",
+    "metadata": {
+      "email": "pref-associations@haute-loire.gouv.fr",
+      "telephone": "04 71 50 81 81",
+      "url": "http://www.associations.gouv.fr"
+    }
+  },
+  {
+    "id": "6125e4e64d3dbf3640e57fd52626fbc1142f427b",
+    "alternateName": "Maia",
+    "name": "mission_daccueil_et_dinformation_des_associations_maia_haute_marne",
+    "title": "Mission d'accueil et d'information des associations (Maia) - Haute-Marne",
+    "url": "https://lannuaire.service-public.fr/grand-est/haute-marne/maia-52121-01",
+    "metadata": {
+      "email": "francine.perron-faure@haute-marne.gouv.fr",
+      "telephone": "0352095600",
+      "url": "http://www.associations.gouv.fr"
+    }
+  },
+  {
+    "id": "5653781872b45a34993ff0038bd7538a9c3fa761",
+    "alternateName": "Maia",
+    "name": "mission_daccueil_et_dinformation_des_associations_maia_hautes_alpes",
+    "title": "Mission d'accueil et d'information des associations (Maia) - Hautes-Alpes",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/hautes-alpes/maia-05061-01",
+    "metadata": {
+      "email": "sylvain.mougel@hautes-alpes.gouv.fr",
+      "telephone": "0492222230",
+      "url": "http://www.associations.gouv.fr"
+    }
+  },
+  {
+    "id": "e33705ec4fd612a70f8d96ef31cda29adc59a803",
+    "alternateName": "Maia",
+    "name": "mission_daccueil_et_dinformation_des_associations_maia_haute_saone",
+    "title": "Mission d'accueil et d'information des associations (Maia) - Haute-Saône",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/haute-saone/maia-70550-01",
+    "metadata": {
+      "email": "patrick.saby@haute-saone.gouv.fr",
+      "telephone": "0384961794",
+      "url": "http://www.associations.gouv.fr"
+    }
+  },
+  {
+    "id": "5976e39ec13ce676f1f2898b03734bd4318d941f",
+    "alternateName": "Maia",
+    "name": "mission_daccueil_et_dinformation_des_associations_maia_haute_savoie",
+    "title": "Mission d'accueil et d'information des associations (Maia) - Haute-Savoie",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/haute-savoie/maia-74010-01",
+    "metadata": {
+      "email": "ddcs@haute-savoie.gouv.fr",
+      "telephone": "0450884140",
+      "url": "http://www.associations.gouv.fr"
+    }
+  },
+  {
+    "id": "5866160887fe22d8c77d1b00a7b0774d535f26e8",
+    "alternateName": "Maia",
+    "name": "mission_daccueil_et_dinformation_des_associations_maia_hautes_pyrenees",
+    "title": "Mission d'accueil et d'information des associations (Maia) - Hautes-Pyrénées",
+    "url": "https://lannuaire.service-public.fr/occitanie/hautes-pyrenees/maia-65440-01",
+    "metadata": {
+      "email": "claudie.madrach-roze@hautes-pyrenees.gouv.fr",
+      "telephone": "0562464220",
+      "url": "http://www.associations.gouv.fr"
+    }
+  },
+  {
+    "id": "59f9d6b2dcf746b4adde91fbe0836e802f7d70eb",
+    "alternateName": "Maia",
+    "name": "mission_daccueil_et_dinformation_des_associations_maia_haute_vienne",
+    "title": "Mission d'accueil et d'information des associations (Maia) - Haute-Vienne",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/haute-vienne/maia-87085-01",
+    "metadata": {
+      "email": "ddcspp@haute-vienne.gouv.fr",
+      "telephone": "0519761200",
+      "url": "http://www.haute-vienne.gouv.fr/Politiques-publiques/Jeunesse-sports-et-vie-associative/Vie-associative"
+    }
+  },
+  {
+    "id": "ef1931f14effa99afd4cc4110e07885d804a642d",
+    "alternateName": "Maia",
+    "name": "mission_daccueil_et_dinformation_des_associations_maia_haut_rhin",
+    "title": "Mission d'accueil et d'information des associations (Maia) - Haut-Rhin",
+    "url": "https://lannuaire.service-public.fr/grand-est/haut-rhin/maia-68066-01",
+    "metadata": {
+      "email": "thomas.guthmann@haut-rhin.gouv.fr",
+      "telephone": "0389248374",
+      "url": "http://www.associations.gouv.fr"
+    }
+  },
+  {
+    "id": "4500e5925759a320468c82d7b28c99a92db54fa0",
+    "alternateName": "Maia",
+    "name": "mission_daccueil_et_dinformation_des_associations_maia_hauts_de_seine",
+    "title": "Mission d'accueil et d'information des associations (Maia) - Hauts-de-Seine",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/hauts-de-seine/maia-92050-01",
+    "metadata": {
+      "email": "ddcs@hauts-de-seine.gouv.fr",
+      "telephone": "0140974504",
+      "url": "http://www.hauts-de-seine.gouv.fr/Politiques-publiques/Jeunesse-sport-et-Cohesion-sociale/Jeunesse-et-sport/Vie-associative"
+    }
+  },
+  {
+    "id": "47ccc1749bd9f422ef08c6326c24f02af3df186d",
+    "alternateName": "Maia",
+    "name": "mission_daccueil_et_dinformation_des_associations_maia_herault",
+    "title": "Mission d'accueil et d'information des associations (Maia) - Hérault",
+    "url": "https://lannuaire.service-public.fr/occitanie/herault/maia-34172-01",
+    "metadata": {
+      "email": "",
+      "telephone": "0467417200",
+      "url": "http://www.associations.gouv.fr"
+    }
+  },
+  {
+    "id": "94efc050e2d574097b6294dcb128452daecb38ca",
+    "alternateName": "Maia",
+    "name": "mission_daccueil_et_dinformation_des_associations_maia_ille_et_vilaine",
+    "title": "Mission d'accueil et d'information des associations (Maia) - Ille-et-Vilaine",
+    "url": "https://lannuaire.service-public.fr/bretagne/ille-et-vilaine/maia-35238-01",
+    "metadata": {
+      "email": "nicolas.parquic@ille-et-vilaine.gouv.fr",
+      "telephone": "0299598900",
+      "url": "http://www.associations.gouv.fr"
+    }
+  },
+  {
+    "id": "7abafa93456edff91209c8172c4a503e4bad7317",
+    "alternateName": "Maia",
+    "name": "mission_daccueil_et_dinformation_des_associations_maia_indre",
+    "title": "Mission d'accueil et d'information des associations (Maia) - Indre",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/indre/maia-36044-01",
+    "metadata": {
+      "email": "patricia.danguy@indre.gouv.fr",
+      "telephone": "0254538200",
+      "url": "http://www.associations.gouv.fr"
+    }
+  },
+  {
+    "id": "1649e6d5cfe09d280fda43ded72c2a637bef0278",
+    "alternateName": "Maia",
+    "name": "mission_daccueil_et_dinformation_des_associations_maia_isere",
+    "title": "Mission d'accueil et d'information des associations (Maia) - Isère",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/isere/maia-38185-01",
+    "metadata": {
+      "email": "ddcs-associations@isere.gouv.fr",
+      "telephone": "0457386517",
+      "url": "http://www.isere.gouv.fr"
+    }
+  },
+  {
+    "id": "865dafd597d9a42360a93de3e76f613c2657ff3c",
+    "alternateName": "Maia",
+    "name": "mission_daccueil_et_dinformation_des_associations_maia_jura",
+    "title": "Mission d'accueil et d'information des associations (Maia) - Jura",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/jura/maia-39300-01",
+    "metadata": {
+      "email": "annelise.camuset@jura.gouv.fr",
+      "telephone": "0363558333",
+      "url": "http://www.associations.gouv.fr"
+    }
+  },
+  {
+    "id": "3506c13eb0561529604c60d3d76e89cbf5c5ce89",
+    "alternateName": "Maia",
+    "name": "mission_daccueil_et_dinformation_des_associations_maia_landes",
+    "title": "Mission d'accueil et d'information des associations (Maia) - Landes",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/landes/maia-40192-01",
+    "metadata": {
+      "email": "emmanuel.cazes@landes.gouv.fr",
+      "telephone": "0558057630",
+      "url": "http://www.associations.gouv.fr"
+    }
+  },
+  {
+    "id": "0f600901a4b9a7dc6536e39d923817e427c86717",
+    "alternateName": "MAIA",
+    "name": "mission_daccueil_et_dinformation_des_associations_maia_la_reunion",
+    "title": "Mission d'accueil et d'information des associations (MAIA) - La Réunion",
+    "url": "https://lannuaire.service-public.fr/la-reunion/reunion/maia-97411-01",
+    "metadata": {
+      "email": "serge.fabresson@jeunesse-sports.gouv.fr",
+      "telephone": "+262 262 20 96 71",
+      "url": "http://www.associations.gouv.fr"
+    }
+  },
+  {
+    "id": "e8af51003eb2619c54779eae340b188b6c29dab0",
+    "alternateName": "Maia",
+    "name": "mission_daccueil_et_dinformation_des_associations_maia_loire",
+    "title": "Mission d'accueil et d'information des associations (Maia) -  Loire",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/loire/maia-42218-01",
+    "metadata": {
+      "email": "ddcs@loire.gouv.fr",
+      "telephone": "0477496363",
+      "url": "http://www.loire.gouv.fr"
+    }
+  },
+  {
+    "id": "43aec67e63e1aed5ba14d6fdacfd6876bd08716a",
+    "alternateName": "Maia",
+    "name": "mission_daccueil_et_dinformation_des_associations_maia_loire_atlantique",
+    "title": "Mission d'accueil et d'information des associations (Maia) - Loire-Atlantique",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/loire-atlantique/maia-44109-01",
+    "metadata": {
+      "email": "ddcs-ddva@loire-atlantique.gouv.fr",
+      "telephone": "0240128000",
+      "url": "http://www.associations.gouv.fr"
+    }
+  },
+  {
+    "id": "8a554d8727852b18801929585f1163d042eee6d6",
+    "alternateName": "Maia",
+    "name": "mission_daccueil_et_dinformation_des_associations_maia_loiret",
+    "title": "Mission d'accueil et d'information des associations (Maia) - Loiret",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/loiret/maia-45234-01",
+    "metadata": {
+      "email": "ddcs@loiret.gouv.fr",
+      "telephone": "0238424210",
+      "url": "http://www.associations.gouv.fr"
+    }
+  },
+  {
+    "id": "52a9bc84fec7fbd3f64983140bfc3cdeaffb85a7",
+    "alternateName": "Maia",
+    "name": "mission_daccueil_et_dinformation_des_associations_maia_loir_et_cher",
+    "title": "Mission d'accueil et d'information des associations (Maia) - Loir-et-Cher",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/loir-et-cher/maia-41018-01",
+    "metadata": {
+      "email": "catherine.bancquart@loir-et-cher.gouv.fr",
+      "telephone": "0254909731",
+      "url": "http://www.associations.gouv.fr"
+    }
+  },
+  {
+    "id": "f30dfb6e2df5fb337b9ad940216a5248e15a9734",
+    "alternateName": "Maia",
+    "name": "mission_daccueil_et_dinformation_des_associations_maia_lot",
+    "title": "Mission d'accueil et d'information des associations (Maia) - Lot",
+    "url": "https://lannuaire.service-public.fr/occitanie/lot/maia-46042-01",
+    "metadata": {
+      "email": "yvonne.dartus@lot.gouv.fr",
+      "telephone": "0565205671",
+      "url": "http://www.associations.gouv.fr"
+    }
+  },
+  {
+    "id": "1146e784920dbddff9cedf854d893e310c4db637",
+    "alternateName": "Maia",
+    "name": "mission_daccueil_et_dinformation_des_associations_maia_lot_et_garonne",
+    "title": "Mission d'accueil et d'information des associations (Maia) - Lot-et-Garonne",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/lot-et-garonne/maia-47001-01",
+    "metadata": {
+      "email": "jean-claude.feyrit@lot-et-garonne.gouv.fr",
+      "telephone": "0553986652",
+      "url": "http://www.associations.gouv.fr"
+    }
+  },
+  {
+    "id": "5ce4a7f4df5131ee7edf2c7f0357d1afa2343b34",
+    "alternateName": "Maia",
+    "name": "mission_daccueil_et_dinformation_des_associations_maia_lozere",
+    "title": "Mission d'accueil et d'information des associations (Maia) - Lozère",
+    "url": "https://lannuaire.service-public.fr/occitanie/lozere/maia-48095-01",
+    "metadata": {
+      "email": "maryline.nouchi@lozere.gouv.fr",
+      "telephone": "0466496533",
+      "url": "http://www.associations.gouv.fr"
+    }
+  },
+  {
+    "id": "8d0cdf846d093a1b95a195a1534186d0fa0d9869",
+    "alternateName": "MAIA",
+    "name": "mission_daccueil_et_dinformation_des_associations_maia_maine_et_loire",
+    "title": "Mission d'accueil et d'information des associations (MAIA) - Maine-et-Loire",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/maine-et-loire/maia-49007-01",
+    "metadata": {
+      "email": "jeanne.vo-huu-le@maine-et-loire.gouv.fr",
+      "telephone": "0241724720",
+      "url": "http://www.associations.gouv.fr"
+    }
+  },
+  {
+    "id": "d6734a23a8a7c824711ba9dfb55ab488fb24e448",
+    "alternateName": "Maia",
+    "name": "mission_daccueil_et_dinformation_des_associations_maia_manche",
+    "title": "Mission d'accueil et d'information des associations (Maia) - Manche",
+    "url": "https://lannuaire.service-public.fr/normandie/manche/maia-50502-01",
+    "metadata": {
+      "email": "ddcs-associations@manche.gouv.fr",
+      "telephone": "0250715000",
+      "url": "http://www.associations.gouv.fr"
+    }
+  },
+  {
+    "id": "a4eba45f7acc860102c106b18e23839efc41b748",
+    "alternateName": "Maia",
+    "name": "mission_daccueil_et_dinformation_des_associations_maia_marne",
+    "title": "Mission d'accueil et d'information des associations (Maia) - Marne",
+    "url": "https://lannuaire.service-public.fr/grand-est/marne/maia-51108-01",
+    "metadata": {
+      "email": "ddcspp@marne.gouv.fr",
+      "telephone": "0326664915",
+      "url": "http://www.associations.gouv.fr"
+    }
+  },
+  {
+    "id": "5d76f7262b6196db2a06907738c576db3ff1cce9",
+    "alternateName": "MAIA",
+    "name": "mission_daccueil_et_dinformation_des_associations_maia_martinique",
+    "title": "Mission d'accueil et d'information des associations (MAIA) - Martinique",
+    "url": "https://lannuaire.service-public.fr/martinique/martinique/maia-97209-01",
+    "metadata": {
+      "email": "paul.brunati@drjscs.gouv.fr",
+      "telephone": "+596 596 66 35 28",
+      "url": "http://www.associations.gouv.fr"
+    }
+  },
+  {
+    "id": "b9fa8b1be3ae114474d54fced88f3fe1e6e048a4",
+    "alternateName": "Maia",
+    "name": "mission_daccueil_et_dinformation_des_associations_maia_mayenne",
+    "title": "Mission d'accueil et d'information des associations (Maia) - Mayenne",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/mayenne/maia-53130-01",
+    "metadata": {
+      "email": "",
+      "telephone": "0243672768",
+      "url": "http://www.associations.gouv.fr"
+    }
+  },
+  {
+    "id": "271246835012ea78fee5d2da174c16727d53a348",
+    "alternateName": "MAIA",
+    "name": "mission_daccueil_et_dinformation_des_associations_maia_mayotte",
+    "title": "Mission d'accueil et d'information des associations (MAIA) - Mayotte",
+    "url": "https://lannuaire.service-public.fr/mayotte/mayotte/maia-97611-01",
+    "metadata": {
+      "email": "pascale.gatineau@drjscs.gouv.fr",
+      "telephone": "+269 269 61 60 50",
+      "url": "http://www.associations.gouv.fr"
+    }
+  },
+  {
+    "id": "1fcdb952ccea750afdeea0af1b978fa1986889f7",
+    "alternateName": "Maia",
+    "name": "mission_daccueil_et_dinformation_des_associations_maia_meurthe_et_moselle",
+    "title": "Mission d'accueil et d'information des associations (Maia) - Meurthe-et-Moselle",
+    "url": "https://lannuaire.service-public.fr/grand-est/meurthe-et-moselle/maia-54395-01",
+    "metadata": {
+      "email": "frederic.cuignet@meurthe-et-moselle.gouv.fr",
+      "telephone": "0357291291",
+      "url": "http://www.associations.gouv.fr"
+    }
+  },
+  {
+    "id": "c5834ee89df718408646527c80711ccdb9c0175c",
+    "alternateName": "Maia",
+    "name": "mission_daccueil_et_dinformation_des_associations_maia_meuse",
+    "title": "Mission d'accueil et d'information des associations (Maia) - Meuse",
+    "url": "https://lannuaire.service-public.fr/grand-est/meuse/maia-55029-01",
+    "metadata": {
+      "email": "merry.duracher@meuse.gouv.fr",
+      "telephone": "0329774221",
+      "url": "http://www.associations.gouv.fr"
+    }
+  },
+  {
+    "id": "9716df9396f1e85f1ffdd3d193ce79a01084bd04",
+    "alternateName": "Maia",
+    "name": "mission_daccueil_et_dinformation_des_associations_maia_morbihan",
+    "title": "Mission d'accueil et d'information des associations (Maia) - Morbihan",
+    "url": "https://lannuaire.service-public.fr/bretagne/morbihan/maia-56260-01",
+    "metadata": {
+      "email": "ddcs@morbihan.gouv.fr",
+      "telephone": "0256637124",
+      "url": "http://www.associations.gouv.fr"
+    }
+  },
+  {
+    "id": "947caabb17dc4d4d03aa09b0030d138dbc5ce6f1",
+    "alternateName": "Maia",
+    "name": "mission_daccueil_et_dinformation_des_associations_maia_moselle",
+    "title": "Mission d'accueil et d'information des associations (Maia) - Moselle",
+    "url": "https://lannuaire.service-public.fr/grand-est/moselle/maia-57463-01",
+    "metadata": {
+      "email": "ddcs@moselle.gouv.fr",
+      "telephone": "0387758115",
+      "url": "http://www.associations.gouv.fr"
+    }
+  },
+  {
+    "id": "bb7472f9019c933b27dcb4b14894343423140315",
+    "alternateName": "Maia",
+    "name": "mission_daccueil_et_dinformation_des_associations_maia_nievre",
+    "title": "Mission d'accueil et d'information des associations (Maia) - Nièvre",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/nievre/maia-58194-01",
+    "metadata": {
+      "email": "rodolphe.legendre@nievre.gouv.fr",
+      "telephone": "0358072024",
+      "url": "http://www.associations.gouv.fr"
+    }
+  },
+  {
+    "id": "2d8c54553998e249f83cbaa0e4df41f1117f47fa",
+    "alternateName": "Maia",
+    "name": "mission_daccueil_et_dinformation_des_associations_maia_nord",
+    "title": "Mission d'accueil et d'information des associations (Maia) - Nord",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/nord/maia-59350-01",
+    "metadata": {
+      "email": "patrick.piret@nord.gouv.fr",
+      "telephone": "0320183333",
+      "url": "http://www.associations.gouv.fr"
+    }
+  },
+  {
+    "id": "cab4d2cfba4521dcbcab6baf83569e409a660ee7",
+    "alternateName": "MAIA",
+    "name": "mission_daccueil_et_dinformation_des_associations_maia_nouvelle_caledonie",
+    "title": "Mission d'accueil et d'information des associations (MAIA) - Nouvelle-Calédonie",
+    "url": "https://lannuaire.service-public.fr/collectivites-d-outre-mer/nouvelle-caledonie/maia-98818-01",
+    "metadata": {
+      "email": "pierre.forest@gouv.nc",
+      "telephone": "+687 25 23 84",
+      "url": "http://www.associations.gouv.fr"
+    }
+  },
+  {
+    "id": "03bf6d31d698576b49786ef9d343aee83d05007d",
+    "alternateName": "Maia",
+    "name": "mission_daccueil_et_dinformation_des_associations_maia_oise",
+    "title": "Mission d'accueil et d'information des associations (Maia) - Oise",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/oise/maia-60057-01",
+    "metadata": {
+      "email": "ddcs-directeur@oise.gouv.fr",
+      "telephone": "0344064842",
+      "url": "http://www.associations.gouv.fr"
+    }
+  },
+  {
+    "id": "11b5d19886ef9d2bd90198714aa76328f4a6ad7b",
+    "alternateName": "Maia",
+    "name": "mission_daccueil_et_dinformation_des_associations_maia_orne",
+    "title": "Mission d'accueil et d'information des associations (Maia) - Orne",
+    "url": "https://lannuaire.service-public.fr/normandie/orne/maia-61001-01",
+    "metadata": {
+      "email": "pascale.foret@orne.gouv.fr",
+      "telephone": "0233324298",
+      "url": "http://www.associations.gouv.fr"
+    }
+  },
+  {
+    "id": "19937b357009ded66978ddb2d7641bce0b4598e7",
+    "alternateName": "MAIA",
+    "name": "mission_daccueil_et_dinformation_des_associations_maia_ouest_indre_et_loire",
+    "title": "Mission d'accueil et d'information des associations (MAIA) Ouest - Indre-et-Loire",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/indre-et-loire/maia-37261-02",
+    "metadata": {
+      "email": "pilote@assad-had.org",
+      "telephone": "02 47 70 42 61",
+      "url": "http://www.associations37.org"
+    }
+  },
+  {
+    "id": "8e881979947be19c43804d798a2e9eb373b885f0",
+    "alternateName": "Maia",
+    "name": "mission_daccueil_et_dinformation_des_associations_maia_pas_de_calais",
+    "title": "Mission d'accueil et d'information des associations (Maia) - Pas-de-Calais",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/pas-de-calais/maia-62041-01",
+    "metadata": {
+      "email": "patrick.rodier@pas-de-calais.gouv.fr",
+      "telephone": "0321238770",
+      "url": "http://www.associations.gouv.fr"
+    }
+  },
+  {
+    "id": "6d283540276b32ee52ddeb2e0c3cc0371eb90ba1",
+    "alternateName": "MAIA",
+    "name": "mission_daccueil_et_dinformation_des_associations_maia_polynesie_francaise",
+    "title": "Mission d'accueil et d'information des associations (MAIA)  - Polynésie française",
+    "url": "https://lannuaire.service-public.fr/collectivites-d-outre-mer/polynesie-francaise/maia-98735-01",
+    "metadata": {
+      "email": "gerard.dubois@jeunesse.gov.pf",
+      "telephone": "+689 42 86 43",
+      "url": "http://www.associations.gouv.fr/"
+    }
+  },
+  {
+    "id": "e33c8f72c9e8072d5d73c8639d6654c7559629e5",
+    "alternateName": "MAIA",
+    "name": "mission_daccueil_et_dinformation_des_associations_maia_puy_de_dome",
+    "title": "Mission d'accueil et d'information des associations (MAIA) - Puy-de-Dôme",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/puy-de-dome/maia-63113-01",
+    "metadata": {
+      "email": "bertrand.le-roy@puy-de-dome.gouv.fr",
+      "telephone": "04 73 14 76 04",
+      "url": "http://www.associations.gouv.fr"
+    }
+  },
+  {
+    "id": "1119f956f37d15841c2b771e0dd9b9f3223e600c",
+    "alternateName": "Maia",
+    "name": "mission_daccueil_et_dinformation_des_associations_maia_pyrenees_atlantiques",
+    "title": "Mission d'accueil et d'information des associations (Maia) - Pyrénées-Atlantiques",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/pyrenees-atlantiques/maia-64445-01",
+    "metadata": {
+      "email": "philippe.etcheverria@pyrenees-atlantiques.gouv.fr",
+      "telephone": "0559298110",
+      "url": "http://www.associations.gouv.fr"
+    }
+  },
+  {
+    "id": "cfa15a3d64f2501a468d2ed79ef5a7d456fb0361",
+    "alternateName": "Maia",
+    "name": "mission_daccueil_et_dinformation_des_associations_maia_pyrenees_orientales",
+    "title": "Mission d'accueil et d'information des associations (Maia) - Pyrénées-Orientales",
+    "url": "https://lannuaire.service-public.fr/occitanie/pyrenees-orientales/maia-66136-01",
+    "metadata": {
+      "email": "jean-pierre.chaussier@pyrenees-orientales.gouv.fr",
+      "telephone": "0468355049",
+      "url": "http://www.associations.gouv.fr"
+    }
+  },
+  {
+    "id": "8af5f51f6b9bf081a9202f151bca368c1b455261",
+    "alternateName": "Maia",
+    "name": "mission_daccueil_et_dinformation_des_associations_maia_rhone",
+    "title": "Mission d'accueil et d'information des associations (Maia) - Rhône",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/rhone/maia-69383-01",
+    "metadata": {
+      "email": "ddcs69jsva@rhone.gouv.fr",
+      "telephone": "0481924400",
+      "url": "http://www.rhone.gouv.fr"
+    }
+  },
+  {
+    "id": "5c31693d3b77eecbedd196d6f2d309088ca8de9d",
+    "alternateName": "MAIA",
+    "name": "mission_daccueil_et_dinformation_des_associations_maia_saint_pierre_et_miquelon",
+    "title": "Mission d'accueil et d'information des associations (MAIA) - Saint-Pierre-et-Miquelon",
+    "url": "https://lannuaire.service-public.fr/collectivites-d-outre-mer/saint-pierre-et-miquelon/maia-97502-01",
+    "metadata": {
+      "email": "serge.mayerus@dcstep.gouv.fr",
+      "telephone": "+508 508 41 19 73",
+      "url": "http://www.associations.gouv.fr"
+    }
+  },
+  {
+    "id": "ad7479f20eb913450fab19b88c31d6a90c181b6f",
+    "alternateName": "MAIA",
+    "name": "mission_daccueil_et_dinformation_des_associations_maia_saone_et_loire",
+    "title": "Mission d'accueil et d'information des associations (MAIA) - Saône-et-Loire",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/saone-et-loire/maia-71270-01",
+    "metadata": {
+      "email": "ddcs@saone-et-loire.gouv.fr",
+      "telephone": "03 85 21 99 00",
+      "url": "http://www.associations.gouv.fr"
+    }
+  },
+  {
+    "id": "c816b8694a4c12450950e4018e0b8708a31f6673",
+    "alternateName": "Maia",
+    "name": "mission_daccueil_et_dinformation_des_associations_maia_sarthe",
+    "title": "Mission d'accueil et d'information des associations (Maia) -  Sarthe",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/sarthe/maia-72181-01",
+    "metadata": {
+      "email": "ddcs-associations@sarthe.gouv.fr",
+      "telephone": "0272164300",
+      "url": "http://www.associations.gouv.fr"
+    }
+  },
+  {
+    "id": "b16e08f611df6b6782425c0a5432828885deeaaf",
+    "alternateName": "Maia",
+    "name": "mission_daccueil_et_dinformation_des_associations_maia_savoie",
+    "title": "Mission d'accueil et d'information des associations (Maia) - Savoie",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/savoie/maia-73065-01",
+    "metadata": {
+      "email": "pierre.larre@savoie.gouv.fr",
+      "telephone": "0456110660",
+      "url": "http://www.associations.gouv.fr"
+    }
+  },
+  {
+    "id": "065c74c510563656a81f31d06a7c2953b9dded96",
+    "alternateName": "Maia",
+    "name": "mission_daccueil_et_dinformation_des_associations_maia_seine_et_marne",
+    "title": "Mission d'accueil et d'information des associations (Maia) - Seine-et-Marne",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/seine-et-marne/maia-77288-01",
+    "metadata": {
+      "email": "joseph.de-tarragon.@seine-et-marne.gouv.fr",
+      "telephone": "0164415800",
+      "url": "http://www.associations.gouv.fr"
+    }
+  },
+  {
+    "id": "707ef821a250f4bc8cf7912e796f4cb1bd3056ba",
+    "alternateName": "Maia",
+    "name": "mission_daccueil_et_dinformation_des_associations_maia_seine_maritime",
+    "title": "Mission d'accueil et d'information des associations (Maia) - Seine-Maritime",
+    "url": "https://lannuaire.service-public.fr/normandie/seine-maritime/maia-76540-01",
+    "metadata": {
+      "email": "denis.thomas@seine-maritime.gouv.fr",
+      "telephone": "0276277150",
+      "url": "http://www.associations.gouv.fr"
+    }
+  },
+  {
+    "id": "e0ebe20bf1e627af83000a340f97e354a3988f29",
+    "alternateName": "Maia",
+    "name": "mission_daccueil_et_dinformation_des_associations_maia_seine_saint_denis",
+    "title": "Mission d'accueil et d'information des associations (Maia) - Seine-Saint-Denis",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/seine-saint-denis/maia-93008-01",
+    "metadata": {
+      "email": "ddcs@seine-saint-denis.gouv.fr",
+      "telephone": "0174733600",
+      "url": "http://www.associations.gouv.fr"
+    }
+  },
+  {
+    "id": "89a8bdd6dfa14e093b434c01ff5fd69336aec6bd",
+    "alternateName": "Maia",
+    "name": "mission_daccueil_et_dinformation_des_associations_maia_somme",
+    "title": "Mission d'accueil et d'information des associations (Maia) -  Somme",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/somme/maia-80021-01",
+    "metadata": {
+      "email": "",
+      "telephone": "0322502317",
+      "url": "http://www.associations.gouv.fr"
+    }
+  },
+  {
+    "id": "4606be13194eacce09497249b37a24088f1ea473",
+    "alternateName": "Maia",
+    "name": "mission_daccueil_et_dinformation_des_associations_maia_tarn",
+    "title": "Mission d'accueil et d'information des associations (Maia) - Tarn",
+    "url": "https://lannuaire.service-public.fr/occitanie/tarn/maia-81004-01",
+    "metadata": {
+      "email": "philippe.bradfer@tarn.gouv.fr",
+      "telephone": "0581275373",
+      "url": "http://www.associations.gouv.fr"
+    }
+  },
+  {
+    "id": "60add1c0d1e17b37b5680c01747fdde64d3cb7d7",
+    "alternateName": "Maia",
+    "name": "mission_daccueil_et_dinformation_des_associations_maia_tarn_et_garonne",
+    "title": "Mission d'accueil et d'information des associations (Maia) - Tarn-et-Garonne",
+    "url": "https://lannuaire.service-public.fr/occitanie/tarn-et-garonne/maia-82121-01",
+    "metadata": {
+      "email": "pierre.fauveau@tarn-et-garonne.gouv.fr",
+      "telephone": "0563211800",
+      "url": "http://www.associations.gouv.fr"
+    }
+  },
+  {
+    "id": "4d4b4af3a6e68cb11947626209b3b805b348222f",
+    "alternateName": "Maia",
+    "name": "mission_daccueil_et_dinformation_des_associations_maia_territoire_de_belfort",
+    "title": "Mission d'accueil et d'information des associations (Maia) - Territoire de Belfort",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/territoire-de-belfort/maia-90010-01",
+    "metadata": {
+      "email": "benjamin.coubard-millot@territoire-de-belfort.gouv.fr",
+      "telephone": "0384219850",
+      "url": "http://www.associations.gouv.fr"
+    }
+  },
+  {
+    "id": "6cbe14dac87212569b52105baf9754c648cb39e5",
+    "alternateName": "Maia",
+    "name": "mission_daccueil_et_dinformation_des_associations_maia_val_d_oise",
+    "title": "Mission d'accueil et d'information des associations (Maia) - Val-d'Oise",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/val-d-oise/maia-95127-01",
+    "metadata": {
+      "email": "",
+      "telephone": "0177636115",
+      "url": "http://www.associations.gouv.fr"
+    }
+  },
+  {
+    "id": "7450329a799288f5b74b917ad740e29516aa34fa",
+    "alternateName": "Maia",
+    "name": "mission_daccueil_et_dinformation_des_associations_maia_val_de_marne",
+    "title": "Mission d'accueil et d'information des associations (Maia) - Val-de-Marne",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/val-de-marne/maia-94028-01",
+    "metadata": {
+      "email": "ddcs@val-de-marne.gouv.fr",
+      "telephone": "0145170925",
+      "url": "http://www.associations.gouv.fr"
+    }
+  },
+  {
+    "id": "32fd2238b170728c825888751c32071163323c7a",
+    "alternateName": "Maia",
+    "name": "mission_daccueil_et_dinformation_des_associations_maia_var",
+    "title": "Mission d'accueil et d'information des associations (Maia) - Var",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/var/maia-83137-01",
+    "metadata": {
+      "email": "jean-paul.griesmar@var.gouv.fr",
+      "telephone": "0494188383",
+      "url": "http://www.associations.gouv.fr"
+    }
+  },
+  {
+    "id": "fe7179cae55192eef5f8ad8f5f271efe5f83e56b",
+    "alternateName": "Maia",
+    "name": "mission_daccueil_et_dinformation_des_associations_maia_vaucluse",
+    "title": "Mission d'accueil et d'information des associations (Maia) - Vaucluse",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/vaucluse/maia-84007-01",
+    "metadata": {
+      "email": "alain.paillard@vaucluse.gouv.fr",
+      "telephone": "0488178614",
+      "url": "http://www.associations.gouv.fr"
+    }
+  },
+  {
+    "id": "6db988baddb8a25cbfc4805b2c2d685f31bb3f65",
+    "alternateName": "Maia",
+    "name": "mission_daccueil_et_dinformation_des_associations_maia_vendee",
+    "title": "Mission d'accueil et d'information des associations (Maia) - Vendée",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/vendee/maia-85191-01",
+    "metadata": {
+      "email": "",
+      "telephone": "0251367500",
+      "url": "http://www.associations.gouv.fr"
+    }
+  },
+  {
+    "id": "b1408c46837253fdc4e6e8526a51cf67f4cc55af",
+    "alternateName": "Maia",
+    "name": "mission_daccueil_et_dinformation_des_associations_maia_vienne",
+    "title": "Mission d'accueil et d'information des associations (Maia) - Vienne",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/vienne/maia-86194-01",
+    "metadata": {
+      "email": "fabien.martha@vienne.gouv.fr",
+      "telephone": "0549448350",
+      "url": "http://www.associations.gouv.fr"
+    }
+  },
+  {
+    "id": "a0549bcb72fa8bf4580057eb93442f9fabfc0d44",
+    "alternateName": "Maia",
+    "name": "mission_daccueil_et_dinformation_des_associations_maia_vosges",
+    "title": "Mission d'accueil et d'information des associations (Maia) - Vosges",
+    "url": "https://lannuaire.service-public.fr/grand-est/vosges/maia-88160-01",
+    "metadata": {
+      "email": "ddcspp@vosges.gouv.fr",
+      "telephone": "0329684892",
+      "url": "http://www.associations.gouv.fr"
+    }
+  },
+  {
+    "id": "e38bb4b22c589239426582721a1aef7d9dceba13",
+    "alternateName": "MAIA",
+    "name": "mission_daccueil_et_dinformation_des_associations_maia_wallis_et_futuna",
+    "title": "Mission d'accueil et d'information des associations (MAIA) - Wallis-et-Futuna",
+    "url": "https://lannuaire.service-public.fr/collectivites-d-outre-mer/wallis-et-futuna/maia-98613-01",
+    "metadata": {
+      "email": "jeusport@mail.wf",
+      "telephone": "+681 72 21 88",
+      "url": "http://www.associations.gouv.fr"
+    }
+  },
+  {
+    "id": "05eec3be3b132cd34b93ad601e524aaa5335a2f6",
+    "alternateName": "Maia",
+    "name": "mission_daccueil_et_dinformation_des_associations_maia_yonne",
+    "title": "Mission d'accueil et d'information des associations (Maia) - Yonne",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/yonne/maia-89024-01",
+    "metadata": {
+      "email": "ddcspp-associations@yonne.gouv.fr",
+      "telephone": "0386726904",
+      "url": "http://www.associations.gouv.fr"
+    }
+  },
+  {
+    "id": "ade42ac34d7297510473e787c5d340bbd22778b1",
+    "alternateName": "Maia",
+    "name": "mission_daccueil_et_dinformation_des_associations_maia_yvelines",
+    "title": "Mission d'accueil et d'information des associations (Maia) - Yvelines",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/yvelines/maia-78646-01",
+    "metadata": {
+      "email": "ddcs-sport-association@yvelines.gouv.fr",
+      "telephone": "0139242481",
+      "url": "http://www.associations.gouv.fr"
+    }
+  }
+]

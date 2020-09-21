@@ -1,0 +1,626 @@
+[
+  {
+    "id": "a0402bd19f9ed7f066ac7faae1805c5964e4c9a7",
+    "alternateName": "DDCSPP",
+    "name": "direction_departementale_de_la_cohesion_sociale_et_de_la_protection_des_populations_ddcspp_orne",
+    "title": "Direction Départementale de la Cohésion Sociale et de la Protection des Populations (DDCSPP) - Orne",
+    "url": "https://lannuaire.service-public.fr/normandie/orne/ddcspp-61001-01",
+    "metadata": {
+      "email": "ddcspp@orne.gouv.fr",
+      "telephone": "02 33 32 50 50",
+      "url": "http://www.orne.gouv.fr"
+    }
+  },
+  {
+    "id": "dd90dd8b954ee6f3125a38acea373615a97657c1",
+    "alternateName": "DDPP",
+    "name": "direction_departementale_de_la_protection_des_populations_ddpp_ain",
+    "title": "Direction départementale de la protection des populations (DDPP) - Ain",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/ain/ddpp-01053-01",
+    "metadata": {
+      "email": "ddpp@ain.gouv.fr",
+      "telephone": "04 74 42 09 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "e8562a25f99f40e05708eaa3eb4a4688ae633f2d",
+    "alternateName": "DDPP",
+    "name": "direction_departementale_de_la_protection_des_populations_ddpp_aisne",
+    "title": "Direction départementale de la protection des populations (DDPP) - Aisne",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/aisne/ddpp-02408-01",
+    "metadata": {
+      "email": "ddpp@aisne.gouv.fr",
+      "telephone": "03 64 54 61 00",
+      "url": "http://www.aisne.gouv.fr"
+    }
+  },
+  {
+    "id": "89ce84194f9d9cabf6cfd478ef90665a2ea87fc6",
+    "alternateName": "DDPP",
+    "name": "direction_departementale_de_la_protection_des_populations_ddpp_alpes_maritimes",
+    "title": "Direction départementale de la protection des populations (DDPP) - Alpes-Maritimes",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/alpes-maritimes/ddpp-06088-01",
+    "metadata": {
+      "email": "ddpp@alpes-maritimes.gouv.fr",
+      "telephone": "04 93 72 28 00",
+      "url": "http://www.alpes-maritimes.pref.gouv.fr"
+    }
+  },
+  {
+    "id": "5e701cac9cf6dc0e2f26f82925ebfed90244c83a",
+    "alternateName": "DDPP",
+    "name": "direction_departementale_de_la_protection_des_populations_ddpp_bas_rhin",
+    "title": "Direction départementale de la protection des populations (DDPP) - Bas-Rhin",
+    "url": "https://lannuaire.service-public.fr/grand-est/bas-rhin/ddpp-67482-01",
+    "metadata": {
+      "email": "ddpp@bas-rhin.gouv.fr",
+      "telephone": "03 88 88 86 00",
+      "url": "http://bas-rhin.gouv.fr/Services-de-l-Etat/Presentation-des-services/Directions-Departementales-Interministerielles-DDI/DDPP"
+    }
+  },
+  {
+    "id": "47e0ef50a8e04c348737189efe451016da782cfc",
+    "alternateName": "DDPP",
+    "name": "direction_departementale_de_la_protection_des_populations_ddpp_bouches_du_rhone",
+    "title": "Direction départementale de la protection des populations (DDPP) - Bouches-du-Rhône",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/ddpp-13055-01",
+    "metadata": {
+      "email": "ddpp@bouches-du-rhone.gouv.fr",
+      "telephone": "04 91 17 95 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "857d42208454a63a06fbcb823f89131694514004",
+    "alternateName": "DDPP",
+    "name": "direction_departementale_de_la_protection_des_populations_ddpp_calvados",
+    "title": "Direction départementale de la protection des populations (DDPP) - Calvados",
+    "url": "https://lannuaire.service-public.fr/normandie/calvados/ddpp-14118-01",
+    "metadata": {
+      "email": "ddpp@calvados.gouv.fr",
+      "telephone": "02 31 24 98 60",
+      "url": ""
+    }
+  },
+  {
+    "id": "0c0cf7015d0a65b11c1fc80bd68ec448250717d4",
+    "alternateName": "DDPP",
+    "name": "direction_departementale_de_la_protection_des_populations_ddpp_cote_d_or",
+    "title": "Direction départementale de la protection des populations (DDPP)- Côte-d'Or",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/cote-d-or/ddpp-21231-01",
+    "metadata": {
+      "email": "ddpp@cote-dor.gouv.fr",
+      "telephone": "03 80 29 44 44",
+      "url": ""
+    }
+  },
+  {
+    "id": "812010b86c2b81216cd4edc257dfa70de05169f5",
+    "alternateName": "DDPP",
+    "name": "direction_departementale_de_la_protection_des_populations_ddpp_cotes_d_armor",
+    "title": "Direction départementale de la protection des populations (DDPP) - Côtes-d'Armor",
+    "url": "https://lannuaire.service-public.fr/bretagne/cotes-d-armor/ddpp-22215-01",
+    "metadata": {
+      "email": "ddpp@cotes-darmor.gouv.fr",
+      "telephone": "02 96 01 37 10",
+      "url": ""
+    }
+  },
+  {
+    "id": "e90df154ac751ba6caf6d3e059707f43b47df8aa",
+    "alternateName": "DDPP",
+    "name": "direction_departementale_de_la_protection_des_populations_ddpp_drome",
+    "title": "Direction départementale de la protection des populations (DDPP) - Drôme",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/drome/ddpp-26362-01",
+    "metadata": {
+      "email": "ddpp@drome.gouv.fr",
+      "telephone": "04 26 52 21 61",
+      "url": ""
+    }
+  },
+  {
+    "id": "2a73f5589b20197fe15c76dc610fe828aa85f8e7",
+    "alternateName": "DDPP",
+    "name": "direction_departementale_de_la_protection_des_populations_ddpp_essonne",
+    "title": "Direction départementale de la protection des populations (DDPP) - Essonne",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/essonne/ddpp-91182-01",
+    "metadata": {
+      "email": "ddpp@essonne.gouv.fr",
+      "telephone": "01 69 87 31 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "742714022aa1a6cbe7e262d2746377e9bb71e67e",
+    "alternateName": "DDPP",
+    "name": "direction_departementale_de_la_protection_des_populations_ddpp_eure",
+    "title": "Direction départementale de la protection des populations (DDPP) - Eure",
+    "url": "https://lannuaire.service-public.fr/normandie/eure/ddpp-27229-01",
+    "metadata": {
+      "email": "ddpp@eure.gouv.fr",
+      "telephone": "02 32 39 83 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "159ffe5ad8e1373aa3436b9ae0709a4dd0e74de5",
+    "alternateName": "DDPP",
+    "name": "direction_departementale_de_la_protection_des_populations_ddpp_finistere",
+    "title": "Direction départementale de la protection des populations (DDPP) - Finistère",
+    "url": "https://lannuaire.service-public.fr/bretagne/finistere/ddpp-29232-01",
+    "metadata": {
+      "email": "ddpp@finistere.gouv.fr",
+      "telephone": "02 98 64 36 36",
+      "url": "http://www.finistere.gouv.fr"
+    }
+  },
+  {
+    "id": "89824a27edf51bd121dc22e869c7e436be5b6b8a",
+    "alternateName": "DDPP",
+    "name": "direction_departementale_de_la_protection_des_populations_ddpp_gard",
+    "title": "Direction départementale de la protection des populations (DDPP) - Gard",
+    "url": "https://lannuaire.service-public.fr/occitanie/gard/ddpp-30189-01",
+    "metadata": {
+      "email": "ddpp@gard.gouv.fr",
+      "telephone": "04 30 08 60 50",
+      "url": "http://www.gard.pref.gouv.fr"
+    }
+  },
+  {
+    "id": "2cdda94835739a701c64f9ce71e2bb883b310164",
+    "alternateName": "DDPP",
+    "name": "direction_departementale_de_la_protection_des_populations_ddpp_gironde",
+    "title": "Direction départementale de la protection des populations - (DDPP) Gironde",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/gironde/ddpp-33063-01",
+    "metadata": {
+      "email": "ddpp@gironde.gouv.fr",
+      "telephone": "05 24 73 38 00",
+      "url": "http://www.gironde.pref.gouv.fr"
+    }
+  },
+  {
+    "id": "c9812068e1da5cce55669291b256d578ca34fc82",
+    "alternateName": "DDPP",
+    "name": "direction_departementale_de_la_protection_des_populations_ddpp_haute_garonne",
+    "title": "Direction départementale de la protection des populations (DDPP) - Haute-Garonne",
+    "url": "https://lannuaire.service-public.fr/occitanie/haute-garonne/ddpp-31555-01",
+    "metadata": {
+      "email": "ddpp@haute-garonne.gouv.fr",
+      "telephone": "05 67 69 11 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "f56e69913ccab7f6b954f6ae06cc1d2c783d0229",
+    "alternateName": "DDPP",
+    "name": "direction_departementale_de_la_protection_des_populations_ddpp_haute_savoie",
+    "title": "Direction départementale de la protection des populations (DDPP) - Haute-Savoie",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/haute-savoie/ddpp-74010-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 50 33 55 55",
+      "url": "http://www.haute-savoie.gouv.fr"
+    }
+  },
+  {
+    "id": "f56e69913ccab7f6b954f6ae06cc1d2c783d0229",
+    "alternateName": "DDPP",
+    "name": "direction_departementale_de_la_protection_des_populations_ddpp_haute_savoie",
+    "title": "Direction départementale de la protection des populations (DDPP) - Haute-Savoie",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/haute-savoie/ddpp-74268-01",
+    "metadata": {
+      "email": "ddpp@haute-savoie.gouv.fr",
+      "telephone": "0450336000",
+      "url": "http://www.haute-savoie.gouv.fr"
+    }
+  },
+  {
+    "id": "e82728de223c7fcf249eaf0f2f6f3843b58f500b",
+    "alternateName": "DDPP",
+    "name": "direction_departementale_de_la_protection_des_populations_ddpp_hauts_de_seine",
+    "title": "Direction départementale de la protection des populations (DDPP) - Hauts-de-Seine",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/hauts-de-seine/ddpp-92050-01",
+    "metadata": {
+      "email": "ddpp@hauts-de-seine.gouv.fr",
+      "telephone": "01 40 97 46 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "e3fbee69cc8cc48ca84edac7722edf3eee28b4c6",
+    "alternateName": "DDPP",
+    "name": "direction_departementale_de_la_protection_des_populations_ddpp_herault",
+    "title": "Direction départementale de la protection des populations (DDPP) - Hérault",
+    "url": "https://lannuaire.service-public.fr/occitanie/herault/ddpp-34172-01",
+    "metadata": {
+      "email": "ddpp@herault.gouv.fr",
+      "telephone": "04 99 74 31 50",
+      "url": ""
+    }
+  },
+  {
+    "id": "a5978af6f9a4a789723a9e48ed893927afae6ae9",
+    "alternateName": "DDPP",
+    "name": "direction_departementale_de_la_protection_des_populations_ddpp_indre_et_loire",
+    "title": "Direction départementale de la protection des populations (DDPP) - Indre-et-Loire",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/indre-et-loire/ddpp-37261-01",
+    "metadata": {
+      "email": "ddpp@indre-et-loire.gouv.fr",
+      "telephone": "02 47 31 11 11",
+      "url": ""
+    }
+  },
+  {
+    "id": "aad75effd2b76f2cd48c54e58b2a4eebaa2e8cd1",
+    "alternateName": "DDPP",
+    "name": "direction_departementale_de_la_protection_des_populations_ddpp_isere",
+    "title": "Direction Départementale de la Protection des Populations (DDPP) - Isère",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/isere/ddpp-38185-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 56 59 49 99",
+      "url": "http://www.isere.gouv.fr"
+    }
+  },
+  {
+    "id": "b9cd394867410b5386987569fa0c721f26e67a62",
+    "alternateName": "DDPP",
+    "name": "direction_departementale_de_la_protection_des_populations_ddpp_loire",
+    "title": "Direction départementale de la protection des populations (DDPP) - Loire",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/loire/ddpp-42218-01",
+    "metadata": {
+      "email": "ddpp@loire.gouv.fr",
+      "telephone": "04 77 43 44 44",
+      "url": ""
+    }
+  },
+  {
+    "id": "5d9ab400e217e600092a434571e2220673af542c",
+    "alternateName": "DDPP",
+    "name": "direction_departementale_de_la_protection_des_populations_ddpp_loire_atlantique",
+    "title": "Direction départementale de la protection des populations (DDPP) - Loire-Atlantique",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/loire-atlantique/ddpp-44109-01",
+    "metadata": {
+      "email": "ddpp@loire-atlantique.gouv.fr",
+      "telephone": "02 40 08 86 55",
+      "url": ""
+    }
+  },
+  {
+    "id": "0b600873428faabcd759bebe72ecc1b1df9cda38",
+    "alternateName": "DDPP",
+    "name": "direction_departementale_de_la_protection_des_populations_ddpp_loiret",
+    "title": "Direction Départementale de la Protection des Populations (DDPP) - Loiret",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/loiret/ddpp-45234-01",
+    "metadata": {
+      "email": "ddpp@loiret.gouv.fr",
+      "telephone": "0238914545",
+      "url": ""
+    }
+  },
+  {
+    "id": "52fc832865423dbe2ddf5ce583f677566e4c99da",
+    "alternateName": "DDPP",
+    "name": "direction_departementale_de_la_protection_des_populations_ddpp_maine_et_loire",
+    "title": "Direction départementale de la protection des populations (DDPP) - Maine-et-Loire",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/maine-et-loire/ddpp-49007-01",
+    "metadata": {
+      "email": "ddpp@maine-et-loire.gouv.fr",
+      "telephone": "02 41 79 68 30",
+      "url": ""
+    }
+  },
+  {
+    "id": "21b77d3b9bf16805149d8511902d8822ab7b2f8d",
+    "alternateName": "DDPP",
+    "name": "direction_departementale_de_la_protection_des_populations_ddpp_manche",
+    "title": "Direction départementale de la protection des populations (DDPP) - Manche",
+    "url": "https://lannuaire.service-public.fr/normandie/manche/ddpp-50502-01",
+    "metadata": {
+      "email": "ddpp@manche.gouv.fr",
+      "telephone": "02 33 72 60 70",
+      "url": ""
+    }
+  },
+  {
+    "id": "9fb4837ba88c23a08754fab1761e1a360f7b08ab",
+    "alternateName": "DDPP",
+    "name": "direction_departementale_de_la_protection_des_populations_ddpp_meurthe_et_moselle",
+    "title": "Direction départementale de la protection des populations (DDPP) - Meurthe-et-Moselle",
+    "url": "https://lannuaire.service-public.fr/grand-est/meurthe-et-moselle/ddpp-54395-01",
+    "metadata": {
+      "email": "ddpp@meurthe-et-moselle.gouv.fr",
+      "telephone": "03 57 29 16 20",
+      "url": ""
+    }
+  },
+  {
+    "id": "8af2192963ec9af5495db984991b4dc91ac0bbe0",
+    "alternateName": "DDPP",
+    "name": "direction_departementale_de_la_protection_des_populations_ddpp_morbihan",
+    "title": "Direction départementale de la protection des populations (DDPP) - Morbihan",
+    "url": "https://lannuaire.service-public.fr/bretagne/morbihan/ddpp-56260-01",
+    "metadata": {
+      "email": "ddpp@morbihan.gouv.fr",
+      "telephone": "02 97 63 29 45",
+      "url": ""
+    }
+  },
+  {
+    "id": "2a0999009365409edd6faa70bd51fa43b15751a9",
+    "alternateName": "DDPP",
+    "name": "direction_departementale_de_la_protection_des_populations_ddpp_moselle",
+    "title": "Direction départementale de la protection des populations (DDPP) - Moselle",
+    "url": "https://lannuaire.service-public.fr/grand-est/moselle/ddpp-57463-01",
+    "metadata": {
+      "email": "ddpp@moselle.gouv.fr",
+      "telephone": "03 87 39 75 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "81df28d1f9cbde872cc8550f6517017532ddbc60",
+    "alternateName": "DDPP",
+    "name": "direction_departementale_de_la_protection_des_populations_ddpp_nord",
+    "title": "Direction départementale de la protection des populations (DDPP) - Nord",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/nord/ddpp-59350-01",
+    "metadata": {
+      "email": "ddpp@nord.gouv.fr",
+      "telephone": "03 28 07 22 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "9295714ddf62bc9d07a6411ff80311ceaddfe1ab",
+    "alternateName": "DDPP",
+    "name": "direction_departementale_de_la_protection_des_populations_ddpp_oise",
+    "title": "Direction départementale de la protection des populations (DDPP) - Oise",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/oise/ddpp-60057-01",
+    "metadata": {
+      "email": "ddpp@oise.gouv.fr",
+      "telephone": "03 44 06 21 60",
+      "url": "http://www.oise.pref.gouv.fr"
+    }
+  },
+  {
+    "id": "7bdd04ae6a8381501cac845388665a291e7406a9",
+    "alternateName": "DDPP",
+    "name": "direction_departementale_de_la_protection_des_populations_ddpp_paris",
+    "title": "Direction départementale de la protection des populations (DDPP) - Paris",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/paris/ddpp-75056-01",
+    "metadata": {
+      "email": "ddpp@paris.gouv.fr",
+      "telephone": "01 40 27 16 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "53a3c14df74c4ac65dac90d7afeed3dc7ab239f5",
+    "alternateName": "DDPP",
+    "name": "direction_departementale_de_la_protection_des_populations_ddpp_pas_de_calais",
+    "title": "Direction départementale de la protection des populations (DDPP) - Pas-de-Calais",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/pas-de-calais/ddpp-62041-01",
+    "metadata": {
+      "email": "ddpp@pas-de-calais.gouv.fr",
+      "telephone": "03 21 21 26 26",
+      "url": ""
+    }
+  },
+  {
+    "id": "5cd9d4ff9623b3ddcec52836afacdb40e5d51fa7",
+    "alternateName": "DDPP",
+    "name": "direction_departementale_de_la_protection_des_populations_ddpp_puy_de_dome",
+    "title": "Direction départementale de la protection des populations (DDPP) - Puy-de-Dôme",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/puy-de-dome/ddpp-63113-01",
+    "metadata": {
+      "email": "ddpp@puy-de-dome.gouv.fr",
+      "telephone": "04 73 42 14 96",
+      "url": "http://www.puy-de-dome.gouv.fr/ddpp-direction-departementale-de-la-protection-des-r1050.html"
+    }
+  },
+  {
+    "id": "91329c05c79a04106a6e1ed6accc3f6413d659f9",
+    "alternateName": "DDPP",
+    "name": "direction_departementale_de_la_protection_des_populations_ddpp_pyrenees_atlantiques",
+    "title": "Direction Départementale de la Protection des Populations (DDPP) - Pyrénées-Atlantiques",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/pyrenees-atlantiques/ddpp-64445-01",
+    "metadata": {
+      "email": "ddpp@pyrenees-atlantiques.gouv.fr",
+      "telephone": "05 47 41 33 80",
+      "url": ""
+    }
+  },
+  {
+    "id": "392a46fb6a521cdec90631aff7de0bbeef17cbcc",
+    "alternateName": "DDPP",
+    "name": "direction_departementale_de_la_protection_des_populations_ddpp_pyrenees_orientales",
+    "title": "Direction départementale de la protection des populations (DDPP) - Pyrénées-Orientales",
+    "url": "https://lannuaire.service-public.fr/occitanie/pyrenees-orientales/ddpp-66136-01",
+    "metadata": {
+      "email": "ddpp@pyrenees-orientales.gouv.fr",
+      "telephone": "04 68 66 27 00",
+      "url": "http://www.pyrenees-orientales.gouv.fr/Services-de-l-Etat/Consommation-alimentation-animaux/Direction-departementale-de-la-protection-des-populations-DDPP"
+    }
+  },
+  {
+    "id": "d98bb88fc3c85de5c35854e526e2ac5cb0849292",
+    "alternateName": "DDPP",
+    "name": "direction_departementale_de_la_protection_des_populations_ddpp_rhone",
+    "title": "Direction départementale de la protection des populations (DDPP) - Rhône",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/rhone/ddpp-69123-01",
+    "metadata": {
+      "email": "ddpp@rhone.gouv.fr",
+      "telephone": "04 72 61 37 00",
+      "url": "http://www.rhone.gouv.fr/Services-de-l-Etat/Presentation-des-services/Les-directions-departementales-interministerielles/La-direction-departementale-de-la-protection-des-populations-du-Rhone-DDPP"
+    }
+  },
+  {
+    "id": "d4e88b45efc32d81030ffcc720bcd5f54809245a",
+    "alternateName": "DDPP",
+    "name": "direction_departementale_de_la_protection_des_populations_ddpp_saone_et_loire",
+    "title": "Direction départementale de la protection des populations (DDPP) - Saône-et-Loire",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/saone-et-loire/ddpp-71270-01",
+    "metadata": {
+      "email": "ddpp@saone-et-loire.gouv.fr",
+      "telephone": "03 85 22 57 00",
+      "url": "http://www.saone-et-loire.gouv.fr/consommation-alimentation-sante-et-r1313.html"
+    }
+  },
+  {
+    "id": "76c6081b00631c8a78932abef507819d10642507",
+    "alternateName": "DDPP",
+    "name": "direction_departementale_de_la_protection_des_populations_ddpp_sarthe",
+    "title": "Direction Départementale de la Protection des Populations (DDPP) - Sarthe",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/sarthe/ddpp-72181-01",
+    "metadata": {
+      "email": "ddpp@sarthe.gouv.fr",
+      "telephone": "02 72 16 43 43",
+      "url": ""
+    }
+  },
+  {
+    "id": "e5e1abc9a6fd7baf1fbf34a13e92a81ba72be914",
+    "alternateName": "DDPP",
+    "name": "direction_departementale_de_la_protection_des_populations_ddpp_de_seine_et_marne",
+    "title": "Direction départementale de la protection des populations (DDPP) de Seine-et-Marne",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/seine-et-marne/ddpp-77288-01",
+    "metadata": {
+      "email": "ddpp@seine-et-marne.gouv.fr",
+      "telephone": "01 64 41 37 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "ed94f8f906e0cd710bca144d8827a9132b924074",
+    "alternateName": "DDPP",
+    "name": "direction_departementale_de_la_protection_des_populations_ddpp_seine_maritime",
+    "title": "Direction départementale de la protection des populations (DDPP) - Seine-Maritime",
+    "url": "https://lannuaire.service-public.fr/normandie/seine-maritime/ddpp-76540-01",
+    "metadata": {
+      "email": "ddpp@seine-maritime.gouv.fr",
+      "telephone": "02 32 81 82 3202 32 81 82 48",
+      "url": ""
+    }
+  },
+  {
+    "id": "6793afbe783aa6b74b61dbcafadffdcbbd536ea5",
+    "alternateName": "DDPP",
+    "name": "direction_departementale_de_la_protection_des_populations_ddpp_seine_saint_denis",
+    "title": "Direction départementale de la protection des populations (DDPP) - Seine-Saint-Denis",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/seine-saint-denis/ddpp-93008-01",
+    "metadata": {
+      "email": "ddpp@seine-saint-denis.gouv.fr",
+      "telephone": "01 75 34 34 34",
+      "url": ""
+    }
+  },
+  {
+    "id": "8ce946de7ec67f9c29a8e82650978afc4a4d274e",
+    "alternateName": "DDPP",
+    "name": "direction_departementale_de_la_protection_des_populations_ddpp_somme",
+    "title": "Direction départementale de la protection des populations (DDPP) - Somme",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/somme/ddpp-80021-01",
+    "metadata": {
+      "email": "ddpp@somme.gouv.fr",
+      "telephone": "03 22 70 15 80",
+      "url": "http://www.somme.gouv.fr/Services-de-l-Etat/Consommation-alimentation-animaux/Direction-departementale-de-la-protection-des-populations-DDPP"
+    }
+  },
+  {
+    "id": "0fe6c2112fcda698c3d7e936fb3dacf458aa0436",
+    "alternateName": "DDPP",
+    "name": "direction_departementale_de_la_protection_des_populations_ddpp_val_d_oise",
+    "title": "Direction départementale de la protection des populations (DDPP) - Val-d'Oise",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/val-d-oise/ddpp-95127-01",
+    "metadata": {
+      "email": "ddpp@val-doise.gouv.fr",
+      "telephone": "01 34 25 45 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "20865df23f8eea01e5edf2971556e25e7dfe32d0",
+    "alternateName": "DDPP",
+    "name": "direction_departementale_de_la_protection_des_populations_ddpp_val_de_marne",
+    "title": "Direction départementale de la protection des populations (DDPP) - Val de Marne",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/val-de-marne/ddpp-94028-01",
+    "metadata": {
+      "email": "ddpp@val-de-marne.gouv.fr",
+      "telephone": "01 45 13 92 30",
+      "url": "http://www.val-de-marne.gouv.fr"
+    }
+  },
+  {
+    "id": "9cdb6b4de112d6e268c814357ef1a235e1c64d5f",
+    "alternateName": "DDPP",
+    "name": "direction_departementale_de_la_protection_des_populations_ddpp_var",
+    "title": "Direction départementale de la protection des populations (DDPP) - Var",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/var/ddpp-83137-01",
+    "metadata": {
+      "email": "ddpp@var.gouv.fr",
+      "telephone": "04 94 18 83 83",
+      "url": "http://www.var.gouv.fr"
+    }
+  },
+  {
+    "id": "1ba0e72ba212ae42330dbfc3b1844548da837b28",
+    "alternateName": "DDPP",
+    "name": "direction_departementale_de_la_protection_des_populations_ddpp_vaucluse",
+    "title": "Direction départementale de la protection des populations (DDPP) - Vaucluse",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/vaucluse/ddpp-84007-01",
+    "metadata": {
+      "email": "ddpp@vaucluse.gouv.fr",
+      "telephone": "04 88 17 88 00",
+      "url": "http://www.vaucluse.gouv.fr"
+    }
+  },
+  {
+    "id": "2b3f7336968b94f10727b1bd7096a8bf9cc2cb78",
+    "alternateName": "DDPP",
+    "name": "direction_departementale_de_la_protection_des_populations_ddpp_vendee",
+    "title": "Direction départementale de la protection des populations (DDPP) - Vendée",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/vendee/ddpp-85191-01",
+    "metadata": {
+      "email": "ddpp@vendee.gouv.fr",
+      "telephone": "02 51 47 10 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "ca71b4d32a4400372bc9a089cee928d88adf6385",
+    "alternateName": "DDPP",
+    "name": "direction_departementale_de_la_protection_des_populations_ddpp_vienne",
+    "title": "Direction départementale de la protection des populations (DDPP) - Vienne",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/vienne/ddpp-86194-01",
+    "metadata": {
+      "email": "ddpp@vienne.gouv.fr",
+      "telephone": "05 17 84 00 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "f64a64cdc67d5e0e5075f4e32bfb5714c0542d5a",
+    "alternateName": "DDPP",
+    "name": "direction_departementale_de_la_protection_des_populations_ddpp_yvelines",
+    "title": "Direction départementale de la protection des populations (DDPP) - Yvelines",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/yvelines/ddpp-78646-01",
+    "metadata": {
+      "email": "ddpp@yvelines.gouv.fr",
+      "telephone": "01 30 84 10 00",
+      "url": "http://www.yvelines.pref.gouv.fr"
+    }
+  },
+  {
+    "id": "3838bae785546d926f5d6bb1d2074027ac7f3e40",
+    "alternateName": "DDPP",
+    "name": "direction_departementales_de_la_protection_des_populations_ddpp_charente_maritime",
+    "title": "Direction Départementales de la Protection des Populations (DDPP)- Charente-Maritime",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/charente-maritime/ddpp-17300-01",
+    "metadata": {
+      "email": "ddpp@charente-maritime.gouv.fr",
+      "telephone": "05 46 68 60 00",
+      "url": ""
+    }
+  }
+]

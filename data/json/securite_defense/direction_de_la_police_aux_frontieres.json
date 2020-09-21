@@ -1,0 +1,101 @@
+[
+  {
+    "id": "3fc7ce44dc9b53295def43ecab6294ad7daf5a15",
+    "name": "direction_de_la_police_aux_frontieres_orly",
+    "title": "Direction de la police aux frontières - Orly",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/val-de-marne/dz_paf-94054-01",
+    "metadata": {
+      "email": "",
+      "telephone": "01 49 75 43 04",
+      "url": "https://www.interieur.gouv.fr/Accueil"
+    }
+  },
+  {
+    "id": "9322492d08a36d4aeeb5ef1f470c1fda2497cfb0",
+    "name": "direction_de_la_police_aux_frontieres_roissy_et_le_bourget",
+    "title": "Direction de la police aux frontières - Roissy et Le Bourget",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/val-d-oise/dz_paf-95527-01",
+    "metadata": {
+      "email": "",
+      "telephone": "01 48 62 31 22",
+      "url": ""
+    }
+  },
+  {
+    "id": "d9a6490a3cc2a30efb015289deddd91f8402531f",
+    "name": "direction_zonale_de_la_police_aux_frontieres_antilles",
+    "title": "Direction zonale de la police aux frontières - Antilles",
+    "url": "https://lannuaire.service-public.fr/martinique/martinique/dz_paf-97209-01",
+    "metadata": {
+      "email": "",
+      "telephone": "+596 5 96 59 40 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "52bfa02c78dd535d619006a1541fbaaa8b7ad366",
+    "name": "direction_zonale_de_la_police_aux_frontieres_est",
+    "title": "Direction zonale de la police aux frontières - Est",
+    "url": "https://lannuaire.service-public.fr/grand-est/moselle/dz_paf-57463-01",
+    "metadata": {
+      "email": "dirpaf-57@interieur.gouv.fr",
+      "telephone": "03 87 62 03 06",
+      "url": ""
+    }
+  },
+  {
+    "id": "a2f5a1acbac18f6bbc17bbb28c97111ccd999f3f",
+    "name": "direction_zonale_de_la_police_aux_frontieres_nord",
+    "title": "Direction zonale de la police aux frontières - Nord",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/nord/dz_paf-59350-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 20 10 74 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "e1ecbf2a7445417604f264da2d45096c362dd142",
+    "name": "direction_zonale_de_la_police_aux_frontieres_ouest",
+    "title": "Direction zonale de la police aux frontières - Ouest",
+    "url": "https://lannuaire.service-public.fr/bretagne/ille-et-vilaine/dz_paf-35238-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 99 35 30 10",
+      "url": ""
+    }
+  },
+  {
+    "id": "5eb86daeefe2359f9fe553a721e9c5245331d1b9",
+    "name": "direction_zonale_de_la_police_aux_frontieres_sud",
+    "title": "Direction zonale de la police aux frontières - Sud",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/dz_paf-13214-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 91 53 60 90",
+      "url": ""
+    }
+  },
+  {
+    "id": "e0f632d6e2280fbf684100f6e8f3faaa9108a75c",
+    "name": "direction_zonale_de_la_police_aux_frontieres_sud_est",
+    "title": "Direction zonale de la police aux frontières - Sud-Est",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/rhone/dz_paf-69383-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 72 84 44 80",
+      "url": ""
+    }
+  },
+  {
+    "id": "738026038ec2b35e9f2a1073ee6b84c5ede2ead5",
+    "name": "direction_zonale_de_la_police_aux_frontieres_sud_ouest",
+    "title": "Direction zonale de la police aux frontières - Sud-Ouest",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/gironde/dz_paf-33063-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 57 85 74 20",
+      "url": ""
+    }
+  }
+]

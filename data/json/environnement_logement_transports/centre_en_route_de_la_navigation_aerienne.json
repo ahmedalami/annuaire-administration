@@ -1,0 +1,62 @@
+[
+  {
+    "id": "46fbf6058fa5c64befb4b44a3eebe0f60c6adb84",
+    "alternateName": "CRNA",
+    "name": "centre_en_route_de_la_navigation_aerienne_crna_est",
+    "title": "Centre en route de la navigation aérienne (CRNA) - Est",
+    "url": "https://lannuaire.service-public.fr/grand-est/marne/cnra-51454-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 26 84 61 01",
+      "url": ""
+    }
+  },
+  {
+    "id": "5b9614d5305c1a79b2556284d2dd4958e93e8865",
+    "alternateName": "CRNA",
+    "name": "centre_en_route_de_la_navigation_aerienne_crna_nord",
+    "title": "Centre en route de la navigation aérienne (CRNA) - Nord",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/essonne/cnra-91027-01",
+    "metadata": {
+      "email": "",
+      "telephone": "01 69 57 60 16",
+      "url": ""
+    }
+  },
+  {
+    "id": "b42c36ba3519561580693066bc94b75e5cd1940d",
+    "alternateName": "CRNA",
+    "name": "centre_en_route_de_la_navigation_aerienne_crna_ouest",
+    "title": "Centre en route de la navigation aérienne (CRNA) - Ouest",
+    "url": "https://lannuaire.service-public.fr/bretagne/finistere/cnra-29189-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 98 37 31 01",
+      "url": ""
+    }
+  },
+  {
+    "id": "f18bd78504ed7461d845394f28a09bc2a2384606",
+    "alternateName": "CRNA",
+    "name": "centre_en_route_de_la_navigation_aerienne_crna_sud_est",
+    "title": "Centre en route de la navigation aérienne (CRNA) - Sud-Est",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/cnra-13001-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 42 33 78 78",
+      "url": ""
+    }
+  },
+  {
+    "id": "730c56358e0d7be91dadd2fbb7cee392003271c9",
+    "alternateName": "CRNA",
+    "name": "centre_en_route_de_la_navigation_aerienne_crna_sud_ouest",
+    "title": "Centre en route de la navigation aérienne (CRNA) - Sud-Ouest",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/gironde/cnra-33281-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 56 55 62 00",
+      "url": ""
+    }
+  }
+]

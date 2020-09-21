@@ -1,0 +1,1250 @@
+[
+  {
+    "id": "7b2129d8457a8eeb020d52e054d64fa120c03f65",
+    "alternateName": "DDVA",
+    "name": "delegue_departemental_a_la_vie_associative_ddva_ain",
+    "title": "Délégué départemental à la vie associative (DDVA) - Ain",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/ain/ddva-01053-01",
+    "metadata": {
+      "email": "patrick.charnaux@ain.gouv.fr",
+      "telephone": "04 74 32 55 0004 79 81 01 09",
+      "url": "http://www.ain.gouv.fr/vie-associative-r330.html"
+    }
+  },
+  {
+    "id": "3dc2ada29fcbfd8a5c50fded15a5b5879b0c1ce9",
+    "alternateName": "DDVA",
+    "name": "delegue_departemental_a_la_vie_associative_ddva_aisne",
+    "title": "Délégué départemental à la vie associative (DDVA) - Aisne",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/aisne/ddva-02408-01",
+    "metadata": {
+      "email": "bertrand.jublot@aisne.gouv.fr",
+      "telephone": "03 60 81 50 20",
+      "url": "http://www.aisne.gouv.fr/Politiques-publiques/Jeunesse-sport-et-vie-associative/Vie-associative"
+    }
+  },
+  {
+    "id": "a0829abbd9c59c3e2a2f7271289957e8ad554dd5",
+    "alternateName": "DDVA",
+    "name": "delegue_departemental_a_la_vie_associative_ddva_allier",
+    "title": "Délégué départemental à la vie associative (DDVA) - Allier",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/allier/ddva-03321-01",
+    "metadata": {
+      "email": "laurent.renou@allier.gouv.fr",
+      "telephone": "04 70 48 35 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "7714ddb4b3f4882a29ff8c91d907452304ff5f8f",
+    "alternateName": "DDVA",
+    "name": "delegue_departemental_a_la_vie_associative_ddva_alpes_de_haute_provence",
+    "title": "Délégué départemental à la vie associative (DDVA) - Alpes-de-Haute-Provence",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/alpes-de-haute-provence/ddva-04070-01",
+    "metadata": {
+      "email": "sandrine.corriol@alpes-de-haute-provence.gouv.fr",
+      "telephone": "",
+      "url": ""
+    }
+  },
+  {
+    "id": "729511aa71966fad2ada0a0a4a339ab7880774a4",
+    "alternateName": "DDVA",
+    "name": "delegue_departemental_a_la_vie_associative_ddva_alpes_maritimes",
+    "title": "Délégué départemental à la vie associative (DDVA) - Alpes-Maritimes",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/alpes-maritimes/ddva-06088-01",
+    "metadata": {
+      "email": "damien.carbonnel@alpes-maritimes.gouv.fr",
+      "telephone": "04 93 72 27 65",
+      "url": ""
+    }
+  },
+  {
+    "id": "d530bbe4e5547ba8d04b1009fd2f20a6f4a7caa6",
+    "alternateName": "DDVA",
+    "name": "delegue_departemental_a_la_vie_associative_ddva_ardeche",
+    "title": "Délégué départemental à la vie associative (DDVA) - Ardèche",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/ardeche/ddva-07186-01",
+    "metadata": {
+      "email": "albane.jean-peytavin@ardeche.gouv.fr",
+      "telephone": "04 75 66 53 81",
+      "url": ""
+    }
+  },
+  {
+    "id": "b6dd0199e4832d1bcb030d7ff3ee7433c7fcf4a1",
+    "alternateName": "DDVA",
+    "name": "delegue_departemental_a_la_vie_associative_ddva_ardennes",
+    "title": "Délégué départemental à la vie associative (DDVA) - Ardennes",
+    "url": "https://lannuaire.service-public.fr/grand-est/ardennes/ddva-08105-01",
+    "metadata": {
+      "email": "barthelemy.roy@ardennes.gouv.frddcspp-js@ardennes.gouv.fr",
+      "telephone": "03 10 07 33 85",
+      "url": ""
+    }
+  },
+  {
+    "id": "8c14bb75087aeffef56bfe8fb70086dea888054c",
+    "alternateName": "DDVA",
+    "name": "delegue_departemental_a_la_vie_associative_ddva_ariege",
+    "title": "Délégué départemental à la vie associative (DDVA) - Ariège",
+    "url": "https://lannuaire.service-public.fr/occitanie/ariege/ddva-09122-01",
+    "metadata": {
+      "email": "alexandra.merigot@ariege.gouv.fr",
+      "telephone": "05 61 02 43 7907 86 63 86 49",
+      "url": ""
+    }
+  },
+  {
+    "id": "f3b5f125d5110da355be1436ea3f5b81659c916b",
+    "alternateName": "DDVA",
+    "name": "delegue_departemental_a_la_vie_associative_ddva_aube",
+    "title": "Délégué départemental à la vie associative (DDVA) - Aube",
+    "url": "https://lannuaire.service-public.fr/grand-est/aube/ddva-10387-01",
+    "metadata": {
+      "email": "pascal.mounier@aube.gouv.frddcspp-jeunesseetsports@aube.gouv.fr",
+      "telephone": "03 25 70 46 5403 25 80 33 34",
+      "url": ""
+    }
+  },
+  {
+    "id": "0dad8b3b4146b9e9f829ac2289becb8f1b8c92b5",
+    "alternateName": "DDVA",
+    "name": "delegue_departemental_a_la_vie_associative_ddva_aude",
+    "title": "Délégué départemental à la vie associative (DDVA) - Aude",
+    "url": "https://lannuaire.service-public.fr/occitanie/aude/ddva-11069-01",
+    "metadata": {
+      "email": "benedicte.sudrie@aude.gouv.fr",
+      "telephone": "04 34 42 90 52",
+      "url": ""
+    }
+  },
+  {
+    "id": "5aef3200b2fb9d3dcf3727ce934c56ef464ee469",
+    "alternateName": "DDVA",
+    "name": "delegue_departemental_a_la_vie_associative_ddva_aveyron",
+    "title": "Délégué départemental à la vie associative (DDVA) - Aveyron",
+    "url": "https://lannuaire.service-public.fr/occitanie/aveyron/ddva-12202-01",
+    "metadata": {
+      "email": "laurence.collas@aveyron.gouv.fr",
+      "telephone": "05 65 73 52 34",
+      "url": ""
+    }
+  },
+  {
+    "id": "bc8c05fc5d24b8c1f397f51beb0817288c5806c8",
+    "alternateName": "DDVA",
+    "name": "delegue_departemental_a_la_vie_associative_ddva_bas_rhin",
+    "title": "Délégué départemental à la vie associative (DDVA) - Bas-Rhin",
+    "url": "https://lannuaire.service-public.fr/grand-est/bas-rhin/ddva-67482-01",
+    "metadata": {
+      "email": "nadine.maurel@bas-rhin.gouv.fr",
+      "telephone": "03 88 76 76 16",
+      "url": ""
+    }
+  },
+  {
+    "id": "ae00d1b23fe78f7357f7416aff0443a26df8d1a5",
+    "alternateName": "DDVA",
+    "name": "delegue_departemental_a_la_vie_associative_ddva_bouches_du_rhone",
+    "title": "Délégué départemental à la vie associative (DDVA) - Bouches-du-Rhône",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/ddva-13055-01",
+    "metadata": {
+      "email": "benjamin.roques@bouches-du-rhone.gouv.fr",
+      "telephone": "04 91 00 57 60",
+      "url": ""
+    }
+  },
+  {
+    "id": "84e08b3419766182aeb818da443c2c5143469304",
+    "alternateName": "DDVA",
+    "name": "delegue_departemental_a_la_vie_associative_ddva_calvados",
+    "title": "Délégué départemental à la vie associative (DDVA) - Calvados",
+    "url": "https://lannuaire.service-public.fr/normandie/calvados/ddva-14118-01",
+    "metadata": {
+      "email": "guillaume.bonnet@calvados.gouv.fr",
+      "telephone": "02 31 52 74 26",
+      "url": ""
+    }
+  },
+  {
+    "id": "88b11b568bd89e862a0f13cd2d01e137cd5b84dd",
+    "alternateName": "DDVA",
+    "name": "delegue_departemental_a_la_vie_associative_ddva_cantal",
+    "title": "Délégué départemental à la vie associative (DDVA) - Cantal",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/cantal/ddva-15014-01",
+    "metadata": {
+      "email": "julien.valy@cantal.gouv.fr",
+      "telephone": "04 63 27 32 43",
+      "url": ""
+    }
+  },
+  {
+    "id": "b010bdc54b723835f78f68762415ef114a854e37",
+    "alternateName": "DDVA",
+    "name": "delegue_departemental_a_la_vie_associative_ddva_charente",
+    "title": "Délégué départemental à la vie associative (DDVA) - Charente",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/charente/ddva-16015-01",
+    "metadata": {
+      "email": "stephanie.benamozig@charente.gouv.fr",
+      "telephone": "05 16 16 62 69",
+      "url": ""
+    }
+  },
+  {
+    "id": "7d3eab44240a3561afac28e438475268b8a92413",
+    "alternateName": "DDVA",
+    "name": "delegue_departemental_a_la_vie_associative_ddva_charente_maritime",
+    "title": "Délégué départemental à la vie associative (DDVA) - Charente-Maritime",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/charente-maritime/ddva-17300-01",
+    "metadata": {
+      "email": "francois.pousset@charente-maritime.gouv.fr",
+      "telephone": "05 46 35 25 30",
+      "url": ""
+    }
+  },
+  {
+    "id": "5b071e1cb67535ca77d38263b4adfd459a6f68ad",
+    "alternateName": "DDVA",
+    "name": "delegue_departemental_a_la_vie_associative_ddva_cher",
+    "title": "Délégué départemental à la vie associative (DDVA) - Cher",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/cher/ddva-18033-01",
+    "metadata": {
+      "email": "philippe.fredy@cher.gouv.fr",
+      "telephone": "02 36 78 37 46",
+      "url": ""
+    }
+  },
+  {
+    "id": "4f972b271828e1a0666e29308b81fdde0a8b04a1",
+    "alternateName": "DDVA",
+    "name": "delegue_departemental_a_la_vie_associative_ddva_correze",
+    "title": "Délégué départemental à la vie associative (DDVA) - Corrèze",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/correze/ddva-19272-01",
+    "metadata": {
+      "email": "pierre.delmas@correze.gouv.fr",
+      "telephone": "05 87 01 90 30",
+      "url": ""
+    }
+  },
+  {
+    "id": "8f8d4925ed0a8209216955403ce2f2358050caf3",
+    "alternateName": "DDVA",
+    "name": "delegue_departemental_a_la_vie_associative_ddva_corse_du_sud",
+    "title": "Délégué départemental à la vie associative (DDVA) - Corse-du-Sud",
+    "url": "https://lannuaire.service-public.fr/corse/corse-du-sud/ddva-2A004-01",
+    "metadata": {
+      "email": "christian.osty@corse-du-sud.gouv.fr",
+      "telephone": "04 95 50 39 58",
+      "url": ""
+    }
+  },
+  {
+    "id": "889b5332af9d44a3cf127873dc903cff8c89106e",
+    "alternateName": "DDVA",
+    "name": "delegue_departemental_a_la_vie_associative_ddva_cote_d_armor",
+    "title": "Délégué départemental à la vie associative (DDVA) - Côte-d'Armor",
+    "url": "https://lannuaire.service-public.fr/bretagne/cotes-d-armor/ddva-22278-01",
+    "metadata": {
+      "email": "xavier.marchand@cotes-darmor.gouv.fr",
+      "telephone": "02 96 62 08 0902 96 62 83 30",
+      "url": ""
+    }
+  },
+  {
+    "id": "adeb65ca3d54bb7a8b7f681bed25a515626d1540",
+    "alternateName": "DDVA",
+    "name": "delegue_departemental_a_la_vie_associative_ddva_cote_d_or",
+    "title": "Délégué départemental à la vie associative (DDVA) - Côte-d'Or",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/cote-d-or/ddva-21231-01",
+    "metadata": {
+      "email": "francis.labreuche@cote-dor.gouv.fr",
+      "telephone": "03 80 68 30 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "979e589f19eae2e1f91dd7012201810467c981ec",
+    "alternateName": "DDVA",
+    "name": "delegue_departemental_a_la_vie_associative_ddva_creuse",
+    "title": "Délégué départemental à la vie associative (DDVA) - Creuse",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/creuse/ddva-23096-01",
+    "metadata": {
+      "email": "antoine.arki@creuse.gouv.fr",
+      "telephone": "05 55 41 14 22",
+      "url": ""
+    }
+  },
+  {
+    "id": "1dcdbe0698beb167230d1f43a8cff86e3f0923e2",
+    "alternateName": "DDVA",
+    "name": "delegue_departemental_a_la_vie_associative_ddva_deux_sevres",
+    "title": "Délégué départemental à la vie associative (DDVA) - Deux-Sèvres",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/deux-sevres/ddva-79191-01",
+    "metadata": {
+      "email": "renaud.gautron@deux-sevres.gouv.fr",
+      "telephone": "05 49 17 27 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "069ab1d12bcb236313e562c6fa787c8d3a66f150",
+    "alternateName": "DDVA",
+    "name": "delegue_departemental_a_la_vie_associative_ddva_dordogne",
+    "title": "Délégué départemental à la vie associative (DDVA) - Dordogne",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/dordogne/ddva-24322-01",
+    "metadata": {
+      "email": "ousmane.ka@dordogne.gouv.fr",
+      "telephone": "05 53 03 66 40",
+      "url": ""
+    }
+  },
+  {
+    "id": "f22b47fc52a54d42dbba1d4f2e892763ba4169ec",
+    "alternateName": "DDVA",
+    "name": "delegue_departemental_a_la_vie_associative_ddva_doubs",
+    "title": "Délégué départemental à la vie associative (DDVA) - Doubs",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/doubs/ddva-25056-01",
+    "metadata": {
+      "email": "didier.barthel@doubs.gouv.fr",
+      "telephone": "03 81 60 74 60",
+      "url": ""
+    }
+  },
+  {
+    "id": "f3444b39df1bdb4b4c56882aeaa1dd58fed1f016",
+    "alternateName": "DDVA",
+    "name": "delegue_departemental_a_la_vie_associative_ddva_drome",
+    "title": "Délégué départemental à la vie associative (DDVA) - Drôme",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/drome/ddva-26362-01",
+    "metadata": {
+      "email": "christian.belisson@drome.gouv.fr",
+      "telephone": "04 26 52 22 48",
+      "url": ""
+    }
+  },
+  {
+    "id": "693d634cf5488a614e1bd76c95bf9acdf1f92fce",
+    "alternateName": "DDVA",
+    "name": "delegue_departemental_a_la_vie_associative_ddva_essonne",
+    "title": "Délégué départemental à la vie associative (DDVA) - Essonne",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/essonne/ddva-91228-01",
+    "metadata": {
+      "email": "bernard.bronchart@essonne.gouv.fr",
+      "telephone": "01 69 87 30 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "b73e438d0b0821695c8fce26d4c2b6d45fe4969a",
+    "alternateName": "DDVA",
+    "name": "delegue_departemental_a_la_vie_associative_ddva_eure",
+    "title": "Délégué départemental à la vie associative (DDVA) - Eure",
+    "url": "https://lannuaire.service-public.fr/normandie/eure/ddva-27229-01",
+    "metadata": {
+      "email": "bruno.leonarduzzi@eure.gouv.fr",
+      "telephone": "02 32 24 86 13",
+      "url": ""
+    }
+  },
+  {
+    "id": "3b7c84d1d773416ff814bec18039ff079ca6e32a",
+    "alternateName": "DDVA",
+    "name": "delegue_departemental_a_la_vie_associative_ddva_eure_et_loir",
+    "title": "Délégué départemental à la vie associative (DDVA) - Eure et Loir",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/eure-et-loir/ddva-28085-01",
+    "metadata": {
+      "email": "laureen.giroux@eure-et-loir.gouv.fr",
+      "telephone": "02 37 20 51 9002 37 20 52 43",
+      "url": ""
+    }
+  },
+  {
+    "id": "c2e5e32356fa292aeb3c67e3ba154348ac6dbf43",
+    "alternateName": "DDVA",
+    "name": "delegue_departemental_a_la_vie_associative_ddva_finistere",
+    "title": "Délégué départemental à la vie associative (DDVA) - Finistère",
+    "url": "https://lannuaire.service-public.fr/bretagne/finistere/ddva-29232-01",
+    "metadata": {
+      "email": "agnes.abiven-aballea@finistere.gouv.fr",
+      "telephone": "02 98 64 99 0002 98 64 99 29",
+      "url": ""
+    }
+  },
+  {
+    "id": "f7ecd149c1f714e53715db760b1aff8dfbf45bcb",
+    "alternateName": "DDVA",
+    "name": "delegue_departemental_a_la_vie_associative_ddva_gard",
+    "title": "Délégué départemental à la vie associative (DDVA) - Gard",
+    "url": "https://lannuaire.service-public.fr/occitanie/gard/ddva-30189-01",
+    "metadata": {
+      "email": "isabelle.knowles@gard.gouv.fr",
+      "telephone": "04 30 08 61 23",
+      "url": ""
+    }
+  },
+  {
+    "id": "6173b0a9033939c813bf5b344be5510a94dd74e6",
+    "alternateName": "DDVA",
+    "name": "delegue_departemental_a_la_vie_associative_ddva_gers",
+    "title": "Délégué départemental à la vie associative (DDVA) - Gers",
+    "url": "https://lannuaire.service-public.fr/occitanie/gers/ddva-32013-01",
+    "metadata": {
+      "email": "nadine.canton@gers.gouv.fr",
+      "telephone": "05 62 58 12 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "a5a144f9b6cd65e637b474d99b68c16ca7b58394",
+    "alternateName": "DDVA",
+    "name": "delegue_departemental_a_la_vie_associative_ddva_gironde",
+    "title": "Délégué départemental à la vie associative (DDVA) - Gironde",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/gironde/ddva-33063-01",
+    "metadata": {
+      "email": "caroline.lauzeral@gironde.gouv.fr",
+      "telephone": "05 47 47 47 54",
+      "url": ""
+    }
+  },
+  {
+    "id": "549b3c0c3788b7093260b39bfa03b3f3022cfffd",
+    "alternateName": "DDVA",
+    "name": "delegue_departemental_a_la_vie_associative_ddva_guadeloupe",
+    "title": "Délégué départemental à la vie associative (DDVA) - Guadeloupe",
+    "url": "https://lannuaire.service-public.fr/guadeloupe/guadeloupe/ddva-97105-01",
+    "metadata": {
+      "email": "roselita.grandisson@drjscs.gouv.fr",
+      "telephone": "05 60 81 33 57",
+      "url": ""
+    }
+  },
+  {
+    "id": "f88f6d0adf9a11d60e0ba4db2b80e46bb43044e7",
+    "alternateName": "DDVA",
+    "name": "delegue_departemental_a_la_vie_associative_ddva_guyane",
+    "title": "Délégué départemental à la vie associative (DDVA) - Guyane",
+    "url": "https://lannuaire.service-public.fr/guyane/guyane/ddva-97302-01",
+    "metadata": {
+      "email": "flora.youan@drjscs.gouv.fr",
+      "telephone": "05 94 29 92 03",
+      "url": ""
+    }
+  },
+  {
+    "id": "ba6ebde260c85b00bdb34b0b675704de89cd09cb",
+    "alternateName": "DDVA",
+    "name": "delegue_departemental_a_la_vie_associative_ddva_haute_corse",
+    "title": "Délégué départemental à la vie associative (DDVA) - Haute-Corse",
+    "url": "https://lannuaire.service-public.fr/corse/haute-corse/ddva-2B033-01",
+    "metadata": {
+      "email": "perrine.marceron@haute-corse.gouv.fr",
+      "telephone": "04 95 58 51 11",
+      "url": ""
+    }
+  },
+  {
+    "id": "3e6812ecc9e4a62f7632838d2b09a67dd913be35",
+    "alternateName": "DDVA",
+    "name": "delegue_departemental_a_la_vie_associative_ddva_haute_garonne",
+    "title": "Délégué départemental à la vie associative (DDVA) - Haute-Garonne",
+    "url": "https://lannuaire.service-public.fr/occitanie/haute-garonne/ddva-31555-01",
+    "metadata": {
+      "email": "jean-paul.loubeyres@haute-garonne.gouv.fr",
+      "telephone": "05 34 45 37 71",
+      "url": ""
+    }
+  },
+  {
+    "id": "fa06d3f29632425e44870d925c20737dd58b0e3f",
+    "alternateName": "DDVA",
+    "name": "delegue_departemental_a_la_vie_associative_ddva_haute_loire",
+    "title": "Délégué départemental à la vie associative (DDVA) - Haute-Loire",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/haute-loire/ddva-43157-01",
+    "metadata": {
+      "email": "gaelle.schmitz@haute-loire.gouv.fr",
+      "telephone": "04 71 05 32 30",
+      "url": ""
+    }
+  },
+  {
+    "id": "95a70b968f2c81450175dc491e76890e38104d6b",
+    "alternateName": "DDVA",
+    "name": "delegue_departemental_a_la_vie_associative_ddva_haute_marne",
+    "title": "Délégué départemental à la vie associative (DDVA) - Haute-Marne",
+    "url": "https://lannuaire.service-public.fr/grand-est/haute-marne/ddva-52121-01",
+    "metadata": {
+      "email": "mickael.glaudel@haute-marne.gouv.fr",
+      "telephone": "03 52 09 56 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "c843f393b6f2dec2a1585e32828c5d543bbd9db7",
+    "alternateName": "DDVA",
+    "name": "delegue_departemental_a_la_vie_associative_ddva_hautes_alpes",
+    "title": "Délégué départemental à la vie associative (DDVA) - Hautes-Alpes",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/hautes-alpes/ddva-05061-01",
+    "metadata": {
+      "email": "sylvain.mougel@hautes-alpes.gouv.fr",
+      "telephone": "04 92 22 22 85",
+      "url": ""
+    }
+  },
+  {
+    "id": "398b8bfc7941a68bcd542fbf1b8ccd343854d534",
+    "alternateName": "DDVA",
+    "name": "delegue_departemental_a_la_vie_associative_ddva_haute_saone",
+    "title": "Délégué départemental à la vie associative (DDVA) - Haute-Saône",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/haute-saone/ddva-70550-01",
+    "metadata": {
+      "email": "jerome.schnoebelen@haute-saone.gouv.fr",
+      "telephone": "03 84 96 17 18",
+      "url": ""
+    }
+  },
+  {
+    "id": "741318a19f7657c70768e10a041714c1e136a793",
+    "alternateName": "DDVA",
+    "name": "delegue_departemental_a_la_vie_associative_ddva_haute_savoie",
+    "title": "Délégué départemental à la vie associative (DDVA) - Haute-Savoie",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/haute-savoie/ddva-74010-01",
+    "metadata": {
+      "email": "fabien.basset@haute-savoie.gouv.fr",
+      "telephone": "04 50 88 43 53",
+      "url": ""
+    }
+  },
+  {
+    "id": "535b97ab2b4ed173e530eb5303c8a42af99ca0c6",
+    "alternateName": "DDVA",
+    "name": "delegue_departemental_a_la_vie_associative_ddva_hautes_pyrenees",
+    "title": "Délégué départemental à la vie associative (DDVA) - Hautes-Pyrénées",
+    "url": "https://lannuaire.service-public.fr/occitanie/hautes-pyrenees/ddva-65440-01",
+    "metadata": {
+      "email": "claudie.madrach-roze@hautes-pyrenees.gouv.fr",
+      "telephone": "05 62 46 42 20",
+      "url": ""
+    }
+  },
+  {
+    "id": "92fa02bb2815a60dfec09c4ffb86518f8829d3f7",
+    "alternateName": "DDVA",
+    "name": "delegue_departemental_a_la_vie_associative_ddva_haute_vienne",
+    "title": "Délégué départemental à la vie associative (DDVA) - Haute-Vienne",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/haute-vienne/ddva-87085-01",
+    "metadata": {
+      "email": "marie-laure.perrin@haute-vienne.gouv.fr",
+      "telephone": "05 19 76 12 17",
+      "url": ""
+    }
+  },
+  {
+    "id": "4bf22d9d4188bffaeb334b705eef45aa5773f814",
+    "alternateName": "DDVA",
+    "name": "delegue_departemental_a_la_vie_associative_ddva_haut_rhin",
+    "title": "Délégué départemental à la vie associative (DDVA) - Haut-Rhin",
+    "url": "https://lannuaire.service-public.fr/grand-est/haut-rhin/ddva-68066-01",
+    "metadata": {
+      "email": "thomas.guthmann@haut-rhin.gouv.fr",
+      "telephone": "03 89 24 83 74",
+      "url": ""
+    }
+  },
+  {
+    "id": "a65edb2d5b303ad624944545d58286c40045c3d0",
+    "alternateName": "DDVA",
+    "name": "delegue_departemental_a_la_vie_associative_ddva_hauts_de_seine",
+    "title": "Délégué départemental à la vie associative (DDVA) - Hauts-de-Seine",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/hauts-de-seine/ddva-92050-01",
+    "metadata": {
+      "email": "pierre-alexis.latour@hauts-de-seine.gouv.fr",
+      "telephone": "01 40 97 45 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "908dd7f7c34faeacfdbdbe569631d4bbe0a89658",
+    "alternateName": "DDVA",
+    "name": "delegue_departemental_a_la_vie_associative_ddva_herault",
+    "title": "Délégué départemental à la vie associative (DDVA) - Hérault",
+    "url": "https://lannuaire.service-public.fr/occitanie/herault/ddva-34172-01",
+    "metadata": {
+      "email": "david.dupont@herault.gouv.fr",
+      "telephone": "04 67 41 72 58",
+      "url": ""
+    }
+  },
+  {
+    "id": "7ccfa6461d0bdda6be0bb5740fb231fd5dc78055",
+    "alternateName": "DDVA",
+    "name": "delegue_departemental_a_la_vie_associative_ddva_ille_et_vilaine",
+    "title": "Délégué départemental à la vie associative (DDVA) - Ille-et-Vilaine",
+    "url": "https://lannuaire.service-public.fr/bretagne/ille-et-vilaine/ddva-35238-01",
+    "metadata": {
+      "email": "nicolas.parquic@ille-et-vilaine.gouv.fr",
+      "telephone": "02 99 59 89 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "45b8c86adab6918f0c8881792e3c19667e53477d",
+    "alternateName": "DDVA",
+    "name": "delegue_departemental_a_la_vie_associative_ddva_indre",
+    "title": "Délégué départemental à la vie associative (DDVA) - Indre",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/indre/ddva-36044-01",
+    "metadata": {
+      "email": "patricia.danguy@indre.gouv.fr",
+      "telephone": "02 54 53 82 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "5bd0200d073004778e918a25b441298873baea24",
+    "alternateName": "DDVA",
+    "name": "delegue_departemental_a_la_vie_associative_ddva_indre_et_loire",
+    "title": "Délégué départemental à la vie associative (DDVA) - Indre-et-Loire",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/indre-et-loire/ddva-37261-01",
+    "metadata": {
+      "email": "yann.fradon@indre-et-loire.gouv.fr",
+      "telephone": "02 47 70 11 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "611beb25fc507ad86698329e03050acacffc2fab",
+    "alternateName": "DDVA",
+    "name": "delegue_departemental_a_la_vie_associative_ddva_isere",
+    "title": "Délégué départemental à la vie associative (DDVA) - Isère",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/isere/ddva-38185-01",
+    "metadata": {
+      "email": "florence.michelland@isere.gouv.fr",
+      "telephone": "04 57 38 65 17",
+      "url": ""
+    }
+  },
+  {
+    "id": "dad87acaf931028fd039e9a868c0defa6429394d",
+    "alternateName": "DDVA",
+    "name": "delegue_departemental_a_la_vie_associative_ddva_jura",
+    "title": "Délégué départemental à la vie associative (DDVA) - Jura",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/jura/ddva-39300-01",
+    "metadata": {
+      "email": "annelise.camuset@jura.gouv.fr",
+      "telephone": "03 63 55 83 33",
+      "url": ""
+    }
+  },
+  {
+    "id": "43eaec1126945b74ad03b4802eaacbc06c8c8acf",
+    "alternateName": "DDVA",
+    "name": "delegue_departemental_a_la_vie_associative_ddva_landes",
+    "title": "Délégué départemental à la vie associative (DDVA) - Landes",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/landes/ddva-40012-01",
+    "metadata": {
+      "email": "laurent.pottier@landes.gouv.fr",
+      "telephone": "05 58 05 76 92",
+      "url": ""
+    }
+  },
+  {
+    "id": "dac626e551a0fc6dc05cf2677545dd0d39d57534",
+    "alternateName": "DDVA",
+    "name": "delegue_departemental_a_la_vie_associative_ddva_la_reunion",
+    "title": "Délégué départemental à la vie associative (DDVA) - La Réunion",
+    "url": "https://lannuaire.service-public.fr/la-reunion/reunion/ddva-11339-01",
+    "metadata": {
+      "email": "jacky.prianon@jscs.gouv.fr",
+      "telephone": "02 62 20 54 22",
+      "url": ""
+    }
+  },
+  {
+    "id": "494f64ccf2bea1911803d0b8ea5925c619adcc5e",
+    "alternateName": "DDVA",
+    "name": "delegue_departemental_a_la_vie_associative_ddva_loire",
+    "title": "Délégué départemental à la vie associative (DDVA) - Loire",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/loire/ddva-42218-01",
+    "metadata": {
+      "email": "patrick.maniora@loire.gouv.fr",
+      "telephone": "04 77 49 63 63",
+      "url": ""
+    }
+  },
+  {
+    "id": "1cb07947f09e6dae94dc002ad7db553eceeb34a6",
+    "alternateName": "DDVA",
+    "name": "delegue_departemental_a_la_vie_associative_ddva_loire_atlantique",
+    "title": "Délégué départemental à la vie associative (DDVA) - Loire-Atlantique",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/loire-atlantique/ddva-44109-01",
+    "metadata": {
+      "email": "ddcs-ddva@loire-atlantique.gouv.fr",
+      "telephone": "02 40 12 80 00",
+      "url": "http://www.loire-atlantique.gouv.fr/Politiques-publiques/Jeunesse-sport-et-soutien-a-la-vie-associative/Soutien-a-la-vie-associative"
+    }
+  },
+  {
+    "id": "455a20b8382dc566d5c9e5fd78b59449303c61b1",
+    "alternateName": "DDVA",
+    "name": "delegue_departemental_a_la_vie_associative_ddva_loiret",
+    "title": "Délégué départemental à la vie associative (DDVA) - Loiret",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/loiret/ddva-45234-01",
+    "metadata": {
+      "email": "adeline.moriconi@loiret.gouv.fr",
+      "telephone": "02 38 77 49 51",
+      "url": ""
+    }
+  },
+  {
+    "id": "f0130e8be28f340f3ae52c09c63168cf15afac16",
+    "alternateName": "DDVA",
+    "name": "delegue_departemental_a_la_vie_associative_ddva_loir_et_cher",
+    "title": "Délégué départemental à la vie associative (DDVA) - Loir-et-Cher",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/loir-et-cher/ddva-41018-01",
+    "metadata": {
+      "email": "catherine.bancquart@loir-et-cher.gouv.fr",
+      "telephone": "02 54 90 97 3108 10 02 41 41",
+      "url": ""
+    }
+  },
+  {
+    "id": "fe9b1d0a034b6348317afd0cc4214fa7eb8907ce",
+    "alternateName": "DDVA",
+    "name": "delegue_departemental_a_la_vie_associative_ddva_lot",
+    "title": "Délégué départemental à la vie associative (DDVA) - Lot",
+    "url": "https://lannuaire.service-public.fr/occitanie/lot/ddva-46042-01",
+    "metadata": {
+      "email": "xavier.thuries@lot.gouv.fr",
+      "telephone": "05 65 20 56 71",
+      "url": ""
+    }
+  },
+  {
+    "id": "5fed3791b1b5903debbca56a6e0dd4ec2cef0ed5",
+    "alternateName": "DDVA",
+    "name": "delegue_departemental_a_la_vie_associative_ddva_lot_et_garonne",
+    "title": "Délégué départemental à la vie associative (DDVA) - Lot-et-Garonne",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/lot-et-garonne/ddva-47001-01",
+    "metadata": {
+      "email": "jean-claude.feyrit@lot-et-garonne.gouv.fr",
+      "telephone": "05 53 98 66 52",
+      "url": ""
+    }
+  },
+  {
+    "id": "d2df36ce3bb6f628cf00b49ab3800c75ea004af5",
+    "alternateName": "DDVA",
+    "name": "delegue_departemental_a_la_vie_associative_ddva_lozere",
+    "title": "Délégué départemental à la vie associative (DDVA) - Lozère",
+    "url": "https://lannuaire.service-public.fr/occitanie/lozere/ddva-48095-01",
+    "metadata": {
+      "email": "maryline.nouchi@lozere.gouv.fr",
+      "telephone": "04 30 11 10 15",
+      "url": ""
+    }
+  },
+  {
+    "id": "0512d61bac4f0d464072fed68717e193ca6b5c4e",
+    "alternateName": "DDVA",
+    "name": "delegue_departemental_a_la_vie_associative_ddva_maine_et_loire",
+    "title": "Délégué départemental à la vie associative (DDVA) - Maine-et-Loire",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/maine-et-loire/ddva-49007-01",
+    "metadata": {
+      "email": "benoit.besse@maine-et-loire.gouv.fr",
+      "telephone": "02 41 72 47 20",
+      "url": ""
+    }
+  },
+  {
+    "id": "816b177554bd803bcf8f7c79e8f8768edc37a867",
+    "alternateName": "DDVA",
+    "name": "delegue_departemental_a_la_vie_associative_ddva_manche",
+    "title": "Délégué départemental à la vie associative (DDVA) - Manche",
+    "url": "https://lannuaire.service-public.fr/normandie/manche/ddva-50502-01",
+    "metadata": {
+      "email": "jean-marc.julien@manche.gouv.fr",
+      "telephone": "02 50 71 50 08",
+      "url": ""
+    }
+  },
+  {
+    "id": "d48b190e5141e4a22c2e276e61d31fbe78f16778",
+    "alternateName": "DDVA",
+    "name": "delegue_departemental_a_la_vie_associative_ddva_marne",
+    "title": "Délégué départemental à la vie associative (DDVA) - Marne",
+    "url": "https://lannuaire.service-public.fr/grand-est/marne/ddva-51108-01",
+    "metadata": {
+      "email": "samia.descarrega@marne.gouv.fr",
+      "telephone": "03 26 66 49 15",
+      "url": ""
+    }
+  },
+  {
+    "id": "feb953649673e7fbcf1f9ac7c9812b4a459c8788",
+    "alternateName": "DDVA",
+    "name": "delegue_departemental_a_la_vie_associative_ddva_martinique",
+    "title": "Délégué départemental à la vie associative (DDVA) - Martinique",
+    "url": "https://lannuaire.service-public.fr/martinique/martinique/ddva-97209-01",
+    "metadata": {
+      "email": "cecile.renotte-urruty@jeunesse-sports.gouv.fr",
+      "telephone": "05 96 66 35 22",
+      "url": ""
+    }
+  },
+  {
+    "id": "d8aa6e6bc6078dc3f9dba3cbcb8cf65e481bc2f7",
+    "alternateName": "DDVA",
+    "name": "delegue_departemental_a_la_vie_associative_ddva_mayenne",
+    "title": "Délégué départemental à la vie associative (DDVA) - Mayenne",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/mayenne/ddva-53130-01",
+    "metadata": {
+      "email": "nadege.habrylo@mayenne.gouv.fr",
+      "telephone": "02 43 67 27 3002 43 67 27 49",
+      "url": ""
+    }
+  },
+  {
+    "id": "ee50f73ba074cadd206fe4ee731daee6ba567d2f",
+    "alternateName": "DDVA",
+    "name": "delegue_departemental_a_la_vie_associative_ddva_mayotte",
+    "title": "Délégué départemental à la vie associative (DDVA) - Mayotte",
+    "url": "https://lannuaire.service-public.fr/mayotte/mayotte/ddva-97611-01",
+    "metadata": {
+      "email": "renaud.artoux@drjscs.gouv.fr",
+      "telephone": "02 69 61 60 5002 69 61 81 92",
+      "url": ""
+    }
+  },
+  {
+    "id": "bfcf2dccbd470f02b05a010e08ece9b9f5d684c8",
+    "alternateName": "DDVA",
+    "name": "delegue_departemental_a_la_vie_associative_ddva_meurthe_et_moselle",
+    "title": "Délégué départemental à la vie associative (DDVA) - Meurthe-et-Moselle",
+    "url": "https://lannuaire.service-public.fr/grand-est/meurthe-et-moselle/ddva-54395-01",
+    "metadata": {
+      "email": "frederic.cuignet@meurthe-et-moselle.gouv.fr",
+      "telephone": "03 57 29 12 91",
+      "url": ""
+    }
+  },
+  {
+    "id": "84f4916c3d1efa80baf2215dd6a363e25925d7b7",
+    "alternateName": "DDVA",
+    "name": "delegue_departemental_a_la_vie_associative_ddva_meuse",
+    "title": "Délégué départemental à la vie associative (DDVA) - Meuse",
+    "url": "https://lannuaire.service-public.fr/grand-est/meuse/ddva-55029-01",
+    "metadata": {
+      "email": "sebastien.borges@meuse.gouv.fr",
+      "telephone": "03 29 77 42 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "060c0be2f0bb58909063d8c4037b8458a3686f48",
+    "alternateName": "DDVA",
+    "name": "delegue_departemental_a_la_vie_associative_ddva_morbihan",
+    "title": "Délégué départemental à la vie associative (DDVA) - Morbihan",
+    "url": "https://lannuaire.service-public.fr/bretagne/morbihan/ddva-56260-01",
+    "metadata": {
+      "email": "gilles.bion@morbihan.gouv.fr",
+      "telephone": "02 22 07 20 20",
+      "url": ""
+    }
+  },
+  {
+    "id": "3517eef2b838ccf58036da3f3adf29690208d0af",
+    "alternateName": "DDVA",
+    "name": "delegue_departemental_a_la_vie_associative_ddva_moselle",
+    "title": "Délégué départemental à la vie associative (DDVA) - Moselle",
+    "url": "https://lannuaire.service-public.fr/grand-est/moselle/ddva-57463-01",
+    "metadata": {
+      "email": "francoise.peyre-tekkouk@moselle.gouv.fr",
+      "telephone": "03 87 75 99 14",
+      "url": ""
+    }
+  },
+  {
+    "id": "16f230bd3709a9da62ee093408511f68ebf8b38d",
+    "alternateName": "DDVA",
+    "name": "delegue_departemental_a_la_vie_associative_ddva_nievre",
+    "title": "Délégué départemental à la vie associative (DDVA) - Nièvre",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/nievre/ddva-58194-01",
+    "metadata": {
+      "email": "faustine.vasseur@nievre.gouv.fr",
+      "telephone": "03 58 07 20 30",
+      "url": ""
+    }
+  },
+  {
+    "id": "a852fc01fcf23448da03018f3d6dd2be7347c7cd",
+    "alternateName": "DDVA",
+    "name": "delegue_departemental_a_la_vie_associative_ddva_nord",
+    "title": "Délégué départemental à la vie associative (DDVA) - Nord",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/nord/ddva-59350-01",
+    "metadata": {
+      "email": "severine.rondel@nord.gouv.fr",
+      "telephone": "03 20 18 33 91",
+      "url": ""
+    }
+  },
+  {
+    "id": "0d46183e1de46aaa4ac67102b72428f7b7eaaf01",
+    "alternateName": "DDVA",
+    "name": "delegue_departemental_a_la_vie_associative_ddva_nouvelle_caledonie",
+    "title": "Délégué départemental à la vie associative (DDVA) - Nouvelle-Calédonie",
+    "url": "https://lannuaire.service-public.fr/collectivites-d-outre-mer/nouvelle-caledonie/ddva-98818-01",
+    "metadata": {
+      "email": "pierre.forest@gouv.nc",
+      "telephone": "006 87 25 23 84",
+      "url": ""
+    }
+  },
+  {
+    "id": "16fce9f94eb81749ef388232d6a84289d7baa989",
+    "alternateName": "DDVA",
+    "name": "delegue_departemental_a_la_vie_associative_ddva_oise",
+    "title": "Délégué départemental à la vie associative (DDVA) - Oise",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/oise/ddva-60057-01",
+    "metadata": {
+      "email": "severine.binet@oise.gouv.fr",
+      "telephone": "03 44 06 06 28",
+      "url": ""
+    }
+  },
+  {
+    "id": "e07539e5eb2851617fbfea71dd9cb9e02ec240ec",
+    "alternateName": "DDVA",
+    "name": "delegue_departemental_a_la_vie_associative_ddva_orne",
+    "title": "Délégué départemental à la vie associative (DDVA) - Orne",
+    "url": "https://lannuaire.service-public.fr/normandie/orne/ddva-61001-01",
+    "metadata": {
+      "email": "benoit.dore@orne.gouv.fr",
+      "telephone": "02 33 32 42 98",
+      "url": ""
+    }
+  },
+  {
+    "id": "69620550b4ae61e2f78cd00ade9678c60f63c5fc",
+    "alternateName": "DDVA",
+    "name": "delegue_departemental_a_la_vie_associative_ddva_paris",
+    "title": "Délégué départemental à la vie associative (DDVA) - Paris",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/paris/ddva-75056-01",
+    "metadata": {
+      "email": "saida.belaid@paris-idf.gouv.fr",
+      "telephone": "01 82 52 47 47",
+      "url": ""
+    }
+  },
+  {
+    "id": "cbe8f05cb5de7367b1416a918adafabe4711b7bb",
+    "alternateName": "DDVA",
+    "name": "delegue_departemental_a_la_vie_associative_ddva_pas_de_calais",
+    "title": "Délégué départemental à la vie associative (DDVA) - Pas-de-Calais",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/pas-de-calais/ddva-62041-01",
+    "metadata": {
+      "email": "patrick.rodier@pas-de-calais.gouv.fr",
+      "telephone": "03 21 23 87 70",
+      "url": ""
+    }
+  },
+  {
+    "id": "409824439d2d1fd2ee7a5331f36d156e867a9d4b",
+    "alternateName": "DDVA",
+    "name": "delegue_departemental_a_la_vie_associative_ddva_polynesie_francaise",
+    "title": "Délégué départemental à la vie associative (DDVA) - Polynésie Française",
+    "url": "https://lannuaire.service-public.fr/collectivites-d-outre-mer/polynesie-francaise/ddva-98735-01",
+    "metadata": {
+      "email": "gerard.dubois@jeunesse.gov.pf",
+      "telephone": "00.689.42.86.43",
+      "url": ""
+    }
+  },
+  {
+    "id": "822e7f7e154a52a4b543aeb18a7060bd16a17b61",
+    "alternateName": "DDVA",
+    "name": "delegue_departemental_a_la_vie_associative_ddva_puy_de_dome",
+    "title": "Délégué départemental à la vie associative (DDVA) - Puy-de-Dôme",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/puy-de-dome/ddva-63113-01",
+    "metadata": {
+      "email": "anne-laure.morel@puy-de-dome.gouv.fr",
+      "telephone": "04 73 14 76 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "a8063a8de8c1a3d7756c6f6f512c9176c172bed8",
+    "alternateName": "DDVA",
+    "name": "delegue_departemental_a_la_vie_associative_ddva_pyrenees_atlantiques",
+    "title": "Délégué départemental à la vie associative (DDVA) - Pyrénées-Atlantiques",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/pyrenees-atlantiques/ddva-64445-01",
+    "metadata": {
+      "email": "philippe.etcheverria@pyrenees-atlantiques.gouv.fr",
+      "telephone": "05 40 17 28 3805 47 41 33 4005 47 41 33 41",
+      "url": ""
+    }
+  },
+  {
+    "id": "bc3da28416bdee5386e55be1e15065917b316fff",
+    "alternateName": "DDVA",
+    "name": "delegue_departemental_a_la_vie_associative_ddva_pyrenees_orientales",
+    "title": "Délégué départemental à la vie associative (DDVA) - Pyrénées-Orientales",
+    "url": "https://lannuaire.service-public.fr/occitanie/pyrenees-orientales/ddva-66136-01",
+    "metadata": {
+      "email": "jean-pierre.chaussier@pyrenees-orientales.gouv.fr",
+      "telephone": "04 68 35 50 49",
+      "url": ""
+    }
+  },
+  {
+    "id": "eda282cfb72e1ca9164e62d546936cc5a3fdbb94",
+    "alternateName": "DDVA",
+    "name": "delegue_departemental_a_la_vie_associative_ddva_rhone",
+    "title": "Délégué départemental à la vie associative (DDVA) - Rhône",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/rhone/ddva-69123-01",
+    "metadata": {
+      "email": "charles.dalens@rhone.gouv.fr",
+      "telephone": "04 81 92 44 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "42cc11d0d3ed8e5615c17ab3716cc35da46eac95",
+    "alternateName": "DDVA",
+    "name": "delegue_departemental_a_la_vie_associative_ddva_saint_pierre_et_miquelon",
+    "title": "Délégué départemental à la vie associative (DDVA) - Saint-Pierre-et-Miquelon",
+    "url": "https://lannuaire.service-public.fr/collectivites-d-outre-mer/saint-pierre-et-miquelon/ddva-97502-01",
+    "metadata": {
+      "email": "clemence.tisserand@dcstep.gouv.fr",
+      "telephone": "05 08 41 19 4005 08 41 19 73",
+      "url": ""
+    }
+  },
+  {
+    "id": "756c80e221b4f41fb637e16ea0a810547c7935ff",
+    "alternateName": "DDVA",
+    "name": "delegue_departemental_a_la_vie_associative_ddva_saone_et_loire",
+    "title": "Délégué départemental à la vie associative (DDVA) - Saône-et-Loire",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/saone-et-loire/ddva-71270-01",
+    "metadata": {
+      "email": "yves.laffont@saone-et-loire.gouv.fr",
+      "telephone": "03 52 79 32 4803 58 73 32 41",
+      "url": ""
+    }
+  },
+  {
+    "id": "41593d2baee964adbd32c501a41d0b1591319b9c",
+    "alternateName": "DDVA",
+    "name": "delegue_departemental_a_la_vie_associative_ddva_sarthe",
+    "title": "Délégué départemental à la vie associative (DDVA) - Sarthe",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/sarthe/ddva-72181-01",
+    "metadata": {
+      "email": "mickael.goulvent@sarthe.gouv.fr",
+      "telephone": "02 72 16 43 12",
+      "url": ""
+    }
+  },
+  {
+    "id": "933bb0686a3c5b62a3a5f5195ddf64cb8cad5539",
+    "alternateName": "DDVA",
+    "name": "delegue_departemental_a_la_vie_associative_ddva_savoie",
+    "title": "Délégué départemental à la vie associative (DDVA) - Savoie",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/savoie/ddva-73065-01",
+    "metadata": {
+      "email": "christine.bonenfant@savoie.gouv.fr",
+      "telephone": "04 56 11 06 63",
+      "url": ""
+    }
+  },
+  {
+    "id": "24af0b3cb481a420b3cf19127b1b3856ab35119a",
+    "alternateName": "DDVA",
+    "name": "delegue_departemental_a_la_vie_associative_ddva_seine_et_marne",
+    "title": "Délégué départemental à la vie associative (DDVA) - Seine-et-Marne",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/seine-et-marne/ddva-77288-01",
+    "metadata": {
+      "email": "maryse.henrich@seine-et-marne.gouv.fr",
+      "telephone": "01 64 41 58 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "25b9259b62fb8e5a587a35160b28ade433cf482b",
+    "alternateName": "DDVA",
+    "name": "delegue_departemental_a_la_vie_associative_ddva_seine_maritime",
+    "title": "Délégué départemental à la vie associative (DDVA) - Seine-Maritime",
+    "url": "https://lannuaire.service-public.fr/normandie/seine-maritime/ddva-76540-01",
+    "metadata": {
+      "email": "sylvain.remy@seine-maritime.gouv.fr",
+      "telephone": "02 76 27 71 20",
+      "url": ""
+    }
+  },
+  {
+    "id": "f4971a972b6f350917c2dd9d8a6263921ff52106",
+    "alternateName": "DDVA",
+    "name": "delegue_departemental_a_la_vie_associative_ddva_seine_saint_denis",
+    "title": "Délégué départemental à la vie associative (DDVA) - Seine-Saint-Denis",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/seine-saint-denis/ddva-93008-01",
+    "metadata": {
+      "email": "ddcs@seine-saint-denis.gouv.fr",
+      "telephone": "01 74 73 36 0001 74 73 36 58",
+      "url": ""
+    }
+  },
+  {
+    "id": "0aab546c02a8c0746b118745fd55140768b2b1a4",
+    "alternateName": "DDVA",
+    "name": "delegue_departemental_a_la_vie_associative_ddva_somme",
+    "title": "Délégué départemental à la vie associative (DDVA) - Somme",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/somme/ddva-80021-01",
+    "metadata": {
+      "email": "yassine.chaib@somme.gouv.fr",
+      "telephone": "03 22 97 80 80",
+      "url": ""
+    }
+  },
+  {
+    "id": "0ec60418a9ec7598197e97b9a2c646f9925a2dbb",
+    "alternateName": "DDVA",
+    "name": "delegue_departemental_a_la_vie_associative_ddva_tarn",
+    "title": "Délégué départemental à la vie associative (DDVA) - Tarn",
+    "url": "https://lannuaire.service-public.fr/occitanie/tarn/ddva-81004-01",
+    "metadata": {
+      "email": "lena.clement@tarn.gouv.fr",
+      "telephone": "05 63 45 62 4605 81 27 53 66",
+      "url": ""
+    }
+  },
+  {
+    "id": "cb531c5b990b3e35112a784932ad16bd45f4fc3b",
+    "alternateName": "DDVA",
+    "name": "delegue_departemental_a_la_vie_associative_ddva_tarn_et_garonne",
+    "title": "Délégué départemental à la vie associative (DDVA) - Tarn-et-Garonne",
+    "url": "https://lannuaire.service-public.fr/occitanie/tarn-et-garonne/ddva-82121-01",
+    "metadata": {
+      "email": "pierre.fauveau@tarn-et-garonne.gouv.fr",
+      "telephone": "05 63 21 18 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "eb5130713d125a77dd728894b96f3c708ff5f14e",
+    "alternateName": "DDVA",
+    "name": "delegue_departemental_a_la_vie_associative_ddva_territoire_de_belfort",
+    "title": "Délégué départemental à la vie associative (DDVA) - Territoire de Belfort",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/territoire-de-belfort/ddva-90010-01",
+    "metadata": {
+      "email": "marie-laure.milliet@territoire-de-belfort.gouv.fr",
+      "telephone": "03 84 21 98 50",
+      "url": ""
+    }
+  },
+  {
+    "id": "53775fb613f7f40ace88fbca2e18c2e56cd8cf30",
+    "alternateName": "DDVA",
+    "name": "delegue_departemental_a_la_vie_associative_ddva_val_d_oise",
+    "title": "Délégué départemental à la vie associative (DDVA) - Val-d'Oise",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/val-d-oise/ddva-95500-01",
+    "metadata": {
+      "email": "benoit.trulla@val-doise.gouv.fr",
+      "telephone": "01 77 63 61 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "bd2a810ecd4474c865f75aebacf3bbfc7dd39bed",
+    "alternateName": "DDVA",
+    "name": "delegue_departemental_a_la_vie_associative_ddva_val_de_marne",
+    "title": "Délégué départemental à la vie associative (DDVA) - Val-de-Marne",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/val-de-marne/ddva-94028-01",
+    "metadata": {
+      "email": "jean-philippe.guilloton@val-de-marne.gouv.fr",
+      "telephone": "01 45 17 05 11",
+      "url": ""
+    }
+  },
+  {
+    "id": "12c1913605b2fd7743d24b1ff74593f1f165caec",
+    "alternateName": "DDVA",
+    "name": "delegue_departemental_a_la_vie_associative_ddva_var",
+    "title": "Délégué départemental à la vie associative (DDVA) - Var",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/var/ddva-83137-01",
+    "metadata": {
+      "email": "margaux.rocco@var.gouv.fr",
+      "telephone": "04 83 24 62 11",
+      "url": ""
+    }
+  },
+  {
+    "id": "ebd4a53b287ddbf8f1849bc347a6baed02ad1274",
+    "alternateName": "DDVA",
+    "name": "delegue_departemental_a_la_vie_associative_ddva_vaucluse",
+    "title": "Délégué départemental à la vie associative (DDVA) - Vaucluse",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/vaucluse/ddva-84007-01",
+    "metadata": {
+      "email": "jean-pierre.braquet@vaucluse.gouv.fr",
+      "telephone": "04 88 17 86 60",
+      "url": ""
+    }
+  },
+  {
+    "id": "f7e5a14b5bb01fc8218c5d76c2faf034e57522fd",
+    "alternateName": "DDVA",
+    "name": "delegue_departemental_a_la_vie_associative_ddva_vendee",
+    "title": "Délégué départemental à la vie associative (DDVA) - Vendée",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/vendee/ddva-85191-01",
+    "metadata": {
+      "email": "pascaline.robert-clement@sante.gouv.fr",
+      "telephone": "02 51 36 75 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "2be7fb80725b0947845771c82dbf85e25313ac0f",
+    "alternateName": "DDVA",
+    "name": "delegue_departemental_a_la_vie_associative_ddva_vienne",
+    "title": "Délégué départemental à la vie associative (DDVA) - Vienne",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/vienne/ddva-86194-01",
+    "metadata": {
+      "email": "fabien.martha@vienne.gouv.fr",
+      "telephone": "05 49 44 83 50",
+      "url": ""
+    }
+  },
+  {
+    "id": "d52d998ace9ab96bc7144c83dceadb67dddaf7dc",
+    "alternateName": "DDVA",
+    "name": "delegue_departemental_a_la_vie_associative_ddva_vosges",
+    "title": "Délégué départemental à la vie associative (DDVA) - Vosges",
+    "url": "https://lannuaire.service-public.fr/grand-est/vosges/ddva-88160-01",
+    "metadata": {
+      "email": "evelyne.issele@vosges.gouv.fr",
+      "telephone": "03 29 68 48 95",
+      "url": ""
+    }
+  },
+  {
+    "id": "9046a1a4a1c681e0955c1a34ea9e2432e3de8dd4",
+    "alternateName": "DDVA",
+    "name": "delegue_departemental_a_la_vie_associative_ddva_wallis_et_futuna",
+    "title": "Délégué départemental à la vie associative (DDVA) - Wallis-et-Futuna",
+    "url": "https://lannuaire.service-public.fr/collectivites-d-outre-mer/wallis-et-futuna/ddva-98613-01",
+    "metadata": {
+      "email": "jeunesse.stjs@mail.wf",
+      "telephone": "",
+      "url": ""
+    }
+  },
+  {
+    "id": "c5755226f06399d801a184eb882e317635082b08",
+    "alternateName": "DDVA",
+    "name": "delegue_departemental_a_la_vie_associative_ddva_yonne",
+    "title": "Délégué départemental à la vie associative (DDVA) - Yonne",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/yonne/ddva-89024-01",
+    "metadata": {
+      "email": "prisca.renard@yonne.gouv.fr",
+      "telephone": "03 86 72 69 77",
+      "url": ""
+    }
+  }
+]

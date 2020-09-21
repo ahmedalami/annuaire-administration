@@ -1,0 +1,101 @@
+[
+  {
+    "id": "9fb38a8515202874cce82a3ec488126932bd801d",
+    "name": "centre_de_semi_liberte_de_besancon",
+    "title": "Centre de semi-liberté de Besançon",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/doubs/csl-25056-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 81 88 10 37",
+      "url": ""
+    }
+  },
+  {
+    "id": "f0447426e4ffe312ce04809a640e6d542550d233",
+    "name": "centre_de_semi_liberte_de_corbeil_essonnes",
+    "title": "Centre de semi-liberté de Corbeil-Essonnes",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/essonne/csl-91174-01",
+    "metadata": {
+      "email": "",
+      "telephone": "01 64 96 02 55",
+      "url": ""
+    }
+  },
+  {
+    "id": "30ab5ddbb1f0187e72d3121d51841bf7d4690b2f",
+    "name": "centre_de_semi_liberte_de_gagny",
+    "title": "Centre de semi-liberté de Gagny",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/seine-saint-denis/csl-93032-01",
+    "metadata": {
+      "email": "",
+      "telephone": "01 71 84 19 30",
+      "url": ""
+    }
+  },
+  {
+    "id": "d9cbed9d410c6111466564e5e726a38263295c6c",
+    "name": "centre_de_semi_liberte_de_lyon",
+    "title": "Centre de semi-liberté de Lyon",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/rhone/csl-69387-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 72 71 53 70",
+      "url": ""
+    }
+  },
+  {
+    "id": "07712989b737e59fbe9dfdd0a7df8c16a9c725d5",
+    "name": "centre_de_semi_liberte_de_maxeville",
+    "title": "Centre de semi-liberté de Maxéville",
+    "url": "https://lannuaire.service-public.fr/grand-est/meurthe-et-moselle/csl-54357-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 83 35 28 67",
+      "url": ""
+    }
+  },
+  {
+    "id": "ba532a2653a4c84e7e4a010fb5bdb257c601999a",
+    "name": "centre_de_semi_liberte_de_melun",
+    "title": "Centre de semi-liberté de Melun",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/seine-et-marne/csl-77288-01",
+    "metadata": {
+      "email": "",
+      "telephone": "01 60 56 51 30",
+      "url": ""
+    }
+  },
+  {
+    "id": "c0ab5391396b1793c7291c5a2a2d6a67eb6f494d",
+    "name": "centre_de_semi_liberte_de_montargis",
+    "title": "Centre de semi-liberté de Montargis",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/loiret/csl-45208-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 38 85 25 46",
+      "url": ""
+    }
+  },
+  {
+    "id": "b4de1c52c481040bf0cbea6e74132ac0109f8e89",
+    "name": "centre_de_semi_liberte_de_souffelweyersheim",
+    "title": "Centre de semi-liberté de Souffelweyersheim",
+    "url": "https://lannuaire.service-public.fr/grand-est/bas-rhin/csl-67471-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 88 20 55 81",
+      "url": ""
+    }
+  },
+  {
+    "id": "dc9b24cfef35fac2dfa240f8350bd27fe25fa0a1",
+    "name": "centre_de_semi_liberte_du_val_de_briey",
+    "title": "Centre de semi-liberté du Val de Briey",
+    "url": "https://lannuaire.service-public.fr/grand-est/meurthe-et-moselle/csl-54099-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 82 46 03 26",
+      "url": ""
+    }
+  }
+]

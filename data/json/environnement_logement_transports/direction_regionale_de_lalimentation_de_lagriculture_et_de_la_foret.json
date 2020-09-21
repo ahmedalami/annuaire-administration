@@ -1,0 +1,349 @@
+[
+  {
+    "id": "4118d388a818e92afcb54f3b10ae75b2f12dd2ef",
+    "alternateName": "DAAF",
+    "name": "direction_de_lalimentation_de_lagriculture_et_de_la_foret_daaf_guadeloupe",
+    "title": "Direction de l'alimentation, de l'agriculture et de la forêt (DAAF) - Guadeloupe",
+    "url": "https://lannuaire.service-public.fr/guadeloupe/guadeloupe/draf-97105-01",
+    "metadata": {
+      "email": "daaf971@agriculture.gouv.fr",
+      "telephone": "+590 5 90 99 09 09",
+      "url": "http://daaf971.agriculture.gouv.fr"
+    }
+  },
+  {
+    "id": "06d25bb8f9731b00851f43a5a406c470ccfff650",
+    "alternateName": "DAAF",
+    "name": "direction_de_lalimentation_de_lagriculture_et_de_la_foret_daaf_la_reunion",
+    "title": "Direction de l'alimentation, de l'agriculture et de la forêt (DAAF) - La Réunion",
+    "url": "https://lannuaire.service-public.fr/la-reunion/reunion/draf-97411-01",
+    "metadata": {
+      "email": "daaf974@agriculture.gouv.fr",
+      "telephone": "+262 2 62 30 89 89",
+      "url": "http://daaf.reunion.agriculture.gouv.fr/"
+    }
+  },
+  {
+    "id": "356fccd38153fd6d9fcfa3eb38ef41c5775ce916",
+    "alternateName": "DAAF",
+    "name": "direction_de_lalimentation_de_lagriculture_et_de_la_foret_daaf_martinique",
+    "title": "Direction de l'alimentation, de l'agriculture et de la forêt (DAAF) - Martinique",
+    "url": "https://lannuaire.service-public.fr/martinique/martinique/draf-97209-01",
+    "metadata": {
+      "email": "daf972@agriculture.gouv.fr",
+      "telephone": "+596 5 96 71 20 40",
+      "url": "http://daaf972.agriculture.gouv.fr"
+    }
+  },
+  {
+    "id": "8328474c32e175e9198c88668cebb861605bf538",
+    "alternateName": "DAAF",
+    "name": "direction_de_lalimentation_de_lagriculture_et_de_la_foret_daaf_mayotte",
+    "title": "Direction de l'alimentation, de l'agriculture et de la forêt (DAAF) - Mayotte",
+    "url": "https://lannuaire.service-public.fr/mayotte/mayotte/draf-97611-01",
+    "metadata": {
+      "email": "Courriel",
+      "telephone": "+269 2 69 61 12 13",
+      "url": "http://daaf.mayotte.agriculture.gouv.fr/"
+    }
+  },
+  {
+    "id": "988bb6a467ac966006bfe2e886f8eda89b2f5e53",
+    "alternateName": "DRIAAF",
+    "name": "direction_regionale_et_interdepartementale_de_lalimentation_de_lagriculture_et_de_la_foret_driaaf_ile_de_france",
+    "title": "Direction régionale et interdépartementale de l'alimentation, de l'agriculture et de la forêt (DRIAAF) - Île-de-France",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/val-de-marne/draf-94016-01",
+    "metadata": {
+      "email": "",
+      "telephone": "01 41 24 17 00",
+      "url": "http://www.driaaf.ile-de-france.agriculture.gouv.fr"
+    }
+  },
+  {
+    "id": "78d9970820c899a85feba92afce0a42625fba3e0",
+    "alternateName": "DRAAF",
+    "name": "direction_regionale_de_lalimentation_de_lagriculture_et_de_la_foret_draaf_auvergne_rhone_alpes_siege_de_lempdes",
+    "title": "Direction régionale de l'alimentation, de l'agriculture et de la forêt (DRAAF) - Auvergne-Rhône-Alpes - Siège de Lempdes",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/puy-de-dome/draf-63193-01",
+    "metadata": {
+      "email": "draaf-auvergne-rhone-alpes@agriculture.gouv.fr",
+      "telephone": "04 73 42 14 14",
+      "url": "http://draaf.auvergne-rhone-alpes.agriculture.gouv.fr"
+    }
+  },
+  {
+    "id": "e6ef9e3df0752c3d7c765713acc0323de6cc2339",
+    "alternateName": "DRAAF",
+    "name": "direction_regionale_de_lalimentation_de_lagriculture_et_de_la_foret_draaf_auvergne_rhone_alpes_site_de_lyon",
+    "title": "Direction régionale de l'alimentation, de l'agriculture et de la forêt (DRAAF) - Auvergne-Rhône-Alpes - Site de Lyon",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/rhone/draf-69383-01",
+    "metadata": {
+      "email": "draaf-auvergne-rhone-alpes@agriculture.gouv.fr",
+      "telephone": "04 78 63 13 13",
+      "url": "http://draaf.auvergne-rhone-alpes.agriculture.gouv.fr"
+    }
+  },
+  {
+    "id": "e94f36fe2bfcf5cd418a1d8421a8a64cd3cfbf4d",
+    "alternateName": "DRAAF",
+    "name": "direction_regionale_de_lalimentation_de_lagriculture_et_de_la_foret_draaf_bourgogne_franche_comte_siege_de_dijon",
+    "title": "Direction régionale de l'alimentation, de l'agriculture et de la forêt (DRAAF) - Bourgogne-Franche-Comté - Siège de Dijon",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/cote-d-or/draf-21231-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 80 39 30 00",
+      "url": "http://draaf.bourgogne-franche-comte.agriculture.gouv.fr/"
+    }
+  },
+  {
+    "id": "c2e586218a52fcf97fc0684bc9785d64de9af20f",
+    "alternateName": "DRAAF",
+    "name": "direction_regionale_de_lalimentation_de_lagriculture_et_de_la_foret_draaf_bourgogne_franche_comte_site_de_besancon",
+    "title": "Direction régionale de l'alimentation, de l'agriculture et de la forêt (DRAAF) - Bourgogne-Franche-Comté - Site de Besançon",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/doubs/draf-25056-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 80 39 30 00",
+      "url": "http://draaf.bourgogne-franche-comte.agriculture.gouv.fr"
+    }
+  },
+  {
+    "id": "c63a15d6a62a17f5e8edc752764dc922b45bdeea",
+    "alternateName": "DRAAF",
+    "name": "direction_regionale_de_lalimentation_de_lagriculture_et_de_la_foret_draaf_bretagne",
+    "title": "Direction régionale de l'alimentation, de l'agriculture et de la forêt (DRAAF) - Bretagne",
+    "url": "https://lannuaire.service-public.fr/bretagne/ille-et-vilaine/draf-35238-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 99 28 21 21",
+      "url": "http://www.draaf.bretagne.agriculture.gouv.fr"
+    }
+  },
+  {
+    "id": "f1c9e02be928c6d45f772d7cdd9fc071f46b0e17",
+    "alternateName": "DRAAF",
+    "name": "direction_regionale_de_lalimentation_de_lagriculture_et_de_la_foret_draaf_centre_val_de_loire",
+    "title": "Direction régionale de l'alimentation, de l'agriculture et de la forêt (DRAAF) - Centre-Val de Loire",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/loiret/draf-45234-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 38 77 40 00",
+      "url": "http://draaf.centre-val-de-loire.agriculture.gouv.fr/"
+    }
+  },
+  {
+    "id": "2d33c99a05dc67265ee9094bfe88d2ee36114e0a",
+    "alternateName": "DRAAF",
+    "name": "direction_regionale_de_lalimentation_de_lagriculture_et_de_la_foret_draaf_corse",
+    "title": "Direction régionale de l'alimentation, de l'agriculture et de la forêt (DRAAF) - Corse",
+    "url": "https://lannuaire.service-public.fr/corse/corse-du-sud/draf-2A004-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 95 51 86 00",
+      "url": "http://draaf.corse.agriculture.gouv.fr"
+    }
+  },
+  {
+    "id": "f3ae7bc1cac5e4051bde4391393c08369bef3aff",
+    "alternateName": "DRAAF",
+    "name": "direction_regionale_de_lalimentation_de_lagriculture_et_de_la_foret_draaf_grand_est_siege_de_chalons_en_champagne",
+    "title": "Direction régionale de l'alimentation, de l'agriculture et de la forêt (DRAAF) - Grand Est - Siège de Châlons-en-Champagne",
+    "url": "https://lannuaire.service-public.fr/grand-est/marne/draf-51108-01",
+    "metadata": {
+      "email": "draaf-grand-est@agriculture.gouv.fr",
+      "telephone": "03 26 66 20 20",
+      "url": "http://www.draaf.grand-est.agriculture.gouv.fr"
+    }
+  },
+  {
+    "id": "16c19df71cd1425cd50cd142ce677cfb98207907",
+    "alternateName": "DRAAF",
+    "name": "direction_regionale_de_lalimentation_de_lagriculture_et_de_la_foret_draaf_grand_est_site_de_metz",
+    "title": "Direction régionale de l'alimentation, de l'agriculture et de la forêt (DRAAF) - Grand Est - Site de Metz",
+    "url": "https://lannuaire.service-public.fr/grand-est/moselle/draf-57463-01",
+    "metadata": {
+      "email": "draaf-grand-est@agriculture.gouv.fr",
+      "telephone": "03 55 74 11 00",
+      "url": "http://www.draaf.grand-est.agriculture.gouv.fr"
+    }
+  },
+  {
+    "id": "f64c29cf74d80547c052f18be4a470432c2fb50a",
+    "alternateName": "DRAAF",
+    "name": "direction_regionale_de_lalimentation_de_lagriculture_et_de_la_foret_draaf_grand_est_site_de_strasbourg",
+    "title": "Direction régionale de l'alimentation, de l'agriculture et de la forêt (DRAAF) - Grand Est - Site de Strasbourg",
+    "url": "https://lannuaire.service-public.fr/grand-est/bas-rhin/draf-67482-01",
+    "metadata": {
+      "email": "draaf-grand-est@agriculture.gouv.fr",
+      "telephone": "03 69 32 52 00",
+      "url": "http://www.draaf.grand-est.agriculture.gouv.fr"
+    }
+  },
+  {
+    "id": "d9f63eb11fff5a23aa20f610bd41d3c440dcf306",
+    "alternateName": "DRAAF",
+    "name": "direction_regionale_de_lalimentation_de_lagriculture_et_de_la_foret_draaf_hauts_de_france_siege_d_amiens",
+    "title": "Direction régionale de l'alimentation, de l'agriculture et de la forêt (DRAAF) - Hauts-de-France - Siège d'Amiens",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/somme/draf-80021-01",
+    "metadata": {
+      "email": "draaf-hauts-de-france@agriculture.gouv.fr",
+      "telephone": "03 22 33 55 55",
+      "url": "http://draaf.hauts-de-france.agriculture.gouv.fr"
+    }
+  },
+  {
+    "id": "7abe1144bd20d0732f9db16ac802249b73499af0",
+    "alternateName": "DRAAF",
+    "name": "direction_regionale_de_lalimentation_de_lagriculture_et_de_la_foret_draaf_hauts_de_france_site_de_lille",
+    "title": "Direction régionale de l'alimentation, de l'agriculture et de la forêt (DRAAF) - Hauts-de-France - Site de Lille",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/nord/draf-59350-01",
+    "metadata": {
+      "email": "draaf-hauts-de-france@agriculture.gouv.fr",
+      "telephone": "03 62 28 40 40",
+      "url": "http://draaf.hauts-de-france.agriculture.gouv.fr"
+    }
+  },
+  {
+    "id": "6000a44853aff6cce3b5bc9f5980ddbe3f56b0e9",
+    "alternateName": "DRAAF",
+    "name": "direction_regionale_de_lalimentation_de_lagriculture_et_de_la_foret_draaf_normandie_siege_de_caen",
+    "title": "Direction régionale de l'alimentation, de l'agriculture et de la forêt (DRAAF) - Normandie - Siège de Caen",
+    "url": "https://lannuaire.service-public.fr/normandie/calvados/draf-14118-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 31 24 98 60",
+      "url": "http://draaf.normandie.agriculture.gouv.fr"
+    }
+  },
+  {
+    "id": "65b01c76bd6f6bf8f75d2c24e1a0fecf47c0f1f0",
+    "alternateName": "DRAAF",
+    "name": "direction_regionale_de_lalimentation_de_lagriculture_et_de_la_foret_draaf_normandie_site_de_rouen",
+    "title": "Direction régionale de l'alimentation, de l'agriculture et de la forêt (DRAAF) - Normandie - Site de Rouen",
+    "url": "https://lannuaire.service-public.fr/normandie/seine-maritime/draf-76540-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 35 58 53 27",
+      "url": "http://draaf.normandie.agriculture.gouv.fr"
+    }
+  },
+  {
+    "id": "43b4c0ec268ca4cdfc2e4895bbbe1f3bfc57369b",
+    "alternateName": "DRAAF",
+    "name": "direction_regionale_de_lalimentation_de_lagriculture_et_de_la_foret_draaf_nouvelle_aquitaine_siege_de_limoges",
+    "title": "Direction régionale de l'alimentation, de l'agriculture et de la forêt (DRAAF) - Nouvelle-Aquitaine - Siège de Limoges",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/haute-vienne/draf-87085-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 55 12 92 00",
+      "url": "http://draaf.nouvelle-aquitaine.agriculture.gouv.fr"
+    }
+  },
+  {
+    "id": "d4f8816783811a3a2dcabe8bc27cdce9fe9d5661",
+    "alternateName": "DRAAF",
+    "name": "direction_regionale_de_lalimentation_de_lagriculture_et_de_la_foret_draaf_nouvelle_aquitaine_site_de_bordeaux",
+    "title": "Direction régionale de l'alimentation, de l'agriculture et de la forêt (DRAAF) - Nouvelle-Aquitaine - Site de Bordeaux",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/gironde/draf-33063-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 56 00 42 00",
+      "url": "http://draaf.nouvelle-aquitaine.agriculture.gouv.fr"
+    }
+  },
+  {
+    "id": "7ef4dd75aa74114cca64578485b5eda869612959",
+    "alternateName": "DRAAF",
+    "name": "direction_regionale_de_lalimentation_de_lagriculture_et_de_la_foret_draaf_nouvelle_aquitaine_site_de_poitiers",
+    "title": "Direction régionale de l'alimentation, de l'agriculture et de la forêt (DRAAF) - Nouvelle-Aquitaine - Site de Poitiers",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/vienne/draf-86194-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 49 03 11 00",
+      "url": "http://draaf.nouvelle-aquitaine.agriculture.gouv.fr"
+    }
+  },
+  {
+    "id": "33212f2615c01146ef8a3d7ebf7d348a5a365515",
+    "alternateName": "DRAAF",
+    "name": "direction_regionale_de_lalimentation_de_lagriculture_et_de_la_foret_draaf_occitanie_siege_de_toulouse",
+    "title": "Direction régionale de l'alimentation, de l'agriculture et de la forêt (DRAAF) - Occitanie - Siège de Toulouse",
+    "url": "https://lannuaire.service-public.fr/occitanie/haute-garonne/draf-31555-01",
+    "metadata": {
+      "email": "draaf-occitanie@agriculture.gouv.fr",
+      "telephone": "05 61 10 61 10",
+      "url": "http://draaf.occitanie.agriculture.gouv.fr"
+    }
+  },
+  {
+    "id": "81c660f1ebcad2104621786173d857f279f507ca",
+    "alternateName": "DRAAF",
+    "name": "direction_regionale_de_lalimentation_de_lagriculture_et_de_la_foret_draaf_occitanie_site_de_montpellier",
+    "title": "Direction régionale de l'alimentation, de l'agriculture et de la forêt (DRAAF) - Occitanie - Site de Montpellier",
+    "url": "https://lannuaire.service-public.fr/occitanie/herault/draf-34172-01",
+    "metadata": {
+      "email": "draaf-occitanie@agriculture.gouv.fr",
+      "telephone": "04 67 10 19 00",
+      "url": "http://draaf.occitanie.agriculture.gouv.fr"
+    }
+  },
+  {
+    "id": "67011d9ee471ab10d814a3d3cb072bf267aea06c",
+    "alternateName": "DRAAF",
+    "name": "direction_regionale_de_lalimentation_de_lagriculture_et_de_la_foret_draaf_pays_de_la_loire",
+    "title": "Direction régionale de l'alimentation, de l'agriculture et de la forêt (DRAAF) - Pays de la Loire",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/loire-atlantique/draf-44109-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 72 74 70 00",
+      "url": "http://www.draaf.pays-de-la-loire.agriculture.gouv.fr"
+    }
+  },
+  {
+    "id": "309e353f583b61aa27111aabb22d2740611689a0",
+    "alternateName": "DRAAF",
+    "name": "direction_regionale_de_lalimentation_de_lagriculture_et_de_la_foret_draaf_provence_alpes_cote_d_azur",
+    "title": "Direction régionale de l'alimentation, de l'agriculture et de la forêt (DRAAF) - Provence-Alpes-Côte d'Azur",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/draf-13203-01",
+    "metadata": {
+      "email": "draaf-paca@agriculture.gouv.fr",
+      "telephone": "04 13 59 36 00",
+      "url": "http://draaf.paca.agriculture.gouv.fr"
+    }
+  },
+  {
+    "id": "309e353f583b61aa27111aabb22d2740611689a0",
+    "alternateName": "DRAAF",
+    "name": "direction_regionale_de_lalimentation_de_lagriculture_et_de_la_foret_draaf_provence_alpes_cote_d_azur",
+    "title": "Direction régionale de l'alimentation, de l'agriculture et de la forêt (DRAAF) - Provence-Alpes-Côte d'Azur",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/draf-13208-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 13 59 36 00",
+      "url": "http://www.draaf.paca.agriculture.gouv.fr"
+    }
+  },
+  {
+    "id": "271f20be734817416861cb059082fbf591852ca8",
+    "alternateName": "DAFE",
+    "name": "direction_du_service_d_etat_de_lagriculture_de_la_foret_et_de_lenvironnement_dafe_nouvelle_caledonie",
+    "title": "Direction du service d'État de l'agriculture, de la forêt et de l'environnement (DAFE) - Nouvelle-Calédonie",
+    "url": "https://lannuaire.service-public.fr/collectivites-d-outre-mer/nouvelle-caledonie/draf-98818-01",
+    "metadata": {
+      "email": "direction@dafe.nc",
+      "telephone": "+687 23 24 30",
+      "url": "http://www.nouvelle-caledonie.gouv.fr"
+    }
+  },
+  {
+    "id": "86d3431352b8e0dd03195bf819ed8f6627c195df",
+    "name": "service_de_lagriculture_de_la_foret_et_de_la_peche_wallis_et_futuna",
+    "title": "Service de l'agriculture, de la forêt et de la pêche - Wallis-et-Futuna",
+    "url": "https://lannuaire.service-public.fr/collectivites-d-outre-mer/wallis-et-futuna/draf-98613-01",
+    "metadata": {
+      "email": "ecoru@mail.wf",
+      "telephone": "+681 72 04 00",
+      "url": ""
+    }
+  }
+]

@@ -1,0 +1,386 @@
+[
+  {
+    "id": "eedc15d5c789b3031521728f9196e0c888d0d0ca",
+    "alternateName": "OFII",
+    "name": "office_francais_de_limmigration_et_de_lintegration_ofii_direction_territoriale_d_amiens_dep_02_60_80",
+    "title": "Office français de l'immigration et de l'intégration (OFII) - Direction territoriale d'Amiens (dép. 02, 60, 80)",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/somme/ofii-80021-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 22 91 28 39",
+      "url": "http://www.ofii.fr"
+    }
+  },
+  {
+    "id": "9aa9f09eb686b5662f1b155978a9737f973666e5",
+    "alternateName": "OFII",
+    "name": "office_francais_de_limmigration_et_de_lintegration_ofii_direction_territoriale_de_besancon_dep_25_70_39_90",
+    "title": "Office français de l'immigration et de l'intégration (OFII) - Direction territoriale de Besançon (dép. 25, 70, 39, 90)",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/doubs/ofii-25056-01",
+    "metadata": {
+      "email": "besancon@ofii.fr",
+      "telephone": "03 81 25 14 50",
+      "url": "http://www.ofii.fr"
+    }
+  },
+  {
+    "id": "56d302d4afaa64ec3a767feeba07c5a19c1eaebe",
+    "alternateName": "OFII",
+    "name": "office_francais_de_limmigration_et_de_lintegration_ofii_direction_territoriale_de_bobigny_dep_93",
+    "title": "Office français de l'immigration et de l'intégration (OFII) - Direction territoriale de Bobigny (dép. 93)",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/seine-saint-denis/ofii-93008-01",
+    "metadata": {
+      "email": "seine-saint-denis@ofii.fr",
+      "telephone": "01 49 72 54 00",
+      "url": "http://www.ofii.fr"
+    }
+  },
+  {
+    "id": "51d0060b7e24b2afe822c1861d005131fc35a8bc",
+    "alternateName": "OFII",
+    "name": "office_francais_de_limmigration_et_de_lintegration_ofii_direction_territoriale_de_bordeaux_dep_24_33_40_47_64",
+    "title": "Office français de l'immigration et de l'intégration (OFII) - Direction territoriale de Bordeaux (dép. 24, 33, 40, 47, 64)",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/gironde/ofii-33063-01",
+    "metadata": {
+      "email": "bordeaux@ofii.fr",
+      "telephone": "05 57 14 23 00",
+      "url": "http://www.ofii.fr"
+    }
+  },
+  {
+    "id": "8ffe4548794d3571de239e57806c569dbfef598c",
+    "alternateName": "OFII",
+    "name": "office_francais_de_limmigration_et_de_lintegration_ofii_direction_territoriale_de_caen_dep_14_50_60",
+    "title": "Office français de l'immigration et de l'intégration (OFII) - Direction territoriale de Caen (dép. 14, 50, 60)",
+    "url": "https://lannuaire.service-public.fr/normandie/calvados/ofii-14118-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 31 86 57 98",
+      "url": "http://www.ofii.fr"
+    }
+  },
+  {
+    "id": "2fafd5a454ffa80ffa7b7cf2bb6458317eb15b38",
+    "alternateName": "OFII",
+    "name": "office_francais_de_limmigration_et_de_lintegration_ofii_direction_territoriale_de_cayenne_dep_973",
+    "title": "Office français de l'immigration et de l'intégration (OFII) - Direction territoriale de Cayenne (dép. 973)",
+    "url": "https://lannuaire.service-public.fr/guyane/guyane/ofii-97302-01",
+    "metadata": {
+      "email": "cayenne@ofii.fr",
+      "telephone": "+594 5 94 37 87 00",
+      "url": "http://www.ofii.fr"
+    }
+  },
+  {
+    "id": "8051d27c092edb46b39c42f1e1a0a1d64eaf278e",
+    "alternateName": "OFII",
+    "name": "office_francais_de_limmigration_et_de_lintegration_ofii_direction_territoriale_de_cergy_dep_95",
+    "title": "Office français de l'immigration et de l'intégration (OFII) - Direction territoriale de Cergy (dép. 95)",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/val-d-oise/ofii-95127-01",
+    "metadata": {
+      "email": "",
+      "telephone": "",
+      "url": "http://www.ofii.fr"
+    }
+  },
+  {
+    "id": "bf1ca95a8b60332f30902cd24b6e74c07a9204c5",
+    "alternateName": "OFII",
+    "name": "office_francais_de_limmigration_et_de_lintegration_ofii_direction_territoriale_de_clermont_ferrand_dep_03_15_63_43",
+    "title": "Office français de l'immigration et de l'intégration (OFII) - Direction territoriale de Clermont-Ferrand (dép. 03, 15, 63, 43)",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/puy-de-dome/ofii-63113-01",
+    "metadata": {
+      "email": "clermont-ferrand@ofii.fr",
+      "telephone": "04 73 98 61 34",
+      "url": "http://www.ofii.fr"
+    }
+  },
+  {
+    "id": "81f205763d65d8e0bcbac1392639021754db5c4b",
+    "alternateName": "OFII",
+    "name": "office_francais_de_limmigration_et_de_lintegration_ofii_direction_territoriale_de_creteil_dep_91_94",
+    "title": "Office français de l'immigration et de l'intégration (OFII) - Direction territoriale de Créteil (dép. 91, 94)",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/val-de-marne/ofii-94028-01",
+    "metadata": {
+      "email": "",
+      "telephone": "01 41 94 69 30",
+      "url": "http://www.ofii.fr"
+    }
+  },
+  {
+    "id": "40de73942db7a9984acaa75c46aaf4564a69354f",
+    "alternateName": "OFII",
+    "name": "office_francais_de_limmigration_et_de_lintegration_ofii_direction_territoriale_de_dijon_dep_21_58_71_89",
+    "title": "Office français de l'immigration et de l'intégration (OFII) - Direction territoriale de Dijon (dép. 21, 58, 71, 89)",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/cote-d-or/ofii-21231-01",
+    "metadata": {
+      "email": "dijon@ofii.fr",
+      "telephone": "03 80 30 32 30",
+      "url": "http://www.ofii.fr"
+    }
+  },
+  {
+    "id": "11070f185df743f9db63fa445096f99d2a68f33d",
+    "alternateName": "OFII",
+    "name": "office_francais_de_limmigration_et_de_lintegration_ofii_direction_territoriale_de_grenoble_dep_74_38_73",
+    "title": "Office français de l'immigration et de l'intégration (OFII) - Direction territoriale de Grenoble (dép. 74, 38, 73)",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/isere/ofii-38185-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 76 40 95 45",
+      "url": "http://www.ofii.fr"
+    }
+  },
+  {
+    "id": "647cfdc210c97aca24c194d8e2427b3670b83155",
+    "alternateName": "OFII",
+    "name": "office_francais_de_limmigration_et_de_lintegration_ofii_direction_territoriale_de_lille_dep_59_62",
+    "title": "Office français de l'immigration et de l'intégration (OFII) - Direction territoriale de Lille (dép. 59, 62)",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/nord/ofii-59350-01",
+    "metadata": {
+      "email": "lille@ofii.fr",
+      "telephone": "03 20 99 98 60",
+      "url": "http://www.ofii.fr"
+    }
+  },
+  {
+    "id": "19f09b86471e00fc16734320c4718efe4fa37d34",
+    "alternateName": "OFII",
+    "name": "office_francais_de_limmigration_et_de_lintegration_ofii_direction_territoriale_de_limoges_dep_23_19_87",
+    "title": "Office français de l'immigration et de l'intégration (OFII) - Direction territoriale de Limoges (dép. 23, 19, 87)",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/haute-vienne/ofii-87085-01",
+    "metadata": {
+      "email": "limoges@ofii.fr",
+      "telephone": "05 55 11 01 10",
+      "url": "http://www.ofii.fr"
+    }
+  },
+  {
+    "id": "599f1b3842dfef402c1ccdfe2d844b9cfd18a6c8",
+    "alternateName": "OFII",
+    "name": "office_francais_de_limmigration_et_de_lintegration_ofii_direction_territoriale_de_lyon_dep_01_07_26_42_69",
+    "title": "Office français de l'immigration et de l'intégration (OFII) - Direction territoriale de Lyon (dép. 01, 07, 26, 42, 69)",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/rhone/ofii-69382-01",
+    "metadata": {
+      "email": "lyon@ofii.fr",
+      "telephone": "04 72 77 15 40",
+      "url": "http://www.ofii.fr"
+    }
+  },
+  {
+    "id": "48d807e41facd07846aabedf7feba912d5972a90",
+    "alternateName": "OFII",
+    "name": "office_francais_de_limmigration_et_de_lintegration_ofii_direction_territoriale_de_marseille_dep_13_20_04_05_83_84",
+    "title": "Office français de l'immigration et de l'intégration (OFII) - Direction territoriale de Marseille (dép. 13, 20, 04, 05, 83, 84)",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/ofii-13208-01",
+    "metadata": {
+      "email": "marseille@ofii.fr",
+      "telephone": "04 91 32 53 60",
+      "url": "http://www.ofii.fr"
+    }
+  },
+  {
+    "id": "1940e74148e157a1985440df944e2914b6dd8184",
+    "alternateName": "OFII",
+    "name": "office_francais_de_limmigration_et_de_lintegration_ofii_direction_territoriale_de_mayotte_antenne_dep_976",
+    "title": "Office français de l'immigration et de l'intégration (OFII) - Direction territoriale de Mayotte antenne (dép. 976)",
+    "url": "https://lannuaire.service-public.fr/mayotte/mayotte/ofii-97611-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 069 62 23 54",
+      "url": "http://www.ofii.fr"
+    }
+  },
+  {
+    "id": "45cdd70328435b6a5f6418bccd9b45d768c4f6b7",
+    "alternateName": "OFII",
+    "name": "office_francais_de_limmigration_et_de_lintegration_ofii_direction_territoriale_de_melun_dep_77",
+    "title": "Office français de l'immigration et de l'intégration (OFII) - Direction territoriale de Melun (dép. 77)",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/seine-et-marne/ofii-77288-01",
+    "metadata": {
+      "email": "",
+      "telephone": "01 78 49 20 00",
+      "url": "http://www.ofii.fr"
+    }
+  },
+  {
+    "id": "686066b22d7e370f24ebaa9b445829a8b04b85eb",
+    "alternateName": "OFII",
+    "name": "office_francais_de_limmigration_et_de_lintegration_ofii_direction_territoriale_de_metz_dep_54_55_57_88",
+    "title": "Office français de l'immigration et de l'intégration (OFII) - Direction territoriale de Metz (dép. 54, 55, 57, 88)",
+    "url": "https://lannuaire.service-public.fr/grand-est/moselle/ofii-57463-01",
+    "metadata": {
+      "email": "metz@ofii.fr",
+      "telephone": "03 87 66 64 98",
+      "url": "http://www.ofii.fr"
+    }
+  },
+  {
+    "id": "5371fc6f42bbb6512f695c93279a937fff57ecac",
+    "alternateName": "OFII",
+    "name": "office_francais_de_limmigration_et_de_lintegration_ofii_direction_territoriale_de_montpellier_dep_30_34_48_66",
+    "title": "Office français de l'immigration et de l'intégration (OFII) - Direction territoriale de Montpellier (dép. 30, 34, 48, 66)",
+    "url": "https://lannuaire.service-public.fr/occitanie/herault/ofii-34172-01",
+    "metadata": {
+      "email": "montpellier@ofii.fr",
+      "telephone": "04 99 77 25 50",
+      "url": "http://www.ofii.fr"
+    }
+  },
+  {
+    "id": "3cb563efeeed3d607a84b6b5a6ec8544f7390721",
+    "alternateName": "OFII",
+    "name": "office_francais_de_limmigration_et_de_lintegration_ofii_direction_territoriale_de_montrouge_dep_92_78",
+    "title": "Office français de l'immigration et de l'intégration (OFII) - Direction territoriale de Montrouge (dép. 92, 78)",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/hauts-de-seine/ofii-92049-01",
+    "metadata": {
+      "email": "montrouge@ofii.fr",
+      "telephone": "01 41 17 73 00",
+      "url": "http://www.ofii.fr"
+    }
+  },
+  {
+    "id": "a75a432c2c219b270243d4194ccda16d3bb44f69",
+    "alternateName": "OFII",
+    "name": "office_francais_de_limmigration_et_de_lintegration_ofii_direction_territoriale_de_nantes_dep_44_53_49_72_85",
+    "title": "Office français de l'immigration et de l'intégration (OFII) - Direction territoriale de Nantes (dép. 44, 53, 49, 72, 85)",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/loire-atlantique/ofii-44109-01",
+    "metadata": {
+      "email": "nantes@ofii.fr",
+      "telephone": "02 51 72 79 39",
+      "url": "http://www.ofii.fr"
+    }
+  },
+  {
+    "id": "450f8d06e642bca0261766ccfcac5365fe44fec2",
+    "alternateName": "OFII",
+    "name": "office_francais_de_limmigration_et_de_lintegration_ofii_direction_territoriale_de_nice_dep_06",
+    "title": "Office français de l'immigration et de l'intégration (OFII) - Direction territoriale de Nice (dép. 06)",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/alpes-maritimes/ofii-06088-01",
+    "metadata": {
+      "email": "nice@ofii.fr",
+      "telephone": "04 92 29 49 00",
+      "url": "http://www.ofii.fr"
+    }
+  },
+  {
+    "id": "5287d6f2a7b946e3e798827d1b9f7f608d72cc94",
+    "alternateName": "OFII",
+    "name": "office_francais_de_limmigration_et_de_lintegration_ofii_direction_territoriale_d_orleans_dep_18_28_36_37_45_41",
+    "title": "Office français de l'immigration et de l'intégration (OFII) - Direction territoriale d'Orléans (dép. 18, 28, 36, 37, 45, 41)",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/loiret/ofii-45234-01",
+    "metadata": {
+      "email": "orleans@ofii.fr",
+      "telephone": "02 38 52 00 34",
+      "url": "http://www.ofii.fr"
+    }
+  },
+  {
+    "id": "84c0e039a1f16cf5430728a4ce4ebad032aca4c5",
+    "alternateName": "OFII",
+    "name": "office_francais_de_limmigration_et_de_lintegration_ofii_direction_territoriale_de_paris_dep_75",
+    "title": "Office français de l'immigration et de l'intégration (OFII) - Direction territoriale de Paris (dép. 75)",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/paris/ofii-75056-01",
+    "metadata": {
+      "email": "paris@ofii.fr",
+      "telephone": "01 86 55 15 55",
+      "url": "http://www.ofii.fr"
+    }
+  },
+  {
+    "id": "28d1067380519422a367b87c79018e0192bd61d3",
+    "alternateName": "OFII",
+    "name": "office_francais_de_limmigration_et_de_lintegration_ofii_direction_territoriale_de_pointe_a_pitre_dep_971_972",
+    "title": "Office français de l'immigration et de l'intégration (OFII) - Direction territoriale de Pointe-à-Pitre (dép. 971, 972)",
+    "url": "https://lannuaire.service-public.fr/guadeloupe/guadeloupe/ofii-97120-01",
+    "metadata": {
+      "email": "guadeloupe@ofii.fr",
+      "telephone": "05 90 90 01 83",
+      "url": "http://www.ofii.fr"
+    }
+  },
+  {
+    "id": "a894e5a3b2edf1a9a456afc19e10740341693e48",
+    "alternateName": "OFII",
+    "name": "office_francais_de_limmigration_et_de_lintegration_ofii_direction_territoriale_de_poitiers_dep_16_17_79_86",
+    "title": "Office français de l'immigration et de l'intégration (OFII) - Direction territoriale de Poitiers (dép. 16, 17, 79, 86)",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/vienne/ofii-86194-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 49 62 65 70",
+      "url": "http://www.ofii.fr"
+    }
+  },
+  {
+    "id": "62b101cd99aabc349bf2e5e008f965640f97e2e5",
+    "alternateName": "OFII",
+    "name": "office_francais_de_limmigration_et_de_lintegration_ofii_direction_territoriale_de_reims_dep_08_10_51_52",
+    "title": "Office français de l'immigration et de l'intégration (OFII) - Direction territoriale de Reims (dép. 08, 10, 51, 52)",
+    "url": "https://lannuaire.service-public.fr/grand-est/marne/ofii-51454-01",
+    "metadata": {
+      "email": "reims@ofii.fr",
+      "telephone": "03 26 36 97 29",
+      "url": "http://www.ofii.fr"
+    }
+  },
+  {
+    "id": "967223a645992d5796a8a5ab787359fd1096e945",
+    "alternateName": "OFII",
+    "name": "office_francais_de_limmigration_et_de_lintegration_ofii_direction_territoriale_de_rennes_dep_22_29_35_36",
+    "title": "Office français de l'immigration et de l'intégration (OFII) - Direction territoriale de Rennes (dép. 22, 29, 35, 36)",
+    "url": "https://lannuaire.service-public.fr/bretagne/ille-et-vilaine/ofii-35238-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 99 22 98 60",
+      "url": "http://www.ofii.fr"
+    }
+  },
+  {
+    "id": "dc3bacc5585ff28197f407bba9dd6915b05ee10d",
+    "alternateName": "OFII",
+    "name": "office_francais_de_limmigration_et_de_lintegration_ofii_direction_territoriale_de_rouen_dep_27_76",
+    "title": "Office français de l'immigration et de l'intégration (OFII) - Direction territoriale de Rouen (dép. 27, 76)",
+    "url": "https://lannuaire.service-public.fr/normandie/seine-maritime/ofii-76540-01",
+    "metadata": {
+      "email": "rouen@ofii.fr",
+      "telephone": "02 32 18 09 94",
+      "url": "http://www.ofii.fr"
+    }
+  },
+  {
+    "id": "36bfcffddccafc8e0066a1f95d92d121e3cb3983",
+    "alternateName": "OFII",
+    "name": "office_francais_de_limmigration_et_de_lintegration_ofii_direction_territoriale_de_saint_denis_de_la_reunion_dep_974",
+    "title": "Office français de l'immigration et de l'intégration (OFII) - Direction territoriale de Saint-Denis de la Réunion (dép. 974)",
+    "url": "https://lannuaire.service-public.fr/la-reunion/reunion/ofii-97411-01",
+    "metadata": {
+      "email": "ofii-reunion@ofii.fr",
+      "telephone": "02 62 40 75 69",
+      "url": "http://www.ofii.fr"
+    }
+  },
+  {
+    "id": "18201d5ad0b1408e8fadc2e089a3c32dcf9c0ef7",
+    "alternateName": "OFII",
+    "name": "office_francais_de_limmigration_et_de_lintegration_ofii_direction_territoriale_de_strasbourg_dep_67_68",
+    "title": "Office français de l'immigration et de l'intégration (OFII) - Direction territoriale de Strasbourg (dép. 67, 68)",
+    "url": "https://lannuaire.service-public.fr/grand-est/bas-rhin/ofii-67482-01",
+    "metadata": {
+      "email": "strasbourg@ofii.fr",
+      "telephone": "03 88 23 30 20",
+      "url": "http://www.ofii.fr"
+    }
+  },
+  {
+    "id": "e59c52d11de4d54e5af337e9c481e416f38cff57",
+    "alternateName": "OFII",
+    "name": "office_francais_de_limmigration_et_de_lintegration_ofii_direction_territoriale_de_toulouse_dep_09_12_19_23_32_31_65_87_46_81",
+    "title": "Office français de l'immigration et de l'intégration (OFII) - Direction territoriale de Toulouse (dép. 09, 12, 19, 23, 32, 31, 65, 87, 46, 81)",
+    "url": "https://lannuaire.service-public.fr/occitanie/haute-garonne/ofii-31555-01",
+    "metadata": {
+      "email": "toulouse@ofii.fr",
+      "telephone": "05 34 41 72 20",
+      "url": "http://www.ofii.fr"
+    }
+  }
+]

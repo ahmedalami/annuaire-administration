@@ -1,0 +1,240 @@
+[
+  {
+    "id": "04a6f9fc5030b908752fdf980711d538b2bc5e92",
+    "alternateName": "DAC",
+    "name": "direction_des_affaires_culturelles_dac_guadeloupe",
+    "title": "Direction des affaires culturelles (DAC) - Guadeloupe",
+    "url": "https://lannuaire.service-public.fr/guadeloupe/guadeloupe/drac-97105-01",
+    "metadata": {
+      "email": "",
+      "telephone": "+590 590 41 14 80",
+      "url": "http://www.culturecommunication.gouv.fr/regions/dac-guadeloupe"
+    }
+  },
+  {
+    "id": "186e2f532f90ef0def9c41b2b2ad30d46b950bea",
+    "alternateName": "DAC",
+    "name": "direction_des_affaires_culturelles_dac_guyane",
+    "title": "Direction des affaires culturelles (DAC) - Guyane",
+    "url": "https://lannuaire.service-public.fr/guyane/guyane/drac-97302-01",
+    "metadata": {
+      "email": "guyane@culture.gouv.fr",
+      "telephone": "+594 5 94 25 54 00",
+      "url": "http://www.culture.gouv.fr/Regions/Dac-Guyane"
+    }
+  },
+  {
+    "id": "6ff5c62d801f27b3ec8adc974d8594c6cce55d99",
+    "alternateName": "DAC",
+    "name": "direction_des_affaires_culturelles_dac_martinique",
+    "title": "Direction des affaires culturelles (DAC) - Martinique",
+    "url": "https://lannuaire.service-public.fr/martinique/martinique/drac-97209-01",
+    "metadata": {
+      "email": "secretaire.martinique@culture.gouv.fr",
+      "telephone": "+596 5 96 60 05 36",
+      "url": "http://www.culturecommunication.gouv.frfr/regionsfr/dac-martinique"
+    }
+  },
+  {
+    "id": "2d38f689b7c4fb693c63620d8debec5bf2f202a2",
+    "alternateName": "DAC",
+    "name": "direction_des_affaires_culturelles_dac_mayotte",
+    "title": "Direction des affaires culturelles (DAC) - Mayotte",
+    "url": "https://lannuaire.service-public.fr/mayotte/mayotte/drac-97611-01",
+    "metadata": {
+      "email": "dac-mayotte@culture.gouv.fr",
+      "telephone": "+262 2 69 63 00 48",
+      "url": "http://www.culture.gouv.fr/Regions/Dac-Mayotte"
+    }
+  },
+  {
+    "id": "3eb35b8824496ec12b8dbcf00604c99bda9a8196",
+    "alternateName": "DAC",
+    "name": "direction_des_affaires_culturelles_dac_ocean_indien_la_reunion",
+    "title": "Direction des affaires culturelles (DAC) - Océan indien - La Réunion",
+    "url": "https://lannuaire.service-public.fr/la-reunion/reunion/drac-97411-01",
+    "metadata": {
+      "email": "la-reunion@culture.gouv.fr",
+      "telephone": "+262 2 62 21 91 71",
+      "url": "http://www.culture.gouv.fr/Regions/Dac-de-La-Reunion"
+    }
+  },
+  {
+    "id": "0156b7165c4f7ee9f5b8f77a3c4f5744b84ef142",
+    "alternateName": "DRAC",
+    "name": "direction_regionale_des_affaires_culturelles_drac_auvergne_rhone_alpes",
+    "title": "Direction régionale des affaires culturelles (DRAC) - Auvergne-Rhône-Alpes",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/rhone/drac-69381-01",
+    "metadata": {
+      "email": "http://www.culture.gouv.fr/Regions/Drac-Auvergne-Rhone-Alpes/Nous-contacter",
+      "telephone": "04 72 00 44 00",
+      "url": "http://www.culturecommunication.gouv.fr/Regions/Drac-Auvergne-Rhone-Alpes"
+    }
+  },
+  {
+    "id": "adc772874a219647d646b5870c1509a89cd8cd4f",
+    "alternateName": "DRAC",
+    "name": "direction_regionale_des_affaires_culturelles_drac_bourgogne_franche_comte",
+    "title": "Direction régionale des affaires culturelles (DRAC) - Bourgogne-Franche-Comté",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/cote-d-or/drac-21231-01",
+    "metadata": {
+      "email": "http://www.culturecommunication.gouv.fr/Regions/Drac-Bourgogne-Franche-Comte/Nous-contacter",
+      "telephone": "03 80 68 50 50",
+      "url": "http://www.culturecommunication.gouv.fr/Regions/Drac-Bourgogne-Franche-Comte"
+    }
+  },
+  {
+    "id": "527cbe4cf36c47049f3e8821b6e1ea75aa53a32c",
+    "alternateName": "DRAC",
+    "name": "direction_regionale_des_affaires_culturelles_drac_bretagne",
+    "title": "Direction régionale des affaires culturelles (DRAC) - Bretagne",
+    "url": "https://lannuaire.service-public.fr/bretagne/ille-et-vilaine/drac-35238-01",
+    "metadata": {
+      "email": "cid.bretagne@culture.gouv.fr",
+      "telephone": "02 99 29 67 67",
+      "url": "http://www.culture.gouv.fr/Regions/Drac-Bretagne"
+    }
+  },
+  {
+    "id": "f734abf09d0a9722659da1a049eca2548bf3dd35",
+    "alternateName": "DRAC",
+    "name": "direction_regionale_des_affaires_culturelles_drac_centre_val_de_loire",
+    "title": "Direction régionale des affaires culturelles (DRAC) - Centre-Val de Loire",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/loiret/drac-45234-01",
+    "metadata": {
+      "email": "secretariat-direction.centre@culture.gouv.fr",
+      "telephone": "02 38 78 85 00",
+      "url": "http://www.culturecommunication.gouv.fr/Regions/Drac-Centre-Val-de-Loire"
+    }
+  },
+  {
+    "id": "ff696cfccaecfdf2139b71e5ba81f8698e00c9cd",
+    "alternateName": "DRAC",
+    "name": "direction_regionale_des_affaires_culturelles_drac_corse",
+    "title": "Direction régionale des affaires culturelles (DRAC) - Corse",
+    "url": "https://lannuaire.service-public.fr/corse/corse-du-sud/drac-2A004-01",
+    "metadata": {
+      "email": "corse@culture.gouv.fr",
+      "telephone": "04 95 51 52 15",
+      "url": "http://www.culture.gouv.fr/Regions/Drac-Corse"
+    }
+  },
+  {
+    "id": "b0fdc1fb33230661baf2f4e6c0e8900d405564a7",
+    "alternateName": "DRAC",
+    "name": "direction_regionale_des_affaires_culturelles_drac_grand_est",
+    "title": "Direction régionale des affaires culturelles (DRAC) - Grand Est",
+    "url": "https://lannuaire.service-public.fr/grand-est/bas-rhin/drac-67482-01",
+    "metadata": {
+      "email": "http://www.culture.gouv.fr/Regions/Drac-Grand-Est/Nous-contacter",
+      "telephone": "03 88 15 57 00",
+      "url": "http://www.culturecommunication.gouv.fr/Regions/Drac-Grand-Est"
+    }
+  },
+  {
+    "id": "2abd082bd1f225725791dffa412dc95fc60e4443",
+    "alternateName": "DRAC",
+    "name": "direction_regionale_des_affaires_culturelles_drac_hauts_de_france",
+    "title": "Direction régionale des affaires culturelles (DRAC) - Hauts-de-France",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/nord/drac-59350-01",
+    "metadata": {
+      "email": "contact.drac.nord-pas-de-calais-picardie@culture.gouv.fr",
+      "telephone": "03 20 06 87 58",
+      "url": "http://www.culturecommunication.gouv.fr/Regions/Drac-Hauts-de-France"
+    }
+  },
+  {
+    "id": "5831f4fa04eb956b608f6f8cecc0e7ad77fa1a4b",
+    "alternateName": "DRAC",
+    "name": "direction_regionale_des_affaires_culturelles_drac_ile_de_france",
+    "title": "Direction régionale des affaires culturelles (DRAC) - Île-de-France",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/paris/drac-75109-01",
+    "metadata": {
+      "email": "",
+      "telephone": "01 56 06 50 00",
+      "url": "http://www.culture.gouv.fr/Regions/Drac-Ile-de-France"
+    }
+  },
+  {
+    "id": "83e088476fc4b89185b3cf39711d30b1cec88c75",
+    "alternateName": "DRAC",
+    "name": "direction_regionale_des_affaires_culturelles_drac_normandie",
+    "title": "Direction régionale des affaires culturelles (DRAC) - Normandie",
+    "url": "https://lannuaire.service-public.fr/normandie/calvados/drac-14118-01",
+    "metadata": {
+      "email": "drac.normandie@culture.gouv.fr",
+      "telephone": "02 31 38 39 40",
+      "url": "http://www.culturecommunication.gouv.frfr/Regionsfr/Drac-Normandie"
+    }
+  },
+  {
+    "id": "30226667e8cf186856841896dba4ef8d6fc74271",
+    "alternateName": "DRAC",
+    "name": "direction_regionale_des_affaires_culturelles_drac_nouvelle_aquitaine",
+    "title": "Direction régionale des affaires culturelles (DRAC) - Nouvelle-Aquitaine",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/gironde/drac-33063-01",
+    "metadata": {
+      "email": "http://www.culturecommunication.gouv.fr/Regions/Drac-Nouvelle-Aquitaine/Nous-contacter",
+      "telephone": "05 57 95 02 02",
+      "url": "http://www.culturecommunication.gouv.fr/Regions/Drac-Nouvelle-Aquitaine"
+    }
+  },
+  {
+    "id": "edc3d147dd851e4ab766cfbe448334f6e7d77ce0",
+    "alternateName": "DRAC",
+    "name": "direction_regionale_des_affaires_culturelles_drac_occitanie",
+    "title": "Direction régionale des affaires culturelles (DRAC) - Occitanie",
+    "url": "https://lannuaire.service-public.fr/occitanie/herault/drac-34172-01",
+    "metadata": {
+      "email": "drac.lrmp@culture.gouv.fr",
+      "telephone": "04 67 02 32 00",
+      "url": "http://www.culturecommunication.gouv.fr/Regions/Drac-Occitanie"
+    }
+  },
+  {
+    "id": "7c559d3eca9ea604756635bd712a4753133b644c",
+    "alternateName": "DRAC",
+    "name": "direction_regionale_des_affaires_culturelles_drac_pays_de_la_loire",
+    "title": "Direction régionale des affaires culturelles (DRAC) - Pays de la Loire",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/loire-atlantique/drac-44109-01",
+    "metadata": {
+      "email": "drac.paysdelaloire@culture.gouv.fr",
+      "telephone": "02 40 14 23 00",
+      "url": "http://www.culture.gouv.fr/Regions/Drac-Pays-de-la-Loire"
+    }
+  },
+  {
+    "id": "7a0a810c61797ed2891e58c17e286ec2cf457c7d",
+    "alternateName": "DRAC",
+    "name": "direction_regionale_des_affaires_culturelles_drac_provence_alpes_cote_d_azur",
+    "title": "Direction régionale des affaires culturelles (DRAC) - Provence-Alpes-Côte-d'Azur",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/drac-13001-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 42 16 19 00",
+      "url": "http://www.culture.gouv.fr/Regions/Drac-Paca"
+    }
+  },
+  {
+    "id": "0e92cd76ba02947508563145d022032dfc396134",
+    "name": "mission_aux_affaires_culturelles_nouvelle_caledonie",
+    "title": "Mission aux affaires culturelles - Nouvelle-Calédonie",
+    "url": "https://lannuaire.service-public.fr/collectivites-d-outre-mer/nouvelle-caledonie/drac-98818-01",
+    "metadata": {
+      "email": "",
+      "telephone": "+687 24 21 81",
+      "url": "http://www.culturecommunication.gouv.fr/Regions/Mission-aux-affaires-culturelles-Nouvelle-Caledonie"
+    }
+  },
+  {
+    "id": "31ba3ce762979653651c1222b221c2ad87c64ce8",
+    "name": "service_des_affaires_culturelles_wallis_et_futuna",
+    "title": "Service des affaires culturelles - Wallis-et-Futuna",
+    "url": "https://lannuaire.service-public.fr/collectivites-d-outre-mer/wallis-et-futuna/drac-98613-01",
+    "metadata": {
+      "email": "culture.wf@mail.wf",
+      "telephone": "+681 72 00 90",
+      "url": ""
+    }
+  }
+]

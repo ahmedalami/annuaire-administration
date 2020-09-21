@@ -1,0 +1,1226 @@
+[
+  {
+    "id": "eb77e524bf89dde18011cfdf5d4fba3199b421aa",
+    "alternateName": "CMA",
+    "name": "chambre_de_metiers_et_de_lartisanat_cma_ain",
+    "title": "Chambre de métiers et de l'artisanat (CMA) - Ain",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/ain/chambre_metier-01053-01",
+    "metadata": {
+      "email": "contact@cma-ain.fr",
+      "telephone": "04 74 47 49 00",
+      "url": "http://www.cma-ain.fr"
+    }
+  },
+  {
+    "id": "a83aef04d1786b328ac1ae36fbd630ef821094ab",
+    "alternateName": "CMA",
+    "name": "chambre_de_metiers_et_de_lartisanat_cma_aisne",
+    "title": "Chambre de métiers et de l'artisanat (CMA) - Aisne",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/aisne/chambre_metier-02408-01",
+    "metadata": {
+      "email": "info@cma-aisne.fr",
+      "telephone": "03 23 21 86 86",
+      "url": "http://www.cma-aisne.fr"
+    }
+  },
+  {
+    "id": "ceede70ff9ee4cb169c3e351048ab0d9c25ee69f",
+    "alternateName": "CMA",
+    "name": "chambre_de_metiers_et_de_lartisanat_cma_allier",
+    "title": "Chambre de métiers et de l'artisanat (CMA) - Allier",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/allier/chambre_metier-03190-01",
+    "metadata": {
+      "email": "contact@cma-allier.fr",
+      "telephone": "04 70 46 20 20",
+      "url": "http://www.cma-allier.fr"
+    }
+  },
+  {
+    "id": "08cf8be1c18540aaf455ef33dbfcfb3d910f0dca",
+    "alternateName": "CMA",
+    "name": "chambre_de_metiers_et_de_lartisanat_cma_alpes_de_haute_provence",
+    "title": "Chambre de métiers et de l'artisanat (CMA) - Alpes-de-Haute-Provence",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/alpes-de-haute-provence/chambre_metier-04070-01",
+    "metadata": {
+      "email": "contact04@cmar-paca.fr",
+      "telephone": "04 92 30 90 90",
+      "url": "http://www.cmar-paca.fr"
+    }
+  },
+  {
+    "id": "cf62d196202a44b3269dffb8c2ad2f634cf2276e",
+    "alternateName": "CMA",
+    "name": "chambre_de_metiers_et_de_lartisanat_cma_alpes_maritimes",
+    "title": "Chambre de métiers et de l'artisanat (CMA) - Alpes-Maritimes",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/alpes-maritimes/chambre_metier-06123-01",
+    "metadata": {
+      "email": "contact06@cmar-paca.fr",
+      "telephone": "04 93 14 16 14",
+      "url": "http://cmar-paca.fr"
+    }
+  },
+  {
+    "id": "9fb9733c47ab9f8c08ebb2fc577a129f6ef91f21",
+    "alternateName": "CMA",
+    "name": "chambre_de_metiers_et_de_lartisanat_cma_ardeche",
+    "title": "Chambre de métiers et de l'artisanat (CMA) - Ardèche",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/ardeche/chambre_metier-07102-01",
+    "metadata": {
+      "email": "contact@cma-ardeche.fr",
+      "telephone": "04 75 07 54 00",
+      "url": "http://www.cma-ardeche.fr"
+    }
+  },
+  {
+    "id": "97f62eff0ce55196ebcb6dbf3390f5acc0d57d49",
+    "alternateName": "CMA",
+    "name": "chambre_de_metiers_et_de_lartisanat_cma_ardennes",
+    "title": "Chambre de métiers et de l'artisanat (CMA) - Ardennes",
+    "url": "https://lannuaire.service-public.fr/grand-est/ardennes/chambre_metier-08105-01",
+    "metadata": {
+      "email": "accueil@cma-ardennes.fr",
+      "telephone": "03 24 56 81 81",
+      "url": "http://www.cma-ardennes.fr"
+    }
+  },
+  {
+    "id": "4734a0170e0c5a07c66e4fe73438ae469663c4a3",
+    "alternateName": "CMA",
+    "name": "chambre_de_metiers_et_de_lartisanat_cma_ariege",
+    "title": "Chambre de métiers et de l'artisanat (CMA) - Ariège",
+    "url": "https://lannuaire.service-public.fr/occitanie/ariege/chambre_metier-09122-01",
+    "metadata": {
+      "email": "accueil@cm-ariege.fr",
+      "telephone": "05 34 09 88 00",
+      "url": "http://www.cm-ariege.fr"
+    }
+  },
+  {
+    "id": "5f82fc8b0d2cc5ee70338470a54b14e014d578f5",
+    "alternateName": "CMA",
+    "name": "chambre_de_metiers_et_de_lartisanat_cma_aube",
+    "title": "Chambre de métiers et de l'artisanat (CMA) - Aube",
+    "url": "https://lannuaire.service-public.fr/grand-est/aube/chambre_metier-10387-01",
+    "metadata": {
+      "email": "accueil@cm-troyes.fr",
+      "telephone": "03 25 82 62 00",
+      "url": "http://www.cma-aube.fr"
+    }
+  },
+  {
+    "id": "bc143f243b4655c1c582316044c3440addb0a196",
+    "alternateName": "CMA",
+    "name": "chambre_de_metiers_et_de_lartisanat_cma_aude",
+    "title": "Chambre de métiers et de l'artisanat (CMA) - Aude",
+    "url": "https://lannuaire.service-public.fr/occitanie/aude/chambre_metier-11069-01",
+    "metadata": {
+      "email": "direction@cm-aude.fr",
+      "telephone": "04 68 11 20 00",
+      "url": "http://www.cm-aude.fr"
+    }
+  },
+  {
+    "id": "9c5c1d54f2e9b688ed72fd00a8b54e6132a96339",
+    "alternateName": "CMA",
+    "name": "chambre_de_metiers_et_de_lartisanat_cma_aveyron",
+    "title": "Chambre de métiers et de l'artisanat (CMA) - Aveyron",
+    "url": "https://lannuaire.service-public.fr/occitanie/aveyron/chambre_metier-12202-01",
+    "metadata": {
+      "email": "artisanat@cm-aveyron.fr",
+      "telephone": "05 65 77 56 00",
+      "url": "http://www.cm-aveyron.fr"
+    }
+  },
+  {
+    "id": "4cf036edf08c9dfe58d02298ddbd49b97776dac4",
+    "alternateName": "CMA",
+    "name": "chambre_de_metiers_et_de_lartisanat_cma_bas_rhin",
+    "title": "Chambre de métiers et de l'artisanat (CMA) - Bas-Rhin",
+    "url": "https://lannuaire.service-public.fr/grand-est/bas-rhin/chambre_metier-67447-01",
+    "metadata": {
+      "email": "cma@cm-alsace.fr",
+      "telephone": "03 88 19 60 65",
+      "url": "http://www.cm-alsace.fr"
+    }
+  },
+  {
+    "id": "da384d4cc13cf835279cd9013c4fda2b3fb50718",
+    "alternateName": "CMA",
+    "name": "chambre_de_metiers_et_de_lartisanat_cma_bouches_du_rhone",
+    "title": "Chambre de métiers et de l'artisanat (CMA) - Bouches-du-Rhône",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/chambre_metier-13208-01",
+    "metadata": {
+      "email": "contact13@cmar-paca.fr",
+      "telephone": "04 91 32 24 24",
+      "url": "http://www.cmar-paca.fr"
+    }
+  },
+  {
+    "id": "c24d2ef8009dd291725740e7ddeb85572fb4bc5f",
+    "alternateName": "CMA",
+    "name": "chambre_de_metiers_et_de_lartisanat_cma_calvados",
+    "title": "Chambre de métiers et de l'artisanat (CMA) - Calvados",
+    "url": "https://lannuaire.service-public.fr/normandie/calvados/chambre_metier-14118-01",
+    "metadata": {
+      "email": "accueil-conseil@cmai-calvados-orne.fr",
+      "telephone": "02 31 53 25 00",
+      "url": "http://www.cmai-calvados-orne.fr"
+    }
+  },
+  {
+    "id": "b8202ce53ecdf6111df74e51d5e76feea711d62e",
+    "alternateName": "CMA",
+    "name": "chambre_de_metiers_et_de_lartisanat_cma_cantal",
+    "title": "Chambre de métiers et de l'artisanat (CMA) - Cantal",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/cantal/chambre_metier-15014-01",
+    "metadata": {
+      "email": "contact@cma-cantal.fr",
+      "telephone": "04 71 45 65 00",
+      "url": "http://www.cma-cantal.fr"
+    }
+  },
+  {
+    "id": "6e78490df8da4d2ff1f135982b48269b5acd2ff2",
+    "alternateName": "CMA",
+    "name": "chambre_de_metiers_et_de_lartisanat_cma_charente",
+    "title": "Chambre de métiers et de l'artisanat (CMA) - Charente",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/charente/chambre_metier-16015-01",
+    "metadata": {
+      "email": "accueil@cma-charente.fr",
+      "telephone": "05 45 90 47 00",
+      "url": "http://www.cma-charente.fr"
+    }
+  },
+  {
+    "id": "5e55dbaee86ffe4c5d1254b987cf447ec4d04b1a",
+    "alternateName": "CMA",
+    "name": "chambre_de_metiers_et_de_lartisanat_cma_charente_maritime",
+    "title": "Chambre de métiers et de l'artisanat (CMA) - Charente-Maritime",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/charente-maritime/chambre_metier-17300-01",
+    "metadata": {
+      "email": "contact@cm-larochelle.fr",
+      "telephone": "05 46 50 00 00",
+      "url": "http://www.cm-larochelle.fr"
+    }
+  },
+  {
+    "id": "7e703e9ed17f7d759031e527385dd8f95daca793",
+    "alternateName": "CMA",
+    "name": "chambre_de_metiers_et_de_lartisanat_cma_cher",
+    "title": "Chambre de métiers et de l'artisanat (CMA) - Cher",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/cher/chambre_metier-18033-01",
+    "metadata": {
+      "email": "cm18@cm-bourges.fr",
+      "telephone": "02 48 69 70 71",
+      "url": "http://www.cma18.fr"
+    }
+  },
+  {
+    "id": "65620b2be585600dd6a73288c62099ebfda3a665",
+    "alternateName": "CMA",
+    "name": "chambre_de_metiers_et_de_lartisanat_cma_correze",
+    "title": "Chambre de métiers et de l'artisanat (CMA) - Corrèze",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/correze/chambre_metier-19272-01",
+    "metadata": {
+      "email": "artisanat@cma-correze.fr",
+      "telephone": "05 55 29 95 95",
+      "url": "http://www.cma-correze.fr"
+    }
+  },
+  {
+    "id": "18d9d401097d5216e3994b4d9368ddb46c90528d",
+    "alternateName": "CMA",
+    "name": "chambre_de_metiers_et_de_lartisanat_cma_corse",
+    "title": "Chambre de métiers et de l'artisanat (CMA) - Corse",
+    "url": "https://lannuaire.service-public.fr/corse/corse-du-sud/chambre_metier-2A004-01",
+    "metadata": {
+      "email": "accma@cm-ajaccio.fr",
+      "telephone": "04 95 23 53 00",
+      "url": "http://www.cm-ajaccio.fr"
+    }
+  },
+  {
+    "id": "1529634d1270a9ad5ae47a772802c648b0222bcc",
+    "alternateName": "CMA",
+    "name": "chambre_de_metiers_et_de_lartisanat_cma_cote_d_or",
+    "title": "Chambre de métiers et de l'artisanat (CMA) - Côte-d'Or",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/cote-d-or/chambre_metier-21231-01",
+    "metadata": {
+      "email": "accueil-s21@artisanat-bourgogne.fr",
+      "telephone": "03 80 63 13 53",
+      "url": "http://www.artisanat-bourgogne.fr"
+    }
+  },
+  {
+    "id": "d92058063851d23368c37f939cd697fdf4b87dda",
+    "alternateName": "CMA",
+    "name": "chambre_de_metiers_et_de_lartisanat_cma_cotes_d_armor",
+    "title": "Chambre de métiers et de l'artisanat (CMA) - Côtes-d'Armor",
+    "url": "https://lannuaire.service-public.fr/bretagne/cotes-d-armor/chambre_metier-22215-01",
+    "metadata": {
+      "email": "cm.22@cma22.fr",
+      "telephone": "02 96 76 26 26",
+      "url": "http://www.cma22.bzh"
+    }
+  },
+  {
+    "id": "3231dc64315cac5a7c77c702cc6e08cffb606670",
+    "alternateName": "CMA",
+    "name": "chambre_de_metiers_et_de_lartisanat_cma_creuse",
+    "title": "Chambre de métiers et de l'artisanat (CMA) - Creuse",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/creuse/chambre_metier-23096-01",
+    "metadata": {
+      "email": "contact@cma-gueret.fr",
+      "telephone": "05 55 51 95 30",
+      "url": "http://www.cma-gueret.fr"
+    }
+  },
+  {
+    "id": "cf0c47ee6e90e87d5f39ca1f640311d8dba50687",
+    "alternateName": "CMA",
+    "name": "chambre_de_metiers_et_de_lartisanat_cma_deux_sevres",
+    "title": "Chambre de métiers et de l'artisanat (CMA) - Deux-Sèvres",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/deux-sevres/chambre_metier-79191-01",
+    "metadata": {
+      "email": "cma79@cma-niort.fr",
+      "telephone": "05 49 77 22 00",
+      "url": "http://www.cma-niort.fr"
+    }
+  },
+  {
+    "id": "657bc54fefc1b3b0128e170ecbfe6ffab728b185",
+    "alternateName": "CMA",
+    "name": "chambre_de_metiers_et_de_lartisanat_cma_dordogne",
+    "title": "Chambre de métiers et de l'artisanat (CMA) - Dordogne",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/dordogne/chambre_metier-24322-01",
+    "metadata": {
+      "email": "conseil@cm24.fr",
+      "telephone": "05 53 35 87 00",
+      "url": "http://www.artisanat24.com"
+    }
+  },
+  {
+    "id": "426a6ff77f0d9375ea8200b44da5607ca8648a17",
+    "alternateName": "CMA",
+    "name": "chambre_de_metiers_et_de_lartisanat_cma_doubs",
+    "title": "Chambre de métiers et de l'artisanat (CMA) - Doubs",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/doubs/chambre_metier-25056-01",
+    "metadata": {
+      "email": "contact@artisanat-comtois.fr",
+      "telephone": "03 39 21 22 23",
+      "url": "http://www.artisanat-comtois.fr"
+    }
+  },
+  {
+    "id": "beffbed3b46c1dc40fe432588eccddc4f76812c6",
+    "alternateName": "CMA",
+    "name": "chambre_de_metiers_et_de_lartisanat_cma_drome",
+    "title": "Chambre de métiers et de l'artisanat (CMA) - Drôme",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/drome/chambre_metier-26281-01",
+    "metadata": {
+      "email": "c.francois@cma-drome.fr",
+      "telephone": "04 75 48 72 00",
+      "url": "http://www.cma-drome.fr"
+    }
+  },
+  {
+    "id": "0d2cfa7b19d5efc2c2289a4571469cd3fc2ed6f3",
+    "alternateName": "CMA",
+    "name": "chambre_de_metiers_et_de_lartisanat_cma_essonne",
+    "title": "Chambre de métiers et de l'artisanat (CMA) - Essonne",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/essonne/chambre_metier-91228-01",
+    "metadata": {
+      "email": "cma.general@artisanat91.fr",
+      "telephone": "01 69 47 54 20",
+      "url": "https://www.cma-essonne.fr/"
+    }
+  },
+  {
+    "id": "0fe1a6c4a67b642ce0926e4895f10df5a823dec3",
+    "alternateName": "CMA",
+    "name": "chambre_de_metiers_et_de_lartisanat_cma_eure",
+    "title": "Chambre de métiers et de l'artisanat (CMA) - Eure",
+    "url": "https://lannuaire.service-public.fr/normandie/eure/chambre_metier-27229-01",
+    "metadata": {
+      "email": "courriel@cm-27.fr",
+      "telephone": "02 32 39 41 81",
+      "url": "http://www.cma27.fr"
+    }
+  },
+  {
+    "id": "38fb893865a8bdf612ba1f5e3854ce5e883a9052",
+    "alternateName": "CMA",
+    "name": "chambre_de_metiers_et_de_lartisanat_cma_eure_et_loir",
+    "title": "Chambre de métiers et de l'artisanat (CMA) - Eure-et-Loir",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/eure-et-loir/chambre_metier-28085-01",
+    "metadata": {
+      "email": "info.contact@cm-28.fr",
+      "telephone": "02 37 91 57 00",
+      "url": "http://www.cma28.fr"
+    }
+  },
+  {
+    "id": "4b1dfab4b49686972461ed6bdb5ed2888dfb5404",
+    "alternateName": "CMA",
+    "name": "chambre_de_metiers_et_de_lartisanat_cma_finistere",
+    "title": "Chambre de métiers et de l'artisanat (CMA) - Finistère",
+    "url": "https://lannuaire.service-public.fr/bretagne/finistere/chambre_metier-29232-01",
+    "metadata": {
+      "email": "accueilquimper@cma29.fr",
+      "telephone": "02 98 76 46 46",
+      "url": "http://www.cma29.bzh"
+    }
+  },
+  {
+    "id": "a97d4e2d2f47c869eda11d7f75ba9969094b7763",
+    "alternateName": "CMA",
+    "name": "chambre_de_metiers_et_de_lartisanat_cma_gard",
+    "title": "Chambre de métiers et de l'artisanat (CMA) - Gard",
+    "url": "https://lannuaire.service-public.fr/occitanie/gard/chambre_metier-30189-01",
+    "metadata": {
+      "email": "chambre-de-metiers@cma-gard.fr",
+      "telephone": "04 66 62 80 00",
+      "url": "http://www.cma-gard.fr"
+    }
+  },
+  {
+    "id": "5599e1fdffc300265ffd21b7844bd5e3d5ac7361",
+    "alternateName": "CMA",
+    "name": "chambre_de_metiers_et_de_lartisanat_cma_gers",
+    "title": "Chambre de métiers et de l'artisanat (CMA) - Gers",
+    "url": "https://lannuaire.service-public.fr/occitanie/gers/chambre_metier-32307-01",
+    "metadata": {
+      "email": "contact@cma-gers.fr",
+      "telephone": "05 62 61 22 22",
+      "url": "http://www.cma-gers.fr"
+    }
+  },
+  {
+    "id": "bc5a0b9695aaacdb25b98b1f203b04313e84cd62",
+    "alternateName": "CMA",
+    "name": "chambre_de_metiers_et_de_lartisanat_cma_gironde",
+    "title": "Chambre de métiers et de l'artisanat (CMA) - Gironde",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/gironde/chambre_metier-33063-01",
+    "metadata": {
+      "email": "cm33@artisanat-aquitaine.fr",
+      "telephone": "05 56 99 91 00",
+      "url": "http://www.artisans-gironde.fr"
+    }
+  },
+  {
+    "id": "bd52504df893aa1b0d35ec374a0f4d2b72ad942b",
+    "alternateName": "CMA",
+    "name": "chambre_de_metiers_et_de_lartisanat_cma_guadeloupe",
+    "title": "Chambre de métiers et de l'artisanat (CMA) - Guadeloupe",
+    "url": "https://lannuaire.service-public.fr/guadeloupe/guadeloupe/chambre_metier-97124-01",
+    "metadata": {
+      "email": "sgstc@cmguadeloupe.org",
+      "telephone": "+590 5 90 80 23 33",
+      "url": "http://www.cmarguadeloupe.org"
+    }
+  },
+  {
+    "id": "33f57cdf4fdb11c0ca7b6529a81c985317ca2b25",
+    "alternateName": "CMA",
+    "name": "chambre_de_metiers_et_de_lartisanat_cma_guyane",
+    "title": "Chambre de métiers et de l'artisanat (CMA) - Guyane",
+    "url": "https://lannuaire.service-public.fr/guyane/guyane/chambre_metier-97302-01",
+    "metadata": {
+      "email": "",
+      "telephone": "+594 5 94 25 24 70",
+      "url": ""
+    }
+  },
+  {
+    "id": "c6ee500b9cca9030acd740d3389ed3b6ad381650",
+    "alternateName": "CMA",
+    "name": "chambre_de_metiers_et_de_lartisanat_cma_haute_corse",
+    "title": "Chambre de métiers et de l'artisanat (CMA) - Haute-Corse",
+    "url": "https://lannuaire.service-public.fr/corse/haute-corse/chambre_metier-2B033-01",
+    "metadata": {
+      "email": "contact@cmahc.fr",
+      "telephone": "04 95 32 83 00",
+      "url": "http://www.cmahc.fr"
+    }
+  },
+  {
+    "id": "ec3864a4afd6e5bf85cf14e8d51dfd30ff05dd73",
+    "alternateName": "CMA",
+    "name": "chambre_de_metiers_et_de_lartisanat_cma_haute_garonne",
+    "title": "Chambre de métiers et de l'artisanat (CMA) - Haute-Garonne",
+    "url": "https://lannuaire.service-public.fr/occitanie/haute-garonne/chambre_metier-31555-01",
+    "metadata": {
+      "email": "contact@cm-toulouse.fr",
+      "telephone": "05 61 10 47 47",
+      "url": "http://www.cm-toulouse.fr"
+    }
+  },
+  {
+    "id": "84f17d56639c3cae50a9512cccccc9dfeba6998c",
+    "alternateName": "CMA",
+    "name": "chambre_de_metiers_et_de_lartisanat_cma_haute_loire",
+    "title": "Chambre de métiers et de l'artisanat (CMA) - Haute-Loire",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/haute-loire/chambre_metier-43157-01",
+    "metadata": {
+      "email": "contact@cma-hauteloire.fr",
+      "telephone": "04 71 02 34 56",
+      "url": "http://www.cma-hauteloire.fr"
+    }
+  },
+  {
+    "id": "73eb222dbf1c13283726042a20d9d10b35c7b806",
+    "alternateName": "CMA",
+    "name": "chambre_de_metiers_et_de_lartisanat_cma_haute_marne",
+    "title": "Chambre de métiers et de l'artisanat (CMA) - Haute-Marne",
+    "url": "https://lannuaire.service-public.fr/grand-est/haute-marne/chambre_metier-52121-01",
+    "metadata": {
+      "email": "chaumont@cma-haute-marne.fr",
+      "telephone": "03 25 32 19 77",
+      "url": "http://www.cma-haute-marne.fr"
+    }
+  },
+  {
+    "id": "dbcf57e735008d43b97e153042aac9904629a64f",
+    "alternateName": "CMA",
+    "name": "chambre_de_metiers_et_de_lartisanat_cma_hautes_alpes",
+    "title": "Chambre de métiers et de l'artisanat (CMA) - Hautes-Alpes",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/hautes-alpes/chambre_metier-05061-01",
+    "metadata": {
+      "email": "contact05@cmar-paca.fr",
+      "telephone": "04 92 51 06 89",
+      "url": "http://www.cm-gap.fr"
+    }
+  },
+  {
+    "id": "2ef1d99727857e2b41503a74a6b3bdadcc2b6a5d",
+    "alternateName": "CMA",
+    "name": "chambre_de_metiers_et_de_lartisanat_cma_haute_saone",
+    "title": "Chambre de métiers et de l'artisanat (CMA) - Haute-Saône",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/haute-saone/chambre_metier-70310-01",
+    "metadata": {
+      "email": "n.giboulet@artisanat-comtois.fr",
+      "telephone": "03 39 21 22 23",
+      "url": "http://www.artisanat-comtois.fr"
+    }
+  },
+  {
+    "id": "715759dcf2315364fe7ff6a993ca01a729823be6",
+    "alternateName": "CMA",
+    "name": "chambre_de_metiers_et_de_lartisanat_cma_haute_savoie",
+    "title": "Chambre de métiers et de l'artisanat (CMA) - Haute-savoie",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/haute-savoie/chambre_metier-74010-01",
+    "metadata": {
+      "email": "contact@cma-74.fr",
+      "telephone": "04 50 23 92 22",
+      "url": "http://www.cma-74.fr"
+    }
+  },
+  {
+    "id": "3146e624c2ffe4d67dfb805346a58c6bea565782",
+    "alternateName": "CMA",
+    "name": "chambre_de_metiers_et_de_lartisanat_cma_hautes_pyrenees",
+    "title": "Chambre de métiers et de l'artisanat (CMA) - Hautes-Pyrénées",
+    "url": "https://lannuaire.service-public.fr/occitanie/hautes-pyrenees/chambre_metier-65440-01",
+    "metadata": {
+      "email": "contact@cma65.fr",
+      "telephone": "05 62 56 60 60",
+      "url": "http://www.cma65.fr"
+    }
+  },
+  {
+    "id": "76157fab1381071c756a3083609c50aafbf00791",
+    "alternateName": "CMA",
+    "name": "chambre_de_metiers_et_de_lartisanat_cma_haute_vienne",
+    "title": "Chambre de métiers et de l'artisanat (CMA) - Haute-Vienne",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/haute-vienne/chambre_metier-87085-01",
+    "metadata": {
+      "email": "contact@cm-limoges.fr",
+      "telephone": "05 55 45 27 00",
+      "url": "http://www.cm-limoges.fr"
+    }
+  },
+  {
+    "id": "9fe54749ef64b7095d7ce0cdb53e1fe941d6e627",
+    "alternateName": "CMA",
+    "name": "chambre_de_metiers_et_de_lartisanat_cma_haut_rhin_colmar",
+    "title": "Chambre de métiers et de l'artisanat (CMA) - Haut-Rhin - Colmar",
+    "url": "https://lannuaire.service-public.fr/grand-est/haut-rhin/chambre_metier-68066-01",
+    "metadata": {
+      "email": "cma.colmar@cm-alsace.fr",
+      "telephone": "03 89 20 84 50",
+      "url": "http://www.cm-alsace.fr"
+    }
+  },
+  {
+    "id": "942f64f03442d313c3e0da69f4f80b9570a74de5",
+    "alternateName": "CMA",
+    "name": "chambre_de_metiers_et_de_lartisanat_cma_haut_rhin_mulhouse",
+    "title": "Chambre de métiers et de l'artisanat (CMA) - Haut-Rhin - Mulhouse",
+    "url": "https://lannuaire.service-public.fr/grand-est/haut-rhin/chambre_metier-68224-01",
+    "metadata": {
+      "email": "cma-mulhouse@cm-alsace.fr",
+      "telephone": "03 89 46 89 00",
+      "url": "http://www.cm-alsace.fr"
+    }
+  },
+  {
+    "id": "3a705e9769fa111df1a6eeb9fcf3ea7f7ae94133",
+    "alternateName": "CMA",
+    "name": "chambre_de_metiers_et_de_lartisanat_cma_hauts_de_seine",
+    "title": "Chambre de métiers et de l'artisanat (CMA) - Hauts-de-Seine",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/hauts-de-seine/chambre_metier-92050-01",
+    "metadata": {
+      "email": "contact@cma-nanterre.fr",
+      "telephone": "01 47 29 43 43",
+      "url": "http://www.cma92.fr"
+    }
+  },
+  {
+    "id": "bbb0a54d7deca8c7dca7d0c77ab7351bb66196fe",
+    "alternateName": "CMA",
+    "name": "chambre_de_metiers_et_de_lartisanat_cma_herault",
+    "title": "Chambre de métiers et de l'artisanat (CMA) - Hérault",
+    "url": "https://lannuaire.service-public.fr/occitanie/herault/chambre_metier-34172-01",
+    "metadata": {
+      "email": "chambredemetiers@cma-herault.fr",
+      "telephone": "04 67 72 72 00",
+      "url": "http://www.cma-herault.fr"
+    }
+  },
+  {
+    "id": "6778796e8a56671c1e34a1acab1ba6d55ae139cb",
+    "alternateName": "CMA",
+    "name": "chambre_de_metiers_et_de_lartisanat_cma_ille_et_vilaine",
+    "title": "Chambre de métiers et de l'artisanat (CMA) - Ille-et-Vilaine",
+    "url": "https://lannuaire.service-public.fr/bretagne/ille-et-vilaine/chambre_metier-35238-01",
+    "metadata": {
+      "email": "contact@cma-rennes.fr",
+      "telephone": "02 23 50 05 00",
+      "url": "http://www.cma35.bzh"
+    }
+  },
+  {
+    "id": "0ed07f6eb61f0d88aba586a79d5922994f56c888",
+    "alternateName": "CMA",
+    "name": "chambre_de_metiers_et_de_lartisanat_cma_indre",
+    "title": "Chambre de métiers et de l'artisanat (CMA) - Indre",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/indre/chambre_metier-36044-01",
+    "metadata": {
+      "email": "contacts@cm-indre.fr",
+      "telephone": "02 54 08 80 00",
+      "url": "http://www.cma36.fr"
+    }
+  },
+  {
+    "id": "ea9f13524b8d29f96a91e35f1392ab3970d7e243",
+    "alternateName": "CMA",
+    "name": "chambre_de_metiers_et_de_lartisanat_cma_indre_et_loire",
+    "title": "Chambre de métiers et de l'artisanat (CMA) - Indre-et-Loire",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/indre-et-loire/chambre_metier-37261-01",
+    "metadata": {
+      "email": "contact@cm-tours.fr",
+      "telephone": "02 47 25 24 00",
+      "url": "http://www.cma37.fr"
+    }
+  },
+  {
+    "id": "fe288d26916e240da25f2b395e857f497637ea29",
+    "alternateName": "CMA",
+    "name": "chambre_de_metiers_et_de_lartisanat_cma_isere_grenoble",
+    "title": "Chambre de métiers et de l'artisanat (CMA) - Isère - Grenoble",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/isere/chambre_metier-38185-01",
+    "metadata": {
+      "email": "contact@cma-isere.fr",
+      "telephone": "04 76 70 82 09",
+      "url": "http://www.cma-isere.fr"
+    }
+  },
+  {
+    "id": "e9c493f23226fe385539a7260cce95c6d00186b0",
+    "alternateName": "CMA",
+    "name": "chambre_de_metiers_et_de_lartisanat_cma_isere_vienne",
+    "title": "Chambre de métiers et de l'artisanat (CMA) - Isère - Vienne",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/isere/chambre_metier-38544-01",
+    "metadata": {
+      "email": "contact@cma-isere.fr",
+      "telephone": "04 76 70 82 09",
+      "url": "http://www.cma-isere.fr"
+    }
+  },
+  {
+    "id": "952dbff4b3b1e8fa82b10048b82e1bad9843f554",
+    "alternateName": "CMA",
+    "name": "chambre_de_metiers_et_de_lartisanat_cma_jura",
+    "title": "Chambre de métiers et de l'artisanat (CMA) - Jura",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/jura/chambre_metier-39300-01",
+    "metadata": {
+      "email": "contact39@artisanat-comtois.fr",
+      "telephone": "03 39 21 22 23",
+      "url": "http://www.artisanat-comtois.fr"
+    }
+  },
+  {
+    "id": "7941e559566b2179da7879f182aff10d487cf182",
+    "alternateName": "CMA",
+    "name": "chambre_de_metiers_et_de_lartisanat_cma_landes",
+    "title": "Chambre de métiers et de l'artisanat (CMA) - Landes",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/landes/chambre_metier-40192-01",
+    "metadata": {
+      "email": "cma40@cma-40.fr",
+      "telephone": "05 58 05 81 81",
+      "url": "http://www.cma-landes.fr"
+    }
+  },
+  {
+    "id": "f927e843a1b02e72fef38524e9fcd970e2959348",
+    "alternateName": "CMA",
+    "name": "chambre_de_metiers_et_de_lartisanat_cma_loire",
+    "title": "Chambre de métiers et de l'artisanat (CMA) - Loire",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/loire/chambre_metier-42218-01",
+    "metadata": {
+      "email": "contact@cma-loire.fr",
+      "telephone": "04 77 92 38 00",
+      "url": "http://www.cma-loire.fr"
+    }
+  },
+  {
+    "id": "267c05433fb36c62c933ce09343ded47676c1032",
+    "alternateName": "CMA",
+    "name": "chambre_de_metiers_et_de_lartisanat_cma_loire_atlantique",
+    "title": "Chambre de métiers et de l'artisanat (CMA) - Loire-Atlantique",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/loire-atlantique/chambre_metier-44026-01",
+    "metadata": {
+      "email": "contact44@artisanatpaysdelaloire.fr",
+      "telephone": "02 51 13 83 00",
+      "url": "http://www.artisanatpaysdelaloire.fr"
+    }
+  },
+  {
+    "id": "3ef611039f4181189913e5e58fad8697349a72ea",
+    "alternateName": "CMA",
+    "name": "chambre_de_metiers_et_de_lartisanat_cma_loiret",
+    "title": "Chambre de métiers et de l'artisanat (CMA) - Loiret",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/loiret/chambre_metier-45234-01",
+    "metadata": {
+      "email": "contact@cma45.fr",
+      "telephone": "02 38 68 08 68",
+      "url": "http://www.cma45.fr"
+    }
+  },
+  {
+    "id": "8c3381abb0d53a1c06d505bf9070333396d62445",
+    "alternateName": "CMA",
+    "name": "chambre_de_metiers_et_de_lartisanat_cma_loir_et_cher",
+    "title": "Chambre de métiers et de l'artisanat (CMA) - Loir-et-Cher",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/loir-et-cher/chambre_metier-41018-01",
+    "metadata": {
+      "email": "espaceconseil@cma-41.fr",
+      "telephone": "02 54 44 65 83",
+      "url": "http://www.cma-41.fr"
+    }
+  },
+  {
+    "id": "25e15b4d7638a6d6c0de96f4e42d99a90fb2fa77",
+    "alternateName": "CMA",
+    "name": "chambre_de_metiers_et_de_lartisanat_cma_lot",
+    "title": "Chambre de métiers et de l'artisanat (CMA) - Lot",
+    "url": "https://lannuaire.service-public.fr/occitanie/lot/chambre_metier-46042-01",
+    "metadata": {
+      "email": "cm46@cm-cahors.fr",
+      "telephone": "05 65 35 13 55",
+      "url": "http://www.cma-cahors.fr"
+    }
+  },
+  {
+    "id": "be714e3fbf67100bcf3f22019d7f9a3b07a63f44",
+    "alternateName": "CMA",
+    "name": "chambre_de_metiers_et_de_lartisanat_cma_lot_et_garonne",
+    "title": "Chambre de métiers et de l'artisanat (CMA) - Lot-et-Garonne",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/lot-et-garonne/chambre_metier-47001-01",
+    "metadata": {
+      "email": "contact47@artisanat-aquitaine.fr",
+      "telephone": "05 53 77 47 77",
+      "url": "http://www.cm-agen.fr"
+    }
+  },
+  {
+    "id": "e65eff42117cdd76639b07878e6b5d2b6c9aa20b",
+    "alternateName": "CMA",
+    "name": "chambre_de_metiers_et_de_lartisanat_cma_lozere",
+    "title": "Chambre de métiers et de l'artisanat (CMA) - Lozère",
+    "url": "https://lannuaire.service-public.fr/occitanie/lozere/chambre_metier-48095-01",
+    "metadata": {
+      "email": "contact@cma-lozere.fr",
+      "telephone": "04 66 49 12 66",
+      "url": "http://www.cma-lozere.fr"
+    }
+  },
+  {
+    "id": "d1c586f1d6720f23afd6bde4d04c2b88191b85d3",
+    "alternateName": "CMA",
+    "name": "chambre_de_metiers_et_de_lartisanat_cma_maine_et_loire",
+    "title": "Chambre de métiers et de l'artisanat (CMA) - Maine-et-Loire",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/maine-et-loire/chambre_metier-49007-01",
+    "metadata": {
+      "email": "contact49@artisanatpaysdelaloire.fr",
+      "telephone": "02 41 22 61 00",
+      "url": "http://www.artisanatpaysdelaloire.fr"
+    }
+  },
+  {
+    "id": "5909a6601aa85172784e106fcc7531a50c7e863e",
+    "alternateName": "CMA",
+    "name": "chambre_de_metiers_et_de_lartisanat_cma_manche",
+    "title": "Chambre de métiers et de l'artisanat (CMA) - Manche",
+    "url": "https://lannuaire.service-public.fr/normandie/manche/chambre_metier-50147-01",
+    "metadata": {
+      "email": "accueil@artisanat50.fr",
+      "telephone": "02 33 76 62 62",
+      "url": "http://www.artisanat50.fr"
+    }
+  },
+  {
+    "id": "169f38b820201a7a54da5c05672997f05b3d87b7",
+    "alternateName": "CMA",
+    "name": "chambre_de_metiers_et_de_lartisanat_cma_marne",
+    "title": "Chambre de métiers et de l'artisanat (CMA) - Marne",
+    "url": "https://lannuaire.service-public.fr/grand-est/marne/chambre_metier-51454-01",
+    "metadata": {
+      "email": "chambremetiers@cm-marne.fr",
+      "telephone": "03 26 40 64 94",
+      "url": "http://www.cm-reims.fr"
+    }
+  },
+  {
+    "id": "620593a093035784ffedbf5a8cbee6c4c99ce94d",
+    "alternateName": "CMA",
+    "name": "chambre_de_metiers_et_de_lartisanat_cma_martinique",
+    "title": "Chambre de métiers et de l'artisanat (CMA) - Martinique",
+    "url": "https://lannuaire.service-public.fr/martinique/martinique/chambre_metier-97209-01",
+    "metadata": {
+      "email": "cmm972@cma-martinique.com",
+      "telephone": "+596 5 96 71 32 22",
+      "url": "http://www.cma-martinique.com"
+    }
+  },
+  {
+    "id": "f95a91a645d08c7efd56749b21877ce0e4dd7373",
+    "alternateName": "CMA",
+    "name": "chambre_de_metiers_et_de_lartisanat_cma_mayenne",
+    "title": "Chambre de métiers et de l'artisanat (CMA) - Mayenne",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/mayenne/chambre_metier-53130-01",
+    "metadata": {
+      "email": "accueil53@artisanatpaysdelaloire.fr",
+      "telephone": "02 43 49 88 88",
+      "url": "http://www.artisanatpaysdelaloire.fr"
+    }
+  },
+  {
+    "id": "ce5406f899807a13fb0a63359f28d6d0737457f9",
+    "alternateName": "CMA",
+    "name": "chambre_de_metiers_et_de_lartisanat_cma_meurthe_et_moselle",
+    "title": "Chambre de métiers et de l'artisanat (CMA) - Meurthe-et-Moselle",
+    "url": "https://lannuaire.service-public.fr/grand-est/meurthe-et-moselle/chambre_metier-54304-01",
+    "metadata": {
+      "email": "chambre-metiers@cm-nancy.fr",
+      "telephone": "03 83 95 60 60",
+      "url": "http://www.cma-nancy.fr"
+    }
+  },
+  {
+    "id": "dde9339ef28f66597ceaebd20aa60be2c456810e",
+    "alternateName": "CMA",
+    "name": "chambre_de_metiers_et_de_lartisanat_cma_meuse",
+    "title": "Chambre de métiers et de l'artisanat (CMA) - Meuse",
+    "url": "https://lannuaire.service-public.fr/grand-est/meuse/chambre_metier-55029-01",
+    "metadata": {
+      "email": "contact@cma-meuse.fr",
+      "telephone": "03 29 79 20 11",
+      "url": "http://www.cma-meuse.fr"
+    }
+  },
+  {
+    "id": "869e23465e7cabd2fa78573b3f75ed134c26e497",
+    "alternateName": "CMA",
+    "name": "chambre_de_metiers_et_de_lartisanat_cma_morbihan",
+    "title": "Chambre de métiers et de l'artisanat (CMA) - Morbihan",
+    "url": "https://lannuaire.service-public.fr/bretagne/morbihan/chambre_metier-56260-01",
+    "metadata": {
+      "email": "accueil@cma-morbihan.fr",
+      "telephone": "02 97 63 95 00",
+      "url": "http://www.cma56.bzh"
+    }
+  },
+  {
+    "id": "cfcbfbbcf07f13c02e96bec295a40934e21ce472",
+    "alternateName": "CMA",
+    "name": "chambre_de_metiers_et_de_lartisanat_cma_moselle",
+    "title": "Chambre de métiers et de l'artisanat (CMA) - Moselle",
+    "url": "https://lannuaire.service-public.fr/grand-est/moselle/chambre_metier-57463-01",
+    "metadata": {
+      "email": "serviceclient@cma-moselle.fr",
+      "telephone": "03 87 39 31 00",
+      "url": "http://www.cma-moselle.fr"
+    }
+  },
+  {
+    "id": "5252d914565ca8ca6e4e79b989e1c76c89b584f3",
+    "alternateName": "CMA",
+    "name": "chambre_de_metiers_et_de_lartisanat_cma_nievre",
+    "title": "Chambre de métiers et de l'artisanat (CMA) - Nièvre",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/nievre/chambre_metier-58194-01",
+    "metadata": {
+      "email": "accueil-s58@artisanat-bourgogne.fr",
+      "telephone": "03 86 71 80 60",
+      "url": "http://www.cma-bourgogne.fr"
+    }
+  },
+  {
+    "id": "dad9d534a598de9a70090a7d0d0bcbe5ad56d475",
+    "alternateName": "CMA",
+    "name": "chambre_de_metiers_et_de_lartisanat_cma_nord",
+    "title": "Chambre de métiers et de l'artisanat (CMA) - Nord",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/nord/chambre_metier-59350-01",
+    "metadata": {
+      "email": "contact@cma-hautsdefrance.fr",
+      "telephone": "09 72 72 72 07",
+      "url": "http://www.cma-hautsdefrance.fr"
+    }
+  },
+  {
+    "id": "00d6c913b4c4923dde5dbf55fa6cd4c5b681a317",
+    "alternateName": "CMA",
+    "name": "chambre_de_metiers_et_de_lartisanat_cma_oise",
+    "title": "Chambre de métiers et de l'artisanat (CMA) - Oise",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/oise/chambre_metier-60057-01",
+    "metadata": {
+      "email": "contact@cma-hautsdefrance.fr",
+      "telephone": "09 72 72 72 07",
+      "url": "http://www.cma-hautsdefrance.fr"
+    }
+  },
+  {
+    "id": "8f2833f9f76fe1b916eb321a9a577e6cdc0e694e",
+    "alternateName": "CMA",
+    "name": "chambre_de_metiers_et_de_lartisanat_cma_orne",
+    "title": "Chambre de métiers et de l'artisanat (CMA) - Orne",
+    "url": "https://lannuaire.service-public.fr/normandie/orne/chambre_metier-61001-01",
+    "metadata": {
+      "email": "contact61@cmai-calvados-orne.fr",
+      "telephone": "02 33 80 00 50",
+      "url": "http://www.cmai-calvados-orne.fr"
+    }
+  },
+  {
+    "id": "939caa317cdfe850717c9d0cacba3e8e06d94a53",
+    "alternateName": "CMA",
+    "name": "chambre_de_metiers_et_de_lartisanat_cma_paris",
+    "title": "Chambre de métiers et de l'artisanat (CMA) - Paris",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/paris/chambre_metier-75112-01",
+    "metadata": {
+      "email": "contact@cma-paris.fr",
+      "telephone": "01 53 33 53 33",
+      "url": "http://www.cma-paris.fr"
+    }
+  },
+  {
+    "id": "f86c76d101ad0a9ac96e6959ba9ff7f6225978bb",
+    "alternateName": "CMA",
+    "name": "chambre_de_metiers_et_de_lartisanat_cma_pas_de_calais",
+    "title": "Chambre de métiers et de l'artisanat (CMA) - Pas-de-Calais",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/pas-de-calais/chambre_metier-62041-01",
+    "metadata": {
+      "email": "contact@cma-hautsdefrance.fr",
+      "telephone": "09 72 72 72 07",
+      "url": "http://www.cma-hautsdefrance.fr"
+    }
+  },
+  {
+    "id": "4bf7874dbf399faa81e40a740839d0a42aef6a75",
+    "alternateName": "CMA",
+    "name": "chambre_de_metiers_et_de_lartisanat_cma_puy_de_dome",
+    "title": "Chambre de métiers et de l'artisanat (CMA) - Puy-de-Dôme",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/puy-de-dome/chambre_metier-63075-01",
+    "metadata": {
+      "email": "contact@cma-puydedome.fr",
+      "telephone": "04 73 31 52 00",
+      "url": "http://www.cma-puydedome.fr"
+    }
+  },
+  {
+    "id": "ef9b6083bbfbf6fd8555af7e738f8050e0774ee0",
+    "alternateName": "CMA",
+    "name": "chambre_de_metiers_et_de_lartisanat_cma_pyrenees_atlantiques",
+    "title": "Chambre de métiers et de l'artisanat (CMA) - Pyrénées-Atlantiques",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/pyrenees-atlantiques/chambre_metier-64445-01",
+    "metadata": {
+      "email": "contact64@artisanat-aquitaine.fr",
+      "telephone": "05 59 83 83 62",
+      "url": "http://www.cma64.fr"
+    }
+  },
+  {
+    "id": "f0cbad4a0313a6580420301f456e399f406b4820",
+    "alternateName": "CMA",
+    "name": "chambre_de_metiers_et_de_lartisanat_cma_pyrenees_orientales",
+    "title": "Chambre de métiers et de l'artisanat (CMA) - Pyrénées-Orientales",
+    "url": "https://lannuaire.service-public.fr/occitanie/pyrenees-orientales/chambre_metier-66136-01",
+    "metadata": {
+      "email": "contact@cma66.fr",
+      "telephone": "04 68 51 40 26",
+      "url": "http://www.cma66.fr"
+    }
+  },
+  {
+    "id": "493d3d252fffc09d76f34ff0048ca34e9cafdb20",
+    "alternateName": "CMA",
+    "name": "chambre_de_metiers_et_de_lartisanat_cma_reunion",
+    "title": "Chambre de métiers et de l'artisanat (CMA) - Réunion",
+    "url": "https://lannuaire.service-public.fr/la-reunion/reunion/chambre_metier-97411-01",
+    "metadata": {
+      "email": "cdm@cma-reunion.fr",
+      "telephone": "+262 2 62 21 04 35",
+      "url": "http://www.artisanat974.re"
+    }
+  },
+  {
+    "id": "705fbb6f1944d0ea902ac68044b2142c242d0975",
+    "alternateName": "CMA",
+    "name": "chambre_de_metiers_et_de_lartisanat_cma_rhone",
+    "title": "Chambre de métiers et de l'artisanat (CMA) - Rhône",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/rhone/chambre_metier-69386-01",
+    "metadata": {
+      "email": "contact@cma-lyon.fr",
+      "telephone": "04 72 43 43 00",
+      "url": "http://www.cma-lyon.fr"
+    }
+  },
+  {
+    "id": "42b99907d0446a225689aa0bb12dbc64eba0bae0",
+    "alternateName": "CMA",
+    "name": "chambre_de_metiers_et_de_lartisanat_cma_saone_et_loire",
+    "title": "Chambre de métiers et de l'artisanat (CMA) - Saône-et-Loire",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/saone-et-loire/chambre_metier-71076-01",
+    "metadata": {
+      "email": "accueil-s71@artisanat-bourgogne.fr",
+      "telephone": "03 85 41 14 41",
+      "url": "http://www.artisanat-bourgogne.fr"
+    }
+  },
+  {
+    "id": "2acd1fd87d23a3c4caf459e1957234cf45e8546b",
+    "alternateName": "CMA",
+    "name": "chambre_de_metiers_et_de_lartisanat_cma_sarthe",
+    "title": "Chambre de métiers et de l'artisanat (CMA) - Sarthe",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/sarthe/chambre_metier-72181-01",
+    "metadata": {
+      "email": "accueil72@artisanatpaysdelaloire.fr",
+      "telephone": "02 43 74 53 53",
+      "url": "http://www.artisanatpaysdelaloire.fr"
+    }
+  },
+  {
+    "id": "466ffeb0526bb79ffe701db2cd905843016d0b26",
+    "alternateName": "CMA",
+    "name": "chambre_de_metiers_et_de_lartisanat_cma_savoie",
+    "title": "Chambre de métiers et de l'artisanat (CMA) - Savoie",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/savoie/chambre_metier-73065-01",
+    "metadata": {
+      "email": "contact@cma-savoie.fr",
+      "telephone": "04 79 69 94 00",
+      "url": "http://www.cma-savoie.fr"
+    }
+  },
+  {
+    "id": "474a0478de626fe6dbac60bea510a8d3a994d4e5",
+    "alternateName": "CMA",
+    "name": "chambre_de_metiers_et_de_lartisanat_cma_seine_et_marne",
+    "title": "Chambre de métiers et de l'artisanat (CMA) - Seine-et-Marne",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/seine-et-marne/chambre_metier-77305-01",
+    "metadata": {
+      "email": "secretariat.general@cma77.fr",
+      "telephone": "01 64 79 26 00",
+      "url": "http://www.cma77.fr"
+    }
+  },
+  {
+    "id": "149041122c3f2692fd967a8d3ac502f1ef147bdb",
+    "alternateName": "CMA",
+    "name": "chambre_de_metiers_et_de_lartisanat_cma_seine_maritime",
+    "title": "Chambre de métiers et de l'artisanat (CMA) - Seine-Maritime",
+    "url": "https://lannuaire.service-public.fr/normandie/seine-maritime/chambre_metier-76540-01",
+    "metadata": {
+      "email": "chambredemetiers@cm-76.fr",
+      "telephone": "02 32 18 23 23",
+      "url": "http://www.cma76.fr"
+    }
+  },
+  {
+    "id": "837ed423792908964ed2d93b545180440389049d",
+    "alternateName": "CMA",
+    "name": "chambre_de_metiers_et_de_lartisanat_cma_seine_saint_denis",
+    "title": "Chambre de métiers et de l'artisanat (CMA) - Seine-Saint-Denis",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/seine-saint-denis/chambre_metier-93008-01",
+    "metadata": {
+      "email": "",
+      "telephone": "01 41 60 75 00",
+      "url": "http://www.cma93.fr"
+    }
+  },
+  {
+    "id": "ccab88c202250ff6deaa03f0170b70f7471b9012",
+    "alternateName": "CMA",
+    "name": "chambre_de_metiers_et_de_lartisanat_cma_somme",
+    "title": "Chambre de métiers et de l'artisanat (CMA) - Somme",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/somme/chambre_metier-80131-01",
+    "metadata": {
+      "email": "sg@cma80.fr",
+      "telephone": "03 60 12 71 27",
+      "url": "https://www.cma-hautsdefrance.fr"
+    }
+  },
+  {
+    "id": "e958b44b306b3f7bfdad1cbea0fa7c7d5b12b28e",
+    "alternateName": "CMA",
+    "name": "chambre_de_metiers_et_de_lartisanat_cma_tarn",
+    "title": "Chambre de métiers et de l'artisanat (CMA) - Tarn",
+    "url": "https://lannuaire.service-public.fr/occitanie/tarn/chambre_metier-81004-01",
+    "metadata": {
+      "email": "direction@cm-tarn.fr",
+      "telephone": "05 63 48 43 53",
+      "url": "http://www.cm-tarn.fr"
+    }
+  },
+  {
+    "id": "b205246ff29a3d1b802aa8a17cc7e04d0e2957f6",
+    "alternateName": "CMA",
+    "name": "chambre_de_metiers_et_de_lartisanat_cma_tarn_et_garonne",
+    "title": "Chambre de métiers et de l'artisanat (CMA) - Tarn-et-Garonne",
+    "url": "https://lannuaire.service-public.fr/occitanie/tarn-et-garonne/chambre_metier-82121-01",
+    "metadata": {
+      "email": "contact@cm-montauban.fr",
+      "telephone": "05 63 63 09 58",
+      "url": "http://www.cma82.fr"
+    }
+  },
+  {
+    "id": "72f13116679c325c492c68ef8c8cf9f84f346176",
+    "alternateName": "CMA",
+    "name": "chambre_de_metiers_et_de_lartisanat_cma_territoire_de_belfort",
+    "title": "Chambre de métiers et de l'artisanat (CMA) - Territoire de Belfort",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/territoire-de-belfort/chambre_metier-90010-01",
+    "metadata": {
+      "email": "contact90@artisanat-comtois.fr",
+      "telephone": "03 39 21 22 23",
+      "url": "http://www.artisanat-bfc.fr"
+    }
+  },
+  {
+    "id": "91b005f91998646e4cee81a9a0606ded80b7c7e9",
+    "alternateName": "CMA",
+    "name": "chambre_de_metiers_et_de_lartisanat_cma_val_d_oise",
+    "title": "Chambre de métiers et de l'artisanat (CMA) - Val-d'Oise",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/val-d-oise/chambre_metier-95127-01",
+    "metadata": {
+      "email": "info@cma95.fr",
+      "telephone": "01 34 35 80 00",
+      "url": "http://www.cma95.fr"
+    }
+  },
+  {
+    "id": "6dd40e1fc034119add61cec44f9082c069925f52",
+    "alternateName": "CMA",
+    "name": "chambre_de_metiers_et_de_lartisanat_cma_val_de_marne",
+    "title": "Chambre de métiers et de l'artisanat (CMA) - Val-de-Marne",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/val-de-marne/chambre_metier-94068-01",
+    "metadata": {
+      "email": "contact@cma94.com",
+      "telephone": "01 49 76 50 00",
+      "url": "http://www.cma94.com"
+    }
+  },
+  {
+    "id": "39660f4c6ea8fdf4bcd521c78b406c5be316bad6",
+    "alternateName": "CMA",
+    "name": "chambre_de_metiers_et_de_lartisanat_cma_var",
+    "title": "Chambre de métiers et de l'artisanat (CMA) - Var",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/var/chambre_metier-83137-01",
+    "metadata": {
+      "email": "contact83@cmar-paca.fr",
+      "telephone": "04 94 61 99 00",
+      "url": "http://www.cmar-paca.fr"
+    }
+  },
+  {
+    "id": "6616039cc014963cf89f56d0fb68c494d1a72687",
+    "alternateName": "CMA",
+    "name": "chambre_de_metiers_et_de_lartisanat_cma_vaucluse",
+    "title": "Chambre de métiers et de l'artisanat (CMA) - Vaucluse",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/vaucluse/chambre_metier-84007-01",
+    "metadata": {
+      "email": "formalites84@cmar-paca.fr",
+      "telephone": "04 90 80 65 65",
+      "url": "http://www.cmar-paca.fr"
+    }
+  },
+  {
+    "id": "e27070b1f1ae9dfa6031fabbbc041a503599357d",
+    "alternateName": "CMA",
+    "name": "chambre_de_metiers_et_de_lartisanat_cma_vendee",
+    "title": "Chambre de métiers et de l'artisanat (CMA) - Vendée",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/vendee/chambre_metier-85191-01",
+    "metadata": {
+      "email": "accueil85@artisanatpaysdelaloire.fr",
+      "telephone": "02 51 44 35 00",
+      "url": "http://artisanatpaysdelaloire.fr"
+    }
+  },
+  {
+    "id": "f8b604291af6754bfba1c009d5ed6f65ed023d19",
+    "alternateName": "CMA",
+    "name": "chambre_de_metiers_et_de_lartisanat_cma_vienne",
+    "title": "Chambre de métiers et de l'artisanat (CMA) - Vienne",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/vienne/chambre_metier-86194-01",
+    "metadata": {
+      "email": "info@cm-86.fr",
+      "telephone": "05 49 88 13 01",
+      "url": "http://www.cm-86.fr"
+    }
+  },
+  {
+    "id": "1632c79f51e4e9ebcf50a0bf6c6dcb0de1a64533",
+    "alternateName": "CMA",
+    "name": "chambre_de_metiers_et_de_lartisanat_cma_vosges",
+    "title": "Chambre de métiers et de l'artisanat (CMA) - Vosges",
+    "url": "https://lannuaire.service-public.fr/grand-est/vosges/chambre_metier-88160-01",
+    "metadata": {
+      "email": "chambre.metiers@cma-vosges.fr",
+      "telephone": "03 29 69 55 55",
+      "url": "http://www.cma-vosges.fr"
+    }
+  },
+  {
+    "id": "8e93f133696d49ea68eee7fbd9180cc3306356a4",
+    "alternateName": "CMA",
+    "name": "chambre_de_metiers_et_de_lartisanat_cma_yonne",
+    "title": "Chambre de métiers et de l'artisanat (CMA) - Yonne",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/yonne/chambre_metier-89024-01",
+    "metadata": {
+      "email": "accueil-s89@artisanat-bourgogne.fr",
+      "telephone": "03 86 42 05 89",
+      "url": "http://www.artisanat-bourgogne.fr"
+    }
+  },
+  {
+    "id": "5d89bc8669dcc491b5b5c79b2b9fe9d9fdd83baf",
+    "alternateName": "CMA",
+    "name": "chambre_de_metiers_et_de_lartisanat_cma_yvelines",
+    "title": "Chambre de métiers et de l'artisanat (CMA) - Yvelines",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/yvelines/chambre_metier-78646-01",
+    "metadata": {
+      "email": "cm-78@cm-yvelines.fr",
+      "telephone": "01 39 43 43 43",
+      "url": "http://www.cm-yvelines.fr"
+    }
+  }
+]

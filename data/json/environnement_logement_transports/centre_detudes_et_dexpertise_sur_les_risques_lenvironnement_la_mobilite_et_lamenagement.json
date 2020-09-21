@@ -1,0 +1,98 @@
+[
+  {
+    "id": "afa5c782412ecc172e2f1f76c3787f345855173b",
+    "alternateName": "CEREMA",
+    "name": "centre_detudes_et_dexpertise_sur_les_risques_lenvironnement_la_mobilite_et_lamenagement_cerema_direction_territoriale_centre_est",
+    "title": "Centre d'études et d'expertise sur les risques, l'environnement, la mobilité et l'aménagement (CEREMA) - Direction territoriale Centre-Est",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/rhone/cerema-69029-01",
+    "metadata": {
+      "email": "dterce@cerema.fr",
+      "telephone": "04 72 14 30 00",
+      "url": "http://www.centre-est.cerema.fr"
+    }
+  },
+  {
+    "id": "b1e1bc57191456898cf97915966d1f74204d0088",
+    "alternateName": "CEREMA",
+    "name": "centre_detudes_et_dexpertise_sur_les_risques_lenvironnement_la_mobilite_et_lamenagement_cerema_direction_territoriale_est",
+    "title": "Centre d'études et d'expertise sur les risques, l'environnement, la mobilité et l'aménagement (CEREMA) - Direction territoriale Est",
+    "url": "https://lannuaire.service-public.fr/grand-est/moselle/cerema-57463-01",
+    "metadata": {
+      "email": "com-est.dterest.cerema@cerema.fr",
+      "telephone": "03 87 20 43 00",
+      "url": "http://www.est.cerema.fr"
+    }
+  },
+  {
+    "id": "e7331f1cefd7360574b7817f5f31f796f8bbc76c",
+    "alternateName": "CEREMA",
+    "name": "centre_detudes_et_dexpertise_sur_les_risques_lenvironnement_la_mobilite_et_lamenagement_cerema_direction_territoriale_ile_de_france",
+    "title": "Centre d'études et d'expertise sur les risques, l'environnement, la mobilité et l'aménagement (CEREMA) - Direction territoriale Île-de-France",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/val-de-marne/cerema-94067-01",
+    "metadata": {
+      "email": "dteridf.cerema@cerema.fr",
+      "telephone": "01 43 98 70 53",
+      "url": "http://www.ile-de-france.cerema.fr"
+    }
+  },
+  {
+    "id": "b1c4a72b40f9f02b38c37e1f6b21f7bc8eccf81f",
+    "alternateName": "CEREMA",
+    "name": "centre_detudes_et_dexpertise_sur_les_risques_lenvironnement_la_mobilite_et_lamenagement_cerema_direction_territoriale_mediterranee",
+    "title": "Centre d'études et d'expertise sur les risques, l'environnement, la mobilité et l'aménagement (CEREMA) - Direction territoriale Méditerranée",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/cerema-13001-01",
+    "metadata": {
+      "email": "DTerMed@cerema.fr",
+      "telephone": "04 42 24 76 76",
+      "url": "http://www.mediterranee.cerema.fr"
+    }
+  },
+  {
+    "id": "506c72717970793149a9a995133954eb586b48bc",
+    "alternateName": "CEREMA",
+    "name": "centre_detudes_et_dexpertise_sur_les_risques_lenvironnement_la_mobilite_et_lamenagement_cerema_direction_territoriale_nord_picardie",
+    "title": "Centre d'études et d'expertise sur les risques, l'environnement, la mobilité et l'aménagement (CEREMA) - Direction territoriale Nord-Picardie",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/nord/cerema-59350-01",
+    "metadata": {
+      "email": "dternp@cerema.fr",
+      "telephone": "03 20 49 60 00",
+      "url": "http://www.nord-picardie.cerema.fr"
+    }
+  },
+  {
+    "id": "307a41678510bcdc656f1fd3396a5cc63643fe6b",
+    "alternateName": "CEREMA",
+    "name": "centre_detudes_et_dexpertise_sur_les_risques_lenvironnement_la_mobilite_et_lamenagement_cerema_direction_territoriale_normandie_centre",
+    "title": "Centre d'études et d'expertise sur les risques, l'environnement, la mobilité et l'aménagement (CEREMA) - Direction territoriale Normandie-Centre",
+    "url": "https://lannuaire.service-public.fr/normandie/seine-maritime/cerema-76322-01",
+    "metadata": {
+      "email": "DTerNC@cerema.fr",
+      "telephone": "02 35 68 81 00",
+      "url": "http://www.normandie-centre.cerema.fr"
+    }
+  },
+  {
+    "id": "307e138ccc5ae05e7636288b017993781346d5c5",
+    "alternateName": "CEREMA",
+    "name": "centre_detudes_et_dexpertise_sur_les_risques_lenvironnement_la_mobilite_et_lamenagement_cerema_direction_territoriale_ouest",
+    "title": "Centre d'études et d'expertise sur les risques, l'environnement, la mobilité et l'aménagement (CEREMA) - Direction territoriale Ouest",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/loire-atlantique/cerema-44109-01",
+    "metadata": {
+      "email": "dterouest@cerema.fr",
+      "telephone": "02 40 12 83 01",
+      "url": "http://www.ouest.cerema.fr"
+    }
+  },
+  {
+    "id": "ebd60f5e152f7a00d1311146f2290f3e13a9d524",
+    "alternateName": "CEREMA",
+    "name": "centre_detudes_et_dexpertise_sur_les_risques_lenvironnement_la_mobilite_et_lamenagement_cerema_direction_territoriale_sud_ouest",
+    "title": "Centre d'études et d'expertise sur les risques, l'environnement, la mobilité et l'aménagement (CEREMA) - Direction territoriale Sud-Ouest",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/gironde/cerema-33449-01",
+    "metadata": {
+      "email": "dterso@cerema.fr",
+      "telephone": "05 56 70 66 33",
+      "url": "http://www.sud-ouest.cerema.fr"
+    }
+  }
+]

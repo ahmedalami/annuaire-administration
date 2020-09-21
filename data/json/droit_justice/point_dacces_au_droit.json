@@ -1,0 +1,1982 @@
+[
+  {
+    "id": "48667c66fe15d5af2ff35d52436f84ab11c2042e",
+    "name": "aide_aux_victimes_tribunal_de_grande_instance_de_bourges",
+    "title": "Aide aux victimes - Tribunal de grande instance de Bourges",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/cher/permanence_juridique-18033-06",
+    "metadata": {
+      "email": "",
+      "telephone": "+33 2 48 68 33 57 (aux heures de permanence)",
+      "url": ""
+    }
+  },
+  {
+    "id": "132dfda230071ed37c0834e563ac130ce9427e8a",
+    "name": "aide_aux_victimes_tribunal_dinstance_saint_amand_montrond",
+    "title": "Aide aux victimes - Tribunal d'instance - Saint-Amand Montrond",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/cher/permanence_juridique-18197-02",
+    "metadata": {
+      "email": "savim@lerelais18.fr",
+      "telephone": "02 48 96 08 48",
+      "url": ""
+    }
+  },
+  {
+    "id": "2142fb67a82e46917db01fef8a8d5973e5f2b286",
+    "name": "antenne_juridique_et_de_mediation_aubagne",
+    "title": "Antenne juridique et de médiation - Aubagne",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/permanence_juridique-13005-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 42 03 23 42",
+      "url": ""
+    }
+  },
+  {
+    "id": "ef1fcc9f4126cd936f176854375f2dd2e5a1bdbf",
+    "name": "antenne_juridique_et_de_mediation_bellevue_kleber",
+    "title": "Antenne juridique et de médiation Bellevue/Kléber",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/permanence_juridique-13202-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 91 62 82 40",
+      "url": ""
+    }
+  },
+  {
+    "id": "40703a6c74ced2ea4d0fbb71e5999fed5846e685",
+    "name": "antenne_juridique_et_de_mediation_de_bruay_la_buissiere",
+    "title": "Antenne juridique et de médiation de Bruay-la-Buissière",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/pas-de-calais/permanence_juridique-62178-01",
+    "metadata": {
+      "email": "gad@bruaylabuissiere.fr",
+      "telephone": "03 59 41 34 13",
+      "url": ""
+    }
+  },
+  {
+    "id": "89642bcea1f3ff545b62a0c33e97165243ff26fa",
+    "name": "antenne_juridique_et_de_mediation_kalliste_graniere",
+    "title": "Antenne juridique et de médiation Kallisté-Granière",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/permanence_juridique-13215-02",
+    "metadata": {
+      "email": "",
+      "telephone": "04 91 69 29 80",
+      "url": ""
+    }
+  },
+  {
+    "id": "d1dcc2423e69cbf4828eefd40bd7e9dbf2e935ab",
+    "name": "antenne_juridique_et_de_mediation_la_capelette",
+    "title": "Antenne juridique et de médiation La Capelette",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/permanence_juridique-13210-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 91 79 66 01",
+      "url": ""
+    }
+  },
+  {
+    "id": "2eced888ddd90f990da7b3ddaf504db15462b5e0",
+    "name": "antenne_juridique_et_de_mediation_la_castellane",
+    "title": "Antenne juridique et de médiation La Castellane",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/permanence_juridique-13216-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 91 46 04 39",
+      "url": ""
+    }
+  },
+  {
+    "id": "a8492b74ecba86d05eb773092697a998bd640d0e",
+    "name": "antenne_juridique_et_de_mediation_de_la_ciotat",
+    "title": "Antenne juridique et de médiation de La Ciotat",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/permanence_juridique-13028-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 42 83 84 10",
+      "url": ""
+    }
+  },
+  {
+    "id": "c997e26e563f4f8bef25b3454780c19bdf2ae874",
+    "name": "antenne_juridique_et_de_mediation_la_soude",
+    "title": "Antenne juridique et de médiation La Soude",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/permanence_juridique-13209-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 91 40 10 06",
+      "url": ""
+    }
+  },
+  {
+    "id": "7808a7aa5338dbb2d50caf4ea2752711ff39c122",
+    "name": "antenne_juridique_et_de_mediation_malpasse",
+    "title": "Antenne juridique et de médiation Malpassé",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/permanence_juridique-13213-02",
+    "metadata": {
+      "email": "",
+      "telephone": "04 91 58 43 09",
+      "url": ""
+    }
+  },
+  {
+    "id": "d5fc0674b65791d5a5c96bfc5c5259b1757109a6",
+    "name": "antenne_juridique_et_de_mediation_de_marseille",
+    "title": "Antenne juridique et de médiation de Marseille",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/permanence_juridique-13215-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 91 11 42 60",
+      "url": ""
+    }
+  },
+  {
+    "id": "99f34d2f0169ab055be32f5d0e6b070ff8b91c66",
+    "name": "antenne_juridique_et_de_mediation_saint_barthelemy",
+    "title": "Antenne juridique et de médiation Saint-Barthélémy",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/permanence_juridique-13214-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 91 02 35 75",
+      "url": ""
+    }
+  },
+  {
+    "id": "99473dbbc37b0d3d5ed6d728b073a5ffc1601a8b",
+    "name": "antenne_juridique_et_de_mediation_saint_louis",
+    "title": "Antenne juridique et de médiation Saint-Louis",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/permanence_juridique-13215-03",
+    "metadata": {
+      "email": "",
+      "telephone": "04 91 60 61 92",
+      "url": ""
+    }
+  },
+  {
+    "id": "d8a066ea5df7591c77632a2c952cc193057826f1",
+    "name": "antenne_juridique_et_de_mediation_vallee_de_l_huveaune",
+    "title": "Antenne juridique et de médiation Vallée de l'Huveaune",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/permanence_juridique-13211-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 91 35 06 07",
+      "url": ""
+    }
+  },
+  {
+    "id": "9337ffde361ad45a69a03f39818a22649594ee0d",
+    "name": "antenne_juridique_et_de_mediation_val_plan",
+    "title": "Antenne juridique et de médiation Val Plan",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/permanence_juridique-13213-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 91 70 13 39",
+      "url": ""
+    }
+  },
+  {
+    "id": "ec0b3bae226bd79cacac233898737b6ed1d46af2",
+    "name": "antenne_de_prevention_des_expulsions_locatives_tribunal_dinstance_marseille_6_e_arrondissement",
+    "title": "Antenne de prévention des expulsions locatives - Tribunal d'instance - Marseille 6e arrondissement",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/permanence_juridique-13206-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 91 15 50 50",
+      "url": ""
+    }
+  },
+  {
+    "id": "a8261779f797b649cb9061f7a53d4c1b4acd2ee7",
+    "name": "association_cresus_alsace",
+    "title": "Association CRESUS ALSACE",
+    "url": "https://lannuaire.service-public.fr/grand-est/bas-rhin/permanence_juridique-67482-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 90 22 11 34",
+      "url": "http://www.cresusalsace.org"
+    }
+  },
+  {
+    "id": "03ea89efffabb1974df5a0e9060bf290929b3ae3",
+    "name": "association_relais_enfance_et_famille",
+    "title": "ASSOCIATION RELAIS ENFANCE ET FAMILLE",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/cher/permanence_juridique-18033-07",
+    "metadata": {
+      "email": "relaisenfanceetfamille@wanadoo.fr",
+      "telephone": "02 48 70 02 72",
+      "url": "http://www.relais-enfance-famille.fr"
+    }
+  },
+  {
+    "id": "c00a84d0eabc3fdada9ea014566531c5be376485",
+    "name": "bureau_de_laide_juridictionnelle",
+    "title": "Bureau de l'aide juridictionnelle",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/sarthe/permanence_juridique-72181-03",
+    "metadata": {
+      "email": "",
+      "telephone": "",
+      "url": ""
+    }
+  },
+  {
+    "id": "a9aafca82c08ab97de65e17e1ab29e6ab398b076",
+    "name": "centre_dacces_au_droit_des_etrangers_cade",
+    "title": "Centre d'accès au droit des Etrangers CADE",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/permanence_juridique-13201-03",
+    "metadata": {
+      "email": "",
+      "telephone": "04 91 62 72 93",
+      "url": ""
+    }
+  },
+  {
+    "id": "1c42d40c1100d30b9e2fddcd3e828091dea402e8",
+    "name": "centre_dacces_au_droit_des_etrangers_de_marseille",
+    "title": "Centre d'accès au droit des étrangers de Marseille",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/permanence_juridique-13201-04",
+    "metadata": {
+      "email": "",
+      "telephone": "04 91 62 72 93",
+      "url": ""
+    }
+  },
+  {
+    "id": "f9a7541e4e29405391bdb0eeaa86c521016c6b81",
+    "name": "chambre_departementale_des_notaires_de_l_aisne",
+    "title": "Chambre départementale des notaires de l'Aisne",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/aisne/permanence_juridique-02408-02",
+    "metadata": {
+      "email": "",
+      "telephone": "03 23 20 27 47",
+      "url": "http://www.notaires.fr"
+    }
+  },
+  {
+    "id": "d1331829ff128a5a1bf0568b620471c8865acc7e",
+    "name": "consultations_avocats",
+    "title": "Consultations avocats",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/permanence_juridique-13001-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 42 21 72 49",
+      "url": ""
+    }
+  },
+  {
+    "id": "d1331829ff128a5a1bf0568b620471c8865acc7e",
+    "name": "consultations_avocats",
+    "title": "Consultations avocats",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/permanence_juridique-13001-02",
+    "metadata": {
+      "email": "",
+      "telephone": "04 42 20 83 20",
+      "url": ""
+    }
+  },
+  {
+    "id": "d1331829ff128a5a1bf0568b620471c8865acc7e",
+    "name": "consultations_avocats",
+    "title": "Consultations avocats",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/permanence_juridique-13001-03",
+    "metadata": {
+      "email": "",
+      "telephone": "04 42 17 99 22",
+      "url": ""
+    }
+  },
+  {
+    "id": "d1331829ff128a5a1bf0568b620471c8865acc7e",
+    "name": "consultations_avocats",
+    "title": "Consultations avocats",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/permanence_juridique-13002-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 91 10 44 30",
+      "url": ""
+    }
+  },
+  {
+    "id": "d1331829ff128a5a1bf0568b620471c8865acc7e",
+    "name": "consultations_avocats",
+    "title": "Consultations avocats",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/permanence_juridique-13007-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 42 04 70 06",
+      "url": ""
+    }
+  },
+  {
+    "id": "d1331829ff128a5a1bf0568b620471c8865acc7e",
+    "name": "consultations_avocats",
+    "title": "Consultations avocats",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/permanence_juridique-13021-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 42 13 25 27",
+      "url": ""
+    }
+  },
+  {
+    "id": "d1331829ff128a5a1bf0568b620471c8865acc7e",
+    "name": "consultations_avocats",
+    "title": "Consultations avocats",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/permanence_juridique-13026-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 42 79 84 50",
+      "url": ""
+    }
+  },
+  {
+    "id": "d1331829ff128a5a1bf0568b620471c8865acc7e",
+    "name": "consultations_avocats",
+    "title": "Consultations avocats",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/permanence_juridique-13033-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 42 44 88 88",
+      "url": ""
+    }
+  },
+  {
+    "id": "d1331829ff128a5a1bf0568b620471c8865acc7e",
+    "name": "consultations_avocats",
+    "title": "Consultations avocats",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/permanence_juridique-13037-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 90 45 46 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "d1331829ff128a5a1bf0568b620471c8865acc7e",
+    "name": "consultations_avocats",
+    "title": "Consultations avocats",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/permanence_juridique-13039-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 42 47 71 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "d1331829ff128a5a1bf0568b620471c8865acc7e",
+    "name": "consultations_avocats",
+    "title": "Consultations avocats",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/permanence_juridique-13040-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 42 65 65 55",
+      "url": ""
+    }
+  },
+  {
+    "id": "d1331829ff128a5a1bf0568b620471c8865acc7e",
+    "name": "consultations_avocats",
+    "title": "Consultations avocats",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/permanence_juridique-13047-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 13 29 56 20",
+      "url": ""
+    }
+  },
+  {
+    "id": "d1331829ff128a5a1bf0568b620471c8865acc7e",
+    "name": "consultations_avocats",
+    "title": "Consultations avocats",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/permanence_juridique-13056-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 42 07 06 01",
+      "url": ""
+    }
+  },
+  {
+    "id": "d1331829ff128a5a1bf0568b620471c8865acc7e",
+    "name": "consultations_avocats",
+    "title": "Consultations avocats",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/permanence_juridique-13067-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 90 73 00 01",
+      "url": ""
+    }
+  },
+  {
+    "id": "d1331829ff128a5a1bf0568b620471c8865acc7e",
+    "name": "consultations_avocats",
+    "title": "Consultations avocats",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/permanence_juridique-13070-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 91 88 44 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "d1331829ff128a5a1bf0568b620471c8865acc7e",
+    "name": "consultations_avocats",
+    "title": "Consultations avocats",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/permanence_juridique-13071-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 91 67 17 88",
+      "url": ""
+    }
+  },
+  {
+    "id": "d1331829ff128a5a1bf0568b620471c8865acc7e",
+    "name": "consultations_avocats",
+    "title": "Consultations avocats",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/permanence_juridique-13073-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 90 50 30 96",
+      "url": ""
+    }
+  },
+  {
+    "id": "d1331829ff128a5a1bf0568b620471c8865acc7e",
+    "name": "consultations_avocats",
+    "title": "Consultations avocats",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/permanence_juridique-13075-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 91 10 42 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "d1331829ff128a5a1bf0568b620471c8865acc7e",
+    "name": "consultations_avocats",
+    "title": "Consultations avocats",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/permanence_juridique-13077-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 42 40 65 12",
+      "url": ""
+    }
+  },
+  {
+    "id": "d1331829ff128a5a1bf0568b620471c8865acc7e",
+    "name": "consultations_avocats",
+    "title": "Consultations avocats",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/permanence_juridique-13078-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 42 86 37 97",
+      "url": ""
+    }
+  },
+  {
+    "id": "d1331829ff128a5a1bf0568b620471c8865acc7e",
+    "name": "consultations_avocats",
+    "title": "Consultations avocats",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/permanence_juridique-13080-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 42 61 82 72",
+      "url": ""
+    }
+  },
+  {
+    "id": "d1331829ff128a5a1bf0568b620471c8865acc7e",
+    "name": "consultations_avocats",
+    "title": "Consultations avocats",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/permanence_juridique-13085-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 42 73 21 12",
+      "url": ""
+    }
+  },
+  {
+    "id": "d1331829ff128a5a1bf0568b620471c8865acc7e",
+    "name": "consultations_avocats",
+    "title": "Consultations avocats",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/permanence_juridique-13104-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 42 44 51 51",
+      "url": ""
+    }
+  },
+  {
+    "id": "d1331829ff128a5a1bf0568b620471c8865acc7e",
+    "name": "consultations_avocats",
+    "title": "Consultations avocats",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/permanence_juridique-13106-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 91 96 31 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "d1331829ff128a5a1bf0568b620471c8865acc7e",
+    "name": "consultations_avocats",
+    "title": "Consultations avocats",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/permanence_juridique-13110-01",
+    "metadata": {
+      "email": "",
+      "telephone": "",
+      "url": ""
+    }
+  },
+  {
+    "id": "d1331829ff128a5a1bf0568b620471c8865acc7e",
+    "name": "consultations_avocats",
+    "title": "Consultations avocats",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/permanence_juridique-13112-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 42 87 73 77",
+      "url": ""
+    }
+  },
+  {
+    "id": "28d979533d1813c1a40f4f9ed7be81aabdcce07a",
+    "name": "consultations_avocats_notaires",
+    "title": "Consultations avocats, notaires",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/permanence_juridique-13015-01",
+    "metadata": {
+      "email": "",
+      "telephone": "",
+      "url": ""
+    }
+  },
+  {
+    "id": "28d979533d1813c1a40f4f9ed7be81aabdcce07a",
+    "name": "consultations_avocats_notaires",
+    "title": "Consultations avocats, notaires",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/permanence_juridique-13041-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 42 12 67 15",
+      "url": ""
+    }
+  },
+  {
+    "id": "28d979533d1813c1a40f4f9ed7be81aabdcce07a",
+    "name": "consultations_avocats_notaires",
+    "title": "Consultations avocats, notaires",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/permanence_juridique-13063-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 90 50 30 96",
+      "url": ""
+    }
+  },
+  {
+    "id": "28d979533d1813c1a40f4f9ed7be81aabdcce07a",
+    "name": "consultations_avocats_notaires",
+    "title": "Consultations avocats, notaires",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/permanence_juridique-13081-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 42 87 75 70",
+      "url": ""
+    }
+  },
+  {
+    "id": "b04e7eaab20ca7f64d716d91cb23bd51d47efd88",
+    "name": "consultations_avocats_notaires_huissiers_de_justice",
+    "title": "Consultations avocats, notaires, huissiers de justice",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/permanence_juridique-13117-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 42 89 03 31",
+      "url": ""
+    }
+  },
+  {
+    "id": "1b03d021047fcc05ae6342108ba929dfcbb81483",
+    "name": "consultations_avocats_de_chateaurenard",
+    "title": "Consultations avocats de Chateaurenard",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/permanence_juridique-13027-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 90 24 35 35",
+      "url": ""
+    }
+  },
+  {
+    "id": "c8299f70b8d1d2fdd3349b70275fd17add6b334e",
+    "name": "consultations_avocats_droit_du_travail",
+    "title": "Consultations avocats droit du travail",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/permanence_juridique-13055-01",
+    "metadata": {
+      "email": "",
+      "telephone": "0810 81 38 13",
+      "url": ""
+    }
+  },
+  {
+    "id": "4f19c627bba55d66de06b17fb5feb358390b68b1",
+    "name": "consultations_avocats_et_notaires",
+    "title": "Consultations avocats et notaires",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/permanence_juridique-13097-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 90 47 17 29",
+      "url": ""
+    }
+  },
+  {
+    "id": "d390d2e722f62b07554e90b8513e73f993e765e1",
+    "name": "consultations_avocats_generalistes_specialisees_en_droit_de_lenfant",
+    "title": "Consultations avocats généralistes & spécialisées en droit de l'enfant",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/permanence_juridique-13206-02",
+    "metadata": {
+      "email": "",
+      "telephone": "04 91 15 31 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "ab12fe2e0cb120deda7cac235eab2433065fa79b",
+    "name": "consultations_avocats_jeunes_16_25_ans",
+    "title": "Consultations avocats Jeunes 16-25 ans",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/permanence_juridique-13201-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 91 24 33 50",
+      "url": ""
+    }
+  },
+  {
+    "id": "ab12fe2e0cb120deda7cac235eab2433065fa79b",
+    "name": "consultations_avocats_jeunes_16_25_ans",
+    "title": "Consultations avocats Jeunes 16-25 ans",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/permanence_juridique-13201-02",
+    "metadata": {
+      "email": "",
+      "telephone": "04 96 17 46 70",
+      "url": ""
+    }
+  },
+  {
+    "id": "ab12fe2e0cb120deda7cac235eab2433065fa79b",
+    "name": "consultations_avocats_jeunes_16_25_ans",
+    "title": "Consultations avocats Jeunes 16-25 ans",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/permanence_juridique-13216-02",
+    "metadata": {
+      "email": "",
+      "telephone": "04 96 15 33 70",
+      "url": ""
+    }
+  },
+  {
+    "id": "d513302ffdebec20fee9beeb943e3fa4864753d6",
+    "name": "consultations_juridiques_gratuites",
+    "title": "Consultations juridiques gratuites",
+    "url": "https://lannuaire.service-public.fr/grand-est/haute-marne/permanence_juridique-52121-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 25 32 84 20",
+      "url": ""
+    }
+  },
+  {
+    "id": "d513302ffdebec20fee9beeb943e3fa4864753d6",
+    "name": "consultations_juridiques_gratuites",
+    "title": "Consultations juridiques gratuites",
+    "url": "https://lannuaire.service-public.fr/grand-est/haute-marne/permanence_juridique-52269-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 25 84 82 48",
+      "url": ""
+    }
+  },
+  {
+    "id": "d513302ffdebec20fee9beeb943e3fa4864753d6",
+    "name": "consultations_juridiques_gratuites",
+    "title": "Consultations juridiques gratuites",
+    "url": "https://lannuaire.service-public.fr/grand-est/haute-marne/permanence_juridique-52448-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 25 05 10 46",
+      "url": ""
+    }
+  },
+  {
+    "id": "bb71e8c985093d3214cddbbc6304f232fd711c0b",
+    "name": "consultations_juridiques_gratuites_davocats_dans_le_quartier_du_faubourg_de_bethune_a_douai",
+    "title": "Consultations juridiques gratuites d’avocats dans le quartier du faubourg de Béthune à Douai",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/nord/permanence_juridique-59178-01",
+    "metadata": {
+      "email": "deuxmainsensemble@ymail.com",
+      "telephone": "03 27 94 05 79",
+      "url": ""
+    }
+  },
+  {
+    "id": "f6ca922b599811b0ab9e8c5ba12c35fe9f9a4767",
+    "name": "guichet_dacces_au_droit",
+    "title": "Guichet d'accès au droit",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/indre/permanence_juridique-36044-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 54 60 35 35",
+      "url": ""
+    }
+  },
+  {
+    "id": "2d7414566a5a16bcbc918b07e4882dc5a95067a6",
+    "name": "ordre_des_avocats_de_laon",
+    "title": "Ordre des avocats de Laon",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/aisne/permanence_juridique-02408-03",
+    "metadata": {
+      "email": "",
+      "telephone": "03 23 20 27 01",
+      "url": "http://www.avocats-laon.com"
+    }
+  },
+  {
+    "id": "2853bb08a956ae4ba515bd673bae69f2003b710a",
+    "name": "ordre_des_avocats_de_saint_quentin",
+    "title": "Ordre des avocats de Saint-Quentin",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/aisne/permanence_juridique-02691-02",
+    "metadata": {
+      "email": "ordre.avocats.stq@wanadoo.fr",
+      "telephone": "03 23 64 89 74",
+      "url": "http://www.ordre-avocats-saintquentin.com"
+    }
+  },
+  {
+    "id": "1ccdd3899deefa097a1e31138f61c6f7eb6dea43",
+    "name": "ordre_des_avocats_de_soissons",
+    "title": "Ordre des avocats de Soissons",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/aisne/permanence_juridique-02722-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 23 53 24 13",
+      "url": ""
+    }
+  },
+  {
+    "id": "0a800867cacdfd1edcdc189441b9e929e3846252",
+    "name": "permanence_dacces_au_droit_laval_quartier_saint_nicolas",
+    "title": "Permanence d'accès au droit  Laval Quartier Saint Nicolas",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/mayenne/permanence_juridique-53130-04",
+    "metadata": {
+      "email": "cdad-mayenne@justice.fr",
+      "telephone": "02 53 74 15 10",
+      "url": ""
+    }
+  },
+  {
+    "id": "aa0ba08880e35e9560dcd23452725643f53595c7",
+    "name": "permanence_dinformation_et_dorientation_juridiques",
+    "title": "Permanence d’information et d’orientation juridiques",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/sarthe/permanence_juridique-72154-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 43 48 53 50",
+      "url": ""
+    }
+  },
+  {
+    "id": "aa0ba08880e35e9560dcd23452725643f53595c7",
+    "name": "permanence_dinformation_et_dorientation_juridiques",
+    "title": "Permanence d’information et d’orientation juridiques",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/sarthe/permanence_juridique-72180-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 43 54 10 37",
+      "url": ""
+    }
+  },
+  {
+    "id": "aa0ba08880e35e9560dcd23452725643f53595c7",
+    "name": "permanence_dinformation_et_dorientation_juridiques",
+    "title": "Permanence d’information et d’orientation juridiques",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/sarthe/permanence_juridique-72269-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 43 54 10 37",
+      "url": ""
+    }
+  },
+  {
+    "id": "aa0ba08880e35e9560dcd23452725643f53595c7",
+    "name": "permanence_dinformation_et_dorientation_juridiques",
+    "title": "Permanence d’information et d’orientation juridiques",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/sarthe/permanence_juridique-72334-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 43 54 10 37",
+      "url": ""
+    }
+  },
+  {
+    "id": "aa0ba08880e35e9560dcd23452725643f53595c7",
+    "name": "permanence_dinformation_et_dorientation_juridiques",
+    "title": "Permanence d’information et d’orientation juridiques",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/cote-d-or/permanence_juridique-21425-01",
+    "metadata": {
+      "email": "",
+      "telephone": "",
+      "url": ""
+    }
+  },
+  {
+    "id": "aa0ba08880e35e9560dcd23452725643f53595c7",
+    "name": "permanence_dinformation_et_dorientation_juridiques",
+    "title": "Permanence d’information et d’orientation juridiques",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/alpes-maritimes/permanence_juridique-06088-13",
+    "metadata": {
+      "email": "",
+      "telephone": "04 92 17 71 16",
+      "url": ""
+    }
+  },
+  {
+    "id": "aa0ba08880e35e9560dcd23452725643f53595c7",
+    "name": "permanence_dinformation_et_dorientation_juridiques",
+    "title": "Permanence d’information et d’orientation juridiques",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/vaucluse/permanence_juridique-84007-03",
+    "metadata": {
+      "email": "",
+      "telephone": "04 90 82 91 21",
+      "url": ""
+    }
+  },
+  {
+    "id": "aa0ba08880e35e9560dcd23452725643f53595c7",
+    "name": "permanence_dinformation_et_dorientation_juridiques",
+    "title": "Permanence d’information et d’orientation juridiques",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/loiret/permanence_juridique-45234-03",
+    "metadata": {
+      "email": "",
+      "telephone": "",
+      "url": ""
+    }
+  },
+  {
+    "id": "aa0ba08880e35e9560dcd23452725643f53595c7",
+    "name": "permanence_dinformation_et_dorientation_juridiques",
+    "title": "Permanence d’information et d’orientation juridiques",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/nord/permanence_juridique-59183-02",
+    "metadata": {
+      "email": "",
+      "telephone": "0820 25 59 40",
+      "url": ""
+    }
+  },
+  {
+    "id": "aa0ba08880e35e9560dcd23452725643f53595c7",
+    "name": "permanence_dinformation_et_dorientation_juridiques",
+    "title": "Permanence d’information et d’orientation juridiques",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/charente-maritime/permanence_juridique-17300-02",
+    "metadata": {
+      "email": "",
+      "telephone": "05 46 41 18 86",
+      "url": ""
+    }
+  },
+  {
+    "id": "aa0ba08880e35e9560dcd23452725643f53595c7",
+    "name": "permanence_dinformation_et_dorientation_juridiques",
+    "title": "Permanence d’information et d’orientation juridiques",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/haute-vienne/permanence_juridique-87085-05",
+    "metadata": {
+      "email": "",
+      "telephone": "05 55 12 76 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "aa0ba08880e35e9560dcd23452725643f53595c7",
+    "name": "permanence_dinformation_et_dorientation_juridiques",
+    "title": "Permanence d’information et d’orientation juridiques",
+    "url": "https://lannuaire.service-public.fr/occitanie/gard/permanence_juridique-30189-07",
+    "metadata": {
+      "email": "",
+      "telephone": "04 66 76 48 90",
+      "url": ""
+    }
+  },
+  {
+    "id": "dbe2ec134042b8e23cda0493ac7ba5cb9b8e6d8e",
+    "name": "permanence_dinformation_et_dorientation_juridiques_d_abbeville",
+    "title": "Permanence d’information et d’orientation juridiques d'Abbeville",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/somme/permanence_juridique-80001-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 22 25 43 43",
+      "url": ""
+    }
+  },
+  {
+    "id": "bd427de1c13b4b91be7e18f72b089b5a25af3774",
+    "name": "permanence_dinformation_et_dorientation_juridiques_d_aire_sur_l_adour",
+    "title": "Permanence d’information et d’orientation juridiques d'Aire-sur-L'Adour",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/landes/permanence_juridique-40001-01",
+    "metadata": {
+      "email": "cdadlandes@orange.fr",
+      "telephone": "05 58 71 92 98",
+      "url": "http://www.cdad-landes.justice.fr/"
+    }
+  },
+  {
+    "id": "d6d2cccbc3d114beef75d26dfeb0e5b2273bb470",
+    "name": "permanence_dinformation_et_dorientation_juridiques_d_aix_en_othe",
+    "title": "Permanence d’information et d’orientation juridiques d'Aix-En-Othe",
+    "url": "https://lannuaire.service-public.fr/grand-est/aube/permanence_juridique-10003-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 25 46 70 63",
+      "url": ""
+    }
+  },
+  {
+    "id": "059d00dfa44d3bca982cdbac03c10e16762abfc3",
+    "name": "permanence_dinformation_et_dorientation_juridiques_d_ajaccio",
+    "title": "Permanence d’information et d’orientation juridiques d'Ajaccio",
+    "url": "https://lannuaire.service-public.fr/corse/corse-du-sud/permanence_juridique-2A004-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 95 20 08 59",
+      "url": ""
+    }
+  },
+  {
+    "id": "7f25847b06fd1a7bb4a3fd40e270f98ac67610cb",
+    "name": "permanence_dinformation_et_dorientation_juridiques_d_albertville",
+    "title": "Permanence d’information et d’orientation juridiques d'Albertville",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/savoie/permanence_juridique-73011-02",
+    "metadata": {
+      "email": "",
+      "telephone": "04 79 32 21 02",
+      "url": ""
+    }
+  },
+  {
+    "id": "0d899049b7f4bde0d3f1f5b4f808c8fe666a4a96",
+    "name": "permanence_dinformation_et_dorientation_juridiques_d_albi",
+    "title": "Permanence d’information et d’orientation juridiques d'Albi",
+    "url": "https://lannuaire.service-public.fr/occitanie/tarn/permanence_juridique-81004-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 63 54 85 90",
+      "url": ""
+    }
+  },
+  {
+    "id": "c95e528557c0a31b6bc3e4608985de59c514f4d6",
+    "name": "permanence_dinformation_et_dorientation_juridiques_d_ambert",
+    "title": "Permanence d’information et d’orientation juridiques d'Ambert",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/puy-de-dome/permanence_juridique-63003-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 73 82 07 60",
+      "url": ""
+    }
+  },
+  {
+    "id": "ee491bcff74bd37f93ba889015f597279cb2adec",
+    "name": "permanence_dinformation_et_dorientation_juridiques_d_amiens",
+    "title": "Permanence d’information et d’orientation juridiques d'Amiens",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/somme/permanence_juridique-80021-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 22 50 04 50",
+      "url": ""
+    }
+  },
+  {
+    "id": "02b00dde2b5bc1577d27d821a2df70a50c507b88",
+    "name": "permanence_dinformation_et_dorientation_juridiques_d_anglet",
+    "title": "Permanence d’information et d’orientation juridiques d'Anglet",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/pyrenees-atlantiques/permanence_juridique-64024-01",
+    "metadata": {
+      "email": "",
+      "telephone": "",
+      "url": ""
+    }
+  },
+  {
+    "id": "48a697bfad3d6f36a9e66b7ef87b25667117ad1b",
+    "name": "permanence_dinformation_et_dorientation_juridiques_d_annecy",
+    "title": "Permanence d’information et d’orientation juridiques d'Annecy",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/haute-savoie/permanence_juridique-74010-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 50 45 89 29",
+      "url": ""
+    }
+  },
+  {
+    "id": "60445e3224179f67dae5d43dc01aff4bf223faf8",
+    "name": "permanence_dinformation_et_dorientation_juridiques_d_annemasse",
+    "title": "Permanence d’information et d’orientation juridiques d'Annemasse",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/haute-savoie/permanence_juridique-74012-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 50 26 08 04",
+      "url": ""
+    }
+  },
+  {
+    "id": "3a2c2d6868c57303542e9ef9bbc31fa48ee515fc",
+    "name": "permanence_dinformation_et_dorientation_juridiques_d_annoeullin",
+    "title": "Permanence d’information et d’orientation juridiques d'Annoeullin",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/nord/permanence_juridique-59011-01",
+    "metadata": {
+      "email": "",
+      "telephone": "",
+      "url": ""
+    }
+  },
+  {
+    "id": "9c7f10b879cd177c77210a80b6f649b690867457",
+    "name": "permanence_dinformation_et_dorientation_juridiques_d_annonay",
+    "title": "Permanence d’information et d’orientation juridiques d'Annonay",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/ardeche/permanence_juridique-07010-01",
+    "metadata": {
+      "email": "",
+      "telephone": "",
+      "url": ""
+    }
+  },
+  {
+    "id": "0e430ab7953dbf115b81c36a1ed3cb65d3300038",
+    "name": "permanence_dinformation_et_dorientation_juridiques_d_apt",
+    "title": "Permanence d’information et d’orientation juridiques d'Apt",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/vaucluse/permanence_juridique-84003-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 90 04 80 80",
+      "url": ""
+    }
+  },
+  {
+    "id": "dedb2eeacbb3f23ee9bc9aa59d90b91f43a573b0",
+    "name": "permanence_dinformation_et_dorientation_juridiques_d_arcis_sur_aube",
+    "title": "Permanence d’information et d’orientation juridiques d'Arcis-sur-Aube",
+    "url": "https://lannuaire.service-public.fr/grand-est/aube/permanence_juridique-10006-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 25 37 80 36",
+      "url": ""
+    }
+  },
+  {
+    "id": "55ad9906687626aaf8996d609f9552250cb16d85",
+    "name": "permanence_dinformation_et_dorientation_juridiques_argentan",
+    "title": "Permanence d’information et d’orientation juridiques -Argentan-",
+    "url": "https://lannuaire.service-public.fr/normandie/orne/permanence_juridique-61006-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 33 32 20 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "b5da84f669461f86446bd298ef7e869d958c0743",
+    "name": "permanence_dinformation_et_dorientation_juridiques_d_aubenas",
+    "title": "Permanence d’information et d’orientation juridiques d'Aubenas",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/ardeche/permanence_juridique-07019-01",
+    "metadata": {
+      "email": "",
+      "telephone": "",
+      "url": ""
+    }
+  },
+  {
+    "id": "8bc01d611bad67abb65bee4b1b4f8f6571e3159f",
+    "name": "permanence_dinformation_et_dorientation_juridiques_d_aubiere",
+    "title": "Permanence d’information et d’orientation juridiques d'Aubière",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/puy-de-dome/permanence_juridique-63014-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 73 44 01 01",
+      "url": ""
+    }
+  },
+  {
+    "id": "513b76186fb9a172a4d7d02b1392d5b60c1666f8",
+    "name": "permanence_dinformation_et_dorientation_juridiques_d_auch",
+    "title": "Permanence d’information et d’orientation juridiques d'Auch",
+    "url": "https://lannuaire.service-public.fr/occitanie/gers/permanence_juridique-32013-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 62 61 67 27",
+      "url": ""
+    }
+  },
+  {
+    "id": "3b9d7ac9a9016457c0807142986787806b620826",
+    "name": "permanence_dinformation_et_dorientation_juridiques_d_aurillac",
+    "title": "Permanence d’information et d’orientation juridiques d'Aurillac",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/cantal/permanence_juridique-15014-01",
+    "metadata": {
+      "email": "",
+      "telephone": "",
+      "url": ""
+    }
+  },
+  {
+    "id": "207bd89d84fd8908ef281a71b00f14df4d91a9e1",
+    "name": "permanence_dinformation_et_dorientation_juridiques_d_auxon",
+    "title": "Permanence d’information et d’orientation juridiques d'Auxon",
+    "url": "https://lannuaire.service-public.fr/grand-est/aube/permanence_juridique-10018-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 25 42 11 61",
+      "url": ""
+    }
+  },
+  {
+    "id": "ca8533cee4fad795ff8675fcbca0dd075a69597e",
+    "name": "permanence_dinformation_et_dorientation_juridiques_d_avignon",
+    "title": "Permanence d’information et d’orientation juridiques d'Avignon",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/vaucluse/permanence_juridique-84007-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 90 25 30 56",
+      "url": ""
+    }
+  },
+  {
+    "id": "ca8533cee4fad795ff8675fcbca0dd075a69597e",
+    "name": "permanence_dinformation_et_dorientation_juridiques_d_avignon",
+    "title": "Permanence d’information et d’orientation juridiques d'Avignon",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/vaucluse/permanence_juridique-84007-04",
+    "metadata": {
+      "email": "",
+      "telephone": "04 90 80 58 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "ca8533cee4fad795ff8675fcbca0dd075a69597e",
+    "name": "permanence_dinformation_et_dorientation_juridiques_d_avignon",
+    "title": "Permanence d’information et d’orientation juridiques d'Avignon",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/vaucluse/permanence_juridique-84007-05",
+    "metadata": {
+      "email": "",
+      "telephone": "04 90 87 23 02",
+      "url": ""
+    }
+  },
+  {
+    "id": "ca8533cee4fad795ff8675fcbca0dd075a69597e",
+    "name": "permanence_dinformation_et_dorientation_juridiques_d_avignon",
+    "title": "Permanence d’information et d’orientation juridiques d'Avignon",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/vaucluse/permanence_juridique-84007-06",
+    "metadata": {
+      "email": "",
+      "telephone": "04 90 87 00 53",
+      "url": ""
+    }
+  },
+  {
+    "id": "ca8533cee4fad795ff8675fcbca0dd075a69597e",
+    "name": "permanence_dinformation_et_dorientation_juridiques_d_avignon",
+    "title": "Permanence d’information et d’orientation juridiques d'Avignon",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/vaucluse/permanence_juridique-84007-07",
+    "metadata": {
+      "email": "",
+      "telephone": "04 90 87 39 07",
+      "url": ""
+    }
+  },
+  {
+    "id": "ca8533cee4fad795ff8675fcbca0dd075a69597e",
+    "name": "permanence_dinformation_et_dorientation_juridiques_d_avignon",
+    "title": "Permanence d’information et d’orientation juridiques d'Avignon",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/vaucluse/permanence_juridique-84007-08",
+    "metadata": {
+      "email": "",
+      "telephone": "04 90 85 24 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "ca8533cee4fad795ff8675fcbca0dd075a69597e",
+    "name": "permanence_dinformation_et_dorientation_juridiques_d_avignon",
+    "title": "Permanence d’information et d’orientation juridiques d'Avignon",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/vaucluse/permanence_juridique-84007-09",
+    "metadata": {
+      "email": "",
+      "telephone": "04 90 82 91 21",
+      "url": ""
+    }
+  },
+  {
+    "id": "4e92344c87fc86bc5cbc4d3eac5c51751fe038ad",
+    "name": "permanence_dinformation_et_dorientation_juridiques_d_avranches",
+    "title": "Permanence d’information et d’orientation juridiques d'Avranches",
+    "url": "https://lannuaire.service-public.fr/normandie/manche/permanence_juridique-50025-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 33 19 05 80",
+      "url": ""
+    }
+  },
+  {
+    "id": "667853694634e2814fc95afc6e451b4e9d890756",
+    "name": "permanence_dinformation_et_dorientation_juridiques_de_barberey_saint_sulpice",
+    "title": "Permanence d’information et d’orientation juridiques de Barberey-Saint-Sulpice",
+    "url": "https://lannuaire.service-public.fr/grand-est/aube/permanence_juridique-10030-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 25 76 67 93",
+      "url": ""
+    }
+  },
+  {
+    "id": "3939b113f9654c757f3f1ff0a9af4c306f628da1",
+    "name": "permanence_dinformation_et_dorientation_juridiques_de_bar_sur_aube",
+    "title": "Permanence d’information et d’orientation juridiques de Bar-sur-Aube",
+    "url": "https://lannuaire.service-public.fr/grand-est/aube/permanence_juridique-10033-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 25 27 04 21",
+      "url": ""
+    }
+  },
+  {
+    "id": "b7b0d3ccc00a9309e0f5a8ac25af191ef59293bf",
+    "name": "permanence_dinformation_et_dorientation_juridiques_de_bar_sur_seine",
+    "title": "Permanence d’information et d’orientation juridiques de Bar-sur-Seine",
+    "url": "https://lannuaire.service-public.fr/grand-est/aube/permanence_juridique-10034-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 25 29 80 35",
+      "url": ""
+    }
+  },
+  {
+    "id": "15bb9c71f5558f52dd9adf0245aa92ae4912101a",
+    "name": "permanence_dinformation_et_dorientation_juridiques_de_bauvin",
+    "title": "Permanence d’information et d’orientation juridiques de Bauvin",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/nord/permanence_juridique-59052-01",
+    "metadata": {
+      "email": "",
+      "telephone": "",
+      "url": ""
+    }
+  },
+  {
+    "id": "efebf587699dd0caa106bbe5b32e3251e4a675e1",
+    "name": "permanence_dinformation_et_dorientation_juridiques_de_bayel",
+    "title": "Permanence d’information et d’orientation juridiques de Bayel",
+    "url": "https://lannuaire.service-public.fr/grand-est/aube/permanence_juridique-10035-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 25 92 05 14",
+      "url": ""
+    }
+  },
+  {
+    "id": "4036036c671d9ede2cf32e175a1f9e8fefbcd793",
+    "name": "permanence_dinformation_et_dorientation_juridiques_de_bayonne",
+    "title": "Permanence d’information et d’orientation juridiques de Bayonne",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/pyrenees-atlantiques/permanence_juridique-64102-01",
+    "metadata": {
+      "email": "",
+      "telephone": "",
+      "url": ""
+    }
+  },
+  {
+    "id": "4036036c671d9ede2cf32e175a1f9e8fefbcd793",
+    "name": "permanence_dinformation_et_dorientation_juridiques_de_bayonne",
+    "title": "Permanence d’information et d’orientation juridiques de Bayonne",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/pyrenees-atlantiques/permanence_juridique-64102-02",
+    "metadata": {
+      "email": "",
+      "telephone": "",
+      "url": ""
+    }
+  },
+  {
+    "id": "4036036c671d9ede2cf32e175a1f9e8fefbcd793",
+    "name": "permanence_dinformation_et_dorientation_juridiques_de_bayonne",
+    "title": "Permanence d’information et d’orientation juridiques de Bayonne",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/pyrenees-atlantiques/permanence_juridique-64102-03",
+    "metadata": {
+      "email": "",
+      "telephone": "05 59 59 27 72",
+      "url": ""
+    }
+  },
+  {
+    "id": "c0737e5081a2540751d7292a222c95a3c2f6d359",
+    "name": "permanence_dinformation_et_dorientation_juridiques_de_beaugency",
+    "title": "Permanence d’information et d’orientation juridiques de Beaugency",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/loiret/permanence_juridique-45028-01",
+    "metadata": {
+      "email": "",
+      "telephone": "",
+      "url": ""
+    }
+  },
+  {
+    "id": "e48041a382c006cf5e1c3572623ce64b9b373fc7",
+    "name": "permanence_dinformation_et_dorientation_juridiques_de_beaujeu",
+    "title": "Permanence d’information et d’orientation juridiques de Beaujeu",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/rhone/permanence_juridique-69018-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 74 65 05 95",
+      "url": ""
+    }
+  },
+  {
+    "id": "021d15b295e1d0c9744eabbd65adb61d2f4440a7",
+    "name": "permanence_dinformation_et_dorientation_juridiques_de_beausoleil",
+    "title": "Permanence d’information et d’orientation juridiques de Beausoleil",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/alpes-maritimes/permanence_juridique-06012-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 93 41 71 71",
+      "url": ""
+    }
+  },
+  {
+    "id": "7c1167f5afce8b4f37eccd69d9c9dc715dcd3822",
+    "name": "permanence_dinformation_et_dorientation_juridiques_de_biarritz",
+    "title": "Permanence d’information et d’orientation juridiques de Biarritz",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/pyrenees-atlantiques/permanence_juridique-64122-01",
+    "metadata": {
+      "email": "",
+      "telephone": "",
+      "url": ""
+    }
+  },
+  {
+    "id": "0cf279c33761d3e123a624d2adddfab78d1eb1af",
+    "name": "permanence_dinformation_et_dorientation_juridiques_de_biscarrosse",
+    "title": "Permanence d’information et d’orientation juridiques de Biscarrosse",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/landes/permanence_juridique-40046-01",
+    "metadata": {
+      "email": "cdadlandes@orange.fr",
+      "telephone": "05 58 83 40 40",
+      "url": "http://www.cdad-landes.justice.fr/"
+    }
+  },
+  {
+    "id": "fbd7b4c5ebb8b67f8a582253d0f3f70e77196950",
+    "name": "permanence_dinformation_et_dorientation_juridiques_de_bollene",
+    "title": "Permanence d’information et d’orientation juridiques de Bollène",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/vaucluse/permanence_juridique-84019-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 90 40 51 05",
+      "url": ""
+    }
+  },
+  {
+    "id": "cb8e93cc0d20c44459546fbebbd5c057de911f43",
+    "name": "permanence_dinformation_et_dorientation_juridiques_de_bonifacio",
+    "title": "Permanence d’information et d’orientation juridiques de Bonifacio",
+    "url": "https://lannuaire.service-public.fr/corse/corse-du-sud/permanence_juridique-2A041-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 95 73 00 15",
+      "url": ""
+    }
+  },
+  {
+    "id": "a3da608aa2127c5478ec71d9d569957e8c256542",
+    "name": "permanence_dinformation_et_dorientation_juridiques_de_boulages",
+    "title": "Permanence d’information et d’orientation juridiques de Boulages",
+    "url": "https://lannuaire.service-public.fr/grand-est/aube/permanence_juridique-10052-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 25 37 45 67",
+      "url": ""
+    }
+  },
+  {
+    "id": "beaf9519c180540af5a66678b242cf23465c4fff",
+    "name": "permanence_dinformation_et_dorientation_juridiques_de_bourdenay",
+    "title": "Permanence d’information et d’orientation juridiques de Bourdenay",
+    "url": "https://lannuaire.service-public.fr/grand-est/aube/permanence_juridique-10054-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 25 21 75 11",
+      "url": ""
+    }
+  },
+  {
+    "id": "d9b764cab2dc8f5390f27abc376c697121755a46",
+    "name": "permanence_dinformation_et_dorientation_juridiques_de_bourgoin_jallieu",
+    "title": "Permanence d’information et d’orientation juridiques de Bourgoin Jallieu",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/isere/permanence_juridique-38053-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 74 43 97 67",
+      "url": ""
+    }
+  },
+  {
+    "id": "d9b764cab2dc8f5390f27abc376c697121755a46",
+    "name": "permanence_dinformation_et_dorientation_juridiques_de_bourgoin_jallieu",
+    "title": "Permanence d’information et d’orientation juridiques de Bourgoin Jallieu",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/isere/permanence_juridique-38053-02",
+    "metadata": {
+      "email": "",
+      "telephone": "",
+      "url": ""
+    }
+  },
+  {
+    "id": "d2f1334029a19ddfc1b8aba141aae187aa9eebb0",
+    "name": "permanence_dinformation_et_dorientation_juridiques_de_breil_sur_roya",
+    "title": "Permanence d’information et d’orientation juridiques de Breil-sur-Roya",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/alpes-maritimes/permanence_juridique-06023-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 93 04 99 99",
+      "url": ""
+    }
+  },
+  {
+    "id": "24ca6829fca75e6ef436dc4fc866a962fcb6c2c6",
+    "name": "permanence_dinformation_et_dorientation_juridiques_de_bressuire",
+    "title": "Permanence d’information et d’orientation juridiques de Bressuire",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/deux-sevres/permanence_juridique-79049-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 49 65 34 42",
+      "url": ""
+    }
+  },
+  {
+    "id": "6b117ee76d886bbf025bcd588b917d6b7a0191c6",
+    "name": "permanence_dinformation_et_dorientation_juridiques_de_brienne_le_chateau",
+    "title": "Permanence d’information et d’orientation juridiques de Brienne-Le-Château",
+    "url": "https://lannuaire.service-public.fr/grand-est/aube/permanence_juridique-10064-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 25 92 80 31",
+      "url": ""
+    }
+  },
+  {
+    "id": "d468483ce025c66b86b34d019639fd840202d4f2",
+    "name": "permanence_dinformation_et_dorientation_juridiques_de_cagnes_sur_mer",
+    "title": "Permanence d’information et d’orientation juridiques de Cagnes-sur-Mer",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/alpes-maritimes/permanence_juridique-06027-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 92 02 57 40",
+      "url": ""
+    }
+  },
+  {
+    "id": "362218db7fb73f41a4e2749fc4bfa090bb4419a5",
+    "name": "permanence_dinformation_et_dorientation_juridiques_de_cambrai",
+    "title": "Permanence d’information et d’orientation juridiques de Cambrai",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/nord/permanence_juridique-59122-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 27 78 29 76",
+      "url": ""
+    }
+  },
+  {
+    "id": "3d85d4e2ec454e7c5873f081899d80d24321fb90",
+    "name": "permanence_dinformation_et_dorientation_juridiques_de_cargese",
+    "title": "Permanence d’information et d’orientation juridiques de Cargèse",
+    "url": "https://lannuaire.service-public.fr/corse/corse-du-sud/permanence_juridique-2A065-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 95 26 41 01",
+      "url": ""
+    }
+  },
+  {
+    "id": "335d03441ab3f992ac49efe7e9deec2326d5ea9f",
+    "name": "permanence_dinformation_et_dorientation_juridiques_de_carpentras",
+    "title": "Permanence d’information et d’orientation juridiques de Carpentras",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/vaucluse/permanence_juridique-84031-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 90 67 13 60",
+      "url": ""
+    }
+  },
+  {
+    "id": "335d03441ab3f992ac49efe7e9deec2326d5ea9f",
+    "name": "permanence_dinformation_et_dorientation_juridiques_de_carpentras",
+    "title": "Permanence d’information et d’orientation juridiques de Carpentras",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/vaucluse/permanence_juridique-84031-02",
+    "metadata": {
+      "email": "",
+      "telephone": "04 32 85 84 40",
+      "url": ""
+    }
+  },
+  {
+    "id": "cdd6dc14d4d753c4f74f0166633d0fbb61843a21",
+    "name": "permanence_dinformation_et_dorientation_juridiques_de_castres",
+    "title": "Permanence d’information et d’orientation juridiques de Castres",
+    "url": "https://lannuaire.service-public.fr/occitanie/tarn/permanence_juridique-81065-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 63 59 53 69",
+      "url": ""
+    }
+  },
+  {
+    "id": "cdd6dc14d4d753c4f74f0166633d0fbb61843a21",
+    "name": "permanence_dinformation_et_dorientation_juridiques_de_castres",
+    "title": "Permanence d’information et d’orientation juridiques de Castres",
+    "url": "https://lannuaire.service-public.fr/occitanie/tarn/permanence_juridique-81065-02",
+    "metadata": {
+      "email": "",
+      "telephone": "05 63 73 58 68",
+      "url": ""
+    }
+  },
+  {
+    "id": "7c536b081fb85d3107786b925a092035522d4bf9",
+    "name": "permanence_dinformation_et_dorientation_juridiques_de_chacenay",
+    "title": "Permanence d’information et d’orientation juridiques de Chacenay",
+    "url": "https://lannuaire.service-public.fr/grand-est/aube/permanence_juridique-10071-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 25 38 74 74",
+      "url": ""
+    }
+  },
+  {
+    "id": "5337d1ce3b9979c593b42e66aaa2306271395d33",
+    "name": "permanence_dinformation_et_dorientation_juridiques_de_chalons_en_champagne",
+    "title": "Permanence d’information et d’orientation juridiques de Châlons-En-Champagne",
+    "url": "https://lannuaire.service-public.fr/grand-est/marne/permanence_juridique-51108-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 26 65 05 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "4655800307a579e05aa7ce1fc1d0f009755e0dee",
+    "name": "permanence_dinformation_et_dorientation_juridiques_de_chambery",
+    "title": "Permanence d’information et d’orientation juridiques de Chambéry",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/savoie/permanence_juridique-73065-02",
+    "metadata": {
+      "email": "",
+      "telephone": "04 79 62 74 13",
+      "url": ""
+    }
+  },
+  {
+    "id": "7c31b4e333b07029e7fcafd2337332e0e841a043",
+    "name": "permanence_dinformation_et_dorientation_juridiques_de_charmont_sous_barbuise",
+    "title": "Permanence d’information et d’orientation juridiques de Charmont-Sous-Barbuise",
+    "url": "https://lannuaire.service-public.fr/grand-est/aube/permanence_juridique-10084-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 25 41 00 49",
+      "url": ""
+    }
+  },
+  {
+    "id": "be309054cb4d319cb2dd4da1373a18f8ddd8d997",
+    "name": "permanence_dinformation_et_dorientation_juridiques_de_chateauneuf_sur_loire",
+    "title": "Permanence d’information et d’orientation juridiques de Châteauneuf-sur-Loire",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/loiret/permanence_juridique-45082-01",
+    "metadata": {
+      "email": "",
+      "telephone": "",
+      "url": ""
+    }
+  },
+  {
+    "id": "04ee66ffc033ccfae6cdb8f7a3b05a89b38db244",
+    "name": "permanence_dinformation_et_dorientation_juridiques_de_cherbourg_octeville",
+    "title": "Permanence d’information et d’orientation juridiques de Cherbourg-Octeville",
+    "url": "https://lannuaire.service-public.fr/normandie/manche/permanence_juridique-50129-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 33 78 98 49",
+      "url": ""
+    }
+  },
+  {
+    "id": "64ab00219615c65e23f3053fc529e9f53b2afbaa",
+    "name": "permanence_dinformation_et_dorientation_juridiques_de_cholet",
+    "title": "Permanence d’information et d’orientation juridiques de Cholet",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/maine-et-loire/permanence_juridique-49099-01",
+    "metadata": {
+      "email": "",
+      "telephone": "",
+      "url": ""
+    }
+  },
+  {
+    "id": "1cf522686bc3431ec891469849c217ac215a8de0",
+    "name": "permanence_dinformation_et_dorientation_juridiques_de_clermont_ferrand",
+    "title": "Permanence d’information et d’orientation juridiques de Clermont Ferrand",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/puy-de-dome/permanence_juridique-63113-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 73 42 63 63",
+      "url": ""
+    }
+  },
+  {
+    "id": "1cf522686bc3431ec891469849c217ac215a8de0",
+    "name": "permanence_dinformation_et_dorientation_juridiques_de_clermont_ferrand",
+    "title": "Permanence d’information et d’orientation juridiques de Clermont Ferrand",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/puy-de-dome/permanence_juridique-63113-02",
+    "metadata": {
+      "email": "",
+      "telephone": "04 73 31 77 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "1cf522686bc3431ec891469849c217ac215a8de0",
+    "name": "permanence_dinformation_et_dorientation_juridiques_de_clermont_ferrand",
+    "title": "Permanence d’information et d’orientation juridiques de Clermont Ferrand",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/puy-de-dome/permanence_juridique-63113-03",
+    "metadata": {
+      "email": "",
+      "telephone": "04 73 92 30 50",
+      "url": ""
+    }
+  },
+  {
+    "id": "7fb046ea08073143bcb13293312364b6b90925d9",
+    "name": "permanence_dinformation_et_dorientation_juridiques_de_clermont_ferrand",
+    "title": "Permanence d’information et d’orientation juridiques de Clermont-Ferrand",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/puy-de-dome/permanence_juridique-63113-04",
+    "metadata": {
+      "email": "",
+      "telephone": "04 73 24 83 77",
+      "url": ""
+    }
+  },
+  {
+    "id": "2322d83778c31f8029009677087055be31b9afea",
+    "name": "permanence_dinformation_et_dorientation_juridiques_de_corbie",
+    "title": "Permanence d’information et d’orientation juridiques de Corbie",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/somme/permanence_juridique-80212-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 22 96 43 03",
+      "url": ""
+    }
+  },
+  {
+    "id": "29cbbd0a448108645fd930c0a971622b3b2251f8",
+    "name": "permanence_dinformation_et_dorientation_juridiques_de_cournon_d_auvergne",
+    "title": "Permanence d’information et d’orientation juridiques de Cournon-D'Auvergne",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/puy-de-dome/permanence_juridique-63124-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 73 69 90 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "e5673497d1297e0f6f40b28aeaf13a9668ea46e3",
+    "name": "permanence_dinformation_et_dorientation_juridiques_de_coutances",
+    "title": "Permanence d’information et d’orientation juridiques de Coutances",
+    "url": "https://lannuaire.service-public.fr/normandie/manche/permanence_juridique-50147-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 33 19 05 80",
+      "url": ""
+    }
+  },
+  {
+    "id": "e5673497d1297e0f6f40b28aeaf13a9668ea46e3",
+    "name": "permanence_dinformation_et_dorientation_juridiques_de_coutances",
+    "title": "Permanence d’information et d’orientation juridiques de Coutances",
+    "url": "https://lannuaire.service-public.fr/normandie/manche/permanence_juridique-50147-02",
+    "metadata": {
+      "email": "",
+      "telephone": "",
+      "url": ""
+    }
+  },
+  {
+    "id": "f279b68a9db50c81f1e96b47dade8bb94188e571",
+    "name": "permanence_dinformation_et_dorientation_juridiques_de_crancey",
+    "title": "Permanence d’information et d’orientation juridiques de Crancey",
+    "url": "https://lannuaire.service-public.fr/grand-est/aube/permanence_juridique-10114-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 25 24 81 20",
+      "url": ""
+    }
+  },
+  {
+    "id": "e358b1eac72cb6ffa77809756657c2ef62348411",
+    "name": "permanence_dinformation_et_dorientation_juridiques_de_creney_pres_troyes",
+    "title": "Permanence d’information et d’orientation juridiques de Creney-Près-Troyes",
+    "url": "https://lannuaire.service-public.fr/grand-est/aube/permanence_juridique-10115-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 25 81 82 60",
+      "url": ""
+    }
+  },
+  {
+    "id": "d0ec90bcd362948bbc54369cb8d8a89d084c424d",
+    "name": "permanence_dinformation_et_dorientation_juridiques_de_crest",
+    "title": "Permanence d’information et d’orientation juridiques de Crest",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/drome/permanence_juridique-26108-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 75 76 81 20",
+      "url": ""
+    }
+  },
+  {
+    "id": "42ff071631923fcb6f5c02e54490dfcd4714e851",
+    "name": "permanence_dinformation_et_dorientation_juridiques_de_creteil",
+    "title": "Permanence d’information et d’orientation juridiques de Créteil",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/val-de-marne/permanence_juridique-94028-01",
+    "metadata": {
+      "email": "",
+      "telephone": "01 45 17 06 09",
+      "url": ""
+    }
+  },
+  {
+    "id": "42ff071631923fcb6f5c02e54490dfcd4714e851",
+    "name": "permanence_dinformation_et_dorientation_juridiques_de_creteil",
+    "title": "Permanence d’information et d’orientation juridiques de Créteil",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/val-de-marne/permanence_juridique-94028-05",
+    "metadata": {
+      "email": "",
+      "telephone": "01 43 76 33 40",
+      "url": ""
+    }
+  },
+  {
+    "id": "e53090f7c4ee470991a34d62fb262fba4e0e79d4",
+    "name": "permanence_dinformation_et_dorientation_juridiques_de_dax",
+    "title": "Permanence d’information et d’orientation juridiques de Dax",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/landes/permanence_juridique-40088-01",
+    "metadata": {
+      "email": "cdadlandes@orange.fr",
+      "telephone": "05 58 74 47 81",
+      "url": "http://www.cdad-landes.justice.fr/"
+    }
+  },
+  {
+    "id": "2ac7e6821208d68708ffe16785cf795a11e7dda4",
+    "name": "permanence_dinformation_et_dorientation_juridiques_dediee_aux_jeunes_mineurs",
+    "title": "Permanence d’information et d’orientation juridiques dédiée aux jeunes/mineurs",
+    "url": "https://lannuaire.service-public.fr/grand-est/marne/permanence_juridique-51454-02",
+    "metadata": {
+      "email": "",
+      "telephone": "03 26 03 56 38",
+      "url": ""
+    }
+  },
+  {
+    "id": "2ac7e6821208d68708ffe16785cf795a11e7dda4",
+    "name": "permanence_dinformation_et_dorientation_juridiques_dediee_aux_jeunes_mineurs",
+    "title": "Permanence d’information et d’orientation juridiques dédiée aux jeunes/mineurs",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/nord/permanence_juridique-59392-02",
+    "metadata": {
+      "email": "",
+      "telephone": "",
+      "url": ""
+    }
+  },
+  {
+    "id": "7d8dc33e70f5e25172611960e6bdec0b8efbb248",
+    "name": "permanence_dinformation_et_dorientation_juridiques_dediee_aux_jeunes_mineurs_d_ales",
+    "title": "Permanence d’information et d’orientation juridiques dédiée aux jeunes/mineurs d'Alès",
+    "url": "https://lannuaire.service-public.fr/occitanie/gard/permanence_juridique-30007-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 66 52 64 70",
+      "url": ""
+    }
+  },
+  {
+    "id": "55c104653a560d197b09038892912c55aa01d21d",
+    "name": "permanence_dinformation_et_dorientation_juridiques_dediee_aux_jeunes_mineurs_d_avignon",
+    "title": "Permanence d’information et d’orientation juridiques dédiée aux jeunes/mineurs d'Avignon",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/vaucluse/permanence_juridique-84007-02",
+    "metadata": {
+      "email": "",
+      "telephone": "04 90 86 22 39",
+      "url": ""
+    }
+  },
+  {
+    "id": "55c104653a560d197b09038892912c55aa01d21d",
+    "name": "permanence_dinformation_et_dorientation_juridiques_dediee_aux_jeunes_mineurs_d_avignon",
+    "title": "Permanence d’information et d’orientation juridiques dédiée aux jeunes/mineurs d'Avignon",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/vaucluse/permanence_juridique-84007-10",
+    "metadata": {
+      "email": "",
+      "telephone": "",
+      "url": ""
+    }
+  },
+  {
+    "id": "251297ada10db1a8eccb362e21661c4d2886c9a3",
+    "name": "permanence_dinformation_et_dorientation_juridiques_dediee_aux_jeunes_mineurs_de_carpentras",
+    "title": "Permanence d’information et d’orientation juridiques dédiée aux jeunes/mineurs de Carpentras",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/vaucluse/permanence_juridique-84031-03",
+    "metadata": {
+      "email": "",
+      "telephone": "04 90 67 13 60",
+      "url": ""
+    }
+  },
+  {
+    "id": "42ddbc09e0bed33986476692d70996a11c523ff3",
+    "name": "permanence_dinformation_et_dorientation_juridiques_dediee_aux_jeunes_mineurs_de_chalons_en_champagne",
+    "title": "Permanence d’information et d’orientation juridiques dédiée aux jeunes/mineurs de Châlons-En-Champagne",
+    "url": "https://lannuaire.service-public.fr/grand-est/marne/permanence_juridique-51108-02",
+    "metadata": {
+      "email": "",
+      "telephone": "03 26 68 08 08",
+      "url": ""
+    }
+  },
+  {
+    "id": "f196cc7d5f71a258ee98482a9020b5bc7c677bdd",
+    "name": "permanence_dinformation_et_dorientation_juridiques_dediee_aux_jeunes_mineurs_d_epernay",
+    "title": "Permanence d’information et d’orientation juridiques dédiée aux jeunes/mineurs d'Epernay",
+    "url": "https://lannuaire.service-public.fr/grand-est/marne/permanence_juridique-51230-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 26 55 73 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "d55b12ae0540b83a5463119b7becd2d27c4c159b",
+    "name": "permanence_dinformation_et_dorientation_juridiques_dediee_aux_jeunes_mineurs_de_maubeuge",
+    "title": "Permanence d’information et d’orientation juridiques dédiée aux jeunes/mineurs de Maubeuge",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/nord/permanence_juridique-59392-01",
+    "metadata": {
+      "email": "",
+      "telephone": "",
+      "url": ""
+    }
+  },
+  {
+    "id": "829a47998fda3d5fe2c86bdab55d0c0f7a814c59",
+    "name": "permanence_dinformation_et_dorientation_juridiques_dediee_aux_jeunes_mineurs_de_nimes",
+    "title": "Permanence d’information et d’orientation juridiques dédiée aux jeunes/mineurs de Nîmes",
+    "url": "https://lannuaire.service-public.fr/occitanie/gard/permanence_juridique-30189-03",
+    "metadata": {
+      "email": "",
+      "telephone": "04 66 36 25 25",
+      "url": ""
+    }
+  },
+  {
+    "id": "436a16c1b08f9e87494f9b56fc017575101f4da1",
+    "name": "permanence_dinformation_et_dorientation_juridiques_dediee_aux_jeunes_mineurs_de_niort",
+    "title": "Permanence d’information et d’orientation juridiques dédiée aux jeunes/mineurs de Niort",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/deux-sevres/permanence_juridique-79191-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 49 28 60 62",
+      "url": ""
+    }
+  },
+  {
+    "id": "0bba56ad71c968f1caac8f266abddfabde23710d",
+    "name": "permanence_dinformation_et_dorientation_juridiques_dediee_aux_jeunes_mineurs_de_reims",
+    "title": "Permanence d’information et d’orientation juridiques dédiée aux jeunes/mineurs de Reims",
+    "url": "https://lannuaire.service-public.fr/grand-est/marne/permanence_juridique-51454-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 26 03 56 38",
+      "url": ""
+    }
+  },
+  {
+    "id": "f63eed3dda1bc1dcaaecadab8c64b7b3fb26ee63",
+    "name": "permanence_dinformation_et_dorientation_juridiques_de_die",
+    "title": "Permanence d’information et d’orientation juridiques de Die",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/drome/permanence_juridique-26113-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 75 22 04 19",
+      "url": ""
+    }
+  },
+  {
+    "id": "ff023bb5cfc7a2aee7116eb13eb5b42c18c29aba",
+    "name": "permanence_dinformation_et_dorientation_juridiques_de_douai",
+    "title": "Permanence d’information et d’orientation juridiques de Douai",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/nord/permanence_juridique-59178-02",
+    "metadata": {
+      "email": "",
+      "telephone": "03 27 71 59 90",
+      "url": ""
+    }
+  },
+  {
+    "id": "3833313127fa02eea538dc3cb0d04842bdf14dc8",
+    "name": "permanence_dinformation_et_dorientation_juridiques_de_doullens",
+    "title": "Permanence d’information et d’orientation juridiques de Doullens",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/somme/permanence_juridique-80253-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 22 77 00 07",
+      "url": ""
+    }
+  },
+  {
+    "id": "0dd4966b28886da331308bc01f2cff26214c55f7",
+    "name": "permanence_dinformation_et_dorientation_juridiques_de_drap",
+    "title": "Permanence d’information et d’orientation juridiques de Drap",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/alpes-maritimes/permanence_juridique-06054-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 93 91 69 90",
+      "url": ""
+    }
+  },
+  {
+    "id": "91caebc7515501973c0d63d2d5e7594732288c65",
+    "name": "permanence_dinformation_et_dorientation_juridiques_de_dunkerque",
+    "title": "Permanence d’information et d’orientation juridiques de Dunkerque",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/nord/permanence_juridique-59183-01",
+    "metadata": {
+      "email": "",
+      "telephone": "0820 25 59 40",
+      "url": ""
+    }
+  },
+  {
+    "id": "528cfb8e82b17df24265c9e62958c49fda97e6be",
+    "name": "permanence_dinformation_et_dorientation_juridiques_d_epernay",
+    "title": "Permanence d’information et d’orientation juridiques d'Epernay",
+    "url": "https://lannuaire.service-public.fr/grand-est/marne/permanence_juridique-51230-02",
+    "metadata": {
+      "email": "",
+      "telephone": "",
+      "url": ""
+    }
+  },
+  {
+    "id": "528cfb8e82b17df24265c9e62958c49fda97e6be",
+    "name": "permanence_dinformation_et_dorientation_juridiques_d_epernay",
+    "title": "Permanence d’information et d’orientation juridiques d'Epernay",
+    "url": "https://lannuaire.service-public.fr/grand-est/marne/permanence_juridique-51230-03",
+    "metadata": {
+      "email": "",
+      "telephone": "",
+      "url": ""
+    }
+  }
+]

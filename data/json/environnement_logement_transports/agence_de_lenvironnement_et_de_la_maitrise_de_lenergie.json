@@ -1,0 +1,361 @@
+[
+  {
+    "id": "f916cc3831bd0a64ef45199aefafa080b0233617",
+    "alternateName": "ADEME",
+    "name": "agence_de_lenvironnement_et_de_la_maitrise_de_lenergie_ademe_mayotte",
+    "title": "Agence de l'environnement et de la maîtrise de l'énergie (ADEME) - Mayotte",
+    "url": "https://lannuaire.service-public.fr/mayotte/mayotte/ademe-97611-01",
+    "metadata": {
+      "email": "ademe@runnet.com",
+      "telephone": "02 69 62 32 36",
+      "url": "http://www.ademeoceanindien.fr/"
+    }
+  },
+  {
+    "id": "bb2e5376970a01ed73254b63479c093bf44ade12",
+    "alternateName": "ADEME",
+    "name": "agence_de_lenvironnement_et_de_la_maitrise_de_lenergie_ademe_nouvelle_caledonie",
+    "title": "Agence de l'environnement et de la maîtrise de l'énergie (ADEME) - Nouvelle-Calédonie",
+    "url": "https://lannuaire.service-public.fr/collectivites-d-outre-mer/nouvelle-caledonie/ademe-98818-01",
+    "metadata": {
+      "email": "camille.fabre@ademe.fr",
+      "telephone": "+687 24 35 19",
+      "url": "http://www.nouvelle-caledonie.ademe.fr"
+    }
+  },
+  {
+    "id": "a94d94ff67f6b801c60c65a522ae40536c7b3aee",
+    "alternateName": "ADEME",
+    "name": "agence_de_lenvironnement_et_de_la_maitrise_de_lenergie_ademe_polynesie_francaise",
+    "title": "Agence de l'environnement et de la maîtrise de l'énergie (ADEME) - Polynésie française",
+    "url": "https://lannuaire.service-public.fr/collectivites-d-outre-mer/polynesie-francaise/ademe-98735-01",
+    "metadata": {
+      "email": "ademe.polynesie@ademe.fr",
+      "telephone": "+689 40 46 84 72",
+      "url": "http://www.polynesie-francaise.ademe.fr"
+    }
+  },
+  {
+    "id": "891e0e34b3475d3a81ba97915545a581ad607420",
+    "alternateName": "ADEME",
+    "name": "agence_de_lenvironnement_et_de_la_maitrise_de_lenergie_ademe_direction_regionale_auvergne_rhone_alpes_siege_de_lyon",
+    "title": "Agence de l’environnement et de la maîtrise de l’énergie (ADEME) - Direction régionale Auvergne-Rhône-Alpes - Siège de Lyon",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/rhone/ademe-69386-01",
+    "metadata": {
+      "email": "ademe.rhone-alpes@ademe.fr",
+      "telephone": "04 72 83 46 00",
+      "url": "http://rhone-alpes.ademe.fr"
+    }
+  },
+  {
+    "id": "ccf0ae178bd96eec4ba9f6b079de68b619c592bb",
+    "alternateName": "ADEME",
+    "name": "agence_de_lenvironnement_et_de_la_maitrise_de_lenergie_ademe_direction_regionale_auvergne_rhone_alpes_site_de_clermont_ferrand",
+    "title": "Agence de l’environnement et de la maîtrise de l’énergie (ADEME) - Direction régionale Auvergne-Rhône-Alpes - Site de Clermont-Ferrand",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/puy-de-dome/ademe-63113-01",
+    "metadata": {
+      "email": "ademe.auvergne@ademe.fr",
+      "telephone": "04 73 31 52 80",
+      "url": "http://auvergne.ademe.fr"
+    }
+  },
+  {
+    "id": "873accb54b96004c3604e08477e144bc291bd3ee",
+    "alternateName": "ADEME",
+    "name": "agence_de_lenvironnement_et_de_la_maitrise_de_lenergie_ademe_direction_regionale_bourgogne_franche_comte_siege_de_besancon",
+    "title": "Agence de l’environnement et de la maîtrise de l’énergie (ADEME) - Direction régionale Bourgogne-Franche-Comté - Siège de Besançon",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/doubs/ademe-25056-01",
+    "metadata": {
+      "email": "ademe.bourgognefranchecomte@ademe.fr",
+      "telephone": "03 81 25 50 00",
+      "url": "https://bourgogne-franche-comte.ademe.fr/"
+    }
+  },
+  {
+    "id": "e66fbeb02834c8ed363099d1fe4b81697fec3595",
+    "alternateName": "ADEME",
+    "name": "agence_de_lenvironnement_et_de_la_maitrise_de_lenergie_ademe_direction_regionale_bourgogne_franche_comte_site_de_dijon",
+    "title": "Agence de l’environnement et de la maîtrise de l’énergie (ADEME) - Direction régionale Bourgogne-Franche-Comté - Site de Dijon",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/cote-d-or/ademe-21231-01",
+    "metadata": {
+      "email": "ademe.bourgognefranchecomte@ademe.fr",
+      "telephone": "03 81 25 50 00",
+      "url": "https://bourgogne-franche-comte.ademe.fr/"
+    }
+  },
+  {
+    "id": "210902aacc2209c60318735a8c3ec7f294788f91",
+    "alternateName": "ADEME",
+    "name": "agence_de_lenvironnement_et_de_la_maitrise_de_lenergie_ademe_direction_regionale_bretagne",
+    "title": "Agence de l’environnement et de la maîtrise de l’énergie (ADEME) - Direction régionale Bretagne",
+    "url": "https://lannuaire.service-public.fr/bretagne/ille-et-vilaine/ademe-35238-01",
+    "metadata": {
+      "email": "ademe.bretagne@ademe.fr",
+      "telephone": "02 99 85 87 00",
+      "url": "http://www.bretagne.ademe.fr/"
+    }
+  },
+  {
+    "id": "aec63b79ab4a07db2d26853c8b56e542c99f3027",
+    "alternateName": "ADEME",
+    "name": "agence_de_lenvironnement_et_de_la_maitrise_de_lenergie_ademe_direction_regionale_centre_val_de_loire",
+    "title": "Agence de l’environnement et de la maîtrise de l’énergie (ADEME) - Direction régionale Centre-Val de Loire",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/loiret/ademe-45234-01",
+    "metadata": {
+      "email": "ademe.centre@ademe.fr",
+      "telephone": "02 38 24 00 00",
+      "url": "http://centre.ademe.fr"
+    }
+  },
+  {
+    "id": "2eb2540b79829486995f0c109a752da31404b0e8",
+    "alternateName": "ADEME",
+    "name": "agence_de_lenvironnement_et_de_la_maitrise_de_lenergie_ademe_direction_regionale_corse",
+    "title": "Agence de l’environnement et de la maîtrise de l’énergie (ADEME) - Direction régionale Corse",
+    "url": "https://lannuaire.service-public.fr/corse/corse-du-sud/ademe-2A004-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 95 10 58 58",
+      "url": "https://www.ademe.fr"
+    }
+  },
+  {
+    "id": "e7b5a091ad9a8e83aaf2cd16710fc06431863477",
+    "alternateName": "ADEME",
+    "name": "agence_de_lenvironnement_et_de_la_maitrise_de_lenergie_ademe_direction_regionale_grand_est_siege_de_metz",
+    "title": "Agence de l’environnement et de la maîtrise de l’énergie (ADEME) - Direction régionale Grand Est - Siège de Metz",
+    "url": "https://lannuaire.service-public.fr/grand-est/moselle/ademe-57463-01",
+    "metadata": {
+      "email": "ademe.lorraine@ademe.fr",
+      "telephone": "03 87 20 02 90",
+      "url": "http://www.ademe.fr/lorraine"
+    }
+  },
+  {
+    "id": "ad7aaf4b6db5e62b53d253bb39806ef24bef975d",
+    "alternateName": "ADEME",
+    "name": "agence_de_lenvironnement_et_de_la_maitrise_de_lenergie_ademe_direction_regionale_grand_est_site_de_chalons_en_champagne",
+    "title": "Agence de l’environnement et de la maîtrise de l’énergie (ADEME) - Direction régionale Grand Est - Site de Châlons-en-Champagne",
+    "url": "https://lannuaire.service-public.fr/grand-est/marne/ademe-51108-01",
+    "metadata": {
+      "email": "grand-est@ademe.fr",
+      "telephone": "03 26 69 20 96",
+      "url": "https://grand-est.ademe.fr/"
+    }
+  },
+  {
+    "id": "cdf7f46a59c6deb19fd56ee404a4e93b2d0333ce",
+    "alternateName": "ADEME",
+    "name": "agence_de_lenvironnement_et_de_la_maitrise_de_lenergie_ademe_direction_regionale_grand_est_site_de_strasbourg",
+    "title": "Agence de l’environnement et de la maîtrise de l’énergie (ADEME) - Direction régionale Grand Est - Site de Strasbourg",
+    "url": "https://lannuaire.service-public.fr/grand-est/bas-rhin/ademe-67482-01",
+    "metadata": {
+      "email": "ademe.alsace@ademe.fr",
+      "telephone": "03 88 15 46 46",
+      "url": "http://www.ademe.fr/alsace"
+    }
+  },
+  {
+    "id": "eb77a532549084c35cb022bf5c1ac25b34aceac8",
+    "alternateName": "ADEME",
+    "name": "agence_de_lenvironnement_et_de_la_maitrise_de_lenergie_ademe_direction_regionale_guadeloupe",
+    "title": "Agence de l’environnement et de la maîtrise de l’énergie (ADEME) - Direction régionale Guadeloupe",
+    "url": "https://lannuaire.service-public.fr/guadeloupe/guadeloupe/ademe-97103-01",
+    "metadata": {
+      "email": "ademe.guadeloupe@ademe.fr",
+      "telephone": "+590 5 90 26 78 05",
+      "url": ""
+    }
+  },
+  {
+    "id": "9c3da0c5b78b1622f0422dd7cc4c1ea5cfac8844",
+    "alternateName": "ADEME",
+    "name": "agence_de_lenvironnement_et_de_la_maitrise_de_lenergie_ademe_direction_regionale_guyane",
+    "title": "Agence de l’environnement et de la maîtrise de l’énergie (ADEME) - Direction régionale Guyane",
+    "url": "https://lannuaire.service-public.fr/guyane/guyane/ademe-97302-01",
+    "metadata": {
+      "email": "ademe.guyane@ademe.fr",
+      "telephone": "+594 5 94 29 73 60",
+      "url": "http://ademe-guyane.fr"
+    }
+  },
+  {
+    "id": "83179a9c8f51841bb7bda5e2b16bc5134b2dd024",
+    "alternateName": "ADEME",
+    "name": "agence_de_lenvironnement_et_de_la_maitrise_de_lenergie_ademe_direction_regionale_hauts_de_france_siege_de_douai",
+    "title": "Agence de l’environnement et de la maîtrise de l’énergie (ADEME) - Direction régionale Hauts-de-France - Siège de Douai",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/nord/ademe-59178-01",
+    "metadata": {
+      "email": "ademe.nord-pas-de-calais@ademe.fr",
+      "telephone": "03 27 95 89 70",
+      "url": ""
+    }
+  },
+  {
+    "id": "9cdbc4cea1959cf91e972d73ca82017eb2419ed8",
+    "alternateName": "ADEME",
+    "name": "agence_de_lenvironnement_et_de_la_maitrise_de_lenergie_ademe_direction_regionale_hauts_de_france_site_d_amiens",
+    "title": "Agence de l’environnement et de la maîtrise de l’énergie (ADEME) - Direction régionale Hauts-de-France - Site d'Amiens",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/somme/ademe-80021-01",
+    "metadata": {
+      "email": "ademe.picardie@ademe.fr",
+      "telephone": "03 22 45 18 90",
+      "url": "http://www.ademe.fr/picardie"
+    }
+  },
+  {
+    "id": "aa26223885fb8fa22360b4c1ad6c6ec798c3a907",
+    "alternateName": "ADEME",
+    "name": "agence_de_lenvironnement_et_de_la_maitrise_de_lenergie_ademe_direction_regionale_ile_de_france",
+    "title": "Agence de l’environnement et de la maîtrise de l’énergie (ADEME) - Direction régionale Île-de-France",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/hauts-de-seine/ademe-92062-01",
+    "metadata": {
+      "email": "ademe.ile-de-france@ademe.fr",
+      "telephone": "01 49 01 45 47",
+      "url": "http://ile-de-france.ademe.fr"
+    }
+  },
+  {
+    "id": "d274ac8ab92c65cbda6fe6ea83ca5b6c9276fe09",
+    "alternateName": "ADEME",
+    "name": "agence_de_lenvironnement_et_de_la_maitrise_de_lenergie_ademe_direction_regionale_martinique",
+    "title": "Agence de l’environnement et de la maîtrise de l’énergie (ADEME) - Direction régionale Martinique",
+    "url": "https://lannuaire.service-public.fr/martinique/martinique/ademe-97209-01",
+    "metadata": {
+      "email": "ademe.martinique@ademe.fr",
+      "telephone": "+596 5 96 63 51 42",
+      "url": "http://www.martinique.ademe.fr"
+    }
+  },
+  {
+    "id": "16da93422b2a354b53ee1410aa216c7e9411c4e8",
+    "alternateName": "ADEME",
+    "name": "agence_de_lenvironnement_et_de_la_maitrise_de_lenergie_ademe_direction_regionale_normandie_site_d_herouville_saint_clair",
+    "title": "Agence de l’environnement et de la maîtrise de l’énergie (ADEME) - Direction régionale Normandie - Site d'Hérouville Saint-Clair",
+    "url": "https://lannuaire.service-public.fr/normandie/calvados/ademe-14327-01",
+    "metadata": {
+      "email": "ademe.normandie@ademe.fr",
+      "telephone": "02 35 62 24 42",
+      "url": "https://normandie.ademe.fr"
+    }
+  },
+  {
+    "id": "374c9f6d3eae4a854ccc0842cfb0bc5db28d70b6",
+    "alternateName": "ADEME",
+    "name": "agence_de_lenvironnement_et_de_la_maitrise_de_lenergie_ademe_direction_regionale_normandie_site_de_rouen",
+    "title": "Agence de l’environnement et de la maîtrise de l’énergie (ADEME) - Direction régionale Normandie - Site de Rouen",
+    "url": "https://lannuaire.service-public.fr/normandie/seine-maritime/ademe-76540-01",
+    "metadata": {
+      "email": "ademe.normandie@ademe.fr.",
+      "telephone": "02 35 62 24 42",
+      "url": "https://normandie.ademe.fr"
+    }
+  },
+  {
+    "id": "f63a4d90069e915457d1ca4725929ec5ea3e3ca0",
+    "alternateName": "ADEME",
+    "name": "agence_de_lenvironnement_et_de_la_maitrise_de_lenergie_ademe_direction_regionale_nouvelle_aquitaine_siege_de_poitiers",
+    "title": "Agence de l’environnement et de la maîtrise de l’énergie (ADEME) - Direction régionale Nouvelle-Aquitaine - Siège de Poitiers",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/vienne/ademe-86194-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 49 50 12 12",
+      "url": ""
+    }
+  },
+  {
+    "id": "b1a4bbd481564379810bc915d2ccd6f9ec468bc2",
+    "alternateName": "ADEME",
+    "name": "agence_de_lenvironnement_et_de_la_maitrise_de_lenergie_ademe_direction_regionale_nouvelle_aquitaine_site_de_bordeaux",
+    "title": "Agence de l’environnement et de la maîtrise de l’énergie (ADEME) - Direction régionale Nouvelle-Aquitaine - Site de Bordeaux",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/gironde/ademe-33063-01",
+    "metadata": {
+      "email": "aquitaine@ademe.fr",
+      "telephone": "05 56 33 80 00",
+      "url": "http://www.aquitaine.ademe.fr"
+    }
+  },
+  {
+    "id": "0d31fa3c33fc4bd272e91aceae804bdd635c30ba",
+    "alternateName": "ADEME",
+    "name": "agence_de_lenvironnement_et_de_la_maitrise_de_lenergie_ademe_direction_regionale_nouvelle_aquitaine_site_de_limoges",
+    "title": "Agence de l’environnement et de la maîtrise de l’énergie (ADEME) - Direction régionale Nouvelle-Aquitaine - Site de Limoges",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/haute-vienne/ademe-87085-01",
+    "metadata": {
+      "email": "ademe.limousin@ademe.fr",
+      "telephone": "05 55 79 39 34",
+      "url": "http://limousin.ademe.fr"
+    }
+  },
+  {
+    "id": "256ca95bc4f27ca581fe9251f3b1c4de29b687f2",
+    "alternateName": "ADEME",
+    "name": "agence_de_lenvironnement_et_de_la_maitrise_de_lenergie_ademe_direction_regionale_occitanie_siege_de_toulouse_labege",
+    "title": "Agence de l’environnement et de la maîtrise de l’énergie (ADEME) - Direction régionale Occitanie - Siège de Toulouse-Labège",
+    "url": "https://lannuaire.service-public.fr/occitanie/haute-garonne/ademe-31254-01",
+    "metadata": {
+      "email": "ademe.midi-pyrenees@ademe.fr",
+      "telephone": "05 62 24 35 36",
+      "url": "http://www.ademe.fr/midi-pyrenees"
+    }
+  },
+  {
+    "id": "eb36bcb69cc6a918bfeb5e4315339bf9403582b9",
+    "alternateName": "ADEME",
+    "name": "agence_de_lenvironnement_et_de_la_maitrise_de_lenergie_ademe_direction_regionale_occitanie_site_de_montpellier",
+    "title": "Agence de l’environnement et de la maîtrise de l’énergie (ADEME) - Direction régionale Occitanie - Site de Montpellier",
+    "url": "https://lannuaire.service-public.fr/occitanie/herault/ademe-34172-01",
+    "metadata": {
+      "email": "ademe.languedoc-roussillon@ademe.fr",
+      "telephone": "04 67 99 89 79",
+      "url": "https://occitanie.ademe.fr/"
+    }
+  },
+  {
+    "id": "366eb8c935574462030a205f3a88d2a3f32083ff",
+    "alternateName": "ADEME",
+    "name": "agence_de_lenvironnement_et_de_la_maitrise_de_lenergie_ademe_direction_regionale_pays_de_la_loire",
+    "title": "Agence de l’environnement et de la maîtrise de l’énergie (ADEME) - Direction régionale Pays de la Loire",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/loire-atlantique/ademe-44109-01",
+    "metadata": {
+      "email": "ademe.paysdelaloire@ademe.fr",
+      "telephone": "02 40 35 68 00",
+      "url": "http://www.ademe.fr/paysdelaloire"
+    }
+  },
+  {
+    "id": "6875cfdfe27f6676fd4f2bf729c91c0a735f5ec6",
+    "alternateName": "ADEME",
+    "name": "agence_de_lenvironnement_et_de_la_maitrise_de_lenergie_ademe_direction_regionale_provence_alpes_cote_dazur_marseille",
+    "title": "Agence de l’environnement et de la maîtrise de l’énergie (ADEME) - Direction régionale Provence-Alpes-Côte d'azur - Marseille",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/ademe-13208-01",
+    "metadata": {
+      "email": "ademe.paca@ademe.fr",
+      "telephone": "04 91 32 84 44",
+      "url": "http://www.paca.ademe.fr"
+    }
+  },
+  {
+    "id": "89f347b8ace2db1830db35826afc993271803310",
+    "alternateName": "ADEME",
+    "name": "agence_de_lenvironnement_et_de_la_maitrise_de_lenergie_ademe_direction_regionale_reunion",
+    "title": "Agence de l’environnement et de la maîtrise de l’énergie (ADEME) - Direction régionale Réunion",
+    "url": "https://lannuaire.service-public.fr/la-reunion/reunion/ademe-97407-01",
+    "metadata": {
+      "email": "ademe@runnet.com",
+      "telephone": "+262 2 62 71 11 30",
+      "url": "http://www.ademe.fr"
+    }
+  },
+  {
+    "id": "226570eaf14db1faa212d30c4fbd19ba31707a7e",
+    "name": "service_de_lenvironnement_wallis_et_futuna",
+    "title": "Service de l'environnement - Wallis-et-Futuna",
+    "url": "https://lannuaire.service-public.fr/collectivites-d-outre-mer/wallis-et-futuna/ademe-98613-01",
+    "metadata": {
+      "email": "senv@mail.wf",
+      "telephone": "+681 72 05 97",
+      "url": ""
+    }
+  }
+]

@@ -1,0 +1,2138 @@
+[
+  {
+    "id": "c69d211871b939fac216694f3a1660d111546cb0",
+    "alternateName": "MSA",
+    "name": "mutualite_sociale_agricole_msa_ain_rhone_accueil_de_bourg_en_bresse",
+    "title": "Mutualité sociale agricole (MSA) Ain-Rhône - accueil de Bourg-en-Bresse",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/ain/msa-01053-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 74 45 99 00",
+      "url": "http://www.msa01-69.fr"
+    }
+  },
+  {
+    "id": "e536166bd57a3a107e19715679920f52ce4a7e76",
+    "alternateName": "MSA",
+    "name": "mutualite_sociale_agricole_msa_ain_rhone_accueil_de_lyon",
+    "title": "Mutualité sociale agricole (MSA) Ain-Rhône - accueil de Lyon",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/rhone/msa-69382-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 74 45 99 00",
+      "url": "http://www.msa01-69.fr"
+    }
+  },
+  {
+    "id": "c25bc0839b51996cd46e1fb1a462ea4f5b19093e",
+    "alternateName": "MSA",
+    "name": "mutualite_sociale_agricole_msa_alpes_du_nord_accueil_d_annecy",
+    "title": "Mutualité sociale agricole (MSA) Alpes-du-Nord - accueil d'Annecy",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/haute-savoie/msa-74010-01",
+    "metadata": {
+      "email": "",
+      "telephone": "09 69 36 87 00",
+      "url": "http://www.msaalpesdunord.fr"
+    }
+  },
+  {
+    "id": "849d109f682eaaaea251e95293af6c9fa1aa82a7",
+    "alternateName": "MSA",
+    "name": "mutualite_sociale_agricole_msa_alpes_du_nord_accueil_de_chambery",
+    "title": "Mutualité sociale agricole (MSA) Alpes-du-Nord - accueil de Chambéry",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/savoie/msa-73065-01",
+    "metadata": {
+      "email": "",
+      "telephone": "09 69 36 87 00",
+      "url": "http://www.msaalpesdunord.fr"
+    }
+  },
+  {
+    "id": "fdf0c8109c9fa766c66324d421326a2837023e31",
+    "alternateName": "MSA",
+    "name": "mutualite_sociale_agricole_msa_alpes_du_nord_accueil_de_grenoble",
+    "title": "Mutualité sociale agricole (MSA) Alpes-du-Nord - accueil de Grenoble",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/isere/msa-38185-01",
+    "metadata": {
+      "email": "",
+      "telephone": "09 69 36 87 00",
+      "url": "http://www.msaalpesdunord.fr"
+    }
+  },
+  {
+    "id": "814a07d85ac8fe82f2ae40f4b18a9d7598d81a34",
+    "alternateName": "MSA",
+    "name": "mutualite_sociale_agricole_msa_alpes_vaucluse_accueil_d_avignon",
+    "title": "Mutualité sociale agricole (MSA) Alpes-Vaucluse - accueil d'Avignon",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/vaucluse/msa-84007-01",
+    "metadata": {
+      "email": "contact.blf@alpesvaucluse.msa.fr",
+      "telephone": "04 90 13 66 66",
+      "url": "http://www.msa-alpesvaucluse.fr"
+    }
+  },
+  {
+    "id": "e263735e9f7e28401f115fb8efcb32809804b9e5",
+    "alternateName": "MSA",
+    "name": "mutualite_sociale_agricole_msa_alpes_vaucluse_accueil_de_gap",
+    "title": "Mutualité sociale agricole (MSA) Alpes-Vaucluse - accueil de Gap",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/hautes-alpes/msa-05061-01",
+    "metadata": {
+      "email": "contact.blf@alpesvaucluse.msa.fr",
+      "telephone": "04 90 13 66 66",
+      "url": "http://www.msa-alpesvaucluse.fr"
+    }
+  },
+  {
+    "id": "a4fac192c8cfb1501222b1999747698af675e2f2",
+    "alternateName": "MSA",
+    "name": "mutualite_sociale_agricole_msa_ardeche_drome_loire_accueil_de_privas",
+    "title": "Mutualité sociale agricole (MSA) Ardèche-Drôme-Loire - accueil de Privas",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/ardeche/msa-07186-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 75 75 68 68",
+      "url": "http://www.msa-ardeche-drome-loire.fr"
+    }
+  },
+  {
+    "id": "8c5d61b19bf6ff247a74e06b01fea34ac974d9c4",
+    "alternateName": "MSA",
+    "name": "mutualite_sociale_agricole_msa_ardeche_drome_loire_accueil_de_saint_priest_en_jarez",
+    "title": "Mutualité sociale agricole (MSA) Ardèche-Drôme-Loire - accueil de Saint-Priest-en-Jarez",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/loire/msa-42275-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 75 75 68 68",
+      "url": "http://www.msa-ardeche-drome-loire.fr"
+    }
+  },
+  {
+    "id": "c5755137c006b52511ba1e6fcb7b0a6bdb237de9",
+    "alternateName": "MSA",
+    "name": "mutualite_sociale_agricole_msa_ardeche_drome_loire_accueil_de_valence",
+    "title": "Mutualité sociale agricole (MSA) Ardèche-Drôme-Loire - accueil de Valence",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/drome/msa-26362-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 75 75 68 68",
+      "url": "http://www.msa-ardeche-drome-loire.fr"
+    }
+  },
+  {
+    "id": "f7f0bda948cc05bc7223abfb0442642d7fd2757b",
+    "alternateName": "MSA",
+    "name": "mutualite_sociale_agricole_msa_armorique_accueil_de_landerneau",
+    "title": "Mutualité sociale agricole (MSA) Armorique - accueil de Landerneau",
+    "url": "https://lannuaire.service-public.fr/bretagne/finistere/msa-29103-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 98 85 79 79",
+      "url": "http://www.msa-armorique.fr"
+    }
+  },
+  {
+    "id": "a7072356795a7685e40ea604f08dc0b76774649d",
+    "alternateName": "MSA",
+    "name": "mutualite_sociale_agricole_msa_armorique_accueil_de_saint_brieuc",
+    "title": "Mutualité sociale agricole (MSA) Armorique - accueil de Saint-Brieuc",
+    "url": "https://lannuaire.service-public.fr/bretagne/cotes-d-armor/msa-22278-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 98 85 79 79",
+      "url": "http://www.msa-armorique.fr"
+    }
+  },
+  {
+    "id": "6bb72bb506d24f16604451db1a5e94d6f0dcc9be",
+    "alternateName": "MSA",
+    "name": "mutualite_sociale_agricole_msa_auvergne_accueil_d_aurillac",
+    "title": "Mutualité sociale agricole (MSA) Auvergne - accueil d'Aurillac",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/cantal/msa-15014-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 71 64 66 46",
+      "url": "https://www.auvergne.msa.fr"
+    }
+  },
+  {
+    "id": "f445407f1c774527bde6f7469a6ce6b0bf353b9b",
+    "alternateName": "MSA",
+    "name": "mutualite_sociale_agricole_msa_auvergne_accueil_de_clermont_ferrand",
+    "title": "Mutualité sociale agricole (MSA) Auvergne - accueil de Clermont-Ferrand",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/puy-de-dome/msa-63113-01",
+    "metadata": {
+      "email": "",
+      "telephone": "09 69 39 50 50",
+      "url": "https://www.auvergne.msa.fr"
+    }
+  },
+  {
+    "id": "21bd2a38b6d754465dc5a15da0bedc47887dbe3b",
+    "alternateName": "MSA",
+    "name": "mutualite_sociale_agricole_msa_auvergne_accueil_de_moulins",
+    "title": "Mutualité sociale agricole (MSA) Auvergne - accueil de Moulins",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/allier/msa-03190-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 71 64 66 46",
+      "url": "https://www.auvergne.msa.fr"
+    }
+  },
+  {
+    "id": "b69b1c6a31d9cf79ad99ed584a840f90c07c3edd",
+    "alternateName": "MSA",
+    "name": "mutualite_sociale_agricole_msa_auvergne_accueil_du_puy_en_velay",
+    "title": "Mutualité sociale agricole (MSA) Auvergne - accueil du Puy-en-Velay",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/haute-loire/msa-43157-01",
+    "metadata": {
+      "email": "https://auvergne.msa.fr/lfy/nous-contacter",
+      "telephone": "04 71 64 66 46",
+      "url": "https://www.auvergne.msa.fr"
+    }
+  },
+  {
+    "id": "2363a111b2c3883e174d91013f920766f1329e64",
+    "alternateName": "MSA",
+    "name": "mutualite_sociale_agricole_msa_beauce_coeur_de_loire_accueil_de_chartres",
+    "title": "Mutualité sociale agricole (MSA) Beauce Coeur-de-Loire - accueil de Chartres",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/eure-et-loir/msa-28085-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 37 99 99 99",
+      "url": "http://www.msa-beauce-coeurdeloire.fr"
+    }
+  },
+  {
+    "id": "691dea3ba45e9f49a222c3660f856da9f0564f16",
+    "alternateName": "MSA",
+    "name": "mutualite_sociale_agricole_msa_beauce_coeur_de_loire_accueil_d_orleans",
+    "title": "Mutualité sociale agricole (MSA) Beauce-Coeur-de-Loire - accueil d'Orléans",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/loiret/msa-45234-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 37 99 99 99",
+      "url": "http://www.msa-beauce-coeurdeloire.fr"
+    }
+  },
+  {
+    "id": "efc6a549a4e2f7b03f99656ae74e1ae0a51504b3",
+    "alternateName": "MSA",
+    "name": "mutualite_sociale_agricole_msa_berry_touraine_accueil_de_blois",
+    "title": "Mutualité sociale agricole (MSA) Berry-Touraine - accueil de Blois",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/loir-et-cher/msa-41018-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 54 44 87 87",
+      "url": "http://www.msa-berry-touraine.fr"
+    }
+  },
+  {
+    "id": "e446f8d99693fed7f417b974742f194fbb364f18",
+    "alternateName": "MSA",
+    "name": "mutualite_sociale_agricole_msa_berry_touraine_accueil_de_tours",
+    "title": "Mutualité sociale agricole (MSA) Berry-Touraine - accueil de Tours",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/indre-et-loire/msa-37261-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 54 44 87 87",
+      "url": "http://www.msa-berry-touraine.fr"
+    }
+  },
+  {
+    "id": "e69742c1ccba2e922bc07ff522517c2fc481519f",
+    "alternateName": "MSA",
+    "name": "mutualite_sociale_agricole_msa_bourgogne_accueil_d_autun",
+    "title": "Mutualité sociale agricole (MSA) Bourgogne - accueil d'Autun",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/saone-et-loire/msa-71014-01",
+    "metadata": {
+      "email": "",
+      "telephone": "09 69 36 20 50",
+      "url": "http://www.msa-bourgogne.fr"
+    }
+  },
+  {
+    "id": "dc934a775367326eb8adf802b4d88dacc52fd7a1",
+    "alternateName": "MSA",
+    "name": "mutualite_sociale_agricole_msa_bourgogne_accueil_d_auxerre",
+    "title": "Mutualité sociale agricole (MSA) Bourgogne - accueil d'Auxerre",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/yonne/msa-89024-01",
+    "metadata": {
+      "email": "",
+      "telephone": "09 69 36 20 50",
+      "url": "http://www.msa-bourgogne.fr"
+    }
+  },
+  {
+    "id": "33364dc97238389bbb52715a513e6e6761666a14",
+    "alternateName": "MSA",
+    "name": "mutualite_sociale_agricole_msa_bourgogne_accueil_d_avallon",
+    "title": "Mutualité sociale agricole (MSA) Bourgogne - accueil d'Avallon",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/yonne/msa-89025-01",
+    "metadata": {
+      "email": "",
+      "telephone": "09 69 36 20 50",
+      "url": "http://www.msa-bourgogne.fr"
+    }
+  },
+  {
+    "id": "966f33cd396dcfd0cc5eb37fc6c45921c6a96f45",
+    "alternateName": "MSA",
+    "name": "mutualite_sociale_agricole_msa_bourgogne_accueil_de_charolles",
+    "title": "Mutualité sociale agricole (MSA) Bourgogne - accueil de Charolles",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/saone-et-loire/msa-71106-01",
+    "metadata": {
+      "email": "",
+      "telephone": "09 69 36 20 50",
+      "url": "http://www.msa-bourgogne.fr"
+    }
+  },
+  {
+    "id": "c52b304bf706f04ff0751e88604aa886ba1fc011",
+    "alternateName": "MSA",
+    "name": "mutualite_sociale_agricole_msa_bourgogne_accueil_de_chatillon_sur_seine",
+    "title": "Mutualité sociale agricole (MSA) Bourgogne - accueil de Châtillon-sur-Seine",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/cote-d-or/msa-21154-01",
+    "metadata": {
+      "email": "",
+      "telephone": "09 69 36 20 50",
+      "url": "http://www.msa-bourgogne.fr"
+    }
+  },
+  {
+    "id": "5f8a619d3943185e1cb3760917a0924e9ce02ffe",
+    "alternateName": "MSA",
+    "name": "mutualite_sociale_agricole_msa_bourgogne_accueil_de_corbigny",
+    "title": "Mutualité sociale agricole (MSA) Bourgogne - accueil de Corbigny",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/nievre/msa-58083-01",
+    "metadata": {
+      "email": "",
+      "telephone": "09 69 36 20 50",
+      "url": "http://www.msa-bourgogne.fr"
+    }
+  },
+  {
+    "id": "10dec5c2c14f02b02eb3fa5145ebeccb4046a196",
+    "alternateName": "MSA",
+    "name": "mutualite_sociale_agricole_msa_bourgogne_accueil_de_cosne_cours_sur_loire",
+    "title": "Mutualité sociale agricole (MSA) Bourgogne - accueil de Cosne-Cours-sur-Loire",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/nievre/msa-58086-01",
+    "metadata": {
+      "email": "",
+      "telephone": "09 69 36 20 50",
+      "url": "http://www.msa-bourgogne.fr"
+    }
+  },
+  {
+    "id": "18dd7296d1d76f5f2d6990ff2468265ee3ec597c",
+    "alternateName": "MSA",
+    "name": "mutualite_sociale_agricole_msa_bourgogne_accueil_de_crissey",
+    "title": "Mutualité sociale agricole (MSA) Bourgogne - accueil de Crissey",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/saone-et-loire/msa-71154-01",
+    "metadata": {
+      "email": "",
+      "telephone": "09 69 36 20 50",
+      "url": "http://www.msa-bourgogne.fr"
+    }
+  },
+  {
+    "id": "7fff321e6d09310f7bdd97e2f500f3399374cd31",
+    "alternateName": "MSA",
+    "name": "mutualite_sociale_agricole_msa_bourgogne_accueil_de_dijon",
+    "title": "Mutualité sociale agricole (MSA) Bourgogne - accueil de Dijon",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/cote-d-or/msa-21231-01",
+    "metadata": {
+      "email": "",
+      "telephone": "09 69 36 20 50",
+      "url": "http://www.msa-bourgogne.fr"
+    }
+  },
+  {
+    "id": "96a2b66158dd429dff148f89c3d9e0a89a7bf204",
+    "alternateName": "MSA",
+    "name": "mutualite_sociale_agricole_msa_bourgogne_accueil_de_levernois",
+    "title": "Mutualité sociale agricole (MSA) Bourgogne - accueil de Levernois",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/cote-d-or/msa-21347-01",
+    "metadata": {
+      "email": "",
+      "telephone": "09 69 36 20 50",
+      "url": "http://www.msa-bourgogne.fr"
+    }
+  },
+  {
+    "id": "4673bc512f54a1ebad510bf0999116d2c93b254e",
+    "alternateName": "MSA",
+    "name": "mutualite_sociale_agricole_msa_bourgogne_accueil_de_louhans",
+    "title": "Mutualité sociale agricole (MSA) Bourgogne - accueil de Louhans",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/saone-et-loire/msa-71263-01",
+    "metadata": {
+      "email": "",
+      "telephone": "09 69 36 20 50",
+      "url": "http://www.msa-bourgogne.fr"
+    }
+  },
+  {
+    "id": "28cb456b0829ab6e67a9e48c121991d7f45616d8",
+    "alternateName": "MSA",
+    "name": "mutualite_sociale_agricole_msa_bourgogne_accueil_de_luzy",
+    "title": "Mutualité sociale agricole (MSA) Bourgogne - accueil de Luzy",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/nievre/msa-58149-01",
+    "metadata": {
+      "email": "",
+      "telephone": "09 69 36 20 50",
+      "url": "https://bourgogne.msa.fr"
+    }
+  },
+  {
+    "id": "aac4588e0c95186727449ff59b857dfbacce0d99",
+    "alternateName": "MSA",
+    "name": "mutualite_sociale_agricole_msa_bourgogne_accueil_de_macon",
+    "title": "Mutualité sociale agricole (MSA) Bourgogne - accueil de Mâcon",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/saone-et-loire/msa-71270-01",
+    "metadata": {
+      "email": "",
+      "telephone": "09 69 36 20 50",
+      "url": "http://www.msa-bourgogne.fr"
+    }
+  },
+  {
+    "id": "860eda49f2860538108edfe40e63b12d757b4529",
+    "alternateName": "MSA",
+    "name": "mutualite_sociale_agricole_msa_bourgogne_accueil_de_maillot",
+    "title": "Mutualité sociale agricole (MSA) Bourgogne - accueil de Maillot",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/yonne/msa-89236-01",
+    "metadata": {
+      "email": "",
+      "telephone": "09 69 36 20 50",
+      "url": "http://www.msa-bourgogne.fr"
+    }
+  },
+  {
+    "id": "e8cae03c8f2485573e02447cab066f12040759cd",
+    "alternateName": "MSA",
+    "name": "mutualite_sociale_agricole_msa_bourgogne_accueil_de_nevers",
+    "title": "Mutualité sociale agricole (MSA) Bourgogne - accueil de Nevers",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/nievre/msa-58194-01",
+    "metadata": {
+      "email": "",
+      "telephone": "09 69 36 20 50",
+      "url": "http://www.msa-bourgogne.fr"
+    }
+  },
+  {
+    "id": "ef32a33b240078e0e0a9ad1e929cd0991b935f11",
+    "alternateName": "MSA",
+    "name": "mutualite_sociale_agricole_msa_bourgogne_accueil_de_semur_en_auxois",
+    "title": "Mutualité sociale agricole (MSA) Bourgogne - accueil de Semur-en-Auxois",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/cote-d-or/msa-21603-01",
+    "metadata": {
+      "email": "",
+      "telephone": "09 69 36 20 50",
+      "url": "http://www.msa-bourgogne.fr"
+    }
+  },
+  {
+    "id": "bec032e885f1ae6417016145b1b3689f0cbb5812",
+    "alternateName": "MSA",
+    "name": "mutualite_sociale_agricole_msa_bourgogne_accueil_de_tonnerre",
+    "title": "Mutualité sociale agricole (MSA) Bourgogne - accueil de Tonnerre",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/yonne/msa-89418-01",
+    "metadata": {
+      "email": "",
+      "telephone": "09 69 36 20 50",
+      "url": "http://www.msa-bourgogne.fr"
+    }
+  },
+  {
+    "id": "d69cb8f6a354d2b62ddaf9050b2aeac197981159",
+    "alternateName": "MSA",
+    "name": "mutualite_sociale_agricole_msa_bourgogne_accueil_de_toucy",
+    "title": "Mutualité sociale agricole (MSA) Bourgogne - accueil de Toucy",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/yonne/msa-89419-01",
+    "metadata": {
+      "email": "",
+      "telephone": "09 69 36 20 50",
+      "url": "http://www.msa-bourgogne.fr"
+    }
+  },
+  {
+    "id": "d36da0a26d77bfcd80f66fb9614df733e8bde7ce",
+    "alternateName": "MSA",
+    "name": "mutualite_sociale_agricole_msa_bourgogne_franche_comte_accueil_d_arbois",
+    "title": "Mutualité sociale agricole (MSA) Bourgogne-Franche-Comté - accueil d'Arbois",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/jura/msa-39013-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 84 35 25 25",
+      "url": "http://www.msafranchecomte.fr"
+    }
+  },
+  {
+    "id": "0868a04e178412d82610f26ec13699337bd32375",
+    "alternateName": "MSA",
+    "name": "mutualite_sociale_agricole_msa_bourgogne_franche_comte_accueil_de_belfort",
+    "title": "Mutualité sociale agricole (MSA) Bourgogne-Franche-Comté - accueil de Belfort",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/territoire-de-belfort/msa-90010-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 84 35 25 25",
+      "url": "http://www.msafranchecomte.fr"
+    }
+  },
+  {
+    "id": "bc9d5abe56e8e49da8871782e9adc13b9c752681",
+    "alternateName": "MSA",
+    "name": "mutualite_sociale_agricole_msa_bourgogne_franche_comte_accueil_de_besancon",
+    "title": "Mutualité sociale agricole (MSA) Bourgogne-Franche-Comté - accueil de Besançon",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/doubs/msa-25056-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 84 35 25 25",
+      "url": "http://www.msafranchecomte.fr"
+    }
+  },
+  {
+    "id": "5ccbc760d50c30275185b2304d619b44b3741976",
+    "alternateName": "MSA",
+    "name": "mutualite_sociale_agricole_msa_bourgogne_franche_comte_accueil_de_foucherans",
+    "title": "Mutualité sociale agricole (MSA) Bourgogne-Franche-Comté - accueil de Foucherans",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/jura/msa-39233-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 84 35 25 25",
+      "url": "http://www.msafranchecomte.fr"
+    }
+  },
+  {
+    "id": "53861fdbaf404bce829b9f445bd3677af2a583a6",
+    "alternateName": "MSA",
+    "name": "mutualite_sociale_agricole_msa_bourgogne_franche_comte_accueil_de_gray",
+    "title": "Mutualité sociale agricole (MSA) Bourgogne-Franche-Comté - accueil de Gray",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/haute-saone/msa-70279-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 84 35 25 25",
+      "url": "http://www.msafranchecomte.fr"
+    }
+  },
+  {
+    "id": "03aa760238c9ffeec09fdaed493e00c7c8914c1d",
+    "alternateName": "MSA",
+    "name": "mutualite_sociale_agricole_msa_bourgogne_franche_comte_accueil_de_l_isle_sur_le_doubs",
+    "title": "Mutualité sociale agricole (MSA) Bourgogne-Franche-Comté - accueil de L'Isle-sur-le-Doubs",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/doubs/msa-25315-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 84 35 25 25",
+      "url": "http://www.msafranchecomte.fr"
+    }
+  },
+  {
+    "id": "e4d469f34bd6b9c46597127efbf4bf3bc5e5ba1b",
+    "alternateName": "MSA",
+    "name": "mutualite_sociale_agricole_msa_bourgogne_franche_comte_accueil_de_lons_le_saunier",
+    "title": "Mutualité sociale agricole (MSA) Bourgogne-Franche-Comté - accueil de Lons-le-Saunier",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/jura/msa-39300-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 84 35 25 25",
+      "url": "http://www.msafranchecomte.fr"
+    }
+  },
+  {
+    "id": "8efcc8135618c6682d107789e4300770a9451e24",
+    "alternateName": "MSA",
+    "name": "mutualite_sociale_agricole_msa_bourgogne_franche_comte_accueil_de_pontarlier",
+    "title": "Mutualité sociale agricole (MSA) Bourgogne-Franche-Comté - accueil de Pontarlier",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/doubs/msa-25462-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 84 35 25 25",
+      "url": "http://www.msafranchecomte.fr"
+    }
+  },
+  {
+    "id": "547f18ff2bf80d5cb98ecef4c9610cd8a63b722a",
+    "alternateName": "MSA",
+    "name": "mutualite_sociale_agricole_msa_bourgogne_franche_comte_accueil_de_vesoul",
+    "title": "Mutualité sociale agricole (MSA) Bourgogne-Franche-Comté - accueil de Vesoul",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/haute-saone/msa-70550-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 84 35 25 25",
+      "url": "http://www.msafranchecomte.fr"
+    }
+  },
+  {
+    "id": "063a3102928fbd4e24631346ea93d15e6f00eccc",
+    "alternateName": "MSA",
+    "name": "mutualite_sociale_agricole_msa_charentes_accueil_d_angouleme",
+    "title": "Mutualité sociale agricole (MSA) Charentes - accueil d'Angoulême",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/charente/msa-16015-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 46 97 50 50",
+      "url": "http://www.msadescharentes.fr"
+    }
+  },
+  {
+    "id": "ff6cc4cc49d6c0413f3709e4862005b132cc97a2",
+    "alternateName": "MSA",
+    "name": "mutualite_sociale_agricole_msa_charentes_accueil_de_barbezieux_saint_hilaire",
+    "title": "Mutualité sociale agricole (MSA) Charentes - accueil de Barbezieux-Saint-Hilaire",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/charente/msa-16028-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 46 97 50 50",
+      "url": "http://www.msadescharentes.fr"
+    }
+  },
+  {
+    "id": "a966fe937f58509d269e4943ca15a32c7e2a3d9b",
+    "alternateName": "MSA",
+    "name": "mutualite_sociale_agricole_msa_charentes_accueil_de_confolens",
+    "title": "Mutualité sociale agricole (MSA) Charentes - accueil de Confolens",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/charente/msa-16106-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 46 97 50 50",
+      "url": "http://www.msadescharentes.fr"
+    }
+  },
+  {
+    "id": "c1ba2814c0337fcf620f687b82b9879cb410d3bb",
+    "alternateName": "MSA",
+    "name": "mutualite_sociale_agricole_msa_charentes_accueil_de_jonzac",
+    "title": "Mutualité sociale agricole (MSA) Charentes - accueil de Jonzac",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/charente-maritime/msa-17197-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 46 97 50 50",
+      "url": "http://www.msadescharentes.fr"
+    }
+  },
+  {
+    "id": "451309cdffad8a07d22189082788fc0d9d5cc2cf",
+    "alternateName": "MSA",
+    "name": "mutualite_sociale_agricole_msa_charentes_accueil_de_la_rochelle",
+    "title": "Mutualité sociale agricole (MSA) Charentes - accueil de La Rochelle",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/charente-maritime/msa-17300-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 46 97 50 50",
+      "url": "http://www.msadescharentes.fr"
+    }
+  },
+  {
+    "id": "b86bad4238a9f4209c8d14e55745860a0da3392b",
+    "alternateName": "MSA",
+    "name": "mutualite_sociale_agricole_msa_charentes_accueil_de_mansle",
+    "title": "Mutualité sociale agricole (MSA) Charentes - accueil de Mansle",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/charente/msa-16206-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 46 97 50 50",
+      "url": "http://www.msadescharentes.fr"
+    }
+  },
+  {
+    "id": "2cfcb614a34d5c7210d1396cfcbfcb88ee0dea6d",
+    "alternateName": "MSA",
+    "name": "mutualite_sociale_agricole_msa_charentes_accueil_de_marennes",
+    "title": "Mutualité sociale agricole (MSA) Charentes - accueil de Marennes",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/charente-maritime/msa-17219-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 46 97 50 50",
+      "url": "http://www.msadescharentes.fr"
+    }
+  },
+  {
+    "id": "24e867462f154533cc38c776124df8914451def6",
+    "alternateName": "MSA",
+    "name": "mutualite_sociale_agricole_msa_charentes_accueil_de_saintes",
+    "title": "Mutualité sociale agricole (MSA) Charentes - accueil de Saintes",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/charente-maritime/msa-17415-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 46 97 50 50",
+      "url": "http://www.msadescharentes.fr"
+    }
+  },
+  {
+    "id": "2584305c3468ce43960c75f70688ab78238c3329",
+    "alternateName": "MSA",
+    "name": "mutualite_sociale_agricole_msa_charentes_accueil_de_saint_jean_d_angely",
+    "title": "Mutualité sociale agricole (MSA) Charentes - accueil de Saint-Jean-d'Angély",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/charente-maritime/msa-17347-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 46 97 50 50",
+      "url": "http://www.msadescharentes.fr"
+    }
+  },
+  {
+    "id": "46192182f323684aa7760cc6ef20cd8d519b20f0",
+    "alternateName": "MSA",
+    "name": "mutualite_sociale_agricole_msa_charentes_accueil_de_segonzac",
+    "title": "Mutualité sociale agricole (MSA) Charentes - accueil de Segonzac",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/charente/msa-16366-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 46 97 50 50",
+      "url": "http://www.msadescharentes.fr"
+    }
+  },
+  {
+    "id": "1c70ad7a923d01f71b07a193b6512cec6066de4d",
+    "alternateName": "MSA",
+    "name": "mutualite_sociale_agricole_msa_corse_accueil_d_ajaccio",
+    "title": "Mutualité sociale agricole (MSA) Corse - accueil d'Ajaccio",
+    "url": "https://lannuaire.service-public.fr/corse/corse-du-sud/msa-2A004-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 95 29 27 18",
+      "url": "http://www.msa20.fr"
+    }
+  },
+  {
+    "id": "11912050c622bdb5088e78b4dfd8c48eba788c84",
+    "alternateName": "MSA",
+    "name": "mutualite_sociale_agricole_msa_cotes_normandes_accueil_de_saint_lo",
+    "title": "Mutualité sociale agricole (MSA) Côtes-Normandes - accueil de Saint-Lô",
+    "url": "https://lannuaire.service-public.fr/normandie/manche/msa-50502-01",
+    "metadata": {
+      "email": "contact@cotesnormandes.msa.fr",
+      "telephone": "02 31 25 39 39",
+      "url": "http://www.msa-cotesnormandes.fr"
+    }
+  },
+  {
+    "id": "530de7555bc18e4027cc44d200995b7c3aa5e079",
+    "alternateName": "MSA",
+    "name": "mutualite_sociale_agricole_msa_dordogne_lot_et_garonne_accueil_d_agen",
+    "title": "Mutualité sociale agricole (MSA) Dordogne-Lot-et-Garonne - accueil d'Agen",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/lot-et-garonne/msa-47001-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 53 67 77 77",
+      "url": "http://www.msa24-47.fr"
+    }
+  },
+  {
+    "id": "bad2a4ab3489e097b2d538ecc898f9d51a34d6b8",
+    "alternateName": "MSA",
+    "name": "mutualite_sociale_agricole_msa_dordogne_lot_et_garonne_accueil_de_bergerac",
+    "title": "Mutualité sociale agricole (MSA) Dordogne-Lot-et-Garonne - accueil de Bergerac",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/dordogne/msa-24037-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 53 67 77 77",
+      "url": "http://www.msa24-47.fr"
+    }
+  },
+  {
+    "id": "21dd56780beda003842933f2c540a978b21bb0cb",
+    "alternateName": "MSA",
+    "name": "mutualite_sociale_agricole_msa_dordogne_lot_et_garonne_accueil_de_marmande",
+    "title": "Mutualité sociale agricole (MSA) Dordogne-Lot-et-Garonne - accueil de Marmande",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/lot-et-garonne/msa-47157-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 53 67 77 77",
+      "url": "http://www.msa24-47.fr"
+    }
+  },
+  {
+    "id": "149ab986e6186f2bd96781347436feb53065fe6f",
+    "alternateName": "MSA",
+    "name": "mutualite_sociale_agricole_msa_dordogne_lot_et_garonne_accueil_de_nerac",
+    "title": "Mutualité sociale agricole (MSA) Dordogne-Lot-et-Garonne - accueil de Nérac",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/lot-et-garonne/msa-47195-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 53 67 77 77",
+      "url": "http://www.msa24-47.fr"
+    }
+  },
+  {
+    "id": "310284bfdb7eb5751da329902687344d0c3670a9",
+    "alternateName": "MSA",
+    "name": "mutualite_sociale_agricole_msa_grand_est_accueil_de_bulgneville",
+    "title": "Mutualité sociale agricole (MSA) Grand Est - accueil de Bulgnéville",
+    "url": "https://lannuaire.service-public.fr/grand-est/vosges/msa-88079-01",
+    "metadata": {
+      "email": "contact.blf@lorraine.msa.fr",
+      "telephone": "03 83 50 35 00",
+      "url": "http://www.msalorraine.fr"
+    }
+  },
+  {
+    "id": "10538022815ac67bc3df5a60d427d873a9a40c23",
+    "alternateName": "MSA",
+    "name": "mutualite_sociale_agricole_msa_grand_est_accueil_d_epinal",
+    "title": "Mutualité sociale agricole (MSA) Grand Est - accueil d'Épinal",
+    "url": "https://lannuaire.service-public.fr/grand-est/vosges/msa-88160-01",
+    "metadata": {
+      "email": "contact.blf@lorraine.msa.fr",
+      "telephone": "03 83 50 35 00",
+      "url": "http://www.msalorraine.fr"
+    }
+  },
+  {
+    "id": "f438a16d972ef1ff254454177592b8b0410fe6cc",
+    "alternateName": "MSA",
+    "name": "mutualite_sociale_agricole_msa_grand_est_accueil_de_luneville",
+    "title": "Mutualité sociale agricole (MSA) Grand Est - accueil de Lunéville",
+    "url": "https://lannuaire.service-public.fr/grand-est/meurthe-et-moselle/msa-54329-01",
+    "metadata": {
+      "email": "contact.blf@lorraine.msa.fr",
+      "telephone": "03 83 50 35 00",
+      "url": "http://www.msalorraine.fr"
+    }
+  },
+  {
+    "id": "8090fab749b7f92c803ec6b79d6d71eba553e850",
+    "alternateName": "MSA",
+    "name": "mutualite_sociale_agricole_msa_grand_est_accueil_de_metz",
+    "title": "Mutualité sociale agricole (MSA) Grand Est - accueil de Metz",
+    "url": "https://lannuaire.service-public.fr/grand-est/moselle/msa-57463-01",
+    "metadata": {
+      "email": "contact.blf@lorraine.msa.fr",
+      "telephone": "03 83 50 35 00",
+      "url": "http://www.msalorraine.fr"
+    }
+  },
+  {
+    "id": "ff8676edbc447b96fc6b979f24357ab0cf2de1fa",
+    "alternateName": "MSA",
+    "name": "mutualite_sociale_agricole_msa_grand_est_accueil_de_morhange",
+    "title": "Mutualité sociale agricole (MSA) Grand Est - accueil de Morhange",
+    "url": "https://lannuaire.service-public.fr/grand-est/moselle/msa-57483-01",
+    "metadata": {
+      "email": "contact.blf@lorraine.msa.fr",
+      "telephone": "03 83 50 35 00",
+      "url": "http://www.msalorraine.fr"
+    }
+  },
+  {
+    "id": "1c6757fc5f71bba426548fbc89e1af4f0dbd74b8",
+    "alternateName": "MSA",
+    "name": "mutualite_sociale_agricole_msa_grand_est_accueil_de_sarrebourg",
+    "title": "Mutualité sociale agricole (MSA) Grand Est - accueil de Sarrebourg",
+    "url": "https://lannuaire.service-public.fr/grand-est/moselle/msa-57630-01",
+    "metadata": {
+      "email": "contact.blf@lorraine.msa.fr",
+      "telephone": "03 83 50 35 00",
+      "url": "http://www.msalorraine.fr"
+    }
+  },
+  {
+    "id": "052b62a98c34fbc612df10223fab0f18edb95abf",
+    "alternateName": "MSA",
+    "name": "mutualite_sociale_agricole_msa_grand_est_accueil_de_sarreguemines",
+    "title": "Mutualité sociale agricole (MSA) Grand Est - accueil de Sarreguemines",
+    "url": "https://lannuaire.service-public.fr/grand-est/moselle/msa-57631-01",
+    "metadata": {
+      "email": "contact.blf@lorraine.msa.fr",
+      "telephone": "03 83 50 35 00",
+      "url": "http://www.msalorraine.fr"
+    }
+  },
+  {
+    "id": "d5182055639ec623490b3cc23df2e617fc0a8be9",
+    "alternateName": "MSA",
+    "name": "mutualite_sociale_agricole_msa_grand_est_accueil_de_yutz",
+    "title": "Mutualité sociale agricole (MSA) Grand Est - accueil de Yutz",
+    "url": "https://lannuaire.service-public.fr/grand-est/moselle/msa-57672-01",
+    "metadata": {
+      "email": "contact.blf@lorraine.msa.fr",
+      "telephone": "03 83 50 35 00",
+      "url": "http://www.msalorraine.fr"
+    }
+  },
+  {
+    "id": "606d35d0127d84d89169163a19d11f64d86c3e0c",
+    "alternateName": "MSA",
+    "name": "mutualite_sociale_agricole_msa_grand_sud_accueil_de_limoux",
+    "title": "Mutualité sociale agricole (MSA) Grand-Sud - accueil de Limoux",
+    "url": "https://lannuaire.service-public.fr/occitanie/aude/msa-11206-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 68 55 11 66",
+      "url": "http://www.msagrandsud.fr"
+    }
+  },
+  {
+    "id": "ae2b3aabe90eadf6d53dc57fe721cf56dc59ae47",
+    "alternateName": "MSA",
+    "name": "mutualite_sociale_agricole_msa_guadeloupe_accueil_de_pointe_a_pitre",
+    "title": "Mutualité sociale agricole (MSA) Guadeloupe - accueil de Pointe-à-Pitre",
+    "url": "https://lannuaire.service-public.fr/guadeloupe/guadeloupe/msa-97120-01",
+    "metadata": {
+      "email": "",
+      "telephone": "+590 5 90 90 50 23",
+      "url": "http://www.cgss-guadeloupe.fr"
+    }
+  },
+  {
+    "id": "84b5f9c3fbeffc835f69bd852344127ea80cf0b9",
+    "alternateName": "MSA",
+    "name": "mutualite_sociale_agricole_msa_guyane_accueil_de_cayenne",
+    "title": "Mutualité sociale agricole (MSA) Guyane - accueil de Cayenne",
+    "url": "https://lannuaire.service-public.fr/guyane/guyane/msa-97302-01",
+    "metadata": {
+      "email": "msa973@cgss-guyane.fr",
+      "telephone": "+594 5 94 39 29 17",
+      "url": "http://www.cgss.gf"
+    }
+  },
+  {
+    "id": "618034dba07c499e5fe0095abd1ab650b5eb9679",
+    "alternateName": "MSA",
+    "name": "mutualite_sociale_agricole_msa_ile_de_france_accueil_de_cergy",
+    "title": "Mutualité sociale agricole (MSA) Île-de-France - accueil de Cergy",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/val-d-oise/msa-95127-01",
+    "metadata": {
+      "email": "https://iledefrance.msa.fr/lfy/nous-contacter",
+      "telephone": "01 30 63 88 80",
+      "url": "https://iledefrance.msa.fr"
+    }
+  },
+  {
+    "id": "29b4c25cd7efe441df16674f52e56c4a395a9b41",
+    "alternateName": "MSA",
+    "name": "mutualite_sociale_agricole_msa_ile_de_france_accueil_de_cergy_accueil_pour_les_entreprises",
+    "title": "Mutualité sociale agricole (MSA) Île-de-France - accueil de Cergy - accueil pour les entreprises",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/val-d-oise/msa-95127-02",
+    "metadata": {
+      "email": "https://iledefrance.msa.fr/lfy/nous-contacter",
+      "telephone": "01 30 63 88 90",
+      "url": "https://iledefrance.msa.fr"
+    }
+  },
+  {
+    "id": "21a8e2372c080400441aca611995456222363750",
+    "alternateName": "MSA",
+    "name": "mutualite_sociale_agricole_msa_ile_de_france_accueil_d_etampes",
+    "title": "Mutualité sociale agricole (MSA) Île-de-France - accueil d'Étampes",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/essonne/msa-91223-01",
+    "metadata": {
+      "email": "",
+      "telephone": "01 30 63 88 80",
+      "url": "http://www.msa-idf.fr"
+    }
+  },
+  {
+    "id": "2295a77d8f48101b29f1a245a102393c4d0d76bd",
+    "alternateName": "MSA",
+    "name": "mutualite_sociale_agricole_msa_ile_de_france_accueil_d_etampes_accueil_pour_les_entreprises",
+    "title": "Mutualité sociale agricole (MSA) Île-de-France - accueil d'Étampes - accueil pour les entreprises",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/essonne/msa-91223-02",
+    "metadata": {
+      "email": "",
+      "telephone": "01 30 63 88 80",
+      "url": "http://www.msa-idf.fr"
+    }
+  },
+  {
+    "id": "2de2c7f6862587864c63fa24540476f431aa9a23",
+    "alternateName": "MSA",
+    "name": "mutualite_sociale_agricole_msa_ile_de_france_accueil_de_gentilly",
+    "title": "Mutualité sociale agricole (MSA) Île-de-France - accueil de Gentilly",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/val-de-marne/msa-94037-01",
+    "metadata": {
+      "email": "https://iledefrance.msa.fr/lfy/nous-contacter",
+      "telephone": "01 30 63 88 80",
+      "url": "http://www.msa-idf.fr"
+    }
+  },
+  {
+    "id": "7304dae65290ec8e505b280da812da6e409c55b9",
+    "alternateName": "MSA",
+    "name": "mutualite_sociale_agricole_msa_ile_de_france_accueil_de_gentilly_accueil_pour_les_entreprises",
+    "title": "Mutualité sociale agricole (MSA) Île-de-France - accueil de Gentilly - accueil pour les entreprises",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/val-de-marne/msa-94037-02",
+    "metadata": {
+      "email": "",
+      "telephone": "01 30 63 88 90",
+      "url": "http://www.msa-idf.fr"
+    }
+  },
+  {
+    "id": "e4a6d9e51ad147df90f98158fe3c99ba848c4090",
+    "alternateName": "MSA",
+    "name": "mutualite_sociale_agricole_msa_ile_de_france_accueil_de_mantes_la_jolie",
+    "title": "Mutualité sociale agricole (MSA) Île-de-France - accueil de Mantes-la-Jolie",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/yvelines/msa-78361-01",
+    "metadata": {
+      "email": "",
+      "telephone": "01 30 63 88 80",
+      "url": "http://www.msa-idf.fr"
+    }
+  },
+  {
+    "id": "c29129b9b59828942fd6e42d1bddea01ee0862d9",
+    "alternateName": "MSA",
+    "name": "mutualite_sociale_agricole_msa_ile_de_france_accueil_de_mantes_la_jolie_accueil_pour_les_entreprises",
+    "title": "Mutualité sociale agricole (MSA) Île-de-France - accueil de Mantes-la-Jolie - accueil pour les entreprises",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/yvelines/msa-78361-02",
+    "metadata": {
+      "email": "",
+      "telephone": "01 30 63 88 90",
+      "url": "http://www.msa-idf.fr"
+    }
+  },
+  {
+    "id": "a19e971dfa1c0afe230d7698ce82175c064e71cc",
+    "alternateName": "MSA",
+    "name": "mutualite_sociale_agricole_msa_ile_de_france_accueil_de_meaux",
+    "title": "Mutualité sociale agricole (MSA) Île-de-France - accueil de Meaux",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/seine-et-marne/msa-77284-01",
+    "metadata": {
+      "email": "",
+      "telephone": "01 30 63 88 80",
+      "url": "http://www.msa-idf.fr"
+    }
+  },
+  {
+    "id": "f2f666e680e4e8ebf67cc56f922fa157c4789bdc",
+    "alternateName": "MSA",
+    "name": "mutualite_sociale_agricole_msa_ile_de_france_accueil_de_mee_sur_seine",
+    "title": "Mutualité sociale agricole (MSA) Île-de-France - accueil de Mée-sur-Seine",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/seine-et-marne/msa-77285-01",
+    "metadata": {
+      "email": "",
+      "telephone": "01 30 63 88 90",
+      "url": "http://www.msa-idf.fr"
+    }
+  },
+  {
+    "id": "c75d56155ceac1c86b6554ba24d737d29d75825a",
+    "alternateName": "MSA",
+    "name": "mutualite_sociale_agricole_msa_ile_de_france_accueil_de_provins",
+    "title": "Mutualité sociale agricole (MSA) Île-de-France - accueil de Provins",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/seine-et-marne/msa-77379-01",
+    "metadata": {
+      "email": "",
+      "telephone": "01 30 63 88 80",
+      "url": "http://www.msa-idf.fr"
+    }
+  },
+  {
+    "id": "5810a2c3705d75c1e31bf7ff5cce8d6a9de77b14",
+    "alternateName": "MSA",
+    "name": "mutualite_sociale_agricole_msa_ile_de_france_accueil_de_rambouillet",
+    "title": "Mutualité sociale agricole (MSA) Île-de-France - accueil de Rambouillet",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/yvelines/msa-78517-01",
+    "metadata": {
+      "email": "",
+      "telephone": "01 30 63 88 80",
+      "url": "http://www.msa-idf.fr"
+    }
+  },
+  {
+    "id": "58b24d6548c460e7c36db69c9a18b3887f747c9b",
+    "alternateName": "MSA",
+    "name": "mutualite_sociale_agricole_msa_ile_de_france_accueil_de_rambouillet_accueil_pour_les_entreprises",
+    "title": "Mutualité sociale agricole (MSA) Île-de-France - accueil de Rambouillet - accueil pour les entreprises",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/yvelines/msa-78517-02",
+    "metadata": {
+      "email": "",
+      "telephone": "01 30 63 88 80",
+      "url": "http://www.msa-idf.fr"
+    }
+  },
+  {
+    "id": "1b5c2cb68a3492e378dfca96f9451452b3e9efd0",
+    "alternateName": "MSA",
+    "name": "mutualite_sociale_agricole_msa_languedoc_accueil_d_ales",
+    "title": "Mutualité sociale agricole (MSA) Languedoc - accueil d'Alès",
+    "url": "https://lannuaire.service-public.fr/occitanie/gard/msa-30294-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 99 58 30 00",
+      "url": "http://www.msalanguedoc.fr"
+    }
+  },
+  {
+    "id": "195ef7602632e2ddc74914cb4b1da5b14dea2eb9",
+    "alternateName": "MSA",
+    "name": "mutualite_sociale_agricole_msa_languedoc_accueil_de_bagnols_sur_ceze",
+    "title": "Mutualité sociale agricole (MSA) Languedoc - accueil de Bagnols-sur-Cèze",
+    "url": "https://lannuaire.service-public.fr/occitanie/gard/msa-30028-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 99 58 30 00",
+      "url": "http://www.msalanguedoc.fr"
+    }
+  },
+  {
+    "id": "b6cfc147bc60413897bedb31711d5e723d5a9dc8",
+    "alternateName": "MSA",
+    "name": "mutualite_sociale_agricole_msa_languedoc_accueil_de_beaucaire",
+    "title": "Mutualité sociale agricole (MSA) Languedoc - accueil de Beaucaire",
+    "url": "https://lannuaire.service-public.fr/occitanie/gard/msa-30032-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 99 58 30 00",
+      "url": "http://www.msalanguedoc.fr"
+    }
+  },
+  {
+    "id": "ff6069f294c76092c2e249f10995ac69933bcc22",
+    "alternateName": "MSA",
+    "name": "mutualite_sociale_agricole_msa_languedoc_accueil_de_beziers",
+    "title": "Mutualité sociale agricole (MSA) Languedoc - accueil de Béziers",
+    "url": "https://lannuaire.service-public.fr/occitanie/herault/msa-34032-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 99 58 30 00",
+      "url": "http://www.msalanguedoc.fr"
+    }
+  },
+  {
+    "id": "535cd8d6431b55dc63cb439f152b0364d5db48c2",
+    "alternateName": "MSA",
+    "name": "mutualite_sociale_agricole_msa_languedoc_accueil_de_clermont_l_herault",
+    "title": "Mutualité sociale agricole (MSA) Languedoc - accueil de Clermont-l'Hérault",
+    "url": "https://lannuaire.service-public.fr/occitanie/herault/msa-34079-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 99 58 30 00",
+      "url": "http://www.msalanguedoc.fr"
+    }
+  },
+  {
+    "id": "a2cedc95ed91d6c26fb07ceb2f9ba869b35caa3e",
+    "alternateName": "MSA",
+    "name": "mutualite_sociale_agricole_msa_languedoc_accueil_de_florac",
+    "title": "Mutualité sociale agricole (MSA) Languedoc - accueil de Florac",
+    "url": "https://lannuaire.service-public.fr/occitanie/lozere/msa-48061-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 99 58 30 00",
+      "url": "http://www.msalanguedoc.fr"
+    }
+  },
+  {
+    "id": "72115f87a7a002b10d3e4ef6a6a1aca4bc4e10aa",
+    "alternateName": "MSA",
+    "name": "mutualite_sociale_agricole_msa_languedoc_accueil_de_langogne",
+    "title": "Mutualité sociale agricole (MSA) Languedoc - accueil de Langogne",
+    "url": "https://lannuaire.service-public.fr/occitanie/lozere/msa-48080-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 99 58 30 00",
+      "url": "http://www.msalanguedoc.fr"
+    }
+  },
+  {
+    "id": "924ec5b21258f80d50a6a89694ac603afc06416a",
+    "alternateName": "MSA",
+    "name": "mutualite_sociale_agricole_msa_languedoc_accueil_de_lunel",
+    "title": "Mutualité sociale agricole (MSA) Languedoc - accueil de Lunel",
+    "url": "https://lannuaire.service-public.fr/occitanie/herault/msa-34145-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 99 58 30 00",
+      "url": "http://www.msalanguedoc.fr"
+    }
+  },
+  {
+    "id": "bb0868879b1cc4f65904cb7015fbf691333a09f1",
+    "alternateName": "MSA",
+    "name": "mutualite_sociale_agricole_msa_languedoc_accueil_de_marvejols",
+    "title": "Mutualité sociale agricole (MSA) Languedoc - accueil de Marvejols",
+    "url": "https://lannuaire.service-public.fr/occitanie/lozere/msa-48092-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 99 58 30 00",
+      "url": "http://www.msalanguedoc.fr"
+    }
+  },
+  {
+    "id": "5feecd54ae2f79c10f00a6494782ec5e13458a1d",
+    "alternateName": "MSA",
+    "name": "mutualite_sociale_agricole_msa_languedoc_accueil_de_mende",
+    "title": "Mutualité sociale agricole (MSA) Languedoc - accueil de Mende",
+    "url": "https://lannuaire.service-public.fr/occitanie/lozere/msa-48095-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 66 49 79 20",
+      "url": "http://www.msalanguedoc.fr"
+    }
+  },
+  {
+    "id": "25b52a61fd20424acb815a9786b6c7538c38ecd4",
+    "alternateName": "MSA",
+    "name": "mutualite_sociale_agricole_msa_languedoc_accueil_de_montpellier",
+    "title": "Mutualité sociale agricole (MSA) Languedoc - accueil de Montpellier",
+    "url": "https://lannuaire.service-public.fr/occitanie/herault/msa-34172-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 99 58 30 00",
+      "url": "http://www.msalanguedoc.fr"
+    }
+  },
+  {
+    "id": "47a4c5905283e6551c618d2fe1c9418d4547cbe2",
+    "alternateName": "MSA",
+    "name": "mutualite_sociale_agricole_msa_languedoc_accueil_de_nimes",
+    "title": "Mutualité sociale agricole (MSA) Languedoc - accueil de Nîmes",
+    "url": "https://lannuaire.service-public.fr/occitanie/gard/msa-30189-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 99 58 30 00",
+      "url": "http://www.msalanguedoc.fr"
+    }
+  },
+  {
+    "id": "5ef2c6f2ac07d9cae203ed9c3c4c076785525ed2",
+    "alternateName": "MSA",
+    "name": "mutualite_sociale_agricole_msa_languedoc_accueil_de_saint_chely_d_apcher",
+    "title": "Mutualité sociale agricole (MSA) Languedoc - accueil de Saint-Chély-d'Apcher",
+    "url": "https://lannuaire.service-public.fr/occitanie/lozere/msa-48140-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 99 58 30 00",
+      "url": "http://www.msalanguedoc.fr"
+    }
+  },
+  {
+    "id": "c151fa0cfdd89653969b8cbf6b582d0ae4c8bb6e",
+    "alternateName": "MSA",
+    "name": "mutualite_sociale_agricole_msa_languedoc_accueil_de_vauvert",
+    "title": "Mutualité sociale agricole (MSA) Languedoc - accueil de Vauvert",
+    "url": "https://lannuaire.service-public.fr/occitanie/gard/msa-30341-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 99 58 30 00",
+      "url": "http://www.msalanguedoc.fr"
+    }
+  },
+  {
+    "id": "f98e0cbcb7dcae6d55ba9fd6b57d8834cf1cb768",
+    "alternateName": "MSA",
+    "name": "mutualite_sociale_agricole_msa_la_reunion_accueil_de_saint_denis",
+    "title": "Mutualité sociale agricole (MSA) La Réunion - accueil de Saint-Denis",
+    "url": "https://lannuaire.service-public.fr/la-reunion/reunion/msa-97411-01",
+    "metadata": {
+      "email": "",
+      "telephone": "+262 2 62 40 33 25",
+      "url": "https://reunion.msa.fr"
+    }
+  },
+  {
+    "id": "6edfc947afc8a82286f0c4d6df1ee63e48f60fef",
+    "alternateName": "MSA",
+    "name": "mutualite_sociale_agricole_msa_loire_atlantique_vendee_accueil_de_la_roche_sur_yon",
+    "title": "Mutualité sociale agricole (MSA) Loire-Atlantique-Vendée - accueil de La Roche-sur-Yon",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/vendee/msa-85191-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 51 36 88 88",
+      "url": "http://www.msa44-85.fr"
+    }
+  },
+  {
+    "id": "d6d9da158af3bca09ab8c1c35ac993477be13982",
+    "alternateName": "MSA",
+    "name": "mutualite_sociale_agricole_msa_marne_ardennes_meuse_accueil_de_bar_le_duc",
+    "title": "Mutualité sociale agricole (MSA) Marne-Ardennes-Meuse - accueil de Bar-le-Duc",
+    "url": "https://lannuaire.service-public.fr/grand-est/meuse/msa-55476-01",
+    "metadata": {
+      "email": "msa.accueil@mam.msa.fr",
+      "telephone": "09 69 32 35 62",
+      "url": "http://www.msa085155.fr"
+    }
+  },
+  {
+    "id": "359d1b48b229e598c30d46b6e533e3ce751ad1cc",
+    "alternateName": "MSA",
+    "name": "mutualite_sociale_agricole_msa_marne_ardennes_meuse_accueil_de_chalons_en_champagne",
+    "title": "Mutualité sociale agricole (MSA) Marne-Ardennes-Meuse - accueil de Châlons-en-Champagne",
+    "url": "https://lannuaire.service-public.fr/grand-est/marne/msa-51108-01",
+    "metadata": {
+      "email": "msa.accueil@mam.msa.fr",
+      "telephone": "09 69 32 35 62",
+      "url": "http://www.msa085155.fr"
+    }
+  },
+  {
+    "id": "6625834a150bdde3887de096a1db57e59d2482ac",
+    "alternateName": "MSA",
+    "name": "mutualite_sociale_agricole_msa_marne_ardennes_meuse_accueil_de_charleville_mezieres",
+    "title": "Mutualité sociale agricole (MSA) Marne-Ardennes-Meuse - accueil de Charleville-Mézières",
+    "url": "https://lannuaire.service-public.fr/grand-est/ardennes/msa-08105-01",
+    "metadata": {
+      "email": "msa.accueil@mam.msa.fr",
+      "telephone": "09 69 32 35 62",
+      "url": "http://www.msa085155.fr"
+    }
+  },
+  {
+    "id": "1e4f867138a92b5f432ed3f418085117599c4f32",
+    "alternateName": "MSA",
+    "name": "mutualite_sociale_agricole_msa_marne_ardennes_meuse_accueil_d_epernay",
+    "title": "Mutualité sociale agricole (MSA) Marne-Ardennes-Meuse - accueil d'Épernay",
+    "url": "https://lannuaire.service-public.fr/grand-est/marne/msa-51230-01",
+    "metadata": {
+      "email": "msa.accueil@mam.msa.fr",
+      "telephone": "09 69 32 35 62",
+      "url": "http://www.msa085155.fr"
+    }
+  },
+  {
+    "id": "0aace312c5af451d5831875fd6abcb998823fd68",
+    "alternateName": "MSA",
+    "name": "mutualite_sociale_agricole_msa_marne_ardennes_meuse_accueil_de_reims",
+    "title": "Mutualité sociale agricole (MSA) Marne-Ardennes-Meuse - accueil de Reims",
+    "url": "https://lannuaire.service-public.fr/grand-est/marne/msa-51454-01",
+    "metadata": {
+      "email": "msa.accueil@mam.msa.fr",
+      "telephone": "09 69 32 35 62",
+      "url": "http://www.msa085155.fr"
+    }
+  },
+  {
+    "id": "5de42e4cd6a8fdc306a21c53bcccafde2f3f86f2",
+    "alternateName": "MSA",
+    "name": "mutualite_sociale_agricole_msa_marne_ardennes_meuse_accueil_de_rethel",
+    "title": "Mutualité sociale agricole (MSA) Marne-Ardennes-Meuse - accueil de Rethel",
+    "url": "https://lannuaire.service-public.fr/grand-est/ardennes/msa-08362-01",
+    "metadata": {
+      "email": "msa.accueil@mam.msa.fr",
+      "telephone": "09 69 32 35 62",
+      "url": "http://www.msa085155.fr"
+    }
+  },
+  {
+    "id": "143a334023eb55eb932038a726a70dfef7562112",
+    "alternateName": "MSA",
+    "name": "mutualite_sociale_agricole_msa_marne_ardennes_meuse_accueil_de_sainte_menehould",
+    "title": "Mutualité sociale agricole (MSA) Marne-Ardennes-Meuse - accueil de Sainte-Menehould",
+    "url": "https://lannuaire.service-public.fr/grand-est/marne/msa-51507-01",
+    "metadata": {
+      "email": "msa.accueil@mam.msa.fr",
+      "telephone": "09 69 32 35 62",
+      "url": "http://www.msa085155.fr"
+    }
+  },
+  {
+    "id": "19c98bc891196c52908a8038bb312594b4fa76f0",
+    "alternateName": "MSA",
+    "name": "mutualite_sociale_agricole_msa_marne_ardennes_meuse_accueil_de_sezanne",
+    "title": "Mutualité sociale agricole (MSA) Marne-Ardennes-Meuse - accueil de Sézanne",
+    "url": "https://lannuaire.service-public.fr/grand-est/marne/msa-51535-01",
+    "metadata": {
+      "email": "msa.accueil@mam.msa.fr",
+      "telephone": "09 69 32 35 62",
+      "url": "http://www.msa085155.fr"
+    }
+  },
+  {
+    "id": "0b95a529dbf1dbaa4a3e3f7acedfe0cedab703b6",
+    "alternateName": "MSA",
+    "name": "mutualite_sociale_agricole_msa_marne_ardennes_meuse_accueil_de_verdun",
+    "title": "Mutualité sociale agricole (MSA) Marne-Ardennes-Meuse - accueil de Verdun",
+    "url": "https://lannuaire.service-public.fr/grand-est/meuse/msa-55545-01",
+    "metadata": {
+      "email": "msa.accueil@mam.msa.fr",
+      "telephone": "09 69 32 35 62",
+      "url": "http://www.msa085155.fr"
+    }
+  },
+  {
+    "id": "76d742b28a330b67115b9e08824f4e561392b553",
+    "alternateName": "MSA",
+    "name": "mutualite_sociale_agricole_msa_marne_ardennes_meuse_accueil_de_vitry_le_francois",
+    "title": "Mutualité sociale agricole (MSA) Marne-Ardennes-Meuse - accueil de Vitry-le-François",
+    "url": "https://lannuaire.service-public.fr/grand-est/marne/msa-51649-01",
+    "metadata": {
+      "email": "msa.accueil@mam.msa.fr",
+      "telephone": "09 69 32 35 62",
+      "url": "http://www.msa085155.fr"
+    }
+  },
+  {
+    "id": "473ed4131425650d13c6a40e57c699b23c4b3382",
+    "alternateName": "MSA",
+    "name": "mutualite_sociale_agricole_msa_marne_ardennes_meuse_accueil_de_vouziers",
+    "title": "Mutualité sociale agricole (MSA) Marne-Ardennes-Meuse - accueil de Vouziers",
+    "url": "https://lannuaire.service-public.fr/grand-est/ardennes/msa-08490-01",
+    "metadata": {
+      "email": "msa.accueil@mam.msa.fr",
+      "telephone": "09 69 32 35 62",
+      "url": "http://www.msa085155.fr"
+    }
+  },
+  {
+    "id": "2f02a60f597a8f3e882da5fe6f23af892322f1b2",
+    "alternateName": "MSA",
+    "name": "mutualite_sociale_agricole_msa_martinique_accueil_du_lamentin",
+    "title": "Mutualité sociale agricole (MSA) Martinique - accueil du Lamentin",
+    "url": "https://lannuaire.service-public.fr/martinique/martinique/msa-97213-01",
+    "metadata": {
+      "email": "",
+      "telephone": "08 20 22 25 55",
+      "url": "https://martinique.msa.fr"
+    }
+  },
+  {
+    "id": "59a6f9176e9bf33190b45f944c673932697c8ff8",
+    "alternateName": "MSA",
+    "name": "mutualite_sociale_agricole_msa_mayenne_orne_sarthe_accueil_d_alencon",
+    "title": "Mutualité sociale agricole (MSA) Mayenne-Orne-Sarthe - accueil d'Alençon",
+    "url": "https://lannuaire.service-public.fr/normandie/orne/msa-61001-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 43 39 43 39",
+      "url": "http://www.msa-mayenne-orne-sarthe.fr"
+    }
+  },
+  {
+    "id": "b6ffbe7f460c7ab76029d2fdd2cbba31a89edac8",
+    "alternateName": "MSA",
+    "name": "mutualite_sociale_agricole_msa_mayenne_orne_sarthe_accueil_de_laval",
+    "title": "Mutualité sociale agricole (MSA) Mayenne-Orne-Sarthe - accueil de Laval",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/mayenne/msa-53130-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 43 39 43 39",
+      "url": "http://www.msa-mayenne-orne-sarthe.fr"
+    }
+  },
+  {
+    "id": "0c75a904c1531a51882c83bc01622fe3949e24c3",
+    "alternateName": "MSA",
+    "name": "mutualite_sociale_agricole_msa_mayenne_orne_sarthe_accueil_du_mans",
+    "title": "Mutualité sociale agricole (MSA) Mayenne-Orne-Sarthe - accueil du Mans",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/sarthe/msa-72181-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 43 39 43 39",
+      "url": "http://www.msa-mayenne-orne-sarthe.fr"
+    }
+  },
+  {
+    "id": "46f54fc4ddbc10d8287453bc69d8684f94c9444b",
+    "alternateName": "MSA",
+    "name": "mutualite_sociale_agricole_msa_meurthe_et_moselle_accueil_de_vandoeuvre_les_nancy",
+    "title": "Mutualité sociale agricole (MSA) Meurthe-et-Moselle - accueil de Vandœuvre-lès-Nancy",
+    "url": "https://lannuaire.service-public.fr/grand-est/meurthe-et-moselle/msa-54547-01",
+    "metadata": {
+      "email": "contact.blf@lorraine.msa.fr",
+      "telephone": "03 83 50 35 00",
+      "url": "http://www.msalorraine.fr"
+    }
+  },
+  {
+    "id": "cccc1a109721b7614539826b2fa939ef8763664b",
+    "alternateName": "MSA",
+    "name": "mutualite_sociale_agricole_msa_midi_pyrenees_nord_accueil_d_albi",
+    "title": "Mutualité sociale agricole (MSA) Midi-Pyrénées - Nord - accueil d'Albi",
+    "url": "https://lannuaire.service-public.fr/occitanie/tarn/msa-81004-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 63 48 40 00",
+      "url": "http://www.msa-mpn.fr"
+    }
+  },
+  {
+    "id": "41e250b3c2dd104dc0f401725575efba1628293f",
+    "alternateName": "MSA",
+    "name": "mutualite_sociale_agricole_msa_midi_pyrenees_nord_accueil_de_cahors",
+    "title": "Mutualité sociale agricole (MSA) Midi-Pyrénées - Nord - accueil de Cahors",
+    "url": "https://lannuaire.service-public.fr/occitanie/lot/msa-46042-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 63 48 40 00",
+      "url": "http://www.msa-mpn.fr"
+    }
+  },
+  {
+    "id": "4b2af904cc3cb9b337b2efe993c1d3c7a5daf65c",
+    "alternateName": "MSA",
+    "name": "mutualite_sociale_agricole_msa_midi_pyrenees_nord_accueil_de_montauban",
+    "title": "Mutualité sociale agricole (MSA) Midi-Pyrénées - Nord - accueil de Montauban",
+    "url": "https://lannuaire.service-public.fr/occitanie/tarn-et-garonne/msa-82121-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 63 48 40 00",
+      "url": "http://www.msa-mpn.fr"
+    }
+  },
+  {
+    "id": "ea134f262430ab1848d6b598b4b1b6aebd0182c2",
+    "alternateName": "MSA",
+    "name": "mutualite_sociale_agricole_msa_midi_pyrenees_nord_accueil_de_rodez",
+    "title": "Mutualité sociale agricole (MSA) Midi-Pyrénées - Nord - accueil de Rodez",
+    "url": "https://lannuaire.service-public.fr/occitanie/aveyron/msa-12202-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 63 48 40 00",
+      "url": "http://www.msa-mpn.fr"
+    }
+  },
+  {
+    "id": "e671e3206738f5840861985d9e0813b654089722",
+    "alternateName": "MSA",
+    "name": "mutualite_sociale_agricole_msa_midi_pyrenees_sud_accueil_d_auch",
+    "title": "Mutualité sociale agricole (MSA) Midi-Pyrénées - Sud - accueil d'Auch",
+    "url": "https://lannuaire.service-public.fr/occitanie/gers/msa-32013-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 61 10 40 40",
+      "url": "http://www.msa-mps.fr"
+    }
+  },
+  {
+    "id": "69f8f3b26ee174840c4356a19154e6c4f6346694",
+    "alternateName": "MSA",
+    "name": "mutualite_sociale_agricole_msa_midi_pyrenees_sud_accueil_de_foix",
+    "title": "Mutualité sociale agricole (MSA) Midi-Pyrénées - Sud - accueil de Foix",
+    "url": "https://lannuaire.service-public.fr/occitanie/ariege/msa-09122-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 61 10 40 40",
+      "url": "http://www.msa-mps.fr"
+    }
+  },
+  {
+    "id": "a162c22e74e73541c8db94a0a044a0b513722103",
+    "alternateName": "MSA",
+    "name": "mutualite_sociale_agricole_msa_midi_pyrenees_sud_accueil_de_tarbes",
+    "title": "Mutualité sociale agricole (MSA) Midi-Pyrénées - Sud - accueil de Tarbes",
+    "url": "https://lannuaire.service-public.fr/occitanie/hautes-pyrenees/msa-65440-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 61 10 40 40",
+      "url": "http://www.msa-mps.fr"
+    }
+  },
+  {
+    "id": "ae8d246eeeda6dddd09b529689061ea2cd5cf727",
+    "alternateName": "MSA",
+    "name": "mutualite_sociale_agricole_msa_midi_pyrenees_sud_accueil_de_toulouse",
+    "title": "Mutualité sociale agricole (MSA) Midi-Pyrénées - Sud - accueil de Toulouse",
+    "url": "https://lannuaire.service-public.fr/occitanie/haute-garonne/msa-31555-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 61 10 40 40",
+      "url": "http://www.msa-mps.fr"
+    }
+  },
+  {
+    "id": "5c2e099261037b2b4f934c4ca3bbc9b3a277a742",
+    "alternateName": "MSA",
+    "name": "mutualite_sociale_agricole_msa_nord_pas_de_calais_accueil_de_capinghem",
+    "title": "Mutualité sociale agricole (MSA) Nord-Pas-de-Calais - accueil de Capinghem",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/nord/msa-59128-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 20 00 20 00",
+      "url": "http://www.msa59-62.fr"
+    }
+  },
+  {
+    "id": "27addf41432d1756d0015a37c9366363cf5f2067",
+    "alternateName": "MSA",
+    "name": "mutualite_sociale_agricole_msa_normandie_accueil_d_evreux",
+    "title": "Mutualité sociale agricole (MSA) Normandie - accueil d’Évreux",
+    "url": "https://lannuaire.service-public.fr/normandie/eure/msa-27229-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 35 60 06 00",
+      "url": "http://www.msa-haute-normandie.fr"
+    }
+  },
+  {
+    "id": "9c901beabf5d355f4e9baff4ddbed92ed6a6ed28",
+    "alternateName": "MSA",
+    "name": "mutualite_sociale_agricole_msa_nouvelle_aquitaine_accueil_de_bordeaux",
+    "title": "Mutualité sociale agricole (MSA) Nouvelle-Aquitaine - accueil de Bordeaux",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/gironde/msa-33063-01",
+    "metadata": {
+      "email": "https://gironde.msa.fr/lfy/nous-contacter",
+      "telephone": "05 56 01 83 83",
+      "url": "https://gironde.msa.fr"
+    }
+  },
+  {
+    "id": "8d257f6ebf7458b8aff459be018d2b5f23df6b8b",
+    "alternateName": "MSA",
+    "name": "mutualite_sociale_agricole_msa_nouvelle_aquitaine_accueil_de_gueret",
+    "title": "Mutualité sociale agricole (MSA) Nouvelle-Aquitaine - accueil de Guéret",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/creuse/msa-23096-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 44 00 04 04",
+      "url": "http://www.msa-limousin.fr"
+    }
+  },
+  {
+    "id": "30b3e86f2c7bac14cd69aa09f42205a9fc4c2202",
+    "alternateName": "MSA",
+    "name": "mutualite_sociale_agricole_msa_nouvelle_aquitaine_accueil_de_libourne",
+    "title": "Mutualité sociale agricole (MSA) Nouvelle-Aquitaine - accueil de Libourne",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/gironde/msa-33243-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 56 01 83 83",
+      "url": "https://gironde.msa.fr"
+    }
+  },
+  {
+    "id": "1849bfbe93df6f9f29fd1a9bfaf38580af29b50b",
+    "alternateName": "MSA",
+    "name": "mutualite_sociale_agricole_msa_nouvelle_aquitaine_accueil_de_limoges",
+    "title": "Mutualité sociale agricole (MSA) Nouvelle-Aquitaine - accueil de Limoges",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/haute-vienne/msa-87085-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 44 00 04 04",
+      "url": "http://www.msa-limousin.fr"
+    }
+  },
+  {
+    "id": "2e559f9ccd960883464632b2ec786555d1ddfbc8",
+    "alternateName": "MSA",
+    "name": "mutualite_sociale_agricole_msa_nouvelle_aquitaine_accueil_de_nontron",
+    "title": "Mutualité sociale agricole (MSA) Nouvelle-Aquitaine - accueil de Nontron",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/dordogne/msa-24311-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 53 67 77 77",
+      "url": "http://www.msa24-47.fr"
+    }
+  },
+  {
+    "id": "0b726333ce3ab579347b2dd36457ae8f175bb6fa",
+    "alternateName": "MSA",
+    "name": "mutualite_sociale_agricole_msa_nouvelle_aquitaine_accueil_de_perigueux",
+    "title": "Mutualité sociale agricole (MSA) Nouvelle-Aquitaine - accueil de Périgueux",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/dordogne/msa-24322-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 53 67 77 77",
+      "url": "http://www.msa24-47.fr"
+    }
+  },
+  {
+    "id": "f210e5827272fdeabd5e25d503f4efb642ef7fb3",
+    "alternateName": "MSA",
+    "name": "mutualite_sociale_agricole_msa_nouvelle_aquitaine_accueil_de_sarlat",
+    "title": "Mutualité sociale agricole (MSA) Nouvelle-Aquitaine - accueil de Sarlat",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/dordogne/msa-24520-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 53 67 77 77",
+      "url": "http://www.msa24-47.fr"
+    }
+  },
+  {
+    "id": "f1b2c3367111c42f3d9954468dd9f7ab19d9b31b",
+    "alternateName": "MSA",
+    "name": "mutualite_sociale_agricole_msa_nouvelle_aquitaine_accueil_de_tulle",
+    "title": "Mutualité sociale agricole (MSA) Nouvelle-Aquitaine - accueil de Tulle",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/correze/msa-19272-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 44 00 04 04",
+      "url": "http://www.msa-limousin.fr"
+    }
+  },
+  {
+    "id": "dcb96564f473ee1ae7628efc6e974431f8ed95bd",
+    "alternateName": "MSA",
+    "name": "mutualite_sociale_agricole_msa_nouvelle_aquitaine_accueil_de_villeneuve_sur_lot",
+    "title": "Mutualité sociale agricole (MSA) Nouvelle-Aquitaine - accueil de Villeneuve-sur-Lot",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/lot-et-garonne/msa-47323-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 53 67 77 77",
+      "url": "http://www.msa24-47.fr"
+    }
+  },
+  {
+    "id": "2ed6042b7ae717956d5743fd2cc1695d32451de0",
+    "alternateName": "MSA",
+    "name": "mutualite_sociale_agricole_msa_occitanie_accueil_de_carcassonne",
+    "title": "Mutualité sociale agricole (MSA) Occitanie - accueil de Carcassonne",
+    "url": "https://lannuaire.service-public.fr/occitanie/aude/msa-11069-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 68 55 11 66",
+      "url": "http://www.msagrandsud.fr"
+    }
+  },
+  {
+    "id": "bb61d719951180b84ed435e1d15f07a2afff67e0",
+    "alternateName": "MSA",
+    "name": "mutualite_sociale_agricole_msa_occitanie_accueil_de_castelnaudary",
+    "title": "Mutualité sociale agricole (MSA) Occitanie - accueil de Castelnaudary",
+    "url": "https://lannuaire.service-public.fr/occitanie/aude/msa-11076-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 68 55 11 66",
+      "url": "http://www.msagrandsud.fr"
+    }
+  },
+  {
+    "id": "22f7df94c3e45df0c1c78d20d5d9f33fd2011310",
+    "alternateName": "MSA",
+    "name": "mutualite_sociale_agricole_msa_occitanie_accueil_de_lezignan_corbieres",
+    "title": "Mutualité sociale agricole (MSA) Occitanie - accueil de Lézignan-Corbières",
+    "url": "https://lannuaire.service-public.fr/occitanie/aude/msa-11203-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 68 55 11 66",
+      "url": "http://www.msagrandsud.fr"
+    }
+  },
+  {
+    "id": "6abd97785be468649d2b3254b41bec3aaf4ea7cd",
+    "alternateName": "MSA",
+    "name": "mutualite_sociale_agricole_msa_occitanie_accueil_de_narbonne",
+    "title": "Mutualité sociale agricole (MSA) Occitanie - accueil de Narbonne",
+    "url": "https://lannuaire.service-public.fr/occitanie/aude/msa-11262-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 68 55 11 66",
+      "url": "http://www.msagrandsud.fr"
+    }
+  },
+  {
+    "id": "ed0f08c6e633655e8cdf1de37fe361a291f9c599",
+    "alternateName": "MSA",
+    "name": "mutualite_sociale_agricole_msa_occitanie_accueil_de_perpignan",
+    "title": "Mutualité sociale agricole (MSA) Occitanie - accueil de Perpignan",
+    "url": "https://lannuaire.service-public.fr/occitanie/pyrenees-orientales/msa-66136-01",
+    "metadata": {
+      "email": "https://grandsud.msa.fr/lfy/nous-contacter",
+      "telephone": "04 68 55 11 66",
+      "url": "http://www.msagrandsud.fr"
+    }
+  },
+  {
+    "id": "39d5893cc7ead18323358dd37a307db6ccd645cb",
+    "alternateName": "MSA",
+    "name": "mutualite_sociale_agricole_msa_occitanie_accueil_de_quillan",
+    "title": "Mutualité sociale agricole (MSA) Occitanie - accueil de Quillan",
+    "url": "https://lannuaire.service-public.fr/occitanie/aude/msa-11304-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 68 55 11 66",
+      "url": "http://www.msagrandsud.fr"
+    }
+  },
+  {
+    "id": "6d36b8bb2fd73e6443cc7591ab71f316499a5682",
+    "alternateName": "MSA",
+    "name": "mutualite_sociale_agricole_msa_pays_de_la_loire_accueil_de_beaucouze",
+    "title": "Mutualité sociale agricole (MSA) Pays de la Loire - accueil de Beaucouzé",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/maine-et-loire/msa-49020-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 41 31 75 75",
+      "url": "http://www.msa49.fr"
+    }
+  },
+  {
+    "id": "66434e006a3cd1c460fbce89bdf958f94284d670",
+    "alternateName": "MSA",
+    "name": "mutualite_sociale_agricole_msa_pays_de_la_loire_accueil_de_saint_herblain_nantes",
+    "title": "Mutualité sociale agricole (MSA) Pays de la Loire - accueil de Saint-Herblain - Nantes",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/loire-atlantique/msa-44109-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 51 36 88 88",
+      "url": "http://www.msa44-85.fr"
+    }
+  },
+  {
+    "id": "d1753aa345fc2b021babb22b53916e0243526a28",
+    "alternateName": "MSA",
+    "name": "mutualite_sociale_agricole_msa_picardie_accueil_de_beauvais",
+    "title": "Mutualité sociale agricole (MSA) Picardie - accueil de Beauvais",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/oise/msa-60057-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 22 80 60 02",
+      "url": "http://www.msa-picardie.fr"
+    }
+  },
+  {
+    "id": "3c5f60d081622054c74e751a5d4262e33c229427",
+    "alternateName": "MSA",
+    "name": "mutualite_sociale_agricole_msa_picardie_accueil_de_boves",
+    "title": "Mutualité sociale agricole (MSA) Picardie - accueil de Boves",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/somme/msa-80021-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 22 80 60 02",
+      "url": "http://www.msa-picardie.fr"
+    }
+  },
+  {
+    "id": "ea22999f17b5910deb9a4e6dcbef21fa84085586",
+    "alternateName": "MSA",
+    "name": "mutualite_sociale_agricole_msa_picardie_accueil_de_laon",
+    "title": "Mutualité sociale agricole (MSA) Picardie - accueil de Laon",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/aisne/msa-02408-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 22 80 60 02",
+      "url": "http://www.msa-picardie.fr"
+    }
+  },
+  {
+    "id": "3e7b368b07e3ce79bc4125c7f8e28be5d3052b2b",
+    "alternateName": "MSA",
+    "name": "mutualite_sociale_agricole_msa_portes_de_bretagne_accueil_de_rennes",
+    "title": "Mutualité sociale agricole (MSA) Portes-de-Bretagne - accueil de Rennes",
+    "url": "https://lannuaire.service-public.fr/bretagne/ille-et-vilaine/msa-35238-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 99 01 80 80",
+      "url": "http://www.msaportesdebretagne.fr"
+    }
+  },
+  {
+    "id": "532f0299bb6455533d8fdae2027936b2b8fd4852",
+    "alternateName": "MSA",
+    "name": "mutualite_sociale_agricole_msa_portes_de_bretagne_accueil_de_vannes",
+    "title": "Mutualité sociale agricole (MSA) Portes-de-Bretagne - accueil de Vannes",
+    "url": "https://lannuaire.service-public.fr/bretagne/morbihan/msa-56260-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 97 46 52 52",
+      "url": "http://www.msaportesdebretagne.fr"
+    }
+  },
+  {
+    "id": "aa77b857837dedac49f98ee7f5d57bba2f8bfc60",
+    "alternateName": "MSA",
+    "name": "mutualite_sociale_agricole_msa_provence_azur_accueil_de_draguignan",
+    "title": "Mutualité sociale agricole (MSA) Provence-Azur - accueil de Draguignan",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/var/msa-83050-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 94 60 38 38",
+      "url": "http://www.msaprovenceazur.fr"
+    }
+  },
+  {
+    "id": "ad0714528de0bd6bd01e0e7a8bad10bb30077009",
+    "alternateName": "MSA",
+    "name": "mutualite_sociale_agricole_msa_provence_azur_accueil_de_marseille",
+    "title": "Mutualité sociale agricole (MSA) Provence-Azur - accueil de Marseille",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/msa-13203-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 94 60 38 38",
+      "url": "http://www.msaprovenceazur.fr"
+    }
+  },
+  {
+    "id": "e37fdd62ad15170ecef1bcebf8f2531802829c3b",
+    "alternateName": "MSA",
+    "name": "mutualite_sociale_agricole_msa_provence_azur_accueil_de_nice",
+    "title": "Mutualité sociale agricole (MSA) Provence-Azur - accueil de Nice",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/alpes-maritimes/msa-06088-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 94 60 38 38",
+      "url": "http://www.msaprovenceazur.fr"
+    }
+  },
+  {
+    "id": "441821289fb60f6918a054a374afe8527fb67864",
+    "alternateName": "MSA",
+    "name": "mutualite_sociale_agricole_msa_sevres_vienne_accueil_d_antran",
+    "title": "Mutualité sociale agricole (MSA) Sèvres-Vienne - accueil d'Antran",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/vienne/msa-86007-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 49 43 86 79",
+      "url": "http://www.msapoitou.fr"
+    }
+  },
+  {
+    "id": "0af6a0a9766fd4fb7f7bf8de055f1874f2fb2300",
+    "alternateName": "MSA",
+    "name": "mutualite_sociale_agricole_msa_sevres_vienne_accueil_de_bressuire",
+    "title": "Mutualité sociale agricole (MSA) Sèvres-Vienne - accueil de Bressuire",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/deux-sevres/msa-79049-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 49 43 86 79",
+      "url": "http://www.msapoitou.fr"
+    }
+  },
+  {
+    "id": "5a47c231679dc66df0cd668fe9111c57d1ff8aa9",
+    "alternateName": "MSA",
+    "name": "mutualite_sociale_agricole_msa_sevres_vienne_accueil_de_chauray",
+    "title": "Mutualité sociale agricole (MSA) Sèvres-Vienne - accueil de Chauray",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/deux-sevres/msa-79191-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 49 43 86 79",
+      "url": "http://www.msapoitou.fr"
+    }
+  },
+  {
+    "id": "79149bdad1df9c7f419cfa8e1510e4a2b66037d8",
+    "alternateName": "MSA",
+    "name": "mutualite_sociale_agricole_msa_sevres_vienne_accueil_de_loudun",
+    "title": "Mutualité sociale agricole (MSA) Sèvres-Vienne - accueil de Loudun",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/vienne/msa-86137-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 49 43 86 79",
+      "url": "http://www.msapoitou.fr"
+    }
+  },
+  {
+    "id": "7250e0c90a13e212600eb39202652d528055bd64",
+    "alternateName": "MSA",
+    "name": "mutualite_sociale_agricole_msa_sevres_vienne_accueil_de_montmorillon",
+    "title": "Mutualité sociale agricole (MSA) Sèvres-Vienne - accueil de Montmorillon",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/vienne/msa-86165-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 49 43 86 79",
+      "url": "http://www.msapoitou.fr"
+    }
+  },
+  {
+    "id": "018d146548ff934f81562682f271c75896ff143e",
+    "alternateName": "MSA",
+    "name": "mutualite_sociale_agricole_msa_sevres_vienne_accueil_de_parthenay",
+    "title": "Mutualité sociale agricole (MSA) Sèvres-Vienne - accueil de Parthenay",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/deux-sevres/msa-79202-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 49 43 86 79",
+      "url": "http://www.msapoitou.fr"
+    }
+  },
+  {
+    "id": "994a8d2a15132165bf7c0408ea110b9bf2b42f80",
+    "alternateName": "MSA",
+    "name": "mutualite_sociale_agricole_msa_sevres_vienne_accueil_de_poitiers",
+    "title": "Mutualité sociale agricole (MSA) Sèvres-Vienne - accueil de Poitiers",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/vienne/msa-86194-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 49 43 86 79",
+      "url": "http://www.msapoitou.fr"
+    }
+  },
+  {
+    "id": "a96a620e1711520fc236e555d058ac898124efa7",
+    "alternateName": "MSA",
+    "name": "mutualite_sociale_agricole_msa_sevres_vienne_accueil_de_saint_jean_de_thouars",
+    "title": "Mutualité sociale agricole (MSA) Sèvres-Vienne - accueil de Saint-Jean-de-Thouars",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/deux-sevres/msa-79259-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 49 43 86 79",
+      "url": "http://www.msapoitou.fr"
+    }
+  },
+  {
+    "id": "8748c533939e72a4d87d6f60c9b66229002d68f9",
+    "alternateName": "MSA",
+    "name": "mutualite_sociale_agricole_msa_sevres_vienne_accueil_de_saint_martin_les_melle",
+    "title": "Mutualité sociale agricole (MSA) Sèvres-Vienne - accueil de Saint-Martin-lès-Melle",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/deux-sevres/msa-79279-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 49 43 86 79",
+      "url": "http://www.msapoitou.fr"
+    }
+  },
+  {
+    "id": "1dc3431a4efe32d813bd884265da6acc2917fc55",
+    "alternateName": "MSA",
+    "name": "mutualite_sociale_agricole_msa_sevres_vienne_accueil_de_savigne",
+    "title": "Mutualité sociale agricole (MSA) Sèvres-Vienne - accueil de Savigné",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/vienne/msa-86255-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 49 43 86 79",
+      "url": "http://www.msapoitou.fr"
+    }
+  },
+  {
+    "id": "e6ba31f2ad67a2877b70981416f1610977b892b7",
+    "alternateName": "MSA",
+    "name": "mutualite_sociale_agricole_msa_sud_aquitaine_accueil_d_aire_sur_l_adour",
+    "title": "Mutualité sociale agricole (MSA) Sud-Aquitaine - accueil d'Aire-sur-l'Adour",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/landes/msa-40001-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 58 06 55 00",
+      "url": "http://www.msasudaquitaine.fr"
+    }
+  },
+  {
+    "id": "597c689edc05c2761f8136f7f0f0f3c55b5cd0c5",
+    "alternateName": "MSA",
+    "name": "mutualite_sociale_agricole_msa_sud_aquitaine_accueil_de_dax",
+    "title": "Mutualité sociale agricole (MSA) Sud-Aquitaine - accueil de Dax",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/landes/msa-40088-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 58 06 55 00",
+      "url": "http://www.msasudaquitaine.fr"
+    }
+  },
+  {
+    "id": "6eab32bcf8912f8fcbe8b7389df11a8a527bf412",
+    "alternateName": "MSA",
+    "name": "mutualite_sociale_agricole_msa_sud_aquitaine_accueil_de_hasparren",
+    "title": "Mutualité sociale agricole (MSA) Sud-Aquitaine - accueil de Hasparren",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/pyrenees-atlantiques/msa-64256-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 58 06 55 00",
+      "url": "http://www.msasudaquitaine.fr"
+    }
+  },
+  {
+    "id": "ddb2ae6e8b90713670bec26562f8e04dea6bad8f",
+    "alternateName": "MSA",
+    "name": "mutualite_sociale_agricole_msa_sud_aquitaine_accueil_d_oloron_sainte_marie",
+    "title": "Mutualité sociale agricole (MSA) Sud-Aquitaine - accueil d'Oloron-Sainte-Marie",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/pyrenees-atlantiques/msa-64422-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 58 03 16 16",
+      "url": "http://www.msasudaquitaine.fr"
+    }
+  },
+  {
+    "id": "320482efb32ba72ef60c1055b0a66616081f497b",
+    "alternateName": "MSA",
+    "name": "mutualite_sociale_agricole_msa_sud_aquitaine_accueil_d_orthez",
+    "title": "Mutualité sociale agricole (MSA) Sud-Aquitaine - accueil d'Orthez",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/pyrenees-atlantiques/msa-64430-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 58 06 55 00",
+      "url": "http://www.msasudaquitaine.fr"
+    }
+  },
+  {
+    "id": "697bd39f0ccdee13c88a8a19b0ab8cb46f6d264b",
+    "alternateName": "MSA",
+    "name": "mutualite_sociale_agricole_msa_sud_aquitaine_accueil_de_pau",
+    "title": "Mutualité sociale agricole (MSA) Sud-Aquitaine - accueil de Pau",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/pyrenees-atlantiques/msa-64445-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 58 06 55 00",
+      "url": "http://www.msasudaquitaine.fr"
+    }
+  },
+  {
+    "id": "d4e3999b3ef5ed568f4680e80860a8cb89d0981e",
+    "alternateName": "MSA",
+    "name": "mutualite_sociale_agricole_msa_sud_aquitaine_accueil_de_saint_palais",
+    "title": "Mutualité sociale agricole (MSA) Sud-Aquitaine - accueil de Saint-Palais",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/pyrenees-atlantiques/msa-64493-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 58 06 55 00",
+      "url": "http://www.msasudaquitaine.fr"
+    }
+  },
+  {
+    "id": "0b2b6e38424356be5f3807f4aa73089b0c3bb88e",
+    "alternateName": "MSA",
+    "name": "mutualite_sociale_agricole_msa_sud_aquitaine_accueil_de_saint_pierre_du_mont",
+    "title": "Mutualité sociale agricole (MSA) Sud-Aquitaine - accueil de Saint-Pierre-du-Mont",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/landes/msa-40281-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 58 06 55 00",
+      "url": "http://www.msasudaquitaine.fr"
+    }
+  },
+  {
+    "id": "f2e217f9c891b934b386e785de815a6ae572aa3c",
+    "alternateName": "MSA",
+    "name": "mutualite_sociale_agricole_msa_sud_champagne_accueil_d_arcis_sur_aube",
+    "title": "Mutualité sociale agricole (MSA) Sud-Champagne - accueil d'Arcis-sur-Aube",
+    "url": "https://lannuaire.service-public.fr/grand-est/aube/msa-10006-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 25 30 33 33",
+      "url": "https://sudchampagne.msa.fr"
+    }
+  },
+  {
+    "id": "bb75b5cb74f0b0433117215e880c1436f5b4c2b6",
+    "alternateName": "MSA",
+    "name": "mutualite_sociale_agricole_msa_sud_champagne_accueil_de_bar_sur_aube",
+    "title": "Mutualité sociale agricole (MSA) Sud-Champagne - accueil de Bar-sur-Aube",
+    "url": "https://lannuaire.service-public.fr/grand-est/aube/msa-10033-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 25 30 33 33",
+      "url": "https://sudchampagne.msa.fr"
+    }
+  },
+  {
+    "id": "d7b90d5089b75fd28a7e71153da89529e120b622",
+    "alternateName": "MSA",
+    "name": "mutualite_sociale_agricole_msa_sud_champagne_accueil_de_chaumont",
+    "title": "Mutualité sociale agricole (MSA) Sud-Champagne - accueil de Chaumont",
+    "url": "https://lannuaire.service-public.fr/grand-est/haute-marne/msa-52121-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 25 30 33 33",
+      "url": "https://sudchampagne.msa.fr"
+    }
+  },
+  {
+    "id": "27fe970e058de3ad805fa0ac131dacafeef7cec4",
+    "alternateName": "MSA",
+    "name": "mutualite_sociale_agricole_msa_sud_champagne_accueil_de_langres",
+    "title": "Mutualité sociale agricole (MSA) Sud-Champagne - accueil de Langres",
+    "url": "https://lannuaire.service-public.fr/grand-est/haute-marne/msa-52269-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 25 30 33 33",
+      "url": "https://sudchampagne.msa.fr"
+    }
+  },
+  {
+    "id": "f18b08fff395c5fac91b731159f16d579363296c",
+    "alternateName": "MSA",
+    "name": "mutualite_sociale_agricole_msa_sud_champagne_accueil_de_troyes",
+    "title": "Mutualité sociale agricole (MSA) Sud-Champagne - accueil de Troyes",
+    "url": "https://lannuaire.service-public.fr/grand-est/aube/msa-10387-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 25 30 33 33",
+      "url": "https://sudchampagne.msa.fr"
+    }
+  },
+  {
+    "id": "a47a53789131b60bb72e690675e266a9ef204480",
+    "alternateName": "MSA",
+    "name": "mutualite_sociale_agricole_msa_sud_champagne_accueil_de_vecqueville",
+    "title": "Mutualité sociale agricole (MSA) Sud-Champagne - accueil de Vecqueville",
+    "url": "https://lannuaire.service-public.fr/grand-est/haute-marne/msa-52512-01",
+    "metadata": {
+      "email": "https://sudchampagne.msa.frlfy/contact-particulier",
+      "telephone": "03 25 30 33 33",
+      "url": "https://sudchampagne.msa.frlfy"
+    }
+  }
+]

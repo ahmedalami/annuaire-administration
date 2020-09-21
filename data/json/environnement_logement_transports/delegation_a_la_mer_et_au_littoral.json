@@ -1,0 +1,266 @@
+[
+  {
+    "id": "ca8c9c1c52ab21f545da47c89ed7e2621f0307ae",
+    "name": "delegation_a_la_mer_et_au_littoral_alpes_maritimes",
+    "title": "Délégation à la mer et au littoral - Alpes-Maritimes",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/alpes-maritimes/dml-06088-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 93 72 72 72",
+      "url": "http://www.alpes-maritimes.equipement-agriculture.gouv.fr"
+    }
+  },
+  {
+    "id": "bdaa006d0d011a1b59aee26ebe4c25ae72fc5c6b",
+    "name": "delegation_a_la_mer_et_au_littoral_bouches_du_rhone",
+    "title": "Délégation à la mer et au littoral - Bouches-du-Rhône",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/dml-13203-01",
+    "metadata": {
+      "email": "ddtm@bouches-du-rhone.gouv.fr",
+      "telephone": "04 91 28 40 40",
+      "url": "http://www.bouches-du-rhone.gouv.fr/Services-de-l-Etat/Les-directions-departementales-DD/La-direction-departementale-des-territoires-et-de-la-mer-DDTM"
+    }
+  },
+  {
+    "id": "61c62511e4e863feec42e5c70c70fc9ce6b5a7bc",
+    "name": "delegation_a_la_mer_et_au_littoral_calvados",
+    "title": "Délégation à la mer et au littoral - Calvados",
+    "url": "https://lannuaire.service-public.fr/normandie/calvados/dml-14327-01",
+    "metadata": {
+      "email": "ddtm@calvados.gouv.fr",
+      "telephone": "02 31 43 15 00",
+      "url": "http://www.calvados.gouv.fr"
+    }
+  },
+  {
+    "id": "5b467fef840cbf2b3e08d19f3086c411c0d292b9",
+    "name": "delegation_a_la_mer_et_au_littoral_charente_maritime",
+    "title": "Délégation à la mer et au littoral - Charente-Maritime",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/charente-maritime/dml-17300-01",
+    "metadata": {
+      "email": "ddtm-dmldd@charente-maritime.gouv.fr",
+      "telephone": "05 16 49 61 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "0d6a866c5c62fdc60349a6f038dcc64da280308a",
+    "name": "delegation_a_la_mer_et_au_littoral_corse_du_sud",
+    "title": "Délégation à la mer et au littoral - Corse-du-Sud",
+    "url": "https://lannuaire.service-public.fr/corse/corse-du-sud/dml-2A004-01",
+    "metadata": {
+      "email": "ddtm-sml@corse-du-sud.gouv.fr",
+      "telephone": "04 95 29 09 09",
+      "url": "http://www.corse-du-sud.gouv.fr/direction-departementale-des-territoires-et-de-la-r99.html"
+    }
+  },
+  {
+    "id": "927fbd2dc962f85cf38469400ce30ef192056fe9",
+    "name": "delegation_a_la_mer_et_au_littoral_cotes_d_armor",
+    "title": "Délégation à la mer et au littoral - Côtes-d'Armor",
+    "url": "https://lannuaire.service-public.fr/bretagne/cotes-d-armor/dml-22278-01",
+    "metadata": {
+      "email": "ddtm-dml@cotes-darmor.gouv.fr",
+      "telephone": "02 96 75 66 22",
+      "url": ""
+    }
+  },
+  {
+    "id": "dac9b321b8462eb4276f2b19fc125164967c28cd",
+    "name": "delegation_a_la_mer_et_au_littoral_finistere",
+    "title": "Délégation à la mer et au littoral - Finistère",
+    "url": "https://lannuaire.service-public.fr/bretagne/finistere/dml-29232-01",
+    "metadata": {
+      "email": "ddtm@finistere.gouv.fr",
+      "telephone": "02 98 76 52 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "da3b67ba12841b449fb667f6cded5e5302cd9235",
+    "name": "delegation_a_la_mer_et_au_littoral_gironde",
+    "title": "Délégation à la mer et au littoral - Gironde",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/gironde/dml-33009-01",
+    "metadata": {
+      "email": "ddtm-dml@gironde.gouv.fr",
+      "telephone": "05 57 72 27 61",
+      "url": ""
+    }
+  },
+  {
+    "id": "75338100f5f396291c409244e8987f18f2967bfd",
+    "name": "delegation_a_la_mer_et_au_littoral_haute_corse",
+    "title": "Délégation à la mer et au littoral - Haute-Corse",
+    "url": "https://lannuaire.service-public.fr/corse/haute-corse/dml-2B033-01",
+    "metadata": {
+      "email": "ddtm-dml@haute-corse.gouv.fr",
+      "telephone": "04 95 32 97 97",
+      "url": "http://www.haute-corse.gouv.fr/direction-departementale-des-territoires-et-de-la-a596.html"
+    }
+  },
+  {
+    "id": "b4c84761ae3ca52ef79d00497f5d75213da0269e",
+    "name": "delegation_a_la_mer_et_au_littoral_herault_et_gard",
+    "title": "Délégation à la mer et au littoral - Hérault et Gard",
+    "url": "https://lannuaire.service-public.fr/occitanie/herault/dml-34301-02",
+    "metadata": {
+      "email": "ddtm-dml@herault.gouv.fr",
+      "telephone": "04 34 46 63 16",
+      "url": "http://www.herault.gouv.fr/Services-de-l-Etat/Mer-et-littoral/Direction-Departementale-des-Territoires-et-de-la-Mer-de-l-Herault-DDTM-34"
+    }
+  },
+  {
+    "id": "fc9504096bd988eacd2f5a5595d673667e92ffa3",
+    "name": "delegation_a_la_mer_et_au_littoral_ille_et_vilaine",
+    "title": "Délégation à la mer et au littoral - Ille-et-Vilaine",
+    "url": "https://lannuaire.service-public.fr/bretagne/ille-et-vilaine/dml-35288-01",
+    "metadata": {
+      "email": "ddtm-dml@ille-et-vilaine.gouv.fr",
+      "telephone": "02 90 02 67 03",
+      "url": "http://www.ille-et-vilaine.gouv.fr/Services-de-l-Etat/Mer-et-littoral/Delegation-a-la-mer-et-au-littoral/Missions"
+    }
+  },
+  {
+    "id": "566232b00196f615d9c7e0b4d3e2baeb754982c9",
+    "name": "delegation_a_la_mer_et_au_littoral_loire_atlantique",
+    "title": "Délégation à la mer et au littoral - Loire-Atlantique",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/loire-atlantique/dml-44109-01",
+    "metadata": {
+      "email": "ddtm-dml@loire-atlantique.gouv.fr",
+      "telephone": "02 40 11 77 50",
+      "url": "http://www.loire-atlantique.gouv.fr"
+    }
+  },
+  {
+    "id": "25ae95a62a908a91c6a6b6323291309d7bbf2037",
+    "name": "delegation_a_la_mer_et_au_littoral_morbihan_lorient",
+    "title": "Délégation à la mer et au littoral - Morbihan - Lorient",
+    "url": "https://lannuaire.service-public.fr/bretagne/morbihan/dml-56121-01",
+    "metadata": {
+      "email": "ddtm-dml@morbihan.gouv.fr",
+      "telephone": "02 97 37 16 22",
+      "url": "http://developpement-durable.gouv.fr"
+    }
+  },
+  {
+    "id": "6b1a94fb1fefd8194a159d2f5e40da56e6642e2b",
+    "name": "delegation_a_la_mer_et_au_littoral_nord",
+    "title": "Délégation à la mer et au littoral - Nord",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/nord/dml-59183-01",
+    "metadata": {
+      "email": "ddtm-dmlni-dunkerque@nord.gouv.fr",
+      "telephone": "03 28 24 98 20",
+      "url": "http://nord.gouv.fr"
+    }
+  },
+  {
+    "id": "213fb5fcf3dc6d2be677a719c334adaafdc8c1da",
+    "name": "delegation_a_la_mer_et_au_littoral_pas_de_calais",
+    "title": "Délégation à la mer et au littoral - Pas-de-Calais",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/pas-de-calais/dml-62160-01",
+    "metadata": {
+      "email": "ddtm-dml@pas-de-calais.gouv.fr",
+      "telephone": "03 61 31 33 00",
+      "url": "http://www.pas-de-calais.equipement-agriculture.gouv.fr"
+    }
+  },
+  {
+    "id": "b0410eb86b5966c7461bc8b5cb8316d1f5a00306",
+    "name": "delegation_a_la_mer_et_au_littoral_pyrenees_atlantiques",
+    "title": "Délégation à la mer et au littoral - Pyrénées-Atlantiques",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/pyrenees-atlantiques/dml-64024-01",
+    "metadata": {
+      "email": "ddtm-dml@pyrenees-atlantiques.gouv.fr",
+      "telephone": "05 59 52 59 70",
+      "url": ""
+    }
+  },
+  {
+    "id": "8234f1f755bb129407dbe43c4b11b2f9b50a5eed",
+    "name": "delegation_a_la_mer_et_au_littoral_pyrenees_orientales",
+    "title": "Délégation à la mer et au littoral - Pyrénées-Orientales",
+    "url": "https://lannuaire.service-public.fr/occitanie/pyrenees-orientales/dml-66148-01",
+    "metadata": {
+      "email": "ddtm-dml@pyrenees-orientales.gouv.fr",
+      "telephone": "04 68 98 34 80",
+      "url": ""
+    }
+  },
+  {
+    "id": "c8b5e35b8f8ea4ac566361c9a00a8f9d100e5053",
+    "name": "delegation_a_la_mer_et_au_littoral_seine_maritime_dieppe",
+    "title": "Délégation à la mer et au littoral - Seine-Maritime - Dieppe",
+    "url": "https://lannuaire.service-public.fr/normandie/seine-maritime/dml-76217-01",
+    "metadata": {
+      "email": "ddtm-sml-aimlp@seine-maritime.gouv.fr",
+      "telephone": "02 35 06 96 70",
+      "url": "http://www.seine-maritime.gouv.fr"
+    }
+  },
+  {
+    "id": "9643cee88c2d26e73f2ab22a62f668c6b8cd8625",
+    "name": "delegation_a_la_mer_et_au_littoral_seine_maritime_le_havre",
+    "title": "Délégation à la mer et au littoral - Seine-Maritime - Le Havre",
+    "url": "https://lannuaire.service-public.fr/normandie/seine-maritime/dml-76351-01",
+    "metadata": {
+      "email": "ddtm-sml-bmum@seine-maritime.gouv.fr",
+      "telephone": "02 35 19 52 80",
+      "url": ""
+    }
+  },
+  {
+    "id": "9da3730dc40f0623a7eb49b7e8a11b368529a44f",
+    "name": "delegation_a_la_mer_et_au_littoral_seine_maritime_rouen",
+    "title": "Délégation à la mer et au littoral - Seine-Maritime - Rouen",
+    "url": "https://lannuaire.service-public.fr/normandie/seine-maritime/dml-76540-01",
+    "metadata": {
+      "email": "ddtm-sml@seine-maritime.gouv.fr",
+      "telephone": "02 35 58 53 27",
+      "url": "http://www.seine-maritime.gouv.fr"
+    }
+  },
+  {
+    "id": "542d3a9478142c691d65cd49257811a4c5b23606",
+    "name": "delegation_a_la_mer_et_au_littoral_var",
+    "title": "Délégation à la mer et au littoral - Var",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/var/dml-83137-01",
+    "metadata": {
+      "email": "ddtm-dml@var.gouv.fr",
+      "telephone": "04 94 46 83 83",
+      "url": "http://www.var.gouv.fr"
+    }
+  },
+  {
+    "id": "24f1c1dbdc31e4fca68d01a0bdba30f4d0d7fb9c",
+    "name": "delegation_a_la_mer_et_au_littoral_vendee_ile_d_yeu",
+    "title": "Délégation à la mer et au littoral - Vendée - Île-d'Yeu",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/vendee/dml-85113-01",
+    "metadata": {
+      "email": "dml-ddtm@vendee.gouv.fr",
+      "telephone": "02 51 59 42 60",
+      "url": ""
+    }
+  },
+  {
+    "id": "8c677f3bdba00345a85754fb0b860db396670fa8",
+    "name": "delegation_a_la_mer_et_au_littoral_vendee_ile_de_noirmoutier",
+    "title": "Délégation à la mer et au littoral - Vendée - Île de Noirmoutier",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/vendee/dml-85163-01",
+    "metadata": {
+      "email": "ddtm-dml@vendee.gouv.fr",
+      "telephone": "02 51 39 94 01",
+      "url": ""
+    }
+  },
+  {
+    "id": "f5de3be3cf9799f6a951b19207f480d336a324e1",
+    "name": "delegation_a_la_mer_et_au_littoral_vendee_les_sables_d_olonne",
+    "title": "Délégation à la mer et au littoral - Vendée - Les Sables-d'Olonne",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/vendee/dml-85194-01",
+    "metadata": {
+      "email": "ddtm-dml@vendee.gouv.fr",
+      "telephone": "02 51 20 42 10",
+      "url": ""
+    }
+  }
+]

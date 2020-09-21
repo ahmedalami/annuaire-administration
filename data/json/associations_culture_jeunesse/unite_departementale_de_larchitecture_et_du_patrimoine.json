@@ -1,0 +1,1178 @@
+[
+  {
+    "id": "211737684ed535a860996615c3327adefbca991a",
+    "alternateName": "UDAP",
+    "name": "unite_departementale_de_larchitecture_et_du_patrimoine_udap_ain",
+    "title": "Unité départementale de l'architecture et du patrimoine (UDAP) - Ain",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/ain/sdac-01053-01",
+    "metadata": {
+      "email": "udap.ain@culture.gouv.fr",
+      "telephone": "04 74 22 23 23",
+      "url": ""
+    }
+  },
+  {
+    "id": "3f0fe2992f4f67448652c0be0322853acc63af42",
+    "alternateName": "UDAP",
+    "name": "unite_departementale_de_larchitecture_et_du_patrimoine_udap_aisne",
+    "title": "Unité départementale de l'architecture et du patrimoine (UDAP) - Aisne",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/aisne/sdac-02408-01",
+    "metadata": {
+      "email": "sdap02@culture.gouv.fr",
+      "telephone": "03 23 23 53 54",
+      "url": ""
+    }
+  },
+  {
+    "id": "43d2c0c919c506d5771508a484f518f8b3f955cc",
+    "alternateName": "UDAP",
+    "name": "unite_departementale_de_larchitecture_et_du_patrimoine_udap_allier",
+    "title": "Unité départementale de l'architecture et du patrimoine (UDAP) - Allier",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/allier/sdac-03190-01",
+    "metadata": {
+      "email": "udap03@culture.gouv.fr",
+      "telephone": "04 70 20 87 59",
+      "url": ""
+    }
+  },
+  {
+    "id": "e3f20b395a3ea6643d64f41401f333caa891ca8a",
+    "alternateName": "UDAP",
+    "name": "unite_departementale_de_larchitecture_et_du_patrimoine_udap_alpes_de_haute_provence",
+    "title": "Unité départementale de l'architecture et du patrimoine (UDAP) - Alpes-de-Haute-Provence",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/alpes-de-haute-provence/sdac-04070-01",
+    "metadata": {
+      "email": "udap.alpes-de-haute-provence@culture.gouv.fr",
+      "telephone": "04 92 36 70 60",
+      "url": "http://www.culture.gouv.fr/Regions/Drac-Provence-Alpes-Cote-d-Azur/La-direction-regionale/La-Drac-et-ses-services/Unites-departementales-de-l-architecture-et-du-patrimoine-UDAP/Udap-des-Alpes-de-Haute-Provence"
+    }
+  },
+  {
+    "id": "6cb3e270b08127ddcb523b6f3ba16ce8638c2306",
+    "alternateName": "UDAP",
+    "name": "unite_departementale_de_larchitecture_et_du_patrimoine_udap_alpes_maritimes",
+    "title": "Unité départementale de l'architecture et du patrimoine (UDAP) - Alpes-Maritimes",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/alpes-maritimes/sdac-06088-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 93 16 59 10",
+      "url": ""
+    }
+  },
+  {
+    "id": "5b8f83e10c26d54f04ac296ad0d37caac5a5f596",
+    "alternateName": "UDAP",
+    "name": "unite_departementale_de_larchitecture_et_du_patrimoine_udap_ardeche",
+    "title": "Unité départementale de l'architecture et du patrimoine (UDAP) - Ardèche",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/ardeche/sdac-07186-01",
+    "metadata": {
+      "email": "udap.ardeche@culture.gouv.fr",
+      "telephone": "04 75 66 74 90",
+      "url": ""
+    }
+  },
+  {
+    "id": "0778800122999cf57cee323e73f7064e635197ed",
+    "alternateName": "UDAP",
+    "name": "unite_departementale_de_larchitecture_et_du_patrimoine_udap_ardennes",
+    "title": "Unité départementale de l'architecture et du patrimoine (UDAP) - Ardennes",
+    "url": "https://lannuaire.service-public.fr/grand-est/ardennes/sdac-08105-01",
+    "metadata": {
+      "email": "udap.ardennes@culture.gouv.fr",
+      "telephone": "03 24 56 23 16",
+      "url": "http://www.culturecommunication.gouv.fr/Regions/Drac-Grand-Est"
+    }
+  },
+  {
+    "id": "7e6b2d80d358cb681253672540c3b6fd590d08ad",
+    "alternateName": "UDAP",
+    "name": "unite_departementale_de_larchitecture_et_du_patrimoine_udap_ariege",
+    "title": "Unité départementale de l'architecture et du patrimoine (UDAP) - Ariège",
+    "url": "https://lannuaire.service-public.fr/occitanie/ariege/sdac-09122-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 34 09 36 21",
+      "url": ""
+    }
+  },
+  {
+    "id": "86c873075b8bc509a2739e67335dab9afac7aceb",
+    "alternateName": "UDAP",
+    "name": "unite_departementale_de_larchitecture_et_du_patrimoine_udap_aube",
+    "title": "Unité départementale de l'architecture et du patrimoine (UDAP) - Aube",
+    "url": "https://lannuaire.service-public.fr/grand-est/aube/sdac-10387-01",
+    "metadata": {
+      "email": "udap.aube@culture.gouv.fr",
+      "telephone": "03 25 83 22 40",
+      "url": ""
+    }
+  },
+  {
+    "id": "8852d921989c24a1f4f65d8e227840c1d2d71295",
+    "alternateName": "UDAP",
+    "name": "unite_departementale_de_larchitecture_et_du_patrimoine_udap_aude",
+    "title": "Unité départementale de l'architecture et du patrimoine (UDAP) - Aude",
+    "url": "https://lannuaire.service-public.fr/occitanie/aude/sdac-11069-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 68 47 26 58",
+      "url": ""
+    }
+  },
+  {
+    "id": "117eae45d27346f8cf008953b8aba79f067dd2f0",
+    "alternateName": "UDAP",
+    "name": "unite_departementale_de_larchitecture_et_du_patrimoine_udap_aveyron",
+    "title": "Unité départementale de l'architecture et du patrimoine (UDAP) - Aveyron",
+    "url": "https://lannuaire.service-public.fr/occitanie/aveyron/sdac-12202-01",
+    "metadata": {
+      "email": "sdap.aveyron@culture.gouv.fr",
+      "telephone": "05 65 68 02 20",
+      "url": ""
+    }
+  },
+  {
+    "id": "d819c4e5e9ca3c137f7788bfd11560d335aec03f",
+    "alternateName": "UDAP",
+    "name": "unite_departementale_de_larchitecture_et_du_patrimoine_udap_bas_rhin",
+    "title": "Unité départementale de l'architecture et du patrimoine (UDAP) - Bas-Rhin",
+    "url": "https://lannuaire.service-public.fr/grand-est/bas-rhin/sdac-67482-01",
+    "metadata": {
+      "email": "udap.bas-rhin@culture.gouv.fr",
+      "telephone": "03 69 08 51 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "762cd5c843594979ef8aa078e5084163ac3bfb64",
+    "alternateName": "UDAP",
+    "name": "unite_departementale_de_larchitecture_et_du_patrimoine_udap_bouches_du_rhone",
+    "title": "Unité départementale de l'architecture et du patrimoine (UDAP) - Bouches-du-Rhône",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/sdac-13202-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 91 90 42 43",
+      "url": ""
+    }
+  },
+  {
+    "id": "2f8e189054ce01bd613e22a1a9815d394d3c6be0",
+    "alternateName": "UDAP",
+    "name": "unite_departementale_de_larchitecture_et_du_patrimoine_udap_calvados",
+    "title": "Unité départementale de l'architecture et du patrimoine (UDAP) - Calvados",
+    "url": "https://lannuaire.service-public.fr/normandie/calvados/sdac-14118-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 31 15 61 00",
+      "url": "http://www.culture.gouv.fr/Regions/Drac-Normandie/Les-poles/Le-pole-patrimoines-et-architecture/L-unite-departementale-de-l-architecture-et-du-patrimoine-du-Calvados"
+    }
+  },
+  {
+    "id": "7b31fd608f3b5f7a6b01f562e5f2b0d8a44eeb10",
+    "alternateName": "UDAP",
+    "name": "unite_departementale_de_larchitecture_et_du_patrimoine_udap_cantal",
+    "title": "Unité départementale de l'architecture et du patrimoine (UDAP) - Cantal",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/cantal/sdac-15014-01",
+    "metadata": {
+      "email": "sdap.cantal@culture.gouv.fr",
+      "telephone": "04 71 45 59 10",
+      "url": ""
+    }
+  },
+  {
+    "id": "5e1a6374fe2c4ba6d242d88b95815bf3403715ff",
+    "alternateName": "UDAP",
+    "name": "unite_departementale_de_larchitecture_et_du_patrimoine_udap_charente",
+    "title": "Unité départementale de l'architecture et du patrimoine (UDAP) - Charente",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/charente/sdac-16015-01",
+    "metadata": {
+      "email": "sdap.charente@culture.gouv.fr",
+      "telephone": "05 45 97 97 97",
+      "url": "http://www.sdap-poitou-charentes.culture.gouv.fr/accueil/index.php"
+    }
+  },
+  {
+    "id": "44b4a8b9ce396ef8f282752d8f9eb33a8374c1bf",
+    "alternateName": "UDAP",
+    "name": "unite_departementale_de_larchitecture_et_du_patrimoine_udap_charente_maritime",
+    "title": "Unité départementale de l'architecture et du patrimoine (UDAP) - Charente-Maritime",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/charente-maritime/sdac-17300-01",
+    "metadata": {
+      "email": "udap.charente-maritime@culture.gouv.fr",
+      "telephone": "05 46 41 09 57",
+      "url": "http://www.culture.gouv.fr/Regions/Drac-Nouvelle-Aquitaine/Patrimoines-Architecture/Unites-departementales-de-l-architecture-et-du-patrimoine-UDAP/UDAP-de-la-Charente-Maritime-17"
+    }
+  },
+  {
+    "id": "e94cb3e21e4698ece4abe7603363c195d5d0c16c",
+    "alternateName": "UDAP",
+    "name": "unite_departementale_de_larchitecture_et_du_patrimoine_udap_cher",
+    "title": "Unité départementale de l'architecture et du patrimoine (UDAP) - Cher",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/cher/sdac-18033-01",
+    "metadata": {
+      "email": "udap.cher@culture.gouv.fr",
+      "telephone": "02 34 34 62 90",
+      "url": ""
+    }
+  },
+  {
+    "id": "ce5283c3fea826730059fd42fb37fd54cfffc3d9",
+    "alternateName": "UDAP",
+    "name": "unite_departementale_de_larchitecture_et_du_patrimoine_udap_correze",
+    "title": "Unité départementale de l'architecture et du patrimoine (UDAP) - Corrèze",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/correze/sdac-19272-01",
+    "metadata": {
+      "email": "sdap.correze@culture.gouv.fr",
+      "telephone": "05 55 20 78 90",
+      "url": ""
+    }
+  },
+  {
+    "id": "7d885f9dc87f4272d8c6c69ec5347847bc2e2aad",
+    "alternateName": "UDAP",
+    "name": "unite_departementale_de_larchitecture_et_du_patrimoine_udap_corse_du_sud",
+    "title": "Unité départementale de l'architecture et du patrimoine (UDAP) - Corse-du-Sud",
+    "url": "https://lannuaire.service-public.fr/corse/corse-du-sud/sdac-2A004-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 95 51 52 09",
+      "url": ""
+    }
+  },
+  {
+    "id": "563caf4738699ba95848de1f8f998c326c7580aa",
+    "alternateName": "UDAP",
+    "name": "unite_departementale_de_larchitecture_et_du_patrimoine_udap_cote_d_or",
+    "title": "Unité départementale de l'architecture et du patrimoine (UDAP) - Côte-d'Or",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/cote-d-or/sdac-21231-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 80 68 50 22",
+      "url": "https://www.culture.gouv.fr/Regions/Drac-Bourgogne-Franche-Comte"
+    }
+  },
+  {
+    "id": "dcb3cd3476499fd912c22d5fce4d2ed42dc682f4",
+    "alternateName": "UDAP",
+    "name": "unite_departementale_de_larchitecture_et_du_patrimoine_udap_cotes_d_armor",
+    "title": "Unité départementale de l'architecture et du patrimoine (UDAP) - Côtes-d'Armor",
+    "url": "https://lannuaire.service-public.fr/bretagne/cotes-d-armor/sdac-22278-01",
+    "metadata": {
+      "email": "sdap.cotes-darmor@culture.gouv.fr",
+      "telephone": "02 96 60 84 70",
+      "url": ""
+    }
+  },
+  {
+    "id": "57c27be3701ce2a4c14ec874f547a4bf97b4b4b7",
+    "alternateName": "UDAP",
+    "name": "unite_departementale_de_larchitecture_et_du_patrimoine_udap_creuse",
+    "title": "Unité départementale de l'architecture et du patrimoine (UDAP) - Creuse",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/creuse/sdac-23096-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 55 52 11 52",
+      "url": ""
+    }
+  },
+  {
+    "id": "255584c5da362749e7763bba967275ab97ffe179",
+    "alternateName": "UDAP",
+    "name": "unite_departementale_de_larchitecture_et_du_patrimoine_udap_deux_sevres",
+    "title": "Unité départementale de l'architecture et du patrimoine (UDAP) - Deux-Sèvres",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/deux-sevres/sdac-79191-01",
+    "metadata": {
+      "email": "sdap.deux-sevres@culture.gouv.fr",
+      "telephone": "05 49 06 39 60",
+      "url": ""
+    }
+  },
+  {
+    "id": "8be62d423a6bcf5d60ccbad021f25f7995a84500",
+    "alternateName": "UDAP",
+    "name": "unite_departementale_de_larchitecture_et_du_patrimoine_udap_dordogne",
+    "title": "Unité départementale de l'architecture et du patrimoine (UDAP) - Dordogne",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/dordogne/sdac-24322-01",
+    "metadata": {
+      "email": "sdap24@culture.gouv.fr",
+      "telephone": "05 53 06 20 60",
+      "url": ""
+    }
+  },
+  {
+    "id": "f8997680f078fde89a2e10afeed6cd5cee25a5b7",
+    "alternateName": "UDAP",
+    "name": "unite_departementale_de_larchitecture_et_du_patrimoine_udap_doubs",
+    "title": "Unité départementale de l'architecture et du patrimoine (UDAP) - Doubs",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/doubs/sdac-25056-01",
+    "metadata": {
+      "email": "sdap.doubs@culture.gouv.fr",
+      "telephone": "03 81 65 72 10",
+      "url": ""
+    }
+  },
+  {
+    "id": "151cb22c974fc03fa32899d69c5b8c198d8b753d",
+    "alternateName": "UDAP",
+    "name": "unite_departementale_de_larchitecture_et_du_patrimoine_udap_drome",
+    "title": "Unité départementale de l'architecture et du patrimoine (UDAP) - Drôme",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/drome/sdac-26362-01",
+    "metadata": {
+      "email": "udap.drome@culture.gouv.fr",
+      "telephone": "04 75 82 37 70",
+      "url": ""
+    }
+  },
+  {
+    "id": "e41ce666436927db535c67caf55928438cffe84f",
+    "alternateName": "UDAP",
+    "name": "unite_departementale_de_larchitecture_et_du_patrimoine_udap_essonne",
+    "title": "Unité départementale de l'architecture et du patrimoine (UDAP) - Essonne",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/essonne/sdac-91182-01",
+    "metadata": {
+      "email": "",
+      "telephone": "01 69 91 95 10",
+      "url": "https://www.culture.gouv.fr/Regions/Drac-Ile-de-France"
+    }
+  },
+  {
+    "id": "58abff22c8360b2ef5288ef52037b7d6cb57128d",
+    "alternateName": "UDAP",
+    "name": "unite_departementale_de_larchitecture_et_du_patrimoine_udap_eure",
+    "title": "Unité départementale de l'architecture et du patrimoine (UDAP) - Eure",
+    "url": "https://lannuaire.service-public.fr/normandie/eure/sdac-27229-01",
+    "metadata": {
+      "email": "sdap.eure@culture.gouv.fr",
+      "telephone": "02 32 78 26 27",
+      "url": ""
+    }
+  },
+  {
+    "id": "d31344d5543463425f9ca5e132c60a21103c8ec1",
+    "alternateName": "UDAP",
+    "name": "unite_departementale_de_larchitecture_et_du_patrimoine_udap_eure_et_loir",
+    "title": "Unité départementale de l'architecture et du patrimoine (UDAP) - Eure-et-Loir",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/eure-et-loir/sdac-28085-01",
+    "metadata": {
+      "email": "sdap.eure-et-loir@culture.gouv.fr",
+      "telephone": "02 37 36 45 85",
+      "url": ""
+    }
+  },
+  {
+    "id": "5b2b99c6680f569d6496120145c1e8eec02f375f",
+    "alternateName": "UDAP",
+    "name": "unite_departementale_de_larchitecture_et_du_patrimoine_udap_finistere",
+    "title": "Unité départementale de l'architecture et du patrimoine (UDAP) - Finistère",
+    "url": "https://lannuaire.service-public.fr/bretagne/finistere/sdac-29232-01",
+    "metadata": {
+      "email": "sdap.finistere@culture.gouv.fr",
+      "telephone": "02 98 95 32 02",
+      "url": "http://www.sdap-finistere.culture.gouv.fr"
+    }
+  },
+  {
+    "id": "e7d0d82af83b66081fb60ebfdb176f558f882038",
+    "alternateName": "UDAP",
+    "name": "unite_departementale_de_larchitecture_et_du_patrimoine_udap_gard",
+    "title": "Unité départementale de l'architecture et du patrimoine (UDAP) - Gard",
+    "url": "https://lannuaire.service-public.fr/occitanie/gard/sdac-30189-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 66 29 50 18",
+      "url": ""
+    }
+  },
+  {
+    "id": "dc5a94769f34ff6dac98a7d9883ba762fa95287b",
+    "alternateName": "UDAP",
+    "name": "unite_departementale_de_larchitecture_et_du_patrimoine_udap_gers",
+    "title": "Unité départementale de l'architecture et du patrimoine (UDAP) - Gers",
+    "url": "https://lannuaire.service-public.fr/occitanie/gers/sdac-32013-01",
+    "metadata": {
+      "email": "udap.gers@culture.gouv.fr",
+      "telephone": "05 62 05 62 08",
+      "url": ""
+    }
+  },
+  {
+    "id": "8cc801c9dd5a6eee3f6a298f3fe9c99ca0e89b25",
+    "alternateName": "UDAP",
+    "name": "unite_departementale_de_larchitecture_et_du_patrimoine_udap_gironde",
+    "title": "Unité départementale de l'architecture et du patrimoine (UDAP) - Gironde",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/gironde/sdac-33063-01",
+    "metadata": {
+      "email": "sdap.gironde@culture.gouv.fr",
+      "telephone": "05 56 00 87 10",
+      "url": "http://aquitaine.culture.gouv.fr/la-drac/"
+    }
+  },
+  {
+    "id": "a8d2b98d2070861bdfb12ea8a915b23d0f1dffc2",
+    "alternateName": "UDAP",
+    "name": "unite_departementale_de_larchitecture_et_du_patrimoine_udap_guadeloupe",
+    "title": "Unité départementale de l'architecture et du patrimoine (UDAP) - Guadeloupe",
+    "url": "https://lannuaire.service-public.fr/guadeloupe/guadeloupe/sdac-97105-01",
+    "metadata": {
+      "email": "",
+      "telephone": "+590 5 90 41 14 75",
+      "url": ""
+    }
+  },
+  {
+    "id": "4eaf0344597f4c619f4d431b5ff27dfa4386f13b",
+    "alternateName": "UDAP",
+    "name": "unite_departementale_de_larchitecture_et_du_patrimoine_udap_haute_corse",
+    "title": "Unité départementale de l'architecture et du patrimoine (UDAP) - Haute-Corse",
+    "url": "https://lannuaire.service-public.fr/corse/haute-corse/sdac-2B033-01",
+    "metadata": {
+      "email": "sdap2b@culture.gouv.fr",
+      "telephone": "04 95 32 19 30",
+      "url": ""
+    }
+  },
+  {
+    "id": "1d660aefe5e4ca934000c30705ef2019d0e24b82",
+    "alternateName": "UDAP",
+    "name": "unite_departementale_de_larchitecture_et_du_patrimoine_udap_haute_garonne",
+    "title": "Unité départementale de l'architecture et du patrimoine (UDAP) - Haute-Garonne",
+    "url": "https://lannuaire.service-public.fr/occitanie/haute-garonne/sdac-31555-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 61 13 69 69",
+      "url": ""
+    }
+  },
+  {
+    "id": "249c604fe7d11cabc2ef910cccdf1564b06a7681",
+    "alternateName": "UDAP",
+    "name": "unite_departementale_de_larchitecture_et_du_patrimoine_udap_haute_loire",
+    "title": "Unité départementale de l'architecture et du patrimoine (UDAP) - Haute-Loire",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/haute-loire/sdac-43157-01",
+    "metadata": {
+      "email": "udap.haute-loire@culture.gouv.fr",
+      "telephone": "04 71 04 59 59",
+      "url": "https://www.culture.gouv.fr/Regions/Drac-Auvergne-Rhone-Alpes/Pole-Architecture-et-patrimoines/Unites-departementales-de-l-architecture-et-du-patrimoine/UDAP-de-la-Haute-Loire"
+    }
+  },
+  {
+    "id": "175ed93dcf1b52700837998abe94f5890e480adb",
+    "alternateName": "UDAP",
+    "name": "unite_departementale_de_larchitecture_et_du_patrimoine_udap_haute_marne",
+    "title": "Unité départementale de l'architecture et du patrimoine (UDAP) - Haute-Marne",
+    "url": "https://lannuaire.service-public.fr/grand-est/haute-marne/sdac-52121-01",
+    "metadata": {
+      "email": "udap.haute-marne@culture.gouv.fr",
+      "telephone": "03 52 09 56 52",
+      "url": "http://www.culture.gouv.fr/Regions/Drac-Grand-Est/Pole-patrimoines/Unites-departementales-de-l-architecture-et-du-patrimoine-UDAP"
+    }
+  },
+  {
+    "id": "1e8f52216af239db5bb46e3b48724e93aed3addc",
+    "alternateName": "UDAP",
+    "name": "unite_departementale_de_larchitecture_et_du_patrimoine_udap_hautes_alpes",
+    "title": "Unité départementale de l'architecture et du patrimoine (UDAP) - Hautes-Alpes",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/hautes-alpes/sdac-05061-01",
+    "metadata": {
+      "email": "sdap.hautes-alpes@culture.gouv.fr",
+      "telephone": "04 92 53 15 30",
+      "url": ""
+    }
+  },
+  {
+    "id": "a4373fdb73f2d5a6f7288714f89736504258f1be",
+    "alternateName": "UDAP",
+    "name": "unite_departementale_de_larchitecture_et_du_patrimoine_udap_haute_saone",
+    "title": "Unité départementale de l'architecture et du patrimoine (UDAP) - Haute-Saône",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/haute-saone/sdac-70550-01",
+    "metadata": {
+      "email": "sdap.haute-saone@culture.gouv.fr",
+      "telephone": "03 84 75 78 99",
+      "url": ""
+    }
+  },
+  {
+    "id": "01da798000f4eac204654d6feeeae96bb4d27bca",
+    "alternateName": "UDAP",
+    "name": "unite_departementale_de_larchitecture_et_du_patrimoine_udap_hautes_pyrenees",
+    "title": "Unité départementale de l'architecture et du patrimoine (UDAP) - Hautes-Pyrénées",
+    "url": "https://lannuaire.service-public.fr/occitanie/hautes-pyrenees/sdac-65440-01",
+    "metadata": {
+      "email": "sdap65@culture.gouv.fr",
+      "telephone": "05 62 34 41 01",
+      "url": ""
+    }
+  },
+  {
+    "id": "88075d322ced31c237c09c6f393bb71462c60a3c",
+    "alternateName": "UDAP",
+    "name": "unite_departementale_de_larchitecture_et_du_patrimoine_udap_haute_vienne",
+    "title": "Unité départementale de l'architecture et du patrimoine (UDAP) - Haute-Vienne",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/haute-vienne/sdac-87085-01",
+    "metadata": {
+      "email": "sdap.haute-vienne@culture.gouv.fr",
+      "telephone": "05 55 33 32 72",
+      "url": ""
+    }
+  },
+  {
+    "id": "4dda54493438d7d21257f391c2548e96c2f162f6",
+    "alternateName": "UDAP",
+    "name": "unite_departementale_de_larchitecture_et_du_patrimoine_udap_haut_rhin",
+    "title": "Unité départementale de l'architecture et du patrimoine (UDAP) - Haut-Rhin",
+    "url": "https://lannuaire.service-public.fr/grand-est/haut-rhin/sdac-68066-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 89 20 26 00",
+      "url": "http://www.culturecommunication.gouv.fr/Regions/Drac-Alsace"
+    }
+  },
+  {
+    "id": "e24c3a8d6433065d74a65477e72ae4522a4d5b1b",
+    "alternateName": "UDAP",
+    "name": "unite_departementale_de_larchitecture_et_du_patrimoine_udap_hauts_de_seine",
+    "title": "Unité départementale de l'architecture et du patrimoine (UDAP) - Hauts-de-Seine",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/hauts-de-seine/sdac-92064-01",
+    "metadata": {
+      "email": "",
+      "telephone": "01 46 02 03 96",
+      "url": ""
+    }
+  },
+  {
+    "id": "d850848908d64ce16ef9c8bd6aa9179652c3490a",
+    "alternateName": "UDAP",
+    "name": "unite_departementale_de_larchitecture_et_du_patrimoine_udap_herault",
+    "title": "Unité départementale de l'architecture et du patrimoine (UDAP) - Hérault",
+    "url": "https://lannuaire.service-public.fr/occitanie/herault/sdac-34172-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 67 02 32 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "96532008b3e55c4a3c32c8f01f79b892c1f3040e",
+    "alternateName": "UDAP",
+    "name": "unite_departementale_de_larchitecture_et_du_patrimoine_udap_ille_et_vilaine",
+    "title": "Unité départementale de l'architecture et du patrimoine (UDAP) - Ille-et-Vilaine",
+    "url": "https://lannuaire.service-public.fr/bretagne/ille-et-vilaine/sdac-35238-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 99 29 67 60",
+      "url": ""
+    }
+  },
+  {
+    "id": "4c07299dc32e238a43c612aaa96feb2f1a145a99",
+    "alternateName": "UDAP",
+    "name": "unite_departementale_de_larchitecture_et_du_patrimoine_udap_indre",
+    "title": "Unité départementale de l'architecture et du patrimoine (UDAP) - Indre",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/indre/sdac-36044-01",
+    "metadata": {
+      "email": "udap.indre@culture.gouv.fr",
+      "telephone": "02 54 08 78 80",
+      "url": ""
+    }
+  },
+  {
+    "id": "95eec46206652f6319505b6e66b3b224b0309c20",
+    "alternateName": "UDAP",
+    "name": "unite_departementale_de_larchitecture_et_du_patrimoine_udap_indre_et_loire",
+    "title": "Unité départementale de l'architecture et du patrimoine (UDAP) - Indre-et-Loire",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/indre-et-loire/sdac-37261-01",
+    "metadata": {
+      "email": "sdap.indre-et-loire@culture.gouv.fr",
+      "telephone": "02 47 31 03 03",
+      "url": "http://www.sdap-37.culture.gouv.fr"
+    }
+  },
+  {
+    "id": "3f9afccbdfdaab1027ccb26c9fd2d9909af212f6",
+    "alternateName": "UDAP",
+    "name": "unite_departementale_de_larchitecture_et_du_patrimoine_udap_isere",
+    "title": "Unité départementale de l'architecture et du patrimoine (UDAP) - Isère",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/isere/sdac-38185-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 38 49 84 00",
+      "url": "https://www.culture.gouv.fr/Regions/Drac-Auvergne-Rhone-Alpes"
+    }
+  },
+  {
+    "id": "228555037d9bd837a23772b82fd8ed581c89f5d7",
+    "alternateName": "UDAP",
+    "name": "unite_departementale_de_larchitecture_et_du_patrimoine_udap_jura",
+    "title": "Unité départementale de l'architecture et du patrimoine (UDAP) - Jura",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/jura/sdac-39300-01",
+    "metadata": {
+      "email": "sdap39@culture.gouv.fr",
+      "telephone": "03 84 35 13 51",
+      "url": ""
+    }
+  },
+  {
+    "id": "9b6a56dc5dbae5fcda056f80b1c9642826c63fe7",
+    "alternateName": "UDAP",
+    "name": "unite_departementale_de_larchitecture_et_du_patrimoine_udap_landes",
+    "title": "Unité départementale de l'architecture et du patrimoine (UDAP) - Landes",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/landes/sdac-40192-01",
+    "metadata": {
+      "email": "sdap.landes@culture.gouv.fr",
+      "telephone": "05 58 06 14 15",
+      "url": ""
+    }
+  },
+  {
+    "id": "5f5c35eef406178817fe88c4ccf12b25c58e9b2e",
+    "alternateName": "UDAP",
+    "name": "unite_departementale_de_larchitecture_et_du_patrimoine_udap_loire",
+    "title": "Unité départementale de l'architecture et du patrimoine (UDAP) - Loire",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/loire/sdac-42218-01",
+    "metadata": {
+      "email": "udap.loire@culture.gouv.fr",
+      "telephone": "04 77 49 35 50",
+      "url": ""
+    }
+  },
+  {
+    "id": "b0bf52654087d44d2f972e4c7d99b903bc9968aa",
+    "alternateName": "UDAP",
+    "name": "unite_departementale_de_larchitecture_et_du_patrimoine_udap_loire_atlantique",
+    "title": "Unité départementale de l'architecture et du patrimoine (UDAP) - Loire-Atlantique",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/loire-atlantique/sdac-44109-01",
+    "metadata": {
+      "email": "sdap44@culture.gouv.fr",
+      "telephone": "02 40 14 28 02",
+      "url": ""
+    }
+  },
+  {
+    "id": "202f350ca107e877ff66be7571b6d0db9edf3cb3",
+    "alternateName": "UDAP",
+    "name": "unite_departementale_de_larchitecture_et_du_patrimoine_udap_loiret",
+    "title": "Unité départementale de l'architecture et du patrimoine (UDAP) - Loiret",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/loiret/sdac-45234-01",
+    "metadata": {
+      "email": "udap.loiret@culture.gouv.fr",
+      "telephone": "02 38 53 34 26",
+      "url": "https://www.culture.gouv.fr/Regions/Drac-Centre-Val-de-Loire/La-DRAC-et-la-culture-en-region/La-DRAC-et-ses-services/Les-unites-departementales-de-l-architecture-et-du-patrimoine-UDAP/UDAP-du-Loiret"
+    }
+  },
+  {
+    "id": "57147247292e380785bd15c1904ec4ca54c25ae5",
+    "alternateName": "UDAP",
+    "name": "unite_departementale_de_larchitecture_et_du_patrimoine_udap_loir_et_cher",
+    "title": "Unité départementale de l'architecture et du patrimoine (UDAP) - Loir-et-Cher",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/loir-et-cher/sdac-41018-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 54 55 76 80",
+      "url": ""
+    }
+  },
+  {
+    "id": "9900db1345747eb04d0c545467b4a7a501ebb389",
+    "alternateName": "UDAP",
+    "name": "unite_departementale_de_larchitecture_et_du_patrimoine_udap_lot",
+    "title": "Unité départementale de l'architecture et du patrimoine (UDAP) - Lot",
+    "url": "https://lannuaire.service-public.fr/occitanie/lot/sdac-46042-01",
+    "metadata": {
+      "email": "sdap.lot@culture.gouv.fr",
+      "telephone": "05 65 23 07 50",
+      "url": "https://www.culture.gouv.fr/Regions/Drac-Occitanie/Patrimoines-et-architecture/Espaces-proteges-Udap"
+    }
+  },
+  {
+    "id": "68e1bb51c5724b3736ae2b9386249d9f21835f07",
+    "alternateName": "UDAP",
+    "name": "unite_departementale_de_larchitecture_et_du_patrimoine_udap_lot_et_garonne",
+    "title": "Unité départementale de l'architecture et du patrimoine (UDAP) - Lot-et-Garonne",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/lot-et-garonne/sdac-47001-01",
+    "metadata": {
+      "email": "udap.lot-et-garonne@culture.gouv.fr",
+      "telephone": "05 53 47 08 42",
+      "url": ""
+    }
+  },
+  {
+    "id": "441b959881b2fe8cfd5b41da578bb2e167a97b57",
+    "alternateName": "UDAP",
+    "name": "unite_departementale_de_larchitecture_et_du_patrimoine_udap_lozere",
+    "title": "Unité départementale de l'architecture et du patrimoine (UDAP) - Lozère",
+    "url": "https://lannuaire.service-public.fr/occitanie/lozere/sdac-48095-01",
+    "metadata": {
+      "email": "sdap.lozere@culture.gouv.fr",
+      "telephone": "04 66 49 19 13",
+      "url": ""
+    }
+  },
+  {
+    "id": "633af5a1e0401a010edb7f01ec985813e1253d91",
+    "alternateName": "UDAP",
+    "name": "unite_departementale_de_larchitecture_et_du_patrimoine_udap_maine_et_loire",
+    "title": "Unité départementale de l'architecture et du patrimoine (UDAP) - Maine-et-Loire",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/maine-et-loire/sdac-49007-01",
+    "metadata": {
+      "email": "sdap.maine-et-loire@culture.gouv.fr",
+      "telephone": "02 41 86 62 20",
+      "url": ""
+    }
+  },
+  {
+    "id": "23470e72ddc304ed868934e15ecce5db7330f7c9",
+    "alternateName": "UDAP",
+    "name": "unite_departementale_de_larchitecture_et_du_patrimoine_udap_manche",
+    "title": "Unité départementale de l'architecture et du patrimoine (UDAP) - Manche",
+    "url": "https://lannuaire.service-public.fr/normandie/manche/sdac-50502-01",
+    "metadata": {
+      "email": "sdap.manche@culture.gouv.fr",
+      "telephone": "02 33 57 52 46",
+      "url": ""
+    }
+  },
+  {
+    "id": "aa6ddb51968ee9dc6d8cc133dad91fa93552bbeb",
+    "alternateName": "UDAP",
+    "name": "unite_departementale_de_larchitecture_et_du_patrimoine_udap_marne",
+    "title": "Unité départementale de l'architecture et du patrimoine (UDAP) - Marne",
+    "url": "https://lannuaire.service-public.fr/grand-est/marne/sdac-51454-01",
+    "metadata": {
+      "email": "udap.marne@culture.gouv.fr",
+      "telephone": "03 26 47 74 39",
+      "url": ""
+    }
+  },
+  {
+    "id": "fcd69e7bdfdd8df77a586a1575a701615baa1333",
+    "alternateName": "UDAP",
+    "name": "unite_departementale_de_larchitecture_et_du_patrimoine_udap_martinique",
+    "title": "Unité départementale de l'architecture et du patrimoine (UDAP) - Martinique",
+    "url": "https://lannuaire.service-public.fr/martinique/martinique/sdac-97209-01",
+    "metadata": {
+      "email": "",
+      "telephone": "+596 5 96 60 87 11",
+      "url": ""
+    }
+  },
+  {
+    "id": "2623ff05239a5dfbe2ee5581e1cc68f6411eb122",
+    "alternateName": "UDAP",
+    "name": "unite_departementale_de_larchitecture_et_du_patrimoine_udap_mayenne",
+    "title": "Unité départementale de l'architecture et du patrimoine (UDAP) - Mayenne",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/mayenne/sdac-53130-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 53 54 54 45",
+      "url": ""
+    }
+  },
+  {
+    "id": "a891f3a9c1aa44426f9efb5bb8b48f0ec55f55ca",
+    "alternateName": "UDAP",
+    "name": "unite_departementale_de_larchitecture_et_du_patrimoine_udap_meurthe_et_moselle",
+    "title": "Unité départementale de l'architecture et du patrimoine (UDAP) - Meurthe-et-Moselle",
+    "url": "https://lannuaire.service-public.fr/grand-est/meurthe-et-moselle/sdac-54395-01",
+    "metadata": {
+      "email": "udap.meurthe-et-moselle@culture.gouv.fr",
+      "telephone": "03 57 29 16 70",
+      "url": ""
+    }
+  },
+  {
+    "id": "7e9a880983e2db488ebc77ac53d2465f985457b9",
+    "alternateName": "UDAP",
+    "name": "unite_departementale_de_larchitecture_et_du_patrimoine_udap_meuse",
+    "title": "Unité départementale de l'architecture et du patrimoine (UDAP) - Meuse",
+    "url": "https://lannuaire.service-public.fr/grand-est/meuse/sdac-55029-01",
+    "metadata": {
+      "email": "sdap.meuse@culture.gouv.fr",
+      "telephone": "03 29 46 70 60",
+      "url": ""
+    }
+  },
+  {
+    "id": "adef4fb2043136c1fa65880afd956d6ffaabfe1d",
+    "alternateName": "UDAP",
+    "name": "unite_departementale_de_larchitecture_et_du_patrimoine_udap_morbihan",
+    "title": "Unité départementale de l'architecture et du patrimoine (UDAP) - Morbihan",
+    "url": "https://lannuaire.service-public.fr/bretagne/morbihan/sdac-56260-01",
+    "metadata": {
+      "email": "sdap.morbihan@culture.gouv.fr",
+      "telephone": "02 97 47 18 15",
+      "url": ""
+    }
+  },
+  {
+    "id": "e2306b987700a4e750188f2d6df57f259c417ef5",
+    "alternateName": "UDAP",
+    "name": "unite_departementale_de_larchitecture_et_du_patrimoine_udap_moselle",
+    "title": "Unité départementale de l'architecture et du patrimoine (UDAP) - Moselle",
+    "url": "https://lannuaire.service-public.fr/grand-est/moselle/sdac-57463-01",
+    "metadata": {
+      "email": "udap.moselle@culture.gouv.fr",
+      "telephone": "03 87 36 08 27",
+      "url": ""
+    }
+  },
+  {
+    "id": "d219ea115d6b4dc1c0d24fa9219e4818a02af972",
+    "alternateName": "UDAP",
+    "name": "unite_departementale_de_larchitecture_et_du_patrimoine_udap_nievre",
+    "title": "Unité départementale de l'architecture et du patrimoine (UDAP) - Nièvre",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/nievre/sdac-58194-01",
+    "metadata": {
+      "email": "udap58@culture.gouv.fr",
+      "telephone": "03 86 71 93 30",
+      "url": ""
+    }
+  },
+  {
+    "id": "e73af2d3f184ea5f88fe6e5e4479d16d355b9f24",
+    "alternateName": "UDAP",
+    "name": "unite_departementale_de_larchitecture_et_du_patrimoine_udap_nord",
+    "title": "Unité départementale de l'architecture et du patrimoine (UDAP) - Nord",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/nord/sdac-59350-01",
+    "metadata": {
+      "email": "sdap.nord@culture.gouv.fr",
+      "telephone": "03 28 36 78 70",
+      "url": ""
+    }
+  },
+  {
+    "id": "e21841f97d9c8c3431e901637fc0a744bcff3f88",
+    "alternateName": "UDAP",
+    "name": "unite_departementale_de_larchitecture_et_du_patrimoine_udap_oise",
+    "title": "Unité départementale de l'architecture et du patrimoine (UDAP) - Oise",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/oise/sdac-60159-01",
+    "metadata": {
+      "email": "sdap.oise@culture.gouv.fr",
+      "telephone": "03 44 38 69 40",
+      "url": ""
+    }
+  },
+  {
+    "id": "75e3371e0b3958c23410879656f7458dfbf3a436",
+    "alternateName": "UDAP",
+    "name": "unite_departementale_de_larchitecture_et_du_patrimoine_udap_orne",
+    "title": "Unité départementale de l'architecture et du patrimoine (UDAP) - Orne",
+    "url": "https://lannuaire.service-public.fr/normandie/orne/sdac-61001-01",
+    "metadata": {
+      "email": "udap.orne@culture.gouv.fr",
+      "telephone": "02 33 26 03 92",
+      "url": ""
+    }
+  },
+  {
+    "id": "5bff19ce1800b2a458b6ead78439a994d5fc3620",
+    "alternateName": "UDAP",
+    "name": "unite_departementale_de_larchitecture_et_du_patrimoine_udap_paris",
+    "title": "Unité départementale de l'architecture et du patrimoine (UDAP) - Paris",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/paris/sdac-75109-01",
+    "metadata": {
+      "email": "smap75@culture.gouv.fr",
+      "telephone": "01 56 06 50 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "dc60b6617d2516e35d8a3ad7fb74b9e972a2d792",
+    "alternateName": "UDAP",
+    "name": "unite_departementale_de_larchitecture_et_du_patrimoine_udap_pas_de_calais",
+    "title": "Unité départementale de l'architecture et du patrimoine (UDAP) - Pas-de-Calais",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/pas-de-calais/sdac-62041-01",
+    "metadata": {
+      "email": "sdap.pas-de-calais@culture.gouv.fr",
+      "telephone": "03 21 50 42 70",
+      "url": ""
+    }
+  },
+  {
+    "id": "4694c1b94f0e22e74b77381934b5e0436a8c03fc",
+    "alternateName": "UDAP",
+    "name": "unite_departementale_de_larchitecture_et_du_patrimoine_udap_puy_de_dome",
+    "title": "Unité départementale de l'architecture et du patrimoine (UDAP) - Puy-de-Dôme",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/puy-de-dome/sdac-63113-01",
+    "metadata": {
+      "email": "stap.puy-de-dome@culture.gouv.fr",
+      "telephone": "04 73 41 27 27",
+      "url": ""
+    }
+  },
+  {
+    "id": "3c45a3a2f839404e7df10b8fc605c6c81c9479d3",
+    "alternateName": "UDAP",
+    "name": "unite_departementale_de_larchitecture_et_du_patrimoine_udap_pyrenees_atlantiques",
+    "title": "Unité départementale de l'architecture et du patrimoine (UDAP) - Pyrénées-Atlantiques",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/pyrenees-atlantiques/sdac-64445-01",
+    "metadata": {
+      "email": "sdap.pyrenees-atlantiques-pau@culture.gouv.fr",
+      "telephone": "05 59 27 42 08",
+      "url": ""
+    }
+  },
+  {
+    "id": "a5d87e31bb6932752e391fbb86210de255ad2f8a",
+    "alternateName": "UDAP",
+    "name": "unite_departementale_de_larchitecture_et_du_patrimoine_udap_pyrenees_orientales",
+    "title": "Unité départementale de l'architecture et du patrimoine (UDAP) - Pyrénées-Orientales",
+    "url": "https://lannuaire.service-public.fr/occitanie/pyrenees-orientales/sdac-66136-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 68 34 51 93",
+      "url": ""
+    }
+  },
+  {
+    "id": "a5a495c49b61cf1ee4236c123520c62562e75b16",
+    "alternateName": "UDAP",
+    "name": "unite_departementale_de_larchitecture_et_du_patrimoine_udap_rhone_et_metropole_de_lyon",
+    "title": "Unité départementale de l'architecture et du patrimoine (UDAP) - Rhône et Métropole de Lyon",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/rhone/sdac-69383-01",
+    "metadata": {
+      "email": "udap69@culture.gouv.fr",
+      "telephone": "04 72 26 59 70",
+      "url": "https://www.culture.gouv.fr/Regions/Drac-Auvergne-Rhone-Alpes/"
+    }
+  },
+  {
+    "id": "75675383c1f4c2485fd0af89f4ec8785448a7673",
+    "alternateName": "UDAP",
+    "name": "unite_departementale_de_larchitecture_et_du_patrimoine_udap_saone_et_loire",
+    "title": "Unité départementale de l'architecture et du patrimoine (UDAP) - Saône-et-Loire",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/saone-et-loire/sdac-71270-01",
+    "metadata": {
+      "email": "udap71@culture.gouv.fr",
+      "telephone": "03 85 39 95 20",
+      "url": ""
+    }
+  },
+  {
+    "id": "2ae8e429a16b4f1ea594079d7474594efbfa7d99",
+    "alternateName": "UDAP",
+    "name": "unite_departementale_de_larchitecture_et_du_patrimoine_udap_sarthe",
+    "title": "Unité départementale de l'architecture et du patrimoine (UDAP) - Sarthe",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/sarthe/sdac-72181-01",
+    "metadata": {
+      "email": "udap72@culture.gouv.fr",
+      "telephone": "02 72 16 42 50",
+      "url": "http://www.culture.gouv.fr/Regions/Drac-Pays-de-la-Loire/Batiments-de-France/UDAP-de-la-Sarthe"
+    }
+  },
+  {
+    "id": "5937a8ee3f0ff04d13f52052218bcf168a03244a",
+    "alternateName": "UDAP",
+    "name": "unite_departementale_de_larchitecture_et_du_patrimoine_udap_savoie_et_haute_savoie",
+    "title": "Unité départementale de l'architecture et du patrimoine (UDAP) - Savoie et Haute-Savoie",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/savoie/sdac-73065-01",
+    "metadata": {
+      "email": "udap.chambery@culture.gouv.fr",
+      "telephone": "04 79 60 67 60",
+      "url": ""
+    }
+  },
+  {
+    "id": "d3f063a1d435c0be2728708ee275002318d85d99",
+    "alternateName": "UDAP",
+    "name": "unite_departementale_de_larchitecture_et_du_patrimoine_udap_savoie_et_haute_savoie_antenne_d_annecy",
+    "title": "Unité départementale de l'architecture et du patrimoine (UDAP) - Savoie et Haute-Savoie - Antenne d'Annecy",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/haute-savoie/sdac-74010-01",
+    "metadata": {
+      "email": "udap.annecy@culture.gouv.fr",
+      "telephone": "04 56 20 90 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "f4f3ae8a32cc0a9164182500ffb92b66d4416f06",
+    "alternateName": "UDAP",
+    "name": "unite_departementale_de_larchitecture_et_du_patrimoine_udap_seine_et_marne",
+    "title": "Unité départementale de l'architecture et du patrimoine (UDAP) - Seine-et-Marne",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/seine-et-marne/sdac-77186-01",
+    "metadata": {
+      "email": "secretariat.sdap77@culture.gouv.fr",
+      "telephone": "01 60 74 50 20",
+      "url": ""
+    }
+  },
+  {
+    "id": "5070c95b253633d44b266e9ff2d10a3ea9cf2c70",
+    "alternateName": "UDAP",
+    "name": "unite_departementale_de_larchitecture_et_du_patrimoine_udap_seine_maritime",
+    "title": "Unité départementale de l'architecture et du patrimoine (UDAP) - Seine-Maritime",
+    "url": "https://lannuaire.service-public.fr/normandie/seine-maritime/sdac-76540-01",
+    "metadata": {
+      "email": "udap76@culture.gouv.fr",
+      "telephone": "02 32 10 70 70",
+      "url": ""
+    }
+  },
+  {
+    "id": "e16ce4fe90ff578b55be0a7a18dc5a7baca7cf12",
+    "alternateName": "UDAP",
+    "name": "unite_departementale_de_larchitecture_et_du_patrimoine_udap_seine_saint_denis",
+    "title": "Unité départementale de l'architecture et du patrimoine (UDAP) - Seine-Saint-Denis",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/seine-saint-denis/sdac-93066-01",
+    "metadata": {
+      "email": "",
+      "telephone": "01 42 43 00 71",
+      "url": ""
+    }
+  },
+  {
+    "id": "0fa6b276e8df6df648e741e985900fb14ef70892",
+    "alternateName": "UDAP",
+    "name": "unite_departementale_de_larchitecture_et_du_patrimoine_udap_somme",
+    "title": "Unité départementale de l'architecture et du patrimoine (UDAP) - Somme",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/somme/sdac-80021-01",
+    "metadata": {
+      "email": "sdap.somme@culture.gouv.fr",
+      "telephone": "03 22 22 25 10",
+      "url": ""
+    }
+  },
+  {
+    "id": "85be1a5219003403a1450e6beac1c56bbf1d13d7",
+    "alternateName": "UDAP",
+    "name": "unite_departementale_de_larchitecture_et_du_patrimoine_udap_tarn",
+    "title": "Unité départementale de l'architecture et du patrimoine (UDAP) - Tarn",
+    "url": "https://lannuaire.service-public.fr/occitanie/tarn/sdac-81004-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 63 45 60 77",
+      "url": ""
+    }
+  },
+  {
+    "id": "cd522bd8eff802540828c1204c8e6d5d28f5fd83",
+    "alternateName": "UDAP",
+    "name": "unite_departementale_de_larchitecture_et_du_patrimoine_udap_tarn_et_garonne",
+    "title": "Unité départementale de l'architecture et du patrimoine (UDAP) - Tarn-et-Garonne",
+    "url": "https://lannuaire.service-public.fr/occitanie/tarn-et-garonne/sdac-82121-01",
+    "metadata": {
+      "email": "sdap.82@culture.gouv.fr",
+      "telephone": "05 63 22 24 22",
+      "url": ""
+    }
+  },
+  {
+    "id": "1fa4713a793b5f8fc18db8ac09b350d258275e2d",
+    "alternateName": "UDAP",
+    "name": "unite_departementale_de_larchitecture_et_du_patrimoine_udap_territoire_de_belfort",
+    "title": "Unité départementale de l'architecture et du patrimoine (UDAP) - Territoire-de-Belfort",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/territoire-de-belfort/sdac-90010-01",
+    "metadata": {
+      "email": "sdap.territoire-de-belfort@culture.gouv.fr",
+      "telephone": "03 84 90 30 40",
+      "url": ""
+    }
+  },
+  {
+    "id": "4eca5469b18a72c56dfd901423be7de6cdb00e56",
+    "alternateName": "UDAP",
+    "name": "unite_departementale_de_larchitecture_et_du_patrimoine_udap_val_d_oise",
+    "title": "Unité départementale de l'architecture et du patrimoine (UDAP) - Val-d'Oise",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/val-d-oise/sdac-95500-01",
+    "metadata": {
+      "email": "sdap.val-doise@culture.gouv.fr",
+      "telephone": "01 30 32 08 44",
+      "url": "http://www.culture.gouv.fr/Regions/Drac-Ile-de-France/Patrimoines-Architecture/Unite-departementale-de-l-architecture-et-du-patrimoine-UDAP"
+    }
+  },
+  {
+    "id": "3dade8ce6e98ee7838dc3d3b0cb001e889baf801",
+    "alternateName": "UDAP",
+    "name": "unite_departementale_de_larchitecture_et_du_patrimoine_udap_val_de_marne",
+    "title": "Unité départementale de l'architecture et du patrimoine (UDAP) - Val-de-Marne",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/val-de-marne/sdac-94080-01",
+    "metadata": {
+      "email": "sdap.val-de-marne@culture.gouv.fr",
+      "telephone": "01 43 65 25 34",
+      "url": ""
+    }
+  },
+  {
+    "id": "0187b9800c1f8248041fd6db352faca9a9cdeb32",
+    "alternateName": "UDAP",
+    "name": "unite_departementale_de_larchitecture_et_du_patrimoine_udap_var",
+    "title": "Unité départementale de l'architecture et du patrimoine (UDAP) - Var",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/var/sdac-83137-01",
+    "metadata": {
+      "email": "udap.var@culture.gouv.fr",
+      "telephone": "04 94 31 59 95",
+      "url": "https://www.culture.gouv.fr/Regions/Drac-Provence-Alpes-Cote-d-Azur/La-direction-regionale/La-Drac-et-ses-services/Unites-departementales-de-l-architecture-et-du-patrimoine-UDAP/Unite-departementale-de-l-architecture-et-du-patrimoine-du-Var"
+    }
+  },
+  {
+    "id": "e32f7440cde898756cb002fb0f63f0d5175a39cb",
+    "alternateName": "UDAP",
+    "name": "unite_departementale_de_larchitecture_et_du_patrimoine_udap_vaucluse",
+    "title": "Unité départementale de l'architecture et du patrimoine (UDAP) - Vaucluse",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/vaucluse/sdac-84007-01",
+    "metadata": {
+      "email": "udap.vaucluse@culture.gouv.fr",
+      "telephone": "04 88 17 87 10",
+      "url": "http://www.culture.gouv.fr/Regions/Drac-Provence-Alpes-Cote-d-Azur"
+    }
+  },
+  {
+    "id": "420e288106d3e7f05011c19d4c6ee39c68c82051",
+    "alternateName": "UDAP",
+    "name": "unite_departementale_de_larchitecture_et_du_patrimoine_udap_vendee",
+    "title": "Unité départementale de l'architecture et du patrimoine (UDAP) - Vendée",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/vendee/sdac-85191-01",
+    "metadata": {
+      "email": "sdap.vendee@culture.gouv.fr",
+      "telephone": "02 51 37 25 49",
+      "url": ""
+    }
+  },
+  {
+    "id": "88d975b5286dd81d26b756edffeae8b90053f7ee",
+    "alternateName": "UDAP",
+    "name": "unite_departementale_de_larchitecture_et_du_patrimoine_udap_vienne",
+    "title": "Unité départementale de l'architecture et du patrimoine (UDAP) - Vienne",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/vienne/sdac-86194-01",
+    "metadata": {
+      "email": "sdap.vienne@culture.gouv.fr",
+      "telephone": "05 49 55 63 25",
+      "url": "http://www.sdap-poitou-charentes.culture.gouv.fr"
+    }
+  },
+  {
+    "id": "62be8ee78a8f04a4b0c541d273bf7e38198cdfb6",
+    "alternateName": "UDAP",
+    "name": "unite_departementale_de_larchitecture_et_du_patrimoine_udap_vosges",
+    "title": "Unité départementale de l'architecture et du patrimoine (UDAP) - Vosges",
+    "url": "https://lannuaire.service-public.fr/grand-est/vosges/sdac-88160-01",
+    "metadata": {
+      "email": "udap.vosges@culture.gouv.fr",
+      "telephone": "03 29 29 25 80",
+      "url": ""
+    }
+  },
+  {
+    "id": "d540d484558e3c9856c96aac64253f78945696b9",
+    "alternateName": "UDAP",
+    "name": "unite_departementale_de_larchitecture_et_du_patrimoine_udap_yonne",
+    "title": "Unité départementale de l'architecture et du patrimoine (UDAP) - Yonne",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/yonne/sdac-89024-01",
+    "metadata": {
+      "email": "udap.yonne@culture.gouv.fr",
+      "telephone": "03 86 52 38 84",
+      "url": "https://www.culture.gouv.fr/Regions/Drac-Bourgogne-Franche-Comte/Votre-DRAC/Patrimoines-et-Architecture/Unites-Departementales-de-l-Architecture-et-du-Patrimoine"
+    }
+  },
+  {
+    "id": "75b60ddd58dfb8566c3f7748f731d35480034273",
+    "alternateName": "UDAP",
+    "name": "unite_departementale_de_larchitecture_et_du_patrimoine_udap_yvelines",
+    "title": "Unité départementale de l'architecture et du patrimoine (UDAP) - Yvelines",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/yvelines/sdac-78646-01",
+    "metadata": {
+      "email": "",
+      "telephone": "01 39 50 49 03",
+      "url": ""
+    }
+  }
+]

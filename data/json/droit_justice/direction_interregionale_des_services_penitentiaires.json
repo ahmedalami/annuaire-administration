@@ -1,0 +1,112 @@
+[
+  {
+    "id": "58229c7a56bd593b0e0dc6e8ea444b3028b51756",
+    "name": "direction_interregionale_des_services_penitentiaires_bordeaux_sud_ouest",
+    "title": "Direction interrégionale des services pénitentiaires - Bordeaux - Sud-Ouest",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/gironde/drsp-33063-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 57 81 45 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "e19c6dc5f6e3f4a1c2d7cc26322c792fd75dd39d",
+    "name": "direction_interregionale_des_services_penitentiaires_dijon_grand_centre",
+    "title": "Direction interrégionale des services pénitentiaires - Dijon - Grand-Centre",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/cote-d-or/drsp-21231-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 80 72 50 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "7af887ab84cadc4655875a825aea942eb44ada10",
+    "name": "direction_interregionale_des_services_penitentiaires_lille_grand_nord",
+    "title": "Direction interrégionale des services pénitentiaires - Lille - Grand-Nord",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/nord/drsp-59350-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 20 63 66 66",
+      "url": ""
+    }
+  },
+  {
+    "id": "3147d304912ea086799360a67f1c3d82f4ff7be0",
+    "name": "direction_interregionale_des_services_penitentiaires_lyon_centre_est",
+    "title": "Direction interrégionale des services pénitentiaires - Lyon - Centre-Est",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/rhone/drsp-69383-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 87 24 95 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "d9d74dd8a1faadb61544248bd66b97b5b9f785d7",
+    "name": "direction_interregionale_des_services_penitentiaires_outre_mer",
+    "title": "Direction interrégionale des services pénitentiaires - Outre-mer",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/val-de-marne/drsp-94041-01",
+    "metadata": {
+      "email": "",
+      "telephone": "01 45 15 19 40",
+      "url": ""
+    }
+  },
+  {
+    "id": "dadedfac48be33b40e2130b7e2258eedb3d5cbd5",
+    "name": "direction_interregionale_des_services_penitentiaires_paris_ile_de_france",
+    "title": "Direction interrégionale des services pénitentiaires - Paris - Île-de-France",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/val-de-marne/drsp-94034-01",
+    "metadata": {
+      "email": "",
+      "telephone": "01 46 15 91 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "1860a389b74626094bc1ef6a830a3cb86a962de5",
+    "name": "direction_interregionale_des_services_penitentiaires_rennes_grand_ouest",
+    "title": "Direction interrégionale des services pénitentiaires - Rennes - Grand-Ouest",
+    "url": "https://lannuaire.service-public.fr/bretagne/ille-et-vilaine/drsp-35238-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 99 26 89 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "002a6693f3b2aac310a6c968aee9d3f8ace6749b",
+    "name": "direction_interregionale_des_services_penitentiaires_strasbourg_grand_est",
+    "title": "Direction interrégionale des services pénitentiaires - Strasbourg - Grand-Est",
+    "url": "https://lannuaire.service-public.fr/grand-est/bas-rhin/drsp-67482-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 88 56 81 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "9a73737f86c6c15aba34cb5953b7e1ca79d7c6fc",
+    "name": "direction_interregionale_des_services_penitentiaires_sud_est_marseille",
+    "title": "Direction interrégionale des services pénitentiaires - Sud-Est - Marseille",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/drsp-13209-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 91 40 86 40",
+      "url": ""
+    }
+  },
+  {
+    "id": "46df9b1f92c99b6303462957a01d8b097f1b208a",
+    "name": "direction_interregionale_des_services_penitentiaires_toulouse_sud",
+    "title": "Direction interrégionale des services pénitentiaires - Toulouse - Sud",
+    "url": "https://lannuaire.service-public.fr/occitanie/haute-garonne/drsp-31555-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 62 30 58 10",
+      "url": ""
+    }
+  }
+]

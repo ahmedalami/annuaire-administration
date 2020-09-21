@@ -1,0 +1,882 @@
+[
+  {
+    "id": "91f502e3335a4337bc14382b534604730f74beed",
+    "name": "paierie_departementale_ain",
+    "title": "Paierie départementale - Ain",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/ain/paierie_departementale-01053-01",
+    "metadata": {
+      "email": "t001090@dgfip.finances.gouv.fr",
+      "telephone": "04 74 21 16 83",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "6213ac37df2b1cb8a998adfd604d2f32763178d7",
+    "name": "paierie_departementale_alpes_maritimes",
+    "title": "Paierie départementale - Alpes-Maritimes",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/alpes-maritimes/paierie_departementale-06088-04",
+    "metadata": {
+      "email": "t006090@dgfip.finances.gouv.fr",
+      "telephone": "04 97 03 04 50",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "2bfc20ce2dec1b015ba116db57fa67ea232f6150",
+    "name": "paierie_departementale_ardeche",
+    "title": "Paierie départementale - Ardèche",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/ardeche/paierie_departementale-07186-02",
+    "metadata": {
+      "email": "t7090@dgfip.finances.gouv.fr",
+      "telephone": "04 75 65 55 55",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "b112a77c73e308c8019b31bc5af68be113493cad",
+    "name": "paierie_departementale_ardennes",
+    "title": "Paierie départementale - Ardennes",
+    "url": "https://lannuaire.service-public.fr/grand-est/ardennes/paierie_departementale-08105-01",
+    "metadata": {
+      "email": "t008090@dgfip.finances.gouv.fr",
+      "telephone": "03 24 33 75 99",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "cbb5a243341a7e3f69962c2ea09e7dc9985a3f8a",
+    "name": "paierie_departementale_aube",
+    "title": "Paierie départementale - Aube",
+    "url": "https://lannuaire.service-public.fr/grand-est/aube/paierie_departementale-10387-03",
+    "metadata": {
+      "email": "t010090@dgfip.finances.gouv.fr",
+      "telephone": "03 25 73 29 15",
+      "url": ""
+    }
+  },
+  {
+    "id": "38e520bf2be8e29753b6e1c89c94eed87bd10524",
+    "name": "paierie_departementale_aude",
+    "title": "Paierie départementale - Aude",
+    "url": "https://lannuaire.service-public.fr/occitanie/aude/paierie_departementale-11069-03",
+    "metadata": {
+      "email": "t011090@dgfip.finances.gouv.fr",
+      "telephone": "04 34 42 70 40",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "c9597ff689b9a4ecbff0561744bce6fe87e6a7df",
+    "name": "paierie_departementale_aveyron",
+    "title": "Paierie départementale - Aveyron",
+    "url": "https://lannuaire.service-public.fr/occitanie/aveyron/paierie_departementale-12202-03",
+    "metadata": {
+      "email": "t012090@dgfip.finances.gouv.fr",
+      "telephone": "05 65 78 36 65",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "0d18864522873b96bf42b61c29bacbe04d6412f4",
+    "name": "paierie_departementale_bas_rhin",
+    "title": "Paierie départementale - Bas-Rhin",
+    "url": "https://lannuaire.service-public.fr/grand-est/bas-rhin/paierie_departementale-67482-04",
+    "metadata": {
+      "email": "t067090@dgfip.finances.gouv.fr",
+      "telephone": "03 88 76 67 67",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "f4a66fb5224bd0d7d3e302bbd13fc9b76b544c5e",
+    "name": "paierie_departementale_bouches_du_rhone",
+    "title": "Paierie départementale - Bouches-du-Rhône",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/paierie_departementale-13055-04",
+    "metadata": {
+      "email": "t013090@dgfip.finances.gouv.fr",
+      "telephone": "04 91 00 37 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "7ec9dbbb15c86e21385f9e6079d648a3e1c9dafb",
+    "name": "paierie_departementale_brest",
+    "title": "Paierie départementale - Brest",
+    "url": "https://lannuaire.service-public.fr/bretagne/finistere/paierie_departementale-29019-01",
+    "metadata": {
+      "email": "t029090@dgfip.finances.gouv.fr",
+      "telephone": "02 98 44 45 80",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "419f2bb89bf128b94aa02abd146b34cd3a40f528",
+    "name": "paierie_departementale_cantal",
+    "title": "Paierie départementale - Cantal",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/cantal/paierie_departementale-15014-03",
+    "metadata": {
+      "email": "t015090@dgfip.finances.gouv.fr",
+      "telephone": "04 71 46 20 21",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "98d38cd9d236319c9e41524184537541395b338a",
+    "name": "paierie_departementale_charente_maritime",
+    "title": "Paierie départementale - Charente-maritime",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/charente-maritime/paierie_departementale-17300-01",
+    "metadata": {
+      "email": "t017090@dgfip.finances.gouv.fr",
+      "telephone": "05 46 50 50 33",
+      "url": ""
+    }
+  },
+  {
+    "id": "cb63ca27361087b76bb12f602d0f628b9f209029",
+    "name": "paierie_departementale_cher",
+    "title": "Paierie départementale - Cher",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/cher/paierie_departementale-18033-03",
+    "metadata": {
+      "email": "t018090@dgfip.finances.gouv.fr",
+      "telephone": "02 48 23 90 50",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "612ca169f8e8e8ad4d62b946e9e2c80ad215ca17",
+    "name": "paierie_departementale_correze",
+    "title": "Paierie départementale - Corrèze",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/correze/paierie_departementale-19272-03",
+    "metadata": {
+      "email": "t019090@dgfip.finances.gouv.fr",
+      "telephone": "05 55 26 11 00",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "0af4ac87da9699f443471638416e9c4ac78382bd",
+    "name": "paierie_departementale_corse",
+    "title": "Paierie départementale - Corse",
+    "url": "https://lannuaire.service-public.fr/corse/corse-du-sud/paierie_departementale-2A004-02",
+    "metadata": {
+      "email": "t02a090@dgfip.finances.gouv.fr",
+      "telephone": "04 95 20 22 26",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "4db20b657c0594eb12ade48f1220f9e13d466b1a",
+    "name": "paierie_departementale_creuse",
+    "title": "Paierie départementale - Creuse",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/creuse/paierie_departementale-23096-03",
+    "metadata": {
+      "email": "t023090@dgfip.finances.gouv.fr",
+      "telephone": "05 55 41 45 86",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "294f4c4371b3a5e1188302f5548832fe07955fca",
+    "name": "paierie_departementale_deux_sevres",
+    "title": "Paierie départementale - Deux-Sèvres",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/deux-sevres/paierie_departementale-79191-03",
+    "metadata": {
+      "email": "t079090@dgfip.finances.gouv.fr",
+      "telephone": "05 49 76 80 00",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "d580ae5f41a7d7d99c49bfeac3df0795a0abc1f7",
+    "name": "paierie_departementale_dordogne",
+    "title": "Paierie départementale - Dordogne",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/dordogne/paierie_departementale-24322-03",
+    "metadata": {
+      "email": "t024090@dgfip.finances.gouv.fr",
+      "telephone": "05 53 08 40 43",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "5847ff2ae04dde767ad2ef7ecccbd69ff3b0894c",
+    "name": "paierie_departementale_doubs",
+    "title": "Paierie départementale - Doubs",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/doubs/paierie_departementale-25056-04",
+    "metadata": {
+      "email": "t025090@dgfip.finances.gouv.fr",
+      "telephone": "03 81 61 89 47",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "5cf3170935d18204aab8eb2b8cbfbe9420d111ab",
+    "name": "paierie_departementale_essonne",
+    "title": "Paierie départementale - Essonne",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/essonne/paierie_departementale-91228-01",
+    "metadata": {
+      "email": "",
+      "telephone": "01 69 91 94 52",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "de1b0d7c3f91ab191e2a9e65243f3405e0faa5fa",
+    "name": "paierie_departementale_eure",
+    "title": "Paierie départementale - Eure",
+    "url": "https://lannuaire.service-public.fr/normandie/eure/paierie_departementale-27229-02",
+    "metadata": {
+      "email": "t027090@dgfip.finances.gouv.fr",
+      "telephone": "02 32 24 89 00",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "49ea644c6ee4f8aac325a19b91870ca027db8ac8",
+    "name": "paierie_departementale_eure_et_loir",
+    "title": "Paierie départementale - Eure-et-Loir",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/eure-et-loir/paierie_departementale-28229-01",
+    "metadata": {
+      "email": "t028090@dgfip.finances.gouv.fr",
+      "telephone": "02 37 23 61 00",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "46a0efa8453aee18fd8fb2189d545a97c9e8a68e",
+    "name": "paierie_departementale_gers",
+    "title": "Paierie départementale - Gers",
+    "url": "https://lannuaire.service-public.fr/occitanie/gers/paierie_departementale-32013-03",
+    "metadata": {
+      "email": "t032090@dgfip.finances.gouv.fr",
+      "telephone": "05 62 05 63 03",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "8f134e0ab363bf3c66de53748bab8ea435605310",
+    "name": "paierie_departementale_gironde",
+    "title": "Paierie départementale - Gironde",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/gironde/paierie_departementale-33063-02",
+    "metadata": {
+      "email": "",
+      "telephone": "05 56 99 33 33",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "5a723b291c8058e725eceed67008e7bafca33cb0",
+    "name": "paierie_departementale_grenoble",
+    "title": "Paierie départementale - Grenoble",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/isere/paierie_departementale-38185-03",
+    "metadata": {
+      "email": "t038090@dgfip.finances.gouv.fr",
+      "telephone": "04 76 43 08 82",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "6f7fb933a4bb04243f48ccca510917155ec5ad45",
+    "name": "paierie_departementale_guyane",
+    "title": "Paierie départementale - Guyane",
+    "url": "https://lannuaire.service-public.fr/guyane/guyane/paierie_departementale-97302-02",
+    "metadata": {
+      "email": "t102090@dgfip.finances.gouv.fr",
+      "telephone": "+594 5 94 28 28 40",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "1a4a63e52690e7c2320c8d4fd65c4fe5cfe6d314",
+    "name": "paierie_departementale_haute_marne",
+    "title": "Paierie départementale - Haute-Marne",
+    "url": "https://lannuaire.service-public.fr/grand-est/haute-marne/paierie_departementale-52121-02",
+    "metadata": {
+      "email": "t052090@dgfip.finances.gouv.fr",
+      "telephone": "03 25 30 23 50",
+      "url": ""
+    }
+  },
+  {
+    "id": "41a6740b0e99ec472f997fff6c6548e211046efd",
+    "name": "paierie_departementale_haute_saone",
+    "title": "Paierie départementale - Haute-Saone",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/haute-savoie/paierie_departementale-74010-01",
+    "metadata": {
+      "email": "t070090@dgfip.finances.gouv.fr",
+      "telephone": "03 84 96 14 11",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "08cc8790ea0ee659b653f0a9b28be9b1f8cb8cf1",
+    "name": "paierie_departementale_haute_savoie",
+    "title": "Paierie départementale - Haute-Savoie",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/haute-savoie/paierie_departementale-74010-02",
+    "metadata": {
+      "email": "t074090@dgfip.finances.gouv.fr",
+      "telephone": "04 50 88 43 30",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "5474d7dc2252cc48cd30eff79183e228b749a6af",
+    "name": "paierie_departementale_hautes_pyrenees",
+    "title": "Paierie départementale - Hautes-Pyrénées",
+    "url": "https://lannuaire.service-public.fr/occitanie/hautes-pyrenees/paierie_departementale-65440-02",
+    "metadata": {
+      "email": "t065090@dgfip.finances.gouv.fr",
+      "telephone": "05 62 56 76 12",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "d53d1c3e2875f3852cba60d08157aef739af3563",
+    "name": "paierie_departementale_haute_vienne",
+    "title": "Paierie départementale - Haute-Vienne",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/haute-vienne/paierie_departementale-87085-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 55 33 30 74",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "3c8b2046d51240a47bec48a5d6d87982ed433996",
+    "name": "paierie_departementale_hauts_de_seine",
+    "title": "Paierie départementale - Hauts-de-Seine",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/hauts-de-seine/paierie_departementale-92050-03",
+    "metadata": {
+      "email": "t092090@dgfip.finances.gouv.fr",
+      "telephone": "01 47 29 30 31",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "7137044aa213bd557a3b8d4b5fc525c3af1c1af0",
+    "name": "paierie_departementale_herault",
+    "title": "Paierie départementale - Hérault",
+    "url": "https://lannuaire.service-public.fr/occitanie/herault/paierie_departementale-34172-02",
+    "metadata": {
+      "email": "T034090@dgfip.finances.gouv.fr",
+      "telephone": "04 67 67 70 23",
+      "url": ""
+    }
+  },
+  {
+    "id": "b1f376f9bf6c1f38a6389f3abbcd1f8bcdf7fd23",
+    "name": "paierie_departementale_ille_et_vilaine",
+    "title": "Paierie départementale - Ille-et-Vilaine",
+    "url": "https://lannuaire.service-public.fr/bretagne/ille-et-vilaine/paierie_departementale-35238-01",
+    "metadata": {
+      "email": "t035090@dgfip.finances.gouv.fr",
+      "telephone": "02 99 29 42 50",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "e4310291f1b08de1403469a576a854b2a24c3447",
+    "name": "paierie_departementale_indre",
+    "title": "Paierie départementale - Indre",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/indre/paierie_departementale-36044-01",
+    "metadata": {
+      "email": "t036090@dgfip.finances.gouv.fr",
+      "telephone": "02 54 22 83 26",
+      "url": ""
+    }
+  },
+  {
+    "id": "e19beceabdb06e29131a71448f87d595e99dc018",
+    "name": "paierie_departementale_indre_et_loire",
+    "title": "Paierie départementale - Indre-et-Loire",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/indre-et-loire/paierie_departementale-37261-03",
+    "metadata": {
+      "email": "t037090@dgfip.finances.gouv.fr",
+      "telephone": "02 47 21 72 93",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "eb5ad77ae7595df350c4bd5879a13b1cc8f49c7b",
+    "name": "paierie_departementale_jura",
+    "title": "Paierie départementale - Jura",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/jura/paierie_departementale-39300-01",
+    "metadata": {
+      "email": "t039090@dgfip.finances.gouv.fr",
+      "telephone": "03 63 67 80 35",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "1d0971f89d6dbd134d5f813a17b268e9506928b7",
+    "name": "paierie_departementale_la_haute_loire",
+    "title": "Paierie départementale - La Haute Loire",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/haute-loire/paierie_departementale-43157-01",
+    "metadata": {
+      "email": "t043090@dgfip.finances.gouv.fr",
+      "telephone": "04 71 09 84 41",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "940cd648b1efe8046a70322e8a6e2f063164bf26",
+    "name": "paierie_departementale_la_loire",
+    "title": "Paierie départementale - La Loire",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/loire/paierie_departementale-42218-01",
+    "metadata": {
+      "email": "t042090@dgfip.finances.gouv.fr",
+      "telephone": "04 77 01 17 39",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "db402a34b127fcbe2e13c95803e37a55b3f187c7",
+    "name": "paierie_departementale_laon",
+    "title": "Paierie départementale - Laon",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/aisne/paierie_departementale-02408-01",
+    "metadata": {
+      "email": "t002090@dgfip.finances.gouv.fr",
+      "telephone": "03 23 26 28 01",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "ecdaa794edaf908f47eb11f54f949026f6af3fde",
+    "name": "paierie_departementale_la_reunion",
+    "title": "Paierie départementale - La Réunion",
+    "url": "https://lannuaire.service-public.fr/la-reunion/reunion/paierie_departementale-97411-02",
+    "metadata": {
+      "email": "t104090@dgfip.finances.gouv.fr",
+      "telephone": "02 62 41 50 82",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "10240159d2d3b94959f7e998182f236dc98fc41c",
+    "name": "paierie_departementale_loiret",
+    "title": "Paierie départementale - Loiret",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/loiret/paierie_departementale-45234-01",
+    "metadata": {
+      "email": "t045090@dgfip.finances.gouv.fr",
+      "telephone": "02 38 24 19 47",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "6acedec2464e4543fdea562ef0661b0bf6303167",
+    "name": "paierie_departementale_lot_et_garonne",
+    "title": "Paierie départementale - Lot-et-Garonne",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/lot-et-garonne/paierie_departementale-47001-03",
+    "metadata": {
+      "email": "t047090@dgfip.finances.gouv.fr",
+      "telephone": "05 53 47 54 26",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "19a193962a7512b4545994e07e632155e6d03c2b",
+    "name": "paierie_departementale_maine_et_loire",
+    "title": "Paierie départementale - Maine-et-Loire",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/maine-et-loire/paierie_departementale-49007-04",
+    "metadata": {
+      "email": "t049090@dgfip.finances.gouv.fr",
+      "telephone": "02 41 24 44 44",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "2343bc7113bee18d64f6c96c41367fbefb224253",
+    "name": "paierie_departementale_marne",
+    "title": "Paierie départementale - Marne",
+    "url": "https://lannuaire.service-public.fr/grand-est/marne/paierie_departementale-51108-06",
+    "metadata": {
+      "email": "t051090@dgfip.finances.gouv.fr",
+      "telephone": "03 26 69 04 70",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "174a5a633c6d34e27fc297c8e44df98333963e25",
+    "name": "paierie_departementale_martinique",
+    "title": "Paierie départementale - Martinique",
+    "url": "https://lannuaire.service-public.fr/martinique/martinique/paierie_departementale-97209-02",
+    "metadata": {
+      "email": "t103090@dgfip.finances.gouv.fr",
+      "telephone": "+596 5 96 59 54 33",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "881406c3a7e83b5b535a6f363ea3fb713fd19e6f",
+    "name": "paierie_departementale_mayenne",
+    "title": "Paierie départementale - Mayenne",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/mayenne/paierie_departementale-53130-03",
+    "metadata": {
+      "email": "t053090@dgfip.finances.gouv.fr",
+      "telephone": "02 43 49 68 30",
+      "url": ""
+    }
+  },
+  {
+    "id": "e7df506cf4ffcb920d40ef95ede811186e0c7599",
+    "name": "paierie_departementale_mayotte",
+    "title": "Paierie départementale - Mayotte",
+    "url": "https://lannuaire.service-public.fr/mayotte/mayotte/paierie_departementale-97611-02",
+    "metadata": {
+      "email": "t106090@dgfip.finances.gouv.fr",
+      "telephone": "+269 2 69 64 86 10",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "c701b9ba6ac54d4f9c9aa0f4409651c41510cd31",
+    "name": "paierie_departementale_meurthe_et_moselle",
+    "title": "Paierie départementale - Meurthe-et-Moselle",
+    "url": "https://lannuaire.service-public.fr/grand-est/meurthe-et-moselle/paierie_departementale-54395-02",
+    "metadata": {
+      "email": "t054090@dgfip.finances.gouv.fr",
+      "telephone": "03 83 94 50 90",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "9015940d6f040afc257a1542fd3da41e6ba6e23e",
+    "name": "paierie_departementale_meuse",
+    "title": "Paierie départementale - Meuse",
+    "url": "https://lannuaire.service-public.fr/grand-est/meuse/paierie_departementale-55029-01",
+    "metadata": {
+      "email": "t055090@dgfip.finances.gouv.fr",
+      "telephone": "03 29 79 50 16",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "38106015923681009af4d16691fd2c8158d835a9",
+    "name": "paierie_departementale_morbihan",
+    "title": "Paierie départementale - Morbihan",
+    "url": "https://lannuaire.service-public.fr/bretagne/morbihan/paierie_departementale-56260-03",
+    "metadata": {
+      "email": "t056090@dgfip.finances.gouv.fr",
+      "telephone": "02 97 47 95 80",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "4aebf42e9d80a3fa638ee5f8509101139e1484de",
+    "name": "paierie_departementale_moselle",
+    "title": "Paierie départementale - Moselle",
+    "url": "https://lannuaire.service-public.fr/grand-est/moselle/paierie_departementale-57463-03",
+    "metadata": {
+      "email": "t057090@dgfip.finances.gouv.fr",
+      "telephone": "03 87 65 10 80",
+      "url": ""
+    }
+  },
+  {
+    "id": "ced1ccdcbe4e80d64cfe0c34994a37e8a73f867a",
+    "name": "paierie_departementale_nievre",
+    "title": "Paierie départementale - Nièvre",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/nievre/paierie_departementale-58194-04",
+    "metadata": {
+      "email": "t058090@dgfip.finances.gouv.fr",
+      "telephone": "03 86 71 64 15",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "b9e6ce169dd6207e22d21f395eaeb3d735d48408",
+    "name": "paierie_departementale_nord",
+    "title": "Paierie départementale - Nord",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/nord/paierie_departementale-59350-04",
+    "metadata": {
+      "email": "t059090@dgfip.finances.gouv.fr",
+      "telephone": "03 20 49 66 20",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "fee737e2d1a2e3987ec040614a0c2d859ddd09cf",
+    "name": "paierie_departementale_oise",
+    "title": "Paierie départementale - Oise",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/oise/paierie_departementale-60057-01",
+    "metadata": {
+      "email": "t060090@dgfip.finances.fr",
+      "telephone": "03 44 06 35 10",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "994a985fa10ed79f971991ff9f28abbdc6ca2f08",
+    "name": "paierie_departementale_orne",
+    "title": "Paierie départementale - Orne",
+    "url": "https://lannuaire.service-public.fr/normandie/orne/paierie_departementale-61001-02",
+    "metadata": {
+      "email": "t061090@dgfip.finances.gouv.fr",
+      "telephone": "02 33 32 52 75",
+      "url": ""
+    }
+  },
+  {
+    "id": "3f4e5a439380c4126d311af3db27868fffe826d9",
+    "name": "paierie_departementale_pas_de_calais",
+    "title": "Paierie départementale - Pas-de-Calais",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/pas-de-calais/paierie_departementale-62041-01",
+    "metadata": {
+      "email": "t062090@dgfip.finances.gouv.fr",
+      "telephone": "03 21 22 49 49",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "e31f05e5de37d296a66d9249a70ab5664b06519a",
+    "name": "paierie_departementale_puy_de_dome",
+    "title": "Paierie départementale - Puy-de-Dôme",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/puy-de-dome/paierie_departementale-63113-03",
+    "metadata": {
+      "email": "t063090@dgfip.finances.gouv.fr",
+      "telephone": "04 73 34 10 07",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "b1cf62ec09756b9dd4707955aff7beac1d93a59a",
+    "name": "paierie_departementale_pyrenees_orientales",
+    "title": "Paierie départementale - Pyrénées-Orientales",
+    "url": "https://lannuaire.service-public.fr/occitanie/pyrenees-orientales/paierie_departementale-66028-02",
+    "metadata": {
+      "email": "t066025@dgfip.finances.gouv.fr",
+      "telephone": "04 68 62 30 31",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "268df4afe14dbb9e5248882cd6b56be298d70956",
+    "name": "paierie_departementale_rhone",
+    "title": "Paierie départementale - Rhone",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/rhone/paierie_departementale-69383-01",
+    "metadata": {
+      "email": "t069090@dgfip.finances.gouv.fr",
+      "telephone": "04 72 84 77 17",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "8dd6f78b57dc720068803125572b01e83208cfb2",
+    "name": "paierie_departementale_saone_et_loire",
+    "title": "Paierie départementale - Saône-et-Loire",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/saone-et-loire/paierie_departementale-71270-02",
+    "metadata": {
+      "email": "t071090@dgfip.finances.gouv.fr",
+      "telephone": "03 85 21 11 80",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "2011ff45a1e374723e32ea6e46ef62ebacefedbe",
+    "name": "paierie_departementale_sarthe",
+    "title": "Paierie départementale - Sarthe",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/sarthe/paierie_departementale-72181-03",
+    "metadata": {
+      "email": "t072090@dgfip.finances.gouv.fr",
+      "telephone": "02 43 77 19 20",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "cfa26637459fc28ae90964d0ecceac40e65ccc4d",
+    "name": "paierie_departementale_savoie",
+    "title": "Paierie départementale - Savoie",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/savoie/paierie_departementale-73065-01",
+    "metadata": {
+      "email": "t073090@dgfip.finances.gouv.fr",
+      "telephone": "04 79 62 42 84",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "1106178e9205c3bd07fa89bd85fb7c654a739c10",
+    "name": "paierie_departementale_seine_et_marne",
+    "title": "Paierie départementale - Seine-et-Marne",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/seine-et-marne/paierie_departementale-77288-03",
+    "metadata": {
+      "email": "t077090@dgfip.finances.gouv.fr",
+      "telephone": "01 64 37 96 52",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "139e4a7bf9d598fd1653002da32a15556f4e5318",
+    "name": "paierie_departementale_seine_maritime",
+    "title": "Paierie départementale - Seine-Maritime",
+    "url": "https://lannuaire.service-public.fr/normandie/seine-maritime/paierie_departementale-76540-05",
+    "metadata": {
+      "email": "t076090@dgfip.finances.gouv.fr",
+      "telephone": "02 35 73 23 23",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "49786ed1b15cf73827a5f1713125e22c2d3d7273",
+    "name": "paierie_departementale_seine_saint_denis",
+    "title": "Paierie départementale - Seine-Saint-Denis",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/seine-saint-denis/paierie_departementale-93008-01",
+    "metadata": {
+      "email": "t093090@dgfip.finances.gouv.fr",
+      "telephone": "01 48 96 11 00",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "d49c699f7ce242931be4c6eca874561d0795382e",
+    "name": "paierie_departementale_somme",
+    "title": "Paierie départementale - Somme",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/somme/paierie_departementale-80021-03",
+    "metadata": {
+      "email": "t080090@dgfip.finances.gouv.fr",
+      "telephone": "03 22 22 25 30",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "d3a62b995ebf9cebd278596cda03a842bf68e6eb",
+    "name": "paierie_departementale_tarn",
+    "title": "Paierie départementale - Tarn",
+    "url": "https://lannuaire.service-public.fr/occitanie/tarn/paierie_departementale-81004-02",
+    "metadata": {
+      "email": "t081090@dgfip.finances.gouv.fr",
+      "telephone": "05 63 54 44 21",
+      "url": ""
+    }
+  },
+  {
+    "id": "b951af035b68b011f9607537467053deea4b2d58",
+    "name": "paierie_departementale_tarn_et_garonne",
+    "title": "Paierie départementale - Tarn-et-Garonne",
+    "url": "https://lannuaire.service-public.fr/occitanie/tarn-et-garonne/paierie_departementale-82121-02",
+    "metadata": {
+      "email": "t082090@dgfip.finances.gouv.fr",
+      "telephone": "05 63 63 81 22",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "f6cad6d9cb6c2b51644d5dfe0113b52fa7985ace",
+    "name": "paierie_departementale_territoire_de_belfort",
+    "title": "Paierie départementale - Territoire de Belfort",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/territoire-de-belfort/paierie_departementale-90010-04",
+    "metadata": {
+      "email": "t090090@dgfip.finances.gouv.fr",
+      "telephone": "03 84 54 02 51",
+      "url": ""
+    }
+  },
+  {
+    "id": "5cd8311929ea935dfa842b20f6ee7eb4dd7abb1b",
+    "name": "paierie_departementale_val_d_oise",
+    "title": "Paierie départementale - Val-d'Oise",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/val-d-oise/paierie_departementale-95127-01",
+    "metadata": {
+      "email": "t095090@dgfip.finances.gouv.fr",
+      "telephone": "01 34 25 39 72",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "d16c9330a0383d9de53444af3b85fb45bcb91e19",
+    "name": "paierie_departementale_val_de_marne",
+    "title": "Paierie départementale - Val de Marne",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/val-de-marne/paierie_departementale-94028-01",
+    "metadata": {
+      "email": "t094090@dgfip.finances.gouv.fr",
+      "telephone": "",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "547433e4968afd73ae2c3134f7a47e15c37eaca0",
+    "name": "paierie_departementale_var",
+    "title": "Paierie départementale - Var",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/var/paierie_departementale-83137-04",
+    "metadata": {
+      "email": "t083090@dgfip.finances.gouv.fr",
+      "telephone": "04 94 18 50 70",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "2fee83035e3020e726f7a6d10dbc4e38cdd03a9b",
+    "name": "paierie_departementale_vaucluse",
+    "title": "Paierie départementale - Vaucluse",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/vaucluse/paierie_departementale-84007-05",
+    "metadata": {
+      "email": "t084090@dgfip.finances.gouv.fr",
+      "telephone": "04 32 76 83 50",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "83830ca933219b65e4f6c305e3d33b896b274c9b",
+    "name": "paierie_departementale_vendee",
+    "title": "Paierie départementale - Vendée",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/vendee/paierie_departementale-85191-03",
+    "metadata": {
+      "email": "t085090@dgfip.finances.gouv.fr",
+      "telephone": "02 51 24 22 03",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "b48fd0e16289d49eee0ee907b1e3a4cf4a155667",
+    "name": "paierie_departementale_vienne",
+    "title": "Paierie départementale - Vienne",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/vienne/paierie_departementale-86194-02",
+    "metadata": {
+      "email": "t086090@dgfip.finances.gouv.fr",
+      "telephone": "05 49 37 05 37",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "f679ec0e333a7dfa3552d574e8ecdef110d93ca4",
+    "name": "paierie_departementale_vosges",
+    "title": "Paierie départementale - Vosges",
+    "url": "https://lannuaire.service-public.fr/grand-est/vosges/paierie_departementale-88160-02",
+    "metadata": {
+      "email": "t088090@dgfip.finances.gouv.fr",
+      "telephone": "03 29 29 89 82",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "7d2ebdef71eff56b47812400f34e7d77b903f50f",
+    "name": "paierie_departementale_yonne",
+    "title": "Paierie départementale - Yonne",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/yonne/paierie_departementale-89024-03",
+    "metadata": {
+      "email": "t089090@dgfip.finances.gouv.fr",
+      "telephone": "03 86 51 89 20",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "c467edc85bcc6a5d286c377a5c3f56dcca3b8ecd",
+    "name": "paierie_polynesie_francaise",
+    "title": "Paierie - Polynésie française",
+    "url": "https://lannuaire.service-public.fr/collectivites-d-outre-mer/polynesie-francaise/paierie_departementale-98735-01",
+    "metadata": {
+      "email": "t161006@dgfip.finances.gouv.fr",
+      "telephone": "(689) 40 46 70 00",
+      "url": "http://www.polynesie-francaise.pref.gouv.fr/Les-services-de-l-Etat/Finances/Finances-publiques"
+    }
+  },
+  {
+    "id": "f68cacb0249b7fedcce0b326911cdd4d6a2761e8",
+    "name": "pole_de_recouvrement_specialise",
+    "title": "Pôle de Recouvrement Spécialisé",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/aisne/paierie_departementale-02408-02",
+    "metadata": {
+      "email": "prs.aisne@dgfip.finances.gouv.fr",
+      "telephone": "03 23 26 28 21",
+      "url": "http://www.impots.gouv.fr"
+    }
+  }
+]

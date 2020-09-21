@@ -1,0 +1,687 @@
+[
+  {
+    "id": "b5b42dd02bf7c425920d9aa550d955fb7611e1ff",
+    "name": "chambre_departementale_des_notaires_ain",
+    "title": "Chambre départementale des notaires - Ain",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/ain/chambre_notaires-01053-01",
+    "metadata": {
+      "email": "chambre.ain@notaires.fr",
+      "telephone": "04 74 23 20 21",
+      "url": "https://www.chambre-ain.notaires.fr/"
+    }
+  },
+  {
+    "id": "37a4e081e82ca5d17b999089f7c5e0c7af2819a7",
+    "name": "chambre_departementale_des_notaires_alpes_de_haute_provence",
+    "title": "Chambre départementale des notaires - Alpes-de-Haute-Provence",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/chambre_notaires-13001-01",
+    "metadata": {
+      "email": "chambre04@notaires.fr",
+      "telephone": "04 42 16 03 30",
+      "url": ""
+    }
+  },
+  {
+    "id": "ea3d8335883a0f4766aa12ec8a43b9e5896d9854",
+    "name": "chambre_departementale_des_notaires_alpes_maritimes",
+    "title": "Chambre départementale des notaires - Alpes-Maritimes",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/alpes-maritimes/chambre_notaires-06088-01",
+    "metadata": {
+      "email": "chambre.alpesmaritimes@notaires.fr",
+      "telephone": "04 97 03 02 02",
+      "url": "https://www.cr-aixenprovence.notaires.fr/fr/liens1/alpes-martimes.html"
+    }
+  },
+  {
+    "id": "145ecbd40c691759ffb301eae29efc7a1d10578f",
+    "name": "chambre_departementale_des_notaires_aveyron",
+    "title": "Chambre départementale des notaires - Aveyron",
+    "url": "https://lannuaire.service-public.fr/occitanie/aveyron/chambre_notaires-12264-01",
+    "metadata": {
+      "email": "https://www.chambre-aveyron.notaires.fr/fr/chambre/formulaire-contact.html",
+      "telephone": "05 65 46 90 63",
+      "url": "https://www.chambre-aveyron.notaires.fr/"
+    }
+  },
+  {
+    "id": "e7edfb0d5e1c418fe071d301e764eb6323959f27",
+    "name": "chambre_departementale_des_notaires_bas_rhin",
+    "title": "Chambre départementale des notaires - Bas-Rhin",
+    "url": "https://lannuaire.service-public.fr/grand-est/bas-rhin/chambre_notaires-67482-01",
+    "metadata": {
+      "email": "chambre-bas-rhin@notaires.fr",
+      "telephone": "03 88 32 10 55",
+      "url": "https://cir-colmar-metz.notaires.fr/"
+    }
+  },
+  {
+    "id": "e5376227c570539dba173b10f97023a3ce3b97f8",
+    "name": "chambre_departementale_des_notaires_bouches_du_rhone",
+    "title": "Chambre départementale des notaires - Bouches-du-Rhône",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/chambre_notaires-13208-01",
+    "metadata": {
+      "email": "chambre.13@notaires.fr",
+      "telephone": "04 91 53 49 67",
+      "url": "https://www.chambre-bouches-du-rhone.notaires.fr/"
+    }
+  },
+  {
+    "id": "9ba58cca5cf5494b6c91a823a0309bc2801d1786",
+    "name": "chambre_departementale_des_notaires_charente",
+    "title": "Chambre départementale des notaires - Charente",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/charente/chambre_notaires-16015-01",
+    "metadata": {
+      "email": "chambre-charente@notaires.fr",
+      "telephone": "05 45 95 09 60",
+      "url": ""
+    }
+  },
+  {
+    "id": "22e1c1f43a328e21ffcc5bb3a39b495f79c5e214",
+    "name": "chambre_departementale_des_notaires_charente_maritime",
+    "title": "Chambre départementale des notaires - Charente-Maritime",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/charente-maritime/chambre_notaires-17415-01",
+    "metadata": {
+      "email": "chambre17@notaires.fr",
+      "telephone": "05 46 93 11 04",
+      "url": "https://chambrecharentemaritime17.notaires.fr/"
+    }
+  },
+  {
+    "id": "11a2abd58fd30b0b3860647dc718c76c2125a35c",
+    "name": "chambre_departementale_des_notaires_corse_du_sud",
+    "title": "Chambre départementale des notaires - Corse-du- Sud",
+    "url": "https://lannuaire.service-public.fr/corse/corse-du-sud/chambre_notaires-2A004-01",
+    "metadata": {
+      "email": "chambre2a@notaires.fr",
+      "telephone": "04 95 51 31 36",
+      "url": "http://www.cr-corse.notaires.fr/les-chambres-departementales.html"
+    }
+  },
+  {
+    "id": "10258424b6b3315672c4c1902d5cb4902bbdd844",
+    "name": "chambre_departementale_des_notaires_cote_d_or",
+    "title": "Chambre départementale des notaires - Côte-d'Or",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/cote-d-or/chambre_notaires-21231-01",
+    "metadata": {
+      "email": "chambre.21@notaires.fr",
+      "telephone": "03 80 67 12 21",
+      "url": "https://www.notaires.fr/fr/chambre-departementale-notaire-cote-d-or-21"
+    }
+  },
+  {
+    "id": "457f3cc1a2432b59f2a2067af9fd02a17531820f",
+    "name": "chambre_departementale_des_notaires_cotes_d_armor",
+    "title": "Chambre départementale des notaires - Côtes d'Armor",
+    "url": "https://lannuaire.service-public.fr/bretagne/cotes-d-armor/chambre_notaires-22278-01",
+    "metadata": {
+      "email": "chambre.cotesdarmor@notaires.fr",
+      "telephone": "02 96 68 30 90",
+      "url": "https://www.chambre-cotesdarmor.notaires.fr/"
+    }
+  },
+  {
+    "id": "06fef63283bf8e5bc1ec9922e3c49c1101a87d1e",
+    "name": "chambre_departementale_des_notaires_dordogne",
+    "title": "Chambre départementale des notaires - Dordogne",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/dordogne/chambre_notaires-24322-01",
+    "metadata": {
+      "email": "chambre.dordogne@notaires.fr",
+      "telephone": "05 53 08 20 07",
+      "url": "https://www.chambre-dordogne.notaires.fr/"
+    }
+  },
+  {
+    "id": "4808ef76016f996ff5697b182c16b50349b25d65",
+    "name": "chambre_departementale_des_notaires_drome",
+    "title": "Chambre départementale des notaires - Drôme",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/drome/chambre_notaires-26004-01",
+    "metadata": {
+      "email": "chambre.drome@notaires.fr",
+      "telephone": "04 75 60 06 11",
+      "url": "https://www.notaires.fr/fr/chambre-departementale-notaire-drome-26"
+    }
+  },
+  {
+    "id": "489ebef81baeaac32d872b09ef24bfe002419309",
+    "name": "chambre_departementale_des_notaires_essonne",
+    "title": "Chambre départementale des notaires - Essonne",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/essonne/chambre_notaires-91228-01",
+    "metadata": {
+      "email": "chambre-essonne@notaires.fr",
+      "telephone": "01 60 78 01 27",
+      "url": "http://chambre-essonne.notaires.fr/fr"
+    }
+  },
+  {
+    "id": "620747a6d8adfd1684bf8367a19a3fabd1b028ea",
+    "name": "chambre_departementale_des_notaires_eure",
+    "title": "Chambre départementale des notaires - Eure",
+    "url": "https://lannuaire.service-public.fr/normandie/eure/chambre_notaires-27229-01",
+    "metadata": {
+      "email": "chambre.eure@notaires.fr",
+      "telephone": "02 32 33 13 39",
+      "url": "https://www.notaires.fr/fr/chambre-departementale-notaire-eure-27"
+    }
+  },
+  {
+    "id": "a49939b1ecffeb216d50bd97ccb37d3e4e6aaae3",
+    "name": "chambre_departementale_des_notaires_eure_et_loir",
+    "title": "Chambre départementale des notaires - Eure-et-Loir",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/eure-et-loir/chambre_notaires-28085-01",
+    "metadata": {
+      "email": "chambre.eureetloir@notaires.fr",
+      "telephone": "02 37 88 03 60",
+      "url": "https://chambre-28.notaires.fr/"
+    }
+  },
+  {
+    "id": "846fbedb36f23e5dd527bc26de0289054b572baf",
+    "name": "chambre_departementale_des_notaires_finistere",
+    "title": "Chambre départementale des notaires - Finistère",
+    "url": "https://lannuaire.service-public.fr/bretagne/finistere/chambre_notaires-29232-01",
+    "metadata": {
+      "email": "chambre.finistere@notaires.fr",
+      "telephone": "02 98 53 18 55",
+      "url": "https://www.chambre-finistere.notaires.fr/"
+    }
+  },
+  {
+    "id": "0e57f8122def625cd7eba29377334c2b04c28b23",
+    "name": "chambre_departementale_des_notaires_gard",
+    "title": "Chambre départementale des notaires - Gard",
+    "url": "https://lannuaire.service-public.fr/occitanie/gard/chambre_notaires-30189-01",
+    "metadata": {
+      "email": "chambre.gard@notaires.fr",
+      "telephone": "04 66 04 91 08",
+      "url": ""
+    }
+  },
+  {
+    "id": "dc721e0c40cd8aad8b216335f9d8ee7a1f8919a3",
+    "name": "chambre_departementale_des_notaires_gironde",
+    "title": "Chambre départementale des notaires - Gironde",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/gironde/chambre_notaires-33063-01",
+    "metadata": {
+      "email": "chambre-gironde@notaires.fr",
+      "telephone": "05 56 48 00 75",
+      "url": "https://chambre-gironde.notaires.fr/"
+    }
+  },
+  {
+    "id": "7acf8791bb3470d0888219e127d3b6d8d379def7",
+    "name": "chambre_departementale_des_notaires_guadeloupe",
+    "title": "Chambre départementale des notaires - Guadeloupe",
+    "url": "https://lannuaire.service-public.fr/guadeloupe/guadeloupe/chambre_notaires-97103-01",
+    "metadata": {
+      "email": "chambre-guadeloupe@notaires.fr",
+      "telephone": "05 90 38 11 52",
+      "url": ""
+    }
+  },
+  {
+    "id": "cf99f03f6e4c49c29ba44a86cdba7b71988a8608",
+    "name": "chambre_departementale_des_notaires_guyane_et_martinique",
+    "title": "Chambre départementale des notaires - Guyane et Martinique",
+    "url": "https://lannuaire.service-public.fr/martinique/martinique/chambre_notaires-97229-01",
+    "metadata": {
+      "email": "chambre.guyane-martinique@notaires.fr",
+      "telephone": "05 96 60 62 75",
+      "url": ""
+    }
+  },
+  {
+    "id": "569ec3c46633d549a1f9dc2df104d920520caaa4",
+    "name": "chambre_departementale_des_notaires_haute_corse",
+    "title": "Chambre départementale des notaires - Haute-Corse",
+    "url": "https://lannuaire.service-public.fr/corse/haute-corse/chambre_notaires-2B033-01",
+    "metadata": {
+      "email": "chambre.haute-corse@notaires.fr",
+      "telephone": "04 95 31 47 79",
+      "url": ""
+    }
+  },
+  {
+    "id": "2e2d37b701a38e1487c23d65eb88a8ceaea1182d",
+    "name": "chambre_departementale_des_notaires_haute_marne",
+    "title": "Chambre départementale des notaires - Haute-Marne",
+    "url": "https://lannuaire.service-public.fr/grand-est/haute-marne/chambre_notaires-52121-01",
+    "metadata": {
+      "email": "chambre-notaires-haute-marne@notaires.fr",
+      "telephone": "03 25 32 27 55",
+      "url": ""
+    }
+  },
+  {
+    "id": "92e7215e13486f697dd356055c09c2697e046d0c",
+    "name": "chambre_departementale_des_notaires_hautes_alpes",
+    "title": "Chambre départementale des notaires - Hautes-Alpes",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/isere/chambre_notaires-38486-01",
+    "metadata": {
+      "email": "chambre.hautes-alpes@notaires.fr",
+      "telephone": "04 76 48 13 47",
+      "url": "https://passezalacte.com/"
+    }
+  },
+  {
+    "id": "8493f5ee16e76e3e3bc3b0e3011583669a259f83",
+    "name": "chambre_departementale_des_notaires_haut_rhin",
+    "title": "Chambre départementale des notaires - Haut-Rhin",
+    "url": "https://lannuaire.service-public.fr/grand-est/haut-rhin/chambre_notaires-68066-01",
+    "metadata": {
+      "email": "chambre.68@notaires.fr",
+      "telephone": "03 89 41 19 71",
+      "url": "https://chambre-haut-rhin-68.notaires.fr/"
+    }
+  },
+  {
+    "id": "a668b44b5f39b957470481c3a32f5e8d55f8afd3",
+    "name": "chambre_departementale_des_notaires_hauts_de_seine",
+    "title": "Chambre départementale des notaires - Hauts-de-Seine",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/hauts-de-seine/chambre_notaires-92012-01",
+    "metadata": {
+      "email": "president.92@paris.notaires.fr",
+      "telephone": "01 41 10 27 80",
+      "url": "http://notaires92.fr/fr"
+    }
+  },
+  {
+    "id": "63fa8b0bfb183d04aabe6b4efe166a3d6d7d2be9",
+    "name": "chambre_departementale_des_notaires_herault",
+    "title": "Chambre départementale des notaires - Hérault",
+    "url": "https://lannuaire.service-public.fr/occitanie/herault/chambre_notaires-34172-01",
+    "metadata": {
+      "email": "chambre.herault@notaires.fr",
+      "telephone": "04 67 04 10 52",
+      "url": "www.chambre-herault.notaires.fr"
+    }
+  },
+  {
+    "id": "40804e6cd24189a280dbcf91c117f908a18e2202",
+    "name": "chambre_departementale_des_notaires_ille_et_vilaine",
+    "title": "Chambre départementale des notaires - Ille-et-Vilaine",
+    "url": "https://lannuaire.service-public.fr/bretagne/ille-et-vilaine/chambre_notaires-35238-01",
+    "metadata": {
+      "email": "chambre.35@notaires.fr",
+      "telephone": "02 99 65 23 24",
+      "url": "https://www.notaires35.com/"
+    }
+  },
+  {
+    "id": "f395af06706c9001b6bb66c59567ae8459b6148e",
+    "name": "chambre_departementale_des_notaires_indre_et_loire",
+    "title": "Chambre départementale des notaires - Indre-et-Loire",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/indre-et-loire/chambre_notaires-37261-01",
+    "metadata": {
+      "email": "chambre.37@notaires.fr",
+      "telephone": "02 47 05 60 20",
+      "url": "https://www.chambre-37.notaires.fr/"
+    }
+  },
+  {
+    "id": "f190a1d5d0d329abd9766db9db09ecc20aff2223",
+    "name": "chambre_departementale_des_notaires_isere",
+    "title": "Chambre départementale des notaires - Isère",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/isere/chambre_notaires-38486-02",
+    "metadata": {
+      "email": "chambre.isere@notaires.fr",
+      "telephone": "04 76 48 13 47",
+      "url": ""
+    }
+  },
+  {
+    "id": "617b76ca6d0ee18965b7544a4c549fdbf5c4bee2",
+    "name": "chambre_departementale_des_notaires_loire",
+    "title": "Chambre départementale des notaires - Loire",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/loire/chambre_notaires-42218-01",
+    "metadata": {
+      "email": "chambre.loire@notaires.fr",
+      "telephone": "04 77 57 26 36",
+      "url": "https://www.chambre-loire.notaires.fr/"
+    }
+  },
+  {
+    "id": "284947fe2d9043f1f3ab70dcf513f57a6267a14d",
+    "name": "chambre_departementale_des_notaires_loire_atlantique",
+    "title": "Chambre départementale des notaires - Loire-Atlantique",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/loire-atlantique/chambre_notaires-44109-01",
+    "metadata": {
+      "email": "chambre.loire-atlantique@notaires.fr",
+      "telephone": "02 40 74 37 16",
+      "url": "https://www.chambre-loire-atlantique.notaires.fr/"
+    }
+  },
+  {
+    "id": "bc2a235d600ade52ce023766e163dc63e49a059c",
+    "name": "chambre_departementale_des_notaires_loiret",
+    "title": "Chambre départementale des notaires - Loiret",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/loiret/chambre_notaires-45234-01",
+    "metadata": {
+      "email": "chambre.45@notaires.fr",
+      "telephone": "02 38 24 04 24",
+      "url": "https://www.conseilregional-orleans.notaires.fr/"
+    }
+  },
+  {
+    "id": "2e9ff7396627c829766b4abf163f0ea1e20fff71",
+    "name": "chambre_departementale_des_notaires_lozere",
+    "title": "Chambre départementale des notaires - Lozère",
+    "url": "https://lannuaire.service-public.fr/occitanie/lozere/chambre_notaires-48095-01",
+    "metadata": {
+      "email": "chambre.lozere@notaires.fr",
+      "telephone": "04 66 49 02 83",
+      "url": "http://www.chambre-lozere.notaires.fr/"
+    }
+  },
+  {
+    "id": "798d8028ad0f46058621d440e7834d606e179e13",
+    "name": "chambre_departementale_des_notaires_morbihan",
+    "title": "Chambre départementale des notaires - Morbihan",
+    "url": "https://lannuaire.service-public.fr/bretagne/morbihan/chambre_notaires-56260-01",
+    "metadata": {
+      "email": "chambre-morbihan@notaires.fr",
+      "telephone": "02 97 47 19 97",
+      "url": "https://www.chambre-morbihan.notaires.fr/"
+    }
+  },
+  {
+    "id": "cc8988c89d763055a90585990860eebe17858aa2",
+    "name": "chambre_departementale_des_notaires_moselle",
+    "title": "Chambre départementale des notaires - Moselle",
+    "url": "https://lannuaire.service-public.fr/grand-est/moselle/chambre_notaires-57463-01",
+    "metadata": {
+      "email": "chambre.57@notaires.fr",
+      "telephone": "03 87 75 27 93",
+      "url": "https://chambre-moselle.notaires.fr/"
+    }
+  },
+  {
+    "id": "ebe9d394ed36faaaa99fc4a572b91a4a11c25177",
+    "name": "chambre_departementale_des_notaires_nievre",
+    "title": "Chambre départementale des notaires - Nièvre",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/nievre/chambre_notaires-58194-01",
+    "metadata": {
+      "email": "chambre.nievre@notaires.fr",
+      "telephone": "03 86 61 35 04",
+      "url": ""
+    }
+  },
+  {
+    "id": "01893f0927d2812d727e2137c91b235d93214e26",
+    "name": "chambre_departementale_des_notaires_reunion",
+    "title": "Chambre départementale des notaires - Réunion",
+    "url": "https://lannuaire.service-public.fr/la-reunion/reunion/chambre_notaires-97411-01",
+    "metadata": {
+      "email": "chambre.reunion@notaires.fr",
+      "telephone": "02 62 94 79 65",
+      "url": "http://www.chambre-reunion.notaires.fr/fr"
+    }
+  },
+  {
+    "id": "353ede555545ade461178761d6638472c588725a",
+    "name": "chambre_departementale_des_notaires_rhone",
+    "title": "Chambre départementale des notaires - Rhône",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/rhone/chambre_notaires-69123-01",
+    "metadata": {
+      "email": "chambre.rhone@notaires.fr",
+      "telephone": "04 72 69 98 88",
+      "url": "http://www.chambre-rhone.notaires.fr/"
+    }
+  },
+  {
+    "id": "afe0f0869b66cf50077a063a49292c39f144ccd5",
+    "name": "chambre_departementale_des_notaires_saone_et_loire",
+    "title": "Chambre départementale des notaires - Saône-et-Loire",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/saone-et-loire/chambre_notaires-71270-01",
+    "metadata": {
+      "email": "chambre.des.notaires.71@notaires.fr",
+      "telephone": "03 85 38 45 94",
+      "url": "https://www.chambre-saone-et-loire.notaires.fr/"
+    }
+  },
+  {
+    "id": "322def723b1ef116a44bb9bf06da7a66c3d799e8",
+    "name": "chambre_departementale_des_notaires_seine_et_marne",
+    "title": "Chambre départementale des notaires - Seine-et-Marne",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/seine-et-marne/chambre_notaires-77288-01",
+    "metadata": {
+      "email": "chambre.seineetmarne@notaires.fr",
+      "telephone": "01 64 39 53 93",
+      "url": "http://chambre-seineetmarne.notaires.fr/fr"
+    }
+  },
+  {
+    "id": "c7b4e926b33c1fcf78969ec220768d9ff542f38a",
+    "name": "chambre_departementale_des_notaires_seine_maritime",
+    "title": "Chambre départementale des notaires - Seine-Maritime",
+    "url": "https://lannuaire.service-public.fr/normandie/seine-maritime/chambre_notaires-76540-01",
+    "metadata": {
+      "email": "chambre76@notaires.fr",
+      "telephone": "02 35 88 63 88",
+      "url": "http://www.cr-rouen.notaires.fr/"
+    }
+  },
+  {
+    "id": "52d135d2ccf0ca522607900a4307005c5ddc4514",
+    "name": "chambre_departementale_des_notaires_var",
+    "title": "Chambre départementale des notaires - Var",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/var/chambre_notaires-83137-01",
+    "metadata": {
+      "email": "chambre.var@notaires.fr",
+      "telephone": "04 94 89 70 30",
+      "url": "https://www.cr-aixenprovence.notaires.fr/"
+    }
+  },
+  {
+    "id": "cd0f00465c4b637bcbc7a31340ed6d1d6cba786c",
+    "name": "chambre_departementale_des_notaires_vaucluse",
+    "title": "Chambre départementale des notaires - Vaucluse",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/vaucluse/chambre_notaires-84007-01",
+    "metadata": {
+      "email": "chambre-vaucluse@notaires.fr",
+      "telephone": "04 90 85 24 00",
+      "url": "https://www.chambre-vaucluse.notaires.fr/"
+    }
+  },
+  {
+    "id": "db5c5944e52cc13e1dbcb7e9a804b060b2e38048",
+    "name": "chambre_departementale_des_notaires_vendee",
+    "title": "Chambre départementale des notaires - Vendée",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/vendee/chambre_notaires-85191-01",
+    "metadata": {
+      "email": "chambre.notaires.vendee@notaires.fr",
+      "telephone": "02 51 37 14 96",
+      "url": "http://www.notaires-vendee.com/accueil.html"
+    }
+  },
+  {
+    "id": "7ce2b7748eeb0a011fae0d7ddaba5522f53d5e22",
+    "name": "chambre_departementale_des_notaires_versailles",
+    "title": "Chambre départementale des notaires - Versailles",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/yvelines/chambre_notaires-78646-01",
+    "metadata": {
+      "email": "chambre-versailles@notaires.fr",
+      "telephone": "01 39 50 01 75",
+      "url": "www.chambre-versailles.notaires.fr"
+    }
+  },
+  {
+    "id": "f443017ec6dec46466e73fac3f4628e5052f3247",
+    "name": "chambre_departementale_des_notaires_yonne",
+    "title": "Chambre départementale des notaires - Yonne",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/yonne/chambre_notaires-89024-01",
+    "metadata": {
+      "email": "chambre-yonne@notaires.fr",
+      "telephone": "03 86 94 20 84",
+      "url": ""
+    }
+  },
+  {
+    "id": "4e7c4c13c83deb6fcd934009dac5762ee3a68513",
+    "name": "chambre_interdepartementale_des_notaires_ardennes_aube_marne",
+    "title": "Chambre interdépartementale des notaires - Ardennes, Aube, Marne",
+    "url": "https://lannuaire.service-public.fr/grand-est/marne/chambre_notaires-51454-01",
+    "metadata": {
+      "email": "chambre51@notaires.fr",
+      "telephone": "03 26 86 72 10",
+      "url": "https://chambre-interdep-08-10-51.notaires.fr/"
+    }
+  },
+  {
+    "id": "f5a4d314d4ca83e2c0d1b428eea80ac26f4a18cb",
+    "name": "chambre_interdepartementale_des_notaires_ariege_haute_garonne_tarn_et_tarn_et_garonne",
+    "title": "Chambre interdépartementale des notaires - Ariège, Haute-Garonne, Tarn et Tarn-et-Garonne",
+    "url": "https://lannuaire.service-public.fr/occitanie/haute-garonne/chambre_notaires-31555-01",
+    "metadata": {
+      "email": "ci-toulouse@notaires.fr",
+      "telephone": "05 62 73 58 68",
+      "url": "https://ci-toulouse.notaires.fr"
+    }
+  },
+  {
+    "id": "b09650a7f5fe7a420145b50bbc5abe4cd3098aee",
+    "alternateName": "Allier, Cantal, Haute-Loire et Puy-de-Dôme",
+    "name": "chambre_interdepartementale_des_notaires_auvergne_allier_cantal_haute_loire_et_puy_de_dome",
+    "title": "Chambre interdépartementale des notaires - Auvergne (Allier, Cantal, Haute-Loire et Puy-de-Dôme)",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/puy-de-dome/chambre_notaires-63113-01",
+    "metadata": {
+      "email": "ci.auvergne@notaires.fr",
+      "telephone": "04 73 29 01 95",
+      "url": "https://notairesdauvergne.fr/"
+    }
+  },
+  {
+    "id": "f9dc9817b51dab075beba0a5e0c4f60af17b3043",
+    "name": "chambre_interdepartementale_des_notaires_basse_normandie",
+    "title": "Chambre interdépartementale des notaires - Basse-Normandie",
+    "url": "https://lannuaire.service-public.fr/normandie/calvados/chambre_notaires-14118-01",
+    "metadata": {
+      "email": "ci.caen@notaires.fr",
+      "telephone": "02 31 85 44 62",
+      "url": "http://www.cr-bassenormandie.notaires.fr/"
+    }
+  },
+  {
+    "id": "881e01d1e1939b67ecfe5270af05703e9b50511a",
+    "name": "chambre_interdepartementale_des_notaires_cher_et_indre",
+    "title": "Chambre interdépartementale des notaires - Cher et Indre",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/cher/chambre_notaires-18033-01",
+    "metadata": {
+      "email": "chambre-interdep.cherindre@notaires.fr",
+      "telephone": "02 48 21 14 98",
+      "url": ""
+    }
+  },
+  {
+    "id": "1bfa1a4a4110446c28db643704064100b5ebae41",
+    "name": "chambre_interdepartementale_des_notaires_correze_creuse_haute_vienne",
+    "title": "Chambre interdépartementale des notaires - Corrèze, Creuse, Haute-Vienne",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/haute-vienne/chambre_notaires-87085-01",
+    "metadata": {
+      "email": "chambre.limousin@notaires.fr",
+      "telephone": "05 55 77 15 91",
+      "url": "https://www.chambre-interdep-19-23-87.notaires.fr/"
+    }
+  },
+  {
+    "id": "0cd0001b91156ed36032c37e9b81bdc4c2389017",
+    "alternateName": "Doubs, Jura, Haute-Saône",
+    "name": "chambre_interdepartementale_des_notaires_franche_comte_doubs_jura_haute_saone",
+    "title": "Chambre interdépartementale des notaires - Franche-Comté (Doubs, Jura, Haute-Saône)",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/doubs/chambre_notaires-25056-01",
+    "metadata": {
+      "email": "ci.franchecomte@notaires.fr",
+      "telephone": "03 81 50 40 52",
+      "url": "https://www.chambre-franchecomte.notaires.fr/"
+    }
+  },
+  {
+    "id": "765fd632ab51daae57b1faa42d38e3738d84bdc1",
+    "name": "chambre_interdepartementale_des_notaires_gers_lot_lot_et_garonne",
+    "title": "Chambre interdépartementale des notaires - Gers, Lot, Lot-et-Garonne",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/lot-et-garonne/chambre_notaires-47001-01",
+    "metadata": {
+      "email": "cinagen@notaires.fr",
+      "telephone": "05 53 48 14 81",
+      "url": "https://www.ci-agen.notaires.fr/"
+    }
+  },
+  {
+    "id": "3d0d7516ef77d40c921d4b2bba7a0b289bf3ea81",
+    "name": "chambre_interdepartementale_des_notaires_hautes_pyrenees_landes_pyrenees_atlantiques",
+    "title": "Chambre interdépartementale des notaires - Hautes-Pyrénées, Landes, Pyrénées-Atlantiques",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/pyrenees-atlantiques/chambre_notaires-64445-01",
+    "metadata": {
+      "email": "chambre.pau@notaires.fr",
+      "telephone": "05 59 80 33 18",
+      "url": "https://www.cr-pau.notaires.fr/"
+    }
+  },
+  {
+    "id": "d6cf52b03fc8be9fc2b524e10a65dcf303994024",
+    "name": "chambre_interdepartementale_des_notaires_maine_et_loire_mayenne_sarthe",
+    "title": "Chambre interdépartementale des notaires - Maine-et-Loire, Mayenne, Sarthe",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/maine-et-loire/chambre_notaires-49007-01",
+    "metadata": {
+      "email": "ci.angers@notaires.fr",
+      "telephone": "02 41 25 37 37",
+      "url": "http://www.ci-angers.notaires.fr/"
+    }
+  },
+  {
+    "id": "738fc498e22a5475dec8af2d3757f80350406cff",
+    "name": "chambre_interdepartementale_des_notaires_meurthe_et_moselle_meuse",
+    "title": "Chambre interdépartementale des notaires - Meurthe-et-Moselle, Meuse",
+    "url": "https://lannuaire.service-public.fr/grand-est/meurthe-et-moselle/chambre_notaires-54395-01",
+    "metadata": {
+      "email": "ci.nancy-accueil@notaires.fr",
+      "telephone": "03 83 32 57 36",
+      "url": ""
+    }
+  },
+  {
+    "id": "1076ee2884fb5103e4e82836603f770ee06df8be",
+    "name": "chambre_interdepartementale_des_notaires_nord_pas_de_calais",
+    "title": "Chambre interdépartementale des notaires - Nord, Pas-de-Calais",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/nord/chambre_notaires-59350-01",
+    "metadata": {
+      "email": "chambre-interdep.nordpasdecalais@notaires.fr",
+      "telephone": "03 20 14 90 50",
+      "url": ""
+    }
+  },
+  {
+    "id": "19bfff429b0c2fe0c3a33f7d71d35c01a2e16f8f",
+    "alternateName": "Aisne, Oise, Somme",
+    "name": "chambre_interdepartementale_des_notaires_picardie_aisne_oise_somme",
+    "title": "Chambre interdépartementale des notaires - Picardie (Aisne, Oise, Somme)",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/somme/chambre_notaires-80021-01",
+    "metadata": {
+      "email": "chambre-somme@notaires.fr",
+      "telephone": "03 22 82 08 92",
+      "url": ""
+    }
+  },
+  {
+    "id": "999947189a83ea420cef7f2ced75bae4cf9d6b64",
+    "name": "chambre_interdepartementale_des_notaires_savoie_haute_savoie",
+    "title": "Chambre interdépartementale des notaires - Savoie, Haute-Savoie",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/haute-savoie/chambre_notaires-74010-01",
+    "metadata": {
+      "email": "ci.73.74@notaires.fr",
+      "telephone": "04 50 27 24 56",
+      "url": "https://www.chambre-interdepartementale-de-savoie.notaires.fr/"
+    }
+  },
+  {
+    "id": "4b7a0696e5902a27b7a93e67ba0bb9c8cda203e2",
+    "name": "chambre_interdepartementale_des_notaires_vienne_et_deux_sevres",
+    "title": "Chambre interdépartementale des notaires - Vienne et Deux-Sèvres",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/vienne/chambre_notaires-86062-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 49 49 42 60",
+      "url": "http://www.chambre-vienne.notaires.fr/presentation.html"
+    }
+  }
+]

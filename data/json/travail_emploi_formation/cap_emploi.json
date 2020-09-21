@@ -1,0 +1,1091 @@
+[
+  {
+    "id": "d39b3023f1cffa3c197d6c0079ccec2f804a718b",
+    "name": "cap_emploi_ain",
+    "title": "Cap emploi - Ain",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/ain/cap_emploi-01053-01",
+    "metadata": {
+      "email": "accueil@capemploi01.org",
+      "telephone": "04 74 47 20 90",
+      "url": ""
+    }
+  },
+  {
+    "id": "33eb6de51fbe19e0609160a2b787367bb76e566e",
+    "name": "cap_emploi_aisne",
+    "title": "Cap emploi - Aisne",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/aisne/cap_emploi-02691-01",
+    "metadata": {
+      "email": "contact@aasimh.fr",
+      "telephone": "03 23 08 40 20",
+      "url": "http://www.aasimh.fr"
+    }
+  },
+  {
+    "id": "e8a2b7817307da65ff2ce7d3254bd30db333fef7",
+    "name": "cap_emploi_allier",
+    "title": "Cap emploi - Allier",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/allier/cap_emploi-03185-01",
+    "metadata": {
+      "email": "accueilops03@capemploi03.fr",
+      "telephone": "04 70 64 86 60",
+      "url": ""
+    }
+  },
+  {
+    "id": "acc91375ebc53a339c10cc63e15917d382d3a85b",
+    "name": "cap_emploi_alpes_de_haute_provence",
+    "title": "Cap emploi - Alpes de Haute-Provence",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/alpes-de-haute-provence/cap_emploi-04112-01",
+    "metadata": {
+      "email": "secretariat@capemploi04.com",
+      "telephone": "04 92 70 74 60",
+      "url": "http://www.capemploi04.com/"
+    }
+  },
+  {
+    "id": "1ae0f876ade43048004e02461cfaec86aea0e2e2",
+    "name": "cap_emploi_alpes_maritimes",
+    "title": "Cap emploi - Alpes-Maritimes",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/alpes-maritimes/cap_emploi-06123-01",
+    "metadata": {
+      "email": "capemploi.sl@capemploi06.com",
+      "telephone": "04 93 19 30 80",
+      "url": "https://www.handyjob06.fr/"
+    }
+  },
+  {
+    "id": "8b5fb19a9d38a0360803296028eb5bd8cc05e657",
+    "name": "cap_emploi_ardeche_et_drome",
+    "title": "Cap emploi - Ardèche et Drôme",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/ardeche/cap_emploi-07255-01",
+    "metadata": {
+      "email": "accueil@capemploi07-26.com",
+      "telephone": "04 69 23 05 50",
+      "url": "http://www.capemploi07-26.com/"
+    }
+  },
+  {
+    "id": "643b27384051e070c9479b771f2d541e10419eb1",
+    "name": "cap_emploi_ariege_comminges",
+    "title": "Cap emploi - Ariège Comminges",
+    "url": "https://lannuaire.service-public.fr/occitanie/ariege/cap_emploi-09122-01",
+    "metadata": {
+      "email": "accueil@capemploi09-31comminges.fr",
+      "telephone": "05 34 09 33 10",
+      "url": "http://www.apajh09.org/index.php"
+    }
+  },
+  {
+    "id": "9d63a975fa78b80d88f6cca221f22087587ed05e",
+    "name": "cap_emploi_aube",
+    "title": "Cap emploi - Aube",
+    "url": "https://lannuaire.service-public.fr/grand-est/aube/cap_emploi-10387-01",
+    "metadata": {
+      "email": "contact@capemploi10.com",
+      "telephone": "03 25 49 27 17",
+      "url": ""
+    }
+  },
+  {
+    "id": "b165edefee1079a2df33630d6f353836ab5612d1",
+    "name": "cap_emploi_aude",
+    "title": "Cap emploi - Aude",
+    "url": "https://lannuaire.service-public.fr/occitanie/aude/cap_emploi-11069-01",
+    "metadata": {
+      "email": "accueil@capemploi11.fr",
+      "telephone": "04 68 72 72 66",
+      "url": ""
+    }
+  },
+  {
+    "id": "78d39bd9b168e2191897ea3686f3664803e0a1b2",
+    "name": "cap_emploi_aveyron",
+    "title": "Cap emploi - Aveyron",
+    "url": "https://lannuaire.service-public.fr/occitanie/aveyron/cap_emploi-12202-01",
+    "metadata": {
+      "email": "capemploi12@capemploi12.fr",
+      "telephone": "05 65 87 00 80",
+      "url": ""
+    }
+  },
+  {
+    "id": "159e4b73dd29c36c2c74dd4e8c2323559711a229",
+    "name": "cap_emploi_bouches_du_rhone",
+    "title": "Cap emploi - Bouches-du-Rhône",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/cap_emploi-13001-01",
+    "metadata": {
+      "email": "accueil@capemploi13.com",
+      "telephone": "04 42 95 70 30",
+      "url": "https://www.asso-heda.org/pages/cap-emploi.html"
+    }
+  },
+  {
+    "id": "2975bfc0277abb8d3e4432ba5706e8c4ab3f8c64",
+    "name": "cap_emploi_calvados",
+    "title": "Cap emploi - Calvados",
+    "url": "https://lannuaire.service-public.fr/normandie/calvados/cap_emploi-14566-01",
+    "metadata": {
+      "email": "capemploi14@capemploi14.com",
+      "telephone": "02 31 93 24 24",
+      "url": "https://www.facebook.com/capemploiCalvados/"
+    }
+  },
+  {
+    "id": "8377ab3f8094ebf2f4a51c430895c09cb28015b3",
+    "name": "cap_emploi_cantal",
+    "title": "Cap emploi - Cantal",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/cantal/cap_emploi-15014-01",
+    "metadata": {
+      "email": "accueil@capemploi15.com",
+      "telephone": "04 71 48 89 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "fe30009537db360c6c2a06c0ed5868b4fe8c8090",
+    "name": "cap_emploi_charente",
+    "title": "Cap emploi - Charente",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/charente/cap_emploi-16271-01",
+    "metadata": {
+      "email": "contact@capemploi16.com",
+      "telephone": "05 45 94 85 01",
+      "url": "https://www.capemploi16.com"
+    }
+  },
+  {
+    "id": "8f2d76b3cb5c54cf31434023501bd1b4a4f72251",
+    "name": "cap_emploi_charente_maritime",
+    "title": "Cap emploi - Charente-Maritime",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/charente-maritime/cap_emploi-17300-01",
+    "metadata": {
+      "email": "contact@capemploi17.com",
+      "telephone": "05 46 50 04 00",
+      "url": "https://www.capemploi17.com"
+    }
+  },
+  {
+    "id": "0b8befcee501bd6c64e3d2e3a79792ba7a3122cd",
+    "name": "cap_emploi_cher",
+    "title": "Cap emploi - Cher",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/cher/cap_emploi-18033-01",
+    "metadata": {
+      "email": "infos@prometheecher.com",
+      "telephone": "02 48 67 51 51",
+      "url": ""
+    }
+  },
+  {
+    "id": "407079edc72ef5a8e29ac6672a6c2c1ce3b9a6f6",
+    "name": "cap_emploi_correze",
+    "title": "Cap emploi - Corrèze",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/correze/cap_emploi-19272-01",
+    "metadata": {
+      "email": "secretariat@capemploi19.com",
+      "telephone": "05 55 20 83 88",
+      "url": ""
+    }
+  },
+  {
+    "id": "86f807492858631cab5df314e70b4114b748a89e",
+    "name": "cap_emploi_cote_d_or",
+    "title": "Cap emploi - Côte d'Or",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/cote-d-or/cap_emploi-21231-01",
+    "metadata": {
+      "email": "info@cap-emploi21.com",
+      "telephone": "03 80 53 18 70",
+      "url": ""
+    }
+  },
+  {
+    "id": "51334d375a38a7b507e8e9d10abdf5d0513f4670",
+    "name": "cap_emploi_cotes_d_armor",
+    "title": "Cap emploi - Côtes d'Armor",
+    "url": "https://lannuaire.service-public.fr/bretagne/cotes-d-armor/cap_emploi-22278-01",
+    "metadata": {
+      "email": "informations@capemploi22.org",
+      "telephone": "02 96 62 33 33",
+      "url": "https://www.capemploi22.org"
+    }
+  },
+  {
+    "id": "7eb40d246dda4448bd33bbdbc1013d06e9c41136",
+    "name": "cap_emploi_creuse",
+    "title": "Cap emploi - Creuse",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/creuse/cap_emploi-23096-01",
+    "metadata": {
+      "email": "contact@capemploi23.com",
+      "telephone": "05 55 52 95 89",
+      "url": "http://www.capemploi23.com/"
+    }
+  },
+  {
+    "id": "f3a982b840577951029f7b671d20011c18fea2aa",
+    "name": "cap_emploi_deux_sevres",
+    "title": "Cap emploi - Deux-Sèvres",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/deux-sevres/cap_emploi-79191-01",
+    "metadata": {
+      "email": "capemploi79@capemploi79.com",
+      "telephone": "05 49 79 99 77",
+      "url": ""
+    }
+  },
+  {
+    "id": "46e45e3f12d405ec51bf75850f9b091209b3e281",
+    "name": "cap_emploi_dordogne",
+    "title": "Cap emploi - Dordogne",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/dordogne/cap_emploi-24322-01",
+    "metadata": {
+      "email": "contact@capemploi24.fr",
+      "telephone": "05 53 54 70 76",
+      "url": "http://www.capemploi24.fr"
+    }
+  },
+  {
+    "id": "f14932e4777945c082890b3bd5ff0994e54e976f",
+    "name": "cap_emploi_doubs",
+    "title": "Cap emploi - Doubs",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/doubs/cap_emploi-25056-01",
+    "metadata": {
+      "email": "contact@association-aris.org",
+      "telephone": "03 81 41 37 16",
+      "url": "http://www.association-aris.org"
+    }
+  },
+  {
+    "id": "519a7bbb64deda03aa0d9a49de8292866b6cb666",
+    "name": "cap_emploi_essonne",
+    "title": "Cap emploi - Essonne",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/essonne/cap_emploi-91228-01",
+    "metadata": {
+      "email": "contact@capemploi91.com",
+      "telephone": "",
+      "url": "http://www.capemploi91.com"
+    }
+  },
+  {
+    "id": "5645873933ba8f5397a38020a798b00d93709532",
+    "name": "cap_emploi_eure",
+    "title": "Cap emploi - Eure",
+    "url": "https://lannuaire.service-public.fr/normandie/eure/cap_emploi-27229-01",
+    "metadata": {
+      "email": "contact@capemploi27.com",
+      "telephone": "02 32 28 43 64",
+      "url": ""
+    }
+  },
+  {
+    "id": "cb8ee6388a5a44d1883ad86085092b75f6443ec3",
+    "name": "cap_emploi_eure_et_loir",
+    "title": "Cap emploi - Eure-et-Loir",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/eure-et-loir/cap_emploi-28085-01",
+    "metadata": {
+      "email": "contact@capemploi28.com",
+      "telephone": "02 37 88 32 32",
+      "url": "https://www.phare28.org"
+    }
+  },
+  {
+    "id": "65e59d1206b71960a3711d4ce4eb89df3c7a7112",
+    "name": "cap_emploi_finistere",
+    "title": "Cap emploi - Finistère",
+    "url": "https://lannuaire.service-public.fr/bretagne/finistere/cap_emploi-29019-01",
+    "metadata": {
+      "email": "accueil.brest@capemploi29.com",
+      "telephone": "02 98 80 81 00",
+      "url": "http://emploihandicapfinistere.fr"
+    }
+  },
+  {
+    "id": "e52f0ebb4f1d8318c3e4ba39ac58ed48f3cfeb8c",
+    "name": "cap_emploi_gard",
+    "title": "Cap emploi - Gard",
+    "url": "https://lannuaire.service-public.fr/occitanie/gard/cap_emploi-30189-01",
+    "metadata": {
+      "email": "secretariat@capemploi30.fr",
+      "telephone": "04 66 68 99 70",
+      "url": ""
+    }
+  },
+  {
+    "id": "1579c81ffd534af20b90b16524866d0c775fec20",
+    "name": "cap_emploi_gers",
+    "title": "Cap emploi - Gers",
+    "url": "https://lannuaire.service-public.fr/occitanie/gers/cap_emploi-32013-01",
+    "metadata": {
+      "email": "info@capemploi32.com",
+      "telephone": "05 62 05 08 36",
+      "url": ""
+    }
+  },
+  {
+    "id": "112b58b9c27bcb73e28245287f7337948bfb47d7",
+    "name": "cap_emploi_gironde",
+    "title": "Cap emploi - Gironde",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/gironde/cap_emploi-33063-01",
+    "metadata": {
+      "email": "contact@capemploi33.org",
+      "telephone": "05 56 31 38 27",
+      "url": "http://www.capemploi33.org/"
+    }
+  },
+  {
+    "id": "0c90b908de77b3199b9f9e21e8dcba806fe3adb4",
+    "name": "cap_emploi_guadeloupe",
+    "title": "Cap emploi - Guadeloupe",
+    "url": "https://lannuaire.service-public.fr/guadeloupe/guadeloupe/cap_emploi-97103-01",
+    "metadata": {
+      "email": "info@capemploi971.com",
+      "telephone": "+590 5 90 32 51 77",
+      "url": ""
+    }
+  },
+  {
+    "id": "41a8ac8bfaa4bebefb1962e47b1eb7c20ceed53c",
+    "name": "cap_emploi_guyane",
+    "title": "Cap emploi - Guyane",
+    "url": "https://lannuaire.service-public.fr/guyane/guyane/cap_emploi-97307-01",
+    "metadata": {
+      "email": "infos@apehg.fr",
+      "telephone": "+594 5 94 28 98 28",
+      "url": ""
+    }
+  },
+  {
+    "id": "84c6a856658e6c991bb9e504b0a21ef2f8e894f5",
+    "name": "cap_emploi_haute_garonne",
+    "title": "Cap emploi - Haute-Garonne",
+    "url": "https://lannuaire.service-public.fr/occitanie/haute-garonne/cap_emploi-31555-01",
+    "metadata": {
+      "email": "contact@capemploi31.com",
+      "telephone": "05 34 40 91 91",
+      "url": "https://www.capemploi31.com"
+    }
+  },
+  {
+    "id": "389e7509dfd22445abafb63739173e107cb2c281",
+    "name": "cap_emploi_haute_loire",
+    "title": "Cap emploi - Haute-Loire",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/haute-loire/cap_emploi-43157-01",
+    "metadata": {
+      "email": "accueil@capemploi43.org",
+      "telephone": "04 71 02 13 87",
+      "url": ""
+    }
+  },
+  {
+    "id": "2ed55898fc7d47aefe8779dd9d33c3d06bd29e5a",
+    "name": "cap_emploi_haute_marne",
+    "title": "Cap emploi - Haute-Marne",
+    "url": "https://lannuaire.service-public.fr/grand-est/haute-marne/cap_emploi-52121-01",
+    "metadata": {
+      "email": "accueil.chaumont@capemploi52.com",
+      "telephone": "03 25 02 29 10",
+      "url": ""
+    }
+  },
+  {
+    "id": "5836530bccbf9e1708cfa1ff08590242246a04bf",
+    "name": "cap_emploi_hautes_alpes",
+    "title": "Cap emploi - Hautes-Alpes",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/hautes-alpes/cap_emploi-05061-01",
+    "metadata": {
+      "email": "contact@capemploi05.fr",
+      "telephone": "04 92 53 21 83",
+      "url": "http://www.handirect05.org"
+    }
+  },
+  {
+    "id": "4ec6d5639b4f90e690d1b5d1ef3a78c8119b9090",
+    "name": "cap_emploi_haute_saone",
+    "title": "Cap emploi - Haute-Saône",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/haute-saone/cap_emploi-70550-01",
+    "metadata": {
+      "email": "capemploi70@orange.fr",
+      "telephone": "03 84 97 07 15",
+      "url": ""
+    }
+  },
+  {
+    "id": "e7ee62617b6f7067da81ed00e76eba2411f9a605",
+    "name": "cap_emploi_hautes_pyrenees",
+    "title": "Cap emploi - Hautes-Pyrénées",
+    "url": "https://lannuaire.service-public.fr/occitanie/hautes-pyrenees/cap_emploi-65440-01",
+    "metadata": {
+      "email": "contact@capemploi65.com",
+      "telephone": "05 62 93 87 54",
+      "url": ""
+    }
+  },
+  {
+    "id": "d2729175deb19fe26ac19b12ca6a03cf4098ec63",
+    "name": "cap_emploi_haute_vienne",
+    "title": "Cap emploi - Haute-Vienne",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/haute-vienne/cap_emploi-87085-01",
+    "metadata": {
+      "email": "contact@capemploi87.fr",
+      "telephone": "05 55 38 89 70",
+      "url": ""
+    }
+  },
+  {
+    "id": "29fa69815dfc6b37a81c50b0a3d2e1413eaca91e",
+    "name": "cap_emploi_haut_rhin_et_bas_rhin",
+    "title": "Cap emploi - Haut-Rhin et Bas-Rhin",
+    "url": "https://lannuaire.service-public.fr/grand-est/haut-rhin/cap_emploi-68066-01",
+    "metadata": {
+      "email": "info@capemploi68-67.com",
+      "telephone": "03 89 41 88 12",
+      "url": "http://www.actionetcompetence-alsace.com"
+    }
+  },
+  {
+    "id": "92a7aa00002381c847622f12bfdaae575da37df9",
+    "name": "cap_emploi_hauts_de_seine",
+    "title": "Cap emploi - Hauts-de-Seine",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/hauts-de-seine/cap_emploi-92049-01",
+    "metadata": {
+      "email": "accueil-montrouge@capemploi92.org",
+      "telephone": "01 42 53 76 76",
+      "url": "https://www.capemploi92.fr"
+    }
+  },
+  {
+    "id": "5b03773f87326b62e3396b55777b20b2271e1c71",
+    "name": "cap_emploi_herault",
+    "title": "Cap emploi - Hérault",
+    "url": "https://lannuaire.service-public.fr/occitanie/herault/cap_emploi-34172-01",
+    "metadata": {
+      "email": "accueil-m@capemploi34.org",
+      "telephone": "04 99 13 34 25",
+      "url": "https://www.capemploi34.org"
+    }
+  },
+  {
+    "id": "35c9e6ed415395792718b99a00e4087096383f69",
+    "name": "cap_emploi_ille_et_vilaine",
+    "title": "Cap emploi - Ille-et-Vilaine",
+    "url": "https://lannuaire.service-public.fr/bretagne/ille-et-vilaine/cap_emploi-35238-01",
+    "metadata": {
+      "email": "capemploi35@capemploi35.com",
+      "telephone": "02 23 44 82 30",
+      "url": "http://www.capemploi35.fr/"
+    }
+  },
+  {
+    "id": "c66a4b3b37904aebdf68784e7b125fa53d8e52f9",
+    "name": "cap_emploi_indre",
+    "title": "Cap emploi - Indre",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/indre/cap_emploi-36044-01",
+    "metadata": {
+      "email": "accueil@capemploi36.com",
+      "telephone": "02 54 60 54 30",
+      "url": "https://www.facebook.com/CapEmploi36/"
+    }
+  },
+  {
+    "id": "c4fc8eb7ccb05be514c931e578063947841021f2",
+    "name": "cap_emploi_indre_et_loire",
+    "title": "Cap emploi - Indre-et-Loire",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/indre-et-loire/cap_emploi-37214-01",
+    "metadata": {
+      "email": "contacts@capemploi37.com",
+      "telephone": "02 47 85 30 30",
+      "url": "http://www.arps-handi-emploi.fr/cap-emploi/accueil"
+    }
+  },
+  {
+    "id": "be27d0a6981578cd36a279f93982021843a1c93d",
+    "name": "cap_emploi_isere",
+    "title": "Cap emploi - Isère",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/isere/cap_emploi-38169-01",
+    "metadata": {
+      "email": "accueil.fontaine@capemploi38.com",
+      "telephone": "04 76 53 01 49",
+      "url": "http://www.capemploi38.com"
+    }
+  },
+  {
+    "id": "e73e6117a4a028030377a369d67cbe72859755f8",
+    "name": "cap_emploi_jura",
+    "title": "Cap emploi - Jura",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/jura/cap_emploi-39300-01",
+    "metadata": {
+      "email": "contact-jura@capemploi39.com",
+      "telephone": "03 84 43 49 39",
+      "url": "http://www.aseaj.fr/emploi-et-handicap/cap-emploi-1-18.htm"
+    }
+  },
+  {
+    "id": "df64cb0c525d6e35b269f8e661dd429a25650263",
+    "name": "cap_emploi_landes",
+    "title": "Cap emploi - Landes",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/landes/cap_emploi-40088-01",
+    "metadata": {
+      "email": "administratif@capemploi40-64pb.com",
+      "telephone": "05 58 56 18 58",
+      "url": "https://www.capemploi4064pb.com"
+    }
+  },
+  {
+    "id": "f33969c85659274dfa6660ec3dfbb4b26a991ee8",
+    "name": "cap_emploi_loire",
+    "title": "Cap emploi - Loire",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/loire/cap_emploi-42218-01",
+    "metadata": {
+      "email": "contact@cap-emploi42.com",
+      "telephone": "04 77 49 73 49",
+      "url": "https://www.handicap-emploi42.com"
+    }
+  },
+  {
+    "id": "5411e32ff9baf2391bdd3b5449fdb4f991c227fd",
+    "name": "cap_emploi_loire_atlantique",
+    "title": "Cap emploi - Loire-Atlantique",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/loire-atlantique/cap_emploi-44109-01",
+    "metadata": {
+      "email": "contact@capemploi44.fr",
+      "telephone": "02 40 08 66 08",
+      "url": ""
+    }
+  },
+  {
+    "id": "d8785d482f2c62eee0ccd16b76d1e125054c4427",
+    "name": "cap_emploi_loiret",
+    "title": "Cap emploi - Loiret",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/loiret/cap_emploi-45235-01",
+    "metadata": {
+      "email": "contact@promethee45.fr",
+      "telephone": "02 38 78 18 90",
+      "url": "http://www.promethee45.fr"
+    }
+  },
+  {
+    "id": "8ba7127bb345fd8be9ddf190c3e0a3314c5540f1",
+    "name": "cap_emploi_loir_et_cher",
+    "title": "Cap emploi - Loir-et-Cher",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/loir-et-cher/cap_emploi-41295-01",
+    "metadata": {
+      "email": "contact@promethee41.org",
+      "telephone": "02 54 57 21 50",
+      "url": "https://www.promethee41.org"
+    }
+  },
+  {
+    "id": "80382860aa40eb6465aa23a8159489ad4ce2c2c1",
+    "name": "cap_emploi_lot",
+    "title": "Cap emploi - Lot",
+    "url": "https://lannuaire.service-public.fr/occitanie/lot/cap_emploi-46042-01",
+    "metadata": {
+      "email": "cap.emploi.lot@capemploi46.com",
+      "telephone": "05 65 23 20 20",
+      "url": ""
+    }
+  },
+  {
+    "id": "b074d706634e94196767b36ff4f6ad06a23faaa8",
+    "name": "cap_emploi_lot_et_garonne",
+    "title": "Cap emploi - Lot-et-Garonne",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/lot-et-garonne/cap_emploi-47031-01",
+    "metadata": {
+      "email": "contact@capemploi47.com",
+      "telephone": "05 53 66 39 02",
+      "url": "http://capemploi47.fr"
+    }
+  },
+  {
+    "id": "d61596f909b94aa5b63360f102b4a30dbfe2c996",
+    "name": "cap_emploi_lozere",
+    "title": "Cap emploi - Lozère",
+    "url": "https://lannuaire.service-public.fr/occitanie/lozere/cap_emploi-48095-01",
+    "metadata": {
+      "email": "accueil@aipph48.fr",
+      "telephone": "04 66 32 64 83",
+      "url": ""
+    }
+  },
+  {
+    "id": "c0c7769ad64cedd0aa929aafecbf4a136110ab36",
+    "name": "cap_emploi_maine_et_loire",
+    "title": "Cap emploi - Maine-et-Loire",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/maine-et-loire/cap_emploi-49007-01",
+    "metadata": {
+      "email": "secretariat@cap-emploi49.fr",
+      "telephone": "02 41 22 95 90",
+      "url": "https://www.cap-emploi49.fr"
+    }
+  },
+  {
+    "id": "b22edd33c04bf448a9ca9209b440eba7600c22a4",
+    "name": "cap_emploi_manche",
+    "title": "Cap emploi - Manche",
+    "url": "https://lannuaire.service-public.fr/normandie/manche/cap_emploi-50002-01",
+    "metadata": {
+      "email": "agneaux@capemploi50.com",
+      "telephone": "02 33 72 55 10",
+      "url": ""
+    }
+  },
+  {
+    "id": "66ab9fd36f2c4b24adf8ece6173a6a47ae2bf149",
+    "name": "cap_emploi_marne",
+    "title": "Cap emploi - Marne",
+    "url": "https://lannuaire.service-public.fr/grand-est/marne/cap_emploi-51454-01",
+    "metadata": {
+      "email": "contact@capemploi51.com",
+      "telephone": "03 26 77 17 67",
+      "url": "http://www.capemploi51.com"
+    }
+  },
+  {
+    "id": "93ae53caadb600a4402ecbc62c2e1355fbee3731",
+    "name": "cap_emploi_martinique",
+    "title": "Cap emploi - Martinique",
+    "url": "https://lannuaire.service-public.fr/martinique/martinique/cap_emploi-97209-01",
+    "metadata": {
+      "email": "informations@capemploi972.com",
+      "telephone": "+596 5 96 50 43 01",
+      "url": ""
+    }
+  },
+  {
+    "id": "89cfb755aaecac7a463a520746081c1c661279f2",
+    "name": "cap_emploi_mayenne",
+    "title": "Cap emploi - Mayenne",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/mayenne/cap_emploi-53130-01",
+    "metadata": {
+      "email": "accueil@capemploi53.com",
+      "telephone": "02 43 56 66 63",
+      "url": ""
+    }
+  },
+  {
+    "id": "5ade9e1fc22e402fd5a7e4241e04085c778e2ba2",
+    "name": "cap_emploi_meurthe_et_moselle",
+    "title": "Cap emploi - Meurthe-et-Moselle",
+    "url": "https://lannuaire.service-public.fr/grand-est/meurthe-et-moselle/cap_emploi-54439-01",
+    "metadata": {
+      "email": "capemploi54@capemploi54.fr",
+      "telephone": "03 83 98 19 40",
+      "url": "https://capemploi54.fr"
+    }
+  },
+  {
+    "id": "2acfaf36d2fd05ee05f2ad019c316e0d7fbe830b",
+    "name": "cap_emploi_meuse",
+    "title": "Cap emploi - Meuse",
+    "url": "https://lannuaire.service-public.fr/grand-est/meuse/cap_emploi-55029-01",
+    "metadata": {
+      "email": "contact-barleduc@capemploi55.com",
+      "telephone": "03 29 76 18 79",
+      "url": ""
+    }
+  },
+  {
+    "id": "78e1d3ee67e093e1e38636347fab9984cc736e7a",
+    "name": "cap_emploi_morbihan",
+    "title": "Cap emploi - Morbihan",
+    "url": "https://lannuaire.service-public.fr/bretagne/morbihan/cap_emploi-56260-01",
+    "metadata": {
+      "email": "contact@capemploi56.fr",
+      "telephone": "02 97 47 62 30",
+      "url": ""
+    }
+  },
+  {
+    "id": "4e5a40500a384136fc170a2cde54942c9c9dfa68",
+    "name": "cap_emploi_moselle",
+    "title": "Cap emploi - Moselle",
+    "url": "https://lannuaire.service-public.fr/grand-est/moselle/cap_emploi-57616-01",
+    "metadata": {
+      "email": "secretariat@capemploi57.fr",
+      "telephone": "03 87 75 93 73",
+      "url": "http://capemploi57.fr"
+    }
+  },
+  {
+    "id": "dcc7de064b91f7c2a3bbdebe3854403cb83ae9a0",
+    "name": "cap_emploi_nievre",
+    "title": "Cap emploi - Nièvre",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/nievre/cap_emploi-58194-01",
+    "metadata": {
+      "email": "info@capemploi58.com",
+      "telephone": "03 86 59 71 29",
+      "url": ""
+    }
+  },
+  {
+    "id": "345f277a78354017d7c3a5b027544e5183123fdd",
+    "name": "cap_emploi_nord_dunkerque_saint_omer",
+    "title": "Cap emploi - Nord - Dunkerque-Saint-Omer",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/nord/cap_emploi-59183-01",
+    "metadata": {
+      "email": "contact@capemploiflandres-littoral.com",
+      "telephone": "03 28 63 75 20",
+      "url": ""
+    }
+  },
+  {
+    "id": "79b1864b28422768fed4687dfbc57174b51d2b3e",
+    "name": "cap_emploi_nord_lille_douais",
+    "title": "Cap emploi - Nord - Lille-Douais",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/nord/cap_emploi-59378-01",
+    "metadata": {
+      "email": "accueil@capemploi59lille.com",
+      "telephone": "03 59 31 81 31",
+      "url": "https://www.emploi-et-handicap.com"
+    }
+  },
+  {
+    "id": "be162b499ebdec005d0fd0056bc75aeecb3f7309",
+    "name": "cap_emploi_nord_valenciennes",
+    "title": "Cap emploi - Nord - Valenciennes",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/nord/cap_emploi-59606-01",
+    "metadata": {
+      "email": "contact@handynaction.fr",
+      "telephone": "03 27 29 66 66",
+      "url": ""
+    }
+  },
+  {
+    "id": "23a1a8e5a23a25ea20dabde9dbe2ad25931e7ab6",
+    "name": "cap_emploi_oise",
+    "title": "Cap emploi - Oise",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/oise/cap_emploi-60057-01",
+    "metadata": {
+      "email": "contact@capemploi60.org",
+      "telephone": "03 44 15 66 66",
+      "url": "http://www.capemploi60.org/"
+    }
+  },
+  {
+    "id": "72956148ae06478ba2f535b3ae2dea46e1bb9ab4",
+    "name": "cap_emploi_orne",
+    "title": "Cap emploi - Orne",
+    "url": "https://lannuaire.service-public.fr/normandie/orne/cap_emploi-61001-01",
+    "metadata": {
+      "email": "alencon@capemploi61.com",
+      "telephone": "02 33 31 01 31",
+      "url": ""
+    }
+  },
+  {
+    "id": "1f68567417c865203a26dc7caee0381a4ade6a7b",
+    "name": "cap_emploi_paris",
+    "title": "Cap emploi - Paris",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/paris/cap_emploi-75119-01",
+    "metadata": {
+      "email": "contact@capemploi75.org",
+      "telephone": "01 44 52 40 60",
+      "url": ""
+    }
+  },
+  {
+    "id": "7e505653b4f005adae18cb7fc0ec5e6a30036fc4",
+    "name": "cap_emploi_pas_de_calais",
+    "title": "Cap emploi - Pas-de-Calais",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/pas-de-calais/cap_emploi-62041-01",
+    "metadata": {
+      "email": "contact@capemploi62arras.com",
+      "telephone": "03 21 21 36 80",
+      "url": ""
+    }
+  },
+  {
+    "id": "3804ec1c8100897e3ed41c502b4d22ce2255d6c4",
+    "name": "cap_emploi_puy_de_dome",
+    "title": "Cap emploi - Puy-de-Dôme",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/puy-de-dome/cap_emploi-63075-01",
+    "metadata": {
+      "email": "capemploi@capemploi63.fr",
+      "telephone": "04 73 16 18 18",
+      "url": "https://www.capemploi63.fr"
+    }
+  },
+  {
+    "id": "280435ca6aac55dfc1e6f606845165d1b492697b",
+    "name": "cap_emploi_pyrenees_atlantiques_et_bearn",
+    "title": "Cap emploi - Pyrénées-Atlantiques et Béarn",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/pyrenees-atlantiques/cap_emploi-64445-01",
+    "metadata": {
+      "email": "info@capemploibearn.fr",
+      "telephone": "05 59 80 83 32",
+      "url": ""
+    }
+  },
+  {
+    "id": "45ab068922eede0d6e10e264678c31804bde27ff",
+    "name": "cap_emploi_pyrenees_orientales",
+    "title": "Cap emploi - Pyrénées-Orientales",
+    "url": "https://lannuaire.service-public.fr/occitanie/pyrenees-orientales/cap_emploi-66028-01",
+    "metadata": {
+      "email": "contact@capemploi66.com",
+      "telephone": "04 68 66 60 60",
+      "url": ""
+    }
+  },
+  {
+    "id": "39fc388d391cf76acf682caef5af79fd1c12703b",
+    "name": "cap_emploi_reunion_agence_nord_est",
+    "title": "Cap emploi - Réunion - Agence Nord-Est",
+    "url": "https://lannuaire.service-public.fr/la-reunion/reunion/cap_emploi-97411-01",
+    "metadata": {
+      "email": "capemploi@capemploi97reunion.fr",
+      "telephone": "+262 2 62 41 90 40",
+      "url": ""
+    }
+  },
+  {
+    "id": "702d87c8364fcf4b2809842c120ffe0fbef4a4e8",
+    "name": "cap_emploi_reunion_agence_ouest",
+    "title": "Cap emploi - Réunion - Agence Ouest",
+    "url": "https://lannuaire.service-public.fr/la-reunion/reunion/cap_emploi-97415-01",
+    "metadata": {
+      "email": "capemploi@capemploi97reunion.fr",
+      "telephone": "+262 2 62 45 99 47",
+      "url": ""
+    }
+  },
+  {
+    "id": "ec3d15b01b4bfa20b3f21bfc07084d2baae7b58b",
+    "name": "cap_emploi_reunion_agence_sud",
+    "title": "Cap emploi - Réunion - Agence Sud",
+    "url": "https://lannuaire.service-public.fr/la-reunion/reunion/cap_emploi-97416-01",
+    "metadata": {
+      "email": "capemploi@capemploi97reunion.fr",
+      "telephone": "+262 2 62 32 31 11",
+      "url": ""
+    }
+  },
+  {
+    "id": "e9e3301f6b22316ca2d7920803751ad09bdd988f",
+    "name": "cap_emploi_rhone",
+    "title": "Cap emploi - Rhône",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/rhone/cap_emploi-69388-01",
+    "metadata": {
+      "email": "contact@capemploi69.org",
+      "telephone": "04 37 53 01 31",
+      "url": "https://capemploi69.fr/"
+    }
+  },
+  {
+    "id": "dad1538649cacde3b73c986b409c27a8ddf01828",
+    "name": "cap_emploi_saone_et_loire",
+    "title": "Cap emploi - Saône-et-Loire",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/saone-et-loire/cap_emploi-71270-01",
+    "metadata": {
+      "email": "macon@capemploi71.com",
+      "telephone": "03 85 22 82 72",
+      "url": ""
+    }
+  },
+  {
+    "id": "fa5071db48e7dee4e4b34bb61c057e9a375e4f4f",
+    "name": "cap_emploi_sarthe",
+    "title": "Cap emploi - Sarthe",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/sarthe/cap_emploi-72181-01",
+    "metadata": {
+      "email": "sce@capemploi72.fr",
+      "telephone": "02 43 50 07 80",
+      "url": ""
+    }
+  },
+  {
+    "id": "4b19f48ba8ff2b5ba59b5fe873bc064cc32fb575",
+    "name": "cap_emploi_savoie_et_haute_savoie",
+    "title": "Cap emploi - Savoie et Haute-Savoie",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/savoie/cap_emploi-73065-01",
+    "metadata": {
+      "email": "contact@capemploi73-74.com",
+      "telephone": "04 79 84 32 00",
+      "url": "https://www.capemploi73-74.com"
+    }
+  },
+  {
+    "id": "edec3fd3f2ce49d178deca0e1db2b552fc6c963b",
+    "name": "cap_emploi_seine_et_marne",
+    "title": "Cap emploi - Seine-et-Marne",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/seine-et-marne/cap_emploi-77152-01",
+    "metadata": {
+      "email": "melun@capemploi77.fr",
+      "telephone": "01 64 79 59 39",
+      "url": "www.capemploi77.fr"
+    }
+  },
+  {
+    "id": "763abf1f4c38d93f796472aec4ca436edf41a18e",
+    "name": "cap_emploi_seine_maritime_le_havre",
+    "title": "Cap emploi - Seine-Maritime - Le Havre",
+    "url": "https://lannuaire.service-public.fr/normandie/seine-maritime/cap_emploi-76351-01",
+    "metadata": {
+      "email": "secretariat@capemploi76lehavre.com",
+      "telephone": "02 35 22 71 21",
+      "url": ""
+    }
+  },
+  {
+    "id": "79c4b939988337cf75b5fe323342850457423f38",
+    "name": "cap_emploi_seine_maritime_rouen",
+    "title": "Cap emploi - Seine-Maritime - Rouen",
+    "url": "https://lannuaire.service-public.fr/normandie/seine-maritime/cap_emploi-76540-01",
+    "metadata": {
+      "email": "contact.rouen@capemploi76rd.fr",
+      "telephone": "02 35 03 74 68",
+      "url": "http://www.capemploi.net"
+    }
+  },
+  {
+    "id": "629146a9f794621aacaa01fccdd755bd3d3a4e77",
+    "name": "cap_emploi_seine_saint_denis",
+    "title": "Cap emploi - Seine-Saint-Denis",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/seine-saint-denis/cap_emploi-93005-01",
+    "metadata": {
+      "email": "accueil-aulnay@capemploi93.org",
+      "telephone": "01 48 19 88 60",
+      "url": ""
+    }
+  },
+  {
+    "id": "0c77686cb680b5bd1ef256681a4f3e80e133bde9",
+    "name": "cap_emploi_somme",
+    "title": "Cap emploi - Somme",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/somme/cap_emploi-80021-01",
+    "metadata": {
+      "email": "accueil@capemploi80.com",
+      "telephone": "03 22 89 00 99",
+      "url": "http://cap-emploi80.com"
+    }
+  },
+  {
+    "id": "aea5afd6f94e3952c0dd127a6408a2d49bcd5610",
+    "name": "cap_emploi_tarn",
+    "title": "Cap emploi - Tarn",
+    "url": "https://lannuaire.service-public.fr/occitanie/tarn/cap_emploi-81004-01",
+    "metadata": {
+      "email": "accueil@capemploi81.com",
+      "telephone": "05 63 49 29 49",
+      "url": ""
+    }
+  },
+  {
+    "id": "13f0f903eb77045572c90319fc0c85e707e88a43",
+    "name": "cap_emploi_tarn_et_garonne_et_haute_garonne",
+    "title": "Cap emploi - Tarn-et-Garonne et Haute-Garonne",
+    "url": "https://lannuaire.service-public.fr/occitanie/tarn-et-garonne/cap_emploi-82121-01",
+    "metadata": {
+      "email": "contact@adiad.fr",
+      "telephone": "05 63 21 46 00",
+      "url": "http://www.capemploi82-31nord.com"
+    }
+  },
+  {
+    "id": "a23675f44327d65547e1c919593d5bd50ec788ed",
+    "name": "cap_emploi_territoire_de_belfort",
+    "title": "Cap emploi - Territoire-de-Belfort",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/doubs/cap_emploi-25056-02",
+    "metadata": {
+      "email": "contact@association-aris.org",
+      "telephone": "03 81 41 37 16",
+      "url": ""
+    }
+  },
+  {
+    "id": "b457e29ffaaa91a204b1a92c046a2c9fa830c4c0",
+    "name": "cap_emploi_val_d_oise",
+    "title": "Cap emploi - Val-d'Oise",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/val-d-oise/cap_emploi-95127-01",
+    "metadata": {
+      "email": "accueil@capemploi95.org",
+      "telephone": "09 72 75 12 13",
+      "url": "http:://www.capemploi-95.com"
+    }
+  },
+  {
+    "id": "13f6e270721077843738f35634ee066d7d26852f",
+    "name": "cap_emploi_val_de_marne",
+    "title": "Cap emploi - Val-de-Marne",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/val-de-marne/cap_emploi-94028-01",
+    "metadata": {
+      "email": "secretariat.creteil@capemploi94.com",
+      "telephone": "01 45 13 28 90",
+      "url": ""
+    }
+  },
+  {
+    "id": "ba87a51e92b7743575ae8bcfe868e7f81f44656c",
+    "name": "cap_emploi_var",
+    "title": "Cap emploi - Var",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/var/cap_emploi-83137-01",
+    "metadata": {
+      "email": "avie@capemploi83.com",
+      "telephone": "04 94 22 36 16",
+      "url": "http://www.avie83.info"
+    }
+  },
+  {
+    "id": "8d0344357925e891bfab8655778ae36d83bf05ff",
+    "name": "cap_emploi_vaucluse",
+    "title": "Cap emploi - Vaucluse",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/vaucluse/cap_emploi-84007-01",
+    "metadata": {
+      "email": "contact@capemploi84.fr",
+      "telephone": "04 90 13 99 99",
+      "url": ""
+    }
+  },
+  {
+    "id": "9c3616449067221bad7624208ba57fe3e70d5b17",
+    "name": "cap_emploi_vendee",
+    "title": "Cap emploi - Vendée",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/vendee/cap_emploi-85191-01",
+    "metadata": {
+      "email": "capemploi@capemploi85.com",
+      "telephone": "02 51 37 65 18",
+      "url": "http://www.capemploi85.com"
+    }
+  },
+  {
+    "id": "f76c773e27e632f93a0ffbb1e4a6984158dee616",
+    "name": "cap_emploi_vienne",
+    "title": "Cap emploi - Vienne",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/vienne/cap_emploi-86214-01",
+    "metadata": {
+      "email": "accueil@capemploi86.fr",
+      "telephone": "05 49 44 97 97",
+      "url": ""
+    }
+  },
+  {
+    "id": "a9f13462e1db547bae0c670f1778f60a4204a407",
+    "name": "cap_emploi_vosges",
+    "title": "Cap emploi - Vosges",
+    "url": "https://lannuaire.service-public.fr/grand-est/vosges/cap_emploi-88160-01",
+    "metadata": {
+      "email": "capemploi@capemploi88.com",
+      "telephone": "03 29 31 86 13",
+      "url": "http://www.capemploi88.com"
+    }
+  },
+  {
+    "id": "7d84d0b16a0f1ec11f425f3e631123d564a39abe",
+    "name": "cap_emploi_yonne",
+    "title": "Cap emploi - Yonne",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/yonne/cap_emploi-89024-01",
+    "metadata": {
+      "email": "info@capemploi89.com",
+      "telephone": "03 86 52 45 11",
+      "url": ""
+    }
+  },
+  {
+    "id": "10f99774a974d0e60dcd4ebf5eea57df318c6981",
+    "name": "cap_emploi_yvelines",
+    "title": "Cap emploi - Yvelines",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/yvelines/cap_emploi-78498-01",
+    "metadata": {
+      "email": "",
+      "telephone": "01 34 01 30 00",
+      "url": ""
+    }
+  }
+]

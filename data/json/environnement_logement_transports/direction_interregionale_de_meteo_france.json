@@ -1,0 +1,134 @@
+[
+  {
+    "id": "58c1ba30c32bf4c626235064b0dd78f4652a4080",
+    "name": "meteo_france_direction_interregionale_antilles_guyane",
+    "title": "Météo-France - Direction interrégionale - Antilles-Guyane",
+    "url": "https://lannuaire.service-public.fr/martinique/martinique/dir_meteo-97209-01",
+    "metadata": {
+      "email": "",
+      "telephone": "+596 5 96 63 99 66",
+      "url": "http://www.meteofrance.fr"
+    }
+  },
+  {
+    "id": "944f9ec6ee582976153257acd43ab1b8b5a6a304",
+    "name": "meteo_france_direction_interregionale_centre_est",
+    "title": "Météo-France - Direction interrégionale - Centre-Est",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/rhone/dir_meteo-69029-01",
+    "metadata": {
+      "email": "sud.est@meteo.fr",
+      "telephone": "04 26 73 73 00",
+      "url": "http://www.meteofrance.fr"
+    }
+  },
+  {
+    "id": "c25a07f6ed0fa714bb236a65e11c1508230e2d00",
+    "name": "meteo_france_direction_interregionale_ile_de_france_et_centre",
+    "title": "Météo-France - Direction interrégionale - Île-de-France et Centre",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/val-de-marne/dir_meteo-94067-01",
+    "metadata": {
+      "email": "iledefrance.centre@meteo.fr",
+      "telephone": "01 77 94 77 94",
+      "url": "http://www.meteofrance.fr"
+    }
+  },
+  {
+    "id": "886b0bfadd63ad36f68f5ece1ccace2ef7d23d14",
+    "name": "meteo_france_direction_interregionale_nord",
+    "title": "Météo-France - Direction interrégionale - Nord",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/nord/dir_meteo-59009-01",
+    "metadata": {
+      "email": "nord@meteo.fr",
+      "telephone": "03 20 67 66 00",
+      "url": "http://www.meteofrance.fr"
+    }
+  },
+  {
+    "id": "734a86bc6118b81a9e8030e6b5347ea1c06bac23",
+    "name": "meteo_france_direction_interregionale_nord_est",
+    "title": "Météo-France - Direction interrégionale - Nord-Est",
+    "url": "https://lannuaire.service-public.fr/grand-est/bas-rhin/dir_meteo-67218-01",
+    "metadata": {
+      "email": "nord.est@meteo.fr",
+      "telephone": "03 88 40 42 42",
+      "url": "http://www.meteofrance.fr"
+    }
+  },
+  {
+    "id": "50152738ca3025b6d52586e7a0c79a241f73ce25",
+    "name": "meteo_france_direction_interregionale_nouvelle_caledonie_et_wallis_et_futuna",
+    "title": "Météo-France - Direction interrégionale - Nouvelle-Calédonie et Wallis et Futuna",
+    "url": "https://lannuaire.service-public.fr/collectivites-d-outre-mer/nouvelle-caledonie/dir_meteo-98818-01",
+    "metadata": {
+      "email": "ccom-nc@meteo.fr",
+      "telephone": "+687 27 93 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "1a631b8ae6deef09df57c1947adaf0c1c79588d1",
+    "name": "meteo_france_direction_interregionale_ocean_indien",
+    "title": "Météo-France - Direction interrégionale - Océan Indien",
+    "url": "https://lannuaire.service-public.fr/la-reunion/reunion/dir_meteo-97411-01",
+    "metadata": {
+      "email": "",
+      "telephone": "+262 2 62 92 11 00",
+      "url": "http://www.meteofrance.re"
+    }
+  },
+  {
+    "id": "8cb9bedc79e84c5b94a3ac7f01260f44829b4404",
+    "name": "meteo_france_direction_interregionale_ouest",
+    "title": "Météo-France - Direction interrégionale - Ouest",
+    "url": "https://lannuaire.service-public.fr/bretagne/ille-et-vilaine/dir_meteo-35238-01",
+    "metadata": {
+      "email": "ouest@meteo.fr",
+      "telephone": "02 22 51 53 00",
+      "url": "http://www.meteofrance.fr"
+    }
+  },
+  {
+    "id": "6e1d8a079fc8faf8336d754450d2a94bd53fb608",
+    "name": "meteo_france_direction_interregionale_polynesie_francaise",
+    "title": "Météo-France - Direction interrégionale - Polynésie française",
+    "url": "https://lannuaire.service-public.fr/collectivites-d-outre-mer/polynesie-francaise/dir_meteo-98715-01",
+    "metadata": {
+      "email": "",
+      "telephone": "+689 80 33 00",
+      "url": "http://www.meteo.pf"
+    }
+  },
+  {
+    "id": "3b461142e92ee438b327555612e0d71c3b8f79dc",
+    "name": "meteo_france_direction_interregionale_sud_est",
+    "title": "Météo-France - Direction interrégionale - Sud-Est",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/dir_meteo-13001-01",
+    "metadata": {
+      "email": "sud.est@meteo.fr",
+      "telephone": "04 42 95 90 00",
+      "url": "http://www.meteofrance.fr"
+    }
+  },
+  {
+    "id": "c7ed21d005e5ca2be188e4db77b759b030791a1c",
+    "name": "meteo_france_direction_interregionale_sud_ouest",
+    "title": "Météo-France - Direction interrégionale - Sud-Ouest",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/gironde/dir_meteo-33281-01",
+    "metadata": {
+      "email": "sud-ouest@meteo.fr",
+      "telephone": "05 57 29 11 00",
+      "url": "http://www.meteofrance.fr"
+    }
+  },
+  {
+    "id": "ffd66dfc7c16c35042851f620cc0ec4e48969431",
+    "name": "meteo_france_saint_pierre_et_miquelon",
+    "title": "Météo-France - Saint-Pierre-et-Miquelon",
+    "url": "https://lannuaire.service-public.fr/collectivites-d-outre-mer/saint-pierre-et-miquelon/dir_meteo-97502-01",
+    "metadata": {
+      "email": "",
+      "telephone": "+508 41 18 60",
+      "url": "http://www.meteospm.org"
+    }
+  }
+]

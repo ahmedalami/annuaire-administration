@@ -1,0 +1,1202 @@
+[
+  {
+    "id": "a1c0bf75be1459f319a68a411375aedcc17f8abe",
+    "alternateName": "MDA",
+    "name": "maison_departementale_de_lautonomie_mda_isere",
+    "title": "Maison départementale de l'autonomie (MDA) - Isère",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/isere/maison_handicapees-38185-01",
+    "metadata": {
+      "email": "mda38@isere.fr",
+      "telephone": "04 38 12 48 48",
+      "url": "http://www.isere.fr/mda38"
+    }
+  },
+  {
+    "id": "9200eca90f8b8be9e32f69511cd92b625e071c6c",
+    "alternateName": "MDA-MDPH",
+    "name": "maison_departementale_de_lautonomie_mda_mdph_saone_et_loire",
+    "title": "Maison départementale de l'autonomie (MDA-MDPH) - Saône-et-Loire",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/saone-et-loire/maison_handicapees-71270-01",
+    "metadata": {
+      "email": "mdph@saoneetloire71.fr",
+      "telephone": "03 85 21 51 30",
+      "url": "https://www.saoneetloire71.fr"
+    }
+  },
+  {
+    "id": "92ce134753524dfb0de4298803a50cc252cd27f1",
+    "alternateName": "MDMPH",
+    "name": "maison_departementale_metropolitaine_des_personnes_handicapees_mdmph_rhone_lyon",
+    "title": "Maison départementale-métropolitaine des personnes handicapées (MDMPH) - Rhône-Lyon",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/rhone/maison_handicapees-69383-01",
+    "metadata": {
+      "email": "handicap@grandlyon.com",
+      "telephone": "04 26 83 86 86",
+      "url": "https://www.grandlyon.com"
+    }
+  },
+  {
+    "id": "c03d3b08c35c5f7951c6b020aec3cf45207efcbe",
+    "alternateName": "MDPH",
+    "name": "maison_departementale_des_personnes_handicapees_mdph_ain",
+    "title": "Maison départementale des personnes handicapées (MDPH) - Ain",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/ain/maison_handicapees-01053-01",
+    "metadata": {
+      "email": "mdph@ain.fr",
+      "telephone": "08 00 88 84 44",
+      "url": "http://www.mdph.ain.fr"
+    }
+  },
+  {
+    "id": "66e8837766821648d4af25437e18d3549b9d994f",
+    "alternateName": "MDPH",
+    "name": "maison_departementale_des_personnes_handicapees_mdph_aisne",
+    "title": "Maison départementale des personnes handicapées (MDPH) - Aisne",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/aisne/maison_handicapees-02408-01",
+    "metadata": {
+      "email": "mdph@aisne.fr",
+      "telephone": "03 23 24 89 89",
+      "url": "http://www.mdph.fr"
+    }
+  },
+  {
+    "id": "3ff12cc7e61164620c1c0b18f23dba84c09a9806",
+    "alternateName": "MDPH",
+    "name": "maison_departementale_des_personnes_handicapees_mdph_allier",
+    "title": "Maison départementale des personnes handicapées (MDPH) - Allier",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/allier/maison_handicapees-03321-01",
+    "metadata": {
+      "email": "mda03@allier.fr",
+      "telephone": "04 70 34 15 70",
+      "url": "http://www.mdph03.fr"
+    }
+  },
+  {
+    "id": "b8930c2d27656a40a1be25dc09d839181654abbe",
+    "alternateName": "MDPH",
+    "name": "maison_departementale_des_personnes_handicapees_mdph_alpes_de_haute_provence",
+    "title": "Maison départementale des personnes handicapées (MDPH) - Alpes-de-Haute-Provence",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/alpes-de-haute-provence/maison_handicapees-04070-01",
+    "metadata": {
+      "email": "contact@mdph04.fr",
+      "telephone": "04 92 30 09 90",
+      "url": "http://www.cg04.fr"
+    }
+  },
+  {
+    "id": "4761050f951c3cb5d2142c55b9e1c228e50c2b73",
+    "alternateName": "MDPH",
+    "name": "maison_departementale_des_personnes_handicapees_mdph_alpes_maritimes",
+    "title": "Maison départementale des personnes handicapées (MDPH) - Alpes-Maritimes",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/alpes-maritimes/maison_handicapees-06088-01",
+    "metadata": {
+      "email": "",
+      "telephone": "08 05 56 05 80",
+      "url": "http://www.mdph06.fr"
+    }
+  },
+  {
+    "id": "b74d6e2a65095cd1c467a4797537fe748d58e926",
+    "alternateName": "MDPH",
+    "name": "maison_departementale_des_personnes_handicapees_mdph_ardeche",
+    "title": "Maison départementale des personnes handicapées (MDPH) - Ardèche",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/ardeche/maison_handicapees-07186-01",
+    "metadata": {
+      "email": "mdph@ardeche.fr",
+      "telephone": "08 00 07 07 00",
+      "url": "http://www.ardeche.fr"
+    }
+  },
+  {
+    "id": "20ec9f7a825846bd2878dff7a0736c26810f77e3",
+    "alternateName": "MDPH",
+    "name": "maison_departementale_des_personnes_handicapees_mdph_ardennes",
+    "title": "Maison départementale des personnes handicapées (MDPH) - Ardennes",
+    "url": "https://lannuaire.service-public.fr/grand-est/ardennes/maison_handicapees-08105-01",
+    "metadata": {
+      "email": "courrier@mdph08.fr",
+      "telephone": "03 24 41 39 50",
+      "url": ""
+    }
+  },
+  {
+    "id": "20bb931b0d87e8d80b19948e760a8d4a56a94bba",
+    "alternateName": "MDPH",
+    "name": "maison_departementale_des_personnes_handicapees_mdph_ariege",
+    "title": "Maison départementale des personnes handicapées (MDPH) - Ariège",
+    "url": "https://lannuaire.service-public.fr/occitanie/ariege/maison_handicapees-09122-01",
+    "metadata": {
+      "email": "mdpsh@ariege.fr",
+      "telephone": "05 61 02 08 04",
+      "url": "http://www.ariege.fr"
+    }
+  },
+  {
+    "id": "d78a196eb695292ac07f1bc07405a95e3436062e",
+    "alternateName": "MDPH",
+    "name": "maison_departementale_des_personnes_handicapees_mdph_aube",
+    "title": "Maison départementale des personnes handicapées (MDPH) - Aube",
+    "url": "https://lannuaire.service-public.fr/grand-est/aube/maison_handicapees-10387-01",
+    "metadata": {
+      "email": "mdph@aube.fr",
+      "telephone": "03 25 42 65 70",
+      "url": "http://www.mdph10.fr"
+    }
+  },
+  {
+    "id": "49d1c5cd16704b6f8fb140dc275737ca9a41122a",
+    "alternateName": "MDPH",
+    "name": "maison_departementale_des_personnes_handicapees_mdph_aude",
+    "title": "Maison départementale des personnes handicapées (MDPH) - Aude",
+    "url": "https://lannuaire.service-public.fr/occitanie/aude/maison_handicapees-11069-01",
+    "metadata": {
+      "email": "mdph@aude.fr",
+      "telephone": "08 00 77 77 32",
+      "url": "http://www.aude.fr"
+    }
+  },
+  {
+    "id": "f0e71a381af8147fc8f741502f160ab5aaae2572",
+    "alternateName": "MDPH",
+    "name": "maison_departementale_des_personnes_handicapees_mdph_aveyron",
+    "title": "Maison départementale des personnes handicapées (MDPH) - Aveyron",
+    "url": "https://lannuaire.service-public.fr/occitanie/aveyron/maison_handicapees-12202-01",
+    "metadata": {
+      "email": "accueil@mdph12.fr",
+      "telephone": "05 65 73 32 60",
+      "url": "http://www.mdph12.fr"
+    }
+  },
+  {
+    "id": "13e44cfbe2c951c8750bfb08700f437e1eb5600f",
+    "alternateName": "MDPH",
+    "name": "maison_departementale_des_personnes_handicapees_mdph_bas_rhin",
+    "title": "Maison départementale des personnes handicapées (MDPH) - Bas-Rhin",
+    "url": "https://lannuaire.service-public.fr/grand-est/bas-rhin/maison_handicapees-67482-01",
+    "metadata": {
+      "email": "accueil.mdph@bas-rhin.fr",
+      "telephone": "08 00 74 79 00",
+      "url": "http://www.bas-rhin.fr"
+    }
+  },
+  {
+    "id": "c6a06f4892e56cbec1f711850cd3eae0634ea279",
+    "alternateName": "MDPH",
+    "name": "maison_departementale_des_personnes_handicapees_mdph_bouches_du_rhone",
+    "title": "Maison départementale des personnes handicapées (MDPH) - Bouches-du-Rhône",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/maison_handicapees-13203-01",
+    "metadata": {
+      "email": "accueil.information.mdph@mdph13.fr",
+      "telephone": "08 00 81 48 44",
+      "url": "http://www.mdph13.fr"
+    }
+  },
+  {
+    "id": "f394abb3795823cb6a54c7513830f73c4af0e46a",
+    "alternateName": "MDPH",
+    "name": "maison_departementale_des_personnes_handicapees_mdph_calvados",
+    "title": "Maison départementale des personnes handicapées (MDPH) - Calvados",
+    "url": "https://lannuaire.service-public.fr/normandie/calvados/maison_handicapees-14118-01",
+    "metadata": {
+      "email": "mdph@calvados.fr",
+      "telephone": "02 31 78 91 75",
+      "url": "http://www.calvados.fr"
+    }
+  },
+  {
+    "id": "0fa4de9a9b81a07bb114826092a50c0a0cb9aa19",
+    "alternateName": "MDPH",
+    "name": "maison_departementale_des_personnes_handicapees_mdph_cantal",
+    "title": "Maison départementale des personnes handicapées (MDPH) - Cantal",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/cantal/maison_handicapees-15014-01",
+    "metadata": {
+      "email": "accueilmda@cantal.fr",
+      "telephone": "04 71 43 88 88",
+      "url": "http://www.cantal.fr"
+    }
+  },
+  {
+    "id": "c412d300f09ffbdb766e26bf2f69c135d69eed5e",
+    "alternateName": "MDPH",
+    "name": "maison_departementale_des_personnes_handicapees_mdph_charente",
+    "title": "Maison départementale des personnes handicapées (MDPH) - Charente",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/charente/maison_handicapees-16015-01",
+    "metadata": {
+      "email": "",
+      "telephone": "08 00 00 16 00",
+      "url": "http://www.mdph16.fr"
+    }
+  },
+  {
+    "id": "1745068d851c338c1f6063d1aeca345eaf9806e6",
+    "alternateName": "MDPH",
+    "name": "maison_departementale_des_personnes_handicapees_mdph_charente_maritime",
+    "title": "Maison départementale des personnes handicapées (MDPH) - Charente-Maritime",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/charente-maritime/maison_handicapees-17300-01",
+    "metadata": {
+      "email": "mdph@charente-maritime.fr",
+      "telephone": "08 00 15 22 15",
+      "url": "https://la.charente-maritime.fr/personnes-handicapees"
+    }
+  },
+  {
+    "id": "64a21d26a6577e4f72f0518ee4d093145f9f2efe",
+    "alternateName": "MDPH",
+    "name": "maison_departementale_des_personnes_handicapees_mdph_cher",
+    "title": "Maison départementale des personnes handicapées (MDPH) - Cher",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/cher/maison_handicapees-18033-01",
+    "metadata": {
+      "email": "mdph@mdph.departement18.fr",
+      "telephone": "02 48 27 31 31",
+      "url": "http://www.departement18.fr"
+    }
+  },
+  {
+    "id": "865ad5a688d321b7375e689bcf18d7748bdf903f",
+    "alternateName": "MDPH",
+    "name": "maison_departementale_des_personnes_handicapees_mdph_correze",
+    "title": "Maison départementale des personnes handicapées (MDPH) - Corrèze",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/correze/maison_handicapees-19272-01",
+    "metadata": {
+      "email": "autonomie@correze.fr",
+      "telephone": "05 55 93 49 10",
+      "url": "http://www.correze.fr"
+    }
+  },
+  {
+    "id": "652b367a3020ce314e0c1a12a145a8b3f10eb86f",
+    "alternateName": "MDPH",
+    "name": "maison_departementale_des_personnes_handicapees_mdph_corse_du_sud",
+    "title": "Maison départementale des personnes handicapées (MDPH) - Corse-du-Sud",
+    "url": "https://lannuaire.service-public.fr/corse/corse-du-sud/maison_handicapees-2A004-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 95 10 40 90",
+      "url": ""
+    }
+  },
+  {
+    "id": "c6658bfbea05252e6acc9bfcea43382f3ee07b0b",
+    "alternateName": "MDPH",
+    "name": "maison_departementale_des_personnes_handicapees_mdph_cote_d_or",
+    "title": "Maison départementale des personnes handicapées (MDPH) - Côte-d'Or",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/cote-d-or/maison_handicapees-21231-01",
+    "metadata": {
+      "email": "",
+      "telephone": "08 00 80 10 90",
+      "url": "http://www.mdph21.fr"
+    }
+  },
+  {
+    "id": "a98c374ac2ec1316cdd28edcaf7b848c5a50bdb5",
+    "alternateName": "MDPH",
+    "name": "maison_departementale_des_personnes_handicapees_mdph_cotes_d_armor",
+    "title": "Maison départementale des personnes handicapées (MDPH) - Côtes-d'Armor",
+    "url": "https://lannuaire.service-public.fr/bretagne/cotes-d-armor/maison_handicapees-22278-01",
+    "metadata": {
+      "email": "mdph@mdph.cotesdarmor.fr",
+      "telephone": "02 96 01 01 80",
+      "url": "http://mdph.cotesdarmor.fr"
+    }
+  },
+  {
+    "id": "a49951ac944bd4f6ba5d9a40f49e9cc9167daa98",
+    "alternateName": "MDPH",
+    "name": "maison_departementale_des_personnes_handicapees_mdph_creuse",
+    "title": "Maison départementale des personnes handicapées (MDPH) - Creuse",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/creuse/maison_handicapees-23096-01",
+    "metadata": {
+      "email": "mdph23@creuse.fr",
+      "telephone": "05 44 30 28 28",
+      "url": "http://www.creuse.fr"
+    }
+  },
+  {
+    "id": "5e3997b4fc6c81b4e71bb40981e4168439c9c0f6",
+    "alternateName": "MDPH",
+    "name": "maison_departementale_des_personnes_handicapees_mdph_deux_sevres",
+    "title": "Maison départementale des personnes handicapées (MDPH) - Deux-Sèvres",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/deux-sevres/maison_handicapees-79191-01",
+    "metadata": {
+      "email": "mdph@deux-sevres.fr",
+      "telephone": "05 49 04 41 30",
+      "url": ""
+    }
+  },
+  {
+    "id": "5b05d47dc6cc1bccf6ecabce8974c407b0299991",
+    "alternateName": "MDPH",
+    "name": "maison_departementale_des_personnes_handicapees_mdph_dordogne",
+    "title": "Maison départementale des personnes handicapées (MDPH) - Dordogne",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/dordogne/maison_handicapees-24322-01",
+    "metadata": {
+      "email": "mdph24@dordogne.fr",
+      "telephone": "0 800 800 824",
+      "url": "http://mdph.dordogne.fr"
+    }
+  },
+  {
+    "id": "d2c1c597cf4730359f24211df22814b062c6333d",
+    "alternateName": "MDPH",
+    "name": "maison_departementale_des_personnes_handicapees_mdph_doubs",
+    "title": "Maison départementale des personnes handicapées (MDPH) - Doubs",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/doubs/maison_handicapees-25056-01",
+    "metadata": {
+      "email": "contact@mdph.doubs.fr",
+      "telephone": "03 81 25 90 00",
+      "url": "http://mdph.doubs.fr/"
+    }
+  },
+  {
+    "id": "5dc39c5c82a407dbdeaf79247e5b612c49503769",
+    "alternateName": "MDPH",
+    "name": "maison_departementale_des_personnes_handicapees_mdph_drome",
+    "title": "Maison départementale des personnes handicapées (MDPH) - Drôme",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/drome/maison_handicapees-26362-01",
+    "metadata": {
+      "email": "dromesolidarites@ladrome.fr",
+      "telephone": "04 75 79 70 09",
+      "url": "http://www.ladrome.fr"
+    }
+  },
+  {
+    "id": "6fc435838ff490af2ea0ffa2b343dfa44cd6a7fb",
+    "alternateName": "MDPH",
+    "name": "maison_departementale_des_personnes_handicapees_mdph_essonne",
+    "title": "Maison départementale des personnes handicapées (MDPH) - Essonne",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/essonne/maison_handicapees-91228-01",
+    "metadata": {
+      "email": "mdphe@cd-essonne.fr",
+      "telephone": "01 60 76 11 00",
+      "url": "https://www.essonne.fr/sante-social-solidarite/handicap/"
+    }
+  },
+  {
+    "id": "db73e729f1586da13276b5a79925c25d9f97670a",
+    "alternateName": "MDPH",
+    "name": "maison_departementale_des_personnes_handicapees_mdph_eure",
+    "title": "Maison départementale des personnes handicapées (MDPH) - Eure",
+    "url": "https://lannuaire.service-public.fr/normandie/eure/maison_handicapees-27229-01",
+    "metadata": {
+      "email": "mdph-eure@eure.fr",
+      "telephone": "02 32 31 96 13",
+      "url": "http://www.mdph27.fr"
+    }
+  },
+  {
+    "id": "d2931e1710034f72237cf2627331cc10467b396f",
+    "alternateName": "MDPH",
+    "name": "maison_departementale_des_personnes_handicapees_mdph_eure_et_loir",
+    "title": "Maison départementale des personnes handicapées (MDPH) - Eure-et-Loir",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/eure-et-loir/maison_handicapees-28085-01",
+    "metadata": {
+      "email": "contact@mda28.fr",
+      "telephone": "02 37 33 46 46",
+      "url": "http://www.mdph28.fr/"
+    }
+  },
+  {
+    "id": "1d1441bd4cdaa2ecc1d6fe3a0684f86bccf87763",
+    "alternateName": "MDPH",
+    "name": "maison_departementale_des_personnes_handicapees_mdph_finistere",
+    "title": "Maison départementale des personnes handicapées (MDPH) - Finistère",
+    "url": "https://lannuaire.service-public.fr/bretagne/finistere/maison_handicapees-29232-01",
+    "metadata": {
+      "email": "contact@mdph29.fr",
+      "telephone": "02 98 90 50 50",
+      "url": "http://www.mdph29.fr"
+    }
+  },
+  {
+    "id": "70181f13aac41cfd4ad4888b7742f1597f58bb1d",
+    "alternateName": "MDPH",
+    "name": "maison_departementale_des_personnes_handicapees_mdph_gard",
+    "title": "Maison départementale des personnes handicapées (MDPH) - Gard",
+    "url": "https://lannuaire.service-public.fr/occitanie/gard/maison_handicapees-30189-01",
+    "metadata": {
+      "email": "mdph@gard.fr",
+      "telephone": "04 66 02 78 00",
+      "url": "http://www.handicap.gard.fr"
+    }
+  },
+  {
+    "id": "60872c8d919acf6673790dc49f6074546a4f425e",
+    "alternateName": "MDPH",
+    "name": "maison_departementale_des_personnes_handicapees_mdph_gers",
+    "title": "Maison départementale des personnes handicapées (MDPH) - Gers",
+    "url": "https://lannuaire.service-public.fr/occitanie/gers/maison_handicapees-32013-01",
+    "metadata": {
+      "email": "mdph32@mdph32.fr",
+      "telephone": "05 62 61 76 76",
+      "url": "http://www.mdph32.fr"
+    }
+  },
+  {
+    "id": "1a985109877023ed023e759b3d60ca34b5f7aa91",
+    "alternateName": "MDPH",
+    "name": "maison_departementale_des_personnes_handicapees_mdph_gironde",
+    "title": "Maison départementale des personnes handicapées (MDPH) - Gironde",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/gironde/maison_handicapees-33063-01",
+    "metadata": {
+      "email": "mdph-accueil@gironde.fr",
+      "telephone": "05 56 99 66 99",
+      "url": "http://www.mdph33.fr"
+    }
+  },
+  {
+    "id": "eaf6cae0cfaac5824773b382a1f054b49240477e",
+    "alternateName": "MDPH",
+    "name": "maison_departementale_des_personnes_handicapees_mdph_guadeloupe",
+    "title": "Maison départementale des personnes handicapées (MDPH) - Guadeloupe",
+    "url": "https://lannuaire.service-public.fr/guadeloupe/guadeloupe/maison_handicapees-97113-01",
+    "metadata": {
+      "email": "contact@mdph-971.fr",
+      "telephone": "05 90 83 14 28",
+      "url": "https://annuaire.action-sociale.org/MDPH/MDPH-9A-Guadeloupe.html"
+    }
+  },
+  {
+    "id": "7af22df12fca00f6a3c954ce93adc4cfeb070e72",
+    "alternateName": "MDPH",
+    "name": "maison_departementale_des_personnes_handicapees_mdph_guyane",
+    "title": "Maison départementale des personnes handicapées (MDPH) - Guyane",
+    "url": "https://lannuaire.service-public.fr/guyane/guyane/maison_handicapees-97302-01",
+    "metadata": {
+      "email": "mdph-guyane@mdph973.fr",
+      "telephone": "+594 5 94 39 16 80",
+      "url": "http://www.handicap.gouv.fr"
+    }
+  },
+  {
+    "id": "6aaab66df7f5f60e61c421e5480b32691ab2a0dc",
+    "alternateName": "MDPH",
+    "name": "maison_departementale_des_personnes_handicapees_mdph_haute_corse",
+    "title": "Maison départementale des personnes handicapées (MDPH) - Haute-Corse",
+    "url": "https://lannuaire.service-public.fr/corse/haute-corse/maison_handicapees-2B033-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 95 30 08 35",
+      "url": "https://annuaire.action-sociale.org/MDPH/MDPH-2B-Haute-Corse.html"
+    }
+  },
+  {
+    "id": "21053ece1105ba7b459bc4d746edaf9a29d3bf81",
+    "alternateName": "MDPH",
+    "name": "maison_departementale_des_personnes_handicapees_mdph_haute_garonne",
+    "title": "Maison départementale des personnes handicapées (MDPH) - Haute-Garonne",
+    "url": "https://lannuaire.service-public.fr/occitanie/haute-garonne/maison_handicapees-31555-01",
+    "metadata": {
+      "email": "mdph@cd31.fr",
+      "telephone": "0800 31 01 31",
+      "url": "http://www.mdph31.fr/index.php"
+    }
+  },
+  {
+    "id": "f4042c36870fb38d9f022fceae7b79eab6bbeb0a",
+    "alternateName": "MDPH",
+    "name": "maison_departementale_des_personnes_handicapees_mdph_haute_loire",
+    "title": "Maison départementale des personnes handicapées (MDPH) - Haute-Loire",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/haute-loire/maison_handicapees-43157-01",
+    "metadata": {
+      "email": "accueil@mdph43.fr",
+      "telephone": "04 71 07 21 80",
+      "url": "http://www.handicap.gouv.fr"
+    }
+  },
+  {
+    "id": "13c5b7c5bab3e955f8b23e81380be363aca6f534",
+    "alternateName": "MDPH",
+    "name": "maison_departementale_des_personnes_handicapees_mdph_haute_marne",
+    "title": "Maison départementale des personnes handicapées (MDPH) - Haute-Marne",
+    "url": "https://lannuaire.service-public.fr/grand-est/haute-marne/maison_handicapees-52121-01",
+    "metadata": {
+      "email": "mdph@haute-marne.fr",
+      "telephone": "03 25 01 19 51",
+      "url": ""
+    }
+  },
+  {
+    "id": "159ab71fda0ba80e9ab765c234c8ae7870e2717b",
+    "alternateName": "MDPH",
+    "name": "maison_departementale_des_personnes_handicapees_mdph_hautes_alpes",
+    "title": "Maison départementale des personnes handicapées (MDPH) - Hautes-Alpes",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/hautes-alpes/maison_handicapees-05061-01",
+    "metadata": {
+      "email": "mda@hautes-alpes.fr",
+      "telephone": "04 92 20 63 90",
+      "url": "http://www.mdph.hautes-alpes.fr"
+    }
+  },
+  {
+    "id": "44bfe9de72619820d6ff3e906be5bccf7275ba3f",
+    "alternateName": "MDPH",
+    "name": "maison_departementale_des_personnes_handicapees_mdph_haute_saone",
+    "title": "Maison départementale des personnes handicapées (MDPH) - Haute-Saône",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/haute-saone/maison_handicapees-70550-01",
+    "metadata": {
+      "email": "mdph@haute-saone.fr",
+      "telephone": "03 84 96 12 80",
+      "url": ""
+    }
+  },
+  {
+    "id": "8fb17af7892332989bef3e2fa5cf9b65d1861282",
+    "alternateName": "MDPH",
+    "name": "maison_departementale_des_personnes_handicapees_mdph_haute_savoie",
+    "title": "Maison départementale des personnes handicapées (MDPH) - Haute-Savoie",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/haute-savoie/maison_handicapees-74010-01",
+    "metadata": {
+      "email": "mdph@mdph74.fr",
+      "telephone": "04 50 33 22 50",
+      "url": "http://www.mdph74.fr"
+    }
+  },
+  {
+    "id": "c809e93527991234631c1ab8eb1088b3454b20aa",
+    "alternateName": "MDPH",
+    "name": "maison_departementale_des_personnes_handicapees_mdph_hautes_pyrenees",
+    "title": "Maison départementale des personnes handicapées (MDPH) - Hautes-Pyrénées",
+    "url": "https://lannuaire.service-public.fr/occitanie/hautes-pyrenees/maison_handicapees-65440-01",
+    "metadata": {
+      "email": "mdph65@ha-py.fr",
+      "telephone": "05 62 56 73 50",
+      "url": "http://www.mdph65.fr/"
+    }
+  },
+  {
+    "id": "270e08488b746527c30d25c3b9f538a48dc7805b",
+    "alternateName": "MDPH",
+    "name": "maison_departementale_des_personnes_handicapees_mdph_haute_vienne",
+    "title": "Maison départementale des personnes handicapées (MDPH) - Haute-Vienne",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/haute-vienne/maison_handicapees-87085-01",
+    "metadata": {
+      "email": "contact.mdph@haute-vienne.fr",
+      "telephone": "05 55 14 14 50",
+      "url": "http://www.essonne.fr/sante-social-solidarite/handicap/la-mdph/"
+    }
+  },
+  {
+    "id": "2711b8dff9537d199887a747c44a5e8d48b9fb23",
+    "alternateName": "MDPH",
+    "name": "maison_departementale_des_personnes_handicapees_mdph_haut_rhin",
+    "title": "Maison départementale des personnes handicapées (MDPH) - Haut-Rhin",
+    "url": "https://lannuaire.service-public.fr/grand-est/haut-rhin/maison_handicapees-68066-01",
+    "metadata": {
+      "email": "mdph@haut-rhin.fr",
+      "telephone": "03 89 30 68 10",
+      "url": "http://www.haut-rhin.fr"
+    }
+  },
+  {
+    "id": "9567dabb7bbb48dcb97e574ee6bc009fbed4b744",
+    "alternateName": "MDPH",
+    "name": "maison_departementale_des_personnes_handicapees_mdph_hauts_de_seine",
+    "title": "Maison départementale des personnes handicapées (MDPH) - Hauts-de-Seine",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/hauts-de-seine/maison_handicapees-92050-01",
+    "metadata": {
+      "email": "mdph@mdph92.fr",
+      "telephone": "01 41 91 92 50",
+      "url": "http://www.hauts-de-seine.fr"
+    }
+  },
+  {
+    "id": "4fdded226cb4882bd1ff2d4d557e727bf27bd6ea",
+    "alternateName": "MDPH",
+    "name": "maison_departementale_des_personnes_handicapees_mdph_herault",
+    "title": "Maison départementale des personnes handicapées (MDPH) - Hérault",
+    "url": "https://lannuaire.service-public.fr/occitanie/herault/maison_handicapees-34172-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 67 67 69 30",
+      "url": "http://www.mdph34.fr"
+    }
+  },
+  {
+    "id": "d58aae13b6f7a32d14a77a5aba68fb3d61300631",
+    "alternateName": "MDPH",
+    "name": "maison_departementale_des_personnes_handicapees_mdph_ille_et_vilaine",
+    "title": "Maison départementale des personnes handicapées (MDPH) - Ille-et-Vilaine",
+    "url": "https://lannuaire.service-public.fr/bretagne/ille-et-vilaine/maison_handicapees-35238-01",
+    "metadata": {
+      "email": "contact@mdph35.fr",
+      "telephone": "08 00 35 35 05",
+      "url": "http://www.mdph35.fr"
+    }
+  },
+  {
+    "id": "a7966a47b9d1b55a16523161aa425edd57674486",
+    "alternateName": "MDPH",
+    "name": "maison_departementale_des_personnes_handicapees_mdph_indre",
+    "title": "Maison départementale des personnes handicapées (MDPH) - Indre",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/indre/maison_handicapees-36044-01",
+    "metadata": {
+      "email": "mdph36@mdph36.fr",
+      "telephone": "02 54 35 24 24",
+      "url": ""
+    }
+  },
+  {
+    "id": "ec714d668fc3efcfd28d86bc8a55b5bd77007058",
+    "alternateName": "MDPH",
+    "name": "maison_departementale_des_personnes_handicapees_mdph_indre_et_loire",
+    "title": "Maison départementale des personnes handicapées (MDPH) - Indre-et-Loire",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/indre-et-loire/maison_handicapees-37261-01",
+    "metadata": {
+      "email": "info@mdph37.fr",
+      "telephone": "02 47 75 26 66",
+      "url": "http://www.mdph37.fr"
+    }
+  },
+  {
+    "id": "062ef43286131938e497e313175741ea539cb2bd",
+    "alternateName": "MDPH",
+    "name": "maison_departementale_des_personnes_handicapees_mdph_jura",
+    "title": "Maison départementale des personnes handicapées (MDPH) - Jura",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/jura/maison_handicapees-39300-01",
+    "metadata": {
+      "email": "mdph39@jura.fr",
+      "telephone": "03 84 87 40 44",
+      "url": "http://www.mdph39.fr"
+    }
+  },
+  {
+    "id": "86b5d2e2c8fc7fa9210e74e34dbff8ff16900db6",
+    "alternateName": "MDPH",
+    "name": "maison_departementale_des_personnes_handicapees_mdph_landes",
+    "title": "Maison départementale des personnes handicapées (MDPH) - Landes",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/landes/maison_handicapees-40192-01",
+    "metadata": {
+      "email": "mlph@landes.fr",
+      "telephone": "05 58 51 53 73",
+      "url": "http://www.handicaplandes.fr"
+    }
+  },
+  {
+    "id": "ff640d2dd61737944b8fb58f9ced14142a8603d5",
+    "alternateName": "MDPH",
+    "name": "maison_departementale_des_personnes_handicapees_mdph_loire",
+    "title": "Maison départementale des personnes handicapées (MDPH) - Loire",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/loire/maison_handicapees-42218-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 77 49 91 91",
+      "url": "http://www.loire.fr"
+    }
+  },
+  {
+    "id": "09d414f9e6c8b035fe1f9af4ed4fcc21216c9c01",
+    "alternateName": "MDPH",
+    "name": "maison_departementale_des_personnes_handicapees_mdph_loire_atlantique",
+    "title": "Maison départementale des personnes handicapées (MDPH) - Loire-Atlantique",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/loire-atlantique/maison_handicapees-44114-01",
+    "metadata": {
+      "email": "accueil.mdph@loire-atlantique.fr",
+      "telephone": "02 28 09 40 50",
+      "url": "http://www.loire-atlantique.fr"
+    }
+  },
+  {
+    "id": "d8d29de2962366fe01898de9849ace916206530e",
+    "alternateName": "MDPH",
+    "name": "maison_departementale_des_personnes_handicapees_mdph_loiret",
+    "title": "Maison départementale des personnes handicapées (MDPH) - Loiret",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/loiret/maison_handicapees-45234-01",
+    "metadata": {
+      "email": "contact@mdph.loiret.fr",
+      "telephone": "02 38 25 40 40",
+      "url": "http://www.loiret.fr"
+    }
+  },
+  {
+    "id": "66d24d5bbfd6e953666162f41f9106196d9a491d",
+    "alternateName": "MDPH",
+    "name": "maison_departementale_des_personnes_handicapees_mdph_loir_et_cher",
+    "title": "Maison départementale des personnes handicapées (MDPH) - Loir-et-Cher",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/loir-et-cher/maison_handicapees-41018-01",
+    "metadata": {
+      "email": "accueil.mdph@cg41.fr",
+      "telephone": "02 54 58 44 40",
+      "url": "http://www.handicap.gouv.fr"
+    }
+  },
+  {
+    "id": "f9bc413eeb29e08df6defa4653d092160783afcf",
+    "alternateName": "MDPH",
+    "name": "maison_departementale_des_personnes_handicapees_mdph_lot",
+    "title": "Maison départementale des personnes handicapées (MDPH) - Lot",
+    "url": "https://lannuaire.service-public.fr/occitanie/lot/maison_handicapees-46042-01",
+    "metadata": {
+      "email": "mdph@mdph46.fr",
+      "telephone": "05 65 53 51 40",
+      "url": "http://www.lot.fr"
+    }
+  },
+  {
+    "id": "60266b560b5ce13b1fd3d20dba18aacfc519a946",
+    "alternateName": "MDPH",
+    "name": "maison_departementale_des_personnes_handicapees_mdph_lot_et_garonne",
+    "title": "Maison départementale des personnes handicapées (MDPH) - Lot-et-Garonne",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/lot-et-garonne/maison_handicapees-47001-01",
+    "metadata": {
+      "email": "contact@mdph47.fr",
+      "telephone": "05 53 69 20 50",
+      "url": "https://www.mdph47.fr/"
+    }
+  },
+  {
+    "id": "9a57da4149f46d98c934846b1a85a3614d16fafd",
+    "alternateName": "MDPH",
+    "name": "maison_departementale_des_personnes_handicapees_mdph_lozere",
+    "title": "Maison départementale des personnes handicapées (MDPH) - Lozère",
+    "url": "https://lannuaire.service-public.fr/occitanie/lozere/maison_handicapees-48095-01",
+    "metadata": {
+      "email": "accueilmdph48@mdph48.fr",
+      "telephone": "04 66 49 60 70",
+      "url": "http://www.lozere.fr"
+    }
+  },
+  {
+    "id": "3510a63b8fd11b15e55a5c0a40694f3e4cf3bd64",
+    "alternateName": "MDPH",
+    "name": "maison_departementale_des_personnes_handicapees_mdph_maine_et_loire",
+    "title": "Maison départementale des personnes handicapées (MDPH) - Maine-et-Loire",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/maine-et-loire/maison_handicapees-49007-01",
+    "metadata": {
+      "email": "contact@mda.maine-et-loire.fr",
+      "telephone": "02 41 81 60 77",
+      "url": "http://www.mda.maine-et-loire.fr"
+    }
+  },
+  {
+    "id": "638a9ec35017997a0a55a0741377716ae9ce93e5",
+    "alternateName": "MDPH",
+    "name": "maison_departementale_des_personnes_handicapees_mdph_manche",
+    "title": "Maison départementale des personnes handicapées (MDPH) - Manche",
+    "url": "https://lannuaire.service-public.fr/normandie/manche/maison_handicapees-50502-01",
+    "metadata": {
+      "email": "mda@manche.fr",
+      "telephone": "02 33 05 55 50",
+      "url": "http://www.handicap.manche.fr"
+    }
+  },
+  {
+    "id": "adb08ec37f844abfb402eb3299e5924dfd25119e",
+    "alternateName": "MDPH",
+    "name": "maison_departementale_des_personnes_handicapees_mdph_marne",
+    "title": "Maison départementale des personnes handicapées (MDPH) - Marne",
+    "url": "https://lannuaire.service-public.fr/grand-est/marne/maison_handicapees-51108-01",
+    "metadata": {
+      "email": "accueil@mdph51.fr",
+      "telephone": "03 26 26 06 06",
+      "url": "http://www.marne.frmdph"
+    }
+  },
+  {
+    "id": "9127aed6775e3220401190cfcb64e200026d4b5c",
+    "alternateName": "MDPH",
+    "name": "maison_departementale_des_personnes_handicapees_mdph_martinique",
+    "title": "Maison départementale des personnes handicapées (MDPH) - Martinique",
+    "url": "https://lannuaire.service-public.fr/martinique/martinique/maison_handicapees-97209-01",
+    "metadata": {
+      "email": "contact.mdph@972.fr",
+      "telephone": "0596 70 09 95",
+      "url": "https://mdph972.fr/"
+    }
+  },
+  {
+    "id": "1da0532ae5cef4a651e10fd3547c50eacdaebc1d",
+    "alternateName": "MDPH",
+    "name": "maison_departementale_des_personnes_handicapees_mdph_mayenne",
+    "title": "Maison départementale des personnes handicapées (MDPH) - Mayenne",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/mayenne/maison_handicapees-53130-01",
+    "metadata": {
+      "email": "mda@lamayenne.fr",
+      "telephone": "02 43 67 75 77",
+      "url": "http://www.lamayenne.fr"
+    }
+  },
+  {
+    "id": "21fdf489857ce556cbab3bd4cd912f8caec60c35",
+    "alternateName": "MDPH",
+    "name": "maison_departementale_des_personnes_handicapees_mdph_meurthe_et_moselle",
+    "title": "Maison départementale des personnes handicapées (MDPH) - Meurthe-et-Moselle",
+    "url": "https://lannuaire.service-public.fr/grand-est/meurthe-et-moselle/maison_handicapees-54304-01",
+    "metadata": {
+      "email": "mdphaccueil@mdph.departement54.fr",
+      "telephone": "03 83 97 44 20",
+      "url": "http://www.mdph.meurthe-et-moselle.fr"
+    }
+  },
+  {
+    "id": "393657f19ba90ca77c650a93098ab3466c3dbbf2",
+    "alternateName": "MDPH",
+    "name": "maison_departementale_des_personnes_handicapees_mdph_meuse",
+    "title": "Maison départementale des personnes handicapées (MDPH) - Meuse",
+    "url": "https://lannuaire.service-public.fr/grand-est/meuse/maison_handicapees-55029-01",
+    "metadata": {
+      "email": "contact@mdph55.fr",
+      "telephone": "03 29 46 70 70",
+      "url": "http://www.handicap.gouv.fr"
+    }
+  },
+  {
+    "id": "6e992803b9ea85e6dac73160cecbdb845c160db4",
+    "alternateName": "MDPH",
+    "name": "maison_departementale_des_personnes_handicapees_mdph_morbihan",
+    "title": "Maison départementale des personnes handicapées (MDPH) - Morbihan",
+    "url": "https://lannuaire.service-public.fr/bretagne/morbihan/maison_handicapees-56260-01",
+    "metadata": {
+      "email": "contact@mda56.fr",
+      "telephone": "02 97 62 74 74",
+      "url": "https://www.morbihan.fr/"
+    }
+  },
+  {
+    "id": "1beaa8d84b6154cdb99d71cac194f1e09648a5cc",
+    "alternateName": "MDPH",
+    "name": "maison_departementale_des_personnes_handicapees_mdph_moselle",
+    "title": "Maison départementale des personnes handicapées (MDPH) - Moselle",
+    "url": "https://lannuaire.service-public.fr/grand-est/moselle/maison_handicapees-57463-01",
+    "metadata": {
+      "email": "mdph@moselle.fr",
+      "telephone": "03 87 21 83 00",
+      "url": "http://www.mdph57.fr/"
+    }
+  },
+  {
+    "id": "b5008f17014a9cee4aacdc8ebba40ff7287da02c",
+    "alternateName": "MDPH",
+    "name": "maison_departementale_des_personnes_handicapees_mdph_nievre",
+    "title": "Maison départementale des personnes handicapées (MDPH) - Nièvre",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/nievre/maison_handicapees-58194-01",
+    "metadata": {
+      "email": "mdph.nievre@mdph-58.fr",
+      "telephone": "03 86 71 05 50",
+      "url": "http://www.cg58.fr"
+    }
+  },
+  {
+    "id": "bd72f52f19772494d51c7806cc86ba42cb930ce9",
+    "alternateName": "MDPH",
+    "name": "maison_departementale_des_personnes_handicapees_mdph_nord",
+    "title": "Maison départementale des personnes handicapées (MDPH) - Nord",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/nord/maison_handicapees-59009-01",
+    "metadata": {
+      "email": "mdph@lenord.fr",
+      "telephone": "03 59 73 73 73",
+      "url": "https://mdph.lenord.fr/site/dac_50770/accueil"
+    }
+  },
+  {
+    "id": "4b08fe0f04eaed1daa5aee5f46de581886a7c9f7",
+    "alternateName": "MDPH",
+    "name": "maison_departementale_des_personnes_handicapees_mdph_oise",
+    "title": "Maison départementale des personnes handicapées (MDPH) - Oise",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/oise/maison_handicapees-60057-01",
+    "metadata": {
+      "email": "mdph.contact@oise.fr",
+      "telephone": "08 00 89 44 21",
+      "url": "http://www.mdph.oise.fr"
+    }
+  },
+  {
+    "id": "431f9e3885c5a30cfd8cf8c1a66aded0611e5075",
+    "alternateName": "MDPH",
+    "name": "maison_departementale_des_personnes_handicapees_mdph_orne",
+    "title": "Maison départementale des personnes handicapées (MDPH) - Orne",
+    "url": "https://lannuaire.service-public.fr/normandie/orne/maison_handicapees-61001-01",
+    "metadata": {
+      "email": "mdpho@orne.fr",
+      "telephone": "02 33 15 00 31",
+      "url": "http://www.mdph61.fr"
+    }
+  },
+  {
+    "id": "708a5d744d157b400912337ec02b66e775745b54",
+    "alternateName": "MDPH",
+    "name": "maison_departementale_des_personnes_handicapees_mdph_paris",
+    "title": "Maison départementale des personnes handicapées (MDPH) - Paris",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/paris/maison_handicapees-75109-01",
+    "metadata": {
+      "email": "contact@mdph.paris.fr",
+      "telephone": "01 53 32 39 39",
+      "url": "https://handicap.paris.fr"
+    }
+  },
+  {
+    "id": "4dc990945e6baccb7b0fe3b89730bed05cc4df9f",
+    "alternateName": "MDPH",
+    "name": "maison_departementale_des_personnes_handicapees_mdph_pas_de_calais",
+    "title": "Maison départementale des personnes handicapées (MDPH) - Pas-de-Calais",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/pas-de-calais/maison_handicapees-62041-01",
+    "metadata": {
+      "email": "mdph62@mdph62.fr",
+      "telephone": "03 21 21 84 00",
+      "url": "http://www.mdph.pasdecalais.fr"
+    }
+  },
+  {
+    "id": "4006a5261ac78ae9a58cfd61aeaea5788f42bd11",
+    "alternateName": "MDPH",
+    "name": "maison_departementale_des_personnes_handicapees_mdph_puy_de_dome",
+    "title": "Maison départementale des personnes handicapées (MDPH) - Puy-de-Dôme",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/puy-de-dome/maison_handicapees-63113-01",
+    "metadata": {
+      "email": "mdph@mdph63.fr",
+      "telephone": "04 73 74 51 20",
+      "url": "http://www.mdph.puy-de-dome.fr"
+    }
+  },
+  {
+    "id": "e9e3ece257110c0ff330aeecdc8490ed7249f183",
+    "alternateName": "MDPH",
+    "name": "maison_departementale_des_personnes_handicapees_mdph_pyrenees_atlantiques",
+    "title": "Maison départementale des personnes handicapées (MDPH) - Pyrénées-Atlantiques",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/pyrenees-atlantiques/maison_handicapees-64445-01",
+    "metadata": {
+      "email": "mdph.pau@mdph64.com",
+      "telephone": "05 59 27 50 50",
+      "url": "http://www.mdph64.fr"
+    }
+  },
+  {
+    "id": "8bc1afb26a6e9e7b4711373a9ac2d24885d2d870",
+    "alternateName": "MDPH",
+    "name": "maison_departementale_des_personnes_handicapees_mdph_pyrenees_orientales",
+    "title": "Maison départementale des personnes handicapées (MDPH) - Pyrénées-Orientales",
+    "url": "https://lannuaire.service-public.fr/occitanie/pyrenees-orientales/maison_handicapees-66136-01",
+    "metadata": {
+      "email": "mdph66@cd66.fr",
+      "telephone": "04 68 39 99 00",
+      "url": "http://www.cd66.fr"
+    }
+  },
+  {
+    "id": "d8274245950d1b17c612d96389de642a016e811d",
+    "alternateName": "MDPH",
+    "name": "maison_departementale_des_personnes_handicapees_mdph_reunion",
+    "title": "Maison départementale des personnes handicapées (MDPH) - Réunion",
+    "url": "https://lannuaire.service-public.fr/la-reunion/reunion/maison_handicapees-97411-01",
+    "metadata": {
+      "email": "mdph974@mdph.re",
+      "telephone": "08 00 00 02 62",
+      "url": "http://www.mdph.re"
+    }
+  },
+  {
+    "id": "79160143865e564b5881e32609e1f7f7ea67f842",
+    "alternateName": "MDPH",
+    "name": "maison_departementale_des_personnes_handicapees_mdph_sarthe",
+    "title": "Maison départementale des personnes handicapées (MDPH) - Sarthe",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/sarthe/maison_handicapees-72181-01",
+    "metadata": {
+      "email": "mdph.sarthe@cg72.fr",
+      "telephone": "02 43 54 11 90",
+      "url": "http://www.mdph72.fr"
+    }
+  },
+  {
+    "id": "107833deaef2b04fa3eecf07c7657f38d4f3d068",
+    "alternateName": "MDPH",
+    "name": "maison_departementale_des_personnes_handicapees_mdph_savoie",
+    "title": "Maison départementale des personnes handicapées (MDPH) - Savoie",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/savoie/maison_handicapees-73065-01",
+    "metadata": {
+      "email": "mdph@mdph73.fr",
+      "telephone": "04 79 75 39 60",
+      "url": "http://www.mdph73.fr"
+    }
+  },
+  {
+    "id": "01e600a26b86b8b51c42bb5f071b6a8a70c7abe9",
+    "alternateName": "MDPH",
+    "name": "maison_departementale_des_personnes_handicapees_mdph_seine_et_marne",
+    "title": "Maison départementale des personnes handicapées (MDPH) - Seine-et-Marne",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/seine-et-marne/maison_handicapees-77445-01",
+    "metadata": {
+      "email": "contact@mdph77.fr",
+      "telephone": "01 64 19 11 40",
+      "url": "http://www.mdph77.fr/"
+    }
+  },
+  {
+    "id": "019e6b6fbf183a42d214916b37090b62603b5971",
+    "alternateName": "MDPH",
+    "name": "maison_departementale_des_personnes_handicapees_mdph_seine_maritime",
+    "title": "Maison départementale des personnes handicapées (MDPH) - Seine-Maritime",
+    "url": "https://lannuaire.service-public.fr/normandie/seine-maritime/maison_handicapees-76540-01",
+    "metadata": {
+      "email": "mdph@seinemaritime.fr",
+      "telephone": "02 32 18 86 87",
+      "url": "https://www.seinemaritime.fr/vos-services/personnes-handicapees-1.html"
+    }
+  },
+  {
+    "id": "73e6d9b6ee2fbd445f82db7b5692fd82f89dec39",
+    "alternateName": "MDPH",
+    "name": "maison_departementale_des_personnes_handicapees_mdph_seine_saint_denis",
+    "title": "Maison départementale des personnes handicapées (MDPH) - Seine-Saint-Denis",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/seine-saint-denis/maison_handicapees-93008-01",
+    "metadata": {
+      "email": "",
+      "telephone": "01 43 93 86 86",
+      "url": "http://www.place-handicap.fr"
+    }
+  },
+  {
+    "id": "531241b340277b91b895573d605a14351f532faf",
+    "alternateName": "MDPH",
+    "name": "maison_departementale_des_personnes_handicapees_mdph_somme",
+    "title": "Maison départementale des personnes handicapées (MDPH) - Somme",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/somme/maison_handicapees-80021-01",
+    "metadata": {
+      "email": "mdph@somme.fr",
+      "telephone": "03 22 97 24 10",
+      "url": "http://www.somme.fr"
+    }
+  },
+  {
+    "id": "265971f6ffba1d5e8b1539978f34f6d69571dfe9",
+    "alternateName": "MDPH",
+    "name": "maison_departementale_des_personnes_handicapees_mdph_tarn",
+    "title": "Maison départementale des personnes handicapées (MDPH) - Tarn",
+    "url": "https://lannuaire.service-public.fr/occitanie/tarn/maison_handicapees-81004-01",
+    "metadata": {
+      "email": "contact.mda@tarn.fr",
+      "telephone": "05 81 27 70 07",
+      "url": "http://www.mda.tarn.fr"
+    }
+  },
+  {
+    "id": "6b3a75e7947ce3d33444940db97a21bd9b40fa3d",
+    "alternateName": "MDPH",
+    "name": "maison_departementale_des_personnes_handicapees_mdph_tarn_et_garonne",
+    "title": "Maison départementale des personnes handicapées (MDPH) - Tarn-et-Garonne",
+    "url": "https://lannuaire.service-public.fr/occitanie/tarn-et-garonne/maison_handicapees-82121-01",
+    "metadata": {
+      "email": "mdph@ledepartement82.fr",
+      "telephone": "08 00 10 28 48",
+      "url": "http://www.ledepartement.frmon-quotidien/vivre-le-handicap/maison-departementale-des-personnes-handicapees-mdph.html"
+    }
+  },
+  {
+    "id": "09df2930d5e387606a0d55439d715361eee04044",
+    "alternateName": "MDPH",
+    "name": "maison_departementale_des_personnes_handicapees_mdph_territoire_de_belfort",
+    "title": "Maison départementale des personnes handicapées (MDPH) - Territoire de Belfort",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/territoire-de-belfort/maison_handicapees-90010-01",
+    "metadata": {
+      "email": "accueil@mdph90.fr",
+      "telephone": "03 70 04 89 89",
+      "url": "http://www.territoiredebelfort.fr"
+    }
+  },
+  {
+    "id": "97dd5e9eb179e9924f0f70ead8c17d4594441b47",
+    "alternateName": "MDPH",
+    "name": "maison_departementale_des_personnes_handicapees_mdph_val_d_oise",
+    "title": "Maison départementale des personnes handicapées (MDPH) - Val-d'Oise",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/val-d-oise/maison_handicapees-95127-01",
+    "metadata": {
+      "email": "maisonduhandicap@valdoise.fr",
+      "telephone": "01 34 25 16 50",
+      "url": "http://www.mdph.valdoise.fr"
+    }
+  },
+  {
+    "id": "fcbf0977e5c103c487b0b0560c94e447b22055b3",
+    "alternateName": "MDPH",
+    "name": "maison_departementale_des_personnes_handicapees_mdph_val_de_marne",
+    "title": "Maison départementale des personnes handicapées (MDPH) - Val-de-Marne",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/val-de-marne/maison_handicapees-94028-01",
+    "metadata": {
+      "email": "mdph94@valdemarne.fr",
+      "telephone": "01 43 99 79 00",
+      "url": "https://www.valdemarne.fr/a-votre-service/handicap/maison-departementale-des-personnes-handicapees-mdph"
+    }
+  },
+  {
+    "id": "6e2a81f1f206c0b8d9b4aba2ce97b3c74e4fd0a7",
+    "alternateName": "MDPH",
+    "name": "maison_departementale_des_personnes_handicapees_mdph_var",
+    "title": "Maison départementale des personnes handicapées (MDPH) - Var",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/var/maison_handicapees-83090-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 94 05 10 40",
+      "url": "https://www.mdph.var.fr"
+    }
+  },
+  {
+    "id": "00ac59c8cf8ae14a1f08fd8aef81e3937699273e",
+    "alternateName": "MDPH",
+    "name": "maison_departementale_des_personnes_handicapees_mdph_vaucluse",
+    "title": "Maison départementale des personnes handicapées (MDPH) - Vaucluse",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/vaucluse/maison_handicapees-84007-01",
+    "metadata": {
+      "email": "accueilmdph@mdph84.fr",
+      "telephone": "08 00 80 05 79",
+      "url": ""
+    }
+  },
+  {
+    "id": "cb79fe3e669a2430f8ea3ac89be725d875f9de05",
+    "alternateName": "MDPH",
+    "name": "maison_departementale_des_personnes_handicapees_mdph_vendee",
+    "title": "Maison départementale des personnes handicapées (MDPH) - Vendée",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/vendee/maison_handicapees-85191-01",
+    "metadata": {
+      "email": "mdph@vendee.fr",
+      "telephone": "08 00 85 85 01",
+      "url": "http://www.vendee.frmdph"
+    }
+  },
+  {
+    "id": "91577e9a7ed14f386bd3fb015bd3eae2ebdd43b6",
+    "alternateName": "MDPH",
+    "name": "maison_departementale_des_personnes_handicapees_mdph_vienne",
+    "title": "Maison départementale des personnes handicapées (MDPH) - Vienne",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/vienne/maison_handicapees-86194-01",
+    "metadata": {
+      "email": "mdph-accueil@departement86.fr",
+      "telephone": "05 49 45 97 77",
+      "url": "http://www.mdph86.fr/529-la-mdph-86.htm"
+    }
+  },
+  {
+    "id": "ba5519dc5d660eeee98dc4cc066fa2b58d1a6fde",
+    "alternateName": "MDPH",
+    "name": "maison_departementale_des_personnes_handicapees_mdph_vosges",
+    "title": "Maison départementale des personnes handicapées (MDPH) - Vosges",
+    "url": "https://lannuaire.service-public.fr/grand-est/vosges/maison_handicapees-88160-01",
+    "metadata": {
+      "email": "mdph88@vosges.fr",
+      "telephone": "03 29 29 09 91",
+      "url": "http://www.handicap.gouv.fr"
+    }
+  },
+  {
+    "id": "dbbcbe753f5a85dcf86a44a9cc371975362ae039",
+    "alternateName": "MDPH",
+    "name": "maison_departementale_des_personnes_handicapees_mdph_yonne",
+    "title": "Maison départementale des personnes handicapées (MDPH) - Yonne",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/yonne/maison_handicapees-89024-01",
+    "metadata": {
+      "email": "mdphy@yonne.fr",
+      "telephone": "03 86 72 89 72",
+      "url": "http://www.mdph89.fr"
+    }
+  },
+  {
+    "id": "e2782c5bf8d117c5f2a09198f3b6e9ab469b2f9e",
+    "alternateName": "MDPH",
+    "name": "maison_departementale_des_personnes_handicapees_mdph_yvelines",
+    "title": "Maison départementale des personnes handicapées (MDPH) - Yvelines",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/yvelines/maison_handicapees-78646-01",
+    "metadata": {
+      "email": "autonomie78@yvelines.fr",
+      "telephone": "08 01 80 11 00",
+      "url": "https://www.yvelines.fr/solidarite"
+    }
+  }
+]

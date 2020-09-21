@@ -1,0 +1,1719 @@
+[
+  {
+    "id": "11878953d7e05274280ef82bdc2f55451beed82a",
+    "name": "tribunal_pour_enfants_d_agen",
+    "title": "Tribunal pour enfants d'Agen",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/lot-et-garonne/te-47001-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 53 77 95 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "e688061e8ed8e18f4fbe5490b08e041f4ab3e905",
+    "name": "tribunal_pour_enfants_d_aix_en_provence",
+    "title": "Tribunal pour enfants d'Aix-en-Provence",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/te-13001-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 42 33 83 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "f9feec66ee128c4de76399cce3f878cc862d62d2",
+    "name": "tribunal_pour_enfants_d_ajaccio",
+    "title": "Tribunal pour enfants d'Ajaccio",
+    "url": "https://lannuaire.service-public.fr/corse/corse-du-sud/te-2A004-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 95 23 77 72",
+      "url": ""
+    }
+  },
+  {
+    "id": "aebe6221d2af2dd716936c9e2d6d32a9e69f03ea",
+    "name": "tribunal_pour_enfants_d_albi",
+    "title": "Tribunal pour enfants d'Albi",
+    "url": "https://lannuaire.service-public.fr/occitanie/tarn/te-81004-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 63 49 49 80",
+      "url": ""
+    }
+  },
+  {
+    "id": "48c114d8251ae68adacc3a9d9e9b0cbda67f4f20",
+    "name": "tribunal_pour_enfants_d_alencon",
+    "title": "Tribunal pour enfants d'Alençon",
+    "url": "https://lannuaire.service-public.fr/normandie/orne/te-61001-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 33 82 25 24",
+      "url": ""
+    }
+  },
+  {
+    "id": "fb0119b8082225ec0bcccbd44a4664c330262512",
+    "name": "tribunal_pour_enfants_d_amiens",
+    "title": "Tribunal pour enfants d'Amiens",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/somme/te-80021-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 22 82 35 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "9d4243bf90fb6ce7776d596e92fdde99eae8e41c",
+    "name": "tribunal_pour_enfants_d_angers",
+    "title": "Tribunal pour enfants d'Angers",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/maine-et-loire/te-49007-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 41 20 51 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "b0493a6f92f79f334484abfa4a80bfff7a637d37",
+    "name": "tribunal_pour_enfants_d_angouleme",
+    "title": "Tribunal pour enfants d'Angoulême",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/charente/te-16015-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 45 37 11 47",
+      "url": ""
+    }
+  },
+  {
+    "id": "d31aa31ff2fef41f7390b22381772b50c659e478",
+    "name": "tribunal_pour_enfants_d_annecy",
+    "title": "Tribunal pour enfants d'Annecy",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/haute-savoie/te-74010-01",
+    "metadata": {
+      "email": "tpe.annecy@justice.fr",
+      "telephone": "04 50 10 17 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "256f1acb9bf01de0b41f96d5d2816bba1afb8ea5",
+    "name": "tribunal_pour_enfants_d_arras",
+    "title": "Tribunal pour enfants d'Arras",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/pas-de-calais/te-62041-01",
+    "metadata": {
+      "email": "0361473190",
+      "telephone": "03 61 47 31 90",
+      "url": ""
+    }
+  },
+  {
+    "id": "ba71b06ff49409c40f6d414556c4aa980703e143",
+    "name": "tribunal_pour_enfants_d_auch",
+    "title": "Tribunal pour enfants d'Auch",
+    "url": "https://lannuaire.service-public.fr/occitanie/gers/te-32013-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 62 61 67 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "9f526a17b6d81db6ed0374a061fda68dd4ce7206",
+    "name": "tribunal_pour_enfants_d_aurillac",
+    "title": "Tribunal pour enfants d'Aurillac",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/cantal/te-15014-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 71 45 59 59",
+      "url": ""
+    }
+  },
+  {
+    "id": "2c887ed4ef3c8b10416894d135aed2c7a1984104",
+    "name": "tribunal_pour_enfants_d_auxerre",
+    "title": "Tribunal pour enfants d'Auxerre",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/yonne/te-89024-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 86 72 30 10",
+      "url": ""
+    }
+  },
+  {
+    "id": "33acb21c704cf3cd7aa2da98b1f4eda344e89fe8",
+    "name": "tribunal_pour_enfants_d_avesnes_sur_helpe",
+    "title": "Tribunal pour enfants d'Avesnes-sur-Helpe",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/nord/te-59036-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 27 57 78 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "2dca8345c89e71f385733113fda97ab08f997cd8",
+    "name": "tribunal_pour_enfants_d_avignon",
+    "title": "Tribunal pour enfants d'Avignon",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/vaucluse/te-84007-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 32 74 75 06",
+      "url": ""
+    }
+  },
+  {
+    "id": "446b4bc7cc3caeb5029fc9fca5da2160531493fa",
+    "name": "tribunal_pour_enfants_de_basse_terre",
+    "title": "Tribunal pour enfants de Basse-Terre",
+    "url": "https://lannuaire.service-public.fr/guadeloupe/guadeloupe/te-97105-01",
+    "metadata": {
+      "email": "",
+      "telephone": "0(590)410626",
+      "url": ""
+    }
+  },
+  {
+    "id": "de94a9e59e2bbc02295cf53df8f35645d390139a",
+    "name": "tribunal_pour_enfants_de_bastia",
+    "title": "Tribunal pour enfants de Bastia",
+    "url": "https://lannuaire.service-public.fr/corse/haute-corse/te-2B033-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 95 55 23 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "c121a4a7d20741c5254b6940565e01a373d4c679",
+    "name": "tribunal_pour_enfants_de_bayonne",
+    "title": "Tribunal pour enfants de Bayonne",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/pyrenees-atlantiques/te-64102-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 59 44 54 42",
+      "url": ""
+    }
+  },
+  {
+    "id": "0e1c1db492a954ef73042a9ae8921b8b32a20b07",
+    "name": "tribunal_pour_enfants_de_beauvais",
+    "title": "Tribunal pour enfants de Beauvais",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/oise/te-60057-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 44 79 60 65",
+      "url": ""
+    }
+  },
+  {
+    "id": "c200d9d55343927d1e6a534e19495d7c429c8203",
+    "name": "tribunal_pour_enfants_de_belfort",
+    "title": "Tribunal pour enfants de Belfort",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/territoire-de-belfort/te-90010-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 84 58 53 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "b678dcd9cfbc589f89b5ee52f3936f069dee6f96",
+    "name": "tribunal_pour_enfants_de_bergerac",
+    "title": "Tribunal pour enfants de Bergerac",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/dordogne/te-24037-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 53 74 40 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "04f53a0f488fa45e25c43a3c56a0fff1e4c17936",
+    "name": "tribunal_pour_enfants_de_besancon",
+    "title": "Tribunal pour enfants de Besançon",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/doubs/te-25056-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 81 61 60 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "3aec75bda1c62203f54ad418d84c275671bcfee5",
+    "name": "tribunal_pour_enfants_de_bethune",
+    "title": "Tribunal pour enfants de Béthune",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/pas-de-calais/te-62119-01",
+    "metadata": {
+      "email": "tgi-bethune@justice.fr",
+      "telephone": "03 21 68 72 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "dd5b9d43d8bcb150d8350bafa5b3372fd71a655f",
+    "name": "tribunal_pour_enfants_de_beziers",
+    "title": "Tribunal pour enfants de Béziers",
+    "url": "https://lannuaire.service-public.fr/occitanie/herault/te-34032-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 30 17 34 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "3a34f208777b300ac33274eb5876e0acfb0dbaee",
+    "name": "tribunal_pour_enfants_de_blois",
+    "title": "Tribunal pour enfants de Blois",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/loir-et-cher/te-41018-01",
+    "metadata": {
+      "email": "tpe.blois@justice.fr",
+      "telephone": "02 54 44 60 99",
+      "url": ""
+    }
+  },
+  {
+    "id": "0b66d6511189d3b85bd50765d5b5ef71154c35be",
+    "name": "tribunal_pour_enfants_de_bobigny",
+    "title": "Tribunal pour enfants de Bobigny",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/seine-saint-denis/te-93008-01",
+    "metadata": {
+      "email": "",
+      "telephone": "01 48 95 13 93",
+      "url": ""
+    }
+  },
+  {
+    "id": "96c3a0437c6d72e2bce8fb124e174cc30115b96f",
+    "name": "tribunal_pour_enfants_de_bonneville",
+    "title": "Tribunal pour enfants de Bonneville",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/haute-savoie/te-74042-01",
+    "metadata": {
+      "email": "tpe.bonneville@justice.fr",
+      "telephone": "04 56 30 90 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "7811fbccb87dc377a539374e7796c4c2745ef1c9",
+    "name": "tribunal_pour_enfants_de_bordeaux",
+    "title": "Tribunal pour enfants de Bordeaux",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/gironde/te-33063-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 47 33 90 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "4ebcfe4a652ca4af05dc8318c69f7570688b8255",
+    "name": "tribunal_pour_enfants_de_boulogne_sur_mer",
+    "title": "Tribunal pour enfants de Boulogne-Sur-Mer",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/pas-de-calais/te-62160-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 21 99 61 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "46edcd5a938692a9793011d069646b6ec520387c",
+    "name": "tribunal_pour_enfants_de_bourg_en_bresse",
+    "title": "Tribunal pour enfants de Bourg-en-Bresse",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/ain/te-01053-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 26 37 73 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "506d50f70236a27169032f0f25d88d19e488035c",
+    "name": "tribunal_pour_enfants_de_bourges",
+    "title": "Tribunal pour enfants de Bourges",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/cher/te-18033-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 48 68 34 34",
+      "url": ""
+    }
+  },
+  {
+    "id": "8fea5636d94ec5b1c0e1c3a618893579f517afb6",
+    "name": "tribunal_pour_enfants_de_bourgoin_jallieu",
+    "title": "Tribunal pour enfants de Bourgoin-Jallieu",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/isere/te-38053-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 74 28 78 78",
+      "url": ""
+    }
+  },
+  {
+    "id": "9cd36b95784782630f5365fc362566841dc58dbc",
+    "name": "tribunal_pour_enfants_de_brest",
+    "title": "Tribunal pour enfants de Brest",
+    "url": "https://lannuaire.service-public.fr/bretagne/finistere/te-29019-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 98 33 78 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "79c31f94ab8ce8774a42a2d2178283ae7684ae25",
+    "name": "tribunal_pour_enfants_de_brive_la_gaillarde",
+    "title": "Tribunal pour enfants de Brive-la-Gaillarde",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/correze/te-19031-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 55 74 27 32",
+      "url": ""
+    }
+  },
+  {
+    "id": "15cef7a693c866e49a5bde1ed46862f485981250",
+    "name": "tribunal_pour_enfants_de_caen",
+    "title": "Tribunal pour enfants de Caen",
+    "url": "https://lannuaire.service-public.fr/normandie/calvados/te-14118-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 50 10 13 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "dc6d1b0d81c16a72f21a0d448c4471ca4bd70cf7",
+    "name": "tribunal_pour_enfants_de_cahors",
+    "title": "Tribunal pour enfants de Cahors",
+    "url": "https://lannuaire.service-public.fr/occitanie/lot/te-46042-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 65 23 46 50",
+      "url": ""
+    }
+  },
+  {
+    "id": "b2d6e5329c1fe3b7fde47082300a626157fd3313",
+    "name": "tribunal_pour_enfants_de_cambrai",
+    "title": "Tribunal pour enfants de Cambrai",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/nord/te-59122-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 27 73 37 37",
+      "url": ""
+    }
+  },
+  {
+    "id": "70ba70731427c7704d0c90fbdc49f6c4ec2e2e7c",
+    "name": "tribunal_pour_enfants_de_carcassonne",
+    "title": "Tribunal pour enfants de Carcassonne",
+    "url": "https://lannuaire.service-public.fr/occitanie/aude/te-11069-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 68 25 75 45",
+      "url": ""
+    }
+  },
+  {
+    "id": "d59ab793f6adbe1044a344f048957bfeee96148b",
+    "name": "tribunal_pour_enfants_de_carpentras",
+    "title": "Tribunal pour enfants de Carpentras",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/vaucluse/te-84031-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 90 36 23 31",
+      "url": ""
+    }
+  },
+  {
+    "id": "49ac6b721ca4933bbf9cd7df35e7c4189cccc33a",
+    "name": "tribunal_pour_enfants_de_castres",
+    "title": "Tribunal pour enfants de Castres",
+    "url": "https://lannuaire.service-public.fr/occitanie/tarn/te-81065-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 63 51 93 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "218437f924ea2fc05b6c731683ca55d471c682b6",
+    "name": "tribunal_pour_enfants_de_cayenne",
+    "title": "Tribunal pour enfants de Cayenne",
+    "url": "https://lannuaire.service-public.fr/guyane/guyane/te-97302-01",
+    "metadata": {
+      "email": "",
+      "telephone": "0(594)297630",
+      "url": ""
+    }
+  },
+  {
+    "id": "603a9e6c273fc2ef5858bed3d1aca7c850c6aa58",
+    "name": "tribunal_pour_enfants_de_chalons_en_champagne",
+    "title": "Tribunal pour enfants de Châlons-en-Champagne",
+    "url": "https://lannuaire.service-public.fr/grand-est/marne/te-51108-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 26 66 10 42",
+      "url": ""
+    }
+  },
+  {
+    "id": "6d8075d09cac3b621c30e40b5fec42c3473ad759",
+    "name": "tribunal_pour_enfants_de_chalon_sur_saone",
+    "title": "Tribunal pour enfants de Chalon-sur-Saône",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/saone-et-loire/te-71076-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 85 93 77 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "c8d963025f755ad0a862e12347dea85d975750b8",
+    "name": "tribunal_pour_enfants_de_chambery",
+    "title": "Tribunal pour enfants de Chambéry",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/savoie/te-73065-01",
+    "metadata": {
+      "email": "tpe.chambery@justice.fr",
+      "telephone": "04 79 33 60 09",
+      "url": ""
+    }
+  },
+  {
+    "id": "5340be841ce1ae791b80570253227cd9c5165baf",
+    "name": "tribunal_pour_enfants_de_charleville_mezieres",
+    "title": "Tribunal pour enfants de Charleville-Mézières",
+    "url": "https://lannuaire.service-public.fr/grand-est/ardennes/te-08105-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 24 57 29 23",
+      "url": ""
+    }
+  },
+  {
+    "id": "3e7078317c5ff0c0d72458b4cdfeb2d644512132",
+    "name": "tribunal_pour_enfants_de_chartres",
+    "title": "Tribunal pour enfants de Chartres",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/eure-et-loir/te-28085-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 37 18 77 54",
+      "url": ""
+    }
+  },
+  {
+    "id": "ac8f0fcb6caba96617803249732483739ab89716",
+    "name": "tribunal_pour_enfants_de_chateauroux",
+    "title": "Tribunal pour enfants de Châteauroux",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/indre/te-36044-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 54 60 35 25",
+      "url": ""
+    }
+  },
+  {
+    "id": "ac9fccbab1daf273d466b19d6a132b0e2a446f65",
+    "name": "tribunal_pour_enfants_de_chaumont",
+    "title": "Tribunal pour enfants de Chaumont",
+    "url": "https://lannuaire.service-public.fr/grand-est/haute-marne/te-52121-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 25 32 84 20",
+      "url": ""
+    }
+  },
+  {
+    "id": "0376d585bed01fa955930dd6c41b4a10f1c722dc",
+    "name": "tribunal_pour_enfants_de_cherbourg_en_cotentin",
+    "title": "Tribunal pour enfants de Cherbourg-en-Cotentin",
+    "url": "https://lannuaire.service-public.fr/normandie/manche/te-50129-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 33 01 61 61",
+      "url": ""
+    }
+  },
+  {
+    "id": "8b4df875e809b716997692c170797a76b8628bde",
+    "name": "tribunal_pour_enfants_de_clermont_ferrand",
+    "title": "Tribunal pour enfants de Clermont-Ferrand",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/puy-de-dome/te-63113-01",
+    "metadata": {
+      "email": "tgi-clermont-ferrand@justice.fr",
+      "telephone": "04 73 31 77 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "eb32a45dc11f1f3cf91437a1e8763bd5c16f7202",
+    "name": "tribunal_pour_enfants_de_colmar",
+    "title": "Tribunal pour enfants de Colmar",
+    "url": "https://lannuaire.service-public.fr/grand-est/haut-rhin/te-68066-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 89 20 56 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "657c17a5ded037e8710463505d0cd1f41a0bba59",
+    "name": "tribunal_pour_enfants_de_compiegne",
+    "title": "Tribunal pour enfants de Compiègne",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/oise/te-60159-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 44 38 35 35",
+      "url": ""
+    }
+  },
+  {
+    "id": "09d37da0a5b095a92210d3b74a03a3180ff0e097",
+    "name": "tribunal_pour_enfants_de_coutances",
+    "title": "Tribunal pour enfants de Coutances",
+    "url": "https://lannuaire.service-public.fr/normandie/manche/te-50147-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 33 76 68 23",
+      "url": ""
+    }
+  },
+  {
+    "id": "2124cfbfb92345d711d70bc50ad5a9e2e528eae3",
+    "name": "tribunal_pour_enfants_de_creteil",
+    "title": "Tribunal pour enfants de Créteil",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/val-de-marne/te-94028-01",
+    "metadata": {
+      "email": "",
+      "telephone": "01 49 81 16 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "26da1f471a27d90068cdbe3756a953e346b96734",
+    "name": "tribunal_pour_enfants_de_dax",
+    "title": "Tribunal pour enfants de Dax",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/landes/te-40088-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 24 26 34 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "340ef98dc7f87604020755a3c877c89bf0f602c8",
+    "name": "tribunal_pour_enfants_de_dieppe",
+    "title": "Tribunal pour enfants de Dieppe",
+    "url": "https://lannuaire.service-public.fr/normandie/seine-maritime/te-76217-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 35 82 75 55",
+      "url": ""
+    }
+  },
+  {
+    "id": "6b90ecc984cb79f4bf3af404cac26ccc4c5d3f2a",
+    "name": "tribunal_pour_enfants_de_digne_les_bains",
+    "title": "Tribunal pour enfants de Digne-les-Bains",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/alpes-de-haute-provence/te-04070-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 92 31 05 21",
+      "url": ""
+    }
+  },
+  {
+    "id": "438c6ef7fe66a0809eecd75f5e348076976a39fc",
+    "name": "tribunal_pour_enfants_de_dijon",
+    "title": "Tribunal pour enfants de Dijon",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/cote-d-or/te-21231-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 80 70 45 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "a6bf10db30979642604e42ed0293afa48e220ded",
+    "name": "tribunal_pour_enfants_de_douai",
+    "title": "Tribunal pour enfants de Douai",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/nord/te-59178-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 27 93 27 68",
+      "url": ""
+    }
+  },
+  {
+    "id": "1fc90956cf669bb54470b7e58a82054510ad754c",
+    "name": "tribunal_pour_enfants_de_draguignan",
+    "title": "Tribunal pour enfants de Draguignan",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/var/te-83050-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 94 60 57 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "3ba688927df418455628e4934af9d15e7d9200bf",
+    "name": "tribunal_pour_enfants_de_dunkerque",
+    "title": "Tribunal pour enfants de Dunkerque",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/nord/te-59183-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 28 23 53 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "ba0090a01d93681fc0628bd56ed970d85f376fad",
+    "name": "tribunal_pour_enfants_d_epinal",
+    "title": "Tribunal pour enfants d'Epinal",
+    "url": "https://lannuaire.service-public.fr/grand-est/vosges/te-88160-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 29 34 53 53",
+      "url": ""
+    }
+  },
+  {
+    "id": "c91278f32b9881e39e6962b03808245e21d50d82",
+    "name": "tribunal_pour_enfants_d_evreux",
+    "title": "Tribunal pour enfants d'Evreux",
+    "url": "https://lannuaire.service-public.fr/normandie/eure/te-27229-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 32 29 55 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "a21e849db30c6301319000db340458352cc8b9ff",
+    "name": "tribunal_pour_enfants_d_evry",
+    "title": "Tribunal pour enfants d'Evry",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/essonne/te-91228-01",
+    "metadata": {
+      "email": "",
+      "telephone": "01 60 76 78 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "6640c6a3bec4cd199058770297126b80bb46ff89",
+    "name": "tribunal_pour_enfants_de_foix",
+    "title": "Tribunal pour enfants de Foix",
+    "url": "https://lannuaire.service-public.fr/occitanie/ariege/te-09122-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 81 29 11 65",
+      "url": ""
+    }
+  },
+  {
+    "id": "1b86c2ce780deda695a05b4f25d68fbfbb4e8aae",
+    "name": "tribunal_pour_enfants_de_fort_de_france",
+    "title": "Tribunal pour enfants de Fort-de-France",
+    "url": "https://lannuaire.service-public.fr/martinique/martinique/te-97209-01",
+    "metadata": {
+      "email": "",
+      "telephone": "0(596)484141",
+      "url": ""
+    }
+  },
+  {
+    "id": "1ca1e2728aa0b7888fb7119ed36f3935c9f5739e",
+    "name": "tribunal_pour_enfants_de_gap",
+    "title": "Tribunal pour enfants de Gap",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/hautes-alpes/te-05061-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 92 40 70 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "4696d4670ae576b9f0a2abe4726fa28ac92fcb0c",
+    "name": "tribunal_pour_enfants_de_grasse",
+    "title": "Tribunal pour enfants de Grasse",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/alpes-maritimes/te-06069-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 92 60 72 85",
+      "url": ""
+    }
+  },
+  {
+    "id": "48a108eb3be13159ddae47b8cb6308aa36a364cb",
+    "name": "tribunal_pour_enfants_de_grenoble",
+    "title": "Tribunal pour enfants de Grenoble",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/isere/te-38185-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 38 21 22 21",
+      "url": ""
+    }
+  },
+  {
+    "id": "d8cdf0475cd4f7f3e5cb8265bf90c43cd75f952f",
+    "name": "tribunal_pour_enfants_de_gueret",
+    "title": "Tribunal pour enfants de Guéret",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/creuse/te-23096-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 55 51 93 59",
+      "url": ""
+    }
+  },
+  {
+    "id": "6646c23ee9b30dce88c9b8d033d0795a8d258d2d",
+    "name": "tribunal_pour_enfants_du_havre",
+    "title": "Tribunal pour enfants du Havre",
+    "url": "https://lannuaire.service-public.fr/normandie/seine-maritime/te-76351-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 32 92 57 40",
+      "url": ""
+    }
+  },
+  {
+    "id": "b4c58098b1c4683a28097e00ac3342cbda744f0f",
+    "name": "tribunal_pour_enfants_de_laon",
+    "title": "Tribunal pour enfants de Laon",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/aisne/te-02408-01",
+    "metadata": {
+      "email": "",
+      "telephone": "",
+      "url": ""
+    }
+  },
+  {
+    "id": "0962a25ebe6991b9a3312f96520192d6770eeb80",
+    "name": "tribunal_pour_enfants_de_la_rochelle",
+    "title": "Tribunal pour enfants de La Rochelle",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/charente-maritime/te-17300-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 17 83 93 70",
+      "url": ""
+    }
+  },
+  {
+    "id": "16eb5eec0b3792b104a38046c14943b37dc14826",
+    "name": "tribunal_pour_enfants_de_la_roche_sur_yon",
+    "title": "Tribunal pour enfants de La Roche-Sur-Yon",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/vendee/te-85191-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 51 47 61 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "e9f51355388ef0ec7f30de5c72b88b3deb0d3829",
+    "name": "tribunal_pour_enfants_de_laval",
+    "title": "Tribunal pour enfants de Laval",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/mayenne/te-53130-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 43 49 57 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "a7c6b708a9b71f064c82e512aaaed5f696054bb7",
+    "name": "tribunal_pour_enfants_de_libourne",
+    "title": "Tribunal pour enfants de Libourne",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/gironde/te-33243-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 57 55 36 80",
+      "url": ""
+    }
+  },
+  {
+    "id": "78834eae041b5f74b4f492a0d8cdb856bff9fd7f",
+    "name": "tribunal_pour_enfants_de_lille",
+    "title": "Tribunal pour enfants de Lille",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/nord/te-59350-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 20 78 33 33",
+      "url": ""
+    }
+  },
+  {
+    "id": "010a2f80ab5760eb9a8f82c0f2635cf83fc07eeb",
+    "name": "tribunal_pour_enfants_de_limoges",
+    "title": "Tribunal pour enfants de Limoges",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/haute-vienne/te-87085-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 87 19 34 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "208b398228796fd0ecde4256a7243aa9ab22fa59",
+    "name": "tribunal_pour_enfants_de_lons_le_saunier",
+    "title": "Tribunal pour enfants de Lons-Le-Saunier",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/jura/te-39300-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 84 35 13 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "df7d90c10f9b5f7f4d9028e3b26dfb2422d4b6d4",
+    "name": "tribunal_pour_enfants_de_lorient",
+    "title": "Tribunal pour enfants de Lorient",
+    "url": "https://lannuaire.service-public.fr/bretagne/morbihan/te-56121-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 97 84 12 81",
+      "url": ""
+    }
+  },
+  {
+    "id": "dae446240f96cd5b67a5700477166907f9e2377e",
+    "name": "tribunal_pour_enfants_de_lyon",
+    "title": "Tribunal pour enfants de Lyon",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/rhone/te-69383-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 72 60 70 12",
+      "url": ""
+    }
+  },
+  {
+    "id": "4295b5242d5571bbc3a7a303bf637b4729b8c177",
+    "name": "tribunal_pour_enfants_de_macon",
+    "title": "Tribunal pour enfants de Mâcon",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/saone-et-loire/te-71270-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 85 39 92 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "38e67d4a36db17225c2c8e72a60db2b509482b0d",
+    "name": "tribunal_pour_enfants_de_mamoudzou",
+    "title": "Tribunal pour enfants de Mamoudzou",
+    "url": "https://lannuaire.service-public.fr/mayotte/mayotte/te-97611-01",
+    "metadata": {
+      "email": "",
+      "telephone": "0(269)611115",
+      "url": ""
+    }
+  },
+  {
+    "id": "9411e0ca73566adacecc2cf6fe5e9c728ca4a70f",
+    "name": "tribunal_pour_enfants_du_mans",
+    "title": "Tribunal pour enfants du Mans",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/sarthe/te-72181-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 43 83 78 01",
+      "url": ""
+    }
+  },
+  {
+    "id": "91092c2c79450383489778647d6fd9ae94e31f56",
+    "name": "tribunal_pour_enfants_de_marseille",
+    "title": "Tribunal pour enfants de Marseille",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/te-13206-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 91 15 50 50",
+      "url": ""
+    }
+  },
+  {
+    "id": "8255176f67f0257a96550f63936ddf42c9b29b12",
+    "name": "tribunal_pour_enfants_de_mata_utu",
+    "title": "Tribunal pour enfants de Mata-Utu",
+    "url": "https://lannuaire.service-public.fr/collectivites-d-outre-mer/wallis-et-futuna/te-98613-01",
+    "metadata": {
+      "email": "",
+      "telephone": "00(681)722715",
+      "url": ""
+    }
+  },
+  {
+    "id": "7bef7edabf038afa9de554e2e03862bed4fc69d7",
+    "name": "tribunal_pour_enfants_de_meaux",
+    "title": "Tribunal pour enfants de Meaux",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/seine-et-marne/te-77284-01",
+    "metadata": {
+      "email": "",
+      "telephone": "01 60 09 75 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "71fe458ef5c15cfdbe8d47f38593b55356dd416a",
+    "name": "tribunal_pour_enfants_de_melun",
+    "title": "Tribunal pour enfants de Melun",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/seine-et-marne/te-77288-01",
+    "metadata": {
+      "email": "",
+      "telephone": "01 64 79 80 37",
+      "url": ""
+    }
+  },
+  {
+    "id": "69a994def2da5cb4796c9eeec18a2bd2d53eabbe",
+    "name": "tribunal_pour_enfants_de_mende",
+    "title": "Tribunal pour enfants de Mende",
+    "url": "https://lannuaire.service-public.fr/occitanie/lozere/te-48095-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 66 65 28 11",
+      "url": ""
+    }
+  },
+  {
+    "id": "e31ab7f71ebdbe658f4d8eee875c2d2ca51d65ad",
+    "name": "tribunal_pour_enfants_de_metz",
+    "title": "Tribunal pour enfants de Metz",
+    "url": "https://lannuaire.service-public.fr/grand-est/moselle/te-57463-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 87 56 75 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "dedf43a0ac334b7a979a4f3036a551e0c73362f6",
+    "name": "tribunal_pour_enfants_de_montargis",
+    "title": "Tribunal pour enfants de Montargis",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/loiret/te-45208-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 38 87 59 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "af4b7b276cd3a9c7f70b455459f2260603a323d7",
+    "name": "tribunal_pour_enfants_de_montauban",
+    "title": "Tribunal pour enfants de Montauban",
+    "url": "https://lannuaire.service-public.fr/occitanie/tarn-et-garonne/te-82121-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 63 21 40 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "742ccb12559eb7cbe9e2d8a743a437ee9b57719e",
+    "name": "tribunal_pour_enfants_de_montbeliard",
+    "title": "Tribunal pour enfants de Montbéliard",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/doubs/te-25388-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 81 90 70 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "068fbc28a8c2d12acad4579e04b3167f280ce27e",
+    "name": "tribunal_pour_enfants_de_mont_de_marsan",
+    "title": "Tribunal pour enfants de Mont-de-Marsan",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/landes/te-40192-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 58 85 41 64",
+      "url": ""
+    }
+  },
+  {
+    "id": "c28ed7c7bfaad82467ded7914ad2eb52cb5ab2fa",
+    "name": "tribunal_pour_enfants_de_montpellier",
+    "title": "Tribunal pour enfants de Montpellier",
+    "url": "https://lannuaire.service-public.fr/occitanie/herault/te-34172-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 67 12 61 51",
+      "url": ""
+    }
+  },
+  {
+    "id": "c0d5c6d66687fb3d1f98a14e90cf72d13a59219f",
+    "name": "tribunal_pour_enfants_de_moulins",
+    "title": "Tribunal pour enfants de Moulins",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/allier/te-03190-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 70 35 14 55",
+      "url": ""
+    }
+  },
+  {
+    "id": "d6e37a50d9d9b97c6b89e5349b6df19d643c345a",
+    "name": "tribunal_pour_enfants_de_mulhouse",
+    "title": "Tribunal pour enfants de Mulhouse",
+    "url": "https://lannuaire.service-public.fr/grand-est/haut-rhin/te-68224-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 89 66 10 44",
+      "url": ""
+    }
+  },
+  {
+    "id": "0ab14e043dbaf59e5fa850252e4330467739455d",
+    "name": "tribunal_pour_enfants_de_nancy",
+    "title": "Tribunal pour enfants de Nancy",
+    "url": "https://lannuaire.service-public.fr/grand-est/meurthe-et-moselle/te-54395-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 83 90 85 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "a9587f2d8e742aed3bb627e085c102d09fa26cf0",
+    "name": "tribunal_pour_enfants_de_nanterre",
+    "title": "Tribunal pour enfants de Nanterre",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/hauts-de-seine/te-92050-01",
+    "metadata": {
+      "email": "",
+      "telephone": "01 40 97 10 10",
+      "url": ""
+    }
+  },
+  {
+    "id": "6c425be92c1bce106695cfc0150a7e1505510d78",
+    "name": "tribunal_pour_enfants_de_nantes",
+    "title": "Tribunal pour enfants de Nantes",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/loire-atlantique/te-44109-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 51 17 96 74",
+      "url": ""
+    }
+  },
+  {
+    "id": "08716a828510b25f50757808e3cc9940aff8704b",
+    "name": "tribunal_pour_enfants_de_narbonne",
+    "title": "Tribunal pour enfants de Narbonne",
+    "url": "https://lannuaire.service-public.fr/occitanie/aude/te-11262-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 68 32 71 55",
+      "url": ""
+    }
+  },
+  {
+    "id": "ea68a0f4c995845fa722f0d65971a05cb174172a",
+    "name": "tribunal_pour_enfants_de_nevers",
+    "title": "Tribunal pour enfants de Nevers",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/nievre/te-58194-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 86 93 44 44",
+      "url": ""
+    }
+  },
+  {
+    "id": "38ff0239ab17737b2b8ca41bdd36f5beb6dadd5d",
+    "name": "tribunal_pour_enfants_de_nice",
+    "title": "Tribunal pour enfants de Nice",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/alpes-maritimes/te-06088-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 92 17 30 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "6b0f9e939cb8938fd8aa1651eef0fee24cc212f7",
+    "name": "tribunal_pour_enfants_de_nimes",
+    "title": "Tribunal pour enfants de Nîmes",
+    "url": "https://lannuaire.service-public.fr/occitanie/gard/te-30189-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 66 76 47 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "795b140298704ab7f7147aebfc298811ee31ca8d",
+    "name": "tribunal_pour_enfants_de_niort",
+    "title": "Tribunal pour enfants de Niort",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/deux-sevres/te-79191-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 49 77 22 50",
+      "url": ""
+    }
+  },
+  {
+    "id": "ffd88cdab8e7860c264f1e6e45c9f50c79a8dac0",
+    "name": "tribunal_pour_enfants_de_noumea",
+    "title": "Tribunal pour enfants de Nouméa",
+    "url": "https://lannuaire.service-public.fr/collectivites-d-outre-mer/nouvelle-caledonie/te-98818-01",
+    "metadata": {
+      "email": "",
+      "telephone": "00(687)279350",
+      "url": ""
+    }
+  },
+  {
+    "id": "ffd88cdab8e7860c264f1e6e45c9f50c79a8dac0",
+    "alternateName": "section détachée de Koné",
+    "name": "tribunal_pour_enfants_de_noumea",
+    "title": "Tribunal pour enfants de Nouméa",
+    "url": "https://lannuaire.service-public.fr/collectivites-d-outre-mer/nouvelle-caledonie/te-98811-01",
+    "metadata": {
+      "email": "",
+      "telephone": "06 87 35 55 13",
+      "url": ""
+    }
+  },
+  {
+    "id": "7b8bd79d9bfad061dcd9cb1203bf41a91d3ae847",
+    "name": "tribunal_pour_enfants_d_orleans",
+    "title": "Tribunal pour enfants d'Orléans",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/loiret/te-45234-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 38 74 58 34",
+      "url": ""
+    }
+  },
+  {
+    "id": "be2c79506b031dee1a1c5a23b6323c7611759457",
+    "name": "tribunal_pour_enfants_de_papeete",
+    "title": "Tribunal pour enfants de Papeete",
+    "url": "https://lannuaire.service-public.fr/collectivites-d-outre-mer/polynesie-francaise/te-98735-01",
+    "metadata": {
+      "email": "",
+      "telephone": "00(689)415500",
+      "url": ""
+    }
+  },
+  {
+    "id": "20ad6e204dea3dd99ae398b392a2f1bfccca55a4",
+    "name": "tribunal_pour_enfants_de_paris",
+    "title": "Tribunal pour enfants de Paris",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/paris/te-75117-01",
+    "metadata": {
+      "email": "",
+      "telephone": "01 44 32 54 34",
+      "url": ""
+    }
+  },
+  {
+    "id": "d770993d9c036e0b5c9d13c9b3ab74a53ad49ca5",
+    "name": "tribunal_pour_enfants_de_pau",
+    "title": "Tribunal pour enfants de Pau",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/pyrenees-atlantiques/te-64445-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 59 82 46 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "6b53e0d9e6ed1a09fd9c12c960806c4551506959",
+    "name": "tribunal_pour_enfants_de_perigueux",
+    "title": "Tribunal pour enfants de Périgueux",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/dordogne/te-24322-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 53 02 77 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "cea8b700594f8d606e006446bbeae2c7ba46b3a1",
+    "name": "tribunal_pour_enfants_de_perpignan",
+    "title": "Tribunal pour enfants de Perpignan",
+    "url": "https://lannuaire.service-public.fr/occitanie/pyrenees-orientales/te-66136-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 30 19 61 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "8c299575d13de9c839561881e974dd4637b212a8",
+    "name": "tribunal_pour_enfants_de_pointe_a_pitre",
+    "title": "Tribunal pour enfants de Pointe-à-Pitre",
+    "url": "https://lannuaire.service-public.fr/guadeloupe/guadeloupe/te-97120-01",
+    "metadata": {
+      "email": "tpe.tgi-pointe-a-pitre@justice.fr",
+      "telephone": "0(590)477483",
+      "url": ""
+    }
+  },
+  {
+    "id": "11bea1e4c3c897793e22bb9e267de6f782b06781",
+    "name": "tribunal_pour_enfants_de_poitiers",
+    "title": "Tribunal pour enfants de Poitiers",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/vienne/te-86194-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 16 08 04 40",
+      "url": ""
+    }
+  },
+  {
+    "id": "ea5a49332f7aabfb3797c01a953120b5041ab3fe",
+    "name": "tribunal_pour_enfants_de_pontoise",
+    "title": "Tribunal pour enfants de Pontoise",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/val-d-oise/te-95500-01",
+    "metadata": {
+      "email": "",
+      "telephone": "01 72 58 70 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "5d4731f398dfb8c62e5308c28e1b89e02f267b27",
+    "name": "tribunal_pour_enfants_de_privas",
+    "title": "Tribunal pour enfants de Privas",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/ardeche/te-07186-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 75 66 40 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "3ac519b8da920c26dd9d0e720ac78aca24d17dc7",
+    "name": "tribunal_pour_enfants_du_puy_en_velay",
+    "title": "Tribunal pour enfants du Puy-en-Velay",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/haute-loire/te-43157-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 71 09 05 70",
+      "url": ""
+    }
+  },
+  {
+    "id": "b85f60b0fbd297f34adba6f9c7350f3e39cab729",
+    "name": "tribunal_pour_enfants_de_quimper",
+    "title": "Tribunal pour enfants de Quimper",
+    "url": "https://lannuaire.service-public.fr/bretagne/finistere/te-29232-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 98 82 88 06",
+      "url": ""
+    }
+  },
+  {
+    "id": "334f2d3ada2438d81a68b791fb5be3640afe5629",
+    "name": "tribunal_pour_enfants_de_reims",
+    "title": "Tribunal pour enfants de Reims",
+    "url": "https://lannuaire.service-public.fr/grand-est/marne/te-51454-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 26 49 53 53",
+      "url": ""
+    }
+  },
+  {
+    "id": "fb5a2d1a9d022a469b14c640e13a6680c53b4e94",
+    "name": "tribunal_pour_enfants_de_rennes",
+    "title": "Tribunal pour enfants de Rennes",
+    "url": "https://lannuaire.service-public.fr/bretagne/ille-et-vilaine/te-35238-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 99 65 37 37",
+      "url": ""
+    }
+  },
+  {
+    "id": "c2763ceffdfe811abe80a17fb77c2af50100207d",
+    "name": "tribunal_pour_enfants_de_roanne",
+    "title": "Tribunal pour enfants de Roanne",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/loire/te-42187-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 77 44 48 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "9d07bc34ba015c5e77912427720174d76a94fa82",
+    "name": "tribunal_pour_enfants_de_rodez",
+    "title": "Tribunal pour enfants de Rodez",
+    "url": "https://lannuaire.service-public.fr/occitanie/aveyron/te-12202-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 65 73 43 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "59d7646e180e2c61656a1238d1a4ad41d86152a9",
+    "name": "tribunal_pour_enfants_de_rouen",
+    "title": "Tribunal pour enfants de Rouen",
+    "url": "https://lannuaire.service-public.fr/normandie/seine-maritime/te-76540-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 35 52 87 52",
+      "url": ""
+    }
+  },
+  {
+    "id": "5130a58c203e786b88e8fbf8da8e2ef0c6de47a0",
+    "name": "tribunal_pour_enfants_de_saint_brieuc",
+    "title": "Tribunal pour enfants de Saint-Brieuc",
+    "url": "https://lannuaire.service-public.fr/bretagne/cotes-d-armor/te-22278-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 96 62 30 07",
+      "url": ""
+    }
+  },
+  {
+    "id": "3b94853cdd52da3024d4fd9a2b2b8082067455b9",
+    "name": "tribunal_pour_enfants_de_saint_denis_de_la_reunion",
+    "title": "Tribunal pour enfants de Saint-Denis-de-La Réunion",
+    "url": "https://lannuaire.service-public.fr/la-reunion/reunion/te-97411-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 62 40 23 45",
+      "url": ""
+    }
+  },
+  {
+    "id": "b55074c05b307e30b1bd0e2c43434b3c8556adde",
+    "name": "tribunal_pour_enfants_de_saintes",
+    "title": "Tribunal pour enfants de Saintes",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/charente-maritime/te-17415-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 46 92 72 27",
+      "url": ""
+    }
+  },
+  {
+    "id": "48c5f0b1c741122254c978029da18d8045ca2b07",
+    "name": "tribunal_pour_enfants_de_saint_etienne",
+    "title": "Tribunal pour enfants de Saint-Etienne",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/loire/te-42218-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 77 43 34 30",
+      "url": ""
+    }
+  },
+  {
+    "id": "bbccf2155a3c7b017ac494f174436f5ac47371dd",
+    "name": "tribunal_pour_enfants_de_saint_malo",
+    "title": "Tribunal pour enfants de Saint-Malo",
+    "url": "https://lannuaire.service-public.fr/bretagne/ille-et-vilaine/te-35288-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 99 20 20 85",
+      "url": ""
+    }
+  },
+  {
+    "id": "6ce431b6327b9ec9d27cb9b2457b9889754286ee",
+    "name": "tribunal_pour_enfants_de_saint_nazaire",
+    "title": "Tribunal pour enfants de Saint-Nazaire",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/loire-atlantique/te-44184-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 72 27 30 30",
+      "url": ""
+    }
+  },
+  {
+    "id": "397234875fad84fc9e43d738896d9389166b3cd9",
+    "name": "tribunal_pour_enfants_de_saint_omer",
+    "title": "Tribunal pour enfants de Saint-Omer",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/pas-de-calais/te-62765-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 21 98 79 70",
+      "url": ""
+    }
+  },
+  {
+    "id": "94bcb3ec1be7c548fce9b7778fea9c21273cfba6",
+    "name": "tribunal_pour_enfants_de_saint_pierre",
+    "title": "Tribunal pour enfants de Saint-Pierre",
+    "url": "https://lannuaire.service-public.fr/la-reunion/reunion/te-97416-01",
+    "metadata": {
+      "email": "",
+      "telephone": "0(262)961000",
+      "url": ""
+    }
+  },
+  {
+    "id": "091ce261d67950656b1df61eaf16c653f23b1b8c",
+    "name": "tribunal_pour_enfants_de_saint_pierre_et_miquelon",
+    "title": "Tribunal pour enfants de Saint-Pierre et Miquelon",
+    "url": "https://lannuaire.service-public.fr/collectivites-d-outre-mer/saint-pierre-et-miquelon/te-97502-01",
+    "metadata": {
+      "email": "",
+      "telephone": "0(508)410320",
+      "url": ""
+    }
+  },
+  {
+    "id": "245d672080a7c8c17cffca19e0c5475847964af2",
+    "name": "tribunal_pour_enfants_de_saint_quentin",
+    "title": "Tribunal pour enfants de Saint-Quentin",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/aisne/te-02691-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 23 05 89 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "39c76ae33f43b2f80e09d133d1deb651244978ca",
+    "name": "tribunal_pour_enfants_de_sarreguemines",
+    "title": "Tribunal pour enfants de Sarreguemines",
+    "url": "https://lannuaire.service-public.fr/grand-est/moselle/te-57631-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 87 28 31 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "64e32bea581312853661d1935067ae955124bafc",
+    "name": "tribunal_pour_enfants_de_saverne",
+    "title": "Tribunal pour enfants de Saverne",
+    "url": "https://lannuaire.service-public.fr/grand-est/bas-rhin/te-67437-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 88 71 61 80",
+      "url": ""
+    }
+  },
+  {
+    "id": "831c559dbadf5f9180e40e60a5e9da59fdce36f2",
+    "name": "tribunal_pour_enfants_de_senlis",
+    "title": "Tribunal pour enfants de Senlis",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/oise/te-60612-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 44 53 91 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "e31744a810ea445dea4f19cbc3074ef11bb3f713",
+    "name": "tribunal_pour_enfants_de_soissons",
+    "title": "Tribunal pour enfants de Soissons",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/aisne/te-02722-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 23 76 39 39",
+      "url": ""
+    }
+  },
+  {
+    "id": "df582e62ffb89a4095188f6f90943c5c78cd523e",
+    "name": "tribunal_pour_enfants_de_strasbourg",
+    "title": "Tribunal pour enfants de Strasbourg",
+    "url": "https://lannuaire.service-public.fr/grand-est/bas-rhin/te-67482-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 88 75 27 56",
+      "url": ""
+    }
+  },
+  {
+    "id": "29999543a33ca1728d2cf5812892ed208734da3b",
+    "name": "tribunal_pour_enfants_de_tarascon",
+    "title": "Tribunal pour enfants de Tarascon",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/te-13108-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 88 65 81 56",
+      "url": ""
+    }
+  },
+  {
+    "id": "4ebdee9c480742e05d91061b3bcb48e663c447d7",
+    "name": "tribunal_pour_enfants_de_tarbes",
+    "title": "Tribunal pour enfants de Tarbes",
+    "url": "https://lannuaire.service-public.fr/occitanie/hautes-pyrenees/te-65440-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 62 51 77 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "c420e7476305b5833f5483dcfba8d19abb22e153",
+    "name": "tribunal_pour_enfants_de_thionville",
+    "title": "Tribunal pour enfants de Thionville",
+    "url": "https://lannuaire.service-public.fr/grand-est/moselle/te-57672-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 82 82 43 50",
+      "url": ""
+    }
+  },
+  {
+    "id": "b1cf6b7ae9838d5c4a2570ccc3f2c98ae6c8bf3b",
+    "name": "tribunal_pour_enfants_de_thonon_les_bains",
+    "title": "Tribunal pour enfants de Thonon-les-Bains",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/haute-savoie/te-74281-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 50 81 20 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "4aad40ae7638b9bf12e652a39ae941440750bcfd",
+    "name": "tribunal_pour_enfants_de_toulon",
+    "title": "Tribunal pour enfants de Toulon",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/var/te-83137-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 94 18 90 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "2acdf4e7cab30386e2ceb60b82335cc8ec126358",
+    "name": "tribunal_pour_enfants_de_toulouse",
+    "title": "Tribunal pour enfants de Toulouse",
+    "url": "https://lannuaire.service-public.fr/occitanie/haute-garonne/te-31555-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 61 33 75 15",
+      "url": ""
+    }
+  },
+  {
+    "id": "a3c99b57efb00d56f719cbcf8094151ffecebdb5",
+    "name": "tribunal_pour_enfants_de_tours",
+    "title": "Tribunal pour enfants de Tours",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/indre-et-loire/te-37261-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 47 60 26 60",
+      "url": ""
+    }
+  },
+  {
+    "id": "c87f81488e26ac09e5b3ba844366850aa95cc0af",
+    "name": "tribunal_pour_enfants_de_troyes",
+    "title": "Tribunal pour enfants de Troyes",
+    "url": "https://lannuaire.service-public.fr/grand-est/aube/te-10387-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 25 43 55 70",
+      "url": ""
+    }
+  },
+  {
+    "id": "b99a6cb578fc76afb06e023b9f91b155d587861a",
+    "name": "tribunal_pour_enfants_de_val_de_briey",
+    "title": "Tribunal pour enfants de Val de Briey",
+    "url": "https://lannuaire.service-public.fr/grand-est/meurthe-et-moselle/te-54099-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 82 47 56 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "7ee5c5a0c70500da1e1f2e30e8486fcf871b11fd",
+    "name": "tribunal_pour_enfants_de_valence",
+    "title": "Tribunal pour enfants de Valence",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/drome/te-26362-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 75 75 49 49",
+      "url": ""
+    }
+  },
+  {
+    "id": "dfc7d660ee727cc9816e29cae65551643221261b",
+    "name": "tribunal_pour_enfants_de_valenciennes",
+    "title": "Tribunal pour enfants de Valenciennes",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/nord/te-59606-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 27 14 67 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "74d71a070d7ccb5ce037e880b2e90b3932b469d1",
+    "name": "tribunal_pour_enfants_de_vannes",
+    "title": "Tribunal pour enfants de Vannes",
+    "url": "https://lannuaire.service-public.fr/bretagne/morbihan/te-56260-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 97 43 77 09",
+      "url": ""
+    }
+  },
+  {
+    "id": "49c8d59ca11820bc7eb422c57d295925dcb3f8f1",
+    "name": "tribunal_pour_enfants_de_verdun",
+    "title": "Tribunal pour enfants de Verdun",
+    "url": "https://lannuaire.service-public.fr/grand-est/meuse/te-55545-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 29 86 14 05",
+      "url": ""
+    }
+  },
+  {
+    "id": "0def7a167377962203352af8a2b8ea157a691894",
+    "name": "tribunal_pour_enfants_de_versailles",
+    "title": "Tribunal pour enfants de Versailles",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/yvelines/te-78646-01",
+    "metadata": {
+      "email": "",
+      "telephone": "01 39 07 39 07",
+      "url": ""
+    }
+  },
+  {
+    "id": "4f213d9f9e150b9b161ca5e74d02e21b8080e4e2",
+    "name": "tribunal_pour_enfants_de_vesoul",
+    "title": "Tribunal pour enfants de Vesoul",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/haute-saone/te-70550-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 84 78 58 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "41bf13bac8e1e2b4b53fddff4c0deb2cb7b6dea0",
+    "name": "tribunal_pour_enfants_de_vienne",
+    "title": "Tribunal pour enfants de Vienne",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/isere/te-38544-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 74 78 81 81",
+      "url": ""
+    }
+  },
+  {
+    "id": "20b877788764697b6696954382efa0608b42bd1c",
+    "name": "tribunal_pour_enfants_de_villefranche_sur_saone",
+    "title": "Tribunal pour enfants de Villefranche-sur-Saône",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/rhone/te-69264-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 74 65 63 63",
+      "url": ""
+    }
+  }
+]

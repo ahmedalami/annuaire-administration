@@ -1,0 +1,277 @@
+[
+  {
+    "id": "9d5f0a09943f5ccafdda6fef9b3f78d5a82052b5",
+    "name": "direction_de_lindustrie_des_mines_et_de_lenergie_nouvelle_caledonie",
+    "title": "Direction de l'industrie, des mines et de l'énergie - Nouvelle-Calédonie",
+    "url": "https://lannuaire.service-public.fr/collectivites-d-outre-mer/nouvelle-caledonie/dreal-98818-01",
+    "metadata": {
+      "email": "dimenc@gouv.nc",
+      "telephone": "+687 27 02 30",
+      "url": "https://dimenc.gouv.nc/"
+    }
+  },
+  {
+    "id": "00ab97081366f6cead5490c7bdbd1b8a336793d9",
+    "alternateName": "DRIEE",
+    "name": "direction_regionale_et_interdepartementale_de_lenvironnement_et_de_lenergie_driee_ile_de_france",
+    "title": "Direction régionale et interdépartementale de l'environnement et de l'énergie (DRIEE) - Île-de-France",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/paris/dreal-75104-01",
+    "metadata": {
+      "email": "driee-if@developpement-durable.gouv.fr",
+      "telephone": "01 87 36 45 00",
+      "url": "http://www.driee.ile-de-france.developpement-durable.gouv.fr"
+    }
+  },
+  {
+    "id": "0602fa86a7d17d554671c5b91691836471974922",
+    "alternateName": "DREAL",
+    "name": "direction_regionale_de_lenvironnement_de_lamenagement_et_du_logement_dreal_auvergne_rhone_alpes_siege_de_lyon",
+    "title": "Direction régionale de l'environnement, de l'aménagement et du logement (DREAL) - Auvergne-Rhône-Alpes - Siège de Lyon",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/rhone/dreal-69386-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 26 28 60 00",
+      "url": "http://www.auvergne-rhone-alpes.developpement-durable.gouv.fr"
+    }
+  },
+  {
+    "id": "2fa46c2a4b71179b519e509bc5bb4cc768cefe3a",
+    "alternateName": "DREAL",
+    "name": "direction_regionale_de_lenvironnement_de_lamenagement_et_du_logement_dreal_auvergne_rhone_alpes_site_de_clermont_ferrand",
+    "title": "Direction régionale de l'environnement, de l'aménagement et du logement (DREAL) - Auvergne- Rhône-Alpes - Site de Clermont-Ferrand",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/puy-de-dome/dreal-63113-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 73 43 16 00",
+      "url": "http://www.auvergne-rhone-alpes.developpement-durable.gouv.fr"
+    }
+  },
+  {
+    "id": "9d930f52545966fbfb2a0c7f28dfe3d8ca7c5736",
+    "alternateName": "DREAL",
+    "name": "direction_regionale_de_lenvironnement_de_lamenagement_et_du_logement_dreal_bourgogne_franche_comte_siege_de_besancon",
+    "title": "Direction régionale de l'environnement, de l'aménagement et du logement (DREAL) - Bourgogne-Franche-Comté - Siège de Besançon",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/doubs/dreal-25056-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 81 21 67 00",
+      "url": "http://www.bourgogne-franche-comte.developpement-durable.gouv.fr"
+    }
+  },
+  {
+    "id": "248b5da94f41f39d83f90d058fda11c9f819e9da",
+    "alternateName": "DREAL",
+    "name": "direction_regionale_de_lenvironnement_de_lamenagement_et_du_logement_dreal_bourgogne_franche_comte_site_de_dijon",
+    "title": "Direction régionale de l'environnement, de l'aménagement et du logement (DREAL) - Bourgogne-Franche-Comté - Site de Dijon",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/cote-d-or/dreal-21231-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 45 83 22 22",
+      "url": "http://www.bourgogne-franche-comte.developpement-durable.gouv.fr"
+    }
+  },
+  {
+    "id": "ad0a4cca93f6905d99bdcfb47431e334dc82c437",
+    "alternateName": "DREAL",
+    "name": "direction_regionale_de_lenvironnement_de_lamenagement_et_du_logement_dreal_bretagne",
+    "title": "Direction régionale de l'environnement, de l'aménagement et du logement (DREAL) - Bretagne",
+    "url": "https://lannuaire.service-public.fr/bretagne/ille-et-vilaine/dreal-35238-01",
+    "metadata": {
+      "email": "DRE-Bretagne@developpement-durable.gouv.fr",
+      "telephone": "02 99 33 45 55",
+      "url": "http://www.bretagne.developpement-durable.gouv.fr"
+    }
+  },
+  {
+    "id": "f6c635bf0b4c97e2be6b8c55dfc1f097eccf0d59",
+    "alternateName": "DREAL",
+    "name": "direction_regionale_de_lenvironnement_de_lamenagement_et_du_logement_dreal_centre_val_de_loire",
+    "title": "Direction régionale de l'environnement, de l'aménagement et du logement (DREAL) - Centre-Val-de-Loire",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/loiret/dreal-45234-01",
+    "metadata": {
+      "email": "dreal-centre@developpement-durable.gouv.fr",
+      "telephone": "02 36 17 41 41",
+      "url": "http://www.centre.developpement-durable.gouv.fr"
+    }
+  },
+  {
+    "id": "70388d3b3aa9bbfa478ce793ada0131836ac3b02",
+    "alternateName": "DREAL",
+    "name": "direction_regionale_de_lenvironnement_de_lamenagement_et_du_logement_dreal_corse",
+    "title": "Direction régionale de l'environnement, de l'aménagement et du logement (DREAL) - Corse",
+    "url": "https://lannuaire.service-public.fr/corse/corse-du-sud/dreal-2A004-01",
+    "metadata": {
+      "email": "DREAL-corse@developpement-durable.gouv.fr",
+      "telephone": "04 95 51 79 70",
+      "url": "http://www.corse.developpement-durable.gouv.fr"
+    }
+  },
+  {
+    "id": "4a69399c3ebdabc634e67bf6b254ad6df183bab5",
+    "alternateName": "DREAL",
+    "name": "direction_regionale_de_lenvironnement_de_lamenagement_et_du_logement_dreal_grand_est_siege_de_metz",
+    "title": "Direction régionale de l'environnement, de l'aménagement et du logement (DREAL) - Grand Est - Siège de Metz",
+    "url": "https://lannuaire.service-public.fr/grand-est/moselle/dreal-57463-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 87 62 81 00",
+      "url": "http://www.grand-est.developpement-durable.gouv.fr"
+    }
+  },
+  {
+    "id": "9a312288af4f3eb0af15f26fb44f419e8bf295bd",
+    "alternateName": "DREAL",
+    "name": "direction_regionale_de_lenvironnement_de_lamenagement_et_du_logement_dreal_grand_est_site_de_chalons_en_champagne",
+    "title": "Direction régionale de l'environnement, de l'aménagement et du logement (DREAL) - Grand Est - Site de Châlons-en-Champagne",
+    "url": "https://lannuaire.service-public.fr/grand-est/marne/dreal-51108-01",
+    "metadata": {
+      "email": "dreal-grand-est@developpement-durable.gouv.fr",
+      "telephone": "03 51 41 60 00",
+      "url": "http://www.grand-est.developpement-durable.gouv.fr"
+    }
+  },
+  {
+    "id": "930eb7fb31ab20c9fc1c115072e4b3ac3a48062c",
+    "alternateName": "DREAL",
+    "name": "direction_regionale_de_lenvironnement_de_lamenagement_et_du_logement_dreal_grand_est_site_de_strasbourg",
+    "title": "Direction régionale de l'environnement, de l'aménagement et du logement (DREAL) - Grand Est - Site de Strasbourg",
+    "url": "https://lannuaire.service-public.fr/grand-est/bas-rhin/dreal-67482-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 88 13 05 00",
+      "url": "http://www.grand-est.developpement-durable.gouv.fr"
+    }
+  },
+  {
+    "id": "8c8aee74acdbd6a14935f1432ee492e94e17dab8",
+    "alternateName": "DREAL",
+    "name": "direction_regionale_de_lenvironnement_de_lamenagement_et_du_logement_dreal_hauts_de_france_siege_de_lille",
+    "title": "Direction régionale de l'environnement, de l'aménagement et du logement (DREAL) - Hauts-de-France - Siège de Lille",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/nord/dreal-59350-01",
+    "metadata": {
+      "email": "Contact",
+      "telephone": "03 20 13 48 48",
+      "url": "http://www.hauts-de-france.developpement-durable.gouv.fr"
+    }
+  },
+  {
+    "id": "1a25af4f035667703903f43d0a29c3536c85ff5a",
+    "alternateName": "DREAL",
+    "name": "direction_regionale_de_lenvironnement_de_lamenagement_et_du_logement_dreal_hauts_de_france_site_d_amiens",
+    "title": "Direction régionale de l'environnement, de l'aménagement et du logement (DREAL) - Hauts-de-France - Site d'Amiens",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/somme/dreal-80021-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 22 82 25 00",
+      "url": "http://www.hauts-de-france.developpement-durable.gouv.fr"
+    }
+  },
+  {
+    "id": "d0eb4f6e8cd5ef156e0b066d77a9c62253a2cdbc",
+    "alternateName": "DREAL",
+    "name": "direction_regionale_de_lenvironnement_de_lamenagement_et_du_logement_dreal_normandie_siege_de_rouen",
+    "title": "Direction régionale de l'environnement, de l'aménagement et du logement (DREAL) - Normandie - Siège de Rouen",
+    "url": "https://lannuaire.service-public.fr/normandie/seine-maritime/dreal-76540-01",
+    "metadata": {
+      "email": "dreal-normandie@developpement-durable.gouv.fr",
+      "telephone": "02 35 58 52 80",
+      "url": "http://www.normandie.developpement-durable.gouv.fr"
+    }
+  },
+  {
+    "id": "82fbea3b61beef488b84c4bb48936b96f9f3e8f8",
+    "alternateName": "DREAL",
+    "name": "direction_regionale_de_lenvironnement_de_lamenagement_et_du_logement_dreal_normandie_site_de_caen",
+    "title": "Direction régionale de l'environnement, de l'aménagement et du logement (DREAL) - Normandie - Site de Caen",
+    "url": "https://lannuaire.service-public.fr/normandie/calvados/dreal-14118-01",
+    "metadata": {
+      "email": "dreal-normandie@developpement-durable.gouv.fr",
+      "telephone": "02 50 01 83 00",
+      "url": "http://www.normandie.developpement-durable.gouv.fr"
+    }
+  },
+  {
+    "id": "077fcea0b64a0a17724ad5e29bfb9e81b596b592",
+    "alternateName": "DREAL",
+    "name": "direction_regionale_de_lenvironnement_de_lamenagement_et_du_logement_dreal_nouvelle_aquitaine_siege_de_poitiers",
+    "title": "Direction régionale de l'environnement, de l'aménagement et du logement (DREAL) - Nouvelle-Aquitaine - Siège de Poitiers",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/vienne/dreal-86194-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 49 55 63 63",
+      "url": "http://www.nouvelle-aquitaine.developpement-durable.gouv.fr"
+    }
+  },
+  {
+    "id": "ed144b66b14f596152092bfd25ab89f057a46b6f",
+    "alternateName": "DREAL",
+    "name": "direction_regionale_de_lenvironnement_de_lamenagement_et_du_logement_dreal_nouvelle_aquitaine_site_de_bordeaux",
+    "title": "Direction régionale de l'environnement, de l'aménagement et du logement (DREAL) - Nouvelle-Aquitaine - Site de Bordeaux",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/gironde/dreal-33063-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 56 24 88 22",
+      "url": "http://www.nouvelle-aquitaine.developpement-durable.gouv.fr"
+    }
+  },
+  {
+    "id": "bae56414da35fa7b120ec65076936ca3fbf19151",
+    "alternateName": "DREAL",
+    "name": "direction_regionale_de_lenvironnement_de_lamenagement_et_du_logement_dreal_nouvelle_aquitaine_site_de_limoges",
+    "title": "Direction régionale de l'environnement, de l'aménagement et du logement (DREAL) - Nouvelle-Aquitaine - Site de Limoges",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/haute-vienne/dreal-87085-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 55 12 90 00",
+      "url": "http://www.nouvelle-aquitaine.developpement-durable.gouv.fr"
+    }
+  },
+  {
+    "id": "f86348356db618a6e9d2832b296834ee7e667e10",
+    "alternateName": "DREAL",
+    "name": "direction_regionale_de_lenvironnement_de_lamenagement_et_du_logement_dreal_occitanie_siege_de_toulouse",
+    "title": "Direction régionale de l'environnement, de l'aménagement et du logement (DREAL) - Occitanie - Siège de Toulouse",
+    "url": "https://lannuaire.service-public.fr/occitanie/haute-garonne/dreal-31555-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 61 58 50 00",
+      "url": "http://www.occitanie.developpement-durable.gouv.fr"
+    }
+  },
+  {
+    "id": "faba4f7e8b49fd6b9932ef6ce51d98304b9f048f",
+    "alternateName": "DREAL",
+    "name": "direction_regionale_de_lenvironnement_de_lamenagement_et_du_logement_dreal_occitanie_site_de_montpellier",
+    "title": "Direction régionale de l'environnement, de l'aménagement et du logement (DREAL) - Occitanie - Site de Montpellier",
+    "url": "https://lannuaire.service-public.fr/occitanie/herault/dreal-34172-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 34 46 64 00",
+      "url": "http://www.occitanie.developpement-durable.gouv.fr"
+    }
+  },
+  {
+    "id": "e69f46eb1056fa7863517d611a2f95be5f269cb6",
+    "alternateName": "DREAL",
+    "name": "direction_regionale_de_lenvironnement_de_lamenagement_et_du_logement_dreal_pays_de_la_loire",
+    "title": "Direction régionale de l'environnement, de l'aménagement et du logement (DREAL) - Pays de la Loire",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/loire-atlantique/dreal-44109-01",
+    "metadata": {
+      "email": "Dreal-Pays-de-la-Loire@developpement-durable.gouv.fr",
+      "telephone": "02 72 74 73 00",
+      "url": "http://www.pays-de-la-loire.developpement-durable.gouv.fr"
+    }
+  },
+  {
+    "id": "ea24e24a744ddc511d27ca914abf4c2e1ff59add",
+    "alternateName": "DREAL",
+    "name": "direction_regionale_de_lenvironnement_de_lamenagement_et_du_logement_dreal_provence_alpes_cote_d_azur",
+    "title": "Direction régionale de l'environnement, de l'aménagement et du logement (DREAL) - Provence-Alpes-Côte-d'Azur",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/dreal-13203-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 88 22 61 00",
+      "url": "http://www.paca.developpement-durable.gouv.fr"
+    }
+  }
+]

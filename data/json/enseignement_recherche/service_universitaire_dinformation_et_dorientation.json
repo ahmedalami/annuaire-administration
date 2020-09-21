@@ -1,0 +1,743 @@
+[
+  {
+    "id": "a778333ef97594616a6f519c2113249e0a4befd0",
+    "name": "cap_avenir_universite_artois",
+    "title": "Cap Avenir - Université Artois",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/pas-de-calais/suio-62041-01",
+    "metadata": {
+      "email": "capavenir-arras@univ-artois.fr",
+      "telephone": "03 21 60 37 15",
+      "url": "http://www.univ-artois.fr"
+    }
+  },
+  {
+    "id": "a2f103d4689a5f34c7b86d19c6f47dfd186d2328",
+    "alternateName": " Dosip",
+    "name": "direction_de_lorientation_des_stage_et_de_linsertion_professionnelle_dosip_universite_bordeaux_montaigne_secteur_langues_lettres_arts",
+    "title": "Direction de l'orientation, des stage et de l'insertion professionnelle ( Dosip) - Université Bordeaux Montaigne - Secteur langues, lettres, arts",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/gironde/suio-33318-01",
+    "metadata": {
+      "email": "dosip@u-bordeaux-montaigne.fr",
+      "telephone": "05 57 12 45 00",
+      "url": "http://www.u-bordeaux-montaigne.fr"
+    }
+  },
+  {
+    "id": "31576277db9aaa8343f5364e4b62479862700e5e",
+    "name": "direction_de_lorientation_et_de_linsertion_professionnelle_de_luniversite_de_cergy_pontoise",
+    "title": "Direction de l'orientation et de l'insertion professionnelle de l'université de Cergy-Pontoise",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/val-d-oise/suio-95127-01",
+    "metadata": {
+      "email": "doip@ml.u-cergy.fr",
+      "telephone": "01 34 25 63 22",
+      "url": "http://www.u-cergy.fr"
+    }
+  },
+  {
+    "id": "963768ed74388d814e2e74375b07ba41be41e02b",
+    "name": "direction_de_lorientation_insertion_professionnelle_universite_de_grenoble",
+    "title": "Direction de l'orientation insertion professionnelle - Université de Grenoble",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/isere/suio-38185-03",
+    "metadata": {
+      "email": "orientation-insertion@univ-grenoble-alpes.fr",
+      "telephone": "04 76 82 55 45",
+      "url": "https://www.univ-grenoble-alpes.fr"
+    }
+  },
+  {
+    "id": "15b375a4a7c2f3747bd095a6027f7c217558a9d0",
+    "name": "direction_de_lorientation_des_stages_et_de_linsertion_professionnelle_universite_perpignan",
+    "title": "Direction de l'orientation des stages et de l'insertion professionnelle - Université Perpignan",
+    "url": "https://lannuaire.service-public.fr/occitanie/pyrenees-orientales/suio-66136-01",
+    "metadata": {
+      "email": "baio@univ-perp.fr",
+      "telephone": "04 68 66 20 42",
+      "url": "http://www.univ-perp.fr"
+    }
+  },
+  {
+    "id": "0e9df1d0b999e411f8054db8780785e0b092f958",
+    "alternateName": "DOIP",
+    "name": "direction_orientation_de_linsertion_professionnelle_doip_universite_orleans",
+    "title": "Direction orientation de l'insertion professionnelle (DOIP) - Université Orléans",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/loiret/suio-45234-01",
+    "metadata": {
+      "email": "doip@univ-orleans.fr",
+      "telephone": "02 38 41 71 72",
+      "url": "http://www.univ-orleans.frdoip"
+    }
+  },
+  {
+    "id": "3d9facc1fac551c55cbe11521992a8677f6db47a",
+    "name": "espace_orientation_carrieres_universite_de_bordeaux",
+    "title": "Espace orientation carrières - Université de Bordeaux",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/gironde/suio-33318-02",
+    "metadata": {
+      "email": "orientation-carrieres.pessac@u-bordeaux.fr",
+      "telephone": "05 56 84 85 49",
+      "url": "http://www.u-bordeaux.fr"
+    }
+  },
+  {
+    "id": "71609004490dbf04e97811330bd16d12c641e4a1",
+    "name": "espace_orientation_insertion_universite_caen_normandie",
+    "title": "Espace orientation insertion - Université Caen - Normandie",
+    "url": "https://lannuaire.service-public.fr/normandie/calvados/suio-14118-01",
+    "metadata": {
+      "email": "orientationinsertion@unicaen.fr",
+      "telephone": "02 31 56 55 12",
+      "url": "http://www.unicaen.fr"
+    }
+  },
+  {
+    "id": "4d86ac9de5acfcd012d742cf03385c51f97425ca",
+    "name": "maison_de_lorientation_et_de_linsertion_avignon",
+    "title": "Maison de l'orientation et de l'insertion - Avignon",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/vaucluse/suio-84007-01",
+    "metadata": {
+      "email": "orientation-insertion@univ-avignon.fr",
+      "telephone": "04 90 16 25 85",
+      "url": "http://univ-avignon.frformations/orientation-et-insertion"
+    }
+  },
+  {
+    "id": "ee4e10e56987c602731c45978d6d22ff407e48b6",
+    "alternateName": "MIO-DAIP",
+    "name": "mission_information_orientation_bureau_daide_a_linsertion_professionnelle_mio_daip_universite_de_rouen_normandie",
+    "title": "Mission information-orientation-Bureau d'aide à l'insertion professionnelle (MIO-DAIP) - Université de Rouen - Normandie",
+    "url": "https://lannuaire.service-public.fr/normandie/seine-maritime/suio-76451-01",
+    "metadata": {
+      "email": "mio@univ-rouen.fr",
+      "telephone": "02 32 76 93 73",
+      "url": "htpp://www.univ-rouen.fr"
+    }
+  },
+  {
+    "id": "06c64a390a625fd09ada050b8912e5f042598208",
+    "name": "orientation_stages_emploi_universite_franche_comte",
+    "title": "Orientation stages emploi - Université Franche-Comté",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/doubs/suio-25056-01",
+    "metadata": {
+      "email": "ose@univ-fcomte.fr",
+      "telephone": "03 81 66 66 99",
+      "url": "http://www.univ-fcomte.fr"
+    }
+  },
+  {
+    "id": "ee838bd3ff6122d8a8c8b8dac57894e46ccfe592",
+    "alternateName": "POIP",
+    "name": "plateforme_dorientation_et_dinsertion_professionnelle_poip_universite_corse",
+    "title": "Plateforme d'orientation et d'insertion professionnelle (POIP) - Université Corse",
+    "url": "https://lannuaire.service-public.fr/corse/haute-corse/suio-2B096-01",
+    "metadata": {
+      "email": "poip@univ-corse.fr",
+      "telephone": "04 95 45 00 21",
+      "url": "http://www.univ-corse.fr"
+    }
+  },
+  {
+    "id": "17a50e4dd6a54f0b73b4acce3a7a60041bf835b5",
+    "alternateName": "PFVU",
+    "name": "pole_formation_et_vie_universitaire_pfvu_universite_dijon_bourgogne",
+    "title": "Pôle formation et vie universitaire (PFVU) - Université Dijon - Bourgogne",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/cote-d-or/suio-21231-01",
+    "metadata": {
+      "email": "pole.formation@u-bourgogne.fr",
+      "telephone": "03 80 39 39 80",
+      "url": "https://ub-link.u-bourgogne.fr"
+    }
+  },
+  {
+    "id": "d6ec1fdcabccdb1ce5382db495779b180d859ae7",
+    "alternateName": "POIP",
+    "name": "pole_dorientation_et_dinsertion_professionnelle_poip_universite_paris_sud",
+    "title": "Pôle d'orientation et d'insertion professionnelle (POIP) - Université Paris Sud",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/essonne/suio-91471-01",
+    "metadata": {
+      "email": "accueil.oip@u-psud.fr",
+      "telephone": "01 69 15 54 47",
+      "url": "http://www.u-psud.fr"
+    }
+  },
+  {
+    "id": "c58957d247ddd848f6bfff5f45c0c88817ee2e07",
+    "alternateName": "SAOI",
+    "name": "service_accompagnement_en_orientation_et_insertion_saoi_universite_toulon",
+    "title": "Service accompagnement en orientation et insertion (SAOI) - Université Toulon",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/var/suio-83062-01",
+    "metadata": {
+      "email": "saoi@univ-tln.fr",
+      "telephone": "04 94 14 67 61",
+      "url": "http://www.univ-tln.fr"
+    }
+  },
+  {
+    "id": "9caa6514a6008e7bf0e7f16123cea2dd345210ea",
+    "alternateName": "SCEVE",
+    "name": "service_commun_des_etudes_et_de_la_vie_etudiante_sceve_universite_polytechnique_hauts_de_france",
+    "title": "Service commun des études et de la vie étudiante (SCEVE) -  Université polytechnique - Hauts-de-France",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/nord/suio-59606-01",
+    "metadata": {
+      "email": "orientation@uphf.fr",
+      "telephone": "03 27 51 10 33",
+      "url": "http://www.uphf.fr"
+    }
+  },
+  {
+    "id": "dc72e18c2caa739d6dbc8a22f30be7dd89b5605b",
+    "name": "service_commun_dinformation_et_dorientation_et_dinsertion_professionnelle_universite_de_montpellier_site_centre_ville",
+    "title": "Service commun d'information et d'orientation et d'insertion professionnelle - Université de Montpellier - Site Centre-Ville",
+    "url": "https://lannuaire.service-public.fr/occitanie/herault/suio-34172-03",
+    "metadata": {
+      "email": "scuio-centre@umontpellier.fr",
+      "telephone": "04 34 43 32 33",
+      "url": "http://www.umontpellier.fr"
+    }
+  },
+  {
+    "id": "152a4cb73cc2b350c3cb259ba68ced5dea6ad4ab",
+    "alternateName": "SCUIO-IP",
+    "name": "service_commun_universitaire_dinformation_dorientation_et_dinsertion_professionnelle_scuio_ip_universite_montpellier_3",
+    "title": "Service commun universitaire d'information, d'orientation et d'insertion professionnelle (SCUIO-IP) - Université Montpellier 3",
+    "url": "https://lannuaire.service-public.fr/occitanie/herault/suio-34172-02",
+    "metadata": {
+      "email": "scuio@univ-montp3.fr",
+      "telephone": "04 67 14 26 11",
+      "url": "http://www.univ-montp3.fr"
+    }
+  },
+  {
+    "id": "cfcd78f0c002c9b8dc5aca7dd044fb56a7986fee",
+    "alternateName": "SCUIO",
+    "name": "service_commun_universitaire_dinformation_et_dorientation_scuio_universite_de_pau_et_des_pays_de_l_adour",
+    "title": "Service commun universitaire d'information et d'orientation (SCUIO) - Université de Pau et des pays de l'Adour",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/pyrenees-atlantiques/suio-64102-01",
+    "metadata": {
+      "email": "scuio-ip@univ-pau.fr",
+      "telephone": "05 59 57 41 61",
+      "url": "https://scuio-ip.univ-pau.frfrindex.html"
+    }
+  },
+  {
+    "id": "1d6912f78b41479aca60e43e83837209d3f88a90",
+    "alternateName": "SCUIO-IP",
+    "name": "service_commun_universitaire_dinformation_dorientation_et_dinsertion_professionnelle_scuio_ip_universite_paris_8_vincennes_saint_denis",
+    "title": "Service commun universitaire d'information d'orientation et d'insertion professionnelle (SCUIO-IP) - Université Paris 8 - Vincennes-Saint-Denis",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/seine-saint-denis/suio-93066-01",
+    "metadata": {
+      "email": "scuio@univ-paris8.fr",
+      "telephone": "01 49 40 67 17",
+      "url": "http://www.univ-paris8.fr"
+    }
+  },
+  {
+    "id": "b770053285a4800f835dd49e385b6cc69d608c0b",
+    "alternateName": "SUIO-IP",
+    "name": "service_commun_universitaire_dinformation_dorientation_et_dinsertion_professionnelle_suio_ip_universite_toulouse_jean_jaures",
+    "title": "Service commun universitaire d'information d'orientation et d'insertion professionnelle  (SUIO-IP) - Université Toulouse - Jean-Jaurès",
+    "url": "https://lannuaire.service-public.fr/occitanie/haute-garonne/suio-31555-02",
+    "metadata": {
+      "email": "scuio-ip@univ-tlse2.fr",
+      "telephone": "05 61 50 45 15",
+      "url": "http://www.univ-tlse2.frscuio-ip"
+    }
+  },
+  {
+    "id": "013574e70c9909a6b85032ca25e0dd7aad0cc450",
+    "name": "service_dinformation_et_dorientation_et_dinsertion_professionnelle_direction_de_la_formation_universite_nice_sophia_antipolis_secteur_lettres_arts_et_sciences_humaines",
+    "title": "Service d’information et d'orientation et d'insertion professionnelle - Direction de la formation - Université Nice-Sophia-Antipolis - Secteur lettres, arts et sciences humaines",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/alpes-maritimes/suio-06088-03",
+    "metadata": {
+      "email": "bio-lash@unice.fr",
+      "telephone": "04 93 37 56 08",
+      "url": ""
+    }
+  },
+  {
+    "id": "b1fd2bb6ac5816386ddc528f5f6d45656519598c",
+    "name": "service_espace_avenir_orientation_stage_emploi_universite_strasbourg",
+    "title": "Service espace avenir orientation stage emploi - Université Strasbourg",
+    "url": "https://lannuaire.service-public.fr/grand-est/bas-rhin/suio-67482-02",
+    "metadata": {
+      "email": "espace-avenir@unistra.fr",
+      "telephone": "03 68 85 63 00",
+      "url": "http://www.espace-avenir.unistra.fr"
+    }
+  },
+  {
+    "id": "5da4de14473ad79285e733c0cfeb3c1dc4df319d",
+    "name": "service_formation_continue",
+    "title": "Service Formation Continue",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/alpes-maritimes/suio-06088-04",
+    "metadata": {
+      "email": "bare@unice.fr",
+      "telephone": "04 89 15 21 50",
+      "url": "http://www.unice.frformation/formation-continue"
+    }
+  },
+  {
+    "id": "9390beadce6641f6682d244b2608508f62c99b41",
+    "name": "service_dinformation_et_dorientation_et_dinsertion_professionnelle_universite_nice_sophia_antipolis_secteur_sciences_medecine",
+    "title": "Service d'information et d'orientation et d'insertion professionnelle - Université Nice-Sophia-Antipolis - Secteur sciences-médecine",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/alpes-maritimes/suio-06088-05",
+    "metadata": {
+      "email": "bio-sciences@unice.fr",
+      "telephone": "04 92 07 69 23",
+      "url": "http://www.unice.fr"
+    }
+  },
+  {
+    "id": "a29a238e9ca2e1fde1d53b11f0751d7daeb54c59",
+    "alternateName": "SUIO",
+    "name": "service_information_orientation_insertion_suio_universite_nice_sophia_antipolis_secteur_droit_et_sciences_politiques",
+    "title": "Service information orientation insertion (SUIO) - Université Nice-Sophia-Antipolis - Secteur droit et sciences politiques",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/alpes-maritimes/suio-06088-02",
+    "metadata": {
+      "email": "bio-droit@unice.fr",
+      "telephone": "04 89 15 25 98",
+      "url": "http://www.unice.frunicepro"
+    }
+  },
+  {
+    "id": "5e0d6dd88ebfe1f77df154c007b732839a9f092f",
+    "name": "service_de_lorientation_et_de_linsertion_professionnelle_universite_paris_7_paris_diderot",
+    "title": "Service de l'orientation et de l'insertion professionnelle - Université Paris 7 - Paris Diderot",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/paris/suio-75105-04",
+    "metadata": {
+      "email": "soi@univ-paris-diderot.fr",
+      "telephone": "01 57 27 71 31",
+      "url": "http://www.univ-paris-diderot.fr"
+    }
+  },
+  {
+    "id": "dafb5246270cae84e9fd16477ca05248260fcae7",
+    "alternateName": "SOIP",
+    "name": "service_dorientation_et_dinsertion_professionnelle_soip_universite_lorraine_vandoeuvre",
+    "title": "Service d'orientation et d'insertion professionnelle (SOIP) - Université Lorraine-Vandoeuvre",
+    "url": "https://lannuaire.service-public.fr/grand-est/meurthe-et-moselle/suio-54547-01",
+    "metadata": {
+      "email": "soip-contact@univ-lorraine.fr",
+      "telephone": "03 72 74 03 60",
+      "url": "http://www.univ-lorraine.frorientation"
+    }
+  },
+  {
+    "id": "b4627e1e31f41d26be2ce412f46cf6e169580cf5",
+    "alternateName": "LE SOIE",
+    "name": "service_dorientation_et_dinsertion_professionnelle_des_etudiants_le_soie_universite_lyon_1",
+    "title": "Service d'orientation et d'insertion professionnelle des étudiants (LE SOIE) - Université Lyon 1",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/rhone/suio-69266-01",
+    "metadata": {
+      "email": "soie@univ-lyon1.fr",
+      "telephone": "04 72 44 80 59",
+      "url": "http://soie.univ-lyon1.fr"
+    }
+  },
+  {
+    "id": "9bdf36c93e5338ffcd0e8bdccff74c9043674f90",
+    "name": "service_dorientation_et_dinsertion_professionnelle_universite_versailles_saint_quentin_en_yvelines_campus_de_guyancourt",
+    "title": "Service d'orientation et d'insertion professionnelle - Université Versailles Saint-Quentin-en-Yvelines - Campus de Guyancourt",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/yvelines/suio-78297-01",
+    "metadata": {
+      "email": "oip.desit@uvsq.fr",
+      "telephone": "01 39 25 56 10",
+      "url": "http://www.uvsq.fr"
+    }
+  },
+  {
+    "id": "e26874ab91f9120f1ffb9fc50ce15b1831c5948c",
+    "alternateName": "SOIP",
+    "name": "service_orientation_dinsertion_professionnelle_soip_universite_lorraine",
+    "title": "Service orientation d'insertion professionnelle (SOIP) - Université Lorraine",
+    "url": "https://lannuaire.service-public.fr/grand-est/moselle/suio-57463-01",
+    "metadata": {
+      "email": "soip-contact@univ-lorraine.fr",
+      "telephone": "03 72 74 03 62",
+      "url": "http://www.univ-lorraine.frorientation"
+    }
+  },
+  {
+    "id": "5ec2a45e5a1af98130f6fa9387b0ec3e989d30a5",
+    "alternateName": "SUIO",
+    "name": "service_universitaire_dinformation_et_dorientation_suio_universite_aix_marseille_campus_aix_en_provence",
+    "title": "Service universitaire d'information et d'orientation (SUIO) - Université Aix-Marseille - Campus Aix-en-Provence",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/suio-13001-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 86 91 43 51",
+      "url": "https://suio.univ-amu.fr"
+    }
+  },
+  {
+    "id": "82dd0efcb4c0f9b990c58dae0870f955fa91841e",
+    "alternateName": "SUIO",
+    "name": "service_universitaire_dinformation_et_dorientation_suio_universite_aix_marseille_campus_marseille_centre_secteur_droit_economie_gestion",
+    "title": "Service universitaire d'information et d'orientation (SUIO) - Université Aix-Marseille - Campus Marseille Centre (Secteur droit économie gestion)",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/suio-13201-03",
+    "metadata": {
+      "email": "http://suio.univ-amu.fr/contact",
+      "telephone": "04 96 12 61 73",
+      "url": "http://suio.univ-amu.fr"
+    }
+  },
+  {
+    "id": "dc920aa09d08bee7129cffacf8151a6aafa56081",
+    "alternateName": "SUIO",
+    "name": "service_universitaire_dinformation_et_dorientation_suio_universite_aix_marseille_campus_marseille_etoile_secteur_sciences_et_technologie",
+    "title": "Service universitaire d'information et d'orientation (SUIO) - Université Aix-Marseille - Campus Marseille Etoile (Secteur sciences et technologie)",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/suio-13213-04",
+    "metadata": {
+      "email": "http://suio.univ-amu.fr/contact",
+      "telephone": "04 91 28 81 18",
+      "url": "http://suio.univ-amu.fr"
+    }
+  },
+  {
+    "id": "16bb1a6b06971c0ad6459157ff1cf9a5a7c15e3e",
+    "alternateName": "SUIO",
+    "name": "service_universitaire_dinformation_et_dorientation_suio_universite_angers",
+    "title": "Service universitaire d'information et d'orientation (SUIO) - Université Angers",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/maine-et-loire/suio-49007-01",
+    "metadata": {
+      "email": "suio@univ-angers.fr",
+      "telephone": "02 44 68 86 20",
+      "url": "http://www.univ-angers.fr"
+    }
+  },
+  {
+    "id": "7e39a74424f1a1ff19fceadb80ef5cbbc2487a31",
+    "alternateName": "SUIO",
+    "name": "service_universitaire_dinformation_et_dorientation_suio_universite_antilles_guyane_antenne_de_schoelcher",
+    "title": "Service universitaire d'information et d'orientation (SUIO) - Université Antilles Guyane - antenne de Schoelcher",
+    "url": "https://lannuaire.service-public.fr/martinique/martinique/suio-97229-01",
+    "metadata": {
+      "email": "dosip972@univ-antilles.fr",
+      "telephone": "05 96 72 73 18",
+      "url": "http://www.univ-antilles.fr"
+    }
+  },
+  {
+    "id": "a4d4a2eb463b885aa3d07b5d49ee89868c9d5068",
+    "alternateName": "SUIO",
+    "name": "service_universitaire_dinformation_et_dorientation_suio_universite_brest",
+    "title": "Service universitaire d'information et d'orientation (SUIO) - Université Brest",
+    "url": "https://lannuaire.service-public.fr/bretagne/finistere/suio-29019-01",
+    "metadata": {
+      "email": "cap-avenir@univ-brest.fr",
+      "telephone": "02 98 01 63 17",
+      "url": "http://www.univ-brest.fr"
+    }
+  },
+  {
+    "id": "b19f8891da122875d50d15b01b314de5ba8f591c",
+    "alternateName": "SUIO",
+    "name": "service_universitaire_dinformation_et_dorientation_suio_universite_bretagne_sud_lorient",
+    "title": "Service universitaire d'information et d'orientation (SUIO) - Université Bretagne-Sud - Lorient",
+    "url": "https://lannuaire.service-public.fr/bretagne/morbihan/suio-56121-01",
+    "metadata": {
+      "email": "suioip@univ-ubs.fr",
+      "telephone": "02 97 87 66 60",
+      "url": "http://www.univ-ubs.fr"
+    }
+  },
+  {
+    "id": "52ec78c0a32818662bec7a6f8a0680e11711c667",
+    "alternateName": "SUIO",
+    "name": "service_universitaire_dinformation_et_dorientation_suio_universite_dunkerque_littoral_cote_d_opale",
+    "title": "Service universitaire d'information et d'orientation (SUIO) - Université Dunkerque - Littoral Côte d'Opale",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/nord/suio-59183-01",
+    "metadata": {
+      "email": "suaio@univ-littoral.fr",
+      "telephone": "03 28 23 75 50",
+      "url": "http://www.univ-littoral.fr"
+    }
+  },
+  {
+    "id": "fab5b001d9a76b6dec29205fbd934d47402fd2e3",
+    "alternateName": "SUIO",
+    "name": "service_universitaire_dinformation_et_dorientation_suio_universite_la_reunion",
+    "title": "Service universitaire d'information et d'orientation (SUIO) - Université La Réunion",
+    "url": "https://lannuaire.service-public.fr/la-reunion/reunion/suio-97411-01",
+    "metadata": {
+      "email": "profil@univ-reunion.fr",
+      "telephone": "+262 2 62 93 81 20",
+      "url": "http://www.univ-reunion.fr"
+    }
+  },
+  {
+    "id": "66a12238ce7c5f77aab82ebddddfcc15ea06b1d5",
+    "alternateName": "SUIO",
+    "name": "service_universitaire_dinformation_et_dorientation_suio_universite_le_havre_normandie_suio",
+    "title": "Service universitaire d'information et d'orientation (SUIO) - Université le Havre -Normandie - SUIO",
+    "url": "https://lannuaire.service-public.fr/normandie/seine-maritime/suio-76351-01",
+    "metadata": {
+      "email": "suio@univ-lehavre.fr",
+      "telephone": "02 32 74 42 29",
+      "url": "http://www.univ-lehavre.fr"
+    }
+  },
+  {
+    "id": "6c6a65bf9904e05cb74fb112c0a668033fd92bf8",
+    "alternateName": "SUIO",
+    "name": "service_universitaire_dinformation_et_dorientation_suio_universite_lille_1_secteur_sciences_et_technologies",
+    "title": "Service universitaire d'information et d'orientation (SUIO) - Université Lille 1 - Secteur sciences et technologies",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/nord/suio-59009-01",
+    "metadata": {
+      "email": "suaio@univ-lille1.fr",
+      "telephone": "03 20 05 87 49",
+      "url": "http://www.univ-lille.fr"
+    }
+  },
+  {
+    "id": "cb5883a2d463bd9451a98d7ff6155b6be71ecfcc",
+    "alternateName": "SUIO",
+    "name": "service_universitaire_dinformation_et_dorientation_suio_universite_lille_lille_droit_et_sante",
+    "title": "Service universitaire d'information et d'orientation (SUIO) - Université Lille - Lille Droit-et-Santé",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/nord/suio-59350-01",
+    "metadata": {
+      "email": "suaio-campus-moulinsronchin@univ-lille.fr",
+      "telephone": "03 20 96 52 80",
+      "url": "http://suaio.univ-lille2.fr"
+    }
+  },
+  {
+    "id": "3f00ce45471374f6fc97365bbade56a9cd9e95ba",
+    "alternateName": "SUIO",
+    "name": "service_universitaire_dinformation_et_dorientation_suio_universite_lyon_3",
+    "title": "Service universitaire d'information et d'orientation (SUIO) - Université Lyon 3",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/rhone/suio-69388-02",
+    "metadata": {
+      "email": "scuio-ip@univ-lyon3.fr",
+      "telephone": "04 78 78 78 40",
+      "url": "http://www.univ-lyon3.fr"
+    }
+  },
+  {
+    "id": "978a53f50e57b2fcc868b9b71ebc5d0f89e65afa",
+    "alternateName": "SUIO",
+    "name": "service_universitaire_dinformation_et_dorientation_suio_universite_mulhouse",
+    "title": "Service universitaire d'information et d'orientation (SUIO) - Université Mulhouse",
+    "url": "https://lannuaire.service-public.fr/grand-est/haut-rhin/suio-68224-01",
+    "metadata": {
+      "email": "sio@uha.fr",
+      "telephone": "03 89 33 64 40",
+      "url": "http://www.uha.fr"
+    }
+  },
+  {
+    "id": "014d5313e443a0031018efa2a031e4c33604b027",
+    "alternateName": "SUIO",
+    "name": "service_universitaire_dinformation_et_dorientation_suio_universite_nantes",
+    "title": "Service universitaire d'information et d'orientation (SUIO) - Université Nantes",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/loire-atlantique/suio-44109-01",
+    "metadata": {
+      "email": "suio@univ-nantes.fr",
+      "telephone": "02 40 37 10 00",
+      "url": "http://www.univ-nantes.frsuio"
+    }
+  },
+  {
+    "id": "3e45cfa31261baf54772faa21c7bc1093275e896",
+    "alternateName": "SUIO",
+    "name": "service_universitaire_dinformation_et_dorientation_suio_universite_paris_13",
+    "title": "Service universitaire d'information et d'orientation (SUIO) - Université Paris 13",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/seine-saint-denis/suio-93079-01",
+    "metadata": {
+      "email": "info.voie@univ-paris13.fr",
+      "telephone": "01 49 40 40 11",
+      "url": "http://www.univ-paris13.fr"
+    }
+  },
+  {
+    "id": "a3742334112d9c841b1289182c8bdd52af5c67fe",
+    "alternateName": "SUIO",
+    "name": "service_universitaire_dinformation_et_dorientation_suio_universite_paris_1_pantheon_sorbonne",
+    "title": "Service universitaire d'information et d'orientation (SUIO) - Université Paris 1 - Panthéon-Sorbonne",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/paris/suio-75113-01",
+    "metadata": {
+      "email": "scuio@univ-paris1.fr",
+      "telephone": "01 44 07 88 56",
+      "url": "http://www.pantheonsorbonne.fr"
+    }
+  },
+  {
+    "id": "03ece193878e859671e77b05da87932af9e4baec",
+    "alternateName": "SUIO",
+    "name": "service_universitaire_dinformation_et_dorientation_suio_universite_paris_2_pantheon_assas",
+    "title": "Service universitaire d'information et d'orientation (SUIO) - Université Paris 2 - Panthéon-Assas",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/paris/suio-75106-01",
+    "metadata": {
+      "email": "cio@u-paris2.fr",
+      "telephone": "01 44 41 58 75",
+      "url": "http://www.u-paris2.fr"
+    }
+  },
+  {
+    "id": "32f4e3145870eb061535b7143981c30bd4def434",
+    "alternateName": "SUIO",
+    "name": "service_universitaire_dinformation_et_dorientation_suio_universite_paris_est_marne_la_vallee",
+    "title": "Service universitaire d'information et d'orientation (SUIO) - Université Paris-Est - Marne-la-Vallée",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/seine-et-marne/suio-77083-01",
+    "metadata": {
+      "email": "sio@u-pem.fr",
+      "telephone": "01 60 95 76 76",
+      "url": "http://www.u-pem.fr"
+    }
+  },
+  {
+    "id": "a1dc7a40b2c0e310e2a086fafedb7decca170c54",
+    "alternateName": "SUIO",
+    "name": "service_universitaire_dinformation_et_dorientation_suio_universite_paris_ouest_nanterre_la_defense",
+    "title": "Service universitaire d'information et d'orientation (SUIO) - Université Paris Ouest - Nanterre La Défense",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/hauts-de-seine/suio-92050-01",
+    "metadata": {
+      "email": "cio@liste.parisnanterre.fr",
+      "telephone": "01 40 97 75 34",
+      "url": "http://suio.parisnanterre.fr"
+    }
+  },
+  {
+    "id": "b8ef51ebc4a3dcce96ecfc900872930651f59dcd",
+    "alternateName": "SUIO",
+    "name": "service_universitaire_dinformation_et_dorientation_suio_universite_paris_paris_dauphine",
+    "title": "Service universitaire d'information et d'orientation (SUIO) - Université Paris - Paris Dauphine",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/paris/suio-75116-01",
+    "metadata": {
+      "email": "scuio@dauphine.fr",
+      "telephone": "01 44 05 49 84",
+      "url": "http://www.dauphine.fr"
+    }
+  },
+  {
+    "id": "ff509351523c0ce88df8b9cd7fefd9b9eafa08ba",
+    "alternateName": "SUIO",
+    "name": "service_universitaire_dinformation_et_dorientation_suio_universite_paris_sud_antenne_de_sceaux",
+    "title": "Service universitaire d'information et d'orientation (SUIO) - Université Paris Sud - Antenne de Sceaux",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/hauts-de-seine/suio-92071-01",
+    "metadata": {
+      "email": "accueil.oip@u-psud.fr",
+      "telephone": "01 40 91 18 38",
+      "url": "http://www.jm.u-psud.fr"
+    }
+  },
+  {
+    "id": "59f30c78a7f98ada5075f6a37b8865b1b3271eed",
+    "alternateName": "SUIO",
+    "name": "service_universitaire_dinformation_et_dorientation_suio_universite_saint_etienne_jean_monnet",
+    "title": "Service universitaire d'information et d'orientation (SUIO) - Université Saint-Étienne - Jean-Monnet",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/loire/suio-42218-01",
+    "metadata": {
+      "email": "capavenir@univ-st-etienne.fr",
+      "telephone": "04 77 42 17 16",
+      "url": "http://www.univ-st-etienne.fr"
+    }
+  },
+  {
+    "id": "5dbe50186f17b64d312edd56255e5b91bd1d216a",
+    "alternateName": "SUIO",
+    "name": "service_universitaire_dinformation_et_dorientation_suio_universite_toulouse_1",
+    "title": "Service universitaire d'information et d'orientation (SUIO) - Université Toulouse 1",
+    "url": "https://lannuaire.service-public.fr/occitanie/haute-garonne/suio-31555-01",
+    "metadata": {
+      "email": "suio-ip@ut-capitole.fr",
+      "telephone": "05 61 63 37 28",
+      "url": "http://www.ut-capitole.fr"
+    }
+  },
+  {
+    "id": "b5f2225e50341829007e30f48390b86ca5350560",
+    "alternateName": "SUIO",
+    "name": "service_universitaire_dinformation_et_dorientation_suio_universite_tours",
+    "title": "Service universitaire d'information et d'orientation (SUIO) - Université Tours",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/indre-et-loire/suio-37261-01",
+    "metadata": {
+      "email": "moip@univ-tours.fr",
+      "telephone": "02 47 36 81 70",
+      "url": "http://www.univ-tours.frmoip"
+    }
+  },
+  {
+    "id": "76f873c71c252cb2ed4b410534c468b7ea776d43",
+    "alternateName": "SUIO",
+    "name": "service_universitaire_dinformation_et_dorientation_suio_universite_versailles_saint_quentin_en_yvelines_antenne_de_versailles",
+    "title": "Service universitaire d'information et d'orientation (SUIO) - Université Versailles Saint-Quentin-en-Yvelines - antenne de Versailles",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/yvelines/suio-78646-01",
+    "metadata": {
+      "email": "orientationvers.defip@uvsq.fr",
+      "telephone": "01 39 25 46 10",
+      "url": "http://www.uvsq.fr"
+    }
+  },
+  {
+    "id": "64bc510bf6fce3a5c3671fc9d7c46b104e17f86f",
+    "alternateName": "SUIO-IP",
+    "name": "service_universitaire_dinformation_et_dorientation_et_dinsertion_professionnelle_suio_ip_universite_bretagne_sud_vannes",
+    "title": "Service universitaire d'information et d'orientation et d'insertion professionnelle (SUIO-IP) - Université Bretagne-Sud - Vannes",
+    "url": "https://lannuaire.service-public.fr/bretagne/morbihan/suio-56260-01",
+    "metadata": {
+      "email": "suioip@univ-ubs.fr",
+      "telephone": "02 97 01 27 00",
+      "url": "http://www.univ-ubs.fr"
+    }
+  },
+  {
+    "id": "2f42a497236e39f0fbe1188791dd220b08574873",
+    "alternateName": "SUIO-IP",
+    "name": "service_universitaire_dinformation_et_dorientation_et_dinsertion_professionnelle_suio_ip_universite_montpellier_triolet",
+    "title": "Service universitaire d'information et d'orientation et d'insertion professionnelle (SUIO-IP) - Université Montpellier Triolet",
+    "url": "https://lannuaire.service-public.fr/occitanie/herault/suio-34172-01",
+    "metadata": {
+      "email": "scuio-triolet@umontpellier.fr",
+      "telephone": "04 67 14 30 61",
+      "url": "http://www.umontpellier.fr"
+    }
+  },
+  {
+    "id": "359e64fa1ada5e023e7732a98baa19a5e65f13ae",
+    "alternateName": "SUIO-IP",
+    "name": "service_universitaire_dinformation_et_dorientation_et_dinsertion_professionnelle_suio_ip_universite_pau",
+    "title": "Service universitaire d'information et d'orientation et d'insertion professionnelle (SUIO-IP) - Université Pau",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/pyrenees-atlantiques/suio-64445-01",
+    "metadata": {
+      "email": "scuio-ip@univ-pau.fr",
+      "telephone": "05 59 40 70 90",
+      "url": "http://www.univ-pau.fr"
+    }
+  },
+  {
+    "id": "8d319b6c83774f92d153f18698014e63f5204f4c",
+    "alternateName": "SUIO-IP",
+    "name": "service_universitaire_dinformation_et_dorientation_insertion_professionnelle_suio_ip_universite_rennes_2",
+    "title": "Service universitaire d'information et d'orientation - Insertion professionnelle (SUIO-IP) - Université Rennes 2",
+    "url": "https://lannuaire.service-public.fr/bretagne/ille-et-vilaine/suio-35238-01",
+    "metadata": {
+      "email": "r2suio@univ-rennes2.fr",
+      "telephone": "02 99 14 13 91",
+      "url": "http://www.univ-rennes2.fr"
+    }
+  },
+  {
+    "id": "bde3b9f57f2cf08b88f9a3979f829639f6e16ab4",
+    "alternateName": "SUIOIP",
+    "name": "service_universitaire_dinformation_dorientation_et_dinsertion_professionnelle_suioip_le_mans_universite",
+    "title": "Service universitaire d'information d'orientation et d'insertion professionnelle (SUIOIP) - Le Mans Université",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/sarthe/suio-72181-01",
+    "metadata": {
+      "email": "suio@univ-lemans.fr",
+      "telephone": "02 44 02 20 64",
+      "url": "http://www.univ-lemans.fr"
+    }
+  },
+  {
+    "id": "7ca2a97e6340c3e948611a21db42d3de7c7cc0b2",
+    "alternateName": "SUIO",
+    "name": "service_universitaire_dinsertion_et_dorientation_suio_universite_aix_marseille_secteur_sciences_et_technologies",
+    "title": "Service universitaire d'insertion et d'orientation (SUIO) - Université Aix-Marseille - Secteur sciences et technologies",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/suio-13203-01",
+    "metadata": {
+      "email": "http://suio.univ-amu.fr/contact",
+      "telephone": "04 13 55 00 89",
+      "url": "http://www.suio.univ-amu.fr"
+    }
+  }
+]

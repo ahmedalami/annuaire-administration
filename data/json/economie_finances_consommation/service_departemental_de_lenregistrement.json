@@ -1,0 +1,207 @@
+[
+  {
+    "id": "d39bdd0745c219628a0c7275161e2f5765427db8",
+    "alternateName": "Grasse",
+    "name": "service_departemental_de_lenregistrement_alpes_maritimes_grasse",
+    "title": "Service départemental de l'enregistrement - Alpes-Maritimes (Grasse)",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/alpes-maritimes/sde-06069-01",
+    "metadata": {
+      "email": "sde.grasse@dgfip.finances.gouv.fr",
+      "telephone": "04 93 40 36 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "c30e84189dc1b6c46b69a2797dbeb0e2680c5e39",
+    "alternateName": "Nice",
+    "name": "service_departemental_de_lenregistrement_alpes_maritimes_nice",
+    "title": "Service départemental de l'enregistrement - Alpes-Maritimes (Nice)",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/alpes-maritimes/sde-06088-01",
+    "metadata": {
+      "email": "sde.nice@dgfip.finances.gouv.fr",
+      "telephone": "04 92 09 45 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "b4481f71072a59eede52fef5e160aa7a65aa45e1",
+    "alternateName": "Strasbourg",
+    "name": "service_departemental_de_lenregistrement_bas_rhin_strasbourg",
+    "title": "Service départemental de l'enregistrement - Bas-Rhin (Strasbourg)",
+    "url": "https://lannuaire.service-public.fr/grand-est/bas-rhin/sde-67482-01",
+    "metadata": {
+      "email": "sde.strasbourg@dgfip.finances.gouv.fr",
+      "telephone": "03 88 52 49 53",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "36f31cbdbe48130869e3baa5347cd599a728068b",
+    "alternateName": "Aix-en-Provence",
+    "name": "service_departemental_de_lenregistrement_bouches_du_rhone_aix_en_provence",
+    "title": "Service départemental de l'enregistrement - Bouches-du-Rhône (Aix-en-Provence)",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/sde-13001-01",
+    "metadata": {
+      "email": "sde.aix-en-provence@dgfip.finances.gouv.fr",
+      "telephone": "04 42 37 54 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "30eda324303a3872848635fba7c9a256d882b332",
+    "alternateName": "Marseille",
+    "name": "service_departemental_de_lenregistrement_bouches_du_rhone_marseille",
+    "title": "Service départemental de l'enregistrement - Bouches-du-Rhône (Marseille)",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/sde-13212-01",
+    "metadata": {
+      "email": "sde.marseille@dgfip.finances.gouv.fr",
+      "telephone": "04 91 24 54 04",
+      "url": ""
+    }
+  },
+  {
+    "id": "66aa8b8e2eb2fd14d8b02ebef9cfcd3c3a94d73b",
+    "name": "service_departemental_de_lenregistrement_essonne",
+    "title": "Service départemental de l'enregistrement - Essonne",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/essonne/sde-91223-01",
+    "metadata": {
+      "email": "sde.etampes@dgfip.finances.gouv.fr",
+      "telephone": "01 69 92 65 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "f2d9d5c0d5f1701b4b8b4a2b2c17c63b7abbd3c3",
+    "alternateName": "Bordeaux",
+    "name": "service_departemental_de_lenregistrement_gironde_bordeaux",
+    "title": "Service départemental de l'enregistrement - Gironde (Bordeaux)",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/gironde/sde-33039-01",
+    "metadata": {
+      "email": "sde.bordeaux@dgfip.finances.gouv.fr",
+      "telephone": "05 56 93 36 46",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "e5e1fdfa3ac8dc46305f2ccdaa9539dd65954040",
+    "name": "service_departemental_de_lenregistrement_ille_et_vilaine",
+    "title": "Service départemental de l'enregistrement - Ille-et-Vilaine",
+    "url": "https://lannuaire.service-public.fr/bretagne/ille-et-vilaine/sde-35238-01",
+    "metadata": {
+      "email": "sde.rennes@dgfip.finances.gouv.fr",
+      "telephone": "02 99 29 23 23",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "2e771b8d314829c75f9a686238bc852162b00368",
+    "name": "service_departemental_de_lenregistrement_lille",
+    "title": "Service départemental de l'enregistrement - Lille",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/nord/sde-59350-01",
+    "metadata": {
+      "email": "sde.lille@dgfip.finances.gouv.fr",
+      "telephone": "03 20 95 63 51",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "e4333bec83a495a190b44f9c5a0f5e8b21ee2e02",
+    "name": "service_departemental_de_lenregistrement_paris_saint_hyacinthe",
+    "title": "Service départemental de l'enregistrement - Paris - Saint-Hyacinthe",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/paris/sde-75101-01",
+    "metadata": {
+      "email": "sde.paris.st-hyacinthe@dgfip.finances.gouv.fr",
+      "telephone": "01 44 86 99 80",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "7ed265b7ab691e28f53493e7773b8cb6e826d9c4",
+    "name": "service_departemental_de_lenregistrement_paris_saint_lazare",
+    "title": "Service départemental de l'enregistrement - Paris - Saint-Lazare",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/paris/sde-75109-01",
+    "metadata": {
+      "email": "sde.paris.st-lazare@dgfip.finances.gouv.fr",
+      "telephone": "01 56 35 90 00",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "e8f3eedf2400a1be8476ca1783d0a300e069860e",
+    "name": "service_departemental_de_lenregistrement_paris_saint_sulpice",
+    "title": "Service départemental de l'enregistrement - Paris - Saint-Sulpice",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/paris/sde-75106-01",
+    "metadata": {
+      "email": "sde.paris.st-sulpice@dgfip.finances.gouv.fr",
+      "telephone": "01 40 46 46 48",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "14be0f81a008fcf753859594d63a2d54c3fbdd65",
+    "name": "service_departemental_de_lenregistrement_rhone",
+    "title": "Service départemental de l'enregistrement - Rhône",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/rhone/sde-69123-01",
+    "metadata": {
+      "email": "sde.lyon@dgfip.finances.gouv.fr",
+      "telephone": "04 78 63 35 44",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "b8769ef737fb7b2cc8eebd91e0895f7c69e90037",
+    "name": "service_departemental_de_lenregistrement_sarthe",
+    "title": "Service départemental de l'enregistrement - Sarthe",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/sarthe/sde-72181-01",
+    "metadata": {
+      "email": "sde.le-mans@dgfip.finances.gouv.fr",
+      "telephone": "02 43 83 82 75",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "6d4f96b073f1b7ee07cafd61615eda007899c164",
+    "name": "service_departemental_de_lenregistrement_seine_saint_denis",
+    "title": "Service départemental de l'enregistrement - Seine-Saint-Denis",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/seine-saint-denis/sde-93008-01",
+    "metadata": {
+      "email": "sde.bobigny@dgfip.finances.gouv.fr",
+      "telephone": "01 48 96 62 50",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "2f251fd7ab213e9fac20fb100c6132411d2b99ff",
+    "alternateName": "Ermont",
+    "name": "service_departemental_de_lenregistrement_val_d_oise_ermont",
+    "title": "Service départemental de l'enregistrement - Val-d'Oise (Ermont)",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/val-d-oise/sde-95219-01",
+    "metadata": {
+      "email": "sde.ermont@dgfip.finances.gouv.fr",
+      "telephone": "01 30 72 82 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "ceb7e940e3e61fbe8682a38b28609aaf42bed96b",
+    "name": "service_departemental_de_lenregistrement_val_de_marne",
+    "title": "Service départemental de l'enregistrement - Val-de-Marne",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/val-de-marne/sde-94028-01",
+    "metadata": {
+      "email": "sde.creteil@dgfip.finances.gouv.fr",
+      "telephone": "01 41 94 80 34",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "5b2c275c35920a9a7612eed4c4ef1d720ddd0d45",
+    "name": "service_departemental_de_lenregistrement_yvelines",
+    "title": "Service départemental de l'enregistrement - Yvelines",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/yvelines/sde-78646-01",
+    "metadata": {
+      "email": "sde.versailles@dgfip.finances.gouv.fr",
+      "telephone": "01 30 97 46 60",
+      "url": "http://www.impots.gouv.fr"
+    }
+  }
+]

@@ -1,0 +1,1982 @@
+[
+  {
+    "id": "39e1601193d083611ec162f52fd31a4e370aa613",
+    "name": "bureau_de_police_d_allauch",
+    "title": "Bureau de police d'Allauch",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/commissariat_police-13002-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 84 35 36 10",
+      "url": "http://www.police-nationale.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "aefab7ac1d5ea1f4da845e74086261e133c899d1",
+    "name": "bureau_de_police_d_amiens",
+    "title": "Bureau de police d'Amiens",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/somme/commissariat_police-80021-05",
+    "metadata": {
+      "email": "",
+      "telephone": "03 22 66 34 00",
+      "url": "http://www.police-nationale.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "35c774243861591bb5ebb519a1395bae5b2024f5",
+    "name": "bureau_de_police_de_beaucaire",
+    "title": "Bureau de police de Beaucaire",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/var/commissariat_police-83137-03",
+    "metadata": {
+      "email": "",
+      "telephone": "04 94 24 70 10",
+      "url": "http://www.police-nationale.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "6dadfe38e80f006e6cada2a4cbade2ad9ab22d44",
+    "name": "bureau_de_police_de_caen_guynemer",
+    "title": "Bureau de police de Caen - Guynemer",
+    "url": "https://lannuaire.service-public.fr/normandie/calvados/commissariat_police-14118-03",
+    "metadata": {
+      "email": "",
+      "telephone": "02 31 35 43 60",
+      "url": "http://www.police-nationale.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "d8699f24c6030234a091f33ed5dea554ec649982",
+    "name": "bureau_de_police_de_caen_jacobins",
+    "title": "Bureau de police de Caen - Jacobins",
+    "url": "https://lannuaire.service-public.fr/normandie/calvados/commissariat_police-14118-02",
+    "metadata": {
+      "email": "ddsp14-csec-jacobins@interieur.gouv.fr",
+      "telephone": "02 31 15 63 60",
+      "url": "http://www.police-nationale.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "d7c458c3b996fe2e00ad5f79945ce824f9778179",
+    "name": "bureau_de_police_de_carpiquet",
+    "title": "Bureau de police de Carpiquet",
+    "url": "https://lannuaire.service-public.fr/normandie/calvados/commissariat_police-14137-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 31 29 55 35",
+      "url": "http://www.police-nationale.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "0861280cdaa827a35cc51d3fbe34f2aac872b7e0",
+    "name": "bureau_de_police_de_chalons_en_champagne",
+    "title": "Bureau de police de Châlons-en-Champagne",
+    "url": "https://lannuaire.service-public.fr/grand-est/marne/commissariat_police-51108-02",
+    "metadata": {
+      "email": "ddsp51-csp-chalons-en-champagne-secteur@interieur.gouv.fr",
+      "telephone": "03 51 56 48 46",
+      "url": "http://www.police-nationale.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "db4df66d77c041d5879dc783e0a3d5729d11ae0b",
+    "name": "bureau_de_police_de_comines",
+    "title": "Bureau de police de Comines",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/nord/commissariat_police-59152-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 59 22 89 00",
+      "url": "http://www.police-nationale.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "efec527cff862944da66630c6994c45a100319d0",
+    "name": "bureau_de_police_de_dreux",
+    "title": "Bureau de police de Dreux",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/eure-et-loir/commissariat_police-28085-02",
+    "metadata": {
+      "email": "said.louzi@interieur.gouv.fr",
+      "telephone": "02 37 64 29 53",
+      "url": "http://www.police-nationale.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "f7380a53e3d4fbad63aa033bd4d2ef68db93d770",
+    "name": "bureau_de_police_d_epinal",
+    "title": "Bureau de police d'Épinal",
+    "url": "https://lannuaire.service-public.fr/grand-est/vosges/commissariat_police-88160-02",
+    "metadata": {
+      "email": "",
+      "telephone": "03 29 81 33 55",
+      "url": "http://www.police-nationale.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "3e9b9cbd5bef36a0ba8f429258848c84c3169697",
+    "name": "bureau_de_police_de_la_penne_sur_huveaune",
+    "title": "Bureau de police de La Penne-sur-Huveaune",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/commissariat_police-13070-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 84 35 39 10",
+      "url": "http://www.police-nationale.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "3ea6f2dbc3082940426652676271ed3d58f31ba2",
+    "name": "bureau_de_police_de_lattes",
+    "title": "Bureau de police de Lattes",
+    "url": "https://lannuaire.service-public.fr/occitanie/herault/commissariat_police-34129-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 86 94 97 00",
+      "url": "http://www.police-nationale.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "f09b67b413a263b74a6b6820bf94cdcb96ab602d",
+    "name": "bureau_de_police_de_montpellier",
+    "title": "Bureau de police de Montpellier",
+    "url": "https://lannuaire.service-public.fr/occitanie/herault/commissariat_police-34172-03",
+    "metadata": {
+      "email": "",
+      "telephone": "04 86 94 97 30",
+      "url": "http://www.police-nationale.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "3dce4b81f29435701c9998e9871a071ee7e7c53f",
+    "name": "bureau_de_police_de_montpellier_la_mosson",
+    "title": "Bureau de police de Montpellier - La Mosson",
+    "url": "https://lannuaire.service-public.fr/occitanie/herault/commissariat_police-34172-02",
+    "metadata": {
+      "email": "",
+      "telephone": "04 86 94 96 50",
+      "url": "http://www.police-nationale.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "036b5ae69f7d34e78515ba55d811bf4f246e26ba",
+    "name": "bureau_de_police_de_moyeuvre_grande",
+    "title": "Bureau de police de Moyeuvre-Grande",
+    "url": "https://lannuaire.service-public.fr/grand-est/moselle/commissariat_police-57491-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 54 48 84 00",
+      "url": "http://www.police-nationale.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "e8312a7a77cda5a845c1714fed6fc9f5de5cdbb1",
+    "name": "bureau_de_police_des_pennes_mirabeau",
+    "title": "Bureau de police des Pennes-Mirabeau",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/commissariat_police-13071-01",
+    "metadata": {
+      "email": "ddsp13-bp-pennes-mirabeau@interieur.gouv.fr",
+      "telephone": "04 84 35 39 20",
+      "url": "http://www.police-nationale.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "05884e11989b80eac63a7abe2dabf45ddf127cf6",
+    "name": "bureau_de_police_de_perpignan",
+    "title": "Bureau de police de Perpignan",
+    "url": "https://lannuaire.service-public.fr/occitanie/pyrenees-orientales/commissariat_police-66136-04",
+    "metadata": {
+      "email": "",
+      "telephone": "04 68 66 42 30",
+      "url": "http://www.police-nationale.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "4cfca97a80e43dbb6b5c292da1864b71fafb7ab3",
+    "name": "bureau_de_police_de_roncq",
+    "title": "Bureau de police de Roncq",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/nord/commissariat_police-59508-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 20 01 06 70",
+      "url": "http://www.police-nationale.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "80d5548e0e393cd3a0a8ca7f3c21392511b735db",
+    "name": "bureau_de_police_de_saint_ouen_l_aumone",
+    "title": "Bureau de police de Saint-Ouen-l'Aumône",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/val-d-oise/commissariat_police-95572-01",
+    "metadata": {
+      "email": "",
+      "telephone": "01 34 64 31 16",
+      "url": "http://www.police-nationale.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "278ed6a2d085aca98b209ed1c8d452e813b77777",
+    "name": "bureau_de_police_de_saint_paul_les_dax",
+    "title": "Bureau de police de Saint-Paul-les-Dax",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/landes/commissariat_police-40279-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 58 91 69 22",
+      "url": "http://www.police-nationale.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "77cbbdd7e5aced2c078e6e98aa524e314ff5c6ab",
+    "name": "bureau_de_police_de_sannois",
+    "title": "Bureau de police de Sannois",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/val-d-oise/commissariat_police-95582-01",
+    "metadata": {
+      "email": "",
+      "telephone": "01 70 29 21 50",
+      "url": "http://www.police-nationale.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "60874352a47b0fcc70283a8037b6314386217efa",
+    "name": "commissariat_central_de_police_de_paris_10_e_arrondissement",
+    "title": "Commissariat central de police de Paris 10e arrondissement",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/paris/commissariat_police-75110-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3430",
+      "url": "http://www.prefecturedepolice.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "91b817281d9365edb69f7b3906e9d8aafe931ec2",
+    "name": "commissariat_central_de_police_de_paris_11_e_arrondissement",
+    "title": "Commissariat central de police de Paris 11e arrondissement",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/paris/commissariat_police-75111-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3430",
+      "url": "http://www.prefecturedepolice.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "b9187e5b8dfc575edcf0f5f15f00e4e4d7e766aa",
+    "name": "commissariat_central_de_police_de_paris_12_e_arrondissement",
+    "title": "Commissariat central de police de Paris 12e arrondissement",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/paris/commissariat_police-75112-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3430",
+      "url": "http://www.prefecturedepolice.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "c4d46beba31ac840f0d7955134b1a88897640007",
+    "name": "commissariat_central_de_police_de_paris_13_e_arrondissement",
+    "title": "Commissariat central de police de Paris 13e arrondissement",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/paris/commissariat_police-75113-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3430",
+      "url": "http://www.prefecturedepolice.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "dd7771dce2cb51c63ef8b0d44eec979d2096223d",
+    "name": "commissariat_central_de_police_de_paris_14_e_arrondissement",
+    "title": "Commissariat central de police de Paris 14e arrondissement",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/paris/commissariat_police-75114-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3430",
+      "url": "http://www.prefecturedepolice.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "97c206afb8c33ffb64a69c580eb5201171cf84b6",
+    "name": "commissariat_central_de_police_de_paris_15_e_arrondissement",
+    "title": "Commissariat central de police de Paris 15e arrondissement",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/paris/commissariat_police-75115-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3430",
+      "url": "http://www.prefecturedepolice.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "b03497867a1c8a7c997e3d1b3b269c06a9aedd8f",
+    "name": "commissariat_central_de_police_de_paris_16_e_arrondissement",
+    "title": "Commissariat central de police de Paris 16e arrondissement",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/paris/commissariat_police-75116-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3430",
+      "url": "http://www.prefecturedepolice.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "7085c0be6d8297d660fe8170d8a5f4460e1409a8",
+    "name": "commissariat_central_de_police_de_paris_17_e_arrondissement",
+    "title": "Commissariat central de police de Paris 17e arrondissement",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/paris/commissariat_police-75117-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3430",
+      "url": "http://www.prefecturedepolice.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "fa3388b3858a88d4c081a90cacabd3c4553f0410",
+    "name": "commissariat_central_de_police_de_paris_18_e_arrondissement",
+    "title": "Commissariat central de police de Paris 18e arrondissement",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/paris/commissariat_police-75118-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3430",
+      "url": "http://www.prefecturedepolice.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "7dce1457db0cc6b7f10a634fb56f923c24f9ea4a",
+    "name": "commissariat_central_de_police_de_paris_19_e_arrondissement",
+    "title": "Commissariat central de police de Paris 19e arrondissement",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/paris/commissariat_police-75119-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3430",
+      "url": "http://www.prefecturedepolice.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "b0e0a2984259f743e3dc42fca0d16dd36ceba45e",
+    "name": "commissariat_central_de_police_de_paris_1_er_arrondissement",
+    "title": "Commissariat central de police de Paris 1er arrondissement",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/paris/commissariat_police-75101-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3430",
+      "url": "http://www.prefecturedepolice.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "f03927a16a0adf30fad1e56b03ab6a3c28e949f3",
+    "name": "commissariat_central_de_police_de_paris_20_e_arrondissement",
+    "title": "Commissariat central de police de Paris 20e arrondissement",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/paris/commissariat_police-75120-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3430",
+      "url": "http://www.prefecturedepolice.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "8d0a2ff3afb4477bc9be43724bc8292500ac7f72",
+    "name": "commissariat_central_de_police_de_paris_3_e_arrondissement",
+    "title": "Commissariat central de police de Paris 3e arrondissement",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/paris/commissariat_police-75103-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3430",
+      "url": "http://www.prefecturedepolice.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "2e9e5cc0f6f2acba20e25592152957a1e7620a2c",
+    "name": "commissariat_central_de_police_de_paris_4_e_arrondissement",
+    "title": "Commissariat central de police de Paris 4e arrondissement",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/paris/commissariat_police-75104-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3430",
+      "url": "http://www.prefecturedepolice.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "d6350909cea40f3d714c890af49b012204d64395",
+    "name": "commissariat_central_de_police_de_paris_5_e_arrondissement",
+    "title": "Commissariat central de police de Paris 5e arrondissement",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/paris/commissariat_police-75105-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3430",
+      "url": "http://www.prefecturedepolice.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "f7fd0dfd9f859d88ff36dc417cfbad15cc65268d",
+    "name": "commissariat_central_de_police_de_paris_6_e_arrondissement",
+    "title": "Commissariat central de police de Paris 6e arrondissement",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/paris/commissariat_police-75106-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3430",
+      "url": "http://www.prefecturedepolice.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "f98bb59ccc6f0e64cce17abd14a6cb4d7bf6ffae",
+    "name": "commissariat_central_de_police_de_paris_7_e_arrondissement",
+    "title": "Commissariat central de police de Paris 7e arrondissement",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/paris/commissariat_police-75107-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3430",
+      "url": "http://www.prefecturedepolice.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "845179114ecce354c161858ddb2a16e5e9aa7bd7",
+    "name": "commissariat_central_de_police_de_paris_8_e_arrondissement",
+    "title": "Commissariat central de police de Paris 8e arrondissement",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/paris/commissariat_police-75108-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3430",
+      "url": "http://www.prefecturedepolice.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "5f1bcdc6f100ad1ae032121dc57790c54bd1093b",
+    "name": "commissariat_central_de_police_de_paris_9_e_arrondissement",
+    "title": "Commissariat central de police de Paris 9e arrondissement",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/paris/commissariat_police-75109-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3430",
+      "url": "http://www.prefecturedepolice.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "2292cd62484ddc4c0e83a643ac12e15a63ded62d",
+    "name": "commissariat_de_police_d_abbeville",
+    "title": "Commissariat de police d'Abbeville",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/somme/commissariat_police-80001-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 22 25 28 20",
+      "url": "http://www.police-nationale.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "88b47f2e81224b8665c324dc53194d33cfd780a3",
+    "name": "commissariat_de_police_des_abymes",
+    "title": "Commissariat de police des Abymes",
+    "url": "https://lannuaire.service-public.fr/guadeloupe/guadeloupe/commissariat_police-97101-01",
+    "metadata": {
+      "email": "",
+      "telephone": "+590 5 90 89 77 17",
+      "url": "http://www.police-nationale.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "78720816c84da9188efe8303dbe36ac1794b2a06",
+    "name": "commissariat_de_police_d_agde",
+    "title": "Commissariat de police d'Agde",
+    "url": "https://lannuaire.service-public.fr/occitanie/herault/commissariat_police-34003-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 67 01 02 00",
+      "url": "http://www.police-nationale.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "6ec22c084a0246a40f790db174f3dacf7bf9e934",
+    "name": "commissariat_de_police_d_agen",
+    "title": "Commissariat de police d'Agen",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/lot-et-garonne/commissariat_police-47001-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 53 68 17 00",
+      "url": "http://www.police-nationale.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "47ec215efa3deec83da2b4c4e3e2b1ec2fa81d09",
+    "name": "commissariat_de_police_d_aix_en_provence",
+    "title": "Commissariat de police d'Aix-en-Provence",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/commissariat_police-13001-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 42 93 97 00",
+      "url": "http://www.police-nationale.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "954490232e02ca284e0f4e3d5e919acf8e01f4af",
+    "name": "commissariat_de_police_d_aix_les_bains",
+    "title": "Commissariat de police d'Aix-les-Bains",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/savoie/commissariat_police-73008-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 79 35 00 25",
+      "url": "http://www.police-nationale.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "977fc8d183aff5c04c668735964b114c4edd048f",
+    "name": "commissariat_de_police_d_ajaccio",
+    "title": "Commissariat de police d'Ajaccio",
+    "url": "https://lannuaire.service-public.fr/corse/corse-du-sud/commissariat_police-2A004-01",
+    "metadata": {
+      "email": "ddspaa2a-cic@interieur.gouv.fr",
+      "telephone": "04 95 11 17 99",
+      "url": "http://www.police-nationale.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "2baf1fb82a01be8254c703fdfe6a8be627bae2ad",
+    "name": "commissariat_de_police_d_albertville",
+    "title": "Commissariat de police d'Albertville",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/savoie/commissariat_police-73011-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 79 32 43 57",
+      "url": "http://www.police-nationale.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "7714ef6785ad48712f9abb44017beae0d4b7e6ad",
+    "name": "commissariat_de_police_d_albi",
+    "title": "Commissariat de police d'Albi",
+    "url": "https://lannuaire.service-public.fr/occitanie/tarn/commissariat_police-81004-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 63 36 28 00",
+      "url": "http://www.police-nationale.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "6edc68b29d9909954590e87b8d354c5820afe6f3",
+    "name": "commissariat_de_police_d_alencon",
+    "title": "Commissariat de police d'Alençon",
+    "url": "https://lannuaire.service-public.fr/normandie/orne/commissariat_police-61001-01",
+    "metadata": {
+      "email": "ddsp61@interieur.gouv.fr",
+      "telephone": "02 33 82 10 10",
+      "url": "http://www.police-nationale.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "56657ec5acd4794cf99aed8a9547f82963d3528f",
+    "name": "commissariat_de_police_d_ales",
+    "title": "Commissariat de police d'Alès",
+    "url": "https://lannuaire.service-public.fr/occitanie/gard/commissariat_police-30007-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 66 78 14 22",
+      "url": "http://www.police-nationale.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "b9aca4453f2acb605ebf63bc5aa613baa187ca23",
+    "name": "commissariat_de_police_d_alfortville",
+    "title": "Commissariat de police d'Alfortville",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/val-de-marne/commissariat_police-94002-01",
+    "metadata": {
+      "email": "",
+      "telephone": "01 43 53 89 10",
+      "url": "http://www.prefecturedepolice.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "0165457346b0d3987d56ad9efeb308f91f6196bb",
+    "name": "commissariat_de_police_d_allonnes",
+    "title": "Commissariat de police d'Allonnes",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/sarthe/commissariat_police-72003-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 43 47 98 05",
+      "url": "http://www.police-nationale.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "41f035de666c6d02450a5c55c689c73daa06487b",
+    "name": "commissariat_de_police_d_amiens",
+    "title": "Commissariat de police d'Amiens",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/somme/commissariat_police-80021-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 22 71 53 00",
+      "url": "http://www.police-nationale.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "e3eb9e4853e6bb1f078e2cc3bae7e3f330b288de",
+    "name": "commissariat_de_police_d_amiens_secteur_est",
+    "title": "Commissariat de police d'Amiens - secteur Est",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/somme/commissariat_police-80021-02",
+    "metadata": {
+      "email": "",
+      "telephone": "03 22 50 22 90",
+      "url": "http://www.police-nationale.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "0eef5357d5c3e9c7f884f5acfeececf888672be1",
+    "name": "commissariat_de_police_d_amiens_secteur_ouest",
+    "title": "Commissariat de police d'Amiens - secteur Ouest",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/somme/commissariat_police-80021-03",
+    "metadata": {
+      "email": "ddsp80-csp-amiens-etouvie@interieur.gouv.fr",
+      "telephone": "03 22 69 24 70",
+      "url": "http://www.police-nationale.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "79fd01d61502406f16b16d693a522950d19b1d08",
+    "name": "commissariat_de_police_d_angers",
+    "title": "Commissariat de police d'Angers",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/maine-et-loire/commissariat_police-49007-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 41 57 52 00",
+      "url": "http://www.police-nationale.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "1f588b6a0d0e7cd44d07856bcc2aac4c1da6dc26",
+    "name": "commissariat_de_police_d_anglet",
+    "title": "Commissariat de police d'Anglet",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/pyrenees-atlantiques/commissariat_police-64024-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 59 63 84 64",
+      "url": "http://www.police-nationale.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "cd8a3e220884ddb1d04316775f66d20f55c50319",
+    "name": "commissariat_de_police_d_angouleme",
+    "title": "Commissariat de police d'Angoulême",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/charente/commissariat_police-16015-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 45 39 38 37",
+      "url": "http://www.police-nationale.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "88204aed109deea30b7cdf401dcaf586c27d9d9a",
+    "name": "commissariat_de_police_d_aniche",
+    "title": "Commissariat de police d'Aniche",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/nord/commissariat_police-59008-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 27 71 53 90",
+      "url": "http://www.police-nationale.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "828a01e4054d5c592a3f447d1e9695f2ca3350d2",
+    "name": "commissariat_de_police_d_annecy",
+    "title": "Commissariat de police d'Annecy",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/haute-savoie/commissariat_police-74010-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 50 52 32 00",
+      "url": "http://www.police-nationale.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "21b1c287a737afb2f9609c74f3f7aefc9ea31f59",
+    "name": "commissariat_de_police_d_annemasse",
+    "title": "Commissariat de police d'Annemasse",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/haute-savoie/commissariat_police-74012-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 57 26 02 00",
+      "url": "http://www.police-nationale.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "cbadee26f44665ae7e427406a710d8fd4ac3df27",
+    "name": "commissariat_de_police_d_antibes",
+    "title": "Commissariat de police d'Antibes",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/alpes-maritimes/commissariat_police-06004-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 92 90 78 00",
+      "url": "http://www.police-nationale.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "f0ff71f19346ea0a2527d73eafdb7d3f63490e8c",
+    "name": "commissariat_de_police_d_antony",
+    "title": "Commissariat de police d'Antony",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/hauts-de-seine/commissariat_police-92002-01",
+    "metadata": {
+      "email": "",
+      "telephone": "01 55 59 06 45",
+      "url": "http://www.prefecturedepolice.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "31fb6904ac5df1c04c43e737ef51af5130a8742d",
+    "name": "commissariat_de_police_d_anzin",
+    "title": "Commissariat de police d'Anzin",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/nord/commissariat_police-59014-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 27 28 08 00",
+      "url": "http://www.police-nationale.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "2ec3a3d4cb917c46a6f37ac6caeb798349f9b7fe",
+    "name": "commissariat_de_police_d_arcachon",
+    "title": "Commissariat de police d'Arcachon",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/gironde/commissariat_police-33009-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 57 72 29 30",
+      "url": "http://www.police-nationale.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "de29e097d99cc126a0792be07d9bf74372629265",
+    "name": "commissariat_de_police_d_argentan",
+    "title": "Commissariat de police d'Argentan",
+    "url": "https://lannuaire.service-public.fr/normandie/orne/commissariat_police-61006-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 33 12 14 60",
+      "url": "http://www.police-nationale.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "825a9b26e487c39b4ca1db42b2db3d1278fe5f26",
+    "name": "commissariat_de_police_d_argenteuil",
+    "title": "Commissariat de police d'Argenteuil",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/val-d-oise/commissariat_police-95018-01",
+    "metadata": {
+      "email": "",
+      "telephone": "01 34 26 17 10",
+      "url": "http://www.police-nationale.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "327d5ca55ef48416d42c8ac935c98bae56df79a3",
+    "name": "commissariat_de_police_d_arles",
+    "title": "Commissariat de police d'Arles",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/commissariat_police-13004-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 90 18 45 00",
+      "url": "http://www.police-nationale.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "c5beb5a45ff29bb604dae6a17b81b5c39ef0748d",
+    "name": "commissariat_de_police_d_armentieres",
+    "title": "Commissariat de police d'Armentières",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/nord/commissariat_police-59017-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 20 17 23 23",
+      "url": "http://www.police-nationale.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "0fa63fc42150ace42be6490be90caa5498ae3046",
+    "name": "commissariat_de_police_d_arpajon",
+    "title": "Commissariat de police d'Arpajon",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/essonne/commissariat_police-91021-01",
+    "metadata": {
+      "email": "",
+      "telephone": "01 69 26 19 70",
+      "url": "http://www.police-nationale.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "f958fdddbb386d3a3ecc7b731b32076d03404a45",
+    "name": "commissariat_de_police_d_arras",
+    "title": "Commissariat de police d'Arras",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/pas-de-calais/commissariat_police-62041-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 21 24 50 17",
+      "url": "http://www.police-nationale.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "d7ae2d68d2d573f6d1ce3c253f6ffe14b834a86c",
+    "name": "commissariat_de_police_d_asnieres_sur_seine",
+    "title": "Commissariat de police d'Asnières-sur-Seine",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/hauts-de-seine/commissariat_police-92004-01",
+    "metadata": {
+      "email": "csp-asnieres-sur-seine-92@interieur.gouv.fr",
+      "telephone": "01 41 11 83 10",
+      "url": "http://www.prefecturedepolice.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "d2025eff2337502ff8f2cd17fd220b7e73479998",
+    "name": "commissariat_de_police_d_athis_mons",
+    "title": "Commissariat de police d'Athis-Mons",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/essonne/commissariat_police-91027-01",
+    "metadata": {
+      "email": "",
+      "telephone": "01 69 84 23 70",
+      "url": "http://www.police-nationale.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "40ade1e6a215ca662a6c73870aa58b44440f15ea",
+    "name": "commissariat_de_police_d_aubagne",
+    "title": "Commissariat de police d'Aubagne",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/commissariat_police-13005-01",
+    "metadata": {
+      "email": "ddsp13-csp-aubagne@interieur.gouv.fr",
+      "telephone": "04 88 22 71 00",
+      "url": "http://www.police-nationale.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "9a999671099a2783b2a1cf7b7231a30f59a1cf26",
+    "name": "commissariat_de_police_d_aubenas",
+    "title": "Commissariat de police d'Aubenas",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/ardeche/commissariat_police-07019-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 75 89 22 22",
+      "url": "http://www.police-nationale.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "cfd2702a95d3537d9a45f965e750c7326efb3cc9",
+    "name": "commissariat_de_police_d_aubervilliers",
+    "title": "Commissariat de police d'Aubervilliers",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/seine-saint-denis/commissariat_police-93001-01",
+    "metadata": {
+      "email": "commissariat-aubervilliers@interieur.gouv.fr",
+      "telephone": "01 48 11 17 00",
+      "url": "http://www.prefecturedepolice.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "3dabad5f2a7046143c128c99095808071f6ada19",
+    "name": "commissariat_de_police_d_auby",
+    "title": "Commissariat de police d'Auby",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/nord/commissariat_police-59028-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 27 95 96 00",
+      "url": "http://www.police-nationale.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "c3f32dd7118dadad5eec86f73435c315e4f481f5",
+    "name": "commissariat_de_police_d_auch",
+    "title": "Commissariat de police d'Auch",
+    "url": "https://lannuaire.service-public.fr/occitanie/gers/commissariat_police-32013-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 62 61 54 54",
+      "url": "http://www.police-nationale.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "c05668e21f505221672f202e820f06dddd85477f",
+    "name": "commissariat_de_police_d_auchel",
+    "title": "Commissariat de police d'Auchel",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/pas-de-calais/commissariat_police-62048-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 21 61 86 17",
+      "url": "http://www.police-nationale.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "4b5cb224c63a35d39f32645e260029e61e5c7f47",
+    "name": "commissariat_de_police_d_auchy_les_mines",
+    "title": "Commissariat de police d'Auchy-les-Mines",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/pas-de-calais/commissariat_police-62051-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 61 88 50 00",
+      "url": "http://www.police-nationale.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "8804047af4b9d529420dea018e466ecfee0850bc",
+    "name": "commissariat_de_police_d_aulnay_sous_bois",
+    "title": "Commissariat de police d'Aulnay-sous-Bois",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/seine-saint-denis/commissariat_police-93005-01",
+    "metadata": {
+      "email": "dspap-dtsp93-csp-aulnay-sous-bois@interieur.gouv.fr",
+      "telephone": "01 48 19 30 00",
+      "url": "http://www.prefecturedepolice.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "477406d8be94da536fa868fc7a20798798b4ff1d",
+    "name": "commissariat_de_police_d_aulnoye_aymeries",
+    "title": "Commissariat de police d'Aulnoye-Aymeries",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/nord/commissariat_police-59033-01",
+    "metadata": {
+      "email": "ddsp59-csub-aulnoye-aymeries@interieur.gouv.fr",
+      "telephone": "03 27 63 01 10",
+      "url": "http://www.police-nationale.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "a1437182587adbadb69506bc6bcbefc6dedbded3",
+    "name": "commissariat_de_police_d_aurillac",
+    "title": "Commissariat de police d'Aurillac",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/cantal/commissariat_police-15014-01",
+    "metadata": {
+      "email": "ddsp15@interieur.gouv.fr",
+      "telephone": "04 71 45 51 00",
+      "url": "http://www.police-nationale.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "2e5677c99d7c941c2723ccd0f4ea29a88bf2eb22",
+    "name": "commissariat_de_police_d_auxerre",
+    "title": "Commissariat de police d'Auxerre",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/yonne/commissariat_police-89024-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 86 51 85 00",
+      "url": "http://www.police-nationale.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "38ca47ed235fb230a442889b52f0a4ecd5ac5178",
+    "name": "commissariat_de_police_d_avignon",
+    "title": "Commissariat de police d'Avignon",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/vaucluse/commissariat_police-84007-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 32 40 55 55",
+      "url": "http://www.police-nationale.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "3ede50717e5efd8ab3a6d7ac563593dbeb6202ca",
+    "name": "commissariat_de_police_d_avion",
+    "title": "Commissariat de police d'Avion",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/pas-de-calais/commissariat_police-62065-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 21 14 23 17",
+      "url": "http://www.police-nationale.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "f9f1d2e806c24036c351e1a5e60b88b48b3d13f7",
+    "name": "commissariat_de_police_de_bagneux",
+    "title": "Commissariat de police de Bagneux",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/hauts-de-seine/commissariat_police-92007-01",
+    "metadata": {
+      "email": "",
+      "telephone": "01 55 48 07 50",
+      "url": "http://www.prefecturedepolice.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "97cfdcdee7ef9477a43253f1144cd37e3092460a",
+    "name": "commissariat_de_police_de_bagnols_sur_ceze",
+    "title": "Commissariat de police de Bagnols-sur-Cèze",
+    "url": "https://lannuaire.service-public.fr/occitanie/gard/commissariat_police-30028-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 66 90 63 90",
+      "url": "http://www.police-nationale.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "2a042ed8ff2d336a3f1ccba9b8039fd0443c3b58",
+    "name": "commissariat_de_police_de_bailleul",
+    "title": "Commissariat de police de Bailleul",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/nord/commissariat_police-59043-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 28 50 32 10",
+      "url": "http://www.police-nationale.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "dc8f1beff4293ee87cc1897ace22ac6dd88ea084",
+    "name": "commissariat_de_police_de_bar_le_duc",
+    "title": "Commissariat de police de Bar-le-Duc",
+    "url": "https://lannuaire.service-public.fr/grand-est/meuse/commissariat_police-55029-02",
+    "metadata": {
+      "email": "",
+      "telephone": "03 29 79 00 17",
+      "url": "http://www.police-nationale.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "ab087ead4ec52f46a7a8d8a2eb86bb295e0cc9b6",
+    "name": "commissariat_de_police_de_basse_terre",
+    "title": "Commissariat de police de Basse-Terre",
+    "url": "https://lannuaire.service-public.fr/guadeloupe/guadeloupe/commissariat_police-97105-01",
+    "metadata": {
+      "email": "",
+      "telephone": "+590 5 90 99 20 00",
+      "url": "http://www.police-nationale.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "eacd2bfbf1805d48d229e4230f816f8df01c4e31",
+    "name": "commissariat_de_police_de_bastia",
+    "title": "Commissariat de police de Bastia",
+    "url": "https://lannuaire.service-public.fr/corse/haute-corse/commissariat_police-2B033-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 95 55 22 22",
+      "url": "http://www.police-nationale.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "e8c52e461be5002498c33b101292ca3cde7f15f4",
+    "name": "commissariat_de_police_de_bayonne",
+    "title": "Commissariat de police de Bayonne",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/pyrenees-atlantiques/commissariat_police-64102-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 59 46 22 22",
+      "url": "http://www.police-nationale.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "44fec0c5c73dad48db5533c951d181f8899469c6",
+    "name": "commissariat_de_police_de_beaune",
+    "title": "Commissariat de police de Beaune",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/cote-d-or/commissariat_police-21054-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 80 25 09 25",
+      "url": "http://www.police-nationale.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "2b641240da494119405c921f2038bd4a7ae8fcc2",
+    "name": "commissariat_de_police_de_beausoleil",
+    "title": "Commissariat de police de Beausoleil",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/alpes-maritimes/commissariat_police-06012-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 92 09 44 30",
+      "url": "http://www.police-nationale.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "41ae6317be5c380e3fc41472bb4fa3acbfdf8640",
+    "name": "commissariat_de_police_de_beauvais",
+    "title": "Commissariat de police de Beauvais",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/oise/commissariat_police-60057-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 44 89 80 00",
+      "url": "http://www.police-nationale.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "21c0176600986926bace8c3d0af130cb6aedd606",
+    "name": "commissariat_de_police_de_begles",
+    "title": "Commissariat de police de Bègles",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/gironde/commissariat_police-33039-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 57 35 65 70",
+      "url": "http://www.police-nationale.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "374f015454371ef093f268ec19fc8f40ba240c08",
+    "name": "commissariat_de_police_de_belfort",
+    "title": "Commissariat de police de Belfort",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/territoire-de-belfort/commissariat_police-90010-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 84 58 50 00",
+      "url": "http://www.police-nationale.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "cd2c29a6ed57f42d3b10368c2efd27002ebd04d2",
+    "name": "commissariat_de_police_de_berck_sur_mer",
+    "title": "Commissariat de police de Berck-sur-Mer",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/pas-de-calais/commissariat_police-62108-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 21 09 84 17",
+      "url": "http://www.police-nationale.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "6bed357039dc93e4248a7db20a39e8815d72b106",
+    "name": "commissariat_de_police_de_bergerac",
+    "title": "Commissariat de police de Bergerac",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/dordogne/commissariat_police-24037-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 53 74 74 17",
+      "url": "http://www.police-nationale.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "6e75f7961957745e6ecc909da68592cb54d86ca9",
+    "name": "commissariat_de_police_de_besancon",
+    "title": "Commissariat de police de Besançon",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/doubs/commissariat_police-25056-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 81 21 11 22",
+      "url": "http://www.police-nationale.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "8051d768cd1615c6ca7ffcc25237b39071828aeb",
+    "name": "commissariat_de_police_de_bethune",
+    "title": "Commissariat de police de Béthune",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/pas-de-calais/commissariat_police-62119-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 21 54 77 77",
+      "url": "http://www.police-nationale.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "466b53520b2889c4920b5aa4329cc0495bccb332",
+    "name": "commissariat_de_police_de_beziers",
+    "title": "Commissariat de police de Béziers",
+    "url": "https://lannuaire.service-public.fr/occitanie/herault/commissariat_police-34032-01",
+    "metadata": {
+      "email": "ddsp34-csp-beziers@interieur.gouv.fr",
+      "telephone": "04 67 49 54 00",
+      "url": "http://www.police-nationale.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "bd858a2cf3f2898b2a34638f126a78e69485badd",
+    "name": "commissariat_de_police_de_bezons",
+    "title": "Commissariat de police de Bezons",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/val-d-oise/commissariat_police-95063-01",
+    "metadata": {
+      "email": "",
+      "telephone": "01 70 29 30 30",
+      "url": "http://www.police-nationale.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "6ba396a3b39a2db3559aa751ec380993b8dcd263",
+    "name": "commissariat_de_police_de_biarritz",
+    "title": "Commissariat de police de Biarritz",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/pyrenees-atlantiques/commissariat_police-64122-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 59 01 22 22",
+      "url": "http://www.police-nationale.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "6d36792554274d9a191e0962a7973f1f5cfe63a1",
+    "name": "commissariat_de_police_de_blagnac",
+    "title": "Commissariat de police de Blagnac",
+    "url": "https://lannuaire.service-public.fr/occitanie/haute-garonne/commissariat_police-31069-01",
+    "metadata": {
+      "email": "ddsp31-csub-blagnac@interieur.gouv.fr",
+      "telephone": "05 62 12 52 40",
+      "url": "http://www.police-nationale.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "36c1d5883b76a6913995d632ad3d25017840493d",
+    "name": "commissariat_de_police_du_blanc_mesnil",
+    "title": "Commissariat de police du Blanc-Mesnil",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/seine-saint-denis/commissariat_police-93007-01",
+    "metadata": {
+      "email": "",
+      "telephone": "01 48 14 29 30",
+      "url": "http://www.prefecturedepolice.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "8245f07d85231d90c415d49ecbf7b693a939d91b",
+    "name": "commissariat_de_police_de_blois",
+    "title": "Commissariat de police de Blois",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/loir-et-cher/commissariat_police-41018-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 54 55 17 78",
+      "url": "http://www.police-nationale.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "50e1a2ad0dee1819c3ca3034db95797f94282082",
+    "name": "commissariat_de_police_de_bobigny",
+    "title": "Commissariat de police de Bobigny",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/seine-saint-denis/commissariat_police-93008-01",
+    "metadata": {
+      "email": "",
+      "telephone": "01 41 60 26 99",
+      "url": "http://www.prefecturedepolice.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "f8bd98251efd5f84c611cff32749a477a5b43dfe",
+    "name": "commissariat_de_police_de_boissy_saint_leger",
+    "title": "Commissariat de police de Boissy-Saint-Léger",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/val-de-marne/commissariat_police-94004-01",
+    "metadata": {
+      "email": "",
+      "telephone": "01 45 10 71 50",
+      "url": "http://www.prefecturedepolice.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "8e302ed2b84326b587bfc25fe4ef2bdaeae04008",
+    "name": "commissariat_de_police_de_bolbec",
+    "title": "Commissariat de police de Bolbec",
+    "url": "https://lannuaire.service-public.fr/normandie/seine-maritime/commissariat_police-76114-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 32 84 56 60",
+      "url": "http://www.police-nationale.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "d0232cbcf54625ba62e888cc2adea8ffdd295b4b",
+    "name": "commissariat_de_police_de_bondy",
+    "title": "Commissariat de police de Bondy",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/seine-saint-denis/commissariat_police-93010-01",
+    "metadata": {
+      "email": "",
+      "telephone": "01 48 50 30 00",
+      "url": "http://www.prefecturedepolice.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "2ca33e12d5cecfabe1e9f2efced2c0717a3af226",
+    "name": "commissariat_de_police_de_bordeaux",
+    "title": "Commissariat de police de Bordeaux",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/gironde/commissariat_police-33063-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 57 85 77 77",
+      "url": "http://www.police-nationale.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "3c0f7870f76aefd4f2346e22af0f698f616ac742",
+    "name": "commissariat_de_police_de_boulazac",
+    "title": "Commissariat de police de Boulazac",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/dordogne/commissariat_police-24053-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 53 35 16 41",
+      "url": "http://www.police-nationale.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "d0fdf68db778385a7665a8dd39ce0d77b42b215d",
+    "name": "commissariat_de_police_de_boulogne_sur_mer",
+    "title": "Commissariat de police de Boulogne-sur-Mer",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/pas-de-calais/commissariat_police-62160-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 21 99 48 48",
+      "url": "http://www.police-nationale.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "d44cc5132484646e74b3110d50bf26192ed76c98",
+    "name": "commissariat_de_police_de_bourg_en_bresse",
+    "title": "Commissariat de police de Bourg-en-Bresse",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/ain/commissariat_police-01053-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 74 47 20 20",
+      "url": "http://www.police-nationale.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "f16c8dbbe9706e23bcee1236490dc4f9f6ebd0bc",
+    "name": "commissariat_de_police_de_bourges",
+    "title": "Commissariat de police de Bourges",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/cher/commissariat_police-18033-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 48 23 77 17",
+      "url": "http://www.police-nationale.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "18e9759cdf36f5d0359aab48906d47f359fc2023",
+    "name": "commissariat_de_police_de_bourg_les_valence",
+    "title": "Commissariat de police de Bourg-lès-Valence",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/drome/commissariat_police-26058-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 75 78 00 17",
+      "url": "http://www.police-nationale.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "c6f05ed2eddca63a47e255ae39299393b9d911e7",
+    "name": "commissariat_de_police_de_bourgoin_jallieu",
+    "title": "Commissariat de police de Bourgoin-Jallieu",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/isere/commissariat_police-38053-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 74 43 97 17",
+      "url": "http://www.police-nationale.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "915b28ebc45c1d1c43127aca4ee845dd9e3fdf4f",
+    "name": "commissariat_de_police_du_bouscat",
+    "title": "Commissariat de police du Bouscat",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/gironde/commissariat_police-33069-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 57 22 52 30",
+      "url": "http://www.police-nationale.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "be14053cd9ec0ff1c8bb7e31311e101537b7d06c",
+    "name": "commissariat_de_police_de_brest",
+    "title": "Commissariat de police de Brest",
+    "url": "https://lannuaire.service-public.fr/bretagne/finistere/commissariat_police-29019-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 21 09 53 60",
+      "url": "http://www.police-nationale.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "931cfa608ddeb03809dee447a8200fd0d672b941",
+    "name": "commissariat_de_police_de_briancon",
+    "title": "Commissariat de police de Briançon",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/hautes-alpes/commissariat_police-05023-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 86 99 18 66",
+      "url": "http://www.police-nationale.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "7f88863583d24aaf40f1578de6a8842626fcf2c9",
+    "name": "commissariat_de_police_de_briey",
+    "title": "Commissariat de police de Briey",
+    "url": "https://lannuaire.service-public.fr/grand-est/meurthe-et-moselle/commissariat_police-54099-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 82 47 12 30",
+      "url": "http://www.police-nationale.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "61bd9def70c1ca299208bb5287789f5601b159fe",
+    "name": "commissariat_de_police_de_brive_la_gaillarde",
+    "title": "Commissariat de police de Brive-la-Gaillarde",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/correze/commissariat_police-19031-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 55 17 46 00",
+      "url": "http://www.police-nationale.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "6a455ea155db79a9f808387207dd6d6a6c97e6b7",
+    "name": "commissariat_de_police_de_bron",
+    "title": "Commissariat de police de Bron",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/rhone/commissariat_police-69029-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 72 14 97 40",
+      "url": "http://www.police-nationale.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "45793aef130791a58d30fefffb1013489d07ffe3",
+    "name": "commissariat_de_police_de_bruay_la_buissiere",
+    "title": "Commissariat de police de Bruay-la-Buissière",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/pas-de-calais/commissariat_police-62178-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 21 64 53 20",
+      "url": "http://www.police-nationale.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "7b31233dc56ded836b112744c237a238e1789020",
+    "name": "commissariat_de_police_de_brunoy",
+    "title": "Commissariat de police de Brunoy",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/essonne/commissariat_police-91114-01",
+    "metadata": {
+      "email": "",
+      "telephone": "01 60 47 91 50",
+      "url": "http://www.police-nationale.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "7ee06a0e44f05cfe7b19a4280a40b944ded22aaa",
+    "name": "commissariat_de_police_de_cachan",
+    "title": "Commissariat de police de Cachan",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/val-de-marne/commissariat_police-94016-01",
+    "metadata": {
+      "email": "",
+      "telephone": "01 45 46 73 00",
+      "url": "http://www.police-nationale.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "58f0581d03ab66cb3ca771f7ac05a6898cd5c810",
+    "name": "commissariat_de_police_de_caen",
+    "title": "Commissariat de police de Caen",
+    "url": "https://lannuaire.service-public.fr/normandie/calvados/commissariat_police-14118-01",
+    "metadata": {
+      "email": "ddsp14@interieur.gouv.fr",
+      "telephone": "02 31 29 22 22",
+      "url": "http://www.police-nationale.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "da82e22a6747018e61ac0d5e6ce71882d2a4128b",
+    "name": "commissariat_de_police_de_cagnes_sur_mer",
+    "title": "Commissariat de police de Cagnes-sur-Mer",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/alpes-maritimes/commissariat_police-06027-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 92 13 56 10",
+      "url": "http://www.police-nationale.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "fb43d769593ae7f2e70381e28beed51ab934021d",
+    "name": "commissariat_de_police_de_cahors",
+    "title": "Commissariat de police de Cahors",
+    "url": "https://lannuaire.service-public.fr/occitanie/lot/commissariat_police-46042-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 65 23 17 17",
+      "url": "http://www.police-nationale.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "6868fcd76da6bb8fbfdc5a4512c7ca788853ee5c",
+    "name": "commissariat_de_police_de_calais",
+    "title": "Commissariat de police de Calais",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/pas-de-calais/commissariat_police-62193-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 21 19 13 17",
+      "url": "http://www.police-nationale.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "7fb5da1e3cb8d7230c449831ed53462448accd17",
+    "name": "commissariat_de_police_de_calonne_ricouart",
+    "title": "Commissariat de police de Calonne-Ricouart",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/pas-de-calais/commissariat_police-62194-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 21 01 75 17",
+      "url": "http://www.police-nationale.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "9ba4c7a1d237d6bea42391cc9a77c291e158648b",
+    "name": "commissariat_de_police_de_caluire_et_cuire",
+    "title": "Commissariat de police de Caluire-et-Cuire",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/rhone/commissariat_police-69034-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 72 27 06 14",
+      "url": "http://www.police-nationale.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "e1e1d39a86d5dd80831e105664b0b6476fcb1131",
+    "name": "commissariat_de_police_de_cambrai",
+    "title": "Commissariat de police de Cambrai",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/nord/commissariat_police-59122-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 27 72 83 00",
+      "url": "http://www.police-nationale.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "04b654a289aa73dcba27436c284847528ed92426",
+    "name": "commissariat_de_police_de_cannes",
+    "title": "Commissariat de police de Cannes",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/alpes-maritimes/commissariat_police-06029-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 93 06 22 22",
+      "url": "http://www.police-nationale.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "c019f1c0523511ad6ad6995b362e24ce05f8cab8",
+    "name": "commissariat_de_police_du_cannet",
+    "title": "Commissariat de police du Cannet",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/alpes-maritimes/commissariat_police-06030-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 93 45 94 22",
+      "url": "http://www.police-nationale.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "d4ad0ba1f176c997bc7e0eddbd172cbe3bc78cea",
+    "name": "commissariat_de_police_de_capesterre_belle_eau",
+    "title": "Commissariat de police de Capesterre-Belle-Eau",
+    "url": "https://lannuaire.service-public.fr/guadeloupe/guadeloupe/commissariat_police-97107-01",
+    "metadata": {
+      "email": "",
+      "telephone": "+590 5 90 86 30 13",
+      "url": "http://www.police-nationale.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "f573e42b9a785956a2cc1c7cf3100698619cf48d",
+    "name": "commissariat_de_police_de_carcassonne",
+    "title": "Commissariat de police de Carcassonne",
+    "url": "https://lannuaire.service-public.fr/occitanie/aude/commissariat_police-11069-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 68 11 26 00",
+      "url": "http://www.police-nationale.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "82958ebc4822c4824662715138f7beff7144f3fb",
+    "name": "commissariat_de_police_de_carmaux",
+    "title": "Commissariat de police de Carmaux",
+    "url": "https://lannuaire.service-public.fr/occitanie/tarn/commissariat_police-81060-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 63 80 23 80",
+      "url": "http://www.police-nationale.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "dabc83762fc441815c78e1d16a7cfe685858b4c0",
+    "name": "commissariat_de_police_de_carpentras",
+    "title": "Commissariat de police de Carpentras",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/vaucluse/commissariat_police-84031-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 90 67 62 00",
+      "url": "http://www.police-nationale.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "f1c399a0fb04d431366576a1a079a1af8a36d962",
+    "name": "commissariat_de_police_de_carvin",
+    "title": "Commissariat de police de Carvin",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/pas-de-calais/commissariat_police-62215-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 21 79 75 10",
+      "url": "http://www.police-nationale.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "1b26416aaac164c7721549fd40c9304f323471dd",
+    "name": "commissariat_de_police_de_castelsarrasin",
+    "title": "Commissariat de police de Castelsarrasin",
+    "url": "https://lannuaire.service-public.fr/occitanie/tarn-et-garonne/commissariat_police-82033-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 63 32 71 50",
+      "url": "http://www.police-nationale.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "7429b3ac481f8d51d59bff62133574d82028750c",
+    "name": "commissariat_de_police_de_castres",
+    "title": "Commissariat de police de Castres",
+    "url": "https://lannuaire.service-public.fr/occitanie/tarn/commissariat_police-81065-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 63 62 01 20",
+      "url": "http://www.police-nationale.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "f8958bc8a46ab29c43ef0cfbb76f6291d0b01a27",
+    "name": "commissariat_de_police_de_cavaillon",
+    "title": "Commissariat de police de Cavaillon",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/vaucluse/commissariat_police-84035-01",
+    "metadata": {
+      "email": "ddsp84-csp-cavaillon-ref-accueil@interieur.gouv.fr",
+      "telephone": "04 90 78 58 00",
+      "url": "http://www.police-nationale.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "312233e5a485d41aa6c06fcafa42a2491e889850",
+    "name": "commissariat_de_police_de_cayenne",
+    "title": "Commissariat de police de Cayenne",
+    "url": "https://lannuaire.service-public.fr/guyane/guyane/commissariat_police-97302-01",
+    "metadata": {
+      "email": "",
+      "telephone": "+594 5 94 29 98 00",
+      "url": "http://www.police-nationale.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "5b00907f41e9ae5fe49e458ec8dd718bb888940b",
+    "name": "commissariat_de_police_de_cenon",
+    "title": "Commissariat de police de Cenon",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/gironde/commissariat_police-33119-01",
+    "metadata": {
+      "email": "csub-sec-oper-bordeaux-cenon-33@interieur.gouv.fr",
+      "telephone": "05 56 38 52 52",
+      "url": "http://www.police-nationale.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "ed77ee7cafc5e46ac1c55f3023a3a84182fcb0f5",
+    "name": "commissariat_de_police_de_cergy_pontoise",
+    "title": "Commissariat de police de Cergy-Pontoise",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/val-d-oise/commissariat_police-95127-01",
+    "metadata": {
+      "email": "",
+      "telephone": "01 34 43 17 17",
+      "url": "http://www.police-nationale.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "1b806c8c26abfbce24c1de526ede142df57845af",
+    "name": "commissariat_de_police_de_chalons_en_champagne",
+    "title": "Commissariat de police de Châlons-en-Champagne",
+    "url": "https://lannuaire.service-public.fr/grand-est/marne/commissariat_police-51108-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 26 66 27 27",
+      "url": "http://www.police-nationale.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "bc1bde4fa837d38ab4e1d3d35d2e0dd16b668f2a",
+    "name": "commissariat_de_police_de_chalon_sur_saone",
+    "title": "Commissariat de police de Chalon-sur-Saône",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/saone-et-loire/commissariat_police-71321-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 85 90 66 00",
+      "url": "http://www.police-nationale.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "89a5f1cf5daa024acb50f455d5cee4aff48daa4a",
+    "name": "commissariat_de_police_de_chambery",
+    "title": "Commissariat de police de Chambéry",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/savoie/commissariat_police-73065-01",
+    "metadata": {
+      "email": "ddsp73@interieur.gouv.fr",
+      "telephone": "04 79 62 84 00",
+      "url": "http://www.police-nationale.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "111b39562b84dbea82d5d111fbe2dc24c891ca31",
+    "name": "commissariat_de_police_du_chambon_feugerolles",
+    "title": "Commissariat de police du Chambon-Feugerolles",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/loire/commissariat_police-42044-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 77 10 14 50",
+      "url": "http://www.police-nationale.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "5df553f1668e3bb1c366dc7b605047b4948463ca",
+    "name": "commissariat_de_police_de_champigny_sur_marne",
+    "title": "Commissariat de police de Champigny-sur-Marne",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/val-de-marne/commissariat_police-94017-01",
+    "metadata": {
+      "email": "commissariat-champigny-sur-marne@interieur.gouv.fr",
+      "telephone": "01 45 16 84 00",
+      "url": "http://www.prefecturedepolice.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "eaaaeacf69bc5bd63136f631a2baf4183194d969",
+    "name": "commissariat_de_police_de_champs_sur_marne",
+    "title": "Commissariat de police de Champs-sur-Marne",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/seine-et-marne/commissariat_police-77083-01",
+    "metadata": {
+      "email": "",
+      "telephone": "01 64 68 07 53",
+      "url": "http://www.police-nationale.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "a83415559527dd55f36f16dabb5279c5875216f0",
+    "name": "commissariat_de_police_de_charenton_le_pont",
+    "title": "Commissariat de police de Charenton-le-Pont",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/val-de-marne/commissariat_police-94018-01",
+    "metadata": {
+      "email": "",
+      "telephone": "01 43 53 61 20",
+      "url": "http://www.prefecturedepolice.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "0657f85f651e4344125020a490e4437bb71087c7",
+    "name": "commissariat_de_police_de_charleville_mezieres",
+    "title": "Commissariat de police de Charleville-Mezières",
+    "url": "https://lannuaire.service-public.fr/grand-est/ardennes/commissariat_police-08105-01",
+    "metadata": {
+      "email": "csp-charleville-mezieres-08@interieur.gouv.fr",
+      "telephone": "03 24 57 94 94",
+      "url": "http://www.police-nationale.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "9c2ab0e1d04ef1d2eb821f378e4ea0f36a4def7d",
+    "name": "commissariat_de_police_de_chartres",
+    "title": "Commissariat de police de Chartres",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/eure-et-loir/commissariat_police-28085-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 37 24 75 39",
+      "url": "http://www.police-nationale.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "e0baad011c42d278d677bb30457ecc1877c2a787",
+    "name": "commissariat_de_police_de_chateauroux",
+    "title": "Commissariat de police de Châteauroux",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/indre/commissariat_police-36044-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 54 08 50 17",
+      "url": "http://www.police-nationale.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "3ac3ba53843c9f74c7986dfcb303045fc253776b",
+    "name": "commissariat_de_police_de_chateau_thierry",
+    "title": "Commissariat de police de Château-Thierry",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/aisne/commissariat_police-02168-01",
+    "metadata": {
+      "email": "participation-citoyenne-chateau-thierry@interieur.gouv.fr",
+      "telephone": "03 23 84 26 26",
+      "url": "http://www.police-nationale.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "17aa8c937a513521352757d6f0b093ce4a3e4044",
+    "name": "commissariat_de_police_de_chatellerault",
+    "title": "Commissariat de police de Châtellerault",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/vienne/commissariat_police-86066-01",
+    "metadata": {
+      "email": "ddsp86-csp-chatellerault@interieur.gouv.fr",
+      "telephone": "05 49 20 05 49",
+      "url": "http://www.police-nationale.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "b482158b786b8a7300d04a1b386f91638eb7e283",
+    "name": "commissariat_de_police_de_chatenay_malabry",
+    "title": "Commissariat de police de Châtenay-Malabry",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/hauts-de-seine/commissariat_police-92019-01",
+    "metadata": {
+      "email": "commissariat-chatenay-malabry@interieur.gouv.fr",
+      "telephone": "01 40 91 25 00",
+      "url": "http://www.prefecturedepolice.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "e772acca5d8d0e3cd25f12de760e3e61fbae611f",
+    "name": "commissariat_de_police_de_chaumont",
+    "title": "Commissariat de police de Chaumont",
+    "url": "https://lannuaire.service-public.fr/grand-est/haute-marne/commissariat_police-52121-01",
+    "metadata": {
+      "email": "ddsp52@interieur.gouv.fr",
+      "telephone": "03 25 03 85 50",
+      "url": "http://www.police-nationale.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "3a4b5284123e02eb4537198e63659ad002d6fd54",
+    "name": "commissariat_de_police_de_chauray",
+    "title": "Commissariat de police de Chauray",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/deux-sevres/commissariat_police-79081-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 49 73 54 20",
+      "url": "http://www.police-nationale.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "f0a566779a0f170c1cc21c81e3524c324c812511",
+    "name": "commissariat_de_police_de_chelles",
+    "title": "Commissariat de police de Chelles",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/seine-et-marne/commissariat_police-77108-01",
+    "metadata": {
+      "email": "",
+      "telephone": "01 60 93 20 00",
+      "url": "http://www.police-nationale.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "b946072673b691f2863d901eb75bf212986b1ef1",
+    "name": "commissariat_de_police_de_chennevieres_sur_marne",
+    "title": "Commissariat de police de Chennevières-sur-Marne",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/val-de-marne/commissariat_police-94019-01",
+    "metadata": {
+      "email": "csp.chennevieres-94@interieur.gouv.fr",
+      "telephone": "01 49 62 69 00",
+      "url": "http://www.prefecturedepolice.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "de58637b450efbdf5fcc0e9e22617e7d5b769d4a",
+    "name": "commissariat_de_police_de_chenove",
+    "title": "Commissariat de police de Chenôve",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/cote-d-or/commissariat_police-21166-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 80 54 03 60",
+      "url": "http://www.police-nationale.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "7e8cbc9ddadc9b8262b4069fe42bcbafedb15912",
+    "name": "commissariat_de_police_de_cherbourg",
+    "title": "Commissariat de police de Cherbourg",
+    "url": "https://lannuaire.service-public.fr/normandie/manche/commissariat_police-50129-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 33 88 76 76",
+      "url": "http://www.police-nationale.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "a441b7ba30f2eca79b8c67660c2611342dfbbad7",
+    "name": "commissariat_de_police_de_chessy",
+    "title": "Commissariat de police de Chessy",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/seine-et-marne/commissariat_police-77111-01",
+    "metadata": {
+      "email": "ddsp77-csp-chessy@interieur.gouv.fr",
+      "telephone": "01 60 43 63 00",
+      "url": "http://www.police-nationale.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "2f5c4457d6f7ef3800513eff101c7463888a304b",
+    "name": "commissariat_de_police_de_chevilly_larue",
+    "title": "Commissariat de police de Chevilly-Larue",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/val-de-marne/commissariat_police-94021-01",
+    "metadata": {
+      "email": "",
+      "telephone": "01 41 80 06 60",
+      "url": "http://www.police-nationale.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "08258f09479f79428b98ea8314482882377def8b",
+    "name": "commissariat_de_police_de_choisy_le_roi",
+    "title": "Commissariat de police de Choisy-le-Roi",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/val-de-marne/commissariat_police-94022-01",
+    "metadata": {
+      "email": "",
+      "telephone": "01 48 90 15 15",
+      "url": "http://www.prefecturedepolice.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "6478a625b0c4189ae77bc76ab6215ea967658007",
+    "name": "commissariat_de_police_de_cholet",
+    "title": "Commissariat de police de Cholet",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/maine-et-loire/commissariat_police-49099-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 41 64 82 00",
+      "url": "http://www.police-nationale.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "6a402f0984c26dfe4ba2ad49ba1b8380d9dca179",
+    "name": "commissariat_de_police_de_clamart",
+    "title": "Commissariat de police de Clamart",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/hauts-de-seine/commissariat_police-92023-01",
+    "metadata": {
+      "email": "",
+      "telephone": "01 41 46 13 00",
+      "url": "http://www.prefecturedepolice.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "9125e27f2093a939220a5a45f1684f913b8ffe15",
+    "name": "commissariat_de_police_de_clermont_ferrand",
+    "title": "Commissariat de police de Clermont-Ferrand",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/puy-de-dome/commissariat_police-63113-05",
+    "metadata": {
+      "email": "ddsp63@interieur.gouv.fr",
+      "telephone": "04 63 05 22 22",
+      "url": "http://www.police-nationale.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "a3b91937f0d33beefe5fa5dacc70451d095df7cf",
+    "name": "commissariat_de_police_de_clichy",
+    "title": "Commissariat de police de Clichy",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/hauts-de-seine/commissariat_police-92024-01",
+    "metadata": {
+      "email": "",
+      "telephone": "01 55 46 94 00",
+      "url": "http://www.prefecturedepolice.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "66e77c6773b93a0c9695ea2eb7a8b815aca2984b",
+    "name": "commissariat_de_police_de_cognac",
+    "title": "Commissariat de police de Cognac",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/charente/commissariat_police-16102-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 45 36 38 50",
+      "url": "http://www.police-nationale.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "2e0bb4d8b1fd7288c368d69dca004035c94316d7",
+    "name": "commissariat_de_police_de_colmar",
+    "title": "Commissariat de police de Colmar",
+    "url": "https://lannuaire.service-public.fr/grand-est/haut-rhin/commissariat_police-68066-02",
+    "metadata": {
+      "email": "",
+      "telephone": "03 89 29 47 00",
+      "url": "http://www.police-nationale.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "66cec0143df8aea36bc97934d5d1dda6cc2e07b9",
+    "name": "commissariat_de_police_de_colmar_secteur_ouest",
+    "title": "Commissariat de police de Colmar - secteur Ouest",
+    "url": "https://lannuaire.service-public.fr/grand-est/haut-rhin/commissariat_police-68066-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 89 30 10 15",
+      "url": "http://www.police-nationale.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "bb5733fe5343be26a5dc3acc5a460bf36b79f12f",
+    "name": "commissariat_de_police_de_colombes",
+    "title": "Commissariat de police de Colombes",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/hauts-de-seine/commissariat_police-92025-01",
+    "metadata": {
+      "email": "",
+      "telephone": "01 56 05 80 20",
+      "url": "http://www.prefecturedepolice.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "8151efe15b69ecb3e76c92523d5178b2bc63ded6",
+    "name": "commissariat_de_police_de_colomiers",
+    "title": "Commissariat de police de Colomiers",
+    "url": "https://lannuaire.service-public.fr/occitanie/haute-garonne/commissariat_police-31149-01",
+    "metadata": {
+      "email": "ddsp31-csub-colomiers@interieur.gouv.fr",
+      "telephone": "05 34 36 12 66",
+      "url": "http://www.police-nationale.interieur.gouv.fr"
+    }
+  }
+]

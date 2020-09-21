@@ -1,0 +1,374 @@
+[
+  {
+    "id": "84789a279666f42bbc0c0c96ae12369fe7e767c8",
+    "alternateName": "INSPÉ",
+    "name": "institut_national_superieur_du_professorat_et_de_leducation_inspe_academie_d_aix_marseille",
+    "title": "Institut national supérieur du professorat et de l'éducation (INSPÉ) - Académie d'Aix-Marseille",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/espe-13204-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 13 55 22 40",
+      "url": "https://espe.univ-amu.fr"
+    }
+  },
+  {
+    "id": "1e13593db9081090861570cf6cd9eba35e47e4b9",
+    "alternateName": "INSPÉ",
+    "name": "institut_national_superieur_du_professorat_et_de_leducation_inspe_academie_d_amiens",
+    "title": "Institut national supérieur du professorat et de l'éducation (INSPÉ) - Académie d'Amiens",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/somme/espe-80021-01",
+    "metadata": {
+      "email": "espe-contact@u-picardie.fr",
+      "telephone": "03 64 26 84 40",
+      "url": "https://www.u-picardie.fr/ecole/espe/accueil/espe-ecole-superieure-du-professorat-et-de-l-education-378008.kjsp"
+    }
+  },
+  {
+    "id": "20d305633a0ad4d6af8c4d50884156ca216dedb6",
+    "alternateName": "INSPÉ",
+    "name": "institut_national_superieur_du_professorat_et_de_leducation_inspe_academie_de_besancon",
+    "title": "Institut national supérieur du professorat et de l'éducation (INSPÉ) - Académie de Besançon",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/doubs/espe-25056-01",
+    "metadata": {
+      "email": "espe@univ-fcomte.fr",
+      "telephone": "03 81 65 71 00",
+      "url": "http://espe.univ-fcomte.fr/"
+    }
+  },
+  {
+    "id": "f2f64826b8d8d1a1b4c8308cfe971abbc4f8d2aa",
+    "alternateName": "INSPÉ",
+    "name": "institut_national_superieur_du_professorat_et_de_leducation_inspe_academie_de_bordeaux",
+    "title": "Institut national supérieur du professorat et de l'éducation (INSPÉ) - Académie de Bordeaux",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/gironde/espe-33063-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 56 12 67 00",
+      "url": "http://www.espe-aquitaine.fr/"
+    }
+  },
+  {
+    "id": "4b654810dee1f0e9337b6a7f8193529f91becc8a",
+    "alternateName": "INSPÉ",
+    "name": "institut_national_superieur_du_professorat_et_de_leducation_inspe_academie_de_caen",
+    "title": "Institut national supérieur du professorat et de l'éducation (INSPÉ) - Académie de Caen",
+    "url": "https://lannuaire.service-public.fr/normandie/calvados/espe-14118-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 31 56 77 00",
+      "url": "http://espe.unicaen.fr"
+    }
+  },
+  {
+    "id": "b3262a8dfa32871829dd74f621af7398431f63d9",
+    "alternateName": "INSPÉ",
+    "name": "institut_national_superieur_du_professorat_et_de_leducation_inspe_academie_de_clermont_ferrand",
+    "title": "Institut national supérieur du professorat et de l'éducation (INSPÉ) - Académie de Clermont-Ferrand",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/puy-de-dome/espe-63075-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 73 31 71 50",
+      "url": "https://espe.uca.fr"
+    }
+  },
+  {
+    "id": "3c6d1f391b3757a02fe3fb3025f2e4b96a8667d5",
+    "alternateName": "INSPÉ",
+    "name": "institut_national_superieur_du_professorat_et_de_leducation_inspe_academie_de_corse",
+    "title": "Institut national supérieur du professorat et de l'éducation (INSPÉ) - Académie de Corse",
+    "url": "https://lannuaire.service-public.fr/corse/haute-corse/espe-2B096-01",
+    "metadata": {
+      "email": "direction.espe@univ-corse.fr",
+      "telephone": "04 95 45 00 00",
+      "url": "https://espe.universita.corsica"
+    }
+  },
+  {
+    "id": "1635dd94aeb50d6f41916a758625d59659cd2d15",
+    "alternateName": "INSPÉ",
+    "name": "institut_national_superieur_du_professorat_et_de_leducation_inspe_academie_de_creteil",
+    "title": "Institut national supérieur du professorat et de l'éducation (INSPÉ) - Académie de Créteil",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/val-de-marne/espe-94011-01",
+    "metadata": {
+      "email": "",
+      "telephone": "01 49 56 37 00",
+      "url": "http://espe.u-pec.fr"
+    }
+  },
+  {
+    "id": "a81f4f7caca8a5eb432e529dbe4934f731877748",
+    "alternateName": "INSPÉ",
+    "name": "institut_national_superieur_du_professorat_et_de_leducation_inspe_academie_de_dijon",
+    "title": "Institut national supérieur du professorat et de l'éducation (INSPÉ) - Académie de Dijon",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/cote-d-or/espe-21231-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 80 39 35 95",
+      "url": "http://espe.u-bourgogne.fr"
+    }
+  },
+  {
+    "id": "487cb1f5b3aef51b23846b7a2984b63780e29d56",
+    "alternateName": "INSPÉ",
+    "name": "institut_national_superieur_du_professorat_et_de_leducation_inspe_academie_de_grenoble",
+    "title": "Institut national supérieur du professorat et de l'éducation (INSPÉ) - Académie de Grenoble",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/isere/espe-38185-01",
+    "metadata": {
+      "email": "espe-direction@univ-grenoble-alpes.fr",
+      "telephone": "04 56 52 07 00",
+      "url": "https://espe.univ-grenoble-alpes.fr"
+    }
+  },
+  {
+    "id": "f5069aba240ec92697884eafd48c3e1027741b0e",
+    "alternateName": "INSPÉ",
+    "name": "institut_national_superieur_du_professorat_et_de_leducation_inspe_academie_de_guadeloupe",
+    "title": "Institut national supérieur du professorat et de l'éducation (INSPÉ) - Académie de Guadeloupe",
+    "url": "https://lannuaire.service-public.fr/guadeloupe/guadeloupe/espe-97101-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 90 21 36 36",
+      "url": "http://www.espe-guadeloupe.fr"
+    }
+  },
+  {
+    "id": "36a79d4ce1dd26e99f902de7a8027e4d69c27290",
+    "alternateName": "INSPÉ",
+    "name": "institut_national_superieur_du_professorat_et_de_leducation_inspe_academie_de_guyane",
+    "title": "Institut national supérieur du professorat et de l'éducation (INSPÉ) - Académie de Guyane",
+    "url": "https://lannuaire.service-public.fr/guyane/guyane/espe-97302-01",
+    "metadata": {
+      "email": "",
+      "telephone": "",
+      "url": "http://www.espe-guyane.fr"
+    }
+  },
+  {
+    "id": "45081d5bbf58430a5e7af542f44446656a2083fb",
+    "alternateName": "INSPÉ",
+    "name": "institut_national_superieur_du_professorat_et_de_leducation_inspe_academie_de_la_reunion",
+    "title": "Institut national supérieur du professorat et de l'éducation (INSPÉ) - Académie de La Réunion",
+    "url": "https://lannuaire.service-public.fr/la-reunion/reunion/espe-97411-01",
+    "metadata": {
+      "email": "",
+      "telephone": "",
+      "url": "https://espe.univ-reunion.fr"
+    }
+  },
+  {
+    "id": "755567d6ddc6fc06142585a43e714d9a0e182b46",
+    "alternateName": "INSPÉ",
+    "name": "institut_national_superieur_du_professorat_et_de_leducation_inspe_academie_de_lille",
+    "title": "Institut national supérieur du professorat et de l'éducation (INSPÉ) - Académie de Lille",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/nord/espe-59009-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 20 79 86 00",
+      "url": "http://www.espe-lnf.fr/"
+    }
+  },
+  {
+    "id": "356c77183f95d88b575a174a813654f10c194fc2",
+    "alternateName": "INSPÉ",
+    "name": "institut_national_superieur_du_professorat_et_de_leducation_inspe_academie_de_limoges",
+    "title": "Institut national supérieur du professorat et de l'éducation (INSPÉ) - Académie de Limoges",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/haute-vienne/espe-87085-01",
+    "metadata": {
+      "email": "espe-direction@unilim.fr",
+      "telephone": "05 55 01 76 86",
+      "url": "http://www.espe.unilim.fr/"
+    }
+  },
+  {
+    "id": "9201c1d6d0a293468a8f63d5012939ad427b322e",
+    "alternateName": "INSPÉ",
+    "name": "institut_national_superieur_du_professorat_et_de_leducation_inspe_academie_de_lyon",
+    "title": "Institut national supérieur du professorat et de l'éducation (INSPÉ) - Académie de Lyon",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/rhone/espe-69384-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 72 07 30 30",
+      "url": "https://espe.univ-lyon1.fr/"
+    }
+  },
+  {
+    "id": "5542197e32b3984006cfdf899bd3996f1357ee47",
+    "alternateName": "INSPÉ",
+    "name": "institut_national_superieur_du_professorat_et_de_leducation_inspe_academie_de_martinique",
+    "title": "Institut national supérieur du professorat et de l'éducation (INSPÉ) - Académie de Martinique",
+    "url": "https://lannuaire.service-public.fr/martinique/martinique/espe-97209-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 96 55 46 46",
+      "url": "http://www.espe-martinique.fr/"
+    }
+  },
+  {
+    "id": "83c4880e4b06b224ebc0228e42cd47ef6699cb36",
+    "alternateName": "INSPÉ",
+    "name": "institut_national_superieur_du_professorat_et_de_leducation_inspe_academie_de_montpellier",
+    "title": "Institut national supérieur du professorat et de l'éducation (INSPÉ) - Académie de Montpellier",
+    "url": "https://lannuaire.service-public.fr/occitanie/herault/espe-34172-01",
+    "metadata": {
+      "email": "espe-lr@lr-universites.fr",
+      "telephone": "04 67 41 67 96",
+      "url": "http://www.espe-lr.fr/"
+    }
+  },
+  {
+    "id": "7666b11a858bc498c205775e30b49e1b698a4bd4",
+    "alternateName": "INSPÉ",
+    "name": "institut_national_superieur_du_professorat_et_de_leducation_inspe_academie_de_nancy_metz",
+    "title": "Institut national supérieur du professorat et de l'éducation (INSPÉ) - Académie de Nancy-Metz",
+    "url": "https://lannuaire.service-public.fr/grand-est/meurthe-et-moselle/espe-54357-01",
+    "metadata": {
+      "email": "espe-scolarite-contact@univ-lorraine.fr",
+      "telephone": "03 72 74 22 00",
+      "url": "http://espe.univ-lorraine.fr/"
+    }
+  },
+  {
+    "id": "089e606030cec88788326533dfb36c0ba6b835e9",
+    "alternateName": "INSPÉ",
+    "name": "institut_national_superieur_du_professorat_et_de_leducation_inspe_academie_de_nantes",
+    "title": "Institut national supérieur du professorat et de l'éducation (INSPÉ) - Académie de Nantes",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/loire-atlantique/espe-44109-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 53 59 23 00",
+      "url": "https://espe.univ-nantes.fr/"
+    }
+  },
+  {
+    "id": "a84021d95381a787862c47c6818b3b8b654d710b",
+    "alternateName": "INSPÉ",
+    "name": "institut_national_superieur_du_professorat_et_de_leducation_inspe_academie_de_nice",
+    "title": "Institut national supérieur du professorat et de l'éducation (INSPÉ) - Académie de Nice",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/alpes-maritimes/espe-06088-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 89 15 45 00",
+      "url": "http://inspe-nice-toulon.fr/accueil"
+    }
+  },
+  {
+    "id": "be7371659e6025cea1ea289527dfa65f400551e1",
+    "alternateName": "INSPÉ",
+    "name": "institut_national_superieur_du_professorat_et_de_leducation_inspe_academie_d_orleans_tours",
+    "title": "Institut national supérieur du professorat et de l'éducation (INSPÉ) - Académie d'Orléans-Tours",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/loiret/espe-45234-01",
+    "metadata": {
+      "email": "contact.inspe@univ-orleans.fr",
+      "telephone": "02 38 49 26 00",
+      "url": "https://www.univ-orleans.fr/espe"
+    }
+  },
+  {
+    "id": "9d7223b3d67df61719f3d091e6070b73efdb4e20",
+    "alternateName": "INSPÉ",
+    "name": "institut_national_superieur_du_professorat_et_de_leducation_inspe_academie_de_paris",
+    "title": "Institut national supérieur du professorat et de l'éducation (INSPÉ) - Académie de Paris",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/paris/espe-75116-01",
+    "metadata": {
+      "email": "",
+      "telephone": "01 40 50 25 92",
+      "url": "http://www.espe-paris.fr/"
+    }
+  },
+  {
+    "id": "a4d88bbe243313774d815db94ad8595a9e169a0c",
+    "alternateName": "INSPÉ",
+    "name": "institut_national_superieur_du_professorat_et_de_leducation_inspe_academie_de_poitiers",
+    "title": "Institut national supérieur du professorat et de l'éducation (INSPÉ) - Académie de Poitiers",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/vienne/espe-86194-01",
+    "metadata": {
+      "email": "inspe.communication@univ-poitiers.fr",
+      "telephone": "05 49 36 22 00",
+      "url": "http://inspe.univ-poitiers.fr"
+    }
+  },
+  {
+    "id": "dd3635e78c0ad37895c0d7796f8f14fe451a2454",
+    "alternateName": "INSPÉ",
+    "name": "institut_national_superieur_du_professorat_et_de_leducation_inspe_academie_de_reims",
+    "title": "Institut national supérieur du professorat et de l'éducation (INSPÉ) - Académie de Reims",
+    "url": "https://lannuaire.service-public.fr/grand-est/marne/espe-51454-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 26 50 59 59",
+      "url": "https://www.univ-reims.fr/espe"
+    }
+  },
+  {
+    "id": "1c422d7395d46e854d4792148c343f729c1c5931",
+    "alternateName": "INSPÉ",
+    "name": "institut_national_superieur_du_professorat_et_de_leducation_inspe_academie_de_rennes",
+    "title": "Institut national supérieur du professorat et de l'éducation (INSPÉ) - Académie de Rennes",
+    "url": "https://lannuaire.service-public.fr/bretagne/ille-et-vilaine/espe-35238-01",
+    "metadata": {
+      "email": "webmaster@espe-bretagne.fr",
+      "telephone": "02 99 54 64 44",
+      "url": "http://www.espe-bretagne.fr/"
+    }
+  },
+  {
+    "id": "511214d4ac0405c492b30f9325092356da874d69",
+    "alternateName": "INSPÉ",
+    "name": "institut_national_superieur_du_professorat_et_de_leducation_inspe_academie_de_rouen",
+    "title": "Institut national supérieur du professorat et de l'éducation (INSPÉ) - Académie de Rouen",
+    "url": "https://lannuaire.service-public.fr/normandie/seine-maritime/espe-76451-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 35 14 80 50",
+      "url": "http://espe.univ-rouen.fr/"
+    }
+  },
+  {
+    "id": "00f1dfd4ea16d8dee808c55382e7074c22eb9ec9",
+    "alternateName": "INSPÉ",
+    "name": "institut_national_superieur_du_professorat_et_de_leducation_inspe_academie_de_strasbourg",
+    "title": "Institut national supérieur du professorat et de l'éducation (INSPÉ) - Académie de Strasbourg",
+    "url": "https://lannuaire.service-public.fr/grand-est/bas-rhin/espe-67482-01",
+    "metadata": {
+      "email": "espe@unistra.fr",
+      "telephone": "03 88 43 82 00",
+      "url": "http://espe.unistra.fr"
+    }
+  },
+  {
+    "id": "024559672007d4e747e60f9f8649a9321e80e4a6",
+    "alternateName": "INSPÉ",
+    "name": "institut_national_superieur_du_professorat_et_de_leducation_inspe_academie_de_toulouse",
+    "title": "Institut national supérieur du professorat et de l'éducation (INSPÉ) - Académie de Toulouse",
+    "url": "https://lannuaire.service-public.fr/occitanie/haute-garonne/espe-31555-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 62 25 20 00",
+      "url": "http://espe.univ-toulouse.fr/"
+    }
+  },
+  {
+    "id": "7295e11701a3c9c2c37fd21bba8c17a610abd5dd",
+    "alternateName": "INSPÉ",
+    "name": "institut_national_superieur_du_professorat_et_de_leducation_inspe_academie_de_versailles",
+    "title": "Institut national supérieur du professorat et de l'éducation (INSPÉ) - Académie de Versailles",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/yvelines/espe-78551-01",
+    "metadata": {
+      "email": "",
+      "telephone": "01 30 87 47 00",
+      "url": "http://www.espe-versailles.fr"
+    }
+  },
+  {
+    "id": "796645e94745581892a79c43950298027b2372a0",
+    "alternateName": "INSPÉ",
+    "name": "institut_national_superieur_du_professorat_et_de_leducation_inspe_polynesie_francaise",
+    "title": "Institut national supérieur du professorat et de l'éducation (INSPÉ) - Polynésie française",
+    "url": "https://lannuaire.service-public.fr/collectivites-d-outre-mer/polynesie-francaise/espe-98715-01",
+    "metadata": {
+      "email": "secretariat-espe@upf.pf",
+      "telephone": "+689 40 86 64 92",
+      "url": "http://www.espe.pf"
+    }
+  }
+]

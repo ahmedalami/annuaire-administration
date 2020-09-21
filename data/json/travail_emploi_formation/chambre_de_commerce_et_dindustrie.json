@@ -1,0 +1,1790 @@
+[
+  {
+    "id": "3996e9c84e93c214a96f25b5be05fcc76e6286f0",
+    "alternateName": "CCI",
+    "name": "chambre_de_commerce_et_dindustrie_cci_ain",
+    "title": "Chambre de commerce et d'industrie (CCI) - Ain",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/ain/cci-01053-01",
+    "metadata": {
+      "email": "cci@ain.cci.fr",
+      "telephone": "04 74 32 13 00",
+      "url": "http://www.ain.cci.fr"
+    }
+  },
+  {
+    "id": "7d6e72c0cc18f7f3f563147bf6c876658336ee59",
+    "alternateName": "CCI",
+    "name": "chambre_de_commerce_et_dindustrie_cci_aisne",
+    "title": "Chambre de commerce et d'industrie (CCI) - Aisne",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/aisne/cci-02691-01",
+    "metadata": {
+      "email": "ccia@aisne.cci.fr",
+      "telephone": "03 23 06 02 02",
+      "url": "http://www.aisne.cci.fr"
+    }
+  },
+  {
+    "id": "322c42530a018ee4dc3212540e2428c2238ea98b",
+    "alternateName": "CCI",
+    "name": "chambre_de_commerce_et_dindustrie",
+    "title": "Chambre de commerce et d'industrie",
+    "url": "https://lannuaire.service-public.fr/normandie/orne/cci-61001-01",
+    "metadata": {
+      "email": "info-alencon@normandie.cci.fr",
+      "telephone": "02 33 82 82 82",
+      "url": "http://www.portesdenormandie.cci.fr"
+    }
+  },
+  {
+    "id": "527d60c47d16bd4825c9a4fb3e52d9e3537ce5c7",
+    "alternateName": "CCI",
+    "name": "chambre_de_commerce_et_dindustrie_cci_ales",
+    "title": "Chambre de commerce et d'industrie (CCI) - Alès",
+    "url": "https://lannuaire.service-public.fr/occitanie/gard/cci-30007-01",
+    "metadata": {
+      "email": "information@gare.cci.fr",
+      "telephone": "04 66 78 49 49",
+      "url": "http://www.ales.cci.fr"
+    }
+  },
+  {
+    "id": "365fdda00a47e46091c04b97ef6eeaf7a753fd4b",
+    "alternateName": "CCI",
+    "name": "chambre_de_commerce_et_dindustrie_cci_allier",
+    "title": "Chambre de commerce et d'industrie (CCI) - Allier",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/allier/cci-03190-01",
+    "metadata": {
+      "email": "accueil-vichy@allier.cci.fr",
+      "telephone": "04 70 35 40 00",
+      "url": "http://www.allier.cci.fr"
+    }
+  },
+  {
+    "id": "181ce8680f563b12cb8955c043819b1d76fb9aeb",
+    "alternateName": "CCI",
+    "name": "chambre_de_commerce_et_dindustrie_cci_allier_montlucon",
+    "title": "Chambre de commerce et d'industrie (CCI) - Allier - Montluçon",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/allier/cci-03185-01",
+    "metadata": {
+      "email": "accueil@allier.cci.fr",
+      "telephone": "04 70 02 50 00",
+      "url": "http://www.allier.cci.fr"
+    }
+  },
+  {
+    "id": "a55874ce1e6a71a9cc88a16a34d536fee86cdff3",
+    "alternateName": "CCI",
+    "name": "chambre_de_commerce_et_dindustrie_cci_alpes_de_haute_provence",
+    "title": "Chambre de commerce et d'industrie (CCI) - Alpes-de-Haute-Provence",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/alpes-de-haute-provence/cci-04070-01",
+    "metadata": {
+      "email": "accueil@digne.cci.fr",
+      "telephone": "04 92 30 80 80",
+      "url": "http://www.digne.cci.fr"
+    }
+  },
+  {
+    "id": "03126e5e23cf84f09895c446ac79f5a1036265f6",
+    "alternateName": "CCI",
+    "name": "chambre_de_commerce_et_dindustrie_cci_alsace_eurometropole",
+    "title": "Chambre de commerce et d'industrie (CCI) - Alsace - Eurométropole",
+    "url": "https://lannuaire.service-public.fr/grand-est/haut-rhin/cci-68066-01",
+    "metadata": {
+      "email": "cci-infoservices@alsace.cci.fr",
+      "telephone": "03 90 20 67 68",
+      "url": "http://www.alsace-eurometropole.cci.fr"
+    }
+  },
+  {
+    "id": "03126e5e23cf84f09895c446ac79f5a1036265f6",
+    "alternateName": "CCI",
+    "name": "chambre_de_commerce_et_dindustrie_cci_alsace_eurometropole",
+    "title": "Chambre de commerce et d'industrie (CCI) - Alsace - Eurométropole",
+    "url": "https://lannuaire.service-public.fr/grand-est/haut-rhin/cci-68224-01",
+    "metadata": {
+      "email": "cci-infoservices@alsace.cci.fr",
+      "telephone": "03 90 20 67 68",
+      "url": "http://www.alsace-eurometropole.cci.fr"
+    }
+  },
+  {
+    "id": "322c42530a018ee4dc3212540e2428c2238ea98b",
+    "alternateName": "CCI",
+    "name": "chambre_de_commerce_et_dindustrie",
+    "title": "Chambre de commerce et d'industrie",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/puy-de-dome/cci-63003-01",
+    "metadata": {
+      "email": "contact.ambert@puy-de-dome.cci.fr",
+      "telephone": "04 73 82 01 55",
+      "url": "http://www.puy-de-dome.cci.fr"
+    }
+  },
+  {
+    "id": "66a9241ecb3d23012167c394dd56b79c368b466a",
+    "alternateName": "CCI",
+    "name": "chambre_de_commerce_et_dindustrie_cci_amiens_picardie_peronne",
+    "title": "Chambre de commerce et d'industrie (CCI) - Amiens-Picardie - Péronne",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/somme/cci-80620-01",
+    "metadata": {
+      "email": "contact@amiens-picardie.cci.fr",
+      "telephone": "03 22 73 36 36",
+      "url": "http://www.amiens-picardie.cci.fr"
+    }
+  },
+  {
+    "id": "f713102c122b2dba34fa84b873de101072be84d7",
+    "alternateName": "CCI",
+    "name": "chambre_de_commerce_et_dindustrie_cci_ardeche",
+    "title": "Chambre de commerce et d'industrie (CCI) - Ardèche",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/ardeche/cci-07010-01",
+    "metadata": {
+      "email": "accueil@ardeche.cci.fr",
+      "telephone": "04 75 88 07 07",
+      "url": "http://www.ardeche.cci.fr"
+    }
+  },
+  {
+    "id": "f713102c122b2dba34fa84b873de101072be84d7",
+    "alternateName": "CCI",
+    "name": "chambre_de_commerce_et_dindustrie_cci_ardeche",
+    "title": "Chambre de commerce et d'industrie (CCI) - Ardèche",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/ardeche/cci-07019-01",
+    "metadata": {
+      "email": "accueil@ardeche.cci.fr",
+      "telephone": "04 75 88 07 07",
+      "url": "http://www.ardeche.cci.fr"
+    }
+  },
+  {
+    "id": "f713102c122b2dba34fa84b873de101072be84d7",
+    "alternateName": "CCI",
+    "name": "chambre_de_commerce_et_dindustrie_cci_ardeche",
+    "title": "Chambre de commerce et d'industrie (CCI) - Ardèche",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/ardeche/cci-07186-01",
+    "metadata": {
+      "email": "accueil@ardeche.cci.fr",
+      "telephone": "04 75 88 07 07",
+      "url": "http://www.ardeche.cci.fr"
+    }
+  },
+  {
+    "id": "08b14026fea2ffccbf33a1ab913e2e2ea70c2484",
+    "alternateName": "CCI",
+    "name": "chambre_de_commerce_et_dindustrie_cci_ardennes",
+    "title": "Chambre de commerce et d'industrie (CCI) - Ardennes",
+    "url": "https://lannuaire.service-public.fr/grand-est/ardennes/cci-08409-01",
+    "metadata": {
+      "email": "cci@ardennes.cci.fr",
+      "telephone": "03 24 56 62 62",
+      "url": "http://www.ardennes.cci.fr"
+    }
+  },
+  {
+    "id": "e5fd8fa6f62ff9a871de412c6fa9cb88fa162b0e",
+    "alternateName": "CCI",
+    "name": "chambre_de_commerce_et_dindustrie_cci_ariege",
+    "title": "Chambre de commerce et d'industrie (CCI) - Ariège",
+    "url": "https://lannuaire.service-public.fr/occitanie/ariege/cci-09122-01",
+    "metadata": {
+      "email": "cci09@ariege.cci.fr",
+      "telephone": "05 61 02 03 04",
+      "url": "http://www.ariege.cci.fr"
+    }
+  },
+  {
+    "id": "6cff4097626e4979382fb697f9f3b86aefed950f",
+    "alternateName": "CCI",
+    "name": "chambre_de_commerce_et_dindustrie_cci_artois",
+    "title": "Chambre de commerce et d'industrie (CCI) - Artois",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/pas-de-calais/cci-62041-01",
+    "metadata": {
+      "email": "contact@artois.cci.fr",
+      "telephone": "03 21 23 24 24",
+      "url": "http://www.artois.cci.fr"
+    }
+  },
+  {
+    "id": "e3649b92ef480b2fc7a6caa4c11cbca505a57c91",
+    "alternateName": "CCI",
+    "name": "chambre_de_commerce_et_dindustrie_cci_aude",
+    "title": "Chambre de commerce et d'industrie (CCI) - Aude",
+    "url": "https://lannuaire.service-public.fr/occitanie/aude/cci-11069-01",
+    "metadata": {
+      "email": "contact@aude.cci.fr",
+      "telephone": "04 68 10 36 00",
+      "url": "http://www.aude.cci.fr"
+    }
+  },
+  {
+    "id": "88a61f880da590bbbe82ddb12f9d0d270947acfe",
+    "alternateName": "CCI",
+    "name": "chambre_de_commerce_et_dindustrie_cci_aveyron",
+    "title": "Chambre de commerce et d'industrie (CCI) - Aveyron",
+    "url": "https://lannuaire.service-public.fr/occitanie/aveyron/cci-12145-01",
+    "metadata": {
+      "email": "direction.generale@aveyron.cci.fr",
+      "telephone": "05 65 77 77 00",
+      "url": "http://www.aveyron.cci.fr"
+    }
+  },
+  {
+    "id": "88a61f880da590bbbe82ddb12f9d0d270947acfe",
+    "alternateName": "CCI",
+    "name": "chambre_de_commerce_et_dindustrie_cci_aveyron",
+    "title": "Chambre de commerce et d'industrie (CCI) - Aveyron",
+    "url": "https://lannuaire.service-public.fr/occitanie/aveyron/cci-12202-01",
+    "metadata": {
+      "email": "info@aveyron.cci.fr",
+      "telephone": "05 65 77 77 00",
+      "url": "http://www.aveyron.cci.fr"
+    }
+  },
+  {
+    "id": "675013c3dff4fc8304b8f5fa4ec9c93bd2759ddb",
+    "alternateName": "CCI",
+    "name": "chambre_de_commerce_et_dindustrie_cci_bayonne",
+    "title": "Chambre de commerce et d'industrie (CCI) - Bayonne",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/pyrenees-atlantiques/cci-64102-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 59 46 59 46",
+      "url": "http://www.bayonne.cci.fr"
+    }
+  },
+  {
+    "id": "698830249aab785cc25814604955c12b40b715df",
+    "alternateName": "CCI",
+    "name": "chambre_de_commerce_et_dindustrie_cci_beaujolais",
+    "title": "Chambre de commerce et d'industrie (CCI) - Beaujolais",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/rhone/cci-69264-01",
+    "metadata": {
+      "email": "cci@beaujolais.cci.fr",
+      "telephone": "04 74 62 73 00",
+      "url": "http://www.beaujolais-cci.com"
+    }
+  },
+  {
+    "id": "e56ceafed98686aa246fc5a1f2d55d223c5d9f62",
+    "alternateName": "CCI",
+    "name": "chambre_de_commerce_et_dindustrie_cci_biscarrosse",
+    "title": "Chambre de commerce et d'industrie (CCI) - Biscarrosse",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/landes/cci-40046-01",
+    "metadata": {
+      "email": "contact@landes.cci.fr",
+      "telephone": "05 58 04 80 45",
+      "url": "http://www.landes.cci.fr"
+    }
+  },
+  {
+    "id": "b71d1f22c5d9ccf5de4972c5c56f8323f12fe040",
+    "alternateName": "CCI",
+    "name": "chambre_de_commerce_et_dindustrie_cci_bordeaux",
+    "title": "Chambre de commerce et d'industrie (CCI) - Bordeaux",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/gironde/cci-33063-01",
+    "metadata": {
+      "email": "contact@bordeauxgironde.cci.fr",
+      "telephone": "05 56 79 50 00",
+      "url": "http://www.bordeauxgironde.cci.fr"
+    }
+  },
+  {
+    "id": "97532576bafdd30ad9b3dfae0ccd3698a97d2574",
+    "alternateName": "CCI",
+    "name": "chambre_de_commerce_et_dindustrie_cci_brest",
+    "title": "Chambre de commerce et d'industrie (CCI) - Brest",
+    "url": "https://lannuaire.service-public.fr/bretagne/finistere/cci-29019-01",
+    "metadata": {
+      "email": "accueil@bretagne-ouest.cci.bzh",
+      "telephone": "02 98 00 38 00",
+      "url": "http://www.bretagne-ouest.cci.bzh"
+    }
+  },
+  {
+    "id": "5697ae65ca21b927fb854cfe58c68598ffd34853",
+    "alternateName": "CCI",
+    "name": "chambre_de_commerce_et_dindustrie_cci_cantal",
+    "title": "Chambre de commerce et d'industrie (CCI) - Cantal",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/cantal/cci-15014-01",
+    "metadata": {
+      "email": "cvinas@cantal.cci.fr",
+      "telephone": "04 71 45 40 40",
+      "url": "http://www.cantal.cci.fr"
+    }
+  },
+  {
+    "id": "648310ffcc669ab1ed58cf701ffb3f5f7680f200",
+    "alternateName": "CCI",
+    "name": "chambre_de_commerce_et_dindustrie_cci_charente",
+    "title": "Chambre de commerce et d'industrie (CCI) - Charente",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/charente/cci-16015-01",
+    "metadata": {
+      "email": "contactangouleme@charente.cci.fr",
+      "telephone": "05 45 20 55 55",
+      "url": "http://www.charente.cci.fr"
+    }
+  },
+  {
+    "id": "8450c6f5722be1692e2dc4ebe961b80e43c3dd7b",
+    "alternateName": "CCI",
+    "name": "chambre_de_commerce_et_dindustrie_cci_charente_cognac",
+    "title": "Chambre de commerce et d'industrie (CCI) - Charente - Cognac",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/charente/cci-16102-01",
+    "metadata": {
+      "email": "contactcognac@charente.cci.fr",
+      "telephone": "05 45 36 32 32",
+      "url": "http://www.charente.cci.fr"
+    }
+  },
+  {
+    "id": "0745885f32e6d624c5e17f0936dd5c9310bec005",
+    "alternateName": "CCI",
+    "name": "chambre_de_commerce_et_dindustrie_cci_cher",
+    "title": "Chambre de commerce et d'industrie (CCI) - Cher",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/cher/cci-18033-01",
+    "metadata": {
+      "email": "infos@cher.cci.fr",
+      "telephone": "02 48 67 80 80",
+      "url": "http://www.cher.cci.fr"
+    }
+  },
+  {
+    "id": "40d57a7942c08a4c13aee1cb3285346df3327e0a",
+    "alternateName": "CCI",
+    "name": "chambre_de_commerce_et_dindustrie_cci_correze",
+    "title": "Chambre de commerce et d'industrie (CCI) - Corrèze",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/correze/cci-19031-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 19 31 02 00",
+      "url": "http://www.correze.cci.fr"
+    }
+  },
+  {
+    "id": "951d853645655b180c22b1a0b2074854e8f50d18",
+    "alternateName": "CCI",
+    "name": "chambre_de_commerce_et_dindustrie_cci_corse_du_sud",
+    "title": "Chambre de commerce et d'industrie (CCI) - Corse-du-Sud",
+    "url": "https://lannuaire.service-public.fr/corse/corse-du-sud/cci-2A004-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 95 51 55 55",
+      "url": "http://www.2a.cci.fr"
+    }
+  },
+  {
+    "id": "7d0922bdc2a78ff636864faa92daa86425b286c5",
+    "alternateName": "CCI",
+    "name": "chambre_de_commerce_et_dindustrie_cci_cote_d_or",
+    "title": "Chambre de commerce et d'industrie (CCI) - Côte-d'Or",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/cote-d-or/cci-21231-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 80 65 91 00",
+      "url": "http://www.cotedor.cci.fr"
+    }
+  },
+  {
+    "id": "dbbdddcbf05f86e848d856cc1b63549db88af639",
+    "alternateName": "CCI",
+    "name": "chambre_de_commerce_et_dindustrie_cci_cotes_d_armor",
+    "title": "Chambre de commerce et d'industrie (CCI) - Côtes-d'Armor",
+    "url": "https://lannuaire.service-public.fr/bretagne/cotes-d-armor/cci-22278-01",
+    "metadata": {
+      "email": "grpaccueil@cotesdarmor.cci.fr",
+      "telephone": "02 96 78 62 00",
+      "url": "http://www.cotesdarmor.cci.fr"
+    }
+  },
+  {
+    "id": "567f7b8521b44bfe00ed0f944084d56b41f4f202",
+    "alternateName": "CCI",
+    "name": "chambre_de_commerce_et_dindustrie_cci_creuse",
+    "title": "Chambre de commerce et d'industrie (CCI) - Creuse",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/creuse/cci-23096-01",
+    "metadata": {
+      "email": "contact@creuse.cci.fr",
+      "telephone": "05 55 51 96 60",
+      "url": "http://www.creuse.cci.fr"
+    }
+  },
+  {
+    "id": "8811fe208d59bfef13799f5dca8104069e1b1b33",
+    "alternateName": "CCI",
+    "name": "chambre_de_commerce_et_dindustrie_cci_dax",
+    "title": "Chambre de commerce et d'industrie (CCI) - Dax",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/landes/cci-40088-01",
+    "metadata": {
+      "email": "accueil@landes.cci.fr",
+      "telephone": "05 58 05 44 50",
+      "url": "http://www.landes.cci.fr"
+    }
+  },
+  {
+    "id": "9dbed6416beab31e8c3e6ee756885e92eb7aa834",
+    "alternateName": "CCI",
+    "name": "chambre_de_commerce_et_dindustrie_cci_deux_sevres",
+    "title": "Chambre de commerce et d'industrie (CCI) - Deux-Sèvres",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/deux-sevres/cci-79191-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 49 28 79 79",
+      "url": "http://www.deux-sevres.cci.fr"
+    }
+  },
+  {
+    "id": "0766dce462d2fad7dbdd8703cc76d03aaa9c83c1",
+    "alternateName": "CCI",
+    "name": "chambre_de_commerce_et_dindustrie_cci_dordogne_bergerac",
+    "title": "Chambre de commerce et d'industrie (CCI) - Dordogne - Bergerac",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/dordogne/cci-24037-01",
+    "metadata": {
+      "email": "contact@dordogne.cci.fr",
+      "telephone": "05 53 35 80 80",
+      "url": "http://www.dordogne.cci.fr"
+    }
+  },
+  {
+    "id": "efd9c2b3b19da43e50a15850efcf81fac65c9566",
+    "alternateName": "CCI",
+    "name": "chambre_de_commerce_et_dindustrie_cci_dordogne_coulounieix_chamiers",
+    "title": "Chambre de commerce et d'industrie (CCI) - Dordogne - Coulounieix-Chamiers",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/dordogne/cci-24138-01",
+    "metadata": {
+      "email": "relationclient@dordogne.cci.fr",
+      "telephone": "05 53 35 80 80",
+      "url": "http://www.dordogne.cci.fr"
+    }
+  },
+  {
+    "id": "45515562de656d061d25abe1e9256ca98f923ee5",
+    "alternateName": "CCI",
+    "name": "chambre_de_commerce_et_dindustrie_cci_doubs",
+    "title": "Chambre de commerce et d'industrie (CCI) - Doubs",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/doubs/cci-25056-01",
+    "metadata": {
+      "email": "presidence@doubs.cci.fr",
+      "telephone": "03 81 25 25 25",
+      "url": "http://www.doubs.cci.fr"
+    }
+  },
+  {
+    "id": "a92a197282def95805f56f610f28ee055a62c3dd",
+    "alternateName": "CCI",
+    "name": "chambre_de_commerce_et_dindustrie_cci_drome",
+    "title": "Chambre de commerce et d'industrie (CCI) - Drôme",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/drome/cci-26362-01",
+    "metadata": {
+      "email": "ccidirect@drome.cci.fr",
+      "telephone": "04 75 75 70 00",
+      "url": "http://www.drome.cci.fr"
+    }
+  },
+  {
+    "id": "983b2498450360ce0ce32d8e03fb867263ca8da2",
+    "alternateName": "CCI",
+    "name": "chambre_de_commerce_et_dindustrie_cci_essonne",
+    "title": "Chambre de commerce et d'industrie (CCI) - Essonne",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/essonne/cci-91228-01",
+    "metadata": {
+      "email": "infos@essonne.cci.fr",
+      "telephone": "01 60 79 91 91",
+      "url": "http://www.essonne.cci.fr"
+    }
+  },
+  {
+    "id": "8c19b648a9d315eef24bac95d9dacf17a60c9ff7",
+    "alternateName": "CCI",
+    "name": "chambre_de_commerce_et_dindustrie_cci_eure_et_loir",
+    "title": "Chambre de commerce et d'industrie (CCI) - Eure-et-Loir",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/eure-et-loir/cci-28085-01",
+    "metadata": {
+      "email": "contact@cci28.fr",
+      "telephone": "02 37 84 28 28",
+      "url": "http://www.cci28.fr"
+    }
+  },
+  {
+    "id": "cd4a5610b1db60683f8cc12ce9106c7b67e902f2",
+    "alternateName": "CCI",
+    "name": "chambre_de_commerce_et_dindustrie_cci_gard",
+    "title": "Chambre de commerce et d'industrie (CCI) - Gard",
+    "url": "https://lannuaire.service-public.fr/occitanie/gard/cci-30189-01",
+    "metadata": {
+      "email": "accueil@gard.cci.fr",
+      "telephone": "04 66 87 98 79",
+      "url": "http://www.gard.cci.fr"
+    }
+  },
+  {
+    "id": "7dcc8040848ed4a919bd4ede56740249e7bbc385",
+    "alternateName": "CCI",
+    "name": "chambre_de_commerce_et_dindustrie_cci_gers",
+    "title": "Chambre de commerce et d'industrie (CCI) - Gers",
+    "url": "https://lannuaire.service-public.fr/occitanie/gers/cci-32013-01",
+    "metadata": {
+      "email": "cci32@gers.cci.fr",
+      "telephone": "05 62 61 62 61",
+      "url": "http://www.gers.cci.fr"
+    }
+  },
+  {
+    "id": "844b83011ccdb78b439630b755b3af7560852243",
+    "alternateName": "CCI",
+    "name": "chambre_de_commerce_et_dindustrie_cci_grand_hainaut",
+    "title": "Chambre de commerce et d'industrie (CCI) - Grand Hainaut",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/nord/cci-59606-01",
+    "metadata": {
+      "email": "contact@grandhainaut.cci.fr",
+      "telephone": "03 27 51 35 13",
+      "url": "http://www.grandhainaut.cci.fr"
+    }
+  },
+  {
+    "id": "ab39c47639e9f7650fc7864a4131a9d3431767b3",
+    "alternateName": "CCI",
+    "name": "chambre_de_commerce_et_dindustrie_cci_grand_lille",
+    "title": "Chambre de commerce et d'industrie (CCI) - Grand-Lille",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/nord/cci-59350-01",
+    "metadata": {
+      "email": "contact@grand-lille.cci.fr",
+      "telephone": "03 20 63 77 77",
+      "url": "http://www.hautsdefrance.cci.fr"
+    }
+  },
+  {
+    "id": "1f588715c1c7a5825964ce2fb481fdff7ceeded2",
+    "alternateName": "CCI",
+    "name": "chambre_de_commerce_et_dindustrie_cci_grenoble",
+    "title": "Chambre de commerce et d'industrie (CCI) - Grenoble",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/isere/cci-38185-01",
+    "metadata": {
+      "email": "ccig@grenoble.cci.fr",
+      "telephone": "04 76 28 28 28",
+      "url": "http://www.grenoble.cci.fr"
+    }
+  },
+  {
+    "id": "5310063a79d892ec3e9506e9dcadb305055ecec1",
+    "alternateName": "CCI",
+    "name": "chambre_de_commerce_et_dindustrie_cci_guyane",
+    "title": "Chambre de commerce et d'industrie (CCI) - Guyane",
+    "url": "https://lannuaire.service-public.fr/guyane/guyane/cci-97304-01",
+    "metadata": {
+      "email": "kourou@guyane.cci.fr",
+      "telephone": "05 94 32 61 16",
+      "url": "http://www.guyane.cci.fr"
+    }
+  },
+  {
+    "id": "7118ca4906b6c7d5b56e0c8eeda988a27db45a8d",
+    "alternateName": "CCI",
+    "name": "chambre_de_commerce_et_dindustrie_cci_guyane_cayenne",
+    "title": "Chambre de commerce et d'industrie (CCI) - Guyane - Cayenne",
+    "url": "https://lannuaire.service-public.fr/guyane/guyane/cci-97302-01",
+    "metadata": {
+      "email": "contact@guyane.cci.fr",
+      "telephone": "+594 594 29 96 00",
+      "url": "http://www.guyane.cci.fr"
+    }
+  },
+  {
+    "id": "30111324b29d3bf9f6de64c0f470c5faa6964d07",
+    "alternateName": "CCI",
+    "name": "chambre_de_commerce_et_dindustrie_cci_guyane_saint_laurent_du_maroni",
+    "title": "Chambre de commerce et d'industrie (CCI) - Guyane - Saint-Laurent-du-Maroni",
+    "url": "https://lannuaire.service-public.fr/guyane/guyane/cci-97311-01",
+    "metadata": {
+      "email": "stlaurent@guyane.cci.fr",
+      "telephone": "05 94 29 86 30",
+      "url": "http://www.guyane.cci.fr"
+    }
+  },
+  {
+    "id": "70b16feebf0ac72c691e13558db4b20f937f6981",
+    "alternateName": "CCI",
+    "name": "chambre_de_commerce_et_dindustrie_cci_haute_corse",
+    "title": "Chambre de commerce et d'industrie (CCI) - Haute-Corse",
+    "url": "https://lannuaire.service-public.fr/corse/haute-corse/cci-2B033-01",
+    "metadata": {
+      "email": "contact@ccihc.fr",
+      "telephone": "04 95 54 44 44",
+      "url": "http://www.ccihc.fr"
+    }
+  },
+  {
+    "id": "bab68e8ce7c0a62e017ebd2427286f0bc86ec460",
+    "alternateName": "CCI",
+    "name": "chambre_de_commerce_et_dindustrie_cci_haute_loire_le_puy_en_velay",
+    "title": "Chambre de commerce et d'industrie (CCI) - Haute-Loire (Le Puy-en-Velay)",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/haute-loire/cci-43157-01",
+    "metadata": {
+      "email": "communication@hauteloire.cci.fr",
+      "telephone": "04 71 09 90 00",
+      "url": "http://www.hauteloire.cci.fr"
+    }
+  },
+  {
+    "id": "ca36efe727d869613baeda162466fdcc5243a12d",
+    "alternateName": "CCI",
+    "name": "chambre_de_commerce_et_dindustrie_cci_haute_loire_brioude",
+    "title": "Chambre de commerce et d'industrie (CCI) - Haute-Loire - Brioude",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/haute-loire/cci-43040-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 71 50 05 36",
+      "url": "http://www.hauteloire.cci.fr"
+    }
+  },
+  {
+    "id": "d2d5858c4df98b250e15f85ecb3287b11566347e",
+    "alternateName": "CCI",
+    "name": "chambre_de_commerce_et_dindustrie_cci_haute_marne",
+    "title": "Chambre de commerce et d'industrie (CCI) - Haute-Marne",
+    "url": "https://lannuaire.service-public.fr/grand-est/haute-marne/cci-52448-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 25 07 32 00",
+      "url": "http://www.meusehautemarne.cci.fr"
+    }
+  },
+  {
+    "id": "0d5a81fbd8693155a96f78cddb639d06f03f39bc",
+    "alternateName": "CCI",
+    "name": "chambre_de_commerce_et_dindustrie_cci_hautes_alpes",
+    "title": "Chambre de commerce et d'industrie (CCI) - Hautes-Alpes",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/hautes-alpes/cci-05061-01",
+    "metadata": {
+      "email": "infos@hautes-alpes.cci.fr",
+      "telephone": "04 92 56 56 05",
+      "url": "http://www.hautes-alpes.cci.fr"
+    }
+  },
+  {
+    "id": "4f419cfefbe5cc0f90c4857db22b4f0457d13b25",
+    "alternateName": "CCI",
+    "name": "chambre_de_commerce_et_dindustrie_cci_haute_saone",
+    "title": "Chambre de commerce et d'industrie (CCI) - Haute-Saône",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/haute-saone/cci-70550-01",
+    "metadata": {
+      "email": "contact@haute-saone.cci.fr",
+      "telephone": "03 84 96 71 00",
+      "url": "http://www.haute-saone.cci.fr"
+    }
+  },
+  {
+    "id": "d44162146173130b1231f74658405382d1f7e16a",
+    "alternateName": "CCI",
+    "name": "chambre_de_commerce_et_dindustrie_cci_haute_savoie",
+    "title": "Chambre de commerce et d'industrie (CCI) - Haute-Savoie",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/haute-savoie/cci-74010-01",
+    "metadata": {
+      "email": "accueil@haute-savoie.cci.fr",
+      "telephone": "04 50 33 72 00",
+      "url": "http://www.haute-savoie.cci.fr"
+    }
+  },
+  {
+    "id": "17bbb567e9f3219d9b85e5cc1eef331e2bc32940",
+    "alternateName": "CCI",
+    "name": "chambre_de_commerce_et_dindustrie_cci_hautes_pyrenees",
+    "title": "Chambre de commerce et d'industrie (CCI) - Hautes-Pyrénées",
+    "url": "https://lannuaire.service-public.fr/occitanie/hautes-pyrenees/cci-65440-01",
+    "metadata": {
+      "email": "contact@tarbes.cci.fr",
+      "telephone": "05 62 51 88 88",
+      "url": "http://www.tarbes.cci.fr"
+    }
+  },
+  {
+    "id": "3a5c77231e8e48e2129586f3d7f8b08a8be08ba6",
+    "alternateName": "CCI",
+    "name": "chambre_de_commerce_et_dindustrie_cci_haute_vienne",
+    "title": "Chambre de commerce et d'industrie (CCI) - Haute-Vienne",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/haute-vienne/cci-87085-01",
+    "metadata": {
+      "email": "info@limoges.cci.fr",
+      "telephone": "05 55 45 15 15",
+      "url": "http://www.limoges.cci.fr"
+    }
+  },
+  {
+    "id": "ef989463c3db873122c7c3a327336620aa4ff6c0",
+    "alternateName": "CCI",
+    "name": "chambre_de_commerce_et_dindustrie_cci_hauts_de_france",
+    "title": "Chambre de commerce et d'industrie (CCI) - Hauts-de-France",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/nord/cci-59350-02",
+    "metadata": {
+      "email": "contact@grand-lille.cci.fr",
+      "telephone": "03 20 63 79 79",
+      "url": "http://www.hautsdefrance.cci.fr"
+    }
+  },
+  {
+    "id": "009c36dce788aabfcc8403715fe33264e00c5c58",
+    "alternateName": "CCI",
+    "name": "chambre_de_commerce_et_dindustrie_cci_herault",
+    "title": "Chambre de commerce et d'industrie (CCI) - Hérault",
+    "url": "https://lannuaire.service-public.fr/occitanie/herault/cci-34172-01",
+    "metadata": {
+      "email": "info@herault.cci.fr",
+      "telephone": "04 99 51 52 00",
+      "url": "http://www.herault.cci.fr"
+    }
+  },
+  {
+    "id": "c459c861dfca1e13aa2d5113becf507b508cd225",
+    "alternateName": "CCI",
+    "name": "chambre_de_commerce_et_dindustrie_cci_iles_de_guadeloupe",
+    "title": "Chambre de commerce et d'industrie (CCI) - Iles de Guadeloupe",
+    "url": "https://lannuaire.service-public.fr/guadeloupe/guadeloupe/cci-97120-01",
+    "metadata": {
+      "email": "contact@guadeloupe.cci.fr",
+      "telephone": "+590 5 90 93 76 00",
+      "url": "http://www.guadeloupe.cci.fr"
+    }
+  },
+  {
+    "id": "74817b142098364e75405a2a65afffec6ca40b22",
+    "alternateName": "CCI",
+    "name": "chambre_de_commerce_et_dindustrie_cci_ille_et_vilaine_fougeres",
+    "title": "Chambre de commerce et d'industrie (CCI) - Ille-et-Vilaine (Fougères)",
+    "url": "https://lannuaire.service-public.fr/bretagne/ille-et-vilaine/cci-35115-01",
+    "metadata": {
+      "email": "javene-delegationdesmarchesdebretagne@ille-et-vilaine.cci.fr",
+      "telephone": "02 99 94 75 75",
+      "url": "http://www.ille-et-vilaine.cci.fr"
+    }
+  },
+  {
+    "id": "5664e9536011f34bbcaaa57928436ae7e689f073",
+    "alternateName": "CCI",
+    "name": "chambre_de_commerce_et_dindustrie_cci_ille_et_vilaine_rennes",
+    "title": "Chambre de commerce et d'industrie (CCI) - Ille-et-Vilaine Rennes",
+    "url": "https://lannuaire.service-public.fr/bretagne/ille-et-vilaine/cci-35238-01",
+    "metadata": {
+      "email": "infoplus@ille-et-vilaine.cci.fr",
+      "telephone": "02 99 33 66 66",
+      "url": "http://www.ille-et-vilaine.cci.fr"
+    }
+  },
+  {
+    "id": "9b34152c620b11e94db3dced5c446bff54ccc7ab",
+    "alternateName": "CCI",
+    "name": "chambre_de_commerce_et_dindustrie_cci_ille_et_vilaine_saint_malo",
+    "title": "Chambre de commerce et d'industrie (CCI) - Ille-et-Vilaine - Saint-Malo",
+    "url": "https://lannuaire.service-public.fr/bretagne/ille-et-vilaine/cci-35288-01",
+    "metadata": {
+      "email": "contact@saintmalofougeres.cci.fr",
+      "telephone": "02 99 20 63 00",
+      "url": "http://www.saintmalofougeres.cci.fr"
+    }
+  },
+  {
+    "id": "e9580e2de87aeb33829c0367c3667c4ddd52977d",
+    "alternateName": "CCI",
+    "name": "chambre_de_commerce_et_dindustrie_cci_indre",
+    "title": "Chambre de commerce et d'industrie (CCI) - Indre",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/indre/cci-36044-01",
+    "metadata": {
+      "email": "contact@indre.cci.fr",
+      "telephone": "02 54 53 52 51",
+      "url": "http://www.indre.cci.fr"
+    }
+  },
+  {
+    "id": "70138e04e31f154d32d190105bd399ad611f37ba",
+    "alternateName": "CCI",
+    "name": "chambre_de_commerce_et_dindustrie_cci_jura",
+    "title": "Chambre de commerce et d'industrie (CCI) - Jura",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/jura/cci-39300-01",
+    "metadata": {
+      "email": "contact@jura.cci.fr",
+      "telephone": "03 84 24 15 76",
+      "url": "http://www.jura.cci.fr"
+    }
+  },
+  {
+    "id": "d90c15d6a9b28bf377eb67baa4126705ce4b741b",
+    "alternateName": "CCI",
+    "name": "chambre_de_commerce_et_dindustrie_cci_landes_mont_de_marsan",
+    "title": "Chambre de commerce et d'industrie (CCI) - Landes - Mont-de-Marsan",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/landes/cci-40192-01",
+    "metadata": {
+      "email": "accueil@landes.cci.fr",
+      "telephone": "05 58 05 44 50",
+      "url": "http://www.landes.cci.fr"
+    }
+  },
+  {
+    "id": "4fd68eec80b621b41517cfaf86cec8420c78bf16",
+    "alternateName": "CCI",
+    "name": "chambre_de_commerce_et_dindustrie_cci_la_rochelle",
+    "title": "Chambre de commerce et d'industrie (CCI) - La Rochelle",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/charente-maritime/cci-17300-01",
+    "metadata": {
+      "email": "accueil@larochelle.cci.fr",
+      "telephone": "05 46 00 54 00",
+      "url": "http://www.larochelle.cci.fr"
+    }
+  },
+  {
+    "id": "c0158582a8629bb25ed7f7b73f20b13940e1c24d",
+    "alternateName": "CCI",
+    "name": "chambre_de_commerce_et_dindustrie_cci_la_roche_sur_yon",
+    "title": "Chambre de commerce et d'industrie (CCI) - La Roche-sur-Yon",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/vendee/cci-85191-01",
+    "metadata": {
+      "email": "info@vendee.cci.fr",
+      "telephone": "02 51 45 32 32",
+      "url": "http://www.vendee.cci.fr"
+    }
+  },
+  {
+    "id": "8d055456d8755a8657c4b7f762a768049f1fb38e",
+    "alternateName": "CCI",
+    "name": "chambre_de_commerce_et_dindustrie_cci_le_mans_et_la_sarthe",
+    "title": "Chambre de commerce et d'industrie (CCI) - Le Mans et la Sarthe",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/sarthe/cci-72181-01",
+    "metadata": {
+      "email": "mgauthier@lemans.cci.fr",
+      "telephone": "02 43 21 00 00",
+      "url": "http://www.lemans.sarthe.cci.fr"
+    }
+  },
+  {
+    "id": "94dc41ffb9fa27afb6bb614ceaad526331065539",
+    "alternateName": "CCI",
+    "name": "chambre_de_commerce_et_dindustrie_cci_littoral_hauts_de_france_abbeville",
+    "title": "Chambre de commerce et d'industrie (CCI) - Littoral Hauts-de-France - Abbeville",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/somme/cci-80001-01",
+    "metadata": {
+      "email": "contact@littoralhautsdefrance.cci.fr",
+      "telephone": "03 21 46 00 00",
+      "url": "http://www.littoral-hautsdefrance.cci.fr"
+    }
+  },
+  {
+    "id": "11132f318fb14c1fded396e57ef539a7258f06ec",
+    "alternateName": "CCI",
+    "name": "chambre_de_commerce_et_dindustrie_cci_littoral_hauts_de_france_calais",
+    "title": "Chambre de commerce et d'industrie (CCI) - Littoral Hauts-de-France - Calais",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/pas-de-calais/cci-62193-01",
+    "metadata": {
+      "email": "contact@littoralhautsdefrance.cci.fr",
+      "telephone": "03 21 46 00 00",
+      "url": "https://littoral-hautsdefrance.cci.fr"
+    }
+  },
+  {
+    "id": "7d964437c997338ecfa15b699e1cdc3a1d5e8b40",
+    "alternateName": "CCI",
+    "name": "chambre_de_commerce_et_dindustrie_cci_loiret",
+    "title": "Chambre de commerce et d'industrie (CCI) - Loiret",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/loiret/cci-45234-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 38 77 77 77",
+      "url": "http://www.loiret.cci.fr"
+    }
+  },
+  {
+    "id": "a5d850661ea0ffc389e6b62f607afcd3285f86d1",
+    "alternateName": "CCI",
+    "name": "chambre_de_commerce_et_dindustrie_cci_loir_et_cher",
+    "title": "Chambre de commerce et d'industrie (CCI) - Loir-et-Cher",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/loir-et-cher/cci-41018-01",
+    "metadata": {
+      "email": "contact@loir-et-cher.cci.fr",
+      "telephone": "02 54 44 64 00",
+      "url": "http://www.loir-et-cher.cci.fr"
+    }
+  },
+  {
+    "id": "811337c8d55af0637a03d4e1aadf39615f391999",
+    "alternateName": "CCI",
+    "name": "chambre_de_commerce_et_dindustrie_cci_lot",
+    "title": "Chambre de commerce et d'industrie (CCI) - Lot",
+    "url": "https://lannuaire.service-public.fr/occitanie/lot/cci-46042-01",
+    "metadata": {
+      "email": "assist.dir@lot.cci.fr",
+      "telephone": "05 65 20 35 01",
+      "url": "http://www.lot.cci.fr"
+    }
+  },
+  {
+    "id": "7911c71d73a70bba95df7233708cbb172bfb3cad",
+    "alternateName": "CCI",
+    "name": "chambre_de_commerce_et_dindustrie_cci_lot_et_garonne",
+    "title": "Chambre de commerce et d'industrie (CCI) - Lot-et-Garonne",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/lot-et-garonne/cci-47001-01",
+    "metadata": {
+      "email": "cci@cci47.fr",
+      "telephone": "05 53 77 10 00",
+      "url": "http://www.cci47.fr"
+    }
+  },
+  {
+    "id": "1fa0ecb56d9f4f9d42231782b1a315077d6eed09",
+    "alternateName": "CCI",
+    "name": "chambre_de_commerce_et_dindustrie_cci_lot_et_garonne_marmande",
+    "title": "Chambre de commerce et d'industrie (CCI) - Lot-et-Garonne - Marmande",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/lot-et-garonne/cci-47157-01",
+    "metadata": {
+      "email": "agence.marmande@cci47.fr",
+      "telephone": "05 53 64 10 10",
+      "url": "http://www.cci47.fr"
+    }
+  },
+  {
+    "id": "28a01d506ba63a08eaf363e632cd6693ab95b3ef",
+    "alternateName": "CCI",
+    "name": "chambre_de_commerce_et_dindustrie_cci_lot_et_garonne_nerac",
+    "title": "Chambre de commerce et d'industrie (CCI) - Lot-et-Garonne - Nérac",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/lot-et-garonne/cci-47195-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 53 65 92 06",
+      "url": "http://www.cci.fr"
+    }
+  },
+  {
+    "id": "a849a2258e3eaaddb1bf10e4e099de665ff9bc90",
+    "alternateName": "CCI",
+    "name": "chambre_de_commerce_et_dindustrie_cci_lozere",
+    "title": "Chambre de commerce et d'industrie (CCI) - Lozère",
+    "url": "https://lannuaire.service-public.fr/occitanie/lozere/cci-48095-01",
+    "metadata": {
+      "email": "accueil@lozere.cci.fr",
+      "telephone": "04 66 49 00 33",
+      "url": "http://www.lozere.cci.fr"
+    }
+  },
+  {
+    "id": "edd4f83d2cf77814347750d8864af9d31f9174ba",
+    "alternateName": "CCI",
+    "name": "chambre_de_commerce_et_dindustrie_cci_lyon_metropole_lyon",
+    "title": "Chambre de commerce et d'industrie (CCI) - Lyon Métropole - Lyon",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/rhone/cci-69382-01",
+    "metadata": {
+      "email": "infos@lyon-metropole.cci.fr",
+      "telephone": "04 72 40 58 58",
+      "url": "http://www.lyon-metropole.cci.fr"
+    }
+  },
+  {
+    "id": "4e31208b61e9e3c85bc8417c7d02c4b241445d4f",
+    "alternateName": "CCI",
+    "name": "chambre_de_commerce_et_dindustrie_cci_lyon_metropole_saint_etienne",
+    "title": "Chambre de commerce et d'industrie (CCI) - Lyon Métropole - Saint-Étienne",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/loire/cci-42218-01",
+    "metadata": {
+      "email": "infos@lyon-metropole.cci.fr",
+      "telephone": "04 77 43 04 00",
+      "url": "http://www.lyon-metropole.cci.fr"
+    }
+  },
+  {
+    "id": "b26102d3357a5bd5f20a6c5946a44f4f8f56259d",
+    "alternateName": "CCI",
+    "name": "chambre_de_commerce_et_dindustrie_cci_lyon_metropole_saint_etienne_roanne",
+    "title": "Chambre de commerce et d'industrie (CCI) - Lyon Métropole - Saint-Étienne - Roanne",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/loire/cci-42187-01",
+    "metadata": {
+      "email": "infos@lyon-metropole.cci.fr",
+      "telephone": "04 77 44 54 64",
+      "url": "http://www.lyon-metropole.cci.fr"
+    }
+  },
+  {
+    "id": "eb0441c17766d8f40c386ea1f884a4ff4213a9c3",
+    "alternateName": "CCI",
+    "name": "chambre_de_commerce_et_dindustrie_cci_maine_et_loire",
+    "title": "Chambre de commerce et d'industrie (CCI) - Maine-et-Loire",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/maine-et-loire/cci-49007-01",
+    "metadata": {
+      "email": "info@maineetloire.cci.fr",
+      "telephone": "02 41 20 49 00",
+      "url": "http://www.maineetloire.cci.fr"
+    }
+  },
+  {
+    "id": "c81e5251bdae4b228ff36597faef6f3e2e704bbd",
+    "alternateName": "CCI",
+    "name": "chambre_de_commerce_et_dindustrie_cci_marne_reims",
+    "title": "Chambre de commerce et d'industrie (CCI) - Marne - Reims",
+    "url": "https://lannuaire.service-public.fr/grand-est/marne/cci-51454-01",
+    "metadata": {
+      "email": "info@marne.cci.fr",
+      "telephone": "03 26 50 62 50",
+      "url": "http://marne.cci.fr"
+    }
+  },
+  {
+    "id": "79a897cae5e0fd951399f040ef1425ed8283d767",
+    "alternateName": "CCI",
+    "name": "chambre_de_commerce_et_dindustrie_cci_marne_site_de_chalons_en_champagne_siege_social",
+    "title": "Chambre de commerce et d'industrie (CCI) - Marne - Site de Châlons-en-Champagne (siège social)",
+    "url": "https://lannuaire.service-public.fr/grand-est/marne/cci-51108-01",
+    "metadata": {
+      "email": "info@marne.cci.fr",
+      "telephone": "03 26 50 62 50",
+      "url": "http://marne.cci.fr"
+    }
+  },
+  {
+    "id": "d6d021ccf0e0d7985dee584fb2bae7bfcf5ea950",
+    "alternateName": "CCI",
+    "name": "chambre_de_commerce_et_dindustrie_cci_marseille",
+    "title": "Chambre de commerce et d'industrie (CCI) - Marseille",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/cci-13201-01",
+    "metadata": {
+      "email": "service.client@ccimp.com",
+      "telephone": "08 10 11 31 13",
+      "url": "http://www.ccimp.com"
+    }
+  },
+  {
+    "id": "11cd2ff7621fecca047b60cfcfc227e76c2731cb",
+    "alternateName": "CCI",
+    "name": "chambre_de_commerce_et_dindustrie_cci_martinique",
+    "title": "Chambre de commerce et d'industrie (CCI) - Martinique",
+    "url": "https://lannuaire.service-public.fr/martinique/martinique/cci-97225-01",
+    "metadata": {
+      "email": "saint-pierre@martinique.cci.fr",
+      "telephone": "05 96 78 29 28",
+      "url": "http://www.martinique.cci.fr"
+    }
+  },
+  {
+    "id": "f08c598d5ada89b068f8e6530c6e8c14f958122a",
+    "alternateName": "CCI",
+    "name": "chambre_de_commerce_et_dindustrie_cci_martinique_fort_de_france",
+    "title": "Chambre de commerce et d'industrie (CCI) - Martinique - Fort-de-France",
+    "url": "https://lannuaire.service-public.fr/martinique/martinique/cci-97209-01",
+    "metadata": {
+      "email": "contact@martinique.cci.fr",
+      "telephone": "+596 5 96 55 28 00",
+      "url": "http://www.martinique.cci.fr"
+    }
+  },
+  {
+    "id": "469cb3539be5bfeebe8daca52be56cd5fc309d00",
+    "alternateName": "CCI",
+    "name": "chambre_de_commerce_et_dindustrie_cci_mayenne",
+    "title": "Chambre de commerce et d'industrie (CCI) - Mayenne",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/mayenne/cci-53130-01",
+    "metadata": {
+      "email": "cci53-accueil@mayenne.cci.fr",
+      "telephone": "02 43 49 50 00",
+      "url": "http://www.mayenne.cci.fr"
+    }
+  },
+  {
+    "id": "7cf2b0dda034b95f3933ec08ab2f5c1df6dd3b1a",
+    "alternateName": "CCI",
+    "name": "chambre_de_commerce_et_dindustrie_cci_mayotte",
+    "title": "Chambre de commerce et d'industrie (CCI) - Mayotte",
+    "url": "https://lannuaire.service-public.fr/mayotte/mayotte/cci-97611-01",
+    "metadata": {
+      "email": "communication@mayotte.cci.fr",
+      "telephone": "+269 269 61 04 26",
+      "url": "http://www.mayotte.cci.fr"
+    }
+  },
+  {
+    "id": "a481b0d122f421a7c3c60ae700d3775b08059b86",
+    "alternateName": "CCI",
+    "name": "chambre_de_commerce_et_dindustrie_cci_metropole_bretagne_ouest",
+    "title": "Chambre de commerce et d'industrie (CCI) - Métropole Bretagne Ouest",
+    "url": "https://lannuaire.service-public.fr/bretagne/finistere/cci-29151-01",
+    "metadata": {
+      "email": "contact@bretagne-ouest.cci.bzh",
+      "telephone": "02 98 62 39 39",
+      "url": "http://www.bretagne-ouest.cci.bzh"
+    }
+  },
+  {
+    "id": "c730ea5c2b0f8a3d56671fcd8a8afa3a0e380d0a",
+    "alternateName": "CCI",
+    "name": "chambre_de_commerce_et_dindustrie_cci_metropolitaine_bretagne_ouest",
+    "title": "Chambre de commerce et d'industrie (CCI) - Métropolitaine-Bretagne-Ouest",
+    "url": "https://lannuaire.service-public.fr/bretagne/finistere/cci-29232-01",
+    "metadata": {
+      "email": "accueil.quimper@bretagne-ouest.cci.bzh",
+      "telephone": "02 98 98 29 29",
+      "url": "http://www.bretagne-ouest.cci.bzh"
+    }
+  },
+  {
+    "id": "32964b3d94ebb7aaaeb73b41bf2ec7848cf669a7",
+    "alternateName": "CCI",
+    "name": "chambre_de_commerce_et_dindustrie_cci_meurthe_et_moselle",
+    "title": "Chambre de commerce et d'industrie (CCI) - Meurthe-et-Moselle",
+    "url": "https://lannuaire.service-public.fr/grand-est/meurthe-et-moselle/cci-54395-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 83 85 54 54",
+      "url": "http://www.nancy.cci.fr"
+    }
+  },
+  {
+    "id": "27fee5302ed6987b9c7e2adf9866d47adb58abe3",
+    "alternateName": "CCI",
+    "name": "chambre_de_commerce_et_dindustrie_cci_meuse",
+    "title": "Chambre de commerce et d'industrie (CCI) - Meuse",
+    "url": "https://lannuaire.service-public.fr/grand-est/meuse/cci-55029-01",
+    "metadata": {
+      "email": "courrier@meusehautemarne.cci.fr",
+      "telephone": "03 29 76 83 00",
+      "url": "http://www.meusehautemarne.cci.fr"
+    }
+  },
+  {
+    "id": "34e638b7e9e0b329674d6429f84db1c1d5c56897",
+    "alternateName": "CCI",
+    "name": "chambre_de_commerce_et_dindustrie_cci_morbihan",
+    "title": "Chambre de commerce et d'industrie (CCI) - Morbihan",
+    "url": "https://lannuaire.service-public.fr/bretagne/morbihan/cci-56121-01",
+    "metadata": {
+      "email": "contact@morbihan.cci.fr",
+      "telephone": "02 97 02 40 00",
+      "url": "http://www.morbihan.cci.fr"
+    }
+  },
+  {
+    "id": "a443e93b38fb909c588c71aa3a7e189014079e1a",
+    "alternateName": "CCI",
+    "name": "chambre_de_commerce_et_dindustrie_cci_moselle",
+    "title": "Chambre de commerce et d'industrie (CCI) - Moselle",
+    "url": "https://lannuaire.service-public.fr/grand-est/moselle/cci-57463-01",
+    "metadata": {
+      "email": "accueil-info@moselle.cci.fr",
+      "telephone": "03 87 52 31 00",
+      "url": "http://www.moselle.cci.fr"
+    }
+  },
+  {
+    "id": "f6df4ec6abb2d32af9083795162484df84b9983a",
+    "alternateName": "CCI",
+    "name": "chambre_de_commerce_et_dindustrie_cci_nantes",
+    "title": "Chambre de commerce et d'industrie (CCI) - Nantes",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/loire-atlantique/cci-44109-01",
+    "metadata": {
+      "email": "info.clients@nantesstnazaire.cci.fr",
+      "telephone": "02 40 44 60 00",
+      "url": "http://www.nantesstnazaire.cci.fr"
+    }
+  },
+  {
+    "id": "fdc48851dd385678646610cc6c1d6748f130d3b6",
+    "alternateName": "CCI",
+    "name": "chambre_de_commerce_et_dindustrie_cci_nice_cote_d_azur",
+    "title": "Chambre de commerce et d'industrie (CCI) - Nice - Cote-d'Azur",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/alpes-maritimes/cci-06088-01",
+    "metadata": {
+      "email": "",
+      "telephone": "0820 42 22 22",
+      "url": "http://www.cote-azur.cci.fr"
+    }
+  },
+  {
+    "id": "4bc2d4724f307a932f8f70a1edb0ee08f73445fe",
+    "alternateName": "CCI",
+    "name": "chambre_de_commerce_et_dindustrie_cci_nievre",
+    "title": "Chambre de commerce et d'industrie (CCI) - Nièvre",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/nievre/cci-58194-01",
+    "metadata": {
+      "email": "cci.58@nievre.cci.fr",
+      "telephone": "03 86 60 61 62",
+      "url": "http://www.nievre.cci.fr"
+    }
+  },
+  {
+    "id": "90938c353d288280b2bfbd646f2b56017ab9b8c5",
+    "alternateName": "CCI",
+    "name": "chambre_de_commerce_et_dindustrie_cci_nord_isere",
+    "title": "Chambre de commerce et d'industrie (CCI) - Nord-Isère",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/isere/cci-38544-01",
+    "metadata": {
+      "email": "infos@nord-isere.cci.fr",
+      "telephone": "04 74 31 44 00",
+      "url": "http://www.ccinordisere.fr"
+    }
+  },
+  {
+    "id": "f6ff6edd9a8448643953dd5a2c0ab0aa9292d457",
+    "alternateName": "CCI",
+    "name": "chambre_de_commerce_et_dindustrie_cci_normandie_caen",
+    "title": "Chambre de commerce et d'industrie (CCI) - Normandie - Caen",
+    "url": "https://lannuaire.service-public.fr/normandie/calvados/cci-14118-01",
+    "metadata": {
+      "email": "information@caen.cci.fr",
+      "telephone": "02 31 54 54 54",
+      "url": "http://www.caen.cci.fr"
+    }
+  },
+  {
+    "id": "777e83e179b26c80471dda766ca41f7b7f211de1",
+    "alternateName": "CCI",
+    "name": "chambre_de_commerce_et_dindustrie_cci_nouvelle_aquitaine",
+    "title": "Chambre de commerce et d'industrie (CCI) - Nouvelle-Aquitaine",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/gironde/cci-33063-02",
+    "metadata": {
+      "email": "contact@nouvelle-aquitaine.cci.fr",
+      "telephone": "05 56 11 94 94",
+      "url": "http://www.nouvelle-aquitaine.cci.fr"
+    }
+  },
+  {
+    "id": "d695e4b7776eafe505453190338e8b36f5c5c7b5",
+    "alternateName": "CCI",
+    "name": "chambre_de_commerce_et_dindustrie_cci_oise",
+    "title": "Chambre de commerce et d'industrie (CCI) - Oise",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/oise/cci-60057-01",
+    "metadata": {
+      "email": "ccio_beauvais@cci-oise.fr",
+      "telephone": "03 44 79 80 81",
+      "url": "http://www.oise.cci.fr"
+    }
+  },
+  {
+    "id": "d30856bef12fbdb91584d7bb577c3f8fc2de5986",
+    "alternateName": "CCI",
+    "name": "chambre_de_commerce_et_dindustrie_cci_ouest_normandie_centre_et_sud_manche",
+    "title": "Chambre de commerce et d'industrie (CCI) - Ouest Normandie - Centre et Sud Manche",
+    "url": "https://lannuaire.service-public.fr/normandie/manche/cci-50218-01",
+    "metadata": {
+      "email": "cci@normandie.cci.fr",
+      "telephone": "02 33 91 33 91",
+      "url": "http://www.ouestnormandie.cci.fr"
+    }
+  },
+  {
+    "id": "1a3e563d87978e048549bdbd5011dbf87be69fe5",
+    "alternateName": "CCI",
+    "name": "chambre_de_commerce_et_dindustrie_cci_ouest_normandie_cherbourg_cotentin",
+    "title": "Chambre de commerce et d'industrie (CCI) - Ouest Normandie - Cherbourg-Cotentin",
+    "url": "https://lannuaire.service-public.fr/normandie/manche/cci-50129-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 33 23 32 00",
+      "url": "http://www.ouestnormandie.cci.fr"
+    }
+  },
+  {
+    "id": "c640a05431e7ecf81e07cf76b706ea793dae2a14",
+    "alternateName": "CCI",
+    "name": "chambre_de_commerce_et_dindustrie_cci_ouest_normandie_orne",
+    "title": "Chambre de commerce et d'industrie (CCI) - Ouest Normandie - Orne",
+    "url": "https://lannuaire.service-public.fr/normandie/orne/cci-61169-01",
+    "metadata": {
+      "email": "laetitia.dugard@normandie.cci.fr",
+      "telephone": "02 33 64 68 00",
+      "url": "http://www.normandie.cci.fr"
+    }
+  },
+  {
+    "id": "d3f87a423d41f58463b2932d7cc65a1063259519",
+    "alternateName": "CCI",
+    "name": "chambre_de_commerce_et_dindustrie_cci_paris_ile_de_france_hauts_de_seine",
+    "title": "Chambre de commerce et d'industrie (CCI) - Paris-Ile-de-France - Hauts-de-Seine",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/hauts-de-seine/cci-92050-01",
+    "metadata": {
+      "email": "http://www.cci-paris-idf.fr/cci-region/contenus/contact",
+      "telephone": "08 20 01 21 12",
+      "url": "http://www.cci-paris-idf.fr"
+    }
+  },
+  {
+    "id": "243295a47a96161f7e4c619ab6fcb1d243d2557b",
+    "alternateName": "CCI",
+    "name": "chambre_de_commerce_et_dindustrie_cci_paris_ile_de_france_paris",
+    "title": "Chambre de commerce et d'industrie (CCI) - Paris-Île-de-France - Paris",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/paris/cci-75101-01",
+    "metadata": {
+      "email": "",
+      "telephone": "08 20 01 21 12",
+      "url": "http://www.entreprises.cci-paris-idf.fr"
+    }
+  },
+  {
+    "id": "04a8db92fed307f42a9f999bc42f9a892aee7093",
+    "alternateName": "CCI",
+    "name": "chambre_de_commerce_et_dindustrie_cci_paris_ile_de_france_seine_saint_denis",
+    "title": "Chambre de commerce et d'industrie (CCI) - Paris-Île-de-France - Seine-Saint-Denis",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/seine-saint-denis/cci-93008-01",
+    "metadata": {
+      "email": "contact@cci-paris-idf.fr",
+      "telephone": "08 20 01 21 12",
+      "url": "http://www.entreprises.cci-paris-idf.fr"
+    }
+  },
+  {
+    "id": "99bebc1b3a7f0e9adac7eb2391b4fb25b3881a37",
+    "alternateName": "CCI",
+    "name": "chambre_de_commerce_et_dindustrie_cci_paris_ile_de_france_val_d_oise",
+    "title": "Chambre de commerce et d'industrie (CCI) - Paris-Ile-de-France - Val-d'Oise",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/val-d-oise/cci-95127-01",
+    "metadata": {
+      "email": "contact@cci-paris-idf.fr",
+      "telephone": "08 20 01 21 12",
+      "url": "http://www.entreprises.cci-paris-idf.fr"
+    }
+  },
+  {
+    "id": "53c27be2c0f1219280ee8ec7661b715c13b449f0",
+    "alternateName": "CCI",
+    "name": "chambre_de_commerce_et_dindustrie_cci_paris_ile_de_france_val_de_marne",
+    "title": "Chambre de commerce et d'industrie (CCI) - Paris-Ile-de-France - Val-de-Marne",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/val-de-marne/cci-94028-01",
+    "metadata": {
+      "email": "",
+      "telephone": "08 20 01 21 12",
+      "url": "http://www.entreprises.cci-paris-idf.fr"
+    }
+  },
+  {
+    "id": "f04562cc8e33c125e9017c852af874f662e02cdd",
+    "alternateName": "CCI",
+    "name": "chambre_de_commerce_et_dindustrie_cci_paris_ile_de_france_yvelines",
+    "title": "Chambre de commerce et d'industrie (CCI) - Paris-Île-de-France - Yvelines",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/yvelines/cci-78646-01",
+    "metadata": {
+      "email": "http://www.cci-paris-idf.fr/cci-region/contenus/contact",
+      "telephone": "08 20 01 21 12",
+      "url": "http://www.cci-paris-idf.fr"
+    }
+  },
+  {
+    "id": "366c1cf9363a882416b5c0f5c60fe981ade143b4",
+    "alternateName": "CCI",
+    "name": "chambre_de_commerce_et_dindustrie_cci_pau_bearn",
+    "title": "Chambre de commerce et d'industrie (CCI) - Pau - Béarn",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/pyrenees-atlantiques/cci-64445-01",
+    "metadata": {
+      "email": "contact@pau.cci.fr",
+      "telephone": "05 59 82 51 11",
+      "url": "http://www.pau.cci.fr"
+    }
+  },
+  {
+    "id": "6afa502dd4b3ab6c818211288ea466f259e3b2ca",
+    "alternateName": "CCI",
+    "name": "chambre_de_commerce_et_dindustrie_cci_pays_d_arles",
+    "title": "Chambre de commerce et d'industrie (CCI) - Pays d'Arles",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/cci-13004-01",
+    "metadata": {
+      "email": "contact@arles.cci.fr",
+      "telephone": "04 90 99 08 08",
+      "url": "http://www.arles.cci.fr"
+    }
+  },
+  {
+    "id": "322c42530a018ee4dc3212540e2428c2238ea98b",
+    "alternateName": "CCI",
+    "name": "chambre_de_commerce_et_dindustrie",
+    "title": "Chambre de commerce et d'industrie",
+    "url": "https://lannuaire.service-public.fr/occitanie/pyrenees-orientales/cci-66136-01",
+    "metadata": {
+      "email": "accueil@perpignan.cci.fr",
+      "telephone": "04 68 35 66 33",
+      "url": "http://www.perpignan.cci.fr"
+    }
+  },
+  {
+    "id": "650b27c0598d110b283f0c107b76c6ec50ff3fd5",
+    "alternateName": "CCI",
+    "name": "chambre_de_commerce_et_dindustrie_cci_portes_de_normandie_evreux",
+    "title": "Chambre de commerce et d'industrie (CCI) - Portes de Normandie - Évreux",
+    "url": "https://lannuaire.service-public.fr/normandie/eure/cci-27229-01",
+    "metadata": {
+      "email": "info-eure@normandie.cci.fr",
+      "telephone": "02 77 27 00 27",
+      "url": "http://www.portesdenormandie.cci.fr"
+    }
+  },
+  {
+    "id": "9d5f249788b91b699f743a5f976e73fe786683d4",
+    "alternateName": "CCI",
+    "name": "chambre_de_commerce_et_dindustrie_cci_puy_de_dome",
+    "title": "Chambre de commerce et d'industrie (CCI) - Puy-de-Dôme",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/puy-de-dome/cci-63113-01",
+    "metadata": {
+      "email": "ccc@puy-de-dome.cci.fr",
+      "telephone": "04 73 43 43 43",
+      "url": "http://www.puy-de-dome.cci.fr"
+    }
+  },
+  {
+    "id": "9d5f249788b91b699f743a5f976e73fe786683d4",
+    "alternateName": "CCI",
+    "name": "chambre_de_commerce_et_dindustrie_cci_puy_de_dome",
+    "title": "Chambre de commerce et d'industrie (CCI) - Puy-de-Dôme",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/puy-de-dome/cci-63430-01",
+    "metadata": {
+      "email": "ccc@puy-de-dome.cci.fr",
+      "telephone": "04 73 51 66 50",
+      "url": "http://www.puy-de-dome.cci.fr"
+    }
+  },
+  {
+    "id": "30136ee6a5c4d05c3f291f7722f1eb6b1d3bc9a5",
+    "alternateName": "CCI",
+    "name": "chambre_de_commerce_et_dindustrie_cci_puy_de_dome_riom",
+    "title": "Chambre de commerce et d'industrie (CCI) - Puy-de-Dôme - Riom",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/puy-de-dome/cci-63245-01",
+    "metadata": {
+      "email": "ccc@puy-de-dome.cci.fr",
+      "telephone": "04 73 33 74 74",
+      "url": "http://www.puy-de-dome.cci.fr"
+    }
+  },
+  {
+    "id": "7649193b6819d3ef3443a27b55ac7d123dcff201",
+    "alternateName": "CCI",
+    "name": "chambre_de_commerce_et_dindustrie_cci_reunion",
+    "title": "Chambre de commerce et d'industrie (CCI) - Réunion",
+    "url": "https://lannuaire.service-public.fr/la-reunion/reunion/cci-97411-01",
+    "metadata": {
+      "email": "contact@reunion.cci.fr",
+      "telephone": "+262 262 94 20 00",
+      "url": "https://reunion.cci.fr"
+    }
+  },
+  {
+    "id": "952191c811bee77dc75d0de2ba926b8c1d85c31c",
+    "alternateName": "CCI",
+    "name": "chambre_de_commerce_et_dindustrie_cci_rochefort_et_saintonge",
+    "title": "Chambre de commerce et d'industrie (CCI) - Rochefort et Saintonge",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/charente-maritime/cci-17299-01",
+    "metadata": {
+      "email": "ccirs@rochefort.cci.fr",
+      "telephone": "05 46 84 11 84",
+      "url": "http://www.rochefort.cci.fr"
+    }
+  },
+  {
+    "id": "8a41fd920576d6c0dd410689c09e52bc19f13a43",
+    "alternateName": "CCI",
+    "name": "chambre_de_commerce_et_dindustrie_cci_rouen_metropole",
+    "title": "Chambre de commerce et d'industrie (CCI) - Rouen - Métropole",
+    "url": "https://lannuaire.service-public.fr/normandie/seine-maritime/cci-76540-01",
+    "metadata": {
+      "email": "rouenmetropole@normandie.cci.fr",
+      "telephone": "02 32 10 05 00",
+      "url": "http://www.rouen-metropole.cci.fr"
+    }
+  },
+  {
+    "id": "91a0ab2f0504f859ec07c95b1acc7337a0667daa",
+    "alternateName": "CCI",
+    "name": "chambre_de_commerce_et_dindustrie_cci_rouen_metropole_dieppe",
+    "title": "Chambre de commerce et d'industrie (CCI) - Rouen-Métropole - Dieppe",
+    "url": "https://lannuaire.service-public.fr/normandie/seine-maritime/cci-76217-01",
+    "metadata": {
+      "email": "rouenmetropole@normandie.cci.fr",
+      "telephone": "02 32 10 05 00",
+      "url": "http://www.rouen-metropole.cci.fr"
+    }
+  },
+  {
+    "id": "a562ea9b4624b3a94eb82031820e263856699946",
+    "alternateName": "CCI",
+    "name": "chambre_de_commerce_et_dindustrie_cci_saint_nazaire",
+    "title": "Chambre de commerce et d'industrie (CCI) - Saint-Nazaire",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/loire-atlantique/cci-44184-01",
+    "metadata": {
+      "email": "info.clients@nantesstnazaire.cci.fr",
+      "telephone": "02 40 44 60 00",
+      "url": "http://www.nantesstnazaire.cci.fr"
+    }
+  },
+  {
+    "id": "1f517b1ac73e61fb8f35cbbe91c069f8cdd514eb",
+    "alternateName": "CCI",
+    "name": "chambre_de_commerce_et_dindustrie_cci_saone_et_loire",
+    "title": "Chambre de commerce et d'industrie (CCI) - Saône-et-Loire",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/saone-et-loire/cci-71076-01",
+    "metadata": {
+      "email": "contact.chalon@cci71.fr",
+      "telephone": "03 85 42 36 00",
+      "url": "http://www.saone-et-loire.cci.fr"
+    }
+  },
+  {
+    "id": "ef795c8b4ccc51897ee02db7b0d936c487641d45",
+    "alternateName": "CCI",
+    "name": "chambre_de_commerce_et_dindustrie_cci_saone_et_loire_macon",
+    "title": "Chambre de commerce et d'industrie (CCI) - Saône-et-Loire - Mâcon",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/saone-et-loire/cci-71270-01",
+    "metadata": {
+      "email": "contact.macon@cci71.fr",
+      "telephone": "03 85 21 53 00",
+      "url": "http://www.cci71.fr"
+    }
+  },
+  {
+    "id": "1854813d29faf87bdaf4798ce9c803df9d37df0c",
+    "alternateName": "CCI",
+    "name": "chambre_de_commerce_et_dindustrie_cci_savoie",
+    "title": "Chambre de commerce et d'industrie (CCI) - Savoie",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/savoie/cci-73065-01",
+    "metadata": {
+      "email": "info@savoie.cci.fr",
+      "telephone": "04 57 73 73 73",
+      "url": "http://www.savoie.cci.fr"
+    }
+  },
+  {
+    "id": "0003dacda887ef7ebdf531f6cc31f79c2ee9c9be",
+    "alternateName": "CCI",
+    "name": "chambre_de_commerce_et_dindustrie_cci_seine_estuaire",
+    "title": "Chambre de commerce et d'industrie (CCI) - Seine-Estuaire",
+    "url": "https://lannuaire.service-public.fr/normandie/seine-maritime/cci-76351-01",
+    "metadata": {
+      "email": "guichetunique@normandie.cci.fr",
+      "telephone": "02 35 55 26 00",
+      "url": "http://www.seine-estuaire.cci.fr"
+    }
+  },
+  {
+    "id": "de176ac0d1b26718135bf03088b466698ae148a3",
+    "alternateName": "CCI",
+    "name": "chambre_de_commerce_et_dindustrie_cci_seine_estuaire_bolbec",
+    "title": "Chambre de commerce et d'industrie (CCI) - Seine-Estuaire - Bolbec",
+    "url": "https://lannuaire.service-public.fr/normandie/seine-maritime/cci-76114-01",
+    "metadata": {
+      "email": "contact@seine-estuaire.cci.fr",
+      "telephone": "02 32 84 47 49",
+      "url": "http://www.seine-estuaire.cci.fr"
+    }
+  },
+  {
+    "id": "668bc895d6e3161832e2116efde515aeff715289",
+    "alternateName": "CCI",
+    "name": "chambre_de_commerce_et_dindustrie_cci_seine_estuaire_fecamp",
+    "title": "Chambre de commerce et d'industrie (CCI) - Seine-Estuaire - Fécamp",
+    "url": "https://lannuaire.service-public.fr/normandie/seine-maritime/cci-76259-01",
+    "metadata": {
+      "email": "contact@fecamp-bolbec.cci.fr",
+      "telephone": "02 35 10 38 38",
+      "url": "https://www.seine-estuaire.cci.fr"
+    }
+  },
+  {
+    "id": "6039758356f38f5a41d905834071df83d50baa14",
+    "alternateName": "CCI",
+    "name": "chambre_de_commerce_et_dindustrie_cci_seine_estuaire_pays_d_auge",
+    "title": "Chambre de commerce et d'industrie (CCI) - Seine-Estuaire - Pays d'Auge",
+    "url": "https://lannuaire.service-public.fr/normandie/calvados/cci-14333-01",
+    "metadata": {
+      "email": "contact@seine-estuaire.cci.fr",
+      "telephone": "02 31 61 55 55",
+      "url": "http://www.seine-estuaire.cci.fr"
+    }
+  },
+  {
+    "id": "6333d76bd1fa012738a1808c7fadb7a060255fe8",
+    "alternateName": "CCI",
+    "name": "chambre_de_commerce_et_dindustrie_cci_seine_et_marne",
+    "title": "Chambre de commerce et d'industrie (CCI) - Seine-et-Marne",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/seine-et-marne/cci-77169-01",
+    "metadata": {
+      "email": "infocci@seineetmarne.cci.fr",
+      "telephone": "01 74 60 51 00",
+      "url": "http://www.seineetmarne.cci.fr"
+    }
+  },
+  {
+    "id": "44a3253b4a631ba04c81b61ed11b1cf5d3a1dc8f",
+    "alternateName": "CCI",
+    "name": "chambre_de_commerce_et_dindustrie_cci_seine_mer_normandie_elbeuf",
+    "title": "Chambre de commerce et d'industrie (CCI) - Seine-Mer-Normandie - Elbeuf",
+    "url": "https://lannuaire.service-public.fr/normandie/seine-maritime/cci-76231-01",
+    "metadata": {
+      "email": "rouenmetropole@normandie.cci.fr",
+      "telephone": "02 32 10 05 00",
+      "url": "http://www.rouen-metropole.cci.fr"
+    }
+  },
+  {
+    "id": "d816265d12ac6bc9cbbaefb050195d485b6582df",
+    "alternateName": "CCI",
+    "name": "chambre_de_commerce_et_dindustrie_cci_sens",
+    "title": "Chambre de commerce et d'industrie (CCI) - Sens",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/yonne/cci-89387-01",
+    "metadata": {
+      "email": "direction@yonne.cci.fr",
+      "telephone": "03 86 49 40 00",
+      "url": "http://www.yonne.cci.fr"
+    }
+  },
+  {
+    "id": "2ae5f46f849aa7fb8acd60ec21b945e86b915a94",
+    "alternateName": "CCI",
+    "name": "chambre_de_commerce_et_dindustrie_cci_strasbourg_et_bas_rhin",
+    "title": "Chambre de commerce et d'industrie (CCI) - Strasbourg et Bas-Rhin",
+    "url": "https://lannuaire.service-public.fr/grand-est/bas-rhin/cci-67482-01",
+    "metadata": {
+      "email": "cci-infoservices@alsace.cci.fr",
+      "telephone": "03 88 76 45 00",
+      "url": "https://www.grandest.cci.fr/"
+    }
+  },
+  {
+    "id": "0e422c6281c8dcd7daaca27c782b59db7683be89",
+    "alternateName": "CCI",
+    "name": "chambre_de_commerce_et_dindustrie_cci_sud_landes",
+    "title": "Chambre de commerce et d'industrie (CCI) - Sud-Landes",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/landes/cci-40133-01",
+    "metadata": {
+      "email": "accueil@landes.cci.fr",
+      "telephone": "05 58 05 44 50",
+      "url": "http://www.landes.cci.fr"
+    }
+  },
+  {
+    "id": "4df49798b8cecadfe5104f1e730f3538d09d4e77",
+    "alternateName": "CCI",
+    "name": "chambre_de_commerce_et_dindustrie_cci_tarn",
+    "title": "Chambre de commerce et d'industrie (CCI) - Tarn",
+    "url": "https://lannuaire.service-public.fr/occitanie/tarn/cci-81004-01",
+    "metadata": {
+      "email": "cci@tarn.cci.fr",
+      "telephone": "05 67 46 60 00",
+      "url": "http://www.tarn.cci.fr"
+    }
+  },
+  {
+    "id": "4df49798b8cecadfe5104f1e730f3538d09d4e77",
+    "alternateName": "CCI",
+    "name": "chambre_de_commerce_et_dindustrie_cci_tarn",
+    "title": "Chambre de commerce et d'industrie (CCI) - Tarn",
+    "url": "https://lannuaire.service-public.fr/occitanie/tarn/cci-81065-01",
+    "metadata": {
+      "email": "cci@tarn.cci.fr",
+      "telephone": "05 67 46 60 00",
+      "url": "http://www.tarn.cci.fr"
+    }
+  },
+  {
+    "id": "04fccf04fd99928ed7e298131b65c696e6d49bc8",
+    "alternateName": "CCI",
+    "name": "chambre_de_commerce_et_dindustrie_cci_tarn_et_garonne",
+    "title": "Chambre de commerce et d'industrie (CCI) - Tarn-et-Garonne",
+    "url": "https://lannuaire.service-public.fr/occitanie/tarn-et-garonne/cci-82121-01",
+    "metadata": {
+      "email": "cci82@montauban.cci.fr",
+      "telephone": "05 63 22 26 26",
+      "url": "http://www.montauban.cci.fr"
+    }
+  },
+  {
+    "id": "42bcf7809befe33ab3883814715a69e13e738541",
+    "alternateName": "CCI",
+    "name": "chambre_de_commerce_et_dindustrie_cci_territoire_de_belfort",
+    "title": "Chambre de commerce et d'industrie (CCI) - Territoire de Belfort",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/territoire-de-belfort/cci-90010-01",
+    "metadata": {
+      "email": "cci@belfort.cci.fr",
+      "telephone": "03 84 54 54 54",
+      "url": "http://www.belfort.cci.fr"
+    }
+  },
+  {
+    "id": "322c42530a018ee4dc3212540e2428c2238ea98b",
+    "alternateName": "CCI",
+    "name": "chambre_de_commerce_et_dindustrie",
+    "title": "Chambre de commerce et d'industrie",
+    "url": "https://lannuaire.service-public.fr/occitanie/haute-garonne/cci-31555-01",
+    "metadata": {
+      "email": "accueil@toulouse.cci.fr",
+      "telephone": "05 61 33 65 00",
+      "url": "http://www.toulouse.cci.fr"
+    }
+  },
+  {
+    "id": "27f2f0a63d47b810b33852d76de76d8ce96783f5",
+    "alternateName": "CCI",
+    "name": "chambre_de_commerce_et_dindustrie_cci_touraine",
+    "title": "Chambre de commerce et d'industrie (CCI) - Touraine",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/indre-et-loire/cci-37261-01",
+    "metadata": {
+      "email": "contact37@touraine.cci.fr",
+      "telephone": "02 47 47 20 00",
+      "url": "http://www.touraine.cci.fr"
+    }
+  },
+  {
+    "id": "81840a8500d4e9893c275f7dd216a18f91928ed3",
+    "alternateName": "CCI",
+    "name": "chambre_de_commerce_et_dindustrie_cci_troyes_et_aube",
+    "title": "Chambre de commerce et d'industrie (CCI) - Troyes et Aube",
+    "url": "https://lannuaire.service-public.fr/grand-est/aube/cci-10387-01",
+    "metadata": {
+      "email": "accueil@troyes.cci.fr",
+      "telephone": "03 25 43 70 00",
+      "url": "http://www.troyes.cci.fr"
+    }
+  },
+  {
+    "id": "b349fdee4265f1da9bc6104a507d7c074c287acf",
+    "alternateName": "CCI",
+    "name": "chambre_de_commerce_et_dindustrie_cci_vaucluse",
+    "title": "Chambre de commerce et d'industrie (CCI) - Vaucluse",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/vaucluse/cci-84007-01",
+    "metadata": {
+      "email": "antenne-avignon@vaucluse.cci.fr",
+      "telephone": "04 90 14 87 00",
+      "url": "http://www.vaucluse.cci.fr"
+    }
+  },
+  {
+    "id": "bc59533395823663c1990d28ce2bfe0a41c530bc",
+    "alternateName": "CCI",
+    "name": "chambre_de_commerce_et_dindustrie_cci_vienne",
+    "title": "Chambre de commerce et d'industrie (CCI) - Vienne",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/vienne/cci-86194-01",
+    "metadata": {
+      "email": "info@poitiers.cci.fr",
+      "telephone": "05 49 60 98 00",
+      "url": "http://www.poitiers.cci.fr"
+    }
+  },
+  {
+    "id": "4211ed3dfa9ff786cc5a58e374eafbd745581c0b",
+    "alternateName": "CCI",
+    "name": "chambre_de_commerce_et_dindustrie_cci_villeneuve_sur_lot",
+    "title": "Chambre de commerce et d'industrie (CCI) - Villeneuve-sur-Lot",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/lot-et-garonne/cci-47323-01",
+    "metadata": {
+      "email": "cci@cci.fr",
+      "telephone": "05 53 49 66 66",
+      "url": "http://www.cci47.fr"
+    }
+  },
+  {
+    "id": "691ce7cf5f225932b35d76a86936ea7cbcbd1b82",
+    "alternateName": "CCI",
+    "name": "chambre_de_commerce_et_dindustrie_cci_vosges",
+    "title": "Chambre de commerce et d'industrie (CCI) - Vosges",
+    "url": "https://lannuaire.service-public.fr/grand-est/vosges/cci-88160-01",
+    "metadata": {
+      "email": "cci@vosges.cci.fr",
+      "telephone": "03 29 33 88 88",
+      "url": "http://www.vosges.cci.fr"
+    }
+  },
+  {
+    "id": "87bd679111ec35ad8718d86250906e91d25f0f4f",
+    "alternateName": "CCI",
+    "name": "chambre_de_commerce_et_dindustrie_cci_yonne_auxerre",
+    "title": "Chambre de commerce et d'industrie (CCI) - Yonne - Auxerre",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/yonne/cci-89024-01",
+    "metadata": {
+      "email": "direction@yonne.cci.fr",
+      "telephone": "03 86 49 40 00",
+      "url": "http://www.yonne.cci.fr"
+    }
+  }
+]

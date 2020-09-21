@@ -1,0 +1,189 @@
+[
+  {
+    "id": "8694eb469a35697f363cb7372c8a92fc51ef053a",
+    "name": "collectivite_de_corse",
+    "title": "Collectivité de Corse",
+    "url": "https://lannuaire.service-public.fr/corse/corse-du-sud/cr-2A004-01",
+    "metadata": {
+      "email": "contact@corse.fr",
+      "telephone": "04 95 51 64 64",
+      "url": "http://www.corse.fr"
+    }
+  },
+  {
+    "id": "65f5f496631ed01eee6ecbd4dd2e86db39954eb1",
+    "name": "collectivite_territoriale_de_guyane",
+    "title": "Collectivité territoriale de Guyane",
+    "url": "https://lannuaire.service-public.fr/guyane/guyane/cr-97302-01",
+    "metadata": {
+      "email": "",
+      "telephone": "+594 5 94 300 600",
+      "url": "https://www.ctguyane.fr/"
+    }
+  },
+  {
+    "id": "d45ea9461c6d715c6f1c2cd1d01faae2740ac506",
+    "name": "collectivite_territoriale_de_martinique",
+    "title": "Collectivité territoriale de Martinique",
+    "url": "https://lannuaire.service-public.fr/martinique/martinique/cr-97209-01",
+    "metadata": {
+      "email": "courrier@collectivitedemartinique.mq",
+      "telephone": "+596 5 96 59 63 00",
+      "url": "http://www.collectivitedemartinique.mq/"
+    }
+  },
+  {
+    "id": "9fd233905d53697dde2ac55c634b4e25d70fd654",
+    "name": "conseil_regional_auvergne_rhone_alpes",
+    "title": "Conseil régional - Auvergne-Rhône-Alpes",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/rhone/cr-69123-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 26 73 40 00",
+      "url": "https://www.auvergnerhonealpes.fr/"
+    }
+  },
+  {
+    "id": "fa7c4ff378baf140f96ca6ec4da874ee39b6798e",
+    "name": "conseil_regional_bourgogne_franche_comte",
+    "title": "Conseil régional - Bourgogne-Franche-Comté",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/cote-d-or/cr-21231-01",
+    "metadata": {
+      "email": "",
+      "telephone": "09 70 28 90 00",
+      "url": "https://www.bourgognefranchecomte.fr/"
+    }
+  },
+  {
+    "id": "aa69cce6027312b9f056d3d34e8715f776d01a4c",
+    "name": "conseil_regional_bretagne",
+    "title": "Conseil régional - Bretagne",
+    "url": "https://lannuaire.service-public.fr/bretagne/ille-et-vilaine/cr-35238-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 99 27 10 10",
+      "url": "http://www.bretagne.bzh"
+    }
+  },
+  {
+    "id": "f86cf972ce3ace17c87c39d27dd0dcb24910fb10",
+    "name": "conseil_regional_centre_val_de_loire",
+    "title": "Conseil régional - Centre-Val de Loire",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/loiret/cr-45234-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 38 70 30 30",
+      "url": "https://www.centre-valdeloire.fr/"
+    }
+  },
+  {
+    "id": "fb6842665ba6338b78324680660d71cff4cb63b2",
+    "name": "conseil_regional_grand_est",
+    "title": "Conseil régional - Grand Est",
+    "url": "https://lannuaire.service-public.fr/grand-est/bas-rhin/cr-67482-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 88 15 68 67",
+      "url": "http://www.grandest.fr/"
+    }
+  },
+  {
+    "id": "b33ae1663dfe1a81c74bcd5906b3fb6a17de4b97",
+    "name": "conseil_regional_guadeloupe",
+    "title": "Conseil régional - Guadeloupe",
+    "url": "https://lannuaire.service-public.fr/guadeloupe/guadeloupe/cr-97105-01",
+    "metadata": {
+      "email": "",
+      "telephone": "+590 5 90 80 40 40",
+      "url": "https://www.regionguadeloupe.fr/accueil/#_"
+    }
+  },
+  {
+    "id": "7347cb5406b23ec9d99368103958656d49155934",
+    "name": "conseil_regional_hauts_de_france",
+    "title": "Conseil régional - Hauts-de-France",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/nord/cr-59350-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 74 27 00 00",
+      "url": "http://www.hautsdefrance.fr/"
+    }
+  },
+  {
+    "id": "59b585e1ebd05b652f8017bd71f1d75c84501e0c",
+    "name": "conseil_regional_ile_de_france",
+    "title": "Conseil régional - Île-de-France",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/seine-saint-denis/cr-93070-01",
+    "metadata": {
+      "email": "",
+      "telephone": "01 53 85 53 85",
+      "url": "http://www.iledefrance.fr"
+    }
+  },
+  {
+    "id": "bd934d1dc7700025fe1e511ca2346ceab7406f87",
+    "name": "conseil_regional_normandie",
+    "title": "Conseil régional - Normandie",
+    "url": "https://lannuaire.service-public.fr/normandie/seine-maritime/cr-76540-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 35 52 56 00",
+      "url": "https://www.normandie.fr/"
+    }
+  },
+  {
+    "id": "5d502e917d744b689bee770908d312de52c12e83",
+    "name": "conseil_regional_nouvelle_aquitaine",
+    "title": "Conseil régional - Nouvelle-Aquitaine",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/gironde/cr-33063-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 57 57 80 00",
+      "url": "https://www.nouvelle-aquitaine.fr/"
+    }
+  },
+  {
+    "id": "f427d2d2e301ac8a40f5b9f91ec7c0b4d94ebc7a",
+    "name": "conseil_regional_occitanie",
+    "title": "Conseil régional - Occitanie",
+    "url": "https://lannuaire.service-public.fr/occitanie/haute-garonne/cr-31555-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 61 33 50 50",
+      "url": "https://www.laregion.fr/"
+    }
+  },
+  {
+    "id": "80036d7554db35624151f63cd4c2242dd17b2420",
+    "name": "conseil_regional_pays_de_la_loire",
+    "title": "Conseil régional - Pays de la Loire",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/loire-atlantique/cr-44109-01",
+    "metadata": {
+      "email": "accueil@paysdelaloire.fr",
+      "telephone": "02 28 20 50 00",
+      "url": "http://www.paysdelaloire.fr"
+    }
+  },
+  {
+    "id": "9c907f8a7c9f80d06c686169b4e0f2f07d0de20e",
+    "name": "conseil_regional_provence_alpes_cote_dazur",
+    "title": "Conseil régional - Provence-Alpes-Côte d'azur",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/cr-13203-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 91 57 50 57",
+      "url": "https://www.maregionsud.fr/"
+    }
+  },
+  {
+    "id": "94aa61c0f420579df3a89e39454c88ef98a3a786",
+    "name": "conseil_regional_reunion",
+    "title": "Conseil régional - Réunion",
+    "url": "https://lannuaire.service-public.fr/la-reunion/reunion/cr-97411-01",
+    "metadata": {
+      "email": "region.reunion@cr-reunion.fr",
+      "telephone": "+262 2 62 48 70 00",
+      "url": "http://www.regionreunion.com"
+    }
+  }
+]

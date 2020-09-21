@@ -1,0 +1,98 @@
+[
+  {
+    "id": "2caec9d867e58ea827efc30e2efd99be80d54bbb",
+    "alternateName": "PTGC",
+    "name": "pole_de_topographie_et_de_gestion_cadastrale_ptgc_argentan",
+    "title": "Pôle de topographie et de gestion cadastrale (PTGC) - Argentan",
+    "url": "https://lannuaire.service-public.fr/normandie/orne/cadastre-61006-01",
+    "metadata": {
+      "email": "cdif.argentan@dgfip.finances.gouv.fr",
+      "telephone": "02 33 12 26 82",
+      "url": "https://www.cadastre.gouv.fr"
+    }
+  },
+  {
+    "id": "610b72d064aabeab53536cb3192c1d1356d0cc4f",
+    "alternateName": "PTGC",
+    "name": "pole_de_topographie_et_de_gestion_cadastrale_ptgc_bethune",
+    "title": "Pôle de topographie et de gestion cadastrale (PTGC) - Béthune",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/pas-de-calais/cadastre-62119-01",
+    "metadata": {
+      "email": "ptgc.620.bethune@dgfip.finances.gouv.fr",
+      "telephone": "03 21 63 10 10",
+      "url": "https://www.cadastre.gouv.fr"
+    }
+  },
+  {
+    "id": "21d3a1d007b7868beb0c4472fefa98f205183fc1",
+    "alternateName": "PTGC",
+    "name": "pole_de_topographie_et_de_gestion_cadastrale_ptgc_caen",
+    "title": "Pôle de topographie et de gestion cadastrale (PTGC) - Caen",
+    "url": "https://lannuaire.service-public.fr/normandie/calvados/cadastre-14118-01",
+    "metadata": {
+      "email": "ptgc.caen@dgfip.finances.gouv.fr",
+      "telephone": "02 31 39 74 00",
+      "url": "https://www.cadastre.gouv.fr"
+    }
+  },
+  {
+    "id": "d659884ddd59e1d50e1b62616a5a5d184f7a9b34",
+    "alternateName": "PTGC",
+    "name": "pole_de_topographie_et_de_gestion_cadastrale_ptgc_cahors",
+    "title": "Pôle de topographie et de gestion cadastrale (PTGC) - Cahors",
+    "url": "https://lannuaire.service-public.fr/occitanie/lot/cadastre-46042-01",
+    "metadata": {
+      "email": "ptgc.lot@dgfip.finances.gouv.fr",
+      "telephone": "05 65 20 33 34",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "2441b862b5246b17774ae0582050d66575cb2b5d",
+    "alternateName": "PTGC",
+    "name": "pole_de_topographie_et_de_gestion_cadastrale_ptgc_nantes",
+    "title": "Pôle de topographie et de gestion cadastrale (PTGC) - Nantes",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/loire-atlantique/cadastre-44109-01",
+    "metadata": {
+      "email": "ptgc.440.nantes@dgfip.finances.gouv.fr",
+      "telephone": "02 51 12 86 36",
+      "url": "https://www.cadastre.gouv.fr"
+    }
+  },
+  {
+    "id": "3f56f821bb8315146b2ec8a44069aac343ba32e2",
+    "alternateName": "PTGC",
+    "name": "pole_de_topographie_et_de_gestion_cadastrale_ptgc_rennes",
+    "title": "Pôle de topographie et de gestion cadastrale (PTGC) - Rennes",
+    "url": "https://lannuaire.service-public.fr/bretagne/ille-et-vilaine/cadastre-35238-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 99 29 37 55",
+      "url": "https://www.cadastre.gouv.fr"
+    }
+  },
+  {
+    "id": "8ba7366714da1dc78a1dbc619bba72cf508ed8aa",
+    "alternateName": "PTGC",
+    "name": "pole_de_topographie_et_de_gestion_cadastrale_ptgc_saint_etienne_convention",
+    "title": "Pôle de topographie et de gestion cadastrale (PTGC) - Saint-Etienne Convention",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/loire/cadastre-42218-02",
+    "metadata": {
+      "email": "ptgc.loire@dgfip.finances.gouv.fr",
+      "telephone": "04 77 47 62 60",
+      "url": "https://www.cadastre.gouv.fr"
+    }
+  },
+  {
+    "id": "d4b2f24d11909b6f4cf9edb0a25d075c54dc094b",
+    "alternateName": "PTGC",
+    "name": "pole_de_topographie_et_de_gestion_cadastrale_ptgc_valenciennes",
+    "title": "Pôle de topographie et de gestion cadastrale (PTGC) - Valenciennes",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/nord/cadastre-59606-02",
+    "metadata": {
+      "email": "ptgc.nord-valenciennes@dgfip.finances.gouv.fr",
+      "telephone": "03 27 14 65 02",
+      "url": "https://www.cadastre.gouv.fr"
+    }
+  }
+]

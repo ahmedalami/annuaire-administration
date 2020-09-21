@@ -1,0 +1,396 @@
+[
+  {
+    "id": "296e79963422d02a85e4dcae4554e01e8feadcf2",
+    "alternateName": "pour les départements 37, 49, 72, 85",
+    "name": "centre_du_service_national_angers_pour_les_departements_37_49_72_85",
+    "title": "Centre du service national - Angers (pour les départements 37, 49, 72, 85)",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/maine-et-loire/bsn-49007-01",
+    "metadata": {
+      "email": "csn-angers.jdc.fct@intradef.gouv.fr",
+      "telephone": "09 70 84 51 51",
+      "url": "https://www.defense.gouv.fr/jdc"
+    }
+  },
+  {
+    "id": "5af3becd2b0adeb010fe8d9ca0d7698abcc56e3e",
+    "alternateName": "pour les départements 25, 39, 70, 90",
+    "name": "centre_du_service_national_besancon_pour_les_departements_25_39_70_90",
+    "title": "Centre du service national - Besançon (pour les départements 25, 39, 70, 90)",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/doubs/bsn-25056-01",
+    "metadata": {
+      "email": "csn-besancon.jdc.fct@intradef.gouv.fr",
+      "telephone": "03 81 87 18 81",
+      "url": "https://www.defense.gouv.fr/jdc"
+    }
+  },
+  {
+    "id": "fcfd00bef2936832b467d8201f25de6c9e1096be",
+    "alternateName": "pour les départements 33, 47",
+    "name": "centre_du_service_national_bordeaux_pour_les_departements_33_47",
+    "title": "Centre du service national - Bordeaux (pour les départements 33, 47)",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/gironde/bsn-33063-01",
+    "metadata": {
+      "email": "csn-bordeaux.jdc.fct@intradesk.gouv.fr",
+      "telephone": "09 70 84 51 51",
+      "url": "https://www.defense.gouv.fr/jdc"
+    }
+  },
+  {
+    "id": "c3b5238892ad5e873b18b774e3ba26c37297fe08",
+    "alternateName": "pour les départements 22, 29, 56",
+    "name": "centre_du_service_national_brest_pour_les_departements_22_29_56",
+    "title": "Centre du service national - Brest (pour les départements 22, 29, 56)",
+    "url": "https://lannuaire.service-public.fr/bretagne/finistere/bsn-29019-01",
+    "metadata": {
+      "email": "csn-brest.sec.fct@intradef.gouv.fr",
+      "telephone": "09 70 84 51 51",
+      "url": "https://www.defense.gouv.fr/jdc"
+    }
+  },
+  {
+    "id": "57626dccf3dfca902b25a8d7f3de73ebe38c65a9",
+    "alternateName": "pour les départements 14, 50, 61",
+    "name": "centre_du_service_national_caen_pour_les_departements_14_50_61",
+    "title": "Centre du service national -  Caen (pour les départements 14, 50, 61)",
+    "url": "https://lannuaire.service-public.fr/normandie/calvados/bsn-14118-01",
+    "metadata": {
+      "email": "csn-caen.sec.fct@intradef.gouv.fr",
+      "telephone": "09 70 84 51 51",
+      "url": "https://www.defense.gouv.fr/jdc"
+    }
+  },
+  {
+    "id": "ca6c721ce07ca5d2d4570273a9e01729b3f26186",
+    "alternateName": "Guyane",
+    "name": "centre_du_service_national_cayenne_guyane",
+    "title": "Centre du service national -  Cayenne (Guyane)",
+    "url": "https://lannuaire.service-public.fr/guyane/guyane/bsn-97302-01",
+    "metadata": {
+      "email": "csn-cayenne-jdc.contact.fct@intradef.gouv.fr",
+      "telephone": "+594 5 94 39 71 13",
+      "url": "https://www.defense.gouv.fr/jdc"
+    }
+  },
+  {
+    "id": "0da5ee0610d2b8b05a5157010f99db682604f3b8",
+    "alternateName": "pour les départements 08, 10, 51, 52",
+    "name": "centre_du_service_national_chalons_en_champagne_pour_les_departements_08_10_51_52",
+    "title": "Centre du service national -  Châlons-en-Champagne (pour les départements 08, 10, 51, 52)",
+    "url": "https://lannuaire.service-public.fr/grand-est/marne/bsn-51108-01",
+    "metadata": {
+      "email": "csn-chalons-en-champagne.jdc.fct@intradef.gouv.fr",
+      "telephone": "03 26 22 29 50",
+      "url": "https://www.defense.gouv.fr/jdc"
+    }
+  },
+  {
+    "id": "c4e69a03b83d331069b8ec91bb8cd6d640975acf",
+    "alternateName": "pour les départements 03, 15, 43, 63",
+    "name": "centre_du_service_national_clermont_ferrand_pour_les_departements_03_15_43_63",
+    "title": "Centre du service national -  Clermont-Ferrand (pour les départements 03, 15, 43, 63)",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/puy-de-dome/bsn-63113-01",
+    "metadata": {
+      "email": "csn-clermont.jdc.fct@intradef.gouv.fr",
+      "telephone": "09 70 84 51 51",
+      "url": "https://www.defense.gouv.fr/jdc"
+    }
+  },
+  {
+    "id": "b735cfa59fd705f924d6b6f702e3ab8e20f49cb5",
+    "alternateName": "pour les départements 02, 60, 80",
+    "name": "centre_du_service_national_creil_pour_les_departements_02_60_80",
+    "title": "Centre du service national - Creil (pour les départements 02, 60, 80)",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/oise/bsn-60175-01",
+    "metadata": {
+      "email": "csn-creil.jdc.fct@intradef.gouv.fr",
+      "telephone": "09 70 84 51 51",
+      "url": "https://www.defense.gouv.fr/jdc"
+    }
+  },
+  {
+    "id": "ce79630ebc31c8279b6cb233504af33621d066e7",
+    "alternateName": "pour les départements 21, 58, 71, 89",
+    "name": "centre_du_service_national_dijon_pour_les_departements_21_58_71_89",
+    "title": "Centre du service national - Dijon (pour les départements 21, 58, 71, 89)",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/cote-d-or/bsn-21231-01",
+    "metadata": {
+      "email": "csn-dijon.jdc.fct@intradef.gouv.fr",
+      "telephone": "03 80 11 21 00",
+      "url": "https://www.defense.gouv.fr/jdc"
+    }
+  },
+  {
+    "id": "ba53f9e1170b2bf435acbc311b07749d584a2e88",
+    "alternateName": "Martinique",
+    "name": "centre_du_service_national_fort_de_france_martinique",
+    "title": "Centre du service national - Fort-de-France (Martinique)",
+    "url": "https://lannuaire.service-public.fr/martinique/martinique/bsn-97209-01",
+    "metadata": {
+      "email": "csn-fort-de-france.contact.fct@def.gouv.fr",
+      "telephone": "+596 5 96 39 58 80",
+      "url": "https://www.defense.gouv.fr/jdc"
+    }
+  },
+  {
+    "id": "ba03fa650dd6ef53335981fddf1ef7c63df4fa2a",
+    "alternateName": "Guadeloupe",
+    "name": "centre_du_service_national_jarry_guadeloupe",
+    "title": "Centre du service national - Jarry (Guadeloupe)",
+    "url": "https://lannuaire.service-public.fr/guadeloupe/guadeloupe/bsn-97103-01",
+    "metadata": {
+      "email": "csn-guadeloupe.contact.fct@def.gouv.fr",
+      "telephone": "+590 5 90 60 61 68",
+      "url": "https://www.defense.gouv.fr/jdc"
+    }
+  },
+  {
+    "id": "0b386c4233ab1ef2132c762f2a4d7fe480cf9f52",
+    "alternateName": "pour les départements 59, 62",
+    "name": "centre_du_service_national_lille_pour_les_departements_59_62",
+    "title": "Centre du service national - Lille (pour les départements 59, 62)",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/nord/bsn-59350-01",
+    "metadata": {
+      "email": "csn-lille.jdc.fct@intradef.gouv.fr",
+      "telephone": "03 59 00 43 00",
+      "url": "https://www.defense.gouv.fr/jdc"
+    }
+  },
+  {
+    "id": "10904cbb7b2fd02ad09b421d85cd928e828ff659",
+    "alternateName": "pour les départements 19, 23, 24, 87",
+    "name": "centre_du_service_national_limoges_pour_les_departements_19_23_24_87",
+    "title": "Centre du service national - Limoges (pour les départements 19, 23, 24, 87)",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/haute-vienne/bsn-87085-01",
+    "metadata": {
+      "email": "csn-limoges.jdc.fct@intradef.gouv.fr",
+      "telephone": "0970 84 51 51",
+      "url": "https://www.defense.gouv.fr/jdc"
+    }
+  },
+  {
+    "id": "587dc616b39f9e11857ed2b1c8868e7a379bd831",
+    "alternateName": "pour les départements 01, 07, 26, 42, 69",
+    "name": "centre_du_service_national_lyon_pour_les_departements_01_07_26_42_69",
+    "title": "Centre du service national - Lyon (pour les départements 01, 07, 26, 42, 69)",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/rhone/bsn-69123-01",
+    "metadata": {
+      "email": "csn-lyon.jdc.fct@intradef.gouv.fr",
+      "telephone": "09 70 84 51 51",
+      "url": "https://www.defense.gouv.fr/jdc"
+    }
+  },
+  {
+    "id": "1e3dbc24ea0a6a7e8f290a34737ae5bd86c86905",
+    "alternateName": "pour les départements 04, 05, 13",
+    "name": "centre_du_service_national_marseille_pour_les_departements_04_05_13",
+    "title": "Centre du service national - Marseille (pour les départements 04, 05, 13)",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/bsn-13203-01",
+    "metadata": {
+      "email": "csn-marseille.jdc.fct@intradef.gouv.fr",
+      "telephone": "09 70 84 51 51",
+      "url": "https://www.defense.gouv.fr/jdc"
+    }
+  },
+  {
+    "id": "8409eb1d55ca985c88b9f9dbefcf24c8a3174319",
+    "alternateName": "pour les départements 54, 55, 57, 88",
+    "name": "centre_du_service_national_nancy_pour_les_departements_54_55_57_88",
+    "title": "Centre du service national -  Nancy (pour les départements 54, 55, 57, 88)",
+    "url": "https://lannuaire.service-public.fr/grand-est/meurthe-et-moselle/bsn-54395-01",
+    "metadata": {
+      "email": "csn-nancy.jdc.fct@intradef.gouv.fr",
+      "telephone": "09 70 84 51 51",
+      "url": "https://www.defense.gouv.fr/jdc"
+    }
+  },
+  {
+    "id": "b5647e02efe732ee3ba8e7e04104a4f94c1de743",
+    "alternateName": "pour les départements 06, 20, 83",
+    "name": "centre_du_service_national_nice_pour_les_departements_06_20_83",
+    "title": "Centre du service national - Nice (pour les départements 06, 20, 83)",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/alpes-maritimes/bsn-06088-01",
+    "metadata": {
+      "email": "csn-nice.jdc.fct@intradef.gouv.fr",
+      "telephone": "09 70 84 51 51",
+      "url": "https://www.defense.gouv.fr/jdc"
+    }
+  },
+  {
+    "id": "14da3a6ba4fdde0d0fe4c05b64711e2a34433209",
+    "alternateName": "pour les départements 30, 48, 84",
+    "name": "centre_du_service_national_nimes_pour_les_departements_30_48_84",
+    "title": "Centre du service national -  Nîmes (pour les départements 30, 48, 84)",
+    "url": "https://lannuaire.service-public.fr/occitanie/gard/bsn-30189-01",
+    "metadata": {
+      "email": "csn-nimes.jdc.fct@intradef-gouv.fr",
+      "telephone": "09 70 84 51 51",
+      "url": "https://www.defense.gouv.fr/jdc"
+    }
+  },
+  {
+    "id": "97077888cd945c69c568b420c5d380324974c74b",
+    "name": "centre_du_service_national_nouvelle_caledonie",
+    "title": "Centre du service national - Nouvelle Calédonie",
+    "url": "https://lannuaire.service-public.fr/collectivites-d-outre-mer/nouvelle-caledonie/bsn-98818-01",
+    "metadata": {
+      "email": "csnoumea@lagoon.nc",
+      "telephone": "+ 687 29 28 78",
+      "url": "https://www.defense.gouv.fr/jdc"
+    }
+  },
+  {
+    "id": "21531e818cd06e415d229b210db98891bcfc7213",
+    "alternateName": "pour les départements 18, 36, 41, 45",
+    "name": "centre_du_service_national_orleans_pour_les_departements_18_36_41_45",
+    "title": "Centre du service national - Orléans (pour les départements 18, 36, 41, 45)",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/loiret/bsn-45234-01",
+    "metadata": {
+      "email": "csn-orleans.sec.fct@intradef.gouv.fr",
+      "telephone": "09 70 84 51 51",
+      "url": "https://www.defense.gouv.fr/jdc"
+    }
+  },
+  {
+    "id": "abcae4383b057432bd2d7e92d5037a25cefa99a1",
+    "alternateName": "pour les départements 75, 77, 93, 94 et Saint-Pierre-et-Miquelon",
+    "name": "centre_du_service_national_paris_pour_les_departements_75_77_93_94_et_saint_pierre_et_miquelon",
+    "title": "Centre du service national - Paris (pour les départements 75, 77, 93, 94 et Saint-Pierre-et-Miquelon)",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/paris/bsn-75112-01",
+    "metadata": {
+      "email": "csn-paris.jdc.fct@intradef.gouv.fr",
+      "telephone": "09 70 84 51 51",
+      "url": "http://www.defense.gouv.fr/jdc"
+    }
+  },
+  {
+    "id": "5c37173381e13a022957ce8379906bc62038673f",
+    "alternateName": "pour les départements 32, 40, 64, 65",
+    "name": "centre_du_service_national_pau_pour_les_departements_32_40_64_65",
+    "title": "Centre du service national - Pau (pour les départements 32, 40, 64, 65)",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/pyrenees-atlantiques/bsn-64445-01",
+    "metadata": {
+      "email": "csn-pau.jdc.fct@intradef.gouv.fr",
+      "telephone": "05 59 40 46 71",
+      "url": "http://www.defense.gouv.fr/jdc"
+    }
+  },
+  {
+    "id": "0499c528575272d5789700f722096d4e4fd9f43b",
+    "alternateName": "pour les départements 11, 34, 66",
+    "name": "centre_du_service_national_perpignan_pour_les_departements_11_34_66",
+    "title": "Centre du service national -  Perpignan (pour les départements 11, 34, 66)",
+    "url": "https://lannuaire.service-public.fr/occitanie/pyrenees-orientales/bsn-66136-01",
+    "metadata": {
+      "email": "csn-perpignan.jdc.fct@intradef.fr",
+      "telephone": "09 70 84 51 51",
+      "url": "http://www.defense.gouv.fr/jdc"
+    }
+  },
+  {
+    "id": "dba09c3d33d3d243759d17c68cbfde7fd98e20da",
+    "alternateName": "pour les départements 16, 17, 79, 86",
+    "name": "centre_du_service_national_poitiers_pour_les_departements_16_17_79_86",
+    "title": "Centre du service national - Poitiers (pour les départements 16, 17, 79, 86)",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/vienne/bsn-86194-01",
+    "metadata": {
+      "email": "csn-poitiers.jdc.fct@intradef.gouv.fr",
+      "telephone": "09 70 84 51 51",
+      "url": "https://www.defense.gouv.fr/jdc"
+    }
+  },
+  {
+    "id": "c93f795b7749cfd082e613a56460adc02ee2a1a6",
+    "name": "centre_du_service_national_polynesie_francaise",
+    "title": "Centre du service national - Polynésie Française",
+    "url": "https://lannuaire.service-public.fr/collectivites-d-outre-mer/polynesie-francaise/bsn-98735-01",
+    "metadata": {
+      "email": "csn-jdc.ppt@armees-polynesie.pf",
+      "telephone": "+ 689 46 31 41",
+      "url": "https://www.defense.gouv.fr/jdc"
+    }
+  },
+  {
+    "id": "a7ff5cbfd40489882a4acc6e4807daed23f6c59a",
+    "alternateName": "pour les départements 35, 44, 53",
+    "name": "centre_du_service_national_rennes_pour_les_departements_35_44_53",
+    "title": "Centre du service national - Rennes (pour les départements 35, 44, 53)",
+    "url": "https://lannuaire.service-public.fr/bretagne/ille-et-vilaine/bsn-35238-01",
+    "metadata": {
+      "email": "csn-rennes.sec.fct@intradef.gouv.fr",
+      "telephone": "09 70 84 51 51",
+      "url": "http://www.defense.gouv.fr/jdc"
+    }
+  },
+  {
+    "id": "a5c787e12882d95c8f340d26b96a411af654d636",
+    "alternateName": "pour les départements 27, 28, 76",
+    "name": "centre_du_service_national_rouen_pour_les_departements_27_28_76",
+    "title": "Centre du service national -  Rouen (pour les départements 27, 28, 76)",
+    "url": "https://lannuaire.service-public.fr/normandie/seine-maritime/bsn-76540-01",
+    "metadata": {
+      "email": "csn-rouen.jdc.fct@intradef.gouv.fr",
+      "telephone": "09 70 84 51 51",
+      "url": "http://www.defense.gouv.fr/jdc"
+    }
+  },
+  {
+    "id": "4e525b4544289e5f707d2fcc215f034c63f3471f",
+    "alternateName": "La Réunion",
+    "name": "centre_du_service_national_saint_denis_la_reunion",
+    "title": "Centre du service national - Saint-Denis (La Réunion)",
+    "url": "https://lannuaire.service-public.fr/la-reunion/reunion/bsn-97411-01",
+    "metadata": {
+      "email": "csn-saint-denis-la-reunion-mayotte.secretaire.fct@intradef.gouv.fr",
+      "telephone": "+262 2 62 93 50 85",
+      "url": "https://www.defense.gouv.fr/jdc"
+    }
+  },
+  {
+    "id": "64a097b3976d7d635b01028fe1b41486d7291d6e",
+    "alternateName": "pour les départements 67, 68",
+    "name": "centre_du_service_national_strasbourg_pour_les_departements_67_68",
+    "title": "Centre du service national -  Strasbourg (pour les départements 67, 68)",
+    "url": "https://lannuaire.service-public.fr/grand-est/bas-rhin/bsn-67482-01",
+    "metadata": {
+      "email": "csn-strasbourg.bjdc.fct@intradef.gouv.fr",
+      "telephone": "03 90 23 37 52",
+      "url": "http://www.defense.gouv.fr/jdc"
+    }
+  },
+  {
+    "id": "2a681b757e9f0669229e4aa0bce87cf1de846e9e",
+    "alternateName": "pour les départements 09, 12, 31, 46, 81, 82",
+    "name": "centre_du_service_national_toulouse_pour_les_departements_09_12_31_46_81_82",
+    "title": "Centre du service national - Toulouse (pour les départements 09, 12, 31, 46, 81, 82)",
+    "url": "https://lannuaire.service-public.fr/occitanie/haute-garonne/bsn-31555-01",
+    "metadata": {
+      "email": "csn-toulouse.jdc.fct@intradef.gouv.fr",
+      "telephone": "09 70 84 51 51",
+      "url": "https://www.defense.gouv.fr/jdc"
+    }
+  },
+  {
+    "id": "e6a850995f5b8b1da6cc33e7814eec5b947c171d",
+    "alternateName": "pour les départements 38, 73, 74",
+    "name": "centre_du_service_national_varces_grenoble_pour_les_departements_38_73_74",
+    "title": "Centre du service national - Varces - Grenoble (pour les départements 38, 73, 74)",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/isere/bsn-38524-01",
+    "metadata": {
+      "email": "csn-varces.jdc.fct@intradef.gouv.fr",
+      "telephone": "09 70 84 51 51",
+      "url": "http://www.defense.gouv.fr/jdc"
+    }
+  },
+  {
+    "id": "525d1c358043bc87a539c00641c903f9ead8cd8c",
+    "alternateName": "pour les départements 78, 91, 92, 95",
+    "name": "centre_du_service_national_versailles_pour_les_departements_78_91_92_95",
+    "title": "Centre du service national - Versailles (pour les départements 78, 91, 92, 95)",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/yvelines/bsn-78646-01",
+    "metadata": {
+      "email": "dsn-esnidf-csn-versailles.jdc.fct@intradef.gouv.fr",
+      "telephone": "09 70 84 51 51",
+      "url": "https://www.defense.gouv.fr/jdc"
+    }
+  }
+]

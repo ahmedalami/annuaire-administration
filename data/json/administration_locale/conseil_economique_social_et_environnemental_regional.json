@@ -1,0 +1,251 @@
+[
+  {
+    "id": "23af032d9c65d5dd437180ffcc7f59e3423ad53c",
+    "alternateName": "CESEC",
+    "name": "conseil_economique_social_environnemental_et_culturel_cesec_corse",
+    "title": "Conseil économique, social, environnemental et culturel (CESEC) - Corse",
+    "url": "https://lannuaire.service-public.fr/corse/corse-du-sud/cesr-2A004-01",
+    "metadata": {
+      "email": "presidence.cesec@isula.corsica",
+      "telephone": "04 20 03 95 10",
+      "url": "https://www.isula.corsica/cesec/"
+    }
+  },
+  {
+    "id": "c2c7118104b371b6fa4fd1b844c3d0392f59177f",
+    "name": "conseil_economique_social_environnemental_et_culturel_polynesie_francaise",
+    "title": "Conseil économique, social, environnemental et culturel - Polynésie française",
+    "url": "https://lannuaire.service-public.fr/collectivites-d-outre-mer/polynesie-francaise/cesr-98735-02",
+    "metadata": {
+      "email": "cesc@cesc.gov.pf",
+      "telephone": "+689 40 41 65 00",
+      "url": "http://www.cesc.pfhttp://www.cesdefrance.fr"
+    }
+  },
+  {
+    "id": "66b2981312c7f6750d177540bafa8921263c6376",
+    "name": "conseil_economique_social_et_culturel_saint_martin",
+    "title": "Conseil économique, social et culturel - Saint-Martin",
+    "url": "https://lannuaire.service-public.fr/collectivites-d-outre-mer/saint-martin/cesr-97801-01",
+    "metadata": {
+      "email": "contact@cesc-saintmartin.org",
+      "telephone": "+590 5 90 29 56 40",
+      "url": "http://www.cesc-saintmartin.org"
+    }
+  },
+  {
+    "id": "d2a7d9e9d7cd9bfd6b2dc0b9e49202a8a55899aa",
+    "alternateName": "CESE",
+    "name": "conseil_economique_social_et_environnemental_cese_nouvelle_caledonie",
+    "title": "Conseil économique, social et environnemental (CESE) - Nouvelle-Calédonie",
+    "url": "https://lannuaire.service-public.fr/collectivites-d-outre-mer/nouvelle-caledonie/cesr-98818-01",
+    "metadata": {
+      "email": "ces@gouv.nc",
+      "telephone": "+687 27 85 17",
+      "url": "http://www.ces.nc"
+    }
+  },
+  {
+    "id": "f9ef0a3a692a08c967c1f1756f825c189a902805",
+    "alternateName": "CESEM",
+    "name": "conseil_economique_social_et_environnemental_cesem_mayotte",
+    "title": "Conseil économique, social et environnemental (CESEM) - Mayotte",
+    "url": "https://lannuaire.service-public.fr/mayotte/mayotte/cesr-97611-01",
+    "metadata": {
+      "email": "",
+      "telephone": "+269 2 69 61 16 64",
+      "url": "https://cg976.fr/le-conseil-departemental/conseils-consultatifs/cesem"
+    }
+  },
+  {
+    "id": "ca2975b5f5640340daf8ed4c379f792d5c2efa8c",
+    "alternateName": "CESECEM",
+    "name": "conseil_economique_social_et_environnemental_de_la_culture_et_de_leducation_cesecem_martinique",
+    "title": "Conseil économique, social et environnemental de la culture et de l'éducation (CESECEM) - Martinique",
+    "url": "https://lannuaire.service-public.fr/martinique/martinique/cesr-97209-01",
+    "metadata": {
+      "email": "cesr-s@region-martinique.mq",
+      "telephone": "+596 5 96 59 64 13",
+      "url": "http://www.collectivitedemartinique.mq/le-cesecem/"
+    }
+  },
+  {
+    "id": "81b54307635c4d4884794cc2ea4593bc9edfa588",
+    "alternateName": "CESER",
+    "name": "conseil_economique_social_et_environnemental_regional_ceser_auvergne_rhone_alpes",
+    "title": "Conseil économique, social et environnemental régional (CESER) - Auvergne-Rhône-Alpes",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/rhone/cesr-69123-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 26 73 49 73",
+      "url": "https://ceser.auvergnerhonealpes.fr/"
+    }
+  },
+  {
+    "id": "432cd121b17f9655740fe776433dee5c3fc8e5fd",
+    "alternateName": "CESER",
+    "name": "conseil_economique_social_et_environnemental_regional_ceser_bourgogne_franche_comte",
+    "title": "Conseil économique, social et environnemental régional (CESER) - Bourgogne-Franche-Comté",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/doubs/cesr-25056-01",
+    "metadata": {
+      "email": "ceser@bourgognefranchecomte.fr",
+      "telephone": "03 81 82 83 03",
+      "url": "http://www.ceser.bourgognefranchecomte.fr/index.phphttp://www.cesdefrance.fr"
+    }
+  },
+  {
+    "id": "27fcde60e4e123d461eaddbe8f9365379fc31675",
+    "alternateName": "CESER",
+    "name": "conseil_economique_social_et_environnemental_regional_ceser_bretagne",
+    "title": "Conseil économique, social et environnemental régional (CESER) - Bretagne",
+    "url": "https://lannuaire.service-public.fr/bretagne/ille-et-vilaine/cesr-35238-01",
+    "metadata": {
+      "email": "contact@ceser.bretagne.bzh",
+      "telephone": "02 99 87 18 75",
+      "url": "https://ceser.bretagne.bzh"
+    }
+  },
+  {
+    "id": "4942009beaa72a310b354b768a6abf7208b5d854",
+    "alternateName": "CESER",
+    "name": "conseil_economique_social_et_environnemental_regional_ceser_centre_val_de_loire",
+    "title": "Conseil économique, social et environnemental régional (CESER) - Centre-Val de Loire",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/loiret/cesr-45234-01",
+    "metadata": {
+      "email": "cesr@regioncentre.fr",
+      "telephone": "02 38 70 30 39",
+      "url": "http://www.cesdefrance.frhttp://www.ceser.regioncentre.fr"
+    }
+  },
+  {
+    "id": "e632e00e5ae4f4e0ccbd88b89268ae6fa8e192c4",
+    "alternateName": "CESER",
+    "name": "conseil_economique_social_et_environnemental_regional_ceser_grand_est",
+    "title": "Conseil économique, social et environnemental régional (CESER) - Grand Est",
+    "url": "https://lannuaire.service-public.fr/grand-est/bas-rhin/cesr-67482-01",
+    "metadata": {
+      "email": "ceser@grandest.fr",
+      "telephone": "03 88 15 68 00",
+      "url": "https://www.ceser-grandest.fr/"
+    }
+  },
+  {
+    "id": "c94036d67eb5d5b7be65b38026263b577b90e749",
+    "alternateName": "CESER",
+    "name": "conseil_economique_social_et_environnemental_regional_ceser_guadeloupe",
+    "title": "Conseil économique, social et environnemental régional (CESER) - Guadeloupe",
+    "url": "https://lannuaire.service-public.fr/guadeloupe/guadeloupe/cesr-97105-01",
+    "metadata": {
+      "email": "cesr-guadeloupe@wanadoo.fr",
+      "telephone": "+590 5 90 41 05 15",
+      "url": "https://www.regionguadeloupe.fr/ma-region-un-territoire/les-organes-consultatifs/cesr/#_http://www.cesdefrance.fr"
+    }
+  },
+  {
+    "id": "6d9101f7425feef03d18cb18caada8345ae05344",
+    "alternateName": "CESER",
+    "name": "conseil_economique_social_et_environnemental_regional_ceser_hauts_de_france",
+    "title": "Conseil économique, social et environnemental régional (CESER) - Hauts-de-France",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/nord/cesr-59350-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 28 82 82 82",
+      "url": "https://ceser.hautsdefrance.fr/"
+    }
+  },
+  {
+    "id": "a735c6f44adb9895452f385b5e84a1cabcfc9d62",
+    "alternateName": "CESER",
+    "name": "conseil_economique_social_et_environnemental_regional_ceser_ile_de_france",
+    "title": "Conseil économique, social et environnemental régional (CESER) - Île-de-France",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/paris/cesr-75107-01",
+    "metadata": {
+      "email": "ceser@iledefrance.fr",
+      "telephone": "01 53 85 66 25",
+      "url": "http://www.ceser-iledefrance.fr"
+    }
+  },
+  {
+    "id": "fbc4362a4ea107e4a365aab70ab7d1501eae5aa3",
+    "alternateName": "CESER",
+    "name": "conseil_economique_social_et_environnemental_regional_ceser_la_reunion",
+    "title": "Conseil économique, social et environnemental régional (CESER) - La Réunion",
+    "url": "https://lannuaire.service-public.fr/la-reunion/reunion/cesr-97411-01",
+    "metadata": {
+      "email": "contact@ceser-reunion.fr",
+      "telephone": "+262 2 62 97 96 30",
+      "url": "http://www.ceser-reunion.fr"
+    }
+  },
+  {
+    "id": "7ef0ecf2c7977ab49f222c48fa5d5f37be6eee19",
+    "alternateName": "CESER",
+    "name": "conseil_economique_social_et_environnemental_regional_ceser_normandie",
+    "title": "Conseil économique, social et environnemental régional (CESER) - Normandie",
+    "url": "https://lannuaire.service-public.fr/normandie/seine-maritime/cesr-76540-01",
+    "metadata": {
+      "email": "Contact",
+      "telephone": "02 35 52 56 30",
+      "url": "http://www.cesdefrance.frhttp://www.ceser.normandie.fr"
+    }
+  },
+  {
+    "id": "00a03111f1a88086246008d158ff03a4f1ce25de",
+    "alternateName": "CESER",
+    "name": "conseil_economique_social_et_environnemental_regional_ceser_nouvelle_aquitaine",
+    "title": "Conseil économique, social et environnemental régional (CESER) - Nouvelle-Aquitaine",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/gironde/cesr-33063-01",
+    "metadata": {
+      "email": "contact@ceser-nouvelle-aquitaine.fr",
+      "telephone": "05 57 57 80 80",
+      "url": "https://ceser-nouvelle-aquitaine.fr/http://www.cesdefrance.fr"
+    }
+  },
+  {
+    "id": "693c3df981d7ec30ec23b2e5324e6b1854700511",
+    "alternateName": "CESER",
+    "name": "conseil_economique_social_et_environnemental_regional_ceser_occitanie",
+    "title": "Conseil économique, social et environnemental régional (CESER) - Occitanie",
+    "url": "https://lannuaire.service-public.fr/occitanie/haute-garonne/cesr-31555-01",
+    "metadata": {
+      "email": "ceser@ceser-mip.fr",
+      "telephone": "05 62 26 94 94",
+      "url": "http://www.ceser-mip.frhttp://www.cesdefrance.fr"
+    }
+  },
+  {
+    "id": "ac25b444f9982df04a3f07d7c72eef60276e84fe",
+    "alternateName": "CESER",
+    "name": "conseil_economique_social_et_environnemental_regional_ceser_pays_de_la_loire",
+    "title": "Conseil économique, social et environnemental régional (CESER) - Pays de la Loire",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/loire-atlantique/cesr-44109-01",
+    "metadata": {
+      "email": "Contact",
+      "telephone": "02 28 20 55 80",
+      "url": "http://www.ceser.paysdelaloire.fr"
+    }
+  },
+  {
+    "id": "7179128079ec096148d5b3cbbf533b0cff7bdcfa",
+    "alternateName": "CESER",
+    "name": "conseil_economique_social_et_environnemental_regional_ceser_provence_alpes_cote_d_azur",
+    "title": "Conseil économique, social et environnemental régional (CESER) - Provence-Alpes-Côte d'Azur",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/cesr-13202-01",
+    "metadata": {
+      "email": "Contact",
+      "telephone": "04 91 57 53 00",
+      "url": "http://www.cesdefrance.frhttp://www.ceserpaca.fr/"
+    }
+  },
+  {
+    "id": "1a6d7e9759b80104f880a344fb13f336e2739765",
+    "name": "conseil_economique_social_environnemental_de_la_culture_et_de_l_education_de_guyane",
+    "title": "Conseil Économique Social Environnemental de la Culture et de l'Education de Guyane",
+    "url": "https://lannuaire.service-public.fr/guyane/guyane/cesr-97302-01",
+    "metadata": {
+      "email": "cabcesece@ctguyane.fr",
+      "telephone": "0594 300 6000594 289 605",
+      "url": "http://www.cesece-guyane.fr"
+    }
+  }
+]

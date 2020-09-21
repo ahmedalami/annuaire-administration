@@ -1,0 +1,68 @@
+[
+  {
+    "id": "3d005d4b507fa307344187d840e07d959522e20c",
+    "name": "etablissement_penitentiaire_specialise_pour_mineurs_de_lavaur",
+    "title": "Etablissement Pénitentiaire spécialisé pour Mineurs de Lavaur",
+    "url": "https://lannuaire.service-public.fr/occitanie/tarn/esm-81140-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 63 34 22 18",
+      "url": ""
+    }
+  },
+  {
+    "id": "28e5aedc19bbcaef3a2db127c18ceff8c825f22f",
+    "name": "etablissement_penitentiaire_specialise_pour_mineurs_de_marseille",
+    "title": "Etablissement Pénitentiaire spécialisé pour Mineurs de Marseille",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/esm-13211-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 91 35 77 03",
+      "url": ""
+    }
+  },
+  {
+    "id": "1bef58b70f9e63ad152c30ee55a030e2c3880bc8",
+    "name": "etablissement_penitentiaire_specialise_pour_mineurs_d_orvault",
+    "title": "Etablissement Pénitentiaire spécialisé pour Mineurs d'Orvault",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/loire-atlantique/esm-44114-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 40 16 81 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "8aba4f42ee92b0f9eee4851890526167810c634b",
+    "name": "etablissement_penitentiaire_specialise_pour_mineurs_de_porcheville",
+    "title": "Etablissement Pénitentiaire spécialisé pour Mineurs de Porcheville",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/yvelines/esm-78501-01",
+    "metadata": {
+      "email": "",
+      "telephone": "01 78 72 60 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "d11060f256cebdfb640739987139b129f0791102",
+    "name": "etablissement_penitentiaire_specialise_pour_mineurs_de_quievrechain",
+    "title": "Etablissement Pénitentiaire spécialisé pour Mineurs de Quiévrechain",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/nord/esm-59484-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 27 09 23 59",
+      "url": ""
+    }
+  },
+  {
+    "id": "c8e9377c8c084c1552fb683fd50d8368bf43f6cf",
+    "name": "etablissement_penitentiaire_specialise_pour_mineurs_du_rhone",
+    "title": "Etablissement Pénitentiaire spécialisé pour Mineurs du Rhône",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/rhone/esm-69282-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 37 44 09 23",
+      "url": ""
+    }
+  }
+]

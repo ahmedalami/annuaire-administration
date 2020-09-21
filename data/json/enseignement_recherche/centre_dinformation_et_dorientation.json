@@ -1,0 +1,2162 @@
+[
+  {
+    "id": "131fc879ab8dc7691960b0b879e7b1ab96439d20",
+    "alternateName": "CIO",
+    "name": "centre_dinformation_et_dorientation_cio_abbeville",
+    "title": "Centre d’information et d’orientation (CIO) - Abbeville",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/somme/cio-80001-01",
+    "metadata": {
+      "email": "ce.0800072u@ac-amiens.fr",
+      "telephone": "03 22 20 10 00",
+      "url": "http://www.education.gouv.fr"
+    }
+  },
+  {
+    "id": "127954e62af6117279d692fd960ed34fc629ac04",
+    "alternateName": "CIO",
+    "name": "centre_dinformation_et_dorientation_cio_agen",
+    "title": "Centre d’information et d’orientation (CIO) - Agen",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/lot-et-garonne/cio-47001-01",
+    "metadata": {
+      "email": "ciolotg@cg47.org",
+      "telephone": "05 53 66 51 07",
+      "url": "http://www.ac-bordeaux.fr/cid78531/cio-d-agen.html"
+    }
+  },
+  {
+    "id": "86d7bbea5a388da68c2a2220248c31ffc4dd42ad",
+    "alternateName": "CIO",
+    "name": "centre_dinformation_et_dorientation_cio_aire_sur_l_adour",
+    "title": "Centre d’information et d’orientation (CIO) - Aire-sur-l'Adour",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/landes/cio-40001-01",
+    "metadata": {
+      "email": "cio.aire-adour@ac-bordeaux.fr",
+      "telephone": "05 58 71 62 33",
+      "url": "http://www.cio-montdemarsan.org"
+    }
+  },
+  {
+    "id": "2d53c6de8b20b4c18f79f796aadd625355670073",
+    "alternateName": "CIO",
+    "name": "centre_dinformation_et_dorientation_cio_aix_en_provence",
+    "title": "Centre d’information et d’orientation (CIO) - Aix-en-Provence",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/cio-13001-01",
+    "metadata": {
+      "email": "ce.cio.aix@ac-aix-marseille.fr",
+      "telephone": "04 42 26 35 63",
+      "url": "http://www.cio-aix.ac-aix-marseille.fr/spip/"
+    }
+  },
+  {
+    "id": "7ff6bff5d33ec2b2186a3552596bf2be2ea9119f",
+    "alternateName": "CIO",
+    "name": "centre_dinformation_et_dorientation_cio_ajaccio",
+    "title": "Centre d’information et d’orientation (CIO) - Ajaccio",
+    "url": "https://lannuaire.service-public.fr/corse/corse-du-sud/cio-2A004-01",
+    "metadata": {
+      "email": "cio-aja@ac-corse.fr",
+      "telephone": "04 95 10 06 06",
+      "url": ""
+    }
+  },
+  {
+    "id": "846bbb370a0bc7d799f96b9c4b5475a0656654a2",
+    "alternateName": "CIO",
+    "name": "centre_dinformation_et_dorientation_cio_albertville",
+    "title": "Centre d’information et d’orientation (CIO) - Albertville",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/savoie/cio-73011-01",
+    "metadata": {
+      "email": "cio-albertville@ac-grenoble.fr",
+      "telephone": "04 79 32 06 83",
+      "url": "http://www.education.gouv.fr"
+    }
+  },
+  {
+    "id": "645d613e47d4c72e734ede490c5154297bcbc8be",
+    "alternateName": "CIO",
+    "name": "centre_dinformation_et_dorientation_cio_albi",
+    "title": "Centre d’information et d’orientation (CIO) - Albi",
+    "url": "https://lannuaire.service-public.fr/occitanie/tarn/cio-81004-01",
+    "metadata": {
+      "email": "cio.albi@ac-toulouse.fr",
+      "telephone": "05 67 76 57 74",
+      "url": "http://www.ac-toulouse.fr"
+    }
+  },
+  {
+    "id": "15e071ecea04e29c1586e9e15298b25cdd26f61e",
+    "alternateName": "CIO",
+    "name": "centre_dinformation_et_dorientation_cio_alencon",
+    "title": "Centre d’information et d’orientation (CIO) - Alençon",
+    "url": "https://lannuaire.service-public.fr/normandie/orne/cio-61001-01",
+    "metadata": {
+      "email": "cio.alencon@ac-caen.fr",
+      "telephone": "02 33 26 59 50",
+      "url": "http://www.ac-caen.fr"
+    }
+  },
+  {
+    "id": "d69fb8cba42562c47b8dc9946b20233bbea97eac",
+    "alternateName": "CIO",
+    "name": "centre_dinformation_et_dorientation_cio_ales",
+    "title": "Centre d’information et d’orientation (CIO) - Alès",
+    "url": "https://lannuaire.service-public.fr/occitanie/gard/cio-30007-01",
+    "metadata": {
+      "email": "ce.0300061d@ac-montpellier.fr",
+      "telephone": "04 66 56 46 70",
+      "url": "https://www.ac-montpellier.fr/cid87177/cio-ales.html"
+    }
+  },
+  {
+    "id": "a7bffcdbebfdffb8755e0f8809cab93d97357423",
+    "alternateName": "CIO",
+    "name": "centre_dinformation_et_dorientation_cio_altkirch",
+    "title": "Centre d’information et d’orientation (CIO) - Altkirch",
+    "url": "https://lannuaire.service-public.fr/grand-est/haut-rhin/cio-68004-01",
+    "metadata": {
+      "email": "cio.altkirch@ac-strasbourg.fr",
+      "telephone": "03 89 40 99 07",
+      "url": "http://www.education.gouv.fr"
+    }
+  },
+  {
+    "id": "b214804665c96f42c54052544762fbaa8b3c5bbc",
+    "alternateName": "CIO",
+    "name": "centre_dinformation_et_dorientation_cio_amberieu_en_bugey",
+    "title": "Centre d’information et d’orientation (CIO) - Ambérieu-en-Bugey",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/ain/cio-01004-01",
+    "metadata": {
+      "email": "cio-amberieu@ac-lyon.fr",
+      "telephone": "04 74 38 33 46",
+      "url": "https://amberieu.cio.ac-lyon.fr/spip/"
+    }
+  },
+  {
+    "id": "7288af5d2bb5ecb9a75b554697cf13d027e392a8",
+    "alternateName": "CIO",
+    "name": "centre_dinformation_et_dorientation_cio_amboise",
+    "title": "Centre d’information et d’orientation (CIO) - Amboise",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/indre-et-loire/cio-37003-01",
+    "metadata": {
+      "email": "ce.cioamboise@ac-orleans-tours.fr",
+      "telephone": "02 38 83 49 15",
+      "url": "http://www.ac-orleans-tours.fr"
+    }
+  },
+  {
+    "id": "e7050ecd9df171df8c88292f926fbcdc23a7603c",
+    "alternateName": "CIO",
+    "name": "centre_dinformation_et_dorientation_cio_amiens_nord",
+    "title": "Centre d’information et d’orientation (CIO) - Amiens Nord",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/somme/cio-80021-01",
+    "metadata": {
+      "email": "ce.0800071t@ac-amiens.fr",
+      "telephone": "03 22 71 39 00",
+      "url": "http://www.education.gouv.fr"
+    }
+  },
+  {
+    "id": "d6a326a2916fc45535a02313be70a994d0eed69f",
+    "alternateName": "CIO",
+    "name": "centre_dinformation_et_dorientation_cio_amiens_sud",
+    "title": "Centre d’information et d’orientation (CIO) - Amiens-Sud",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/somme/cio-80021-02",
+    "metadata": {
+      "email": "ce.0801563p@ac-amiens.fr",
+      "telephone": "03 22 95 00 25",
+      "url": "http://www.ac-amiens.fr"
+    }
+  },
+  {
+    "id": "5616085e1351502fe9e95fa8d4fde815b77def23",
+    "alternateName": "CIO",
+    "name": "centre_dinformation_et_dorientation_cio_angers_segre",
+    "title": "Centre d’information et d’orientation (CIO) - Angers Segré",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/maine-et-loire/cio-49007-01",
+    "metadata": {
+      "email": "cio-angerssegre@ac-nantes.fr",
+      "telephone": "02 41 66 84 42",
+      "url": "http://www.ac-nantes.fr"
+    }
+  },
+  {
+    "id": "dd2ee9ba859beb415acbbbc5c8d811c56e252833",
+    "alternateName": "CIO",
+    "name": "centre_dinformation_et_dorientation_cio_angouleme",
+    "title": "Centre d’information et d’orientation (CIO) - Angoulême",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/charente/cio-16015-01",
+    "metadata": {
+      "email": "cio-angouleme@ac-poitiers.fr",
+      "telephone": "05 16 52 69 10",
+      "url": "http://www.cio.ac-poitiers.fr/pied-de-page/le-cio-d-angouleme-20703.kjsp?STNAV=&RUBNAV=&RH=1224667357044"
+    }
+  },
+  {
+    "id": "b908a10d06d7ff9e1a7da59569f4114d47033611",
+    "alternateName": "CIO",
+    "name": "centre_dinformation_et_dorientation_cio_annecy",
+    "title": "Centre d’information et d’orientation (CIO) - Annecy",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/haute-savoie/cio-74010-01",
+    "metadata": {
+      "email": "cio-annecy@ac-grenoble.fr",
+      "telephone": "04 50 88 48 01",
+      "url": "https://cio.web.ac-grenoble.fr/cio-annecy"
+    }
+  },
+  {
+    "id": "9407fcb0e61f00b02d0d52a7fbafea8886aa5081",
+    "alternateName": "CIO",
+    "name": "centre_dinformation_et_dorientation_cio_annemasse",
+    "title": "Centre d’information et d’orientation (CIO) - Annemasse",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/haute-savoie/cio-74012-01",
+    "metadata": {
+      "email": "cio-annemasse@ac-grenoble.fr",
+      "telephone": "04 50 38 15 23",
+      "url": "https://cio.web.ac-grenoble.frcio-annemasse"
+    }
+  },
+  {
+    "id": "4b971797e8fcddfa824a508ed8fee3f05927b170",
+    "alternateName": "CIO",
+    "name": "centre_dinformation_et_dorientation_cio_annonay",
+    "title": "Centre d’information et d’orientation (CIO) - Annonay",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/ardeche/cio-07010-01",
+    "metadata": {
+      "email": "cio-annonay@ac-grenoble.fr",
+      "telephone": "04 75 33 29 67",
+      "url": "https://cio.web.ac-grenoble.fr/cio-annonay"
+    }
+  },
+  {
+    "id": "d6a00872ee3b5e7e0bd6a209aa4369fb27178c17",
+    "alternateName": "CIO",
+    "name": "centre_dinformation_et_dorientation_cio_antibes",
+    "title": "Centre d’information et d’orientation (CIO) - Antibes",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/alpes-maritimes/cio-06004-01",
+    "metadata": {
+      "email": "cio.antibes@ac-nice.fr",
+      "telephone": "04 93 33 46 01",
+      "url": "http://www2.ac-nice.fr/ac-nice/cid66181/les-centres-d-information-et-d-orientation.html"
+    }
+  },
+  {
+    "id": "208b8c8bd97ce2063ff4b2c30aba1495627ef085",
+    "alternateName": "CIO",
+    "name": "centre_dinformation_et_dorientation_cio_arles",
+    "title": "Centre d’information et d’orientation (CIO) - Arles",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/cio-13004-01",
+    "metadata": {
+      "email": "ce.cio.arles@ac-aix-marseille.fr",
+      "telephone": "04 90 96 13 62",
+      "url": "http://www.cio-arles.ac-aix-marseille.fr/spip/"
+    }
+  },
+  {
+    "id": "73903f1f10f783f8b861ba6ca8e19ee850dc49e6",
+    "alternateName": "CIO",
+    "name": "centre_dinformation_et_dorientation_cio_armentieres",
+    "title": "Centre d’information et d’orientation (CIO) - Armentières",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/nord/cio-59017-01",
+    "metadata": {
+      "email": "cio.lilleouest@ac-lille.fr",
+      "telephone": "03 20 17 35 01",
+      "url": "http://www.education.gouv.fr"
+    }
+  },
+  {
+    "id": "4402d82b05189c64cc579e7cd09f6427183fef24",
+    "alternateName": "CIO",
+    "name": "centre_dinformation_et_dorientation_cio_arras",
+    "title": "Centre d’information et d’orientation (CIO) - Arras",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/pas-de-calais/cio-62041-01",
+    "metadata": {
+      "email": "ce.0620211t@ac-lille.fr",
+      "telephone": "03 21 55 47 03",
+      "url": "http://www.ac-lille.fr"
+    }
+  },
+  {
+    "id": "20cd1cb24ece06eafdf63026e5f41d5f3e932ada",
+    "alternateName": "CIO",
+    "name": "centre_dinformation_et_dorientation_cio_aubenas",
+    "title": "Centre d’information et d’orientation (CIO) - Aubenas",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/ardeche/cio-07019-01",
+    "metadata": {
+      "email": "cio-aubenas@ac-grenoble.fr",
+      "telephone": "04 75 93 72 88",
+      "url": "https://cio.web.ac-grenoble.fr/cio-aubenas-privas"
+    }
+  },
+  {
+    "id": "df55606d686f24514cf9183c962d5d055a26192a",
+    "alternateName": "CIO",
+    "name": "centre_dinformation_et_dorientation_cio_aubervilliers",
+    "title": "Centre d’information et d’orientation (CIO) - Aubervilliers",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/seine-saint-denis/cio-93001-01",
+    "metadata": {
+      "email": "",
+      "telephone": "01 48 33 46 07",
+      "url": "http://orientation.ac-creteil.fr/cio-aubervilliers/"
+    }
+  },
+  {
+    "id": "2a55e4eb6023d33b3e0f8d8e63395af81415a159",
+    "alternateName": "CIO",
+    "name": "centre_dinformation_et_dorientation_cio_aubusson",
+    "title": "Centre d’information et d’orientation (CIO) - Aubusson",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/creuse/cio-23008-01",
+    "metadata": {
+      "email": "ce.cio.creuse@ac-limoges.fr",
+      "telephone": "05 87 86 61 60",
+      "url": "http://www.ac-limoges.fr/dsden23/cid88110/centre-d-information-et-d-orientation.html"
+    }
+  },
+  {
+    "id": "f2be7e8ec230c753af30046a1ed6c2e6b11dcd54",
+    "alternateName": "CIO",
+    "name": "centre_dinformation_et_dorientation_cio_auch",
+    "title": "Centre d’information et d’orientation (CIO) - Auch",
+    "url": "https://lannuaire.service-public.fr/occitanie/gers/cio-32013-01",
+    "metadata": {
+      "email": "cio.auch@ac-toulouse.fr",
+      "telephone": "05 62 05 65 20",
+      "url": "http://www.ac-toulouse.fr/cid73820/cio-auch.html"
+    }
+  },
+  {
+    "id": "8138cd5020fbceb0f5393595ec1d0a6dbfebc4da",
+    "alternateName": "CIO",
+    "name": "centre_dinformation_et_dorientation_cio_aulnay_sous_bois",
+    "title": "Centre d’information et d’orientation (CIO) - Aulnay-sous-Bois",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/seine-saint-denis/cio-93005-01",
+    "metadata": {
+      "email": "cio.aulnay@ac-creteil.fr",
+      "telephone": "01 48 19 24 50",
+      "url": "http://www.education.gouv.fr"
+    }
+  },
+  {
+    "id": "7ba4a806a32e303cf2547c0cd7aadb950d0ceac3",
+    "alternateName": "CIO",
+    "name": "centre_dinformation_et_dorientation_cio_aurillac",
+    "title": "Centre d’information et d’orientation (CIO) - Aurillac",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/cantal/cio-15014-01",
+    "metadata": {
+      "email": "cio.aurillac@ac-clermont.fr",
+      "telephone": "04 43 57 20 40",
+      "url": "http://www.ac-clermont.fr/cio/aurillac/"
+    }
+  },
+  {
+    "id": "d47e2b3f6141a309d25cd85f2c1b51df0ea6f831",
+    "alternateName": "CIO",
+    "name": "centre_dinformation_et_dorientation_cio_autun",
+    "title": "Centre d’information et d’orientation (CIO) - Autun",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/saone-et-loire/cio-71014-01",
+    "metadata": {
+      "email": "cio.autun@ac-dijon.fr",
+      "telephone": "03 85 52 04 58",
+      "url": "http://www.ac-dijon.fr"
+    }
+  },
+  {
+    "id": "20f93f7f1442bccea2ac3d88e6ca60418e4844ec",
+    "alternateName": "CIO",
+    "name": "centre_dinformation_et_dorientation_cio_auxerre",
+    "title": "Centre d’information et d’orientation (CIO) - Auxerre",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/yonne/cio-89024-01",
+    "metadata": {
+      "email": "cio.auxerre@ac-dijon.fr",
+      "telephone": "03 86 52 13 13",
+      "url": "http://www.ac-dijon.fr"
+    }
+  },
+  {
+    "id": "0edcc2770d7c57e215878de8b0ce0e67afc631c1",
+    "alternateName": "CIO",
+    "name": "centre_dinformation_et_dorientation_cio_avignon",
+    "title": "Centre d’information et d’orientation (CIO) - Avignon",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/vaucluse/cio-84007-01",
+    "metadata": {
+      "email": "ce.cio.avignon@ac-aix-marseille.fr",
+      "telephone": "04 90 86 25 77",
+      "url": "http://www.cio-vaucluse.ac-aix-marseille.fr"
+    }
+  },
+  {
+    "id": "47023c9651d7b9048b6ed5b505088047e1e5f2aa",
+    "alternateName": "CIO",
+    "name": "centre_dinformation_et_dorientation_cio_avranches",
+    "title": "Centre d’information et d’orientation (CIO) - Avranches",
+    "url": "https://lannuaire.service-public.fr/normandie/manche/cio-50025-01",
+    "metadata": {
+      "email": "cio.avranches@ac-caen.fr",
+      "telephone": "02 33 58 72 66",
+      "url": "http://www.ac-caen.fr"
+    }
+  },
+  {
+    "id": "36931fbfcb7f9c543d7b26e016ea7f2d5bfa17b3",
+    "alternateName": "CIO",
+    "name": "centre_dinformation_et_dorientation_cio_bagnols_sur_ceze",
+    "title": "Centre d’information et d’orientation (CIO) - Bagnols-sur-Cèze",
+    "url": "https://lannuaire.service-public.fr/occitanie/gard/cio-30028-01",
+    "metadata": {
+      "email": "ce.0300992r@ac-montpellier.fr",
+      "telephone": "04 66 89 53 93",
+      "url": "https://www.ac-montpellier.fr/cid87178/cio-bagnols-sur-ceze.html"
+    }
+  },
+  {
+    "id": "98a29e73118edb3b53f946e51149bf67621db00e",
+    "alternateName": "CIO",
+    "name": "centre_dinformation_et_dorientation_cio_baie_mahault",
+    "title": "Centre d’information et d’orientation (CIO) - Baie-Mahault",
+    "url": "https://lannuaire.service-public.fr/guadeloupe/guadeloupe/cio-97103-01",
+    "metadata": {
+      "email": "cio.nord-basse-terre@ac-guadeloupe.fr",
+      "telephone": "+590 5 90 95 63 42",
+      "url": "http://www.ac-guadeloupe.fr"
+    }
+  },
+  {
+    "id": "e72cc630a4b4223e2c9f27d83ce20fd03dea9159",
+    "alternateName": "CIO",
+    "name": "centre_dinformation_et_dorientation_cio_bar_le_duc",
+    "title": "Centre d’information et d’orientation (CIO) - Bar-le-Duc",
+    "url": "https://lannuaire.service-public.fr/grand-est/meuse/cio-55029-01",
+    "metadata": {
+      "email": "ce.cio55-barleduc@ac-nancy-metz.fr",
+      "telephone": "03 29 45 02 56",
+      "url": "http://www.education.gouv.fr"
+    }
+  },
+  {
+    "id": "5024c2b2a949e20c9559fc08a606635eaf818b54",
+    "alternateName": "CIO",
+    "name": "centre_dinformation_et_dorientation_cio_bastia",
+    "title": "Centre d’information et d’orientation (CIO) - Bastia",
+    "url": "https://lannuaire.service-public.fr/corse/haute-corse/cio-2B033-01",
+    "metadata": {
+      "email": "cio-bastia@ac-corse.fr",
+      "telephone": "04 95 30 09 90",
+      "url": "http://www.ac-corse.fr"
+    }
+  },
+  {
+    "id": "1104b36aacdf7a33457ca49c9dfadad9900bbc4f",
+    "alternateName": "CIO",
+    "name": "centre_dinformation_et_dorientation_cio_bayeux",
+    "title": "Centre d’information et d’orientation (CIO) - Bayeux",
+    "url": "https://lannuaire.service-public.fr/normandie/calvados/cio-14047-01",
+    "metadata": {
+      "email": "cio.bayeux@ac-caen.fr",
+      "telephone": "02 31 22 46 62",
+      "url": "http://www.ac-normandie.fr/scolarite-etudes/orientation-enseignement-superieur/centres-d-information-et-d-orientation/centres-d-information-et-d-orientation-248868.kjsp"
+    }
+  },
+  {
+    "id": "5a033161efcf25ceca0c2b1467279e9c6c9d5a4c",
+    "alternateName": "CIO",
+    "name": "centre_dinformation_et_dorientation_cio_bayonne",
+    "title": "Centre d’information et d’orientation (CIO) - Bayonne",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/pyrenees-atlantiques/cio-64102-01",
+    "metadata": {
+      "email": "ce.ciobayon@ac-bordeaux.fr",
+      "telephone": "05 59 52 14 58",
+      "url": "http://www.ac-bordeaux.fr"
+    }
+  },
+  {
+    "id": "53d59555afd9ac6501361b5ccc1b4f184a9af1eb",
+    "alternateName": "CIO",
+    "name": "centre_dinformation_et_dorientation_cio_beaune",
+    "title": "Centre d’information et d’orientation (CIO) - Beaune",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/cote-d-or/cio-21054-01",
+    "metadata": {
+      "email": "cio.beaune@ac-dijon.fr",
+      "telephone": "03 45 63 30 00",
+      "url": "http://www.ac-dijon.fr"
+    }
+  },
+  {
+    "id": "78c7eebf69497a5670746a4e53c9d61e013e1e7d",
+    "alternateName": "CIO",
+    "name": "centre_dinformation_et_dorientation_cio_beauvais",
+    "title": "Centre d’information et d’orientation (CIO) - Beauvais",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/oise/cio-60057-01",
+    "metadata": {
+      "email": "cio60.beauvais@ac-amiens.fr",
+      "telephone": "03 60 29 76 40",
+      "url": "http://www.ac-amiens.fr"
+    }
+  },
+  {
+    "id": "f3b9606144fc0db3071c60fd4ec29048fb618629",
+    "alternateName": "CIO",
+    "name": "centre_dinformation_et_dorientation_cio_belfort",
+    "title": "Centre d’information et d’orientation (CIO) - Belfort",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/territoire-de-belfort/cio-90010-01",
+    "metadata": {
+      "email": "cio.belfort@ac-besancon.fr",
+      "telephone": "03 84 57 32 60",
+      "url": "http://cio-belfort.ac-besancon.fr/"
+    }
+  },
+  {
+    "id": "4dbf9f90ad3bf07f9ecf45fa9084b2c2f462e53d",
+    "alternateName": "CIO",
+    "name": "centre_dinformation_et_dorientation_cio_bellac",
+    "title": "Centre d’information et d’orientation (CIO) - Bellac",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/haute-vienne/cio-87011-01",
+    "metadata": {
+      "email": "ce.cio.bellac@ac-limoges.fr",
+      "telephone": "05 87 50 46 00",
+      "url": "http://www.ac-limoges.fr"
+    }
+  },
+  {
+    "id": "d4696dc010c57f77765cc7750e36fce7551d10eb",
+    "alternateName": "CIO",
+    "name": "centre_dinformation_et_dorientation_cio_belley",
+    "title": "Centre d’information et d’orientation (CIO) - Belley",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/ain/cio-01034-01",
+    "metadata": {
+      "email": "cio-belley@ac-lyon.fr",
+      "telephone": "04 79 81 08 65",
+      "url": "http://www2.ac-lyon.fr/orientation/ain/belley/"
+    }
+  },
+  {
+    "id": "490a8f3e4a4a43720537642f0b572d2f00a644ee",
+    "alternateName": "CIO",
+    "name": "centre_dinformation_et_dorientation_cio_bergerac",
+    "title": "Centre d’information et d’orientation (CIO) - Bergerac",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/dordogne/cio-24037-01",
+    "metadata": {
+      "email": "ce.cioberge@ac-bordeaux.fr",
+      "telephone": "05 53 57 17 41",
+      "url": "http://www.ac-bordeaux.fr/cid78513/cio-de-bergerac.html"
+    }
+  },
+  {
+    "id": "9fb2769af2bf732b6c8639dcc5d3e814aa958cee",
+    "alternateName": "CIO",
+    "name": "centre_dinformation_et_dorientation_cio_besancon",
+    "title": "Centre d’information et d’orientation (CIO) - Besançon",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/doubs/cio-25056-01",
+    "metadata": {
+      "email": "cio.besancon@ac-besancon.fr",
+      "telephone": "03 81 61 53 60",
+      "url": "http://cio-besancon.ac-besancon.fr/"
+    }
+  },
+  {
+    "id": "5761ffe71a4d6388e21ce985ae1a2296919b2e4e",
+    "alternateName": "CIO",
+    "name": "centre_dinformation_et_dorientation_cio_bethune",
+    "title": "Centre d’information et d’orientation (CIO) - Béthune",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/pas-de-calais/cio-62119-01",
+    "metadata": {
+      "email": "ce.0620206m@ac-lille.fr",
+      "telephone": "03 21 57 64 20",
+      "url": "http://www.ac-lille.fr"
+    }
+  },
+  {
+    "id": "57a3dab9d1573fea4a8d2a16745e088f8ae8b882",
+    "alternateName": "CIO",
+    "name": "centre_dinformation_et_dorientation_cio_beziers",
+    "title": "Centre d’information et d’orientation (CIO) - Béziers",
+    "url": "https://lannuaire.service-public.fr/occitanie/herault/cio-34032-01",
+    "metadata": {
+      "email": "ce.0340097w@ac-montpellier.fr",
+      "telephone": "04 67 62 45 04",
+      "url": "http://www.ac-montpellier.fr"
+    }
+  },
+  {
+    "id": "39cd5dac20bc45fe434a207604ff56c767b5edf4",
+    "alternateName": "CIO",
+    "name": "centre_dinformation_et_dorientation_cio_blanc_mesnil",
+    "title": "Centre d’information et d’orientation (CIO) - Blanc-Mesnil",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/seine-saint-denis/cio-93007-01",
+    "metadata": {
+      "email": "cio-le-blanc-mesnil@ac-creteil.fr",
+      "telephone": "01 48 67 02 98",
+      "url": "http://www.education.gouv.fr"
+    }
+  },
+  {
+    "id": "bd1ccf06abbb6a064ac8e652bc8d0b24cc480232",
+    "alternateName": "CIO",
+    "name": "centre_dinformation_et_dorientation_cio_blaye",
+    "title": "Centre d’information et d’orientation (CIO) - Blaye",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/gironde/cio-33058-01",
+    "metadata": {
+      "email": "ce.cioblaye@ac-bordeaux.fr",
+      "telephone": "05 57 42 29 31",
+      "url": "http://www.ac-bordeaux.fr/cid78483/cio-de-blaye.html"
+    }
+  },
+  {
+    "id": "848df078140b5134709b643dbf0442820ad4b340",
+    "alternateName": "CIO",
+    "name": "centre_dinformation_et_dorientation_cio_blois",
+    "title": "Centre d’information et d’orientation (CIO) - Blois",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/loir-et-cher/cio-41018-01",
+    "metadata": {
+      "email": "ce.cioblois@ac-orleans-tours.fr",
+      "telephone": "02 38 83 49 98",
+      "url": "https://www.ac-orleans-tours.fr/orientation/les_services_dinformation_et_dorientation/centres_dinformation_et_dorientation/cio_de_blois/"
+    }
+  },
+  {
+    "id": "7a47faba420e1bd821fd05c27c68be1cda626b48",
+    "alternateName": "CIO",
+    "name": "centre_dinformation_et_dorientation_cio_boissy_saint_leger",
+    "title": "Centre d’information et d’orientation (CIO) - Boissy-Saint-Léger",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/val-de-marne/cio-94004-01",
+    "metadata": {
+      "email": "cio.boissy@ac-creteil.fr",
+      "telephone": "01 45 69 65 73",
+      "url": "http://www.education.gouv.fr"
+    }
+  },
+  {
+    "id": "bac4e61bb8d821f58904449501d6f4b28e19eba0",
+    "alternateName": "CIO",
+    "name": "centre_dinformation_et_dorientation_cio_bondy",
+    "title": "Centre d’information et d’orientation (CIO) - Bondy",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/seine-saint-denis/cio-93010-01",
+    "metadata": {
+      "email": "",
+      "telephone": "01 48 47 28 85",
+      "url": "http://orientation.ac-creteil.fr/cio-bondy/"
+    }
+  },
+  {
+    "id": "f8193620704c0585206b698de657af999185907b",
+    "alternateName": "CIO",
+    "name": "centre_dinformation_et_dorientation_cio_bordeaux_nord",
+    "title": "Centre d’information et d’orientation (CIO) - Bordeaux Nord",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/gironde/cio-33063-01",
+    "metadata": {
+      "email": "ce.ciobordn@ac-bordeaux.fr",
+      "telephone": "05 56 52 37 42",
+      "url": "http://www.ac-bordeaux.frcid78492/cio-bordeaux-nord.html"
+    }
+  },
+  {
+    "id": "3564635785ff7a92855489fe60acee1bd888e6e1",
+    "alternateName": "CIO",
+    "name": "centre_dinformation_et_dorientation_cio_bordeaux_sud",
+    "title": "Centre d’information et d’orientation (CIO) - Bordeaux Sud",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/gironde/cio-33039-02",
+    "metadata": {
+      "email": "ce.ciobords@ac-bordeaux.fr",
+      "telephone": "05 57 59 00 80",
+      "url": "http://www.ac-bordeaux.fr/cid78494/cio-de-bordeaux-sud.html"
+    }
+  },
+  {
+    "id": "13264a2b933d271478d82cbe3f5ff831e90262bb",
+    "alternateName": "CIO",
+    "name": "centre_dinformation_et_dorientation_cio_boulogne_billancourt",
+    "title": "Centre d’information et d’orientation (CIO) - Boulogne-Billancourt",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/hauts-de-seine/cio-92012-01",
+    "metadata": {
+      "email": "cio-boulogne@ac-versailles.fr",
+      "telephone": "01 55 20 09 30",
+      "url": "http://www.orientation.ac-versailles.frcio-boulogne"
+    }
+  },
+  {
+    "id": "8b313f4a8f7504cdcef0414747916c266b5a340f",
+    "alternateName": "CIO",
+    "name": "centre_dinformation_et_dorientation_cio_boulogne_sur_mer",
+    "title": "Centre d’information et d’orientation (CIO) - Boulogne-sur-Mer",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/pas-de-calais/cio-62160-01",
+    "metadata": {
+      "email": "cio.boulognesurmer@ac-lille.fr",
+      "telephone": "03 21 30 23 92",
+      "url": ""
+    }
+  },
+  {
+    "id": "d4785bf90e0782d0563ef26c31ca97efcaaf3d5c",
+    "alternateName": "CIO",
+    "name": "centre_dinformation_et_dorientation_cio_bourg_en_bresse",
+    "title": "Centre d’information et d’orientation (CIO) - Bourg-en-Bresse",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/ain/cio-01053-01",
+    "metadata": {
+      "email": "cio-bourg@ac-lyon.fr",
+      "telephone": "04 74 21 34 08",
+      "url": "http://bourg.cio.ac-lyon.fr/spip/"
+    }
+  },
+  {
+    "id": "00635f22fdd370864a95d769d47a457a276dc16f",
+    "alternateName": "CIO",
+    "name": "centre_dinformation_et_dorientation_cio_bourges",
+    "title": "Centre d’information et d’orientation (CIO) - Bourges",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/cher/cio-18033-01",
+    "metadata": {
+      "email": "ce.ciobourges@ac-orleans-tours.fr",
+      "telephone": "02 38 83 49 13",
+      "url": "https://www.ac-orleans-tours.fr/orientation/les_services_dinformation_et_dorientation/centres_dinformation_et_dorientation/cio_de_bourges/"
+    }
+  },
+  {
+    "id": "aa0ffafa857d109ba07af6f8386f2c3f4eb6b7ad",
+    "alternateName": "CIO",
+    "name": "centre_dinformation_et_dorientation_cio_bourgoin_jallieu",
+    "title": "Centre d’information et d’orientation (CIO) - Bourgoin-Jallieu",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/isere/cio-38053-01",
+    "metadata": {
+      "email": "ce.ia38-cio-bourgoin@ac-grenoble.fr",
+      "telephone": "04 74 93 47 17",
+      "url": "http://www.ac-grenoble.fr"
+    }
+  },
+  {
+    "id": "179acfcf47e16371a803d77af8e2d71fb5c6fcac",
+    "alternateName": "CIO",
+    "name": "centre_dinformation_et_dorientation_cio_bressuire",
+    "title": "Centre d’information et d’orientation (CIO) - Bressuire",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/deux-sevres/cio-79049-01",
+    "metadata": {
+      "email": "cio-bressuire@ac-poitiers.fr",
+      "telephone": "05 16 52 69 52",
+      "url": "http://www.cio.ac-poitiers.frbressuire"
+    }
+  },
+  {
+    "id": "8142d55464f7d69c8c59f019dda3e25e330fb012",
+    "alternateName": "CIO",
+    "name": "centre_dinformation_et_dorientation_cio_brest",
+    "title": "Centre d’information et d’orientation (CIO) - Brest",
+    "url": "https://lannuaire.service-public.fr/bretagne/finistere/cio-29019-01",
+    "metadata": {
+      "email": "cio.brest@ac-rennes.fr",
+      "telephone": "02 98 44 31 74",
+      "url": "https://www.cio-brest.org/"
+    }
+  },
+  {
+    "id": "c447500d9e536b1002a51e9b52f0626ed515e5cd",
+    "alternateName": "CIO",
+    "name": "centre_dinformation_et_dorientation_cio_briancon",
+    "title": "Centre d’information et d’orientation (CIO) - Briançon",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/hautes-alpes/cio-05023-01",
+    "metadata": {
+      "email": "ce.cio.briancon@ac-aix-marseille.fr",
+      "telephone": "04 92 25 47 30",
+      "url": "http://www.cio-digne-manosque.ac-aix-marseille.fr"
+    }
+  },
+  {
+    "id": "d8440e246816280b6e09140f635c5a7b32949100",
+    "alternateName": "CIO",
+    "name": "centre_dinformation_et_dorientation_cio_briey",
+    "title": "Centre d’information et d’orientation (CIO) - Briey",
+    "url": "https://lannuaire.service-public.fr/grand-est/meurthe-et-moselle/cio-54099-01",
+    "metadata": {
+      "email": "ce.cio54-briey@ac-nancy-metz.fr",
+      "telephone": "03 82 46 23 85",
+      "url": "http://www.ac-nancy-metz.fr"
+    }
+  },
+  {
+    "id": "84e36311f733624caa9af5c32c336f3bd2254ac0",
+    "alternateName": "CIO",
+    "name": "centre_dinformation_et_dorientation_cio_briey_longwy",
+    "title": "Centre d’information et d’orientation (CIO) - Briey-Longwy",
+    "url": "https://lannuaire.service-public.fr/grand-est/meurthe-et-moselle/cio-54323-01",
+    "metadata": {
+      "email": "ce.cio54-briey@ac-nancy-metz.fr",
+      "telephone": "03 82 46 23 85",
+      "url": "http://www.ac-nancy-metz.fr"
+    }
+  },
+  {
+    "id": "a370bad558e5c15757e6dba4af17d0bade79b1b0",
+    "alternateName": "CIO",
+    "name": "centre_dinformation_et_dorientation_cio_brignoles",
+    "title": "Centre d’information et d’orientation (CIO) - Brignoles",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/var/cio-83023-01",
+    "metadata": {
+      "email": "cio.brignoles@ac-nice.fr",
+      "telephone": "04 94 69 08 55",
+      "url": "http://www.ciobrignoles.fr"
+    }
+  },
+  {
+    "id": "b6c83cbd82ebe6b99c08d797dd38aefb8d173011",
+    "alternateName": "CIO",
+    "name": "centre_dinformation_et_dorientation_cio_brioude",
+    "title": "Centre d’information et d’orientation (CIO) - Brioude",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/haute-loire/cio-43040-01",
+    "metadata": {
+      "email": "cio.brioude@ac-clermont.fr",
+      "telephone": "04 71 50 23 10",
+      "url": "http://www.ac-clermont.fr/cio/brioude/"
+    }
+  },
+  {
+    "id": "05d072f6f4ca7fc45ed68ab72c9f9672dc4bc15d",
+    "alternateName": "CIO",
+    "name": "centre_dinformation_et_dorientation_cio_brive_la_gaillarde",
+    "title": "Centre d’information et d’orientation (CIO) - Brive-la-Gaillarde",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/correze/cio-19031-01",
+    "metadata": {
+      "email": "ce.cio.brive@ac-limoges.fr",
+      "telephone": "05 87 01 21 19",
+      "url": "http://www.ac-limoges.fr"
+    }
+  },
+  {
+    "id": "8ea06766d18e2d22ffcec68893748fc80596b753",
+    "alternateName": "CIO",
+    "name": "centre_dinformation_et_dorientation_cio_bruay_la_buissiere",
+    "title": "Centre d’information et d’orientation (CIO) - Bruay-la-Buissière",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/pas-de-calais/cio-62178-01",
+    "metadata": {
+      "email": "ce.0620207n@ac-lille.fr",
+      "telephone": "03 21 62 46 85",
+      "url": "http://www.education.gouv.fr"
+    }
+  },
+  {
+    "id": "8cff9a4558d9cd2f2fbec542f44ef870c35b92be",
+    "alternateName": "CIO",
+    "name": "centre_dinformation_et_dorientation_cio_brunoy",
+    "title": "Centre d’information et d’orientation (CIO) - Brunoy",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/essonne/cio-91114-01",
+    "metadata": {
+      "email": "cio-brunoy@ac-versailles.fr",
+      "telephone": "01 60 46 07 56",
+      "url": "http://www.ac-versailles.frcio-brunoy"
+    }
+  },
+  {
+    "id": "71ede023df88f881844524509de50b4c4ab91340",
+    "alternateName": "CIO",
+    "name": "centre_dinformation_et_dorientation_cio_caen",
+    "title": "Centre d’information et d’orientation (CIO) - Caen",
+    "url": "https://lannuaire.service-public.fr/normandie/calvados/cio-14118-01",
+    "metadata": {
+      "email": "cio.caen2@ac-caen.fr",
+      "telephone": "02 31 85 48 09",
+      "url": "http://www.ac-normandie.fr/scolarite-etudes/orientation-enseignement-superieur/centres-d-information-et-d-orientation/"
+    }
+  },
+  {
+    "id": "61f9ea4eb60b35be06caef16277d9cde7dc8454f",
+    "alternateName": "CIO",
+    "name": "centre_dinformation_et_dorientation_cio_cahors",
+    "title": "Centre d’information et d’orientation (CIO) - Cahors",
+    "url": "https://lannuaire.service-public.fr/occitanie/lot/cio-46042-01",
+    "metadata": {
+      "email": "cio.cahors@ac-toulouse.fr",
+      "telephone": "05 65 30 19 05",
+      "url": "http://www.education.gouv.fr"
+    }
+  },
+  {
+    "id": "ea147174cf3066808b6f4245718f4942d9c03d49",
+    "alternateName": "CIO",
+    "name": "centre_dinformation_et_dorientation_cio_calais",
+    "title": "Centre d’information et d’orientation (CIO) - Calais",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/pas-de-calais/cio-62193-01",
+    "metadata": {
+      "email": "ce.0620202h@ac-lille.fr",
+      "telephone": "03 21 36 45 32",
+      "url": "http://www.ac-lille.fr"
+    }
+  },
+  {
+    "id": "f4a5a6323111c70c2522ebac07838ea848221f12",
+    "alternateName": "CIO",
+    "name": "centre_dinformation_et_dorientation_cio_cambrai",
+    "title": "Centre d’information et d’orientation (CIO) - Cambrai",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/nord/cio-59122-01",
+    "metadata": {
+      "email": "cio.cambrai@ac-lille.fr",
+      "telephone": "03 27 81 25 85",
+      "url": "http://www.education.gouv.fr"
+    }
+  },
+  {
+    "id": "f167c116c7f7b4dccb7f80b2612b4e415c736c9d",
+    "alternateName": "CIO",
+    "name": "centre_dinformation_et_dorientation_cio_cannes",
+    "title": "Centre d’information et d’orientation (CIO) - Cannes",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/oise/cio-60029-01",
+    "metadata": {
+      "email": "cio.cannes@ac-nice.fr",
+      "telephone": "04 93 43 78 33",
+      "url": "http://www.ac-nice.fr"
+    }
+  },
+  {
+    "id": "d4d902acdc62e40c5d775355631011a86a695fe8",
+    "alternateName": "CIO",
+    "name": "centre_dinformation_et_dorientation_cio_carcassonne",
+    "title": "Centre d’information et d’orientation (CIO) - Carcassonne",
+    "url": "https://lannuaire.service-public.fr/occitanie/aude/cio-11069-01",
+    "metadata": {
+      "email": "ce.0110035d@ac-montpellier.fr",
+      "telephone": "04 34 42 91 90",
+      "url": "https://www.ac-montpellier.fr/cid87173/cio-carcassonne.html"
+    }
+  },
+  {
+    "id": "8c101bfabc85d877e28f9cfeaebac6bd24beea28",
+    "alternateName": "CIO",
+    "name": "centre_dinformation_et_dorientation_cio_carhaix_plouguer",
+    "title": "Centre d’information et d’orientation (CIO) - Carhaix-Plouguer",
+    "url": "https://lannuaire.service-public.fr/bretagne/finistere/cio-29024-01",
+    "metadata": {
+      "email": "cio.carhaix@ac-rennes.fr",
+      "telephone": "02 98 93 01 02",
+      "url": "http://www.ac-rennes.fr/ac-rennes/cid104560/cio-de-carhaix.html"
+    }
+  },
+  {
+    "id": "8a4fd0411216c370639ff57b24ac9f1d3895cb6d",
+    "alternateName": "CIO",
+    "name": "centre_dinformation_et_dorientation_cio_castelnaudary",
+    "title": "Centre d’information et d’orientation (CIO) - Castelnaudary",
+    "url": "https://lannuaire.service-public.fr/occitanie/aude/cio-11076-01",
+    "metadata": {
+      "email": "ce.0110843g@ac-montpellier.fr",
+      "telephone": "04 34 42 91 88",
+      "url": "https://www.ac-montpellier.fr/cid87174/centre-d-information-et-d-orientation-de-castelnaudary.html"
+    }
+  },
+  {
+    "id": "e5940d422e8deabe1655b6f4a29fee95deba0278",
+    "alternateName": "CIO",
+    "name": "centre_dinformation_et_dorientation_cio_castelsarrasin",
+    "title": "Centre d’information et d’orientation (CIO) - Castelsarrasin",
+    "url": "https://lannuaire.service-public.fr/occitanie/tarn-et-garonne/cio-82033-01",
+    "metadata": {
+      "email": "cio.castelsarrasin@ac-toulouse.fr",
+      "telephone": "05 36 25 74 99",
+      "url": "http://www.education.gouv.fr"
+    }
+  },
+  {
+    "id": "546a1cbf777e36f61c912b8f39c19aa873029c62",
+    "alternateName": "CIO",
+    "name": "centre_dinformation_et_dorientation_cio_castres",
+    "title": "Centre d’information et d’orientation (CIO) - Castres",
+    "url": "https://lannuaire.service-public.fr/occitanie/tarn/cio-81065-01",
+    "metadata": {
+      "email": "cio.castres@ac-toulouse.fr",
+      "telephone": "05 67 76 57 90",
+      "url": ""
+    }
+  },
+  {
+    "id": "9531f8c30bf1be0ed8fc899ea94ef717900f295d",
+    "alternateName": "CIO",
+    "name": "centre_dinformation_et_dorientation_cio_cavaillon",
+    "title": "Centre d’information et d’orientation (CIO) - Cavaillon",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/vaucluse/cio-84035-01",
+    "metadata": {
+      "email": "ce.cio.cavaillon@ac-aix-marseille.fr",
+      "telephone": "04 32 50 06 20",
+      "url": "http://www.cio-vaucluse.ac-aix-marseille.fr"
+    }
+  },
+  {
+    "id": "279a793cb6d3ba889fec6ed0f5547c58502376eb",
+    "alternateName": "CIO",
+    "name": "centre_dinformation_et_dorientation_cio_cayenne",
+    "title": "Centre d’information et d’orientation (CIO) - Cayenne",
+    "url": "https://lannuaire.service-public.fr/guyane/guyane/cio-97302-01",
+    "metadata": {
+      "email": "cio.cayenne@ac-guyane.fr",
+      "telephone": "05 94 27 21 34",
+      "url": "http://www.ac-guyane.fr"
+    }
+  },
+  {
+    "id": "1d31592239d3ebf64d4b3b6944a59cc478ccc8d8",
+    "alternateName": "CIO",
+    "name": "centre_dinformation_et_dorientation_cio_cenon",
+    "title": "Centre d’information et d’orientation (CIO) - Cenon",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/gironde/cio-33119-01",
+    "metadata": {
+      "email": "ce.ciocenon@ac-bordeaux.fr",
+      "telephone": "05 56 86 41 20",
+      "url": "http://www.ac-bordeaux.fr/cid78498/cio-de-cenon.html"
+    }
+  },
+  {
+    "id": "a6e3eeae775e889bc07975286a4ca3f6d9b16e64",
+    "alternateName": "CIO",
+    "name": "centre_dinformation_et_dorientation_cio_ceret",
+    "title": "Centre d’information et d’orientation (CIO) - Céret",
+    "url": "https://lannuaire.service-public.fr/occitanie/pyrenees-orientales/cio-66049-01",
+    "metadata": {
+      "email": "ce.0660575s@ac-montpellier.fr",
+      "telephone": "04 68 87 02 07",
+      "url": "http://www.ac-montpellier.fr"
+    }
+  },
+  {
+    "id": "c9f3eae6d97170d5961d379a761a231fa8605f63",
+    "alternateName": "CIO",
+    "name": "centre_dinformation_et_dorientation_cio_cergy_pontoise",
+    "title": "Centre d’information et d’orientation (CIO) - Cergy-Pontoise",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/val-d-oise/cio-95127-01",
+    "metadata": {
+      "email": "cio-cergy@ac-versailles.fr",
+      "telephone": "01 34 33 37 00",
+      "url": "http://www.ac-versailles.fr"
+    }
+  },
+  {
+    "id": "dda1377eda39807360343bcda20df6529ee58c7b",
+    "alternateName": "CIO",
+    "name": "centre_dinformation_et_dorientation_cio_chalons_en_champagne",
+    "title": "Centre d’information et d’orientation (CIO) - Châlons-en-Champagne",
+    "url": "https://lannuaire.service-public.fr/grand-est/marne/cio-51108-01",
+    "metadata": {
+      "email": "ce.0510073c@ac-reims.fr",
+      "telephone": "03 26 26 97 10",
+      "url": "http://www.education.gouv.fr"
+    }
+  },
+  {
+    "id": "c177e36a4c43da82c5d0d18b90ffe3752af46ac5",
+    "alternateName": "CIO",
+    "name": "centre_dinformation_et_dorientation_cio_chalon_sur_saone",
+    "title": "Centre d’information et d’orientation (CIO) - Chalon-sur-Saône",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/saone-et-loire/cio-71076-01",
+    "metadata": {
+      "email": "cio.chalon@ac-dijon.fr",
+      "telephone": "03 85 90 93 00",
+      "url": "http://www.ac-dijon.fr"
+    }
+  },
+  {
+    "id": "36e50a2f6b1f156f38177ca810bfc99b178e62ec",
+    "alternateName": "CIO",
+    "name": "centre_dinformation_et_dorientation_cio_chambery",
+    "title": "Centre d’information et d’orientation (CIO) - Chambéry",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/savoie/cio-73065-01",
+    "metadata": {
+      "email": "cio-chambery@ac-grenoble.fr",
+      "telephone": "04 79 33 84 00",
+      "url": "http://www.ac-grenoble.fr/cio-chambery"
+    }
+  },
+  {
+    "id": "8cfc09369a26edd4f6043a4987b29c1528ff602e",
+    "alternateName": "CIO",
+    "name": "centre_dinformation_et_dorientation_cio_champigny_sur_marne",
+    "title": "Centre d’information et d’orientation (CIO) - Champigny-sur-Marne",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/val-de-marne/cio-94017-01",
+    "metadata": {
+      "email": "cio.champigny@ac-creteil.fr",
+      "telephone": "01 48 80 98 31",
+      "url": "http://orientation.ac-creteil.fr"
+    }
+  },
+  {
+    "id": "506e2333f7a23d7d9a06b693e04ce8a7e0effb69",
+    "alternateName": "CIO",
+    "name": "centre_dinformation_et_dorientation_cio_charenton_le_pont",
+    "title": "Centre d’information et d’orientation (CIO) - Charenton-le-Pont",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/val-de-marne/cio-94018-01",
+    "metadata": {
+      "email": "cio.charenton@ac-creteil.fr",
+      "telephone": "01 43 68 15 79",
+      "url": "http://orientation.ac-creteil.fr"
+    }
+  },
+  {
+    "id": "9e69d51ebc35f52d0ef0100be4dbe49643d9080a",
+    "alternateName": "CIO",
+    "name": "centre_dinformation_et_dorientation_cio_charleville_mezieres",
+    "title": "Centre d’information et d’orientation (CIO) - Charleville-Mézières",
+    "url": "https://lannuaire.service-public.fr/grand-est/ardennes/cio-08105-01",
+    "metadata": {
+      "email": "cio-charleville@ac-reims.fr",
+      "telephone": "03 24 33 08 08",
+      "url": "http://www.ac-reims.fr/cid75520/cio-charleville-mezieres.html"
+    }
+  },
+  {
+    "id": "51294408e7935483457103f4ff7e14c04a6b4333",
+    "alternateName": "CIO",
+    "name": "centre_dinformation_et_dorientation_cio_chartres",
+    "title": "Centre d’information et d’orientation (CIO) - Chartres",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/eure-et-loir/cio-28085-01",
+    "metadata": {
+      "email": "ce.ciochartres@ac-orleans-tours.fr",
+      "telephone": "02 38 83 49 96",
+      "url": "https://www.ac-orleans-tours.fr/orientation/les_services_dinformation_et_dorientation/centres_dinformation_et_dorientation/cio_de_chartres/"
+    }
+  },
+  {
+    "id": "68922bcd950e2cda9c6b391f4f1f3ca5b849ad43",
+    "alternateName": "CIO",
+    "name": "centre_dinformation_et_dorientation_cio_chateaubriant",
+    "title": "Centre d’information et d’orientation (CIO) - Châteaubriant",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/loire-atlantique/cio-44036-01",
+    "metadata": {
+      "email": "cio.chateaubriant@ac-nantes.fr",
+      "telephone": "02 40 81 14 09",
+      "url": "http://cio44.ac-nantes.fr"
+    }
+  },
+  {
+    "id": "b3138740ae24fa7ea8adf599c7c1e3101b5cc0fc",
+    "alternateName": "CIO",
+    "name": "centre_dinformation_et_dorientation_cio_chateaudun",
+    "title": "Centre d’information et d’orientation (CIO) - Châteaudun",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/eure-et-loir/cio-28088-01",
+    "metadata": {
+      "email": "ce.ciochateaudun@ac-orleans-tours.fr",
+      "telephone": "02 38 83 49 99",
+      "url": "https://www.ac-orleans-tours.fr/orientation/les_services_dinformation_et_dorientation/centres_dinformation_et_dorientation/cio_de_chateaudun/"
+    }
+  },
+  {
+    "id": "0f3326025bc74f0d0c388395503c8f8e286ba753",
+    "alternateName": "CIO",
+    "name": "centre_dinformation_et_dorientation_cio_chateau_gontier",
+    "title": "Centre d’information et d’orientation (CIO) - Château-Gontier",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/mayenne/cio-53062-01",
+    "metadata": {
+      "email": "cio.mayennesud@ac-nantes.fr",
+      "telephone": "02 43 53 60 22",
+      "url": "http://cio53.ac-nantes.fr"
+    }
+  },
+  {
+    "id": "2670e6d8f70e8236f7500ab5721a6397137e0f77",
+    "alternateName": "CIO",
+    "name": "centre_dinformation_et_dorientation_cio_chateauroux",
+    "title": "Centre d’information et d’orientation (CIO) - Châteauroux",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/indre/cio-36044-01",
+    "metadata": {
+      "email": "ce.ciochateauroux@ac-orleans-tours.fr",
+      "telephone": "02 38 83 49 07",
+      "url": "http://www.education.gouv.fr"
+    }
+  },
+  {
+    "id": "70b4a76607c2c2c9f215d7145c3483f87ac25f63",
+    "alternateName": "CIO",
+    "name": "centre_dinformation_et_dorientation_cio_chateau_thierry",
+    "title": "Centre d’information et d’orientation (CIO) - Château-Thierry",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/aisne/cio-02168-01",
+    "metadata": {
+      "email": "ce.0020082d@ac-amiens.fr",
+      "telephone": "03 23 83 10 65",
+      "url": "http://cio.ac-amiens.fr/les-cio-et-points-d-accueil-de-l-academie-d-amiens/"
+    }
+  },
+  {
+    "id": "18da947b885ebf2948fa6e51bf0388d5c5d257a2",
+    "alternateName": "CIO",
+    "name": "centre_dinformation_et_dorientation_cio_chatellerault",
+    "title": "Centre d’information et d’orientation (CIO) - Châtellerault",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/vienne/cio-86066-01",
+    "metadata": {
+      "email": "cio-chatellerault@ac-poitiers.fr",
+      "telephone": "05 16 52 69 61",
+      "url": "http://www.ac-poitiers.fr"
+    }
+  },
+  {
+    "id": "bcaef4f7bdba0a4484f53f0c5dde13bd23583e38",
+    "alternateName": "CIO",
+    "name": "centre_dinformation_et_dorientation_cio_chaumont_langres",
+    "title": "Centre d’information et d’orientation (CIO) - Chaumont-Langres",
+    "url": "https://lannuaire.service-public.fr/grand-est/haute-marne/cio-52121-01",
+    "metadata": {
+      "email": "ce.0520036g@ac-reims.fr",
+      "telephone": "03 25 32 66 80",
+      "url": "http://www.ac-reims.fr"
+    }
+  },
+  {
+    "id": "b56b422d23d70ada240a168928684536cdc9ea50",
+    "alternateName": "CIO",
+    "name": "centre_dinformation_et_dorientation_cio_chelles",
+    "title": "Centre d’information et d’orientation (CIO) - Chelles",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/seine-et-marne/cio-77108-01",
+    "metadata": {
+      "email": "",
+      "telephone": "01 60 08 35 07",
+      "url": ""
+    }
+  },
+  {
+    "id": "d988c0471c6437731caee3ad174195e2701f0079",
+    "alternateName": "CIO",
+    "name": "centre_dinformation_et_dorientation_cio_cherbourg_en_cotentin",
+    "title": "Centre d’information et d’orientation (CIO) - Cherbourg-en-Cotentin",
+    "url": "https://lannuaire.service-public.fr/normandie/manche/cio-50129-01",
+    "metadata": {
+      "email": "cio.cherbourg@ac-caen.fr",
+      "telephone": "02 33 53 53 21",
+      "url": "http://www.ac-caen.fr"
+    }
+  },
+  {
+    "id": "cffc7b2e4ce887ac438b952d83cf1d9356a307cd",
+    "alternateName": "CIO",
+    "name": "centre_dinformation_et_dorientation_cio_chinon",
+    "title": "Centre d’information et d’orientation (CIO) - Chinon",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/indre-et-loire/cio-37072-01",
+    "metadata": {
+      "email": "ce.ciochinon@ac-orleans-tours.fr",
+      "telephone": "02 38 83 49 71",
+      "url": "http://www.ac-orleans-tours.fr"
+    }
+  },
+  {
+    "id": "82a4dc435745ac55071c7bf4c1c280e08136864c",
+    "alternateName": "CIO",
+    "name": "centre_dinformation_et_dorientation_cio_choisy_le_roi",
+    "title": "Centre d’information et d’orientation (CIO) - Choisy-le-Roi",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/val-de-marne/cio-94022-01",
+    "metadata": {
+      "email": "",
+      "telephone": "01 48 52 30 18",
+      "url": "http://orientation.ac-creteil.fr/cio-choisyleroi/"
+    }
+  },
+  {
+    "id": "1435e30bfc8ee59238a93b86a7ff0f7569a28e4b",
+    "alternateName": "CIO",
+    "name": "centre_dinformation_et_dorientation_cio_cholet",
+    "title": "Centre d’information et d’orientation (CIO) - Cholet",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/maine-et-loire/cio-49099-01",
+    "metadata": {
+      "email": "cio.cholet@ac-nantes.fr",
+      "telephone": "02 41 46 02 66",
+      "url": "http://www.cio49.ac-nantes.fr"
+    }
+  },
+  {
+    "id": "c77f06bcb360d16a97375b9265c2d5d3d860e7f8",
+    "alternateName": "CIO",
+    "name": "centre_dinformation_et_dorientation_cio_clamart",
+    "title": "Centre d’information et d’orientation (CIO) - Clamart",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/hauts-de-seine/cio-92023-01",
+    "metadata": {
+      "email": "cio-clamart@ac-versailles.fr",
+      "telephone": "01 46 42 92 91",
+      "url": "http://www.ac-versailles.frcid108940/c-clamart.html"
+    }
+  },
+  {
+    "id": "2c56a406e2b8767379c61236ad893df642503b7e",
+    "alternateName": "CIO",
+    "name": "centre_dinformation_et_dorientation_cio_clermont",
+    "title": "Centre d’information et d’orientation (CIO) - Clermont",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/oise/cio-60157-01",
+    "metadata": {
+      "email": "ce.0601505k@ac-amiens.fr",
+      "telephone": "03 44 50 09 23",
+      "url": "http://www.ac-amiens.fr"
+    }
+  },
+  {
+    "id": "69772681452bdce383ba63802a1a0350d696e0fa",
+    "alternateName": "CIO",
+    "name": "centre_dinformation_et_dorientation_cio_clermont_ferrand",
+    "title": "Centre d’information et d’orientation (CIO) - Clermont-Ferrand",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/puy-de-dome/cio-63113-01",
+    "metadata": {
+      "email": "cio.clermont-ferrand@ac-clermont.fr",
+      "telephone": "04 73 17 04 10",
+      "url": "http://www.ac-clermont.fr/cio/clermont-ferrand/"
+    }
+  },
+  {
+    "id": "f9c7fd08a3fbb7de868a8e5a573596375fad8eed",
+    "alternateName": "CIO",
+    "name": "centre_dinformation_et_dorientation_cio_cluses",
+    "title": "Centre d’information et d’orientation (CIO) - Cluses",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/haute-savoie/cio-74081-01",
+    "metadata": {
+      "email": "cio-cluses@ac-grenoble.fr",
+      "telephone": "04 50 98 78 88",
+      "url": "https://cio.web.ac-grenoble.fr/cio-de-cluses"
+    }
+  },
+  {
+    "id": "f9ecf08915c5238a95c0762a8b14a80dd25959bf",
+    "alternateName": "CIO",
+    "name": "centre_dinformation_et_dorientation_cio_cognac",
+    "title": "Centre d’information et d’orientation (CIO) - Cognac",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/charente/cio-16102-01",
+    "metadata": {
+      "email": "cio-cognac@ac-poitiers.fr",
+      "telephone": "05 16 52 69 18",
+      "url": "http://www.cio.ac-poitiers.fr/cognac"
+    }
+  },
+  {
+    "id": "13df5f3df633da765829995559bbad9f97f77110",
+    "alternateName": "CIO",
+    "name": "centre_dinformation_et_dorientation_cio_colmar",
+    "title": "Centre d’information et d’orientation (CIO) - Colmar",
+    "url": "https://lannuaire.service-public.fr/grand-est/haut-rhin/cio-68066-01",
+    "metadata": {
+      "email": "cio.colmar@ac-strasbourg.fr",
+      "telephone": "03 89 24 81 62",
+      "url": "http://www.ac-strasbourg.fr"
+    }
+  },
+  {
+    "id": "db17152a4ffee986f4f4f3ca32c8e35ead5b4712",
+    "alternateName": "CIO",
+    "name": "centre_dinformation_et_dorientation_cio_colombes",
+    "title": "Centre d’information et d’orientation (CIO) - Colombes",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/hauts-de-seine/cio-92025-01",
+    "metadata": {
+      "email": "ce.0920659s@ac-versailles.fr",
+      "telephone": "01 42 42 17 34",
+      "url": "http://www.ac-versailles.fr"
+    }
+  },
+  {
+    "id": "54368bfbf5f08045efd67e7169f9cb894abf5ad7",
+    "alternateName": "CIO",
+    "name": "centre_dinformation_et_dorientation_cio_compiegne",
+    "title": "Centre d’information et d’orientation (CIO) - Compiègne",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/oise/cio-60159-01",
+    "metadata": {
+      "email": "cio60.compiegne@ac-amiens.fr",
+      "telephone": "03 60 01 99 80",
+      "url": "http://www.ac-amiens.fr"
+    }
+  },
+  {
+    "id": "9a28598c7b504941fa1dc462100795e23e0f09e1",
+    "alternateName": "CIO",
+    "name": "centre_dinformation_et_dorientation_cio_condom",
+    "title": "Centre d’information et d’orientation (CIO) - Condom",
+    "url": "https://lannuaire.service-public.fr/occitanie/gers/cio-32107-01",
+    "metadata": {
+      "email": "cio.condom@ac-toulouse.fr",
+      "telephone": "05 67 76 51 82",
+      "url": "http://www.ac-toulouse.fr/cid73822/cio-condom.html"
+    }
+  },
+  {
+    "id": "1d0ad0ed7ec00fc78be18ecfc4805c4a15cee9bc",
+    "alternateName": "CIO",
+    "name": "centre_dinformation_et_dorientation_cio_corbeil_essonnes",
+    "title": "Centre d’information et d’orientation (CIO) - Corbeil-Essonnes",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/essonne/cio-91174-01",
+    "metadata": {
+      "email": "cio-corbeil@ac-versailles.fr",
+      "telephone": "01 64 96 19 84",
+      "url": "http://www.ac-versailles.frcid108745/c-corbeil-essonnes.html"
+    }
+  },
+  {
+    "id": "5d1d8ff433ff570857727a2fef92a8f17dde0a3e",
+    "alternateName": "CIO",
+    "name": "centre_dinformation_et_dorientation_cio_corte",
+    "title": "Centre d’information et d’orientation (CIO) - Corte",
+    "url": "https://lannuaire.service-public.fr/corse/haute-corse/cio-2B096-01",
+    "metadata": {
+      "email": "cio-corte@ac-corse.fr",
+      "telephone": "04 95 45 00 21",
+      "url": "http://www.ac-corse.fr"
+    }
+  },
+  {
+    "id": "9f9a636eb0d710616e4c52c1db76a63939ab7aa6",
+    "alternateName": "CIO",
+    "name": "centre_dinformation_et_dorientation_cio_cosne_cours_sur_loire",
+    "title": "Centre d’information et d’orientation (CIO) - Cosne-Cours-sur-Loire",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/nievre/cio-58086-01",
+    "metadata": {
+      "email": "cio.cosne@ac-dijon.fr",
+      "telephone": "03 86 28 80 30",
+      "url": "http://www.ac-dijon.fr"
+    }
+  },
+  {
+    "id": "422eb50fa76d737f077e98950e962fb2368bcd50",
+    "alternateName": "CIO",
+    "name": "centre_dinformation_et_dorientation_cio_coulommiers",
+    "title": "Centre d’information et d’orientation (CIO) - Coulommiers",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/seine-et-marne/cio-77131-01",
+    "metadata": {
+      "email": "cio.coulommiers@ac-creteil.fr",
+      "telephone": "01 64 20 72 78",
+      "url": "http://orientation.ac-creteil.frcio-coulommiers"
+    }
+  },
+  {
+    "id": "9ace5c97d3c46de110594bd0ccf005a5d199d564",
+    "alternateName": "CIO",
+    "name": "centre_dinformation_et_dorientation_cio_creil",
+    "title": "Centre d’information et d’orientation (CIO) - Creil",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/oise/cio-60175-01",
+    "metadata": {
+      "email": "ce.0600069z@ac-amiens.fr",
+      "telephone": "03 44 64 16 19",
+      "url": "http://www.ac-amiens.fr"
+    }
+  },
+  {
+    "id": "273e0997d26faf3a509a5b8a57c730c6457f426d",
+    "alternateName": "CIO",
+    "name": "centre_dinformation_et_dorientation_cio_creteil",
+    "title": "Centre d’information et d’orientation (CIO) - Créteil",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/val-de-marne/cio-94028-01",
+    "metadata": {
+      "email": "cio.creteil@ac-creteil.fr",
+      "telephone": "01 49 56 06 94",
+      "url": "http://orientation.ac-creteil.frcio-creteil"
+    }
+  },
+  {
+    "id": "7d8fb4862cbf98b0bbf66643aa35ed3c812bfd6a",
+    "alternateName": "CIO",
+    "name": "centre_dinformation_et_dorientation_cio_dax",
+    "title": "Centre d’information et d’orientation (CIO) - Dax",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/landes/cio-40088-01",
+    "metadata": {
+      "email": "ce.ciodax@ac-bordeaux.fr",
+      "telephone": "05 58 74 70 34",
+      "url": "http://www.ac-bordeaux.fr"
+    }
+  },
+  {
+    "id": "68fce84cc36bb39d26cdc161e85d82648ef6cfa3",
+    "alternateName": "CIO",
+    "name": "centre_dinformation_et_dorientation_cio_decazeville",
+    "title": "Centre d’information et d’orientation (CIO) - Decazeville",
+    "url": "https://lannuaire.service-public.fr/occitanie/aveyron/cio-12089-01",
+    "metadata": {
+      "email": "cio.decazeville@ac-toulouse.fr",
+      "telephone": "05 65 43 17 88",
+      "url": "http://www.ac-toulouse.fr/cid73706/cio-decazeville-villefranche.html"
+    }
+  },
+  {
+    "id": "72f935cd70572853e718751432035d8a67b03707",
+    "alternateName": "CIO",
+    "name": "centre_dinformation_et_dorientation_cio_departemental_nevers",
+    "title": "Centre d’information et d’orientation (CIO) départemental - Nevers",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/nievre/cio-58194-01",
+    "metadata": {
+      "email": "cio.nevers@ac-dijon.fr",
+      "telephone": "03 86 71 99 30",
+      "url": "http://www.ac-dijon.fr"
+    }
+  },
+  {
+    "id": "4228367d252e52885ca8b2080176bc1b2f6824d1",
+    "alternateName": "CIO",
+    "name": "centre_dinformation_et_dorientation_cio_dieppe",
+    "title": "Centre d’information et d’orientation (CIO) - Dieppe",
+    "url": "https://lannuaire.service-public.fr/normandie/seine-maritime/cio-76217-01",
+    "metadata": {
+      "email": "0760152c@ac-rouen.fr",
+      "telephone": "02 35 84 28 08",
+      "url": "http://cio.spip.ac-rouen.fr/spip.php?article177"
+    }
+  },
+  {
+    "id": "1cbef52aa2baab5a38d5106d9ff77ac9710655f6",
+    "alternateName": "CIO",
+    "name": "centre_dinformation_et_dorientation_cio_digne_les_bains",
+    "title": "Centre d’information et d’orientation (CIO) - Digne-les-Bains",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/alpes-de-haute-provence/cio-04070-01",
+    "metadata": {
+      "email": "ce.cio.digne@ac-aix-marseille.fr",
+      "telephone": "04 86 89 40 60",
+      "url": "http://www.cio-digne-manosque.ac-aix-marseille.fr"
+    }
+  },
+  {
+    "id": "40444c586d227db2a387b20f3d3fe644e1dcc077",
+    "alternateName": "CIO",
+    "name": "centre_dinformation_et_dorientation_cio_dijon_1",
+    "title": "Centre d’information et d’orientation (CIO) - Dijon 1",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/cote-d-or/cio-21231-02",
+    "metadata": {
+      "email": "cio.dijon1@ac-dijon.fr",
+      "telephone": "03 80 30 56 52",
+      "url": "http://www.ac-dijon.fr/pid29174/dijon.html"
+    }
+  },
+  {
+    "id": "b9ee29293a05c53a13413e4e1d68df252da0b086",
+    "alternateName": "CIO",
+    "name": "centre_dinformation_et_dorientation_cio_dijon_2",
+    "title": "Centre d’information et d’orientation (CIO) - Dijon 2",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/cote-d-or/cio-21231-01",
+    "metadata": {
+      "email": "cio.dijon2@ac-dijon.fr",
+      "telephone": "03 80 45 11 34",
+      "url": "http://www.ac-dijon.fr/pid29174/dijon.html"
+    }
+  },
+  {
+    "id": "7e04e862c7d63b8d5abaaac77c4e5f29f1aa2e5b",
+    "alternateName": "CIO",
+    "name": "centre_dinformation_et_dorientation_cio_dinan",
+    "title": "Centre d’information et d’orientation (CIO) - Dinan",
+    "url": "https://lannuaire.service-public.fr/bretagne/cotes-d-armor/cio-22050-01",
+    "metadata": {
+      "email": "cio.dinan@ac-rennes.fr",
+      "telephone": "02 96 39 07 16",
+      "url": "http://www.ac-rennes.fr/ac-rennes/cid104563/cio-de-dinan.html"
+    }
+  },
+  {
+    "id": "e20b56556faa3645b433721cc95a7bd58b520741",
+    "alternateName": "CIO",
+    "name": "centre_dinformation_et_dorientation_cio_douai",
+    "title": "Centre d’information et d’orientation (CIO) - Douai",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/nord/cio-59178-01",
+    "metadata": {
+      "email": "ce.0596954n@ac-lille.fr",
+      "telephone": "03 27 08 80 95",
+      "url": "http://cio.douaisis.free.fr"
+    }
+  },
+  {
+    "id": "b6105eceb85a75fe6d723b50fd22724f955e50ea",
+    "alternateName": "CIO",
+    "name": "centre_dinformation_et_dorientation_cio_draguignan",
+    "title": "Centre d’information et d’orientation (CIO) - Draguignan",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/var/cio-83050-01",
+    "metadata": {
+      "email": "cio.draguignan@ac-nice.fr",
+      "telephone": "04 94 68 19 52",
+      "url": ""
+    }
+  },
+  {
+    "id": "0d9fecdc0b1040037acab0f773d588f9692c6f06",
+    "alternateName": "CIO",
+    "name": "centre_dinformation_et_dorientation_cio_drancy",
+    "title": "Centre d’information et d’orientation (CIO) - Drancy",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/seine-saint-denis/cio-93029-01",
+    "metadata": {
+      "email": "cio.drancy@ac-creteil.fr",
+      "telephone": "01 48 95 21 21",
+      "url": "http://www.orientation.ac-creteil.fr"
+    }
+  },
+  {
+    "id": "724fde0372eae2fc54396377b464fd12792dbf41",
+    "alternateName": "CIO",
+    "name": "centre_dinformation_et_dorientation_cio_dreux",
+    "title": "Centre d’information et d’orientation (CIO) - Dreux",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/eure-et-loir/cio-28134-01",
+    "metadata": {
+      "email": "ce.ciodreux@ac-orleans-tours.fr",
+      "telephone": "02 38 83 49 76",
+      "url": "https://www.ac-orleans-tours.fr/orientation/les_services_dinformation_et_dorientation/centres_dinformation_et_dorientation/cio_de_dreux/"
+    }
+  },
+  {
+    "id": "7e1a9fb1b7aaa2c75bbe75e3f4744a9f3c020d4a",
+    "alternateName": "CIO",
+    "name": "centre_dinformation_et_dorientation_cio_elancourt",
+    "title": "Centre d’information et d’orientation (CIO) - Élancourt",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/yvelines/cio-78208-01",
+    "metadata": {
+      "email": "",
+      "telephone": "01 30 16 08 30",
+      "url": "http://www.ac-versailles.fr/cid106265/c-elancourt.html"
+    }
+  },
+  {
+    "id": "76765c1deec1a4a73f01630061079f5358951354",
+    "alternateName": "CIO",
+    "name": "centre_dinformation_et_dorientation_cio_elbeuf",
+    "title": "Centre d’information et d’orientation (CIO) - Elbeuf",
+    "url": "https://lannuaire.service-public.fr/normandie/seine-maritime/cio-76231-01",
+    "metadata": {
+      "email": "cio.elbeuf@ac-rouen.fr",
+      "telephone": "02 32 08 90 09",
+      "url": "http://cio.spip.ac-rouen.fr"
+    }
+  },
+  {
+    "id": "a7de7b5bdb8e6fbed70dfd103786902adcd51a64",
+    "alternateName": "CIO",
+    "name": "centre_dinformation_et_dorientation_cio_epernay",
+    "title": "Centre d’information et d’orientation (CIO) - Épernay",
+    "url": "https://lannuaire.service-public.fr/grand-est/marne/cio-51230-01",
+    "metadata": {
+      "email": "cio-epernay@ac-reims.fr",
+      "telephone": "03 26 55 25 66",
+      "url": "http://www.education.gouv.fr"
+    }
+  },
+  {
+    "id": "24512014cd3da70a13f08249461fe3260536828c",
+    "alternateName": "CIO",
+    "name": "centre_dinformation_et_dorientation_cio_epinal_remiremont",
+    "title": "Centre d’information et d’orientation (CIO) - Épinal-Remiremont",
+    "url": "https://lannuaire.service-public.fr/grand-est/vosges/cio-88160-01",
+    "metadata": {
+      "email": "ce.cio88-epinal@ac-nancy-metz.fr",
+      "telephone": "03 29 82 20 94",
+      "url": "http://www.ac-nancy-metz.fr"
+    }
+  },
+  {
+    "id": "cdf30449fa0d817ed9600fed640b822f87899252",
+    "alternateName": "CIO",
+    "name": "centre_dinformation_et_dorientation_cio_epinay_sur_seine",
+    "title": "Centre d’information et d’orientation (CIO) - Épinay-sur-Seine",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/seine-saint-denis/cio-93031-01",
+    "metadata": {
+      "email": "cio.epinay@ac-creteil.fr",
+      "telephone": "01 42 35 40 82",
+      "url": "http://www.education.gouv.fr"
+    }
+  },
+  {
+    "id": "60b449c39aa05524bdd4b710f7f747e078705805",
+    "alternateName": "CIO",
+    "name": "centre_dinformation_et_dorientation_cio_ermont",
+    "title": "Centre d’information et d’orientation (CIO) - Ermont",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/val-d-oise/cio-95219-01",
+    "metadata": {
+      "email": "cio-ermont@ac-versailles.fr",
+      "telephone": "01 34 15 71 60",
+      "url": "http://www.ac-versailles.fr"
+    }
+  },
+  {
+    "id": "d90612f07c210d1eeb0b0cb38086558871c66770",
+    "alternateName": "CIO",
+    "name": "centre_dinformation_et_dorientation_cio_etampes",
+    "title": "Centre d’information et d’orientation (CIO) - Étampes",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/essonne/cio-91223-01",
+    "metadata": {
+      "email": "cio-etampes@ac-versailles.fr",
+      "telephone": "01 69 92 10 60",
+      "url": "http://www.ac-versailles.fr"
+    }
+  },
+  {
+    "id": "12f73fc132262f5902da584d0424861f8aee7438",
+    "alternateName": "CIO",
+    "name": "centre_dinformation_et_dorientation_cio_d_etat_aubagne",
+    "title": "Centre d’information et d’orientation (CIO) d'Etat - Aubagne",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/cio-13005-01",
+    "metadata": {
+      "email": "ce.cio.aubagne@ac-aix-marseille.fr",
+      "telephone": "04 42 70 37 58",
+      "url": "http://www.cio-aubagne.ac-aix-marseille.fr"
+    }
+  },
+  {
+    "id": "219c47954e4a662343541cd4e42dc3fb9c0178d1",
+    "alternateName": "CIO",
+    "name": "centre_dinformation_et_dorientation_cio_d_etat_dole",
+    "title": "Centre d’information et d’orientation (CIO) d'Etat - Dole",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/jura/cio-39198-01",
+    "metadata": {
+      "email": "cio.dole@ac-besancon.fr",
+      "telephone": "03 84 82 01 26",
+      "url": "http://cio-dole.ac-besancon.fr/"
+    }
+  },
+  {
+    "id": "0e4bb1f3c6b75d2a9eac28c5f9f97dfa860e00e2",
+    "alternateName": "CIO",
+    "name": "centre_dinformation_et_dorientation_cio_d_etat_lons_le_saunier",
+    "title": "Centre d’information et d’orientation (CIO) d'Etat - Lons-le-Saunier",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/jura/cio-39300-01",
+    "metadata": {
+      "email": "cio.lons@ac-besancon.fr",
+      "telephone": "03 84 87 00 50",
+      "url": "http://cio-lons.ac-besancon.fr/"
+    }
+  },
+  {
+    "id": "48ef8bed5ddd4b8711cf9e231358552044913077",
+    "alternateName": "CIO",
+    "name": "centre_dinformation_et_dorientation_cio_d_etat_perpignan_sud",
+    "title": "Centre d’information et d’orientation (CIO) d'Etat - Perpignan Sud",
+    "url": "https://lannuaire.service-public.fr/occitanie/pyrenees-orientales/cio-66136-02",
+    "metadata": {
+      "email": "ce.0660667s@ac-montpellier.fr",
+      "telephone": "04 68 50 20 86",
+      "url": "http://www.ac-montpellier.fr"
+    }
+  },
+  {
+    "id": "458acc988e5f5c909f79dabbd1e1224114d3be51",
+    "alternateName": "CIO",
+    "name": "centre_dinformation_et_dorientation_cio_eu",
+    "title": "Centre d’information et d’orientation (CIO) - Eu",
+    "url": "https://lannuaire.service-public.fr/normandie/seine-maritime/cio-76255-01",
+    "metadata": {
+      "email": "0762407d@ac-rouen.fr",
+      "telephone": "02 35 86 43 05",
+      "url": "http://www.ac-rouen.fr"
+    }
+  },
+  {
+    "id": "4eac6b9af11b4712980a8f833afda6d2580e6301",
+    "alternateName": "CIO",
+    "name": "centre_dinformation_et_dorientation_cio_evreux",
+    "title": "Centre d’information et d’orientation (CIO) - Évreux",
+    "url": "https://lannuaire.service-public.fr/normandie/eure/cio-27229-01",
+    "metadata": {
+      "email": "cio.evreux@ac-rouen.fr",
+      "telephone": "02 32 08 97 46",
+      "url": "http://cio.spip.ac-rouen.fr/spip.php?article137"
+    }
+  },
+  {
+    "id": "b4d09ec5e7c6cdbc3aadb724d72caa8e9f4908a8",
+    "alternateName": "CIO",
+    "name": "centre_dinformation_et_dorientation_cio_evry",
+    "title": "Centre d’information et d’orientation (CIO) - Évry",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/essonne/cio-91228-01",
+    "metadata": {
+      "email": "cio-evry@ac-versailles.fr",
+      "telephone": "01 69 36 09 00",
+      "url": "http://www.ac-versailles.frcid108799/c-evry.html"
+    }
+  },
+  {
+    "id": "9682826363d444b69ec2c6c5f22062b26d511b71",
+    "alternateName": "CIO",
+    "name": "centre_dinformation_et_dorientation_cio_fecamp",
+    "title": "Centre d’information et d’orientation (CIO) - Fécamp",
+    "url": "https://lannuaire.service-public.fr/normandie/seine-maritime/cio-76259-01",
+    "metadata": {
+      "email": "cio.fecamp@ac-rouen.fr",
+      "telephone": "02 32 08 99 93",
+      "url": "http://cio.spip.ac-rouen.fr"
+    }
+  },
+  {
+    "id": "99a3f88cb1f131edbbc278a0ccd2071745c78350",
+    "alternateName": "CIO",
+    "name": "centre_dinformation_et_dorientation_cio_figeac",
+    "title": "Centre d’information et d’orientation (CIO) - Figeac",
+    "url": "https://lannuaire.service-public.fr/occitanie/lot/cio-46102-01",
+    "metadata": {
+      "email": "cio.figeac@ac-toulouse.fr",
+      "telephone": "05 67 76 55 66",
+      "url": "http://www.education.gouv.fr"
+    }
+  },
+  {
+    "id": "0fd2d5cbbb0272ceb4a08252f730021911b230ce",
+    "alternateName": "CIO",
+    "name": "centre_dinformation_et_dorientation_cio_flers",
+    "title": "Centre d’information et d’orientation (CIO) - Flers",
+    "url": "https://lannuaire.service-public.fr/normandie/orne/cio-61169-01",
+    "metadata": {
+      "email": "cio.flers@ac-caen.fr",
+      "telephone": "02 33 65 34 32",
+      "url": "http://www.ac-caen.fr"
+    }
+  },
+  {
+    "id": "3f60c149a614fb59e409505f86555ef5b70cdcce",
+    "alternateName": "CIO",
+    "name": "centre_dinformation_et_dorientation_cio_foix",
+    "title": "Centre d’information et d’orientation (CIO) - Foix",
+    "url": "https://lannuaire.service-public.fr/occitanie/ariege/cio-09122-01",
+    "metadata": {
+      "email": "cio.foix@ac-toulouse.fr",
+      "telephone": "05 67 76 52 94",
+      "url": "http://www.ac-toulouse.fr/cid71484/cio-ariege.html"
+    }
+  },
+  {
+    "id": "63acf43b08f5fa192bf5be6b3a889b49b02878cb",
+    "alternateName": "CIO",
+    "name": "centre_dinformation_et_dorientation_cio_fontainebleau_avon",
+    "title": "Centre d’information et d’orientation (CIO) - Fontainebleau - Avon",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/seine-et-marne/cio-77186-01",
+    "metadata": {
+      "email": "cio.fontainebleau@ac-creteil.fr",
+      "telephone": "01 64 22 32 41",
+      "url": ""
+    }
+  },
+  {
+    "id": "7082b404b31b4874cabdcfebd9c4abd3c5bb92e4",
+    "alternateName": "CIO",
+    "name": "centre_dinformation_et_dorientation_cio_forbach",
+    "title": "Centre d’information et d’orientation (CIO) - Forbach",
+    "url": "https://lannuaire.service-public.fr/grand-est/moselle/cio-57227-01",
+    "metadata": {
+      "email": "ce.cio57-forbach@ac-nancy-metz.fr",
+      "telephone": "03 87 87 69 27",
+      "url": "http://www.ac-nancy-metz.fr"
+    }
+  },
+  {
+    "id": "3d5d931473b5d902d0b85a77935077ae3edb8a4d",
+    "alternateName": "CIO",
+    "name": "centre_dinformation_et_dorientation_cio_fougeres",
+    "title": "Centre d’information et d’orientation (CIO) - Fougères",
+    "url": "https://lannuaire.service-public.fr/bretagne/ille-et-vilaine/cio-35115-01",
+    "metadata": {
+      "email": "cio.fougeres@ac-rennes.fr",
+      "telephone": "02 90 80 50 05",
+      "url": "http://ciofougeres35.free.fr"
+    }
+  },
+  {
+    "id": "ad8457c0f1ffa5e45e3dab425f949e2bf27d4633",
+    "alternateName": "CIO",
+    "name": "centre_dinformation_et_dorientation_cio_frejus",
+    "title": "Centre d’information et d’orientation (CIO) - Fréjus",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/var/cio-83061-01",
+    "metadata": {
+      "email": "cio.frejus@ac-nice.fr",
+      "telephone": "04 94 19 52 40",
+      "url": "http://www.education.gouv.fr"
+    }
+  },
+  {
+    "id": "2baeeef7a32c0a9d8e0c3a09069853c918ba8c81",
+    "alternateName": "CIO",
+    "name": "centre_dinformation_et_dorientation_cio_gagny",
+    "title": "Centre d’information et d’orientation (CIO) - Gagny",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/seine-saint-denis/cio-93032-01",
+    "metadata": {
+      "email": "cio.gagny@ac-creteil.fr",
+      "telephone": "01 43 81 38 85",
+      "url": "http://orientation.ac-creteil.fr/cio-gagny/"
+    }
+  },
+  {
+    "id": "5433d2916c26cbde39f6f3822c2dd57118c2c640",
+    "alternateName": "CIO",
+    "name": "centre_dinformation_et_dorientation_cio_gap",
+    "title": "Centre d’information et d’orientation (CIO) - Gap",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/hautes-alpes/cio-05061-01",
+    "metadata": {
+      "email": "ce.cio.gap@ac-aix-marseille.fr",
+      "telephone": "04 92 51 16 08",
+      "url": "http://www.cio-digne-manosque.ac-aix-marseille.fr"
+    }
+  },
+  {
+    "id": "1ac8e84bbccde8f2140f58814575a1b0f4fa1c17",
+    "alternateName": "CIO",
+    "name": "centre_dinformation_et_dorientation_cio_gardanne",
+    "title": "Centre d’information et d’orientation (CIO) - Gardanne",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/cio-13041-01",
+    "metadata": {
+      "email": "ce.cio.gardanne@ac-aix-marseille.fr",
+      "telephone": "04 42 12 61 86",
+      "url": "https://www.ville-gardanne.fr/Centre-d-information-et-d"
+    }
+  },
+  {
+    "id": "c3faaff1206736822d3b23f03a56a4dc97f88a7c",
+    "alternateName": "CIO",
+    "name": "centre_dinformation_et_dorientation_cio_gennevilliers",
+    "title": "Centre d’information et d’orientation (CIO) - Gennevilliers",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/hauts-de-seine/cio-92036-01",
+    "metadata": {
+      "email": "ce.0921678z@ac-versailles.fr",
+      "telephone": "01 47 92 79 68",
+      "url": "http://www.ac-versailles.fr"
+    }
+  },
+  {
+    "id": "cbe362e58d56ef526ff0af48d1ce4a739d70379c",
+    "alternateName": "CIO",
+    "name": "centre_dinformation_et_dorientation_cio_gien",
+    "title": "Centre d’information et d’orientation (CIO) - Gien",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/loiret/cio-45155-01",
+    "metadata": {
+      "email": "ce.ciogien@ac-orleans-tours.fr",
+      "telephone": "02 38 83 49 93",
+      "url": ""
+    }
+  },
+  {
+    "id": "5132bfe0eb4b56be6947eb4ce6d4fef72ae9e88c",
+    "alternateName": "CIO",
+    "name": "centre_dinformation_et_dorientation_cio_givors",
+    "title": "Centre d’information et d’orientation (CIO) - Givors",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/rhone/cio-69091-01",
+    "metadata": {
+      "email": "cio-givors@ac-lyon.fr",
+      "telephone": "04 72 24 16 44",
+      "url": "http://givors.cio.ac-lyon.fr/spip/"
+    }
+  },
+  {
+    "id": "303e388c28f42d3f90b4af3eccf4c7021bb7a50d",
+    "alternateName": "CIO",
+    "name": "centre_dinformation_et_dorientation_cio_gonesse",
+    "title": "Centre d’information et d’orientation (CIO) - Gonesse",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/val-d-oise/cio-95277-01",
+    "metadata": {
+      "email": "cio-gonesse@ac-versailles.fr",
+      "telephone": "01 34 45 15 70",
+      "url": "http://www.ac-versailles.fr"
+    }
+  },
+  {
+    "id": "d8d4584cd5a9eb916dd470277da13a0fc9cac08a",
+    "alternateName": "CIO",
+    "name": "centre_dinformation_et_dorientation_cio_grasse",
+    "title": "Centre d’information et d’orientation (CIO) - Grasse",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/oise/cio-60069-01",
+    "metadata": {
+      "email": "cio.grasse@ac-nice.fr",
+      "telephone": "04 93 36 47 17",
+      "url": "http://www.education.gouv.fr"
+    }
+  },
+  {
+    "id": "ccc90053eabd8e8d3792ca6db382ceed15b24889",
+    "alternateName": "CIO",
+    "name": "centre_dinformation_et_dorientation_cio_grenoble_olympique",
+    "title": "Centre d’information et d’orientation (CIO) - Grenoble-Olympique",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/isere/cio-38185-01",
+    "metadata": {
+      "email": "cio-grenoble-olympique@ac-grenoble.fr",
+      "telephone": "04 76 25 22 80",
+      "url": "https://cio.web.ac-grenoble.frcio-grenoble-olympique"
+    }
+  },
+  {
+    "id": "c1eebd8c5eac225dcd2c27909fa9f1ac37563433",
+    "alternateName": "CIO",
+    "name": "centre_dinformation_et_dorientation_cio_guebwiller",
+    "title": "Centre d’information et d’orientation (CIO) - Guebwiller",
+    "url": "https://lannuaire.service-public.fr/grand-est/haut-rhin/cio-68112-01",
+    "metadata": {
+      "email": "cio.guebwiller@ac-strasbourg.fr",
+      "telephone": "03 89 62 16 62",
+      "url": "http://www.ac-strasbourg.fr"
+    }
+  },
+  {
+    "id": "0640952a39c554d7e78187e6b4e3f6e20a14ca8c",
+    "alternateName": "CIO",
+    "name": "centre_dinformation_et_dorientation_cio_gueret",
+    "title": "Centre d’information et d’orientation (CIO) - Guéret",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/creuse/cio-23096-01",
+    "metadata": {
+      "email": "ce.cio.creuse@ac-limoges.fr",
+      "telephone": "05 87 86 61 60",
+      "url": "http://www.ac-limoges.fr/dsden23/cid88110/centre-d-information-et-d-orientation.html"
+    }
+  },
+  {
+    "id": "99994762d14de180ec7be58172199650250dd3d8",
+    "alternateName": "CIO",
+    "name": "centre_dinformation_et_dorientation_cio_guingamp",
+    "title": "Centre d’information et d’orientation (CIO) - Guingamp",
+    "url": "https://lannuaire.service-public.fr/bretagne/cotes-d-armor/cio-22070-01",
+    "metadata": {
+      "email": "cio.guingamp@ac-rennes.fr",
+      "telephone": "02 96 43 82 04",
+      "url": "http://www.ac-rennes.fr/ac-rennes/cid104587/cio-de-guingamp.html"
+    }
+  },
+  {
+    "id": "d3c5d18ab85ab0ba2e206a2a87b54624e0d0a195",
+    "alternateName": "CIO",
+    "name": "centre_dinformation_et_dorientation_cio_haguenau",
+    "title": "Centre d’information et d’orientation (CIO) - Haguenau",
+    "url": "https://lannuaire.service-public.fr/grand-est/bas-rhin/cio-67180-01",
+    "metadata": {
+      "email": "cio.haguenau@ac-strasbourg.fr",
+      "telephone": "03 88 93 82 71",
+      "url": "http://www.education.gouv.fr"
+    }
+  },
+  {
+    "id": "89ce48b8c54b0a18c98f42965686c7715c38c67d",
+    "alternateName": "CIO",
+    "name": "centre_dinformation_et_dorientation_cio_haut_vaucluse",
+    "title": "Centre d’information et d’orientation (CIO) - Haut-Vaucluse",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/vaucluse/cio-84031-01",
+    "metadata": {
+      "email": "ce.cio.hautvaucluse@ac-aix-marseille.fr",
+      "telephone": "04 90 63 20 62",
+      "url": "http://www.cio-vaucluse.ac-aix-marseille.fr"
+    }
+  },
+  {
+    "id": "1c5265f594cf42514cf80ccd8df9399970b69085",
+    "alternateName": "CIO",
+    "name": "centre_dinformation_et_dorientation_cio_hayange",
+    "title": "Centre d’information et d’orientation (CIO) - Hayange",
+    "url": "https://lannuaire.service-public.fr/grand-est/moselle/cio-57306-01",
+    "metadata": {
+      "email": "ce.cio57-hayange@ac-nancy-metz.fr",
+      "telephone": "03 82 85 51 58",
+      "url": "http://www.ac-nancy-metz.fr"
+    }
+  },
+  {
+    "id": "8813883154d770f2979b7fb59666ee4e65e29f73",
+    "alternateName": "CIO",
+    "name": "centre_dinformation_et_dorientation_cio_henin_beaumont",
+    "title": "Centre d’information et d’orientation (CIO) - Hénin-Beaumont",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/pas-de-calais/cio-62427-01",
+    "metadata": {
+      "email": "ce.0620201g@ac-lille.fr",
+      "telephone": "03 21 20 03 23",
+      "url": "http://www.ac-lille.fr"
+    }
+  },
+  {
+    "id": "a95a51a6e9c53b91b7781ff478ffb0d792acfa39",
+    "alternateName": "CIO",
+    "name": "centre_dinformation_et_dorientation_cio_herouville_saint_clair",
+    "title": "Centre d’information et d’orientation (CIO) - Hérouville-Saint-Clair",
+    "url": "https://lannuaire.service-public.fr/normandie/calvados/cio-14327-01",
+    "metadata": {
+      "email": "cio.herouville@ac-caen.fr",
+      "telephone": "02 31 95 21 90",
+      "url": "http://www.ac-normandie.fr/scolarite-etudes/orientation-enseignement-superieur/centres-d-information-et-d-orientation/centres-d-information-et-d-orientation-248868.kjsp"
+    }
+  },
+  {
+    "id": "312b6c8f5e036395a0ec33500c0a9a3933b6aa57",
+    "alternateName": "CIO",
+    "name": "centre_dinformation_et_dorientation_cio_hyeres",
+    "title": "Centre d’information et d’orientation (CIO) - Hyères",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/var/cio-83069-01",
+    "metadata": {
+      "email": "cio.hyeres@ac-nice.fr",
+      "telephone": "04 94 65 34 37",
+      "url": "http://www.education.gouv.fr"
+    }
+  },
+  {
+    "id": "c6e86943e97552910d71c6e9446dfe0944141afa",
+    "alternateName": "CIO",
+    "name": "centre_dinformation_et_dorientation_cio_illkirch",
+    "title": "Centre d’information et d’orientation (CIO) - Illkirch",
+    "url": "https://lannuaire.service-public.fr/grand-est/bas-rhin/cio-67218-01",
+    "metadata": {
+      "email": "cio.illkirch@ac-strasbourg.fr",
+      "telephone": "03 88 67 08 39",
+      "url": "http://www.ac-strasbourg.fr"
+    }
+  },
+  {
+    "id": "d6a0ddaec77004242fb684fdc4b5264bb7baf8e5",
+    "alternateName": "CIO",
+    "name": "centre_dinformation_et_dorientation_cio_issoire",
+    "title": "Centre d’information et d’orientation (CIO) - Issoire",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/puy-de-dome/cio-63178-01",
+    "metadata": {
+      "email": "cio.issoire@ac-clermont.fr",
+      "telephone": "04 73 89 13 05",
+      "url": "http://www.ac-clermont.fr/cio/issoire"
+    }
+  },
+  {
+    "id": "47f6c8546e744a23ed4a4a17f9fdd53f50a2b3de",
+    "alternateName": "CIO",
+    "name": "centre_dinformation_et_dorientation_cio_issoudun",
+    "title": "Centre d’information et d’orientation (CIO) - Issoudun",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/indre/cio-36088-01",
+    "metadata": {
+      "email": "ce.cioissoudun@ac-orleans-tours.fr",
+      "telephone": "02 38 83 49 44",
+      "url": "http://www.ac-orleans-tours.fr"
+    }
+  },
+  {
+    "id": "76f76f13137a39327189c1c209ebb53b9dc773aa",
+    "alternateName": "CIO",
+    "name": "centre_dinformation_et_dorientation_cio_istres",
+    "title": "Centre d’information et d’orientation (CIO) - Istres",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/cio-13047-01",
+    "metadata": {
+      "email": "ce.cio.istres@ac-aix-marseille.fr",
+      "telephone": "04 42 55 38 18",
+      "url": "http://www.ac-aix-marseille.fr/cid79644/les-centres-information-orientation-cio.html"
+    }
+  },
+  {
+    "id": "97f8914153e3472e86e58f3c3b4c70dab9544579",
+    "alternateName": "CIO",
+    "name": "centre_dinformation_et_dorientation_cio_ivry_sur_seine",
+    "title": "Centre d’information et d’orientation (CIO) - Ivry-sur-Seine",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/val-de-marne/cio-94041-01",
+    "metadata": {
+      "email": "cio.ivry@ac-creteil.fr",
+      "telephone": "01 46 72 78 20",
+      "url": "http://orientation.ac-creteil.fr/cio-ivry/"
+    }
+  },
+  {
+    "id": "bc60ffdd6bafc07d91bd532da00fc2229d51a427",
+    "alternateName": "CIO",
+    "name": "centre_dinformation_et_dorientation_cio_jonzac",
+    "title": "Centre d’information et d’orientation (CIO) - Jonzac",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/charente-maritime/cio-17197-01",
+    "metadata": {
+      "email": "cio-jonzac@ac-poitiers.fr",
+      "telephone": "05 16 52 69 27",
+      "url": "http://www.cio.ac-poitiers.fr/jonzac"
+    }
+  },
+  {
+    "id": "e69466d53529f624c0bd946603dbb90adfa48248",
+    "alternateName": "CIO",
+    "name": "centre_dinformation_et_dorientation_cio_joue_les_tours",
+    "title": "Centre d’information et d’orientation (CIO) - Joué-lès-Tours",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/indre-et-loire/cio-37122-01",
+    "metadata": {
+      "email": "ciojoue@ac_orleans_tours.fr",
+      "telephone": "02 38 83 49 41",
+      "url": "http://www.ac-orleans-tours.frorientation/les_services_dinformation_et_dorientation/centres_dinformation_et_dorientation/cio_de_joue_les_tours"
+    }
+  },
+  {
+    "id": "50474025eab19f3477c24b884a5b950dc4648280",
+    "alternateName": "CIO",
+    "name": "centre_dinformation_et_dorientation_cio_kourou",
+    "title": "Centre d’information et d’orientation (CIO) - Kourou",
+    "url": "https://lannuaire.service-public.fr/guyane/guyane/cio-97304-01",
+    "metadata": {
+      "email": "cio.kourou@ac-guyane.fr",
+      "telephone": "+594 5 94 32 63 29",
+      "url": "http://www.ac-guyane.fr"
+    }
+  },
+  {
+    "id": "3e0d22ddcd1dd757e443172c4fc609d1590d7ef0",
+    "alternateName": "CIO",
+    "name": "centre_dinformation_et_dorientation_cio_l_aigle",
+    "title": "Centre d’information et d’orientation (CIO) - L'Aigle",
+    "url": "https://lannuaire.service-public.fr/normandie/orne/cio-61214-01",
+    "metadata": {
+      "email": "cio.laigle@ac-caen.fr",
+      "telephone": "02 33 24 22 84",
+      "url": "http://www.ac-caen.fr"
+    }
+  }
+]

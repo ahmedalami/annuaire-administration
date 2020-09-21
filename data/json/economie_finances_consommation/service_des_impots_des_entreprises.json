@@ -1,0 +1,1993 @@
+[
+  {
+    "id": "0a089d3f3f36cdec447396df1be2dc3389d90e30",
+    "alternateName": "SIE",
+    "name": "service_des_impots_des_entreprises",
+    "title": "Service des impôts des entreprises",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/territoire-de-belfort/sie-90010-01",
+    "metadata": {
+      "email": "sie.belfort@dgfip.finances.gouv.fr",
+      "telephone": "03 84 58 81 27",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "0a089d3f3f36cdec447396df1be2dc3389d90e30",
+    "alternateName": "SIE",
+    "name": "service_des_impots_des_entreprises",
+    "title": "Service des impôts des entreprises",
+    "url": "https://lannuaire.service-public.fr/occitanie/haute-garonne/sie-31044-01",
+    "metadata": {
+      "email": "sie.balma@dgfip.finances.gouv.fr",
+      "telephone": "05 62 57 28 10",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "0a089d3f3f36cdec447396df1be2dc3389d90e30",
+    "alternateName": "SIE",
+    "name": "service_des_impots_des_entreprises",
+    "title": "Service des impôts des entreprises",
+    "url": "https://lannuaire.service-public.fr/occitanie/haute-garonne/sie-31149-01",
+    "metadata": {
+      "email": "sie.colomiers@dgfip.finances.gouv.fr",
+      "telephone": "05 62 74 23 40",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "0a089d3f3f36cdec447396df1be2dc3389d90e30",
+    "alternateName": "SIE",
+    "name": "service_des_impots_des_entreprises",
+    "title": "Service des impôts des entreprises",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/essonne/sie-91377-01",
+    "metadata": {
+      "email": "",
+      "telephone": "01 69 93 58 00",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "0a089d3f3f36cdec447396df1be2dc3389d90e30",
+    "alternateName": "SIE",
+    "name": "service_des_impots_des_entreprises",
+    "title": "Service des impôts des entreprises",
+    "url": "https://lannuaire.service-public.fr/occitanie/haute-garonne/sie-31395-01",
+    "metadata": {
+      "email": "sie.muret@dgfip.finances.gouv.fr",
+      "telephone": "05 62 23 12 50",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "c2546499ba5c722e0f8a36e97821102d4abf78c0",
+    "alternateName": "SIE",
+    "name": "service_des_impots_des_entreprises_sie_du_centre_des_finances_publiques_de_saint_gaudens",
+    "title": "Service des impôts des entreprises (SIE) du centre des finances publiques de Saint-Gaudens",
+    "url": "https://lannuaire.service-public.fr/occitanie/haute-garonne/sie-31483-01",
+    "metadata": {
+      "email": "sie.saint-gaudens@dgfip.finances.gouv.fr",
+      "telephone": "05 61 94 85 20",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "0a089d3f3f36cdec447396df1be2dc3389d90e30",
+    "alternateName": "SIE",
+    "name": "service_des_impots_des_entreprises",
+    "title": "Service des impôts des entreprises",
+    "url": "https://lannuaire.service-public.fr/occitanie/haute-garonne/sie-31555-01",
+    "metadata": {
+      "email": "sie.toulouse-cite@dgfip.finances.gouv.fr",
+      "telephone": "05 34 44 80 80",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "0a089d3f3f36cdec447396df1be2dc3389d90e30",
+    "alternateName": "SIE",
+    "name": "service_des_impots_des_entreprises",
+    "title": "Service des impôts des entreprises",
+    "url": "https://lannuaire.service-public.fr/occitanie/haute-garonne/sie-31555-07",
+    "metadata": {
+      "email": "sie.toulouse-mirail@dgfip.finances.gouv.fr",
+      "telephone": "05 61 76 00 01",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "0a089d3f3f36cdec447396df1be2dc3389d90e30",
+    "alternateName": "SIE",
+    "name": "service_des_impots_des_entreprises",
+    "title": "Service des impôts des entreprises",
+    "url": "https://lannuaire.service-public.fr/occitanie/haute-garonne/sie-31555-03",
+    "metadata": {
+      "email": "sie.toulouse-nord-ouest@dgfip.finances.gouv.fr",
+      "telephone": "05 34 44 81 81",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "0a089d3f3f36cdec447396df1be2dc3389d90e30",
+    "alternateName": "SIE",
+    "name": "service_des_impots_des_entreprises",
+    "title": "Service des impôts des entreprises",
+    "url": "https://lannuaire.service-public.fr/occitanie/haute-garonne/sie-31555-06",
+    "metadata": {
+      "email": "sie.toulouse-rangueil@dgfip.finances.gouv.fr",
+      "telephone": "05 34 31 12 12",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "aec772dc9c2a3af9e770ce9b2ce9e786a41d6f31",
+    "alternateName": "SIE",
+    "name": "service_impots_des_entreprises_sie_service_impots_des_particuliers_sip_du_centre_des_finances_publiques_de_condom",
+    "title": "Service impôts des entreprises (SIE) - Service impôts des particuliers (SIP) du centre des finances publiques de Condom",
+    "url": "https://lannuaire.service-public.fr/occitanie/gers/sie-32107-01",
+    "metadata": {
+      "email": "sip-sie.condom@dgfip.finances.gouv.fr",
+      "telephone": "05 62 68 31 50",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "718be8f1e82e6ced941eedddef6646314620e993",
+    "name": "service_des_impots_des_entreprises_du_centre_des_finances_publiques_d_abbeville",
+    "title": "Service des impôts des entreprises du centre des finances publiques d'Abbeville",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/somme/sie-80001-01",
+    "metadata": {
+      "email": "sie.abbeville@dgfip.finances.gouv.fr",
+      "telephone": "03 22 25 49 00",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "919c29525a7174fc4c66ca0b0fbbbf01768e9509",
+    "name": "service_des_impots_des_entreprises_du_centre_des_finances_publiques_d_agen",
+    "title": "Service des impôts des entreprises du centre des finances publiques d'Agen",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/lot-et-garonne/sie-47001-01",
+    "metadata": {
+      "email": "sie.agen@dgfip.finances.gouv.fr",
+      "telephone": "05 53 69 19 73",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "27e63e03f8ac03bd2d99f24c18b21f1a6b75c340",
+    "name": "service_des_impots_des_entreprises_du_centre_des_finances_publiques_d_aix_en_provence_nord",
+    "title": "Service des impôts des entreprises du centre des finances publiques d'Aix-en-Provence Nord",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/sie-13001-01",
+    "metadata": {
+      "email": "sie.aix-en-provence-nord@dgfip.finances.gouv.fr",
+      "telephone": "04 42 69 41 03",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "c2e9a8c208a86005d3c3949a5ab4be329a12a739",
+    "name": "service_des_impots_des_entreprises_du_centre_des_finances_publiques_d_aix_en_provence_sud",
+    "title": "Service des impôts des entreprises du centre des finances publiques d'Aix-en-Provence Sud",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/sie-13001-02",
+    "metadata": {
+      "email": "sie.aix-en-provence-sud@dgfip.finances.gouv.fr",
+      "telephone": "04 42 69 41 04",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "b3e70c199da2fc859e1bdaf5852ce1d13d8e85a5",
+    "name": "service_des_impots_des_entreprises_du_centre_des_finances_publiques_d_aix_les_bains",
+    "title": "Service des impôts des entreprises du centre des finances publiques d'Aix-les-Bains",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/savoie/sie-73008-01",
+    "metadata": {
+      "email": "sip-sie.aix-les-bains@dgfip.finances.gouv.fr",
+      "telephone": "04 79 35 76 00",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "d9f87941c8d15cb851ccdb886fe33bd870d1870b",
+    "name": "service_des_impots_des_entreprises_du_centre_des_finances_publiques_d_ajaccio",
+    "title": "Service des impôts des entreprises du centre des finances publiques d'Ajaccio",
+    "url": "https://lannuaire.service-public.fr/corse/corse-du-sud/sie-2A004-01",
+    "metadata": {
+      "email": "sie.ajaccio@dgfip.finances.gouv.fr",
+      "telephone": "04 95 50 36 00",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "fcee0b5d34800787faa220c3912247ccc8258147",
+    "name": "service_des_impots_des_entreprises_du_centre_des_finances_publiques_d_albertville",
+    "title": "Service des impôts des entreprises du centre des finances publiques d'Albertville",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/savoie/sie-73011-01",
+    "metadata": {
+      "email": "sip-sie.albertville@dgfip.finances.gouv.fr",
+      "telephone": "04 79 10 01 00",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "5b02ab89abda8c635726709803a117f662a05fdc",
+    "name": "service_des_impots_des_entreprises_du_centre_des_finances_publiques_d_albi",
+    "title": "Service des impôts des entreprises du centre des finances publiques d'Albi",
+    "url": "https://lannuaire.service-public.fr/occitanie/tarn/sie-81004-01",
+    "metadata": {
+      "email": "sie.albi@dgfip.finances.gouv.fr",
+      "telephone": "05 63 48 89 89",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "55ce1f4aadcb7368f9681412ac5fe7177a62bf57",
+    "name": "service_des_impots_des_entreprises_du_centre_des_finances_publiques_d_alencon",
+    "title": "Service des impôts des entreprises du centre des finances publiques d'Alençon",
+    "url": "https://lannuaire.service-public.fr/normandie/orne/sie-61001-01",
+    "metadata": {
+      "email": "sie.alencon@dgfip.finances.gouv.fr",
+      "telephone": "02 33 32 71 23",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "30482f86ee3e2feaaf4ad098afa23ca1bc4375e9",
+    "name": "service_des_impots_des_entreprises_du_centre_des_finances_publiques_d_ales",
+    "title": "Service des impôts des entreprises du centre des finances publiques d'Alès",
+    "url": "https://lannuaire.service-public.fr/occitanie/gard/sie-30294-01",
+    "metadata": {
+      "email": "sie.ales@dgfip.finances.gouv.fr",
+      "telephone": "04 66 78 42 75",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "ba5fef2596b81b393eff43de2fa630efafaebd7e",
+    "name": "service_des_impots_des_entreprises_du_centre_des_finances_publiques_d_altkirch",
+    "title": "Service des impôts des entreprises du centre des finances publiques d'Altkirch",
+    "url": "https://lannuaire.service-public.fr/grand-est/haut-rhin/sie-68004-01",
+    "metadata": {
+      "email": "sip-sie.altkirch@dgfip.finances.gouv.fr",
+      "telephone": "03 89 08 90 73",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "cd6e94053ac7aea8f2e39020138d8d6026f2ff0c",
+    "name": "service_des_impots_des_entreprises_du_centre_des_finances_publiques_d_amberieu_en_bugey",
+    "title": "Service des impôts des entreprises du centre des finances publiques d'Ambérieu-en-Bugey",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/ain/sie-01004-01",
+    "metadata": {
+      "email": "sip-sie.amberieu-en-bugey@dgfip.finances.gouv.fr",
+      "telephone": "04 74 38 70 89",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "686539bfbb9b604eee8c323a1c9f8b6991fd9763",
+    "name": "service_des_impots_des_entreprises_du_centre_des_finances_publiques_d_ambert",
+    "title": "Service des impôts des entreprises du centre des finances publiques d'Ambert",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/puy-de-dome/sie-63003-01",
+    "metadata": {
+      "email": "sip-sie.ambert@dgfip.finances.gouv.fr",
+      "telephone": "04 73 82 54 08",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "4c5b87da29f7f45eeb8a075282192f0e372160e2",
+    "name": "service_des_impots_des_entreprises_du_centre_des_finances_publiques_d_amboise",
+    "title": "Service des impôts des entreprises du centre des finances publiques d'Amboise",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/indre-et-loire/sie-37003-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 47 23 43 43",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "afd408f07ed55d7dc54a5813079bf4c8b16feb4f",
+    "name": "service_des_impots_des_entreprises_du_centre_des_finances_publiques_d_amiens_nord_est",
+    "title": "Service des impôts des entreprises du centre des finances publiques d'Amiens Nord-Est",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/somme/sie-80021-02",
+    "metadata": {
+      "email": "sie.amiens-nord-est@dgfip.finances.gouv.fr",
+      "telephone": "03 22 46 83 83",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "6fda5373b600236f3f67b8d9c8041538a10aeb42",
+    "name": "service_des_impots_des_entreprises_du_centre_des_finances_publiques_d_amiens_sud_ouest",
+    "title": "Service des impôts des entreprises du centre des finances publiques d'Amiens Sud Ouest",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/somme/sie-80021-04",
+    "metadata": {
+      "email": "sie.amiens-sud-ouest@dgfip.finances.gouv.fr",
+      "telephone": "03 22 46 83 83",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "725d7a36b02ed0c7c141017d930fb5c52e75ecca",
+    "name": "service_des_impots_des_entreprises_du_centre_des_finances_publiques_d_ancenis",
+    "title": "Service des impôts des entreprises du centre des finances publiques d'Ancenis",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/loire-atlantique/sie-44003-01",
+    "metadata": {
+      "email": "sip-sie.ancenis@dgfip.finances.gouv.fr",
+      "telephone": "02 40 09 14 14",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "2b45bb49f28ba4536eca79a59e782ab1e75ca6ab",
+    "name": "service_des_impots_des_entreprises_du_centre_des_finances_publiques_des_andelys",
+    "title": "Service des impôts des entreprises du centre des finances publiques des Andelys",
+    "url": "https://lannuaire.service-public.fr/normandie/eure/sie-27016-01",
+    "metadata": {
+      "email": "sip-sie.les-andelys@dgfip.finances.gouv.fr",
+      "telephone": "02 32 54 74 10",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "1dcd9abfb9cc057a52be46679f16f38fed0378a8",
+    "name": "service_des_impots_des_entreprises_du_centre_des_finances_publiques_d_angers_est",
+    "title": "Service des impôts des entreprises du centre des finances publiques d'Angers Est",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/maine-et-loire/sie-49007-01",
+    "metadata": {
+      "email": "sie.angers-est@dgfip.finances.gouv.fr",
+      "telephone": "02 41 74 53 85",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "ee326a716f3e1d65a715fb27d807e4d37a2ccefd",
+    "name": "service_des_impots_des_entreprises_du_centre_des_finances_publiques_d_angers_ouest",
+    "title": "Service des impôts des entreprises du centre des finances publiques d'Angers Ouest",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/maine-et-loire/sie-49007-02",
+    "metadata": {
+      "email": "sie.angers-ouest@dgfip.finances.gouv.fr",
+      "telephone": "02 41 74 53 86",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "b588bd096cb2fb667ded6a438bdc9d0c2a6d122d",
+    "name": "service_des_impots_des_entreprises_du_centre_des_finances_publiques_d_angouleme",
+    "title": "Service des impôts des entreprises du centre des finances publiques d'Angoulême",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/charente/sie-16374-01",
+    "metadata": {
+      "email": "sie.angouleme@dgfip.finances.gouv.fr",
+      "telephone": "05 45 97 57 00",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "7ad367c44dde9a2bbc5df9dedc3a5610dfb84f9f",
+    "name": "service_des_impots_des_entreprises_du_centre_des_finances_publiques_d_annecy",
+    "title": "Service des impôts des entreprises du centre des finances publiques d'Annecy",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/haute-savoie/sie-74010-01",
+    "metadata": {
+      "email": "sie.annecy@dgfip.finances.gouv.fr",
+      "telephone": "04 50 88 40 06",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "7377213c6d9ed8226b807297ca1fb70968a1d216",
+    "name": "service_des_impots_des_entreprises_du_centre_des_finances_publiques_d_annemasse",
+    "title": "Service des impôts des entreprises du centre des finances publiques d'Annemasse",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/haute-savoie/sie-74012-01",
+    "metadata": {
+      "email": "sie.annemasse@dgfip.finances.gouv.fr",
+      "telephone": "04 50 43 91 79",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "d67642ef0c8b4b3db4b9f7f0587277459b9098b3",
+    "name": "service_des_impots_des_entreprises_du_centre_des_finances_publiques_d_annonay",
+    "title": "Service des impôts des entreprises du centre des finances publiques d'Annonay",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/ardeche/sie-07010-01",
+    "metadata": {
+      "email": "sip-sie.annonay@dgfip.finances.gouv.fr",
+      "telephone": "04 75 69 25 21",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "5b76c2d8589db35be4ceed1b2cf77ea08cacb7d0",
+    "name": "service_des_impots_des_entreprises_du_centre_des_finances_publiques_d_antibes",
+    "title": "Service des impôts des entreprises du centre des finances publiques d'Antibes",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/alpes-maritimes/sie-06004-01",
+    "metadata": {
+      "email": "sie.antibes@dgfip.finances.gouv.fr",
+      "telephone": "04 92 93 76 82",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "8a101d9f1313f37cf49cc1e6712f88ab59c4318c",
+    "name": "service_des_impots_des_entreprises_du_centre_des_finances_publiques_d_apt",
+    "title": "Service des impôts des entreprises du centre des finances publiques d'Apt",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/vaucluse/sie-84003-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 90 04 37 91",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "43eff9b29260fc9e9b0888039c9da3d3eefe918b",
+    "name": "service_des_impots_des_entreprises_du_centre_des_finances_publiques_d_arcachon",
+    "title": "Service des impôts des entreprises du centre des finances publiques d'Arcachon",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/gironde/sie-33009-01",
+    "metadata": {
+      "email": "sie.arcachon@dgfip.finances.gouv.fr",
+      "telephone": "05 57 72 47 50",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "da606011cdb0d64d4294533cf71f1ac5b7d26efa",
+    "name": "service_des_impots_des_entreprises_du_centre_des_finances_publiques_d_argentan",
+    "title": "Service des impôts des entreprises du centre des finances publiques d'Argentan",
+    "url": "https://lannuaire.service-public.fr/normandie/orne/sie-61006-01",
+    "metadata": {
+      "email": "sip-sie.argentan@dgfip.finances.gouv.fr",
+      "telephone": "02 33 12 45 83",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "d97f608d83e1c0bb612a8d7d3c3b9d8493eb4498",
+    "name": "service_des_impots_des_entreprises_du_centre_des_finances_publiques_d_argenteuil",
+    "title": "Service des impôts des entreprises du centre des finances publiques d'Argenteuil",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/val-d-oise/sie-95018-01",
+    "metadata": {
+      "email": "sie.argenteuil@dgfip.finances.gouv.fr",
+      "telephone": "01 39 96 35 00",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "d832881571852a630ab67601b24ac65658ecf6a9",
+    "name": "service_des_impots_des_entreprises_du_centre_des_finances_publiques_d_arles",
+    "title": "Service des impôts des entreprises du centre des finances publiques d'Arles",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/sie-13004-01",
+    "metadata": {
+      "email": "sie.arles@dgfip.finances.gouv.fr",
+      "telephone": "04 90 99 48 00",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "a0906a6f82bb5d341d155578cef36c115b2f66ce",
+    "name": "service_des_impots_des_entreprises_du_centre_des_finances_publiques_d_armentieres",
+    "title": "Service des impôts des entreprises du centre des finances publiques d'Armentières",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/nord/sie-59017-01",
+    "metadata": {
+      "email": "sip-sie.armentieres@dgfip.finances.gouv.fr",
+      "telephone": "03 20 44 05 50",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "395451d831b0645e865fd2b423162f42fc989726",
+    "name": "service_des_impots_des_entreprises_du_centre_des_finances_publiques_d_arpajon",
+    "title": "Service des impôts des entreprises du centre des finances publiques d'Arpajon",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/essonne/sie-91021-01",
+    "metadata": {
+      "email": "sie.arpajon@dgfip.finances.gouv.fr",
+      "telephone": "01 69 26 84 00",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "6bcda7f4d6fda5fc5e551033f93df48bc30e10ca",
+    "name": "service_des_impots_des_entreprises_du_centre_des_finances_publiques_d_arras",
+    "title": "Service des impôts des entreprises du centre des finances publiques d'Arras",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/pas-de-calais/sie-62041-01",
+    "metadata": {
+      "email": "sie.arras@dgfip.finances.gouv.fr",
+      "telephone": "03 21 24 69 06",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "804ffd68014ea2e414e92873100b178c97de90af",
+    "name": "service_des_impots_des_entreprises_du_centre_des_finances_publiques_d_asnieres_sur_seine",
+    "title": "Service des impôts des entreprises du centre des finances publiques d'Asnières-sur-Seine",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/hauts-de-seine/sie-92004-01",
+    "metadata": {
+      "email": "sie.asnieres-sur-seine@dgfip.finances.gouv.fr",
+      "telephone": "01 46 88 90 00",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "0cf17d1587e0aec29839cf1930df1774e50b72c6",
+    "name": "service_des_impots_des_entreprises_du_centre_des_finances_publiques_d_aubagne",
+    "title": "Service des impôts des entreprises du centre des finances publiques d'Aubagne",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/sie-13005-01",
+    "metadata": {
+      "email": "sie.aubagne@dgfip.finances.gouv.fr",
+      "telephone": "04 42 18 03 43",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "d45085f449728882371e365a1c2dcd083d0042bf",
+    "name": "service_des_impots_des_entreprises_du_centre_des_finances_publiques_d_aubenas",
+    "title": "Service des impôts des entreprises du centre des finances publiques d'Aubenas",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/ardeche/sie-07019-01",
+    "metadata": {
+      "email": "sip-sie.aubenas@dgfip.finances.gouv.fr",
+      "telephone": "04 75 89 21 00",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "fb92dbec6ee06893131fe172a0b062015a8d1ab4",
+    "name": "service_des_impots_des_entreprises_du_centre_des_finances_publiques_d_aubervilliers",
+    "title": "Service des impôts des entreprises du centre des finances publiques d'Aubervilliers",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/seine-saint-denis/sie-93001-01",
+    "metadata": {
+      "email": "sie.aubervilliers@dgfip.finances.gouv.fr",
+      "telephone": "01 48 11 72 00",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "3a1869619eab14ee3d1164acc22afca8f43775fa",
+    "name": "service_des_impots_des_entreprises_du_centre_des_finances_publiques_d_aubusson",
+    "title": "Service des impôts des entreprises du centre des finances publiques d'Aubusson",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/creuse/sie-23008-01",
+    "metadata": {
+      "email": "sip-sie.aubusson@dgfip.finances.gouv.fr",
+      "telephone": "05 55 83 41 00",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "588efc07875ed890cac5a1aef04929fb171264e7",
+    "name": "service_des_impots_des_entreprises_du_centre_des_finances_publiques_d_auray",
+    "title": "Service des impôts des entreprises du centre des finances publiques d'Auray",
+    "url": "https://lannuaire.service-public.fr/bretagne/morbihan/sie-56007-01",
+    "metadata": {
+      "email": "sie.auray@dgfip.finances.gouv.fr",
+      "telephone": "02 97 30 21 70",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "b8d049a66fdc7fd4b0392255f90d37ac417d81a8",
+    "name": "service_des_impots_des_entreprises_du_centre_des_finances_publiques_d_aurillac",
+    "title": "Service des impôts des entreprises du centre des finances publiques d'Aurillac",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/cantal/sie-15014-01",
+    "metadata": {
+      "email": "sie.aurillac@dgfip.finances.gouv.fr",
+      "telephone": "04 71 43 44 45",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "99c0a86251f1196c8521d253904d2a88b7035d98",
+    "name": "service_des_impots_des_entreprises_du_centre_des_finances_publiques_d_autun",
+    "title": "Service des impôts des entreprises du centre des finances publiques d'Autun",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/saone-et-loire/sie-71014-01",
+    "metadata": {
+      "email": "sip-sie.autun@dgfip.finances.gouv.fr",
+      "telephone": "03 85 86 40 00",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "4311e0b2ab39eee634d747c6746091187d2c0384",
+    "name": "service_des_impots_des_entreprises_du_centre_des_finances_publiques_d_auxerre",
+    "title": "Service des impôts des entreprises du centre des finances publiques d'Auxerre",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/yonne/sie-89024-01",
+    "metadata": {
+      "email": "sie.auxerre@dgfip.finances.gouv.fr",
+      "telephone": "03 86 72 50 49",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "7085a02e263b99522abc73b6699ba22e8590d842",
+    "name": "service_des_impots_des_entreprises_du_centre_des_finances_publiques_d_avallon",
+    "title": "Service des impôts des entreprises du centre des finances publiques d'Avallon",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/yonne/sie-89025-01",
+    "metadata": {
+      "email": "sip-sie.avallon@dgfip.finances.gouv.fr",
+      "telephone": "03 86 34 80 00",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "3bd2fd8e7d27c63d425d03f181845022cf9f9a4b",
+    "name": "service_des_impots_des_entreprises_du_centre_des_finances_publiques_d_avignon",
+    "title": "Service des impôts des entreprises du centre des finances publiques d'Avignon",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/vaucluse/sie-84007-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 90 27 70 48",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "9c279d7562c2f8a90ce7fa73788d9a89a39f9319",
+    "name": "service_des_impots_des_entreprises_du_centre_des_finances_publiques_d_avranches",
+    "title": "Service des impôts des entreprises du centre des finances publiques d'Avranches",
+    "url": "https://lannuaire.service-public.fr/normandie/manche/sie-50025-01",
+    "metadata": {
+      "email": "sip-sie.avranches@dgfip.finances.gouv.fr",
+      "telephone": "02 33 89 10 00",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "231e5b436340d0e4754dff00694bc4f70fe7bb9f",
+    "name": "service_des_impots_des_entreprises_du_centre_des_finances_publiques_de_bagnols_sur_ceze",
+    "title": "Service des impôts des entreprises du centre des finances publiques de Bagnols-sur-Cèze",
+    "url": "https://lannuaire.service-public.fr/occitanie/gard/sie-30028-01",
+    "metadata": {
+      "email": "sie.bagnols-sur-ceze@dgfip.finances.gouv.fr",
+      "telephone": "04 66 90 53 53",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "37e600ea2ec9104283aacb27945f94a13dda4ec6",
+    "name": "service_des_impots_des_entreprises_du_centre_des_finances_publiques_de_barbezieux_saint_hilaire",
+    "title": "Service des impôts des entreprises du centre des finances publiques de Barbezieux-Saint-Hilaire",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/charente/sie-16028-01",
+    "metadata": {
+      "email": "sip-sie.barbezieux-st-hilaire@dgfip.finances.gouv.fr",
+      "telephone": "05 45 79 00 33",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "96e22d3c972d9a3a5e714ddecc7fc8db068a572a",
+    "name": "service_des_impots_des_entreprises_du_centre_des_finances_publiques_de_bar_le_duc",
+    "title": "Service des impôts des entreprises du centre des finances publiques de Bar-le-Duc",
+    "url": "https://lannuaire.service-public.fr/grand-est/meuse/sie-55029-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 29 79 50 44",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "682f1970dc39e55924d14049391618efea98b40f",
+    "name": "service_des_impots_des_entreprises_du_centre_des_finances_publiques_de_bar_sur_aube",
+    "title": "Service des impôts des entreprises du centre des finances publiques de Bar-sur-Aube",
+    "url": "https://lannuaire.service-public.fr/grand-est/aube/sie-10033-01",
+    "metadata": {
+      "email": "sip-sie.bar-sur-aube@dgfip.finances.gouv.fr",
+      "telephone": "03 25 92 37 70",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "f7b5d486e3b63c5ca0889a8ab52bbc881262f4ab",
+    "name": "service_des_impots_des_entreprises_du_centre_des_finances_publiques_de_bastia",
+    "title": "Service des impôts des entreprises du centre des finances publiques de Bastia",
+    "url": "https://lannuaire.service-public.fr/corse/haute-corse/sie-2B033-01",
+    "metadata": {
+      "email": "sie.bastia@dgfip.finances.gouv.fr",
+      "telephone": "04 95 32 93 84",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "3ef5fd43dc60697ddb62f9fa153313e48a1c1e46",
+    "name": "service_des_impots_des_entreprises_du_centre_des_finances_publiques_de_bayeux",
+    "title": "Service des impôts des entreprises du centre des finances publiques de Bayeux",
+    "url": "https://lannuaire.service-public.fr/normandie/calvados/sie-14047-01",
+    "metadata": {
+      "email": "sie.bayeux@dgfip.finances.gouv.fr",
+      "telephone": "02 31 51 44 40",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "63deb77eb9c8cdf8f895406615845c6775fb3b38",
+    "name": "service_des_impots_des_entreprises_du_centre_des_finances_publiques_de_bayonne_anglet",
+    "title": "Service des impôts des entreprises du centre des finances publiques de Bayonne-Anglet",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/pyrenees-atlantiques/sie-64102-02",
+    "metadata": {
+      "email": "sie.bayonne-anglet@dgfip.finances.gouv.fr",
+      "telephone": "05 59 44 66 67",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "e1f3237fb4e4f49b9efb99a2712dbbb8c4e027e7",
+    "name": "service_des_impots_des_entreprises_du_centre_des_finances_publiques_de_beaune",
+    "title": "Service des impôts des entreprises du centre des finances publiques de Beaune",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/cote-d-or/sie-21054-01",
+    "metadata": {
+      "email": "sie.beaune@dgfip.finances.gouv.fr",
+      "telephone": "03 45 42 19 20",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "2b0eb20bb414fb82686f3cb6f6001070e44126f9",
+    "name": "service_des_impots_des_entreprises_du_centre_des_finances_publiques_de_beauvais",
+    "title": "Service des impôts des entreprises du centre des finances publiques de Beauvais",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/oise/sie-60057-01",
+    "metadata": {
+      "email": "sie.beauvais@dgfip.finances.gouv.fr",
+      "telephone": "03 44 79 55 21",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "7f8f311a2d8522b972596d08042674b691c61c31",
+    "name": "service_des_impots_des_entreprises_du_centre_des_finances_publiques_de_bedarieux",
+    "title": "Service des impôts des entreprises du centre des finances publiques de Bédarieux",
+    "url": "https://lannuaire.service-public.fr/occitanie/herault/sie-34028-01",
+    "metadata": {
+      "email": "sip-sie.bedarieux@dgfip.finances.gouv.fr",
+      "telephone": "04 67 23 31 28",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "a9f3e88d75956cf311fdc11fa0478a7dcc4924e1",
+    "name": "service_des_impots_des_entreprises_du_centre_des_finances_publiques_de_bellac",
+    "title": "Service des impôts des entreprises du centre des finances publiques de Bellac",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/haute-vienne/sie-87011-01",
+    "metadata": {
+      "email": "sip-sie.bellac@dgfip.finances.gouv.fr",
+      "telephone": "05 55 60 93 20",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "b7674b8ffe9fbb22e80b71e3893e1fe4caba72ac",
+    "name": "service_des_impots_des_entreprises_du_centre_des_finances_publiques_de_belley",
+    "title": "Service des impôts des entreprises du centre des finances publiques de Belley",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/ain/sie-01034-01",
+    "metadata": {
+      "email": "sip-sie.belley@dgfip.finances.gouv.fr",
+      "telephone": "04 79 81 65 40",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "d4687a2bd386d1f85f3f2336dbedb6a17204de97",
+    "name": "service_des_impots_des_entreprises_du_centre_des_finances_publiques_de_bergerac",
+    "title": "Service des impôts des entreprises du centre des finances publiques de Bergerac",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/dordogne/sie-24037-01",
+    "metadata": {
+      "email": "sie.bergerac@dgfip.finances.gouv.fr",
+      "telephone": "05 53 63 67 20",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "fa9ddf5072a384489156a7b14a785d0484160110",
+    "name": "service_des_impots_des_entreprises_du_centre_des_finances_publiques_de_besancon",
+    "title": "Service des impôts des entreprises du centre des finances publiques de Besançon",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/doubs/sie-25056-01",
+    "metadata": {
+      "email": "sie.besancon@dgfip.finances.gouv.fr",
+      "telephone": "03 81 65 65 37",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "5ce10f1aea527bc5212ef077b1b434c4b4acf0f5",
+    "name": "service_des_impots_des_entreprises_du_centre_des_finances_publiques_de_bethune",
+    "title": "Service des impôts des entreprises du centre des finances publiques de Béthune",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/pas-de-calais/sie-62119-01",
+    "metadata": {
+      "email": "sie.bethune@dgfip.finances.gouv.fr",
+      "telephone": "03 21 63 10 32",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "d0237a707bce4cc09e6912d88c638a29467bfc0e",
+    "name": "service_des_impots_des_entreprises_du_centre_des_finances_publiques_de_beziers",
+    "title": "Service des impôts des entreprises du centre des finances publiques de Béziers",
+    "url": "https://lannuaire.service-public.fr/occitanie/herault/sie-34032-01",
+    "metadata": {
+      "email": "sie.grand-beziers@dgfip.finances.gouv.fr",
+      "telephone": "04 67 35 45 77",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "a70f7c6e60a68e5ba1f66219b565bf55eac3aed8",
+    "name": "service_des_impots_des_entreprises_du_centre_des_finances_publiques_de_beziers_biterrois",
+    "title": "Service des impôts des entreprises du centre des finances publiques de Béziers Biterrois",
+    "url": "https://lannuaire.service-public.fr/occitanie/herault/sie-34032-02",
+    "metadata": {
+      "email": "sie.beziers-biterrois@dgfip.finances.gouv.fr",
+      "telephone": "04 67 35 45 77",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "f7cfe1cf1ad18203eece4c141ee96340c1580f0a",
+    "name": "service_des_impots_des_entreprises_du_centre_des_finances_publiques_de_biarritz",
+    "title": "Service des impôts des entreprises du centre des finances publiques de Biarritz",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/pyrenees-atlantiques/sie-64122-01",
+    "metadata": {
+      "email": "sie.biarritz@dgfip.finances.gouv.fr",
+      "telephone": "05 59 41 37 37",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "544a77619b64f2019de64fa239b4a6ad8fd5d9e3",
+    "name": "service_des_impots_des_entreprises_du_centre_des_finances_publiques_du_blanc",
+    "title": "Service des impôts des entreprises du centre des finances publiques du Blanc",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/indre/sie-36018-01",
+    "metadata": {
+      "email": "sip-sie.le-blanc@dgfip.finances.gouv.fr",
+      "telephone": "02 54 28 34 41",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "982db9f3604ca21bf23d6524d412e2240c693644",
+    "name": "service_des_impots_des_entreprises_du_centre_des_finances_publiques_de_blois",
+    "title": "Service des impôts des entreprises du centre des finances publiques de Blois",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/loir-et-cher/sie-41018-01",
+    "metadata": {
+      "email": "sie.blois@dgfip.finances.gouv.fr",
+      "telephone": "02 54 55 71 04",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "7b800793b79713efa801a2c1f0eff748ab483a1e",
+    "name": "service_des_impots_des_entreprises_du_centre_des_finances_publiques_de_bobigny",
+    "title": "Service des impôts des entreprises du centre des finances publiques de Bobigny",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/seine-saint-denis/sie-93008-01",
+    "metadata": {
+      "email": "sie.bobigny@dgfip.finances.gouv.fr",
+      "telephone": "01 48 96 53 00",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "19edfd4e1d20b99f8ce1b734a814cba6547e0301",
+    "name": "service_des_impots_des_entreprises_du_centre_des_finances_publiques_de_bolbec",
+    "title": "Service des impôts des entreprises du centre des finances publiques de Bolbec",
+    "url": "https://lannuaire.service-public.fr/normandie/seine-maritime/sie-76114-01",
+    "metadata": {
+      "email": "sip-sie.bolbec@dgfip.finances.gouv.fr",
+      "telephone": "02 32 84 10 88",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "7beb56919dee2fff73984b0edcf670b3d6012587",
+    "name": "service_des_impots_des_entreprises_du_centre_des_finances_publiques_de_bonneville",
+    "title": "Service des impôts des entreprises du centre des finances publiques de Bonneville",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/haute-savoie/sie-74042-01",
+    "metadata": {
+      "email": "sie.bonneville@dgfip.finances.gouv.fr",
+      "telephone": "04 50 25 29 26",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "1cac62d152894073b992073cac2c549dc32159cf",
+    "name": "service_des_impots_des_entreprises_du_centre_des_finances_publiques_de_bordeaux",
+    "title": "Service des impôts des entreprises du centre des finances publiques de Bordeaux",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/gironde/sie-33063-03",
+    "metadata": {
+      "email": "sie.bordeaux@dgfip.finances.gouv.fr",
+      "telephone": "05 56 24 80 94",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "66cc6388d3fe4f5bfd4ca8b97a5eb40f8bf0f9f0",
+    "name": "service_des_impots_des_entreprises_du_centre_des_finances_publiques_de_boulogne_billancourt",
+    "title": "Service des impôts des entreprises du centre des finances publiques de Boulogne-Billancourt",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/hauts-de-seine/sie-92012-01",
+    "metadata": {
+      "email": "sie.boulogne-billancourt@dgfip.finances.gouv.fr",
+      "telephone": "01 55 38 14 92",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "46d84002d52da87c99118223a89f14d16a9da05f",
+    "name": "service_des_impots_des_entreprises_du_centre_des_finances_publiques_de_boulogne_sur_mer",
+    "title": "Service des impôts des entreprises du centre des finances publiques de Boulogne-sur-Mer",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/pas-de-calais/sie-62160-01",
+    "metadata": {
+      "email": "sie.boulogne-sur-mer@dgfip.finances.gouv.fr",
+      "telephone": "03 21 10 29 29",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "be5caa2b114f5137b18ea37def57454aa6062de1",
+    "name": "service_des_impots_des_entreprises_du_centre_des_finances_publiques_de_bourg_en_bresse",
+    "title": "Service des impôts des entreprises du centre des finances publiques de Bourg-en-Bresse",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/ain/sie-01053-01",
+    "metadata": {
+      "email": "sie.bourg-en-bresse@dgfip.finances.gouv.fr",
+      "telephone": "04 74 45 86 00",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "2b9d766c285a05578bf56888c1f7b90001b121fb",
+    "name": "service_des_impots_des_entreprises_du_centre_des_finances_publiques_de_bourges",
+    "title": "Service des impôts des entreprises du centre des finances publiques de Bourges",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/cher/sie-18033-02",
+    "metadata": {
+      "email": "sie.bourges@dgfip.finances.gouv.fr",
+      "telephone": "02 48 27 17 14",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "80470735dc2a220e8f3dca51772de90f1b735500",
+    "name": "service_des_impots_des_entreprises_du_centre_des_finances_publiques_de_bourgoin_jallieu",
+    "title": "Service des impôts des entreprises du centre des finances publiques de Bourgoin-Jallieu",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/isere/sie-38053-01",
+    "metadata": {
+      "email": "sie.bourgoin-jallieu@dgfip.finances.gouv.fr",
+      "telephone": "04 74 93 84 30",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "2d2b91408e638b5e11a78f16329ce6eecc1ddaa1",
+    "name": "service_des_impots_des_entreprises_du_centre_des_finances_publiques_de_bressuire",
+    "title": "Service des impôts des entreprises du centre des finances publiques de Bressuire",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/deux-sevres/sie-79049-01",
+    "metadata": {
+      "email": "sie.nord-deux-sevres@dgfip.finances.gouv.fr",
+      "telephone": "05 49 81 58 18",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "a9b52c81556909b544089356267f273b5e23ef6a",
+    "name": "service_des_impots_des_entreprises_du_centre_des_finances_publiques_de_brest_elorn",
+    "title": "Service des impôts des entreprises du centre des finances publiques de Brest Elorn",
+    "url": "https://lannuaire.service-public.fr/bretagne/finistere/sie-29019-01",
+    "metadata": {
+      "email": "sie.brest-elorn@dgfip.finances.gouv.fr",
+      "telephone": "02 98 00 30 74",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "a11dede5e30e4e777581b5e60b93a91bad2b9530",
+    "name": "service_des_impots_des_entreprises_du_centre_des_finances_publiques_de_brest_iroise",
+    "title": "Service des impôts des entreprises du centre des finances publiques de Brest Iroise",
+    "url": "https://lannuaire.service-public.fr/bretagne/finistere/sie-29019-02",
+    "metadata": {
+      "email": "sie.brest-iroise@dgfip.finances.gouv.fr",
+      "telephone": "02 98 00 30 78",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "4376827e2360661add8bbe1ab70cb15809dfe4d3",
+    "name": "service_des_impots_des_entreprises_du_centre_des_finances_publiques_de_briancon",
+    "title": "Service des impôts des entreprises du centre des finances publiques de Briançon",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/hautes-alpes/sie-05023-01",
+    "metadata": {
+      "email": "sip-sie.briancon@dgfip.finances.gouv.fr",
+      "telephone": "04 92 21 28 42",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "ae61b73051a04376faa5da3662bbd6eee4065482",
+    "name": "service_des_impots_des_entreprises_du_centre_des_finances_publiques_de_briey",
+    "title": "Service des impôts des entreprises du centre des finances publiques de Briey",
+    "url": "https://lannuaire.service-public.fr/grand-est/meurthe-et-moselle/sie-54099-01",
+    "metadata": {
+      "email": "sip-sie.briey@dgfip.finances.gouv.fr",
+      "telephone": "03 82 47 16 94",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "4e757e736a9474e312e1521eb1df93686b3547bb",
+    "name": "service_des_impots_des_entreprises_du_centre_des_finances_publiques_de_brignoles",
+    "title": "Service des impôts des entreprises du centre des finances publiques de Brignoles",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/var/sie-83023-01",
+    "metadata": {
+      "email": "sie.brignoles@dgfip.finances.gouv.fr",
+      "telephone": "04 94 86 21 31",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "446f5b026b50c6e6b619f8b586c01156794de08c",
+    "name": "service_des_impots_des_entreprises_du_centre_des_finances_publiques_de_brioude",
+    "title": "Service des impôts des entreprises du centre des finances publiques de Brioude",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/haute-loire/sie-43040-01",
+    "metadata": {
+      "email": "sip-sie.brioude@dgfip.finances.gouv.fr",
+      "telephone": "04 71 50 01 57",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "c039de931bec8e3c01df33a4733f373e9fdf529c",
+    "name": "service_des_impots_des_entreprises_du_centre_des_finances_publiques_de_brive_la_gaillarde",
+    "title": "Service des impôts des entreprises du centre des finances publiques de Brive-la-Gaillarde",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/correze/sie-19031-01",
+    "metadata": {
+      "email": "sie.brive-la-gaillarde@dgfip.finances.gouv.fr",
+      "telephone": "05 55 18 31 35",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "3bbef4da13df58e3d4bf5b9808bce284e6212189",
+    "name": "service_des_impots_des_entreprises_du_centre_des_finances_publiques_de_bruay_la_buissiere",
+    "title": "Service des impôts des entreprises du centre des finances publiques de Bruay-la-Buissière",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/pas-de-calais/sie-62178-01",
+    "metadata": {
+      "email": "sip-sie.bruay-la-buissiere@dgfip.finances.gouv.fr",
+      "telephone": "03 21 64 47 00",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "5e6205967ddccf6ea5c24fb51bd410d98f87ea26",
+    "name": "service_des_impots_des_entreprises_du_centre_des_finances_publiques_de_caen_est",
+    "title": "Service des impôts des entreprises du centre des finances publiques de Caen Est",
+    "url": "https://lannuaire.service-public.fr/normandie/calvados/sie-14118-01",
+    "metadata": {
+      "email": "sie.caen-est@dgfip.finances.gouv.fr",
+      "telephone": "02 31 47 10 33",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "df4a65a70fcd9d45da43700d06ae484bbe5d6089",
+    "name": "service_des_impots_des_entreprises_du_centre_des_finances_publiques_de_caen_nord",
+    "title": "Service des impôts des entreprises du centre des finances publiques de Caen Nord",
+    "url": "https://lannuaire.service-public.fr/normandie/calvados/sie-14118-02",
+    "metadata": {
+      "email": "sie.caen-nord@dgfip.finances.gouv.fr",
+      "telephone": "02 31 47 10 41",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "39a296b3256a3ace6ac1f4da39efd7f9d9d87cb5",
+    "name": "service_des_impots_des_entreprises_du_centre_des_finances_publiques_de_caen_ouest",
+    "title": "Service des impôts des entreprises du centre des finances publiques de Caen Ouest",
+    "url": "https://lannuaire.service-public.fr/normandie/calvados/sie-14118-03",
+    "metadata": {
+      "email": "sie.caen-ouest@dgfip.finances.gouv.fr",
+      "telephone": "02 31 47 10 42",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "01130ac2ea667d91d6cd5554fb51621deb7b3b8d",
+    "name": "service_des_impots_des_entreprises_du_centre_des_finances_publiques_de_cagnes_sur_mer",
+    "title": "Service des impôts des entreprises du centre des finances publiques de Cagnes-sur-Mer",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/alpes-maritimes/sie-06027-01",
+    "metadata": {
+      "email": "sie.cagnes-sur-mer@dgfip.finances.gouv.fr",
+      "telephone": "04 92 02 43 00",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "444fe19c4adb93d70eea4d34f5cc26227ce15690",
+    "name": "service_des_impots_des_entreprises_du_centre_des_finances_publiques_de_cahors",
+    "title": "Service des impôts des entreprises du centre des finances publiques de Cahors",
+    "url": "https://lannuaire.service-public.fr/occitanie/lot/sie-46042-01",
+    "metadata": {
+      "email": "sie.cahors@dgfip.finances.gouv.fr",
+      "telephone": "05 65 20 33 10",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "a57746bb29b344dbf45dcfe6a35b4e90a8243537",
+    "name": "service_des_impots_des_entreprises_du_centre_des_finances_publiques_de_calais",
+    "title": "Service des impôts des entreprises du centre des finances publiques de Calais",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/pas-de-calais/sie-62193-01",
+    "metadata": {
+      "email": "sie.calais@dgfip.finances.gouv.fr",
+      "telephone": "03 21 46 25 85",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "1b33e90bc0d1434e0a58d544998be90cc6c2a97e",
+    "name": "service_des_impots_des_entreprises_du_centre_des_finances_publiques_de_caluire",
+    "title": "Service des impôts des entreprises du centre des finances publiques de Caluire",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/rhone/sie-69034-01",
+    "metadata": {
+      "email": "sie.caluire@dgfip.finances.gouv.fr",
+      "telephone": "04 72 10 45 09",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "268438e7015292d30648c6e6dcab41ac63fb8889",
+    "name": "service_des_impots_des_entreprises_du_centre_des_finances_publiques_de_calvi",
+    "title": "Service des impôts des entreprises du centre des finances publiques de Calvi",
+    "url": "https://lannuaire.service-public.fr/corse/haute-corse/sie-2B050-01",
+    "metadata": {
+      "email": "sip-sie.calvi@dgfip.finances.gouv.fr",
+      "telephone": "04 95 65 92 50",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "f0e0c4fe72149c4e63ae6e818e05b70b3cbfbdb1",
+    "name": "service_des_impots_des_entreprises_du_centre_des_finances_publiques_de_cambrai",
+    "title": "Service des impôts des entreprises du centre des finances publiques de Cambrai",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/nord/sie-59122-01",
+    "metadata": {
+      "email": "sie.cambrai@dgfip.finances.gouv.fr",
+      "telephone": "03 27 73 65 10",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "6886f669b6e4ddd46f1a21d58202f7011389a19f",
+    "name": "service_des_impots_des_entreprises_du_centre_des_finances_publiques_de_cannes",
+    "title": "Service des impôts des entreprises du centre des finances publiques de Cannes",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/alpes-maritimes/sie-06029-01",
+    "metadata": {
+      "email": "sie.cannes@dgfip.finances.gouv.fr",
+      "telephone": "04 93 90 45 37",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "3c96b17b48a749a92e919d1cf1d78b1235fd1bea",
+    "name": "service_des_impots_des_entreprises_du_centre_des_finances_publiques_du_cannet",
+    "title": "Service des impôts des entreprises du centre des finances publiques du Cannet",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/alpes-maritimes/sie-06030-01",
+    "metadata": {
+      "email": "sie.le-cannet@dgfip.finances.gouv.fr",
+      "telephone": "04 92 18 76 45",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "451580dd4f4d10777f40e1bd808b8eab182cba8e",
+    "name": "service_des_impots_des_entreprises_du_centre_des_finances_publiques_de_carcassonne",
+    "title": "Service des impôts des entreprises du centre des finances publiques de Carcassonne",
+    "url": "https://lannuaire.service-public.fr/occitanie/aude/sie-11069-01",
+    "metadata": {
+      "email": "sie.carcassonne@dgfip.finances.gouv.fr",
+      "telephone": "04 68 77 44 44",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "969b91f050976f44bc5d9655649e450eed2fcf6e",
+    "name": "service_des_impots_des_entreprises_du_centre_des_finances_publiques_de_carentan",
+    "title": "Service des impôts des entreprises du centre des finances publiques de Carentan",
+    "url": "https://lannuaire.service-public.fr/normandie/manche/sie-50099-01",
+    "metadata": {
+      "email": "sip-sie.carentan@dgfip.finances.gouv.fr",
+      "telephone": "02 33 71 61 20",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "24eb9cdcddb30e523acfdad2d1516bc4a20fdb6d",
+    "name": "service_des_impots_des_entreprises_du_centre_des_finances_publiques_de_carhaix_plouguer",
+    "title": "Service des impôts des entreprises du centre des finances publiques de Carhaix-Plouguer",
+    "url": "https://lannuaire.service-public.fr/bretagne/finistere/sie-29024-01",
+    "metadata": {
+      "email": "sip-sie.carhaix@dgfip.finances.gouv.fr",
+      "telephone": "02 98 99 31 76",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "72164497b11ad8d2a8ce391c98aeb549b2c4ba6b",
+    "name": "service_des_impots_des_entreprises_du_centre_des_finances_publiques_de_carpentras",
+    "title": "Service des impôts des entreprises du centre des finances publiques de Carpentras",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/vaucluse/sie-84031-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 90 63 83 04",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "ff6599dc70047fd3f25e78f196a975af6fbf4266",
+    "name": "service_des_impots_des_entreprises_du_centre_des_finances_publiques_de_castres",
+    "title": "Service des impôts des entreprises du centre des finances publiques de Castres",
+    "url": "https://lannuaire.service-public.fr/occitanie/tarn/sie-81065-01",
+    "metadata": {
+      "email": "sie.castres@dgfip.finances.gouv.fr",
+      "telephone": "05 63 62 52 00",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "85943f75a145f5ec85f70ee9c09dd0dfcb0d5b20",
+    "name": "service_des_impots_des_entreprises_du_centre_des_finances_publiques_de_cavaillon",
+    "title": "Service des impôts des entreprises du centre des finances publiques de Cavaillon",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/vaucluse/sie-84035-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 90 76 39 40",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "0f97644cc82a6b4ec51189356b0be9e14ecfdb4c",
+    "name": "service_des_impots_des_entreprises_du_centre_des_finances_publiques_de_cayenne",
+    "title": "Service des impôts des entreprises du centre des finances publiques de Cayenne",
+    "url": "https://lannuaire.service-public.fr/guyane/guyane/sie-97302-01",
+    "metadata": {
+      "email": "sie.cayenne@dgfip.finances.gouv.fr",
+      "telephone": "+594 594 28 99 84",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "9f2a2017e6aa79ada0633cb377c1f449ef54f9a9",
+    "name": "service_des_impots_des_entreprises_du_centre_des_finances_publiques_de_cenon",
+    "title": "Service des impôts des entreprises du centre des finances publiques de Cenon",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/gironde/sie-33119-02",
+    "metadata": {
+      "email": "sie.cenon@dgfip.finances.gouv.fr",
+      "telephone": "05 57 80 75 33",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "e6daf6c513c6733820940d1d63164a780cd88e9e",
+    "name": "service_des_impots_des_entreprises_du_centre_des_finances_publiques_de_ceret",
+    "title": "Service des impôts des entreprises du centre des finances publiques de Céret",
+    "url": "https://lannuaire.service-public.fr/occitanie/pyrenees-orientales/sie-66049-01",
+    "metadata": {
+      "email": "sie.ceret@dgfip.finances.gouv.fr",
+      "telephone": "04 68 87 76 38",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "2a0bfc6be7c6a07e633eb25de477a74beeaa4c99",
+    "name": "service_des_impots_des_entreprises_du_centre_des_finances_publiques_de_challans",
+    "title": "Service des impôts des entreprises du centre des finances publiques de Challans",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/vendee/sie-85047-01",
+    "metadata": {
+      "email": "sie.challans@dgfip.finances.gouv.fr",
+      "telephone": "02 51 49 55 91",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "6c7c931593f99b784d5a20895b34fa2142896137",
+    "name": "service_des_impots_des_entreprises_du_centre_des_finances_publiques_de_chalons_en_champagne",
+    "title": "Service des impôts des entreprises du centre des finances publiques de Châlons-en-Champagne",
+    "url": "https://lannuaire.service-public.fr/grand-est/marne/sie-51108-01",
+    "metadata": {
+      "email": "sie.chalons-en-champagne@dgfip.finances.gouv.fr",
+      "telephone": "03 26 68 60 57",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "7b27a326eb77739339ff612959521208a54db4c4",
+    "name": "service_des_impots_des_entreprises_du_centre_des_finances_publiques_de_chalon_sur_saone",
+    "title": "Service des impôts des entreprises du centre des finances publiques de Chalon-sur-Saône",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/saone-et-loire/sie-71076-01",
+    "metadata": {
+      "email": "sie.chalon-sur-saone@dgfip.finances.gouv.fr",
+      "telephone": "03 85 41 71 71",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "068447923d4ca1da223a2652a50024b5998cbf0a",
+    "name": "service_des_impots_des_entreprises_du_centre_des_finances_publiques_de_chambery",
+    "title": "Service des impôts des entreprises du centre des finances publiques de Chambéry",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/savoie/sie-73065-01",
+    "metadata": {
+      "email": "sie.chambery@dgfip.finances.gouv.fr",
+      "telephone": "04 79 60 40 40",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "35707f55ee24cb61295f98fb8c8138a6b02e0570",
+    "name": "service_des_impots_des_entreprises_du_centre_des_finances_publiques_de_champigny_sur_marne",
+    "title": "Service des impôts des entreprises du centre des finances publiques de Champigny-sur-Marne",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/val-de-marne/sie-94017-01",
+    "metadata": {
+      "email": "",
+      "telephone": "01 45 16 61 00",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "d8d60800867e71e843148b1b2e93cbaae5d3c047",
+    "name": "service_des_impots_des_entreprises_du_centre_des_finances_publiques_de_charenton_le_pont",
+    "title": "Service des impôts des entreprises du centre des finances publiques de Charenton-le-Pont",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/val-de-marne/sie-94018-01",
+    "metadata": {
+      "email": "",
+      "telephone": "01 45 13 08 50",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "dfc3c68e5a7dbfafd7d5786e23a4990b45a6d5bc",
+    "name": "service_des_impots_des_entreprises_du_centre_des_finances_publiques_de_charleville_mezieres",
+    "title": "Service des impôts des entreprises du centre des finances publiques de Charleville-Mézieres",
+    "url": "https://lannuaire.service-public.fr/grand-est/ardennes/sie-08105-01",
+    "metadata": {
+      "email": "sie.charleville-mezieres@dgfip.finances.gouv.fr",
+      "telephone": "03 24 56 60 60",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "acc7874bb39615f1a7f20beb6de794eda56feff7",
+    "name": "service_des_impots_des_entreprises_du_centre_des_finances_publiques_de_charolles",
+    "title": "Service des impôts des entreprises du centre des finances publiques de Charolles",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/saone-et-loire/sie-71106-01",
+    "metadata": {
+      "email": "sip-sie.charolles@dgfip.finances.gouv.fr",
+      "telephone": "03 85 88 29 00",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "36b0081651bf820536c40a8b291073b2f622f8ec",
+    "name": "service_des_impots_des_entreprises_du_centre_des_finances_publiques_de_chartres",
+    "title": "Service des impôts des entreprises du centre des finances publiques de Chartres",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/eure-et-loir/sie-28085-01",
+    "metadata": {
+      "email": "sie.chartres@dgfip.finances.gouv.fr",
+      "telephone": "02 37 18 69 13",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "de5a4779df315e9360934e1ba1df14cceb3f47a3",
+    "name": "service_des_impots_des_entreprises_du_centre_des_finances_publiques_de_chateaubriant",
+    "title": "Service des impôts des entreprises du centre des finances publiques de Châteaubriant",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/loire-atlantique/sie-44036-01",
+    "metadata": {
+      "email": "sip-sie.chateaubriant@dgfip.finances.gouv.fr",
+      "telephone": "02 40 55 67 00",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "24cb2ac3d1b43f41e644ef4ae81f874738cbc493",
+    "name": "service_des_impots_des_entreprises_du_centre_des_finances_publiques_de_chateaudun",
+    "title": "Service des impôts des entreprises du centre des finances publiques de Châteaudun",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/eure-et-loir/sie-28088-01",
+    "metadata": {
+      "email": "sip-sie.chateaudun@dgfip.finances.gouv.fr",
+      "telephone": "02 37 44 79 00",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "5af800a0e717ae7699c47f954626c75fae889439",
+    "name": "service_des_impots_des_entreprises_du_centre_des_finances_publiques_de_chateau_gontier",
+    "title": "Service des impôts des entreprises du centre des finances publiques de Château-Gontier",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/mayenne/sie-53062-01",
+    "metadata": {
+      "email": "sip-sie.chateau-gontier@dgfip.finances.gouv.fr",
+      "telephone": "02 43 09 54 10",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "b91ab6b89073e78dc4842767034eab0aff9acdb8",
+    "name": "service_des_impots_des_entreprises_du_centre_des_finances_publiques_de_chateaulin",
+    "title": "Service des impôts des entreprises du centre des finances publiques de Châteaulin",
+    "url": "https://lannuaire.service-public.fr/bretagne/finistere/sie-29026-01",
+    "metadata": {
+      "email": "sip-sie.chateaulin@dgfip.finances.gouv.fr",
+      "telephone": "02 98 86 79 00",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "bccc26604eb38915dce743ce4e78d4098492ea91",
+    "name": "service_des_impots_des_entreprises_du_centre_des_finances_publiques_de_chateauroux",
+    "title": "Service des impôts des entreprises du centre des finances publiques de Châteauroux",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/indre/sie-36044-01",
+    "metadata": {
+      "email": "sie.chateauroux@dgfip.finances.gouv.fr",
+      "telephone": "02 54 53 17 49",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "d40b79415814f39e5f21e48b48e09d5b924c6672",
+    "name": "service_des_impots_des_entreprises_du_centre_des_finances_publiques_de_chateau_salins",
+    "title": "Service des impôts des entreprises du centre des finances publiques de Château-Salins",
+    "url": "https://lannuaire.service-public.fr/grand-est/moselle/sie-57132-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 87 05 62 87",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "e7b6437bea198124ef637cf8cdaf6c6c7f1ebd80",
+    "name": "service_des_impots_des_entreprises_du_centre_des_finances_publiques_de_chateau_thierry",
+    "title": "Service des impôts des entreprises du centre des finances publiques de Château-Thierry",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/aisne/sie-02168-01",
+    "metadata": {
+      "email": "sie.chateau-thierry@dgfip.finances.gouv.fr",
+      "telephone": "03 23 84 22 20",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "acc665aa743af1449d40aea3b1ee780bd8c7c777",
+    "name": "service_des_impots_des_entreprises_du_centre_des_finances_publiques_de_chatellerault",
+    "title": "Service des impôts des entreprises du centre des finances publiques de Châtellerault",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/vienne/sie-86066-01",
+    "metadata": {
+      "email": "sie.chatellerault@dgfip.finances.gouv.fr",
+      "telephone": "05 49 20 06 00",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "64e01307bd2cb8661401acc7edc29ed1512de269",
+    "name": "service_des_impots_des_entreprises_du_centre_des_finances_publiques_de_chaumont",
+    "title": "Service des impôts des entreprises du centre des finances publiques de Chaumont",
+    "url": "https://lannuaire.service-public.fr/grand-est/haute-marne/sie-52121-01",
+    "metadata": {
+      "email": "sie.chaumont@dgfip.finances.gouv.fr",
+      "telephone": "03 25 30 23 67",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "bca1ab292f8552b8ad5f558c01507b0061a91cd6",
+    "name": "service_des_impots_des_entreprises_du_centre_des_finances_publiques_de_chelles",
+    "title": "Service des impôts des entreprises du centre des finances publiques de Chelles",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/seine-et-marne/sie-77108-01",
+    "metadata": {
+      "email": "sie.chelles@dgfip.finances.gouv.fr",
+      "telephone": "01 64 26 58 00",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "af005fd482378c188673b710cb4c86233a18ee32",
+    "name": "service_des_impots_des_entreprises_du_centre_des_finances_publiques_de_cherbourg",
+    "title": "Service des impôts des entreprises du centre des finances publiques de Cherbourg",
+    "url": "https://lannuaire.service-public.fr/normandie/manche/sie-50129-01",
+    "metadata": {
+      "email": "sie.cherbourg@dgfip.finances.gouv.fr",
+      "telephone": "02 33 01 62 04",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "9b2ce57c96518866867ba7366ce59e2896970d42",
+    "name": "service_des_impots_des_entreprises_du_centre_des_finances_publiques_de_chinon",
+    "title": "Service des impôts des entreprises du centre des finances publiques de Chinon",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/indre-et-loire/sie-37072-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 47 93 55 55",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "8600aa5aefaa9e29205ab7e8751b61c4b97a5d9d",
+    "name": "service_des_impots_des_entreprises_du_centre_des_finances_publiques_de_choisy_le_roi",
+    "title": "Service des impôts des entreprises du centre des finances publiques de Choisy-le-Roi",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/val-de-marne/sie-94022-01",
+    "metadata": {
+      "email": "",
+      "telephone": "01 43 99 36 36",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "e3f009cd3332ca8d927acf1f16cb11ef7b965018",
+    "name": "service_des_impots_des_entreprises_du_centre_des_finances_publiques_de_cholet",
+    "title": "Service des impôts des entreprises du centre des finances publiques de Cholet",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/maine-et-loire/sie-49099-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 41 49 58 95",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "a3dccdd6e5f31962f4a9986899325648ab307a91",
+    "name": "service_des_impots_des_entreprises_du_centre_des_finances_publiques_de_clamecy",
+    "title": "Service des impôts des entreprises du centre des finances publiques de Clamecy",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/nievre/sie-58079-01",
+    "metadata": {
+      "email": "sip-sie.clamecy@dgfip.finances.gouv.fr",
+      "telephone": "03 86 27 54 60",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "88084de350408cb364236fbba5797b8691b86536",
+    "name": "service_des_impots_des_entreprises_du_centre_des_finances_publiques_de_clermont",
+    "title": "Service des impôts des entreprises du centre des finances publiques de Clermont",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/oise/sie-60157-01",
+    "metadata": {
+      "email": "sie.clermont-de-loise@dgfip.finances.gouv.fr",
+      "telephone": "03 44 50 86 86",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "1411533fd33112f7aa351f77544935b1f135f518",
+    "name": "service_des_impots_des_entreprises_du_centre_des_finances_publiques_de_clermont_ferrand_nord",
+    "title": "Service des impôts des entreprises du centre des finances publiques de Clermont-Ferrand Nord",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/puy-de-dome/sie-63113-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 73 43 20 65",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "14990cde47a8138e0b240e0d2a7b4da39cf58002",
+    "name": "service_des_impots_des_entreprises_du_centre_des_finances_publiques_de_clermont_ferrand_sud",
+    "title": "Service des impôts des entreprises du centre des finances publiques de Clermont-Ferrand Sud",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/puy-de-dome/sie-63113-02",
+    "metadata": {
+      "email": "",
+      "telephone": "04 73 43 20 05",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "492df5b438b40457aaffaf48009554f821720c1b",
+    "name": "service_des_impots_des_entreprises_du_centre_des_finances_publiques_de_clichy",
+    "title": "Service des impôts des entreprises du centre des finances publiques de Clichy",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/hauts-de-seine/sie-92024-01",
+    "metadata": {
+      "email": "sie.clichy@dgfip.finances.gouv.fr",
+      "telephone": "01 41 27 65 75",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "a64e2dbee6cb2ab1dc3b8aab49f5dff21da7143b",
+    "name": "service_des_impots_des_entreprises_du_centre_des_finances_publiques_de_cognac",
+    "title": "Service des impôts des entreprises du centre des finances publiques de Cognac",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/charente/sie-16102-01",
+    "metadata": {
+      "email": "sie.cognac@dgfip.finances.gouv.fr",
+      "telephone": "05 45 83 48 04",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "7107ce2a77f8e4bc48fee01202c39ce29a288dcb",
+    "name": "service_des_impots_des_entreprises_du_centre_des_finances_publiques_de_colmar",
+    "title": "Service des impôts des entreprises du centre des finances publiques de Colmar",
+    "url": "https://lannuaire.service-public.fr/grand-est/haut-rhin/sie-68066-01",
+    "metadata": {
+      "email": "sie.colmar@dgfip.finances.gouv.fr",
+      "telephone": "03 89 24 80 48",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "ce52dcfc424360a56a23aaaf4b92c5b133b029ff",
+    "name": "service_des_impots_des_entreprises_du_centre_des_finances_publiques_de_colombes",
+    "title": "Service des impôts des entreprises du centre des finances publiques de Colombes",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/hauts-de-seine/sie-92025-01",
+    "metadata": {
+      "email": "sie.colombes@dgfip.finances.gouv.fr",
+      "telephone": "01 46 13 65 99",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "c2dc1c2ac4dfa5d3533b42bb25dfeec3710cf14c",
+    "name": "service_des_impots_des_entreprises_du_centre_des_finances_publiques_de_compiegne",
+    "title": "Service des impôts des entreprises du centre des finances publiques de Compiegne",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/oise/sie-60159-02",
+    "metadata": {
+      "email": "sie.compiegne@dgfip.finances.gouv.fr",
+      "telephone": "03 44 92 58 58",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "fcb85e9fba770899a135c631448afcafd4425ad4",
+    "name": "service_des_impots_des_entreprises_du_centre_des_finances_publiques_de_corbeil_essonnes",
+    "title": "Service des impôts des entreprises du centre des finances publiques de Corbeil-Essonnes",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/essonne/sie-91174-01",
+    "metadata": {
+      "email": "sie.corbeil@dgfip.finances.gouv.fr",
+      "telephone": "01 60 90 52 16",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "f68609f61cb04ba635eb6c4ad5c61ac50e0b049f",
+    "name": "service_des_impots_des_entreprises_du_centre_des_finances_publiques_de_corte",
+    "title": "Service des impôts des entreprises du centre des finances publiques de Corte",
+    "url": "https://lannuaire.service-public.fr/corse/haute-corse/sie-2B096-01",
+    "metadata": {
+      "email": "sip-sie.corte@dgfip.finances.gouv.fr",
+      "telephone": "04 95 45 24 00",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "8b0ab2fcf6ae67a89e16b87c0786eef9baa137f4",
+    "name": "service_des_impots_des_entreprises_du_centre_des_finances_publiques_de_cosne_cours_sur_loire",
+    "title": "Service des impôts des entreprises du centre des finances publiques de Cosne-Cours-sur-Loire",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/nievre/sie-58086-01",
+    "metadata": {
+      "email": "sip-sie.cosne-sur-loire@dgfip.finances.gouv.fr",
+      "telephone": "03 86 39 58 20",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "a565c6c61ad3e7ac2aa70aad83dee40f4248a836",
+    "name": "service_des_impots_des_entreprises_du_centre_des_finances_publiques_de_coulommiers",
+    "title": "Service des impôts des entreprises du centre des finances publiques de Coulommiers",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/seine-et-marne/sie-77131-01",
+    "metadata": {
+      "email": "sie.coulommiers@dgfip.finances.gouv.fr",
+      "telephone": "01 64 75 89 42",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "7395b8beb025f1eec4ca33e4766f42cba73f5a03",
+    "name": "service_des_impots_des_entreprises_du_centre_des_finances_publiques_de_courbevoie",
+    "title": "Service des impôts des entreprises du centre des finances publiques de Courbevoie",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/hauts-de-seine/sie-92026-01",
+    "metadata": {
+      "email": "sie.courbevoie@dgfip.finances.gouv.fr",
+      "telephone": "01 49 04 66 70",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "c8a07932be4a4c71eafbe6b37452273743608b91",
+    "name": "service_des_impots_des_entreprises_du_centre_des_finances_publiques_de_coutances",
+    "title": "Service des impôts des entreprises du centre des finances publiques de Coutances",
+    "url": "https://lannuaire.service-public.fr/normandie/manche/sie-50147-01",
+    "metadata": {
+      "email": "sip-sie.coutances@dgfip.finances.gouv.fr",
+      "telephone": "02 33 76 66 47",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "ad26ac8e916aea62b28a220006e07e4541beb6a6",
+    "name": "service_des_impots_des_entreprises_du_centre_des_finances_publiques_de_creil",
+    "title": "Service des impôts des entreprises du centre des finances publiques de Creil",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/oise/sie-60175-01",
+    "metadata": {
+      "email": "sie.creil@dgfip.finances.gouv.fr",
+      "telephone": "03 44 64 43 00",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "07804f00ca5606908b9a4cd944a8ea13d0727ff4",
+    "name": "service_des_impots_des_entreprises_du_centre_des_finances_publiques_de_creteil",
+    "title": "Service des impôts des entreprises du centre des finances publiques de Créteil",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/val-de-marne/sie-94028-01",
+    "metadata": {
+      "email": "",
+      "telephone": "01 43 99 36 36",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "54bbb54bc4a52a130b6dfe5ba515ded53d876cdf",
+    "name": "service_des_impots_des_entreprises_du_centre_des_finances_publiques_du_creusot",
+    "title": "Service des impôts des entreprises du centre des finances publiques du Creusot",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/saone-et-loire/sie-71153-01",
+    "metadata": {
+      "email": "sip-sie.le-creusot@dgfip.finances.gouv.fr",
+      "telephone": "03 85 77 40 00",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "75283b46e91d17ca6a3d9dc0f6ad4340de178ac0",
+    "name": "service_des_impots_des_entreprises_du_centre_des_finances_publiques_de_dax",
+    "title": "Service des impôts des entreprises du centre des finances publiques de Dax",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/landes/sie-40088-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 58 56 63 69",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "d0d0850f3442331ad69952c71689549783de62a6",
+    "name": "service_des_impots_des_entreprises_du_centre_des_finances_publiques_de_die",
+    "title": "Service des impôts des entreprises du centre des finances publiques de Die",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/drome/sie-26113-01",
+    "metadata": {
+      "email": "sip-sie.die@dgfip.finances.gouv.fr",
+      "telephone": "04 75 22 29 29",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "8563de4d1f19d0421e5e1bfe4c2e4f9fd4ecc4c2",
+    "name": "service_des_impots_des_entreprises_du_centre_des_finances_publiques_de_dieppe",
+    "title": "Service des impôts des entreprises du centre des finances publiques de Dieppe",
+    "url": "https://lannuaire.service-public.fr/normandie/seine-maritime/sie-76217-01",
+    "metadata": {
+      "email": "sie.dieppe@dgfip.finances.gouv.fr",
+      "telephone": "02 32 14 05 50",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "5d22c9aada4db825b6d53113c516446640d3b7a4",
+    "name": "service_des_impots_des_entreprises_du_centre_des_finances_publiques_de_digne_les_bains",
+    "title": "Service des impôts des entreprises du centre des finances publiques de Digne-les-Bains",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/alpes-de-haute-provence/sie-04070-01",
+    "metadata": {
+      "email": "sie.digne-les-bains@dgfip.finances.gouv.fr",
+      "telephone": "04 92 30 84 84",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "0bf514827d4ce7558032c231e1ded21784d29915",
+    "name": "service_des_impots_des_entreprises_du_centre_des_finances_publiques_de_dijon",
+    "title": "Service des impôts des entreprises du centre des finances publiques de Dijon",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/cote-d-or/sie-21231-01",
+    "metadata": {
+      "email": "sie.dijon@dgfip.finances.gouv.fr",
+      "telephone": "03 80 28 65 51",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "53c64b429268f87c12858ead926f3e105126a479",
+    "name": "service_des_impots_des_entreprises_du_centre_des_finances_publiques_de_dinan",
+    "title": "Service des impôts des entreprises du centre des finances publiques de Dinan",
+    "url": "https://lannuaire.service-public.fr/bretagne/cotes-d-armor/sie-22050-01",
+    "metadata": {
+      "email": "sie.dinan@dgfip.finances.gouv.fr",
+      "telephone": "02 96 87 40 14",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "0d4687660484c837c8b3738fe6d2ad37283a99ec",
+    "name": "service_des_impots_des_entreprises_du_centre_des_finances_publiques_de_dole",
+    "title": "Service des impôts des entreprises du centre des finances publiques de Dole",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/jura/sie-39198-01",
+    "metadata": {
+      "email": "sie.dole@dgfip.finances.gouv.fr",
+      "telephone": "03 84 72 97 38",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "159a7e09b68cf65b1939e7660b656b0c90f2648a",
+    "name": "service_des_impots_des_entreprises_du_centre_des_finances_publiques_de_domfront",
+    "title": "Service des impôts des entreprises du centre des finances publiques de Domfront",
+    "url": "https://lannuaire.service-public.fr/normandie/orne/sie-61145-01",
+    "metadata": {
+      "email": "sip-sie.domfront@dgfip.finances.gouv.fr",
+      "telephone": "02 33 30 27 00",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "a89ec56afa54b5eca765e21efb8b18a3c8bfcc7a",
+    "name": "service_des_impots_des_entreprises_du_centre_des_finances_publiques_de_douai",
+    "title": "Service des impôts des entreprises du centre des finances publiques de Douai",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/nord/sie-59178-01",
+    "metadata": {
+      "email": "sie.douai@dgfip.finances.gouv.fr",
+      "telephone": "03 27 93 48 48",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "33a30441d531c4f9788c1e634f6a1afee9b20eda",
+    "name": "service_des_impots_des_entreprises_du_centre_des_finances_publiques_de_draguignan",
+    "title": "Service des impôts des entreprises du centre des finances publiques de Draguignan",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/var/sie-83050-01",
+    "metadata": {
+      "email": "sie.draguignan@dgfip.finances.gouv.fr",
+      "telephone": "04 94 50 52 52",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "c11176c8dc463948421b9e9c26b24318a17c2ba4",
+    "name": "service_des_impots_des_entreprises_du_centre_des_finances_publiques_de_dreux",
+    "title": "Service des impôts des entreprises du centre des finances publiques de Dreux",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/eure-et-loir/sie-28134-01",
+    "metadata": {
+      "email": "sie.dreux@dgfip.finances.gouv.fr",
+      "telephone": "02 37 38 06 46",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "65dbcf2a3243e06ffdded31f11f46bc2fc157a50",
+    "name": "service_des_impots_des_entreprises_du_centre_des_finances_publiques_de_dunkerque",
+    "title": "Service des impôts des entreprises du centre des finances publiques de Dunkerque",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/nord/sie-59183-01",
+    "metadata": {
+      "email": "sie.dunkerque@dgfip.finances.gouv.fr",
+      "telephone": "03 28 22 67 11",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "4d8c663cafbd67dab9bbaa0222a7fc5621ea0aff",
+    "name": "service_des_impots_des_entreprises_du_centre_des_finances_publiques_d_elbeuf",
+    "title": "Service des impôts des entreprises du centre des finances publiques d'Elbeuf",
+    "url": "https://lannuaire.service-public.fr/normandie/seine-maritime/sie-76231-01",
+    "metadata": {
+      "email": "sip-sie.elbeuf@dgfip.finances.gouv.fr",
+      "telephone": "02 35 77 80 74",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "cef2568f07a1796f4ca03a8ca52d8ede946fc5c0",
+    "name": "service_des_impots_des_entreprises_du_centre_des_finances_publiques_d_epernay",
+    "title": "Service des impôts des entreprises du centre des finances publiques d'Épernay",
+    "url": "https://lannuaire.service-public.fr/grand-est/marne/sie-51230-01",
+    "metadata": {
+      "email": "sie.epernay@dgfip.finances.gouv.fr",
+      "telephone": "03 26 58 78 18",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "30ffb68908fbb6f0a3619618e6ea1dd07fc2abcf",
+    "name": "service_des_impots_des_entreprises_du_centre_des_finances_publiques_d_epinal",
+    "title": "Service des impôts des entreprises du centre des finances publiques d'Épinal",
+    "url": "https://lannuaire.service-public.fr/grand-est/vosges/sie-88160-01",
+    "metadata": {
+      "email": "sie.epinal@dgfip.finances.gouv.fr",
+      "telephone": "03 29 69 22 44",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "d1fbf94e90fe3bf0d6e734858f8897c6a5fef29c",
+    "name": "service_des_impots_des_entreprises_du_centre_des_finances_publiques_d_ermont",
+    "title": "Service des impôts des entreprises du centre des finances publiques d'Ermont",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/val-d-oise/sie-95219-01",
+    "metadata": {
+      "email": "sie.ermont@dgfip.finances.gouv.fr",
+      "telephone": "01 30 72 82 70",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "c2796ad6044804979a927b1f166d0b9e7c5bdd90",
+    "name": "service_des_impots_des_entreprises_du_centre_des_finances_publiques_d_etampes",
+    "title": "Service des impôts des entreprises du centre des finances publiques d'Étampes",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/essonne/sie-91223-01",
+    "metadata": {
+      "email": "sie.etampes@dgfip.finances.gouv.fr",
+      "telephone": "01 69 92 65 65",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "15c3fc5ac04dca6ccb859aa1dcd42383833b8518",
+    "name": "service_des_impots_des_entreprises_du_centre_des_finances_publiques_d_eu",
+    "title": "Service des impôts des entreprises du centre des finances publiques d'Eu",
+    "url": "https://lannuaire.service-public.fr/normandie/seine-maritime/sie-76255-01",
+    "metadata": {
+      "email": "sip-sie.eu@dgfip.finances.gouv.fr",
+      "telephone": "02 27 28 02 25",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "b3a93039aa77a7571a5434d24969f80c965e5c9a",
+    "name": "service_des_impots_des_entreprises_du_centre_des_finances_publiques_d_evreux",
+    "title": "Service des impôts des entreprises du centre des finances publiques d'Évreux",
+    "url": "https://lannuaire.service-public.fr/normandie/eure/sie-27229-02",
+    "metadata": {
+      "email": "sie.evreux@dgfip.finances.gouv.fr",
+      "telephone": "02 32 23 77 00",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "d00b1e80caa25e8a81d907bf0d68f1b883f5e7d6",
+    "name": "service_des_impots_des_entreprises_du_centre_des_finances_publiques_d_evry",
+    "title": "Service des impôts des entreprises du centre des finances publiques d'Évry",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/essonne/sie-91182-01",
+    "metadata": {
+      "email": "sie.evry-ville-nouvelle@dgfip.finances.gouv.fr",
+      "telephone": "01 69 36 63 31",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "17fddb5e0a647f850a95966a0b67dc6fb61490c1",
+    "name": "service_des_impots_des_entreprises_du_centre_des_finances_publiques_de_falaise",
+    "title": "Service des impôts des entreprises du centre des finances publiques de Falaise",
+    "url": "https://lannuaire.service-public.fr/normandie/calvados/sie-14258-01",
+    "metadata": {
+      "email": "sip-sie.falaise@dgfip.finances.gouv.fr",
+      "telephone": "02 31 20 46 91",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "945ddab52b16e17434426f18b4c6ab7aca012c7d",
+    "name": "service_des_impots_des_entreprises_du_centre_des_finances_publiques_de_fecamp",
+    "title": "Service des impôts des entreprises du centre des finances publiques de Fécamp",
+    "url": "https://lannuaire.service-public.fr/normandie/seine-maritime/sie-76259-01",
+    "metadata": {
+      "email": "sip-sie.fecamp@dgfip.finances.gouv.fr",
+      "telephone": "02 35 10 48 00",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "902290613d46832a22bbd1351ae1df5166fea8ff",
+    "name": "service_des_impots_des_entreprises_du_centre_des_finances_publiques_de_feurs",
+    "title": "Service des impôts des entreprises du centre des finances publiques de Feurs",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/loire/sie-42094-01",
+    "metadata": {
+      "email": "sip-sie.feurs@dgfip.finances.gouv.fr",
+      "telephone": "04 77 27 51 22",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "5431e533a1f44b6ed38397313254ab7d38d91608",
+    "name": "service_des_impots_des_entreprises_du_centre_des_finances_publiques_de_figeac",
+    "title": "Service des impôts des entreprises du centre des finances publiques de Figeac",
+    "url": "https://lannuaire.service-public.fr/occitanie/lot/sie-46102-01",
+    "metadata": {
+      "email": "sip-sie.figeac@dgfip.finances.gouv.fr",
+      "telephone": "05 65 50 70 09",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "9ef729b1dde20f5e607df79f300523353a03fd88",
+    "name": "service_des_impots_des_entreprises_du_centre_des_finances_publiques_de_firminy",
+    "title": "Service des impôts des entreprises du centre des finances publiques de Firminy",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/loire/sie-42095-01",
+    "metadata": {
+      "email": "sie.firminy@dgfip.finances.gouv.fr",
+      "telephone": "04 77 10 15 30",
+      "url": "http://www.impots.gouv.fr"
+    }
+  }
+]

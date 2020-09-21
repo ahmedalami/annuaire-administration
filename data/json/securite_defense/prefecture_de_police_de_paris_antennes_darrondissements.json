@@ -1,0 +1,283 @@
+[
+  {
+    "id": "524aa09dcfa4a243f800365691e1ed05ddd4e30d",
+    "name": "prefecture_de_police_de_paris_antenne_du_10_e_arrondissement",
+    "title": "Préfecture de police de Paris - antenne du 10e arrondissement",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/paris/paris_ppp_antenne-75110-01",
+    "metadata": {
+      "email": "",
+      "telephone": "01 58 80 80 80",
+      "url": "https://www.prefecturedepolice.interieur.gouv.fr/Vous-aider/Accueil-du-public/Accueil-du-public/Vos-commissariats/10eme-arrondissement"
+    }
+  },
+  {
+    "id": "1b0a716b26cfffcd0f31741ad591e3ea2ea20b9e",
+    "name": "prefecture_de_police_de_paris_antenne_du_12_e_arrondissement",
+    "title": "Préfecture de police de Paris - antenne du 12e arrondissement",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/paris/paris_ppp_antenne-75112-01",
+    "metadata": {
+      "email": "https://www.rdv-ppol.interieur.gouv.fr",
+      "telephone": "01 58 80 80 80",
+      "url": "http://www.prefecturedepolice.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "b42b4df5478869cad07014ac121dfe437ba8f46f",
+    "name": "prefecture_de_police_de_paris_antenne_du_13_e_arrondissement",
+    "title": "Préfecture de police de Paris - antenne du 13e arrondissement",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/paris/paris_ppp_antenne-75113-01",
+    "metadata": {
+      "email": "https://www.rdv-ppol.interieur.gouv.fr",
+      "telephone": "01 58 80 80 80",
+      "url": "http://www.prefecturedepolice.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "009c487ff8bdb1b5f000675b65c3668fe25bfc67",
+    "name": "prefecture_de_police_de_paris_antenne_du_14_e_arrondissement",
+    "title": "Préfecture de police de Paris - antenne du 14e arrondissement",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/paris/paris_ppp_antenne-75114-01",
+    "metadata": {
+      "email": "https://www.rdv-ppol.interieur.gouv.fr",
+      "telephone": "01 58 80 80 80",
+      "url": "http://www.prefecturedepolice.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "7fd8991307b9db0833c6b6739724689846ce7f92",
+    "name": "prefecture_de_police_de_paris_antenne_du_15_e_arrondissement",
+    "title": "Préfecture de police de Paris - antenne du 15e arrondissement",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/paris/paris_ppp_antenne-75115-01",
+    "metadata": {
+      "email": "https://www.rdv-ppol.interieur.gouv.fr",
+      "telephone": "01 58 80 80 80",
+      "url": "http://www.prefecturedepolice.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "6075d938435373c52554cb59aa67f139f2524229",
+    "name": "prefecture_de_police_de_paris_antenne_du_16_e_arrondissement",
+    "title": "Préfecture de police de Paris - antenne du 16e arrondissement",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/paris/paris_ppp_antenne-75116-01",
+    "metadata": {
+      "email": "https://www.rdv-ppol.interieur.gouv.fr",
+      "telephone": "01 58 80 80 80",
+      "url": "http://www.prefecturedepolice.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "a5943ed9fd506e4c667d83ac93c2ed17bb613dfc",
+    "name": "prefecture_de_police_de_paris_antenne_du_17_e_arrondissement",
+    "title": "Préfecture de police de Paris - antenne du 17e arrondissement",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/paris/paris_ppp_antenne-75117-01",
+    "metadata": {
+      "email": "https://www.rdv-ppol.interieur.gouv.fr",
+      "telephone": "01 58 80 80 80",
+      "url": "http://www.prefecturedepolice.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "0dcde002dc0a52f333a193f0f945e89ff7d7ab3f",
+    "name": "prefecture_de_police_de_paris_antenne_du_18_e_arrondissement",
+    "title": "Préfecture de police de Paris - antenne du 18e arrondissement",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/paris/paris_ppp_antenne-75118-01",
+    "metadata": {
+      "email": "https://www.rdv-ppol.interieur.gouv.fr",
+      "telephone": "01 58 80 80 80",
+      "url": "http://www.prefecturedepolice.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "d8fa6af427edde2f3d14157fd42cb80c19394be8",
+    "name": "prefecture_de_police_de_paris_antenne_du_19_e_arrondissement",
+    "title": "Préfecture de police de Paris - antenne du 19e arrondissement",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/paris/paris_ppp_antenne-75119-01",
+    "metadata": {
+      "email": "https://www.rdv-ppol.interieur.gouv.fr",
+      "telephone": "01 58 80 80 80",
+      "url": "http://www.prefecturedepolice.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "0270d4dfbfdb8031e658687b575a04cbdb056059",
+    "name": "prefecture_de_police_de_paris_antenne_du_20_e_arrondissement",
+    "title": "Préfecture de police de Paris - antenne du 20e arrondissement",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/paris/paris_ppp_antenne-75120-01",
+    "metadata": {
+      "email": "https://www.rdv-ppol.interieur.gouv.fr",
+      "telephone": "01 58 80 80 80",
+      "url": "http://www.prefecturedepolice.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "3629978c239e9fd4dfcfeae0b010f07f2a8d1741",
+    "name": "prefecture_de_police_de_paris_antenne_du_5_e_arrondissement",
+    "title": "Préfecture de police de Paris - antenne du 5e arrondissement",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/paris/paris_ppp_antenne-75105-01",
+    "metadata": {
+      "email": "https://www.rdv-ppol.interieur.gouv.fr",
+      "telephone": "01 58 80 80 80",
+      "url": "http://www.prefecturedepolice.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "44cf7e241d6747421c411ac7033d16abb1880046",
+    "name": "prefecture_de_police_de_paris_antenne_du_7_e_arrondissement",
+    "title": "Préfecture de police de Paris - antenne du 7e arrondissement",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/paris/paris_ppp_antenne-75107-01",
+    "metadata": {
+      "email": "https://www.rdv-ppol.interieur.gouv.fr",
+      "telephone": "01 58 80 80 80",
+      "url": "http://www.prefecturedepolice.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "3e95488112e885140c8e4e12f61b9b1ee78d5ef5",
+    "name": "prefecture_de_police_de_paris_antenne_du_8_e_arrondissement",
+    "title": "Préfecture de police de Paris - antenne du 8e arrondissement",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/paris/paris_ppp_antenne-75108-01",
+    "metadata": {
+      "email": "https://www.rdv-ppol.interieur.gouv.fr",
+      "telephone": "01 58 80 80 80",
+      "url": "http://www.prefecturedepolice.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "3b22e8569c5c7f0d963b1d91cd31ec0a07397745",
+    "name": "prefecture_de_police_de_paris_antenne_du_9_e_arrondissement",
+    "title": "Préfecture de police de Paris - antenne du 9e arrondissement",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/paris/paris_ppp_antenne-75109-01",
+    "metadata": {
+      "email": "https://www.rdv-ppol.interieur.gouv.fr",
+      "telephone": "01 58 80 80 80",
+      "url": "http://www.prefecturedepolice.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "27db60aa042bc2482d4bc8b96e36c44bf49a1eaa",
+    "name": "prefecture_de_police_de_paris_residents_du_11_e_arrondissement",
+    "title": "Préfecture de police de Paris - résidents du 11e arrondissement",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/paris/paris_ppp_antenne-75111-01",
+    "metadata": {
+      "email": "https://www.rdv-ppol.interieur.gouv.fr",
+      "telephone": "01 58 80 80 80",
+      "url": "http://www.prefecturedepolice.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "4e8d536c5a4d183b4404610338b001cf7bc3baae",
+    "alternateName": "certificat d'immatriculation ex-carte grise",
+    "name": "prefecture_de_police_de_paris_residents_du_11_e_arrondissement_certificat_dimmatriculation_ex_carte_grise",
+    "title": "Préfecture de police de Paris - résidents du 11e arrondissement (certificat d'immatriculation ex-carte grise)",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/paris/paris_ppp_antenne-75111-02",
+    "metadata": {
+      "email": "pp-dpg-cartegrise@interieur.gouv.fr",
+      "telephone": "0891 01 22 22",
+      "url": "http://www.prefecturedepolice.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "eb18e025dac08e5e4050fa14503367b8c84748f1",
+    "name": "prefecture_de_police_de_paris_residents_du_1_er_arrondissement",
+    "title": "Préfecture de police de Paris - résidents du 1er arrondissement",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/paris/paris_ppp_antenne-75101-01",
+    "metadata": {
+      "email": "https://www.rdv-ppol.interieur.gouv.fr",
+      "telephone": "01 58 80 80 80",
+      "url": "http://www.prefecturedepolice.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "f6506357fa5e7f61bec5e1f2cd86607756019adb",
+    "alternateName": "certificat d'immatriculation ex-carte grise",
+    "name": "prefecture_de_police_de_paris_residents_du_1_er_arrondissement_certificat_dimmatriculation_ex_carte_grise",
+    "title": "Préfecture de police de Paris - résidents du 1er arrondissement (certificat d'immatriculation ex-carte grise)",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/paris/paris_ppp_antenne-75101-02",
+    "metadata": {
+      "email": "pp-dpg-cartegrise@interieur.gouv.fr",
+      "telephone": "0891 01 22 22",
+      "url": "http://www.prefecturedepolice.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "aaf601bb72ff42180ed8fd9a99206f7e5296d8a3",
+    "name": "prefecture_de_police_de_paris_residents_du_2_e_arrondissement",
+    "title": "Préfecture de police de Paris - résidents du 2e arrondissement",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/paris/paris_ppp_antenne-75102-01",
+    "metadata": {
+      "email": "https://www.rdv-ppol.interieur.gouv.fr",
+      "telephone": "01 58 80 80 80",
+      "url": "http://www.prefecturedepolice.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "55e061546b35bb5c58b32d244a7207001184e5a1",
+    "alternateName": "certificat d'immatriculation ex-carte grise",
+    "name": "prefecture_de_police_de_paris_residents_du_2_e_arrondissement_certificat_dimmatriculation_ex_carte_grise",
+    "title": "Préfecture de police de Paris - résidents du 2e arrondissement (certificat d'immatriculation ex-carte grise)",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/paris/paris_ppp_antenne-75102-02",
+    "metadata": {
+      "email": "pp-dpg-cartegrise@interieur.gouv.fr",
+      "telephone": "0891 01 22 22",
+      "url": "http://www.prefecturedepolice.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "db5488b278fd13893bf29ebbba47b1a4d8143c08",
+    "name": "prefecture_de_police_de_paris_residents_du_3_e_arrondissement",
+    "title": "Préfecture de police de Paris - résidents du 3e arrondissement",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/paris/paris_ppp_antenne-75103-01",
+    "metadata": {
+      "email": "https://www.rdv-ppol.interieur.gouv.fr",
+      "telephone": "01 58 80 80 80",
+      "url": "http://www.prefecturedepolice.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "a90c130d985fa6d469fc564f93813d62e3cd735a",
+    "alternateName": "certificat d'immatriculation ex-carte grise",
+    "name": "prefecture_de_police_de_paris_residents_du_3_e_arrondissement_certificat_dimmatriculation_ex_carte_grise",
+    "title": "Préfecture de police de Paris - résidents du 3e arrondissement (certificat d'immatriculation ex-carte grise)",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/paris/paris_ppp_antenne-75103-02",
+    "metadata": {
+      "email": "pp-dpg-cartegrise@interieur.gouv.fr",
+      "telephone": "0891 01 22 22",
+      "url": "http://www.prefecturedepolice.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "ab1c4d8a28871c07f06455a659bf4ad47c4796f9",
+    "alternateName": "certificat d'immatriculation ex-carte grise",
+    "name": "prefecture_de_police_de_paris_residents_du_4_e_arrondissement_certificat_dimmatriculation_ex_carte_grise",
+    "title": "Préfecture de police de Paris - résidents du 4e arrondissement (certificat d'immatriculation ex-carte grise)",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/paris/paris_ppp_antenne-75104-01",
+    "metadata": {
+      "email": "pp-dpg-cartegrise@interieur.gouv.fr",
+      "telephone": "0891 01 22 22",
+      "url": "http://www.prefecturedepolice.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "c229024b95cacc3ce107501555f0b4d1c51a739a",
+    "name": "prefecture_de_police_de_paris_residents_du_6_e_arrondissement",
+    "title": "Préfecture de police de Paris - résidents du 6e arrondissement",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/paris/paris_ppp_antenne-75106-01",
+    "metadata": {
+      "email": "https://www.rdv-ppol.interieur.gouv.fr",
+      "telephone": "01 58 80 80 80",
+      "url": "http://www.prefecturedepolice.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "908c552d0aeb5dab84e3255e24bca1048934fbbb",
+    "alternateName": "certificat d'immatriculation ex-carte grise",
+    "name": "prefecture_de_police_de_paris_residents_du_6_e_arrondissement_certificat_dimmatriculation_ex_carte_grise",
+    "title": "Préfecture de police de Paris - résidents du 6e arrondissement (certificat d'immatriculation ex-carte grise)",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/paris/paris_ppp_antenne-75106-02",
+    "metadata": {
+      "email": "pp-dpg-cartegrise@interieur.gouv.fr",
+      "telephone": "0891 01 22 22",
+      "url": "http://www.prefecturedepolice.interieur.gouv.fr"
+    }
+  }
+]

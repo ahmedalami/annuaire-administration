@@ -1,0 +1,35 @@
+[
+  {
+    "id": "b07f5aba8adefef8f6f074fa1efec546c0901a8c",
+    "name": "direction_territoriale_de_la_police_nationale_guyane",
+    "title": "Direction territoriale de la police nationale - Guyane",
+    "url": "https://lannuaire.service-public.fr/guyane/guyane/direction_territoriale_police-97302-01",
+    "metadata": {
+      "email": "",
+      "telephone": "0594 29 98 00",
+      "url": "https://www.police-nationale.interieur.gouv.fr/"
+    }
+  },
+  {
+    "id": "f2f11657947f731448f55dc57add20542116b014",
+    "name": "direction_territoriale_de_la_police_nationale_mayotte",
+    "title": "Direction territoriale de la police nationale - Mayotte",
+    "url": "https://lannuaire.service-public.fr/mayotte/mayotte/direction_territoriale_police-97611-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 69 61 12 22",
+      "url": "https://www.police-nationale.interieur.gouv.fr/"
+    }
+  },
+  {
+    "id": "cd4bd2464065c924b96d163d3eab6d8850d14006",
+    "name": "direction_territoriale_de_la_police_nationale_nouvelle_caledonie",
+    "title": "Direction territoriale de la police nationale - Nouvelle-Calédonie",
+    "url": "https://lannuaire.service-public.fr/collectivites-d-outre-mer/nouvelle-caledonie/direction_territoriale_police-98818-01",
+    "metadata": {
+      "email": "dsp988@interieur.gouv.fr",
+      "telephone": "+687 24 33 00",
+      "url": "https://www.police-nationale.interieur.gouv.fr/"
+    }
+  }
+]

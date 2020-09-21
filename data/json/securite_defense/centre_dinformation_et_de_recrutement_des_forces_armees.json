@@ -1,0 +1,1202 @@
+[
+  {
+    "id": "522e3bb0bd4c695be6c75e5597723d3e9d658a05",
+    "alternateName": "CIRFA",
+    "name": "centre_dinformation_et_de_recrutement_des_forces_armees_cirfa_agen",
+    "title": "Centre d'information et de recrutement des forces armées (CIRFA) - Agen",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/lot-et-garonne/cirfa-47001-01",
+    "metadata": {
+      "email": "https://www.recrutement.terre.defense.gouv.fr/contactez-nous",
+      "telephone": "05 53 77 15 71",
+      "url": "https://www.recrutement.terre.defense.gouv.fr/ou-nous-rencontrer/cirfa-dagen"
+    }
+  },
+  {
+    "id": "74f35420ef1e2d169e3ab7aefb8bbe75eb6e7e07",
+    "alternateName": "CIRFA",
+    "name": "centre_dinformation_et_de_recrutement_des_forces_armees_cirfa_aix_en_provence",
+    "title": "Centre d'information et de recrutement des forces armées (CIRFA) - Aix en Provence",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/cirfa-13001-01",
+    "metadata": {
+      "email": "https://www.recrutement.terre.defense.gouv.fr/contactez-nous",
+      "telephone": "04 42 95 18 31",
+      "url": "https://www.recrutement.terre.defense.gouv.fr/ou-nous-rencontrer/cirfa-daix-en-provence"
+    }
+  },
+  {
+    "id": "288a294ee2eae23551a6026cb6c292b0274fc864",
+    "alternateName": "CIRFA",
+    "name": "centre_dinformation_et_de_recrutement_des_forces_armees_cirfa_ajaccio",
+    "title": "Centre d'information et de recrutement des forces armées (CIRFA) - Ajaccio",
+    "url": "https://lannuaire.service-public.fr/corse/corse-du-sud/cirfa-2A004-01",
+    "metadata": {
+      "email": "https://www.recrutement.terre.defense.gouv.fr/contactez-nous",
+      "telephone": "04 20 00 70 88",
+      "url": "https://www.recrutement.terre.defense.gouv.fr/ou-nous-rencontrer/cirfa-dajaccio"
+    }
+  },
+  {
+    "id": "96f86bd3c2d94777c19b4a3bbe39fff8bbf0af35",
+    "alternateName": "CIRFA",
+    "name": "centre_dinformation_et_de_recrutement_des_forces_armees_cirfa_albi",
+    "title": "Centre d'information et de recrutement des forces armées (CIRFA) - Albi",
+    "url": "https://lannuaire.service-public.fr/occitanie/tarn/cirfa-81004-01",
+    "metadata": {
+      "email": "https://www.recrutement.terre.defense.gouv.fr/contactez-nous",
+      "telephone": "05 63 77 32 76",
+      "url": "https://www.recrutement.terre.defense.gouv.fr/ou-nous-rencontrer/cirfa-dalbi"
+    }
+  },
+  {
+    "id": "73f879f7530ff0a5d0af91398e495bcf679474d9",
+    "alternateName": "CIRFA",
+    "name": "centre_dinformation_et_de_recrutement_des_forces_armees_cirfa_alencon",
+    "title": "Centre d'information et de recrutement des forces armées (CIRFA) - Alençon",
+    "url": "https://lannuaire.service-public.fr/normandie/orne/cirfa-61001-01",
+    "metadata": {
+      "email": "https://www.recrutement.terre.defense.gouv.fr/contactez-nous",
+      "telephone": "02 33 81 29 30",
+      "url": "https://www.recrutement.terre.defense.gouv.fr/ou-nous-rencontrer/cirfa-dalencon"
+    }
+  },
+  {
+    "id": "f42984d442239c5a4cc0800525cdbb15388a798b",
+    "alternateName": "CIRFA",
+    "name": "centre_dinformation_et_de_recrutement_des_forces_armees_cirfa_amiens",
+    "title": "Centre d'information et de recrutement des forces armées (CIRFA) - Amiens",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/somme/cirfa-80021-01",
+    "metadata": {
+      "email": "https://www.recrutement.terre.defense.gouv.fr/contactez-nous",
+      "telephone": "03 22 33 83 44",
+      "url": "https://www.recrutement.terre.defense.gouv.fr/ou-nous-rencontrer/cirfa-damiens"
+    }
+  },
+  {
+    "id": "75ed9b567e5b1882c2c5b5808dce25addf5db717",
+    "alternateName": "CIRFA",
+    "name": "centre_dinformation_et_de_recrutement_des_forces_armees_cirfa_angers",
+    "title": "Centre d'information et de recrutement des forces armées (CIRFA) - Angers",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/maine-et-loire/cirfa-49007-01",
+    "metadata": {
+      "email": "https://www.recrutement.terre.defense.gouv.fr/contactez-nous",
+      "telephone": "02 41 25 63 27",
+      "url": "https://www.recrutement.terre.defense.gouv.fr/ou-nous-rencontrer/cirfa-de-angers"
+    }
+  },
+  {
+    "id": "4fbe8e0bbc7d3c13278b6258028d41f71a8799b9",
+    "alternateName": "CIRFA",
+    "name": "centre_dinformation_et_de_recrutement_des_forces_armees_cirfa_angouleme",
+    "title": "Centre d'information et de recrutement des forces armées (CIRFA) - Angoulême",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/charente/cirfa-16015-01",
+    "metadata": {
+      "email": "https://www.recrutement.terre.defense.gouv.fr/contactez-nous",
+      "telephone": "05 45 22 86 85",
+      "url": "https://www.recrutement.terre.defense.gouv.fr/ou-nous-rencontrer/cirfa-dangouleme"
+    }
+  },
+  {
+    "id": "869616f55e9f4abcc705cfa3aa4cac1a92bffcad",
+    "alternateName": "CIRFA",
+    "name": "centre_dinformation_et_de_recrutement_des_forces_armees_cirfa_annecy",
+    "title": "Centre d'information et de recrutement des forces armées (CIRFA) - Annecy",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/haute-savoie/cirfa-74010-01",
+    "metadata": {
+      "email": "https://www.recrutement.terre.defense.gouv.fr/contactez-nous",
+      "telephone": "04 50 66 67 87",
+      "url": "https://www.recrutement.terre.defense.gouv.fr/ou-nous-rencontrer/cirfa-dannecy"
+    }
+  },
+  {
+    "id": "7ea8dea88dcaa28c48aa4184efd88678ac2a9fcc",
+    "alternateName": "CIRFA",
+    "name": "centre_dinformation_et_de_recrutement_des_forces_armees_cirfa_arras",
+    "title": "Centre d'information et de recrutement des forces armées (CIRFA) - Arras",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/pas-de-calais/cirfa-62041-01",
+    "metadata": {
+      "email": "https://www.recrutement.terre.defense.gouv.fr/contactez-nous",
+      "telephone": "03 21 60 99 12",
+      "url": "https://www.recrutement.terre.defense.gouv.fr/ou-nous-rencontrer/cirfa-darras"
+    }
+  },
+  {
+    "id": "fab7ce3f555de3661473806a4a58aed84db6b8fb",
+    "alternateName": "CIRFA",
+    "name": "centre_dinformation_et_de_recrutement_des_forces_armees_cirfa_auxerre",
+    "title": "Centre d'information et de recrutement des forces armées (CIRFA) - Auxerre",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/yonne/cirfa-89024-01",
+    "metadata": {
+      "email": "https://www.recrutement.terre.defense.gouv.fr/contactez-nous",
+      "telephone": "03 86 72 72 72",
+      "url": "https://www.recrutement.terre.defense.gouv.fr/ou-nous-rencontrer/cirfa-dauxerre"
+    }
+  },
+  {
+    "id": "43a19bb4b8ac0dec00d071ddc8e9e7913a828a1f",
+    "alternateName": "CIRFA",
+    "name": "centre_dinformation_et_de_recrutement_des_forces_armees_cirfa_avignon",
+    "title": "Centre d'information et de recrutement des forces armées (CIRFA) - Avignon",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/vaucluse/cirfa-84007-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 90 14 52 93",
+      "url": "https://www.sengager.fr"
+    }
+  },
+  {
+    "id": "51a96f74f7dcef6ab02cf796a60d5f77b72ab805",
+    "alternateName": "CIRFA",
+    "name": "centre_dinformation_et_de_recrutement_des_forces_armees_cirfa_baie_mahault_guadeloupe",
+    "title": "Centre d'information et de recrutement des forces armées (CIRFA) - Baie-Mahault (Guadeloupe)",
+    "url": "https://lannuaire.service-public.fr/guadeloupe/guadeloupe/cirfa-97103-01",
+    "metadata": {
+      "email": "https://www.recrutement.terre.defense.gouv.fr/contactez-nous",
+      "telephone": "05 90 60 61 65",
+      "url": "https://www.recrutement.terre.defense.gouv.fr/ou-nous-rencontrer/cirfa-de-guadeloupe"
+    }
+  },
+  {
+    "id": "5118de359944d2e42b77bf4c60f2f538b7aefd00",
+    "alternateName": "CIRFA",
+    "name": "centre_dinformation_et_de_recrutement_des_forces_armees_cirfa_bastia",
+    "title": "Centre d'information et de recrutement des forces armées (CIRFA) - Bastia",
+    "url": "https://lannuaire.service-public.fr/corse/haute-corse/cirfa-2B033-01",
+    "metadata": {
+      "email": "https://www.recrutement.terre.defense.gouv.fr/contactez-nous",
+      "telephone": "04 95 32 20 48",
+      "url": "https://www.recrutement.terre.defense.gouv.fr/ou-nous-rencontrer/cirfa-de-bastia"
+    }
+  },
+  {
+    "id": "6279db47f8b5a081e26c0b53214471432710bcb9",
+    "alternateName": "CIRFA",
+    "name": "centre_dinformation_et_de_recrutement_des_forces_armees_cirfa_bayonne",
+    "title": "Centre d'information et de recrutement des forces armées (CIRFA) - Bayonne",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/pyrenees-atlantiques/cirfa-64102-01",
+    "metadata": {
+      "email": "https://www.recrutement.terre.defense.gouv.fr/contactez-nous",
+      "telephone": "05 40 07 80 34",
+      "url": "https://www.recrutement.terre.defense.gouv.fr/ou-nous-rencontrer/cirfa-de-bayonne"
+    }
+  },
+  {
+    "id": "397a79812dfbca373bba010bbe2642a0770cd7b1",
+    "alternateName": "CIRFA",
+    "name": "centre_dinformation_et_de_recrutement_des_forces_armees_cirfa_belfort",
+    "title": "Centre d'information et de recrutement des forces armées (CIRFA) - Belfort",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/territoire-de-belfort/cirfa-90010-01",
+    "metadata": {
+      "email": "https://www.recrutement.terre.defense.gouv.fr/contactez-nous",
+      "telephone": "03 63 78 22 45",
+      "url": "https://www.recrutement.terre.defense.gouv.fr/ou-nous-rencontrer/cirfa-de-belfort"
+    }
+  },
+  {
+    "id": "14768de83fe3cfa99416715f276cb0fba4ca9df8",
+    "alternateName": "CIRFA",
+    "name": "centre_dinformation_et_de_recrutement_des_forces_armees_cirfa_besancon",
+    "title": "Centre d'information et de recrutement des forces armées (CIRFA) - Besançon",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/doubs/cirfa-25056-01",
+    "metadata": {
+      "email": "https://www.recrutement.terre.defense.gouv.fr/contactez-nous",
+      "telephone": "03 81 87 21 20",
+      "url": "https://www.recrutement.terre.defense.gouv.fr/ou-nous-rencontrer/cirfa-de-besancon"
+    }
+  },
+  {
+    "id": "abebb69b6acbfd58977e0cab5148b1d73b30fd20",
+    "alternateName": "CIRFA",
+    "name": "centre_dinformation_et_de_recrutement_des_forces_armees_cirfa_beziers",
+    "title": "Centre d'information et de recrutement des forces armées (CIRFA) - Béziers",
+    "url": "https://lannuaire.service-public.fr/occitanie/herault/cirfa-34032-01",
+    "metadata": {
+      "email": "https://www.recrutement.terre.defense.gouv.fr/contactez-nous",
+      "telephone": "04 67 16 60 80",
+      "url": "https://www.recrutement.terre.defense.gouv.fr/ou-nous-rencontrer/cirfa-de-beziers"
+    }
+  },
+  {
+    "id": "c86d17cb015a4a6efff8cb62f2cc5cff1dac3a20",
+    "alternateName": "CIRFA",
+    "name": "centre_dinformation_et_de_recrutement_des_forces_armees_cirfa_blois",
+    "title": "Centre d'information et de recrutement des forces armées (CIRFA) - Blois",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/loir-et-cher/cirfa-41018-01",
+    "metadata": {
+      "email": "https://www.recrutement.terre.defense.gouv.fr/contactez-nous",
+      "telephone": "02 54 57 62 42",
+      "url": "https://www.recrutement.terre.defense.gouv.fr/ou-nous-rencontrer/cirfa-de-blois"
+    }
+  },
+  {
+    "id": "70b6b917ee038cc52a12c20b91a453e5c7d50a11",
+    "alternateName": "CIRFA",
+    "name": "centre_dinformation_et_de_recrutement_des_forces_armees_cirfa_bordeaux",
+    "title": "Centre d'information et de recrutement des forces armées (CIRFA) - Bordeaux",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/gironde/cirfa-33063-01",
+    "metadata": {
+      "email": "https://www.recrutement.terre.defense.gouv.fr/contactez-nous",
+      "telephone": "05 57 53 60 23",
+      "url": "https://www.recrutement.terre.defense.gouv.fr/ou-nous-rencontrer/cirfa-de-bordeaux"
+    }
+  },
+  {
+    "id": "2b37748add3bc549f10da17bdf86f40012b1292a",
+    "alternateName": "CIRFA",
+    "name": "centre_dinformation_et_de_recrutement_des_forces_armees_cirfa_bourg_en_bresse",
+    "title": "Centre d'information et de recrutement des forces armées (CIRFA) - Bourg-en-Bresse",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/ain/cirfa-01053-01",
+    "metadata": {
+      "email": "https://www.recrutement.terre.defense.gouv.fr/contactez-nous",
+      "telephone": "04 74 32 19 19",
+      "url": "https://www.recrutement.terre.defense.gouv.fr/ou-nous-rencontrer/cirfa-de-bourg-en-bresse"
+    }
+  },
+  {
+    "id": "56aaff55dfbccb730c7891c60316436149ce5a25",
+    "alternateName": "CIRFA",
+    "name": "centre_dinformation_et_de_recrutement_des_forces_armees_cirfa_brest",
+    "title": "Centre d'information et de recrutement des forces armées (CIRFA) - Brest",
+    "url": "https://lannuaire.service-public.fr/bretagne/finistere/cirfa-29019-01",
+    "metadata": {
+      "email": "https://www.recrutement.terre.defense.gouv.fr/contactez-nous",
+      "telephone": "02 98 22 16 23",
+      "url": "https://www.recrutement.terre.defense.gouv.fr/ou-nous-rencontrer/cirfa-de-brest"
+    }
+  },
+  {
+    "id": "26c339a04f3530a9efd60883c314cb58f43494c2",
+    "alternateName": "CIRFA",
+    "name": "centre_dinformation_et_de_recrutement_des_forces_armees_cirfa_brive",
+    "title": "Centre d'information et de recrutement des forces armées (CIRFA) - Brive",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/correze/cirfa-19031-01",
+    "metadata": {
+      "email": "https://www.recrutement.terre.defense.gouv.fr/contactez-nous",
+      "telephone": "05 55 24 39 32",
+      "url": "https://www.recrutement.terre.defense.gouv.fr/ou-nous-rencontrer/cirfa-de-brive"
+    }
+  },
+  {
+    "id": "1c5950cc1f04066c2aa3ee29a3a9cbefaf521e99",
+    "alternateName": "CIRFA",
+    "name": "centre_dinformation_et_de_recrutement_des_forces_armees_cirfa_caen",
+    "title": "Centre d'information et de recrutement des forces armées (CIRFA) - Caen",
+    "url": "https://lannuaire.service-public.fr/normandie/calvados/cirfa-14118-01",
+    "metadata": {
+      "email": "https://www.recrutement.terre.defense.gouv.fr/contactez-nous",
+      "telephone": "02 31 38 46 29",
+      "url": "https://www.recrutement.terre.defense.gouv.fr/ou-nous-rencontrer/cirfa-de-caen"
+    }
+  },
+  {
+    "id": "b75899e41ef6c4787fc862e24420ab0ee6a49d0e",
+    "alternateName": "CIRFA",
+    "name": "centre_dinformation_et_de_recrutement_des_forces_armees_cirfa_cahors",
+    "title": "Centre d'information et de recrutement des forces armées (CIRFA) - Cahors",
+    "url": "https://lannuaire.service-public.fr/occitanie/lot/cirfa-46042-01",
+    "metadata": {
+      "email": "https://www.recrutement.terre.defense.gouv.fr/contactez-nous",
+      "telephone": "05 65 20 36 60",
+      "url": "https://www.recrutement.terre.defense.gouv.fr/ou-nous-rencontrer/cirfa-de-cahors"
+    }
+  },
+  {
+    "id": "1183ceca8ebd32b17ce705c08746bc5e1427222a",
+    "alternateName": "CIRFA",
+    "name": "centre_dinformation_et_de_recrutement_des_forces_armees_cirfa_carcassonne",
+    "title": "Centre d'information et de recrutement des forces armées (CIRFA) - Carcassonne",
+    "url": "https://lannuaire.service-public.fr/occitanie/aude/cirfa-11069-01",
+    "metadata": {
+      "email": "https://www.recrutement.terre.defense.gouv.fr/contactez-nous",
+      "telephone": "04 68 26 78 83",
+      "url": "https://www.recrutement.terre.defense.gouv.fr/ou-nous-rencontrer/cirfa-de-carcassonne"
+    }
+  },
+  {
+    "id": "344149bf196707a20d2147bf05f78ed87b085677",
+    "alternateName": "CIRFA",
+    "name": "centre_dinformation_et_de_recrutement_des_forces_armees_cirfa_cergy_pontoise",
+    "title": "Centre d'information et de recrutement des forces armées (CIRFA) - Cergy-Pontoise",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/val-d-oise/cirfa-95500-01",
+    "metadata": {
+      "email": "https://www.recrutement.terre.defense.gouv.fr/contactez-nous",
+      "telephone": "01 34 20 85 00",
+      "url": "https://www.recrutement.terre.defense.gouv.fr/ou-nous-rencontrer/cirfa-de-cergy-pontoise"
+    }
+  },
+  {
+    "id": "9d36f6c916d16da1a4f07369452b44892042e2be",
+    "alternateName": "CIRFA",
+    "name": "centre_dinformation_et_de_recrutement_des_forces_armees_cirfa_chambery",
+    "title": "Centre d'information et de recrutement des forces armées (CIRFA) - Chambéry",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/savoie/cirfa-73065-01",
+    "metadata": {
+      "email": "https://www.recrutement.terre.defense.gouv.fr/contactez-nous",
+      "telephone": "04 79 70 96 89",
+      "url": "https://www.recrutement.terre.defense.gouv.fr/ou-nous-rencontrer/cirfa-de-chambery"
+    }
+  },
+  {
+    "id": "5df62c660140ee8a60f719173546acc99f6b1c94",
+    "alternateName": "CIRFA",
+    "name": "centre_dinformation_et_de_recrutement_des_forces_armees_cirfa_charleville_mezieres",
+    "title": "Centre d'information et de recrutement des forces armées (CIRFA) - Charleville-Mézières",
+    "url": "https://lannuaire.service-public.fr/grand-est/ardennes/cirfa-08105-01",
+    "metadata": {
+      "email": "https://www.recrutement.terre.defense.gouv.fr/contactez-nous",
+      "telephone": "03 24 41 35 36",
+      "url": "https://www.recrutement.terre.defense.gouv.fr/ou-nous-rencontrer/cirfa-de-charleville-mezieres"
+    }
+  },
+  {
+    "id": "7ca2af385fad3e3c16b9e5d5004fa219a9a749c9",
+    "alternateName": "CIRFA",
+    "name": "centre_dinformation_et_de_recrutement_des_forces_armees_cirfa_chartres",
+    "title": "Centre d'information et de recrutement des forces armées (CIRFA) - Chartres",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/eure-et-loir/cirfa-28085-01",
+    "metadata": {
+      "email": "https://www.recrutement.terre.defense.gouv.fr/contactez-nous",
+      "telephone": "02 37 91 56 39",
+      "url": "https://www.recrutement.terre.defense.gouv.fr/ou-nous-rencontrer/cirfa-de-chartres"
+    }
+  },
+  {
+    "id": "3ac99143c7f99639a5243497b6d9375b8e3f2f53",
+    "alternateName": "CIRFA",
+    "name": "centre_dinformation_et_de_recrutement_des_forces_armees_cirfa_chaumont",
+    "title": "Centre d'information et de recrutement des forces armées (CIRFA) - Chaumont",
+    "url": "https://lannuaire.service-public.fr/grand-est/haute-marne/cirfa-52121-01",
+    "metadata": {
+      "email": "https://www.recrutement.terre.defense.gouv.fr/contactez-nous",
+      "telephone": "03 25 03 84 00",
+      "url": "https://www.recrutement.terre.defense.gouv.fr/ou-nous-rencontrer/cirfa-de-chaumont"
+    }
+  },
+  {
+    "id": "466b105cbb84e850fa435826621d1188c31aeca6",
+    "alternateName": "CIRFA",
+    "name": "centre_dinformation_et_de_recrutement_des_forces_armees_cirfa_clermont_ferrand",
+    "title": "Centre d'information et de recrutement des forces armées (CIRFA) - Clermont-Ferrand",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/puy-de-dome/cirfa-63113-01",
+    "metadata": {
+      "email": "https://www.recrutement.terre.defense.gouv.fr/contactez-nous",
+      "telephone": "04 73 16 18 88",
+      "url": "https://www.recrutement.terre.defense.gouv.fr/ou-nous-rencontrer/cirfa-de-clermont-ferrand"
+    }
+  },
+  {
+    "id": "3ea1e3b0997247073c99aaccf41ba93defd77075",
+    "alternateName": "CIRFA",
+    "name": "centre_dinformation_et_de_recrutement_des_forces_armees_cirfa_compiegne",
+    "title": "Centre d'information et de recrutement des forces armées (CIRFA) - Compiègne",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/oise/cirfa-60159-01",
+    "metadata": {
+      "email": "https://www.recrutement.terre.defense.gouv.fr/contactez-nous",
+      "telephone": "03 44 38 59 59",
+      "url": "https://www.recrutement.terre.defense.gouv.fr/ou-nous-rencontrer/cirfa-de-compiegne"
+    }
+  },
+  {
+    "id": "ce15f8e157347ab1220fd0d874c825950579b079",
+    "alternateName": "CIRFA",
+    "name": "centre_dinformation_et_de_recrutement_des_forces_armees_cirfa_dijon",
+    "title": "Centre d'information et de recrutement des forces armées (CIRFA) - Dijon",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/cote-d-or/cirfa-21231-01",
+    "metadata": {
+      "email": "https://www.recrutement.terre.defense.gouv.fr/contactez-nous",
+      "telephone": "03 80 11 22 14",
+      "url": "https://www.recrutement.terre.defense.gouv.fr/ou-nous-rencontrer/cirfa-de-dijon"
+    }
+  },
+  {
+    "id": "0225e9f9a154c669890fab1ef5d3c6f173787657",
+    "alternateName": "CIRFA",
+    "name": "centre_dinformation_et_de_recrutement_des_forces_armees_cirfa_dunkerque",
+    "title": "Centre d'information et de recrutement des forces armées (CIRFA) - Dunkerque",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/nord/cirfa-59183-01",
+    "metadata": {
+      "email": "https://www.recrutement.terre.defense.gouv.fr/contactez-nous",
+      "telephone": "03 28 66 93 34",
+      "url": "https://www.recrutement.terre.defense.gouv.fr/ou-nous-rencontrer/cirfa-de-dunkerque"
+    }
+  },
+  {
+    "id": "24af4933681423693ce3fab3bdca18da047f5bf4",
+    "alternateName": "CIRFA",
+    "name": "centre_dinformation_et_de_recrutement_des_forces_armees_cirfa_dzaoudzi_mayotte",
+    "title": "Centre d'information et de recrutement des forces armées (CIRFA) - Dzaoudzi (Mayotte)",
+    "url": "https://lannuaire.service-public.fr/mayotte/mayotte/cirfa-97608-01",
+    "metadata": {
+      "email": "https://www.recrutement.terre.defense.gouv.fr/contactez-nous",
+      "telephone": "02 69 64 46 60",
+      "url": "https://www.recrutement.terre.defense.gouv.fr/ou-nous-rencontrer/cirfa-de-mayotte"
+    }
+  },
+  {
+    "id": "86c0c4914e625f80bf5c09c7ed2b5f90a4674359",
+    "alternateName": "CIRFA",
+    "name": "centre_dinformation_et_de_recrutement_des_forces_armees_cirfa_epinal",
+    "title": "Centre d'information et de recrutement des forces armées (CIRFA) - Épinal",
+    "url": "https://lannuaire.service-public.fr/grand-est/vosges/cirfa-88160-01",
+    "metadata": {
+      "email": "https://www.recrutement.terre.defense.gouv.fr/contactez-nous",
+      "telephone": "03 29 29 28 76",
+      "url": "https://www.recrutement.terre.defense.gouv.fr/ou-nous-rencontrer/cirfa-depinal"
+    }
+  },
+  {
+    "id": "4513ac4515036c6ef232093f990a3d8f095b933b",
+    "alternateName": "CIRFA",
+    "name": "centre_dinformation_et_de_recrutement_des_forces_armees_cirfa_evreux",
+    "title": "Centre d'information et de recrutement des forces armées (CIRFA) - Evreux",
+    "url": "https://lannuaire.service-public.fr/normandie/eure/cirfa-27229-01",
+    "metadata": {
+      "email": "https://www.recrutement.terre.defense.gouv.fr/contactez-nous",
+      "telephone": "02 32 31 99 50",
+      "url": "https://www.recrutement.terre.defense.gouv.fr/ou-nous-rencontrer/cirfa-devreux"
+    }
+  },
+  {
+    "id": "b3a3f800e8e617c150d1b659f8984c064323d190",
+    "alternateName": "CIRFA",
+    "name": "centre_dinformation_et_de_recrutement_des_forces_armees_cirfa_evry",
+    "title": "Centre d'information et de recrutement des forces armées (CIRFA) - Evry",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/essonne/cirfa-91228-01",
+    "metadata": {
+      "email": "https://www.recrutement.terre.defense.gouv.fr/contactez-nous",
+      "telephone": "01 69 47 49 99",
+      "url": "https://www.recrutement.terre.defense.gouv.fr/ou-nous-rencontrer/cirfa-de-evry"
+    }
+  },
+  {
+    "id": "2cccfca091843e933fc6e1ef42793078d3d5459e",
+    "alternateName": "CIRFA",
+    "name": "centre_dinformation_et_de_recrutement_des_forces_armees_cirfa_foix",
+    "title": "Centre d'information et de recrutement des forces armées (CIRFA) - Foix",
+    "url": "https://lannuaire.service-public.fr/occitanie/ariege/cirfa-09122-01",
+    "metadata": {
+      "email": "https://www.recrutement.terre.defense.gouv.fr/contactez-nous",
+      "telephone": "05 61 05 07 11",
+      "url": "https://www.recrutement.terre.defense.gouv.fr/ou-nous-rencontrer/cirfa-de-foix"
+    }
+  },
+  {
+    "id": "cfbb9ba3984abf51338f088d5c7553b10a87b326",
+    "alternateName": "CIRFA",
+    "name": "centre_dinformation_et_de_recrutement_des_forces_armees_cirfa_fort_de_france_martinique",
+    "title": "Centre d'information et de recrutement des forces armées (CIRFA) - Fort-de-France (Martinique)",
+    "url": "https://lannuaire.service-public.fr/martinique/martinique/cirfa-97209-01",
+    "metadata": {
+      "email": "https://www.recrutement.terre.defense.gouv.fr/contactez-nous",
+      "telephone": "05 96 39 58 76",
+      "url": "https://www.recrutement.terre.defense.gouv.fr/ou-nous-rencontrer/cirfa-de-martinique"
+    }
+  },
+  {
+    "id": "1556823c8ca6b5d022b429e7069b881d5cb3b9f2",
+    "alternateName": "CIRFA",
+    "name": "centre_dinformation_et_de_recrutement_des_forces_armees_cirfa_gap",
+    "title": "Centre d'information et de recrutement des forces armées (CIRFA) - Gap",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/hautes-alpes/cirfa-05061-01",
+    "metadata": {
+      "email": "https://www.recrutement.terre.defense.gouv.fr/contactez-nous",
+      "telephone": "04 92 67 54 33",
+      "url": "https://www.recrutement.terre.defense.gouv.fr/ou-nous-rencontrer/cirfa-de-gap"
+    }
+  },
+  {
+    "id": "f424d1a9aeb5c1de81ce7950bc1dc3435d443607",
+    "alternateName": "CIRFA",
+    "name": "centre_dinformation_et_de_recrutement_des_forces_armees_cirfa_grenoble",
+    "title": "Centre d'information et de recrutement des forces armées (CIRFA) - Grenoble",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/isere/cirfa-38185-01",
+    "metadata": {
+      "email": "https://www.recrutement.terre.defense.gouv.fr/contactez-nous",
+      "telephone": "04 76 76 22 30",
+      "url": "https://www.recrutement.terre.defense.gouv.fr/ou-nous-rencontrer/cirfa-de-grenoble"
+    }
+  },
+  {
+    "id": "24a1c7132ce2e67a613b7fca5ad49b3b98631377",
+    "alternateName": "CIRFA",
+    "name": "centre_dinformation_et_de_recrutement_des_forces_armees_cirfa_la_defense_courbevoie",
+    "title": "Centre d'information et de recrutement des forces armées (CIRFA) - La Défense (Courbevoie)",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/hauts-de-seine/cirfa-92026-01",
+    "metadata": {
+      "email": "https://www.recrutement.terre.defense.gouv.fr/contactez-nous",
+      "telephone": "01 71 77 32 93",
+      "url": "https://www.recrutement.terre.defense.gouv.fr/ou-nous-rencontrer/cirfa-de-la-defense"
+    }
+  },
+  {
+    "id": "7113817ef6761fb9823c67c0301b11aa22dd0245",
+    "alternateName": "CIRFA",
+    "name": "centre_dinformation_et_de_recrutement_des_forces_armees_cirfa_laon",
+    "title": "Centre d'information et de recrutement des forces armées (CIRFA) - Laon",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/aisne/cirfa-02408-01",
+    "metadata": {
+      "email": "https://www.recrutement.terre.defense.gouv.fr/contactez-nous",
+      "telephone": "03 23 26 72 38",
+      "url": "https://www.recrutement.terre.defense.gouv.fr/ou-nous-rencontrer/cirfa-de-laon"
+    }
+  },
+  {
+    "id": "924f55f525486ca9310f2c5483dba34531b59b3d",
+    "alternateName": "CIRFA",
+    "name": "centre_dinformation_et_de_recrutement_des_forces_armees_cirfa_la_rochelle",
+    "title": "Centre d'information et de recrutement des forces armées (CIRFA) - La Rochelle",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/charente-maritime/cirfa-17300-01",
+    "metadata": {
+      "email": "https://www.recrutement.terre.defense.gouv.fr/contactez-nous",
+      "telephone": "05 46 50 42 00",
+      "url": "https://www.recrutement.terre.defense.gouv.fr/ou-nous-rencontrer/cirfa-de-la-rochelle"
+    }
+  },
+  {
+    "id": "d0cd47031b9ea51d3b95d9f7d9855c69d819ca08",
+    "alternateName": "CIRFA",
+    "name": "centre_dinformation_et_de_recrutement_des_forces_armees_cirfa_la_roche_sur_yon",
+    "title": "Centre d'information et de recrutement des forces armées (CIRFA) - La Roche-sur-Yon",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/vendee/cirfa-85191-01",
+    "metadata": {
+      "email": "https://www.recrutement.terre.defense.gouv.fr/contactez-nous",
+      "telephone": "02 51 47 88 45",
+      "url": "https://www.recrutement.terre.defense.gouv.fr/ou-nous-rencontrer/cirfa-de-la-roche-sur-yon"
+    }
+  },
+  {
+    "id": "c5b5f18dad35e6f33add826d05d324ae702c9604",
+    "alternateName": "CIRFA",
+    "name": "centre_dinformation_et_de_recrutement_des_forces_armees_cirfa_laval",
+    "title": "Centre d'information et de recrutement des forces armées (CIRFA) - Laval",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/mayenne/cirfa-53130-01",
+    "metadata": {
+      "email": "https://www.recrutement.terre.defense.gouv.fr/contactez-nous",
+      "telephone": "02 43 91 03 20",
+      "url": "https://www.recrutement.terre.defense.gouv.fr/ou-nous-rencontrer/cirfa-de-laval"
+    }
+  },
+  {
+    "id": "e053305efe0640fe40ea08632c37f180ad5b2116",
+    "alternateName": "CIRFA",
+    "name": "centre_dinformation_et_de_recrutement_des_forces_armees_cirfa_le_havre",
+    "title": "Centre d'information et de recrutement des forces armées (CIRFA) - Le Havre",
+    "url": "https://lannuaire.service-public.fr/normandie/seine-maritime/cirfa-76351-01",
+    "metadata": {
+      "email": "https://www.recrutement.terre.defense.gouv.fr/contactez-nous",
+      "telephone": "02 35 19 71 80",
+      "url": "https://www.recrutement.terre.defense.gouv.fr/ou-nous-rencontrer/cirfa-du-havre"
+    }
+  },
+  {
+    "id": "bdb1969b18eb55d3e4e9a69bcf70a93863edc0a6",
+    "alternateName": "CIRFA",
+    "name": "centre_dinformation_et_de_recrutement_des_forces_armees_cirfa_le_mans",
+    "title": "Centre d'information et de recrutement des forces armées (CIRFA) - Le Mans",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/sarthe/cirfa-72181-01",
+    "metadata": {
+      "email": "https://www.recrutement.terre.defense.gouv.fr/contactez-nous",
+      "telephone": "02 43 52 16 40",
+      "url": "https://www.recrutement.terre.defense.gouv.fr/ou-nous-rencontrer/cirfa-du-mans"
+    }
+  },
+  {
+    "id": "9c71504baa9bc66777ab0325b604b0ae07f7a293",
+    "alternateName": "CIRFA",
+    "name": "centre_dinformation_et_de_recrutement_des_forces_armees_cirfa_lille",
+    "title": "Centre d'information et de recrutement des forces armées (CIRFA) - Lille",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/nord/cirfa-59350-01",
+    "metadata": {
+      "email": "https://www.recrutement.terre.defense.gouv.fr/contactez-nous",
+      "telephone": "03 59 00 42 42",
+      "url": "https://www.recrutement.terre.defense.gouv.fr/ou-nous-rencontrer/cirfa-de-lille"
+    }
+  },
+  {
+    "id": "a6ed6d822816e151936c35e1f742bc9d5a223a4f",
+    "alternateName": "CIRFA",
+    "name": "centre_dinformation_et_de_recrutement_des_forces_armees_cirfa_limoges",
+    "title": "Centre d'information et de recrutement des forces armées (CIRFA) - Limoges",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/haute-vienne/cirfa-87085-01",
+    "metadata": {
+      "email": "https://www.recrutement.terre.defense.gouv.fr/contactez-nous",
+      "telephone": "05 55 34 84 00",
+      "url": "https://www.recrutement.terre.defense.gouv.fr/ou-nous-rencontrer/cirfa-de-limoges"
+    }
+  },
+  {
+    "id": "3391198a4a885a6a89396697cf938cfee62fedfa",
+    "alternateName": "CIRFA",
+    "name": "centre_dinformation_et_de_recrutement_des_forces_armees_cirfa_lorient",
+    "title": "Centre d'information et de recrutement des forces armées (CIRFA) - Lorient",
+    "url": "https://lannuaire.service-public.fr/bretagne/morbihan/cirfa-56121-01",
+    "metadata": {
+      "email": "https://www.recrutement.terre.defense.gouv.fr/contactez-nous",
+      "telephone": "02 97 12 43 64",
+      "url": "https://www.recrutement.terre.defense.gouv.fr/ou-nous-rencontrer/cirfa-de-lorient"
+    }
+  },
+  {
+    "id": "f5565abaaa2fa462c51bdf9ccab879d2d95b577a",
+    "alternateName": "CIRFA",
+    "name": "centre_dinformation_et_de_recrutement_des_forces_armees_cirfa_lyon",
+    "title": "Centre d'information et de recrutement des forces armées (CIRFA) - Lyon",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/rhone/cirfa-69123-01",
+    "metadata": {
+      "email": "https://www.recrutement.terre.defense.gouv.fr/contactez-nous",
+      "telephone": "04 37 27 36 10",
+      "url": "https://www.recrutement.terre.defense.gouv.fr/ou-nous-rencontrer/cirfa-de-lyon"
+    }
+  },
+  {
+    "id": "0c6bde65adf2e33f91b21e56fd092e3343e8cbf7",
+    "alternateName": "CIRFA",
+    "name": "centre_dinformation_et_de_recrutement_des_forces_armees_cirfa_macon",
+    "title": "Centre d'information et de recrutement des forces armées (CIRFA) - Mâcon",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/saone-et-loire/cirfa-71270-01",
+    "metadata": {
+      "email": "https://www.recrutement.terre.defense.gouv.fr/contactez-nous",
+      "telephone": "03 85 32 73 40",
+      "url": "https://www.recrutement.terre.defense.gouv.fr/ou-nous-rencontrer/cirfa-de-macon"
+    }
+  },
+  {
+    "id": "f11c82d56af797d0b941bf2017d0b1e4a5018291",
+    "alternateName": "CIRFA",
+    "name": "centre_dinformation_et_de_recrutement_des_forces_armees_cirfa_marseille",
+    "title": "Centre d'information et de recrutement des forces armées (CIRFA) - Marseille",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/cirfa-13055-01",
+    "metadata": {
+      "email": "https://www.recrutement.terre.defense.gouv.fr/contactez-nous",
+      "telephone": "04 13 59 47 70",
+      "url": "https://www.recrutement.terre.defense.gouv.fr/ou-nous-rencontrer/cirfa-de-marseille"
+    }
+  },
+  {
+    "id": "b075d30aa3fb095ee964a5ff687f73db9896fb22",
+    "alternateName": "CIRFA",
+    "name": "centre_dinformation_et_de_recrutement_des_forces_armees_cirfa_massy",
+    "title": "Centre d'information et de recrutement des forces armées (CIRFA) - Massy",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/essonne/cirfa-91377-01",
+    "metadata": {
+      "email": "https://www.recrutement.terre.defense.gouv.fr/contactez-nous",
+      "telephone": "01 69 19 48 08",
+      "url": "https://www.recrutement.terre.defense.gouv.fr/ou-nous-rencontrer/cirfa-de-massy"
+    }
+  },
+  {
+    "id": "4710ba6b4348a964f0fd181bbc59a490e1cab0c7",
+    "alternateName": "CIRFA",
+    "name": "centre_dinformation_et_de_recrutement_des_forces_armees_cirfa_meaux",
+    "title": "Centre d'information et de recrutement des forces armées (CIRFA) - Meaux",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/seine-et-marne/cirfa-77284-01",
+    "metadata": {
+      "email": "https://www.recrutement.terre.defense.gouv.fr/contactez-nous",
+      "telephone": "01 64 36 48 30",
+      "url": "https://www.recrutement.terre.defense.gouv.fr/ou-nous-rencontrer/cirfa-de-meaux"
+    }
+  },
+  {
+    "id": "0a62b58f83ba47da15c115f207db42874023dab3",
+    "alternateName": "CIRFA",
+    "name": "centre_dinformation_et_de_recrutement_des_forces_armees_cirfa_melun",
+    "title": "Centre d'information et de recrutement des forces armées (CIRFA) - Melun",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/seine-et-marne/cirfa-77288-01",
+    "metadata": {
+      "email": "https://www.recrutement.terre.defense.gouv.fr/contactez-nous",
+      "telephone": "01 60 65 89 50",
+      "url": "https://www.recrutement.terre.defense.gouv.fr/ou-nous-rencontrer/cirfa-de-melun"
+    }
+  },
+  {
+    "id": "c29a683e41078faf6d163d78681325f303454cc2",
+    "alternateName": "CIRFA",
+    "name": "centre_dinformation_et_de_recrutement_des_forces_armees_cirfa_metz",
+    "title": "Centre d'information et de recrutement des forces armées (CIRFA) - Metz",
+    "url": "https://lannuaire.service-public.fr/grand-est/moselle/cirfa-57463-01",
+    "metadata": {
+      "email": "https://www.recrutement.terre.defense.gouv.fr/contactez-nous",
+      "telephone": "03 87 15 58 17",
+      "url": "https://www.recrutement.terre.defense.gouv.fr/ou-nous-rencontrer/cirfa-de-metz"
+    }
+  },
+  {
+    "id": "267b66cb9ba66cb10582d2215efd85504057aaed",
+    "alternateName": "CIRFA",
+    "name": "centre_dinformation_et_de_recrutement_des_forces_armees_cirfa_montauban",
+    "title": "Centre d'information et de recrutement des forces armées (CIRFA) - Montauban",
+    "url": "https://lannuaire.service-public.fr/occitanie/tarn-et-garonne/cirfa-82121-01",
+    "metadata": {
+      "email": "https://www.recrutement.terre.defense.gouv.fr/contactez-nous",
+      "telephone": "05 63 22 78 20",
+      "url": "https://www.recrutement.terre.defense.gouv.fr/ou-nous-rencontrer/cirfa-de-montauban"
+    }
+  },
+  {
+    "id": "f9447e9b8e64685c8dabc6e57b24c9b662166508",
+    "alternateName": "CIRFA",
+    "name": "centre_dinformation_et_de_recrutement_des_forces_armees_cirfa_mont_de_marsan",
+    "title": "Centre d'information et de recrutement des forces armées (CIRFA) - Mont-de-Marsan",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/landes/cirfa-40192-01",
+    "metadata": {
+      "email": "https://www.recrutement.terre.defense.gouv.fr/contactez-nous",
+      "telephone": "05 58 85 42 82",
+      "url": "https://www.recrutement.terre.defense.gouv.fr/ou-nous-rencontrer/cirfa-de-mont-de-marsan"
+    }
+  },
+  {
+    "id": "791281f000fcb6e65978d0fb65a068a72eeec165",
+    "alternateName": "CIRFA",
+    "name": "centre_dinformation_et_de_recrutement_des_forces_armees_cirfa_montpellier",
+    "title": "Centre d'information et de recrutement des forces armées (CIRFA) - Montpellier",
+    "url": "https://lannuaire.service-public.fr/occitanie/herault/cirfa-34172-01",
+    "metadata": {
+      "email": "https://www.recrutement.terre.defense.gouv.fr/contactez-nous",
+      "telephone": "04 67 16 60 80",
+      "url": "https://www.recrutement.terre.defense.gouv.fr/ou-nous-rencontrer/cirfa-de-montpellier"
+    }
+  },
+  {
+    "id": "b002d3889de444b3e2e58f2500eb5ec0c4d2a551",
+    "alternateName": "CIRFA",
+    "name": "centre_dinformation_et_de_recrutement_des_forces_armees_cirfa_moulins",
+    "title": "Centre d'information et de recrutement des forces armées (CIRFA) - Moulins",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/allier/cirfa-03190-01",
+    "metadata": {
+      "email": "https://www.recrutement.terre.defense.gouv.fr/contactez-nous",
+      "telephone": "04 70 48 85 96",
+      "url": "https://www.recrutement.terre.defense.gouv.fr/ou-nous-rencontrer/cirfa-de-moulins"
+    }
+  },
+  {
+    "id": "b21773d8aa0f2d2dcc25a21d254b344b7f685aea",
+    "alternateName": "CIRFA",
+    "name": "centre_dinformation_et_de_recrutement_des_forces_armees_cirfa_mulhouse",
+    "title": "Centre d'information et de recrutement des forces armées (CIRFA) - Mulhouse",
+    "url": "https://lannuaire.service-public.fr/grand-est/haut-rhin/cirfa-68224-01",
+    "metadata": {
+      "email": "https://www.recrutement.terre.defense.gouv.fr/contactez-nous",
+      "telephone": "03 89 60 51 43",
+      "url": "https://www.recrutement.terre.defense.gouv.fr/ou-nous-rencontrer/cirfa-de-mulhouse"
+    }
+  },
+  {
+    "id": "4062caaadc0ea3201b7d3952679c2d7d60fc2868",
+    "alternateName": "CIRFA",
+    "name": "centre_dinformation_et_de_recrutement_des_forces_armees_cirfa_nancy",
+    "title": "Centre d'information et de recrutement des forces armées (CIRFA) - Nancy",
+    "url": "https://lannuaire.service-public.fr/grand-est/meurthe-et-moselle/cirfa-54395-01",
+    "metadata": {
+      "email": "https://www.recrutement.terre.defense.gouv.fr/contactez-nous",
+      "telephone": "03 83 77 25 29",
+      "url": "https://www.recrutement.terre.defense.gouv.fr/ou-nous-rencontrer/cirfa-de-nancy"
+    }
+  },
+  {
+    "id": "6bf6f6c9ddc2ba664cc5ae56619cd320db96bd2c",
+    "alternateName": "CIRFA",
+    "name": "centre_dinformation_et_de_recrutement_des_forces_armees_cirfa_narbonne",
+    "title": "Centre d'information et de recrutement des forces armées (CIRFA) - Narbonne",
+    "url": "https://lannuaire.service-public.fr/occitanie/aude/cirfa-11262-01",
+    "metadata": {
+      "email": "https://www.recrutement.terre.defense.gouv.fr/contactez-nous",
+      "telephone": "04 68 49 45 93",
+      "url": "https://www.recrutement.terre.defense.gouv.fr/ou-nous-rencontrer/cirfa-de-narbonne"
+    }
+  },
+  {
+    "id": "d9209e8ab7714a1326208c3b5d0169cc83f3feb5",
+    "alternateName": "CIRFA",
+    "name": "centre_dinformation_et_de_recrutement_des_forces_armees_cirfa_nevers",
+    "title": "Centre d'information et de recrutement des forces armées (CIRFA) - Nevers",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/nievre/cirfa-58194-01",
+    "metadata": {
+      "email": "https://www.recrutement.terre.defense.gouv.fr/contactez-nous",
+      "telephone": "03 86 59 95 90",
+      "url": "https://www.recrutement.terre.defense.gouv.fr/ou-nous-rencontrer/cirfa-de-nevers"
+    }
+  },
+  {
+    "id": "df242d04cd8de4e2e7345acdd750976daae77982",
+    "alternateName": "CIRFA",
+    "name": "centre_dinformation_et_de_recrutement_des_forces_armees_cirfa_nice",
+    "title": "Centre d'information et de recrutement des forces armées (CIRFA) - Nice",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/alpes-maritimes/cirfa-06088-01",
+    "metadata": {
+      "email": "https://www.recrutement.terre.defense.gouv.fr/contactez-nous",
+      "telephone": "04 93 62 78 02",
+      "url": "https://www.recrutement.terre.defense.gouv.fr/ou-nous-rencontrer/cirfa-de-nice"
+    }
+  },
+  {
+    "id": "60baf12920ef3a61152e6b07369b83c2618d6b93",
+    "alternateName": "CIRFA",
+    "name": "centre_dinformation_et_de_recrutement_des_forces_armees_cirfa_nimes",
+    "title": "Centre d'information et de recrutement des forces armées (CIRFA) - Nîmes",
+    "url": "https://lannuaire.service-public.fr/occitanie/gard/cirfa-30189-01",
+    "metadata": {
+      "email": "https://www.recrutement.terre.defense.gouv.fr/contactez-nous",
+      "telephone": "04 66 02 31 22",
+      "url": "https://www.recrutement.terre.defense.gouv.fr/ou-nous-rencontrer/cirfa-de-nimes"
+    }
+  },
+  {
+    "id": "719762af45acd6b6636c1be9d52e411723686652",
+    "alternateName": "CIRFA",
+    "name": "centre_dinformation_et_de_recrutement_des_forces_armees_cirfa_niort",
+    "title": "Centre d'information et de recrutement des forces armées (CIRFA) - Niort",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/deux-sevres/cirfa-79191-01",
+    "metadata": {
+      "email": "https://www.recrutement.terre.defense.gouv.fr/contactez-nous",
+      "telephone": "05 49 77 16 91",
+      "url": "https://www.recrutement.terre.defense.gouv.fr/ou-nous-rencontrer/cirfa-de-niort"
+    }
+  },
+  {
+    "id": "93b08ceabf455da75cb0b1ce067a7ecece98ad86",
+    "alternateName": "CIRFA",
+    "name": "centre_dinformation_et_de_recrutement_des_forces_armees_cirfa_noumea_nouvelle_caledonie",
+    "title": "Centre d'information et de recrutement des forces armées (CIRFA) - Nouméa (Nouvelle Calédonie)",
+    "url": "https://lannuaire.service-public.fr/collectivites-d-outre-mer/nouvelle-caledonie/cirfa-98818-01",
+    "metadata": {
+      "email": "https://www.recrutement.terre.defense.gouv.fr/contactez-nous",
+      "telephone": "00 68 72 92 94 6",
+      "url": "https://www.recrutement.terre.defense.gouv.fr/ou-nous-rencontrer/cirfa-de-nouvelle-caledonie"
+    }
+  },
+  {
+    "id": "a5397b62488863ce9af1ffa60f1992a557f389a7",
+    "alternateName": "CIRFA",
+    "name": "centre_dinformation_et_de_recrutement_des_forces_armees_cirfa_orleans",
+    "title": "Centre d'information et de recrutement des forces armées (CIRFA) - Orléans",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/loiret/cirfa-45234-01",
+    "metadata": {
+      "email": "https://www.recrutement.terre.defense.gouv.fr/contactez-nous",
+      "telephone": "02 38 65 36 02",
+      "url": "https://www.recrutement.terre.defense.gouv.fr/ou-nous-rencontrer/cirfa-dorleans"
+    }
+  },
+  {
+    "id": "12fd035907e0de11eb1567e1a337a9904255973a",
+    "alternateName": "CIRFA",
+    "name": "centre_dinformation_et_de_recrutement_des_forces_armees_cirfa_papeete_polynesie",
+    "title": "Centre d'information et de recrutement des forces armées (CIRFA) - Papeete (Polynésie)",
+    "url": "https://lannuaire.service-public.fr/collectivites-d-outre-mer/polynesie-francaise/cirfa-98735-01",
+    "metadata": {
+      "email": "https://www.recrutement.terre.defense.gouv.fr/contactez-nous",
+      "telephone": "40 46 32 47",
+      "url": "https://www.recrutement.terre.defense.gouv.fr/ou-nous-rencontrer/cirfa-de-polynesie"
+    }
+  },
+  {
+    "id": "c6a696c7a391cd475edfd43711ace3c943de67c3",
+    "alternateName": "CIRFA",
+    "name": "centre_dinformation_et_de_recrutement_des_forces_armees_cirfa_paris",
+    "title": "Centre d'information et de recrutement des forces armées (CIRFA) - Paris",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/paris/cirfa-75056-01",
+    "metadata": {
+      "email": "https://www.recrutement.terre.defense.gouv.fr/contactez-nous",
+      "telephone": "01 41 93 33 58 01 41 93 31 98",
+      "url": "https://www.recrutement.terre.defense.gouv.fr/ou-nous-rencontrer/cirfa-de-paris"
+    }
+  },
+  {
+    "id": "0c21c23757f89f04b1943480effa2d716cef9774",
+    "alternateName": "CIRFA",
+    "name": "centre_dinformation_et_de_recrutement_des_forces_armees_cirfa_pau",
+    "title": "Centre d'information et de recrutement des forces armées (CIRFA) - Pau",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/pyrenees-atlantiques/cirfa-64445-01",
+    "metadata": {
+      "email": "https://www.recrutement.terre.defense.gouv.fr/contactez-nous",
+      "telephone": "05 59 40 45 66",
+      "url": "https://www.recrutement.terre.defense.gouv.fr/ou-nous-rencontrer/cirfa-de-pau"
+    }
+  },
+  {
+    "id": "8fb1449bd963bee7d031bef99719e8cc6146b887",
+    "alternateName": "CIRFA",
+    "name": "centre_dinformation_et_de_recrutement_des_forces_armees_cirfa_perigueux",
+    "title": "Centre d'information et de recrutement des forces armées (CIRFA) - Périgueux",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/dordogne/cirfa-24322-01",
+    "metadata": {
+      "email": "https://www.recrutement.terre.defense.gouv.fr/contactez-nous",
+      "telephone": "05 53 02 82 75",
+      "url": "https://www.recrutement.terre.defense.gouv.fr/ou-nous-rencontrer/cirfa-de-perigueux"
+    }
+  },
+  {
+    "id": "3242d2f1ca8edee332cff955683710362ced21f2",
+    "alternateName": "CIRFA",
+    "name": "centre_dinformation_et_de_recrutement_des_forces_armees_cirfa_perpignan",
+    "title": "Centre d'information et de recrutement des forces armées (CIRFA) - Perpignan",
+    "url": "https://lannuaire.service-public.fr/occitanie/pyrenees-orientales/cirfa-66136-01",
+    "metadata": {
+      "email": "https://www.recrutement.terre.defense.gouv.fr/contactez-nous",
+      "telephone": "04 68 08 22 64",
+      "url": "https://www.recrutement.terre.defense.gouv.fr/ou-nous-rencontrer/cirfa-de-perpignan"
+    }
+  },
+  {
+    "id": "78a3a2a5c71d0839c246fbf042d0f1a33259c9d7",
+    "alternateName": "CIRFA",
+    "name": "centre_dinformation_et_de_recrutement_des_forces_armees_cirfa_poitiers",
+    "title": "Centre d'information et de recrutement des forces armées (CIRFA) - Poitiers",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/vienne/cirfa-86194-01",
+    "metadata": {
+      "email": "https://www.recrutement.terre.defense.gouv.fr/contactez-nous",
+      "telephone": "05 49 00 22 27",
+      "url": "https://www.recrutement.terre.defense.gouv.fr/ou-nous-rencontrer/cirfa-de-poitiers"
+    }
+  },
+  {
+    "id": "33d89e53b05b00f4bfe837b408a1c5d4354d087a",
+    "alternateName": "CIRFA",
+    "name": "centre_dinformation_et_de_recrutement_des_forces_armees_cirfa_quimper",
+    "title": "Centre d'information et de recrutement des forces armées (CIRFA) - Quimper",
+    "url": "https://lannuaire.service-public.fr/bretagne/finistere/cirfa-29232-01",
+    "metadata": {
+      "email": "https://www.recrutement.terre.defense.gouv.fr/contactez-nous",
+      "telephone": "02 98 64 78 50",
+      "url": "https://www.recrutement.terre.defense.gouv.fr/ou-nous-rencontrer/cirfa-de-quimper"
+    }
+  },
+  {
+    "id": "6cb059337c019cbbc85619679e9fc88123e187bc",
+    "alternateName": "CIRFA",
+    "name": "centre_dinformation_et_de_recrutement_des_forces_armees_cirfa_reims",
+    "title": "Centre d'information et de recrutement des forces armées (CIRFA) - Reims",
+    "url": "https://lannuaire.service-public.fr/grand-est/marne/cirfa-51454-01",
+    "metadata": {
+      "email": "https://www.recrutement.terre.defense.gouv.fr/contactez-nous",
+      "telephone": "03 51 42 41 00",
+      "url": "https://www.recrutement.terre.defense.gouv.fr/ou-nous-rencontrer/cirfa-de-reims"
+    }
+  },
+  {
+    "id": "8cab1393b926bf1b0b1a2ea6df98c035bfb8c69b",
+    "alternateName": "CIRFA",
+    "name": "centre_dinformation_et_de_recrutement_des_forces_armees_cirfa_remire_monjoly_guyane",
+    "title": "Centre d'information et de recrutement des forces armées (CIRFA) - Remire-Monjoly (Guyane)",
+    "url": "https://lannuaire.service-public.fr/guyane/guyane/cirfa-97309-01",
+    "metadata": {
+      "email": "https://www.recrutement.terre.defense.gouv.fr/contactez-nous",
+      "telephone": "05 94 31 12 45",
+      "url": "https://www.recrutement.terre.defense.gouv.fr/ou-nous-rencontrer/cirfa-de-guyane"
+    }
+  },
+  {
+    "id": "3001115ee39a49c388ceed850614596669a30d24",
+    "alternateName": "CIRFA",
+    "name": "centre_dinformation_et_de_recrutement_des_forces_armees_cirfa_rennes",
+    "title": "Centre d'information et de recrutement des forces armées (CIRFA) - Rennes",
+    "url": "https://lannuaire.service-public.fr/bretagne/ille-et-vilaine/cirfa-35238-01",
+    "metadata": {
+      "email": "https://www.recrutement.terre.defense.gouv.fr/contactez-nous",
+      "telephone": "02 57 21 80 12",
+      "url": "https://www.recrutement.terre.defense.gouv.fr/ou-nous-rencontrer/cirfa-de-rennes"
+    }
+  },
+  {
+    "id": "3cffcd5fd4944f7b29c526ab815c74e5f8e3cc72",
+    "alternateName": "CIRFA",
+    "name": "centre_dinformation_et_de_recrutement_des_forces_armees_cirfa_rodez",
+    "title": "Centre d'information et de recrutement des forces armées (CIRFA) - Rodez",
+    "url": "https://lannuaire.service-public.fr/occitanie/aveyron/cirfa-12202-01",
+    "metadata": {
+      "email": "https://www.recrutement.terre.defense.gouv.fr/contactez-nous",
+      "telephone": "05 65 75 58 20",
+      "url": "https://www.recrutement.terre.defense.gouv.fr/ou-nous-rencontrer/cirfa-de-rodez"
+    }
+  },
+  {
+    "id": "1e4e6451ff00c7b09e9170a5da72180b909bd69e",
+    "alternateName": "CIRFA",
+    "name": "centre_dinformation_et_de_recrutement_des_forces_armees_cirfa_rouen",
+    "title": "Centre d'information et de recrutement des forces armées (CIRFA) - Rouen",
+    "url": "https://lannuaire.service-public.fr/normandie/seine-maritime/cirfa-76540-01",
+    "metadata": {
+      "email": "https://www.recrutement.terre.defense.gouv.fr/contactez-nous",
+      "telephone": "02 76 27 88 08",
+      "url": "https://www.recrutement.terre.defense.gouv.fr/ou-nous-rencontrer/cirfa-de-rouen"
+    }
+  },
+  {
+    "id": "aed25bb2e0710f4a1924548006b1270e6f76a88a",
+    "alternateName": "CIRFA",
+    "name": "centre_dinformation_et_de_recrutement_des_forces_armees_cirfa_saint_brieuc",
+    "title": "Centre d'information et de recrutement des forces armées (CIRFA) - Saint-Brieuc",
+    "url": "https://lannuaire.service-public.fr/bretagne/cotes-d-armor/cirfa-22278-01",
+    "metadata": {
+      "email": "https://www.recrutement.terre.defense.gouv.fr/contactez-nous",
+      "telephone": "02 96 01 58 08",
+      "url": "https://www.recrutement.terre.defense.gouv.fr/ou-nous-rencontrer/cirfa-de-saint-brieuc"
+    }
+  },
+  {
+    "id": "daeceb40145fbb8638241250f4157d715bf548f5",
+    "alternateName": "CIRFA",
+    "name": "centre_dinformation_et_de_recrutement_des_forces_armees_cirfa_saint_denis_93",
+    "title": "Centre d'information et de recrutement des forces armées (CIRFA) - Saint-Denis (93)",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/seine-saint-denis/cirfa-93066-01",
+    "metadata": {
+      "email": "https://www.recrutement.terre.defense.gouv.fr/contactez-nous",
+      "telephone": "01 55 87 97 50",
+      "url": "https://www.recrutement.terre.defense.gouv.fr/ou-nous-rencontrer/cirfa-de-saint-denis"
+    }
+  },
+  {
+    "id": "2041aaba7a734c5044843e54ec1ab5eb5ba185f2",
+    "alternateName": "CIRFA",
+    "name": "centre_dinformation_et_de_recrutement_des_forces_armees_cirfa_saint_denis_la_reunion",
+    "title": "Centre d'information et de recrutement des forces armées (CIRFA) - Saint-Denis (La Réunion)",
+    "url": "https://lannuaire.service-public.fr/la-reunion/reunion/cirfa-97411-01",
+    "metadata": {
+      "email": "https://www.recrutement.terre.defense.gouv.fr/contactez-nous",
+      "telephone": "02 62 93 55 99",
+      "url": "https://www.recrutement.terre.defense.gouv.fr/ou-nous-rencontrer/cirfa-de-la-reunion"
+    }
+  },
+  {
+    "id": "910c1d54d36fadc9de4dbbc6e2052f26de63c95f",
+    "alternateName": "CIRFA",
+    "name": "centre_dinformation_et_de_recrutement_des_forces_armees_cirfa_saint_lo",
+    "title": "Centre d'information et de recrutement des forces armées (CIRFA) - Saint-Lô",
+    "url": "https://lannuaire.service-public.fr/normandie/manche/cirfa-50502-01",
+    "metadata": {
+      "email": "https://www.recrutement.terre.defense.gouv.fr/contactez-nous",
+      "telephone": "02 33 06 94 15",
+      "url": "https://www.recrutement.terre.defense.gouv.fr/ou-nous-rencontrer/cirfa-de-saint-lo"
+    }
+  },
+  {
+    "id": "1b76a552231c746e1de9c94960525a6a19c00fd5",
+    "alternateName": "CIRFA",
+    "name": "centre_dinformation_et_de_recrutement_des_forces_armees_cirfa_saint_nazaire",
+    "title": "Centre d'information et de recrutement des forces armées (CIRFA) - Saint-Nazaire",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/loire-atlantique/cirfa-44184-01",
+    "metadata": {
+      "email": "https://www.recrutement.terre.defense.gouv.fr/contactez-nous",
+      "telephone": "02 40 45 17 78",
+      "url": "https://www.recrutement.terre.defense.gouv.fr/ou-nous-rencontrer/cirfa-de-saint-nazaire"
+    }
+  },
+  {
+    "id": "19925b2101ec900f0ef9eaa1ea728771ec6163f6",
+    "alternateName": "CIRFA",
+    "name": "centre_dinformation_et_de_recrutement_des_forces_armees_cirfa_strasbourg",
+    "title": "Centre d'information et de recrutement des forces armées (CIRFA) - Strasbourg",
+    "url": "https://lannuaire.service-public.fr/grand-est/bas-rhin/cirfa-67482-01",
+    "metadata": {
+      "email": "https://www.recrutement.terre.defense.gouv.fr/contactez-nous",
+      "telephone": "03 90 23 26 49",
+      "url": "https://www.recrutement.terre.defense.gouv.fr/ou-nous-rencontrer/cirfa-de-strasbourg"
+    }
+  },
+  {
+    "id": "6c9c83eb010808755e4e71b67c405564f1a806d4",
+    "alternateName": "CIRFA",
+    "name": "centre_dinformation_et_de_recrutement_des_forces_armees_cirfa_tarbes",
+    "title": "Centre d'information et de recrutement des forces armées (CIRFA) - Tarbes",
+    "url": "https://lannuaire.service-public.fr/occitanie/hautes-pyrenees/cirfa-65440-01",
+    "metadata": {
+      "email": "https://www.recrutement.terre.defense.gouv.fr/contactez-nous",
+      "telephone": "05 67 45 00 22",
+      "url": "https://www.recrutement.terre.defense.gouv.fr/ou-nous-rencontrer/cirfa-de-tarbes"
+    }
+  },
+  {
+    "id": "92f0bf5161edca8f663dc72fdebb25a3b976c097",
+    "alternateName": "CIRFA",
+    "name": "centre_dinformation_et_de_recrutement_des_forces_armees_cirfa_toulon",
+    "title": "Centre d'information et de recrutement des forces armées (CIRFA) - Toulon",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/var/cirfa-83137-01",
+    "metadata": {
+      "email": "https://www.recrutement.terre.defense.gouv.fr/contactez-nous",
+      "telephone": "04 22 43 90 10",
+      "url": "https://www.recrutement.terre.defense.gouv.fr/ou-nous-rencontrer/cirfa-de-toulon"
+    }
+  },
+  {
+    "id": "63623a713d44b0857742e2e923dd9d127a85192f",
+    "alternateName": "CIRFA",
+    "name": "centre_dinformation_et_de_recrutement_des_forces_armees_cirfa_toulouse",
+    "title": "Centre d'information et de recrutement des forces armées (CIRFA) - Toulouse",
+    "url": "https://lannuaire.service-public.fr/occitanie/haute-garonne/cirfa-31555-01",
+    "metadata": {
+      "email": "https://www.recrutement.terre.defense.gouv.fr/contactez-nous",
+      "telephone": "05 62 57 34 81",
+      "url": "https://www.recrutement.terre.defense.gouv.fr/ou-nous-rencontrer/cirfa-de-toulouse"
+    }
+  },
+  {
+    "id": "63f18e78521f1f00f270be5ad1a736cb842f364f",
+    "alternateName": "CIRFA",
+    "name": "centre_dinformation_et_de_recrutement_des_forces_armees_cirfa_tours",
+    "title": "Centre d'information et de recrutement des forces armées (CIRFA) - Tours",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/indre-et-loire/cirfa-37261-01",
+    "metadata": {
+      "email": "https://www.recrutement.terre.defense.gouv.fr/contactez-nous",
+      "telephone": "02 34 53 80 66",
+      "url": "https://www.recrutement.terre.defense.gouv.fr/ou-nous-rencontrer/cirfa-de-tours"
+    }
+  },
+  {
+    "id": "71d7af5fe8343842e32c7d04bfba5818a59d1afe",
+    "alternateName": "CIRFA",
+    "name": "centre_dinformation_et_de_recrutement_des_forces_armees_cirfa_troyes",
+    "title": "Centre d'information et de recrutement des forces armées (CIRFA) - Troyes",
+    "url": "https://lannuaire.service-public.fr/grand-est/aube/cirfa-10387-01",
+    "metadata": {
+      "email": "https://www.recrutement.terre.defense.gouv.fr/contactez-nous",
+      "telephone": "03 25 82 62 89",
+      "url": ""
+    }
+  },
+  {
+    "id": "257576383393a9f526acf27bf653173be6aa4fd6",
+    "alternateName": "CIRFA",
+    "name": "centre_dinformation_et_de_recrutement_des_forces_armees_cirfa_valence",
+    "title": "Centre d'information et de recrutement des forces armées (CIRFA) - Valence",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/drome/cirfa-26362-01",
+    "metadata": {
+      "email": "https://www.recrutement.terre.defense.gouv.fr/contactez-nous",
+      "telephone": "04 75 78 45 82",
+      "url": "https://www.recrutement.terre.defense.gouv.fr/ou-nous-rencontrer/cirfa-de-valence"
+    }
+  },
+  {
+    "id": "b0fbb88a9cb75a30dd2a1f49713211a5e8389d70",
+    "alternateName": "CIRFA",
+    "name": "centre_dinformation_et_de_recrutement_des_forces_armees_cirfa_valenciennes",
+    "title": "Centre d'information et de recrutement des forces armées (CIRFA) - Valenciennes",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/nord/cirfa-59606-01",
+    "metadata": {
+      "email": "https://www.recrutement.terre.defense.gouv.fr/contactez-nous",
+      "telephone": "03 27 19 85 00",
+      "url": "https://www.recrutement.terre.defense.gouv.fr/ou-nous-rencontrer/cirfa-de-valenciennes"
+    }
+  },
+  {
+    "id": "1bec68e1b3bcdb12f974f4737f81fbddae1e6726",
+    "alternateName": "CIRFA",
+    "name": "centre_dinformation_et_de_recrutement_des_forces_armees_cirfa_vannes",
+    "title": "Centre d'information et de recrutement des forces armées (CIRFA) - Vannes",
+    "url": "https://lannuaire.service-public.fr/bretagne/morbihan/cirfa-56260-01",
+    "metadata": {
+      "email": "https://www.recrutement.terre.defense.gouv.fr/contactez-nous",
+      "telephone": "02 97 68 53 52",
+      "url": "https://www.recrutement.terre.defense.gouv.fr/ou-nous-rencontrer/cirfa-de-vannes"
+    }
+  },
+  {
+    "id": "b7309bc668d1252a5e28278e51f95597bcb524e7",
+    "alternateName": "CIRFA",
+    "name": "centre_dinformation_et_de_recrutement_des_forces_armees_cirfa_versailles",
+    "title": "Centre d'information et de recrutement des forces armées (CIRFA) - Versailles",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/yvelines/cirfa-78646-01",
+    "metadata": {
+      "email": "https://www.recrutement.terre.defense.gouv.fr/contactez-nous",
+      "telephone": "01 39 25 92 00",
+      "url": "https://www.recrutement.terre.defense.gouv.fr/ou-nous-rencontrer/cirfa-de-versailles"
+    }
+  }
+]

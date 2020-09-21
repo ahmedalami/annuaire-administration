@@ -1,0 +1,339 @@
+[
+  {
+    "id": "6a477c7132b7e0d1c85a1f0ed05d064d035b1d47",
+    "alternateName": "DIPJ",
+    "name": "direction_interregionale_de_la_police_judiciaire_dipj_marseille",
+    "title": "Direction interrégionale de la police judiciaire (DIPJ) - Marseille",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/dir_pj-13202-01",
+    "metadata": {
+      "email": "dipj.marseille@interieur.gouv.fr",
+      "telephone": "04 91 39 80 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "9c294a9164e26806c8037c01bce2f77ef5d94ab9",
+    "name": "direction_interregionale_de_la_police_judiciaire_bordeaux",
+    "title": "Direction interrégionale de la police judiciaire - Bordeaux",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/gironde/dir_pj-33063-01",
+    "metadata": {
+      "email": "dipj.bordeaux@interieur.gouv.fr",
+      "telephone": "05 57 85 77 77",
+      "url": ""
+    }
+  },
+  {
+    "id": "3d2a11dfdf65383204a9e58b6dcb7b7f86fd6402",
+    "name": "direction_interregionale_de_la_police_judiciaire_dijon",
+    "title": "Direction interrégionale de la police judiciaire - Dijon",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/cote-d-or/dir_pj-21231-01",
+    "metadata": {
+      "email": "diffusions.dipj21@interieur.gouv.fr",
+      "telephone": "03 80 44 58 70",
+      "url": ""
+    }
+  },
+  {
+    "id": "80d99d72a0e88edb66c053c08dbb5f8840452775",
+    "name": "direction_interregionale_de_la_police_judiciaire_lille",
+    "title": "Direction interrégionale de la police judiciaire - Lille",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/nord/dir_pj-59350-01",
+    "metadata": {
+      "email": "dipj.lille@interieur.gouv.fr",
+      "telephone": "03 20 42 70 70",
+      "url": ""
+    }
+  },
+  {
+    "id": "f22d517c1d25258107a2a44efab502a9a4bb0995",
+    "name": "direction_interregionale_de_la_police_judiciaire_lyon",
+    "title": "Direction interrégionale de la police judiciaire - Lyon",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/rhone/dir_pj-69388-01",
+    "metadata": {
+      "email": "dipj.lyon@interieur.gouv.fr",
+      "telephone": "04 78 78 40 40",
+      "url": ""
+    }
+  },
+  {
+    "id": "0b97f1ed8a97af6e19aed4e4fa4b7dc4e308e467",
+    "name": "direction_interregionale_de_la_police_judiciaire_orleans",
+    "title": "Direction interrégionale de la police judiciaire - Orléans",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/loiret/dir_pj-45234-01",
+    "metadata": {
+      "email": "dipj.orleans@interieur.gouv.fr",
+      "telephone": "02 38 24 33 30",
+      "url": ""
+    }
+  },
+  {
+    "id": "87eb1aaac2d59b11a5d8a7f8f2cd515d197e4ccf",
+    "name": "direction_interregionale_de_la_police_judiciaire_pointe_a_pitre",
+    "title": "Direction interrégionale de la police judiciaire - Pointe-à-Pitre",
+    "url": "https://lannuaire.service-public.fr/guadeloupe/guadeloupe/dir_pj-97101-01",
+    "metadata": {
+      "email": "",
+      "telephone": "+590 5 90 89 27 27",
+      "url": ""
+    }
+  },
+  {
+    "id": "f873193975638cbeb5a68ed1910e2bd8134e55c4",
+    "name": "direction_interregionale_de_la_police_judiciaire_rennes",
+    "title": "Direction interrégionale de la police judiciaire - Rennes",
+    "url": "https://lannuaire.service-public.fr/bretagne/ille-et-vilaine/dir_pj-35238-01",
+    "metadata": {
+      "email": "dipj.rennes@interieur.gouv.fr",
+      "telephone": "02 99 79 87 87",
+      "url": ""
+    }
+  },
+  {
+    "id": "48f980a33d2133d5aa32a083bc714e79cb4e18c8",
+    "name": "direction_interregionale_de_la_police_judiciaire_strasbourg",
+    "title": "Direction interrégionale de la police judiciaire - Strasbourg",
+    "url": "https://lannuaire.service-public.fr/grand-est/bas-rhin/dir_pj-67482-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 90 23 13 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "6f53b854fc092fa858358d272081be204b7113ab",
+    "name": "direction_regionale_de_la_police_judiciaire_ajaccio",
+    "title": "Direction régionale de la police judiciaire - Ajaccio",
+    "url": "https://lannuaire.service-public.fr/corse/corse-du-sud/dir_pj-2A004-01",
+    "metadata": {
+      "email": "drpj.ajaccio@interieur.gouv.fr",
+      "telephone": "04 95 11 16 10",
+      "url": ""
+    }
+  },
+  {
+    "id": "e20906bf0b190cfcdf460e1aa30d62a9bd57abb4",
+    "name": "direction_regionale_de_la_police_judiciaire_paris",
+    "title": "Direction régionale de la police judiciaire - Paris",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/paris/dir_pj-75056-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3430",
+      "url": "http://www.prefecture-police-paris.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "eb3ad6ef1487efd50a8be9c8b57b6566a7e462a3",
+    "name": "direction_regionale_de_la_police_judiciaire_versailles",
+    "title": "Direction régionale de la police judiciaire - Versailles",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/yvelines/dir_pj-78646-01",
+    "metadata": {
+      "email": "drpj.versailles@interieur.gouv.fr",
+      "telephone": "01 39 24 71 93",
+      "url": ""
+    }
+  },
+  {
+    "id": "9993f7d7382bbed21077cf0fe3dc9e56e5e91839",
+    "alternateName": "SRPJ",
+    "name": "service_regional_de_police_judiciaire_srpj_angers",
+    "title": "Service régional de police judiciaire (SRPJ) - Angers",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/maine-et-loire/dir_pj-49007-01",
+    "metadata": {
+      "email": "srpj.angers@interieur.gouv.fr",
+      "telephone": "02 41 57 52 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "2572ec4d767275077406188bef7ab2fbdcedc704",
+    "alternateName": "SRPJ",
+    "name": "service_regional_de_police_judiciaire_srpj_bordeaux",
+    "title": "Service régional de police judiciaire (SRPJ) - Bordeaux",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/gironde/dir_pj-33063-02",
+    "metadata": {
+      "email": "",
+      "telephone": "05 57 85 77 77",
+      "url": ""
+    }
+  },
+  {
+    "id": "2c65a65d8a7f3cae13e057e5b048ef05d855142b",
+    "alternateName": "SRPJ",
+    "name": "service_regional_de_police_judiciaire_srpj_clermont_ferrand",
+    "title": "Service régional de police judiciaire (SRPJ) - Clermont-Ferrand",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/puy-de-dome/dir_pj-63113-01",
+    "metadata": {
+      "email": "srpj.clermont-ferrand@interieur.gouv.fr",
+      "telephone": "04 63 05 66 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "4372552a6bad312d9aab3e4776a992bd79c763dc",
+    "alternateName": "SRPJ",
+    "name": "service_regional_de_police_judiciaire_srpj_dijon",
+    "title": "Service régional de police judiciaire (SRPJ) - Dijon",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/cote-d-or/dir_pj-21231-02",
+    "metadata": {
+      "email": "",
+      "telephone": "03 80 44 58 70",
+      "url": ""
+    }
+  },
+  {
+    "id": "0a53fcccbff0498934ebad083284cdc0f1bcbfcb",
+    "alternateName": "SRPJ",
+    "name": "service_regional_de_police_judiciaire_srpj_lille",
+    "title": "Service régional de police judiciaire (SRPJ) - Lille",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/nord/dir_pj-59350-02",
+    "metadata": {
+      "email": "",
+      "telephone": "03 20 42 70 70",
+      "url": ""
+    }
+  },
+  {
+    "id": "c9bdb368808642e01d2415c5353c0ff68c304f80",
+    "alternateName": "SRPJ",
+    "name": "service_regional_de_police_judiciaire_srpj_limoges",
+    "title": "Service régional de police judiciaire (SRPJ) - Limoges",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/haute-vienne/dir_pj-87085-01",
+    "metadata": {
+      "email": "srpj.limoges@interieur.gouv.fr",
+      "telephone": "05 55 14 32 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "6a06c910e03bb806a47db8785e48ea88ba2ea67a",
+    "alternateName": "SRPJ",
+    "name": "service_regional_de_police_judiciaire_srpj_lyon",
+    "title": "Service régional de police judiciaire (SRPJ) - Lyon",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/rhone/dir_pj-69388-02",
+    "metadata": {
+      "email": "",
+      "telephone": "04 78 78 40 40",
+      "url": "http://www.rhone.gouv.fr"
+    }
+  },
+  {
+    "id": "628e904bd4f293def084049a19297bd284a5c2fe",
+    "alternateName": "SRPJ",
+    "name": "service_regional_de_police_judiciaire_srpj_marseille",
+    "title": "Service régional de police judiciaire (SRPJ) - Marseille",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/dir_pj-13202-02",
+    "metadata": {
+      "email": "",
+      "telephone": "04 91 39 80 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "94a543b71734f306f8ade90c73db857c69c5e53a",
+    "alternateName": "SRPJ",
+    "name": "service_regional_de_police_judiciaire_srpj_montpellier",
+    "title": "Service régional de police judiciaire (SRPJ) - Montpellier",
+    "url": "https://lannuaire.service-public.fr/occitanie/herault/dir_pj-34172-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 99 13 53 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "36edc7c218dd4af667b360039a4d3272d6c7faaf",
+    "alternateName": "SRPJ",
+    "name": "service_regional_de_police_judiciaire_srpj_nancy",
+    "title": "Service régional de police judiciaire (SRPJ) - Nancy",
+    "url": "https://lannuaire.service-public.fr/grand-est/meurthe-et-moselle/dir_pj-54395-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 83 17 27 37",
+      "url": ""
+    }
+  },
+  {
+    "id": "3bccb57e3b105f9f0768db7b7fc3e8ff1face3b7",
+    "alternateName": "SRPJ",
+    "name": "service_regional_de_police_judiciaire_srpj_orleans",
+    "title": "Service régional de police judiciaire (SRPJ) - Orléans",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/loiret/dir_pj-45234-02",
+    "metadata": {
+      "email": "",
+      "telephone": "02 38 24 33 30",
+      "url": ""
+    }
+  },
+  {
+    "id": "90173063054debe577b4a452a0fd948782509ace",
+    "alternateName": "SRPJ",
+    "name": "service_regional_de_police_judiciaire_srpj_pointe_a_pitre",
+    "title": "Service régional de police judiciaire (SRPJ) - Pointe-à-Pitre",
+    "url": "https://lannuaire.service-public.fr/guadeloupe/guadeloupe/dir_pj-97120-01",
+    "metadata": {
+      "email": "",
+      "telephone": "+590 5 90 89 27 27",
+      "url": ""
+    }
+  },
+  {
+    "id": "7f67cc3617e8fb5dd0923ef7f87b61e8ddb2fc5d",
+    "alternateName": "SRPJ",
+    "name": "service_regional_de_police_judiciaire_srpj_reims",
+    "title": "Service régional de police judiciaire (SRPJ) - Reims",
+    "url": "https://lannuaire.service-public.fr/grand-est/marne/dir_pj-51454-01",
+    "metadata": {
+      "email": "srpj.reims@interieur.gouv.fr",
+      "telephone": "03 26 61 46 77",
+      "url": ""
+    }
+  },
+  {
+    "id": "18be5b6856c521d5a2d7a791baa9ad7fcbcdfea2",
+    "alternateName": "SRPJ",
+    "name": "service_regional_de_police_judiciaire_srpj_rennes",
+    "title": "Service régional de police judiciaire (SRPJ) - Rennes",
+    "url": "https://lannuaire.service-public.fr/bretagne/ille-et-vilaine/dir_pj-35238-02",
+    "metadata": {
+      "email": "",
+      "telephone": "02 99 79 87 87",
+      "url": ""
+    }
+  },
+  {
+    "id": "a38aa461016ceed5eb0325a3f74243dde3c85f60",
+    "alternateName": "SRPJ",
+    "name": "service_regional_de_police_judiciaire_srpj_rouen",
+    "title": "Service régional de police judiciaire (SRPJ) - Rouen",
+    "url": "https://lannuaire.service-public.fr/normandie/seine-maritime/dir_pj-76540-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 32 81 27 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "99643f8599368d85572b3a46415dc172b276e398",
+    "alternateName": "SRPJ",
+    "name": "service_regional_de_police_judiciaire_srpj_strasbourg",
+    "title": "Service régional de police judiciaire (SRPJ) - Strasbourg",
+    "url": "https://lannuaire.service-public.fr/grand-est/bas-rhin/dir_pj-67482-02",
+    "metadata": {
+      "email": "srpj.strasbourg@interieur.gouv.fr",
+      "telephone": "03 90 23 17 17",
+      "url": ""
+    }
+  },
+  {
+    "id": "7a38d4cb0bc3d01fc32462b435f91b7c916049b7",
+    "alternateName": "SRPJ",
+    "name": "service_regional_de_police_judiciaire_srpj_toulouse",
+    "title": "Service régional de police judiciaire (SRPJ) - Toulouse",
+    "url": "https://lannuaire.service-public.fr/occitanie/haute-garonne/dir_pj-31555-01",
+    "metadata": {
+      "email": "srpj.toulouse@interieur.gouv.fr",
+      "telephone": "05 61 12 77 77",
+      "url": ""
+    }
+  }
+]

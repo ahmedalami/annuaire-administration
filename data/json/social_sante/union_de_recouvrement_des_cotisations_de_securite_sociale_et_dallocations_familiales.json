@@ -1,0 +1,1260 @@
+[
+  {
+    "id": "653a1dd5245a66ed44a0f013ee9015e3ba7ba362",
+    "alternateName": "CGSS",
+    "name": "caisse_generale_de_la_securite_sociale_cgss_guadeloupe_urssaf_les_abymes",
+    "title": "Caisse générale de la sécurité sociale (CGSS) - Guadeloupe - Urssaf - Les Abymes",
+    "url": "https://lannuaire.service-public.fr/guadeloupe/guadeloupe/urssaf-97101-01",
+    "metadata": {
+      "email": "https://www.contact.urssaf.fr/categorie.do",
+      "telephone": "3957",
+      "url": "https://www.urssaf.fr/portail/home/Outre-mer.html"
+    }
+  },
+  {
+    "id": "2f81f5dbe9708568479f66d5b1823ddbfb13d2c6",
+    "alternateName": "CGSS",
+    "name": "caisse_generale_de_la_securite_sociale_cgss_guyane_urssaf_cayenne",
+    "title": "Caisse générale de la sécurité sociale (CGSS) - Guyane - Urssaf - Cayenne",
+    "url": "https://lannuaire.service-public.fr/guyane/guyane/urssaf-97302-01",
+    "metadata": {
+      "email": "https://www.contact.urssaf.fr/categorie.do",
+      "telephone": "3957",
+      "url": "https://www.urssaf.fr/portail/home/Outre-mer.html"
+    }
+  },
+  {
+    "id": "2e6bf471bcb2d7d521ddefcab9a44a9da6218576",
+    "alternateName": "CGSS",
+    "name": "caisse_generale_de_la_securite_sociale_cgss_la_reunion_urssaf_saint_denis",
+    "title": "Caisse générale de la sécurité sociale (CGSS) - La Réunion - Urssaf - Saint-Denis",
+    "url": "https://lannuaire.service-public.fr/la-reunion/reunion/urssaf-97411-01",
+    "metadata": {
+      "email": "https://www.contact.urssaf.fr/categorie.do",
+      "telephone": "3957",
+      "url": "https://www.urssaf.fr/portail/home/Outre-mer.html"
+    }
+  },
+  {
+    "id": "14f75ffe8ffa370981323eb37a25c063be869ece",
+    "alternateName": "CGSS",
+    "name": "caisse_generale_de_la_securite_sociale_cgss_martinique_urssaf_le_lamentin",
+    "title": "Caisse générale de la sécurité sociale (CGSS) - Martinique - Urssaf - Le Lamentin",
+    "url": "https://lannuaire.service-public.fr/martinique/martinique/urssaf-97213-01",
+    "metadata": {
+      "email": "https://www.contact.urssaf.fr/categorie.do",
+      "telephone": "3957",
+      "url": "https://www.urssaf.fr/portail/home/Outre-mer.html"
+    }
+  },
+  {
+    "id": "0af0a70544fc314adac9b212fc6cc68e314f6c8f",
+    "name": "urssaf_alsace_site_du_bas_rhin",
+    "title": "Urssaf Alsace - site du Bas-Rhin",
+    "url": "https://lannuaire.service-public.fr/grand-est/bas-rhin/urssaf-67447-01",
+    "metadata": {
+      "email": "https://www.contact.urssaf.fr/categorie.do",
+      "telephone": "3957",
+      "url": "https://www.urssaf.fr/portail/home/votre-urssaf.html"
+    }
+  },
+  {
+    "id": "8d34a818c9ce7c9a08efc25aaa3ce688c99ba096",
+    "name": "urssaf_alsace_site_du_haut_rhin",
+    "title": "Urssaf Alsace - site du Haut-Rhin",
+    "url": "https://lannuaire.service-public.fr/grand-est/haut-rhin/urssaf-68224-01",
+    "metadata": {
+      "email": "https://www.contact.urssaf.fr/categorie.do",
+      "telephone": "3957",
+      "url": "https://www.urssaf.fr/portail/home/votre-urssaf.html"
+    }
+  },
+  {
+    "id": "a76c53cebbf6ff1863245de03d7452f4ba016264",
+    "name": "urssaf_aquitaine_site_d_agen",
+    "title": "Urssaf Aquitaine - site d'Agen",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/lot-et-garonne/urssaf-47001-01",
+    "metadata": {
+      "email": "https://www.contact.urssaf.fr/categorie.do",
+      "telephone": "3957",
+      "url": "https://www.urssaf.fr/portail/home/votre-urssaf.html"
+    }
+  },
+  {
+    "id": "c68201399dfe33fe74a77b38a244a060eb827e93",
+    "name": "urssaf_aquitaine_site_d_anglet",
+    "title": "Urssaf Aquitaine - site d'Anglet",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/pyrenees-atlantiques/urssaf-64024-01",
+    "metadata": {
+      "email": "https://www.contact.urssaf.fr/categorie.do",
+      "telephone": "3957",
+      "url": "https://www.urssaf.fr/portail/home/votre-urssaf.html"
+    }
+  },
+  {
+    "id": "ef23543ea235cafcf642ccd70c23702d5c4e3937",
+    "name": "urssaf_aquitaine_site_de_billere",
+    "title": "Urssaf Aquitaine - site de Billère",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/pyrenees-atlantiques/urssaf-64129-01",
+    "metadata": {
+      "email": "https://www.contact.urssaf.fr/categorie.do",
+      "telephone": "3957",
+      "url": "https://www.urssaf.fr/portail/home/votre-urssaf.html"
+    }
+  },
+  {
+    "id": "2dd93824cfbf9725f0a13b2b6be40e660f49c6f9",
+    "name": "urssaf_aquitaine_site_de_bordeaux_bruges",
+    "title": "Urssaf Aquitaine - site de Bordeaux - Bruges",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/gironde/urssaf-33063-01",
+    "metadata": {
+      "email": "https://www.contact.urssaf.fr/categorie.do",
+      "telephone": "3957",
+      "url": "https://www.urssaf.fr/portail/home/votre-urssaf.html"
+    }
+  },
+  {
+    "id": "0a69e0de8f27900e9936358639643640e2a463eb",
+    "name": "urssaf_aquitaine_site_de_mont_de_marsan",
+    "title": "Urssaf Aquitaine - site de Mont-de-Marsan",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/landes/urssaf-40192-01",
+    "metadata": {
+      "email": "https://www.contact.urssaf.fr/categorie.do",
+      "telephone": "3957",
+      "url": "https://www.urssaf.fr/portail/home/votre-urssaf.html"
+    }
+  },
+  {
+    "id": "f0f546af87b5666c5159ced315dd4bc6ce1b54ac",
+    "name": "urssaf_aquitaine_site_de_perigueux",
+    "title": "Urssaf Aquitaine - site de Périgueux",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/dordogne/urssaf-24322-01",
+    "metadata": {
+      "email": "https://www.contact.urssaf.fr/categorie.do",
+      "telephone": "3957",
+      "url": "https://www.urssaf.fr/portail/home/votre-urssaf.html"
+    }
+  },
+  {
+    "id": "c484d393c91a2022cd89baf5513314419c44a805",
+    "name": "urssaf_auvergne_siege_social_auvergne",
+    "title": "Urssaf Auvergne - siège social Auvergne",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/puy-de-dome/urssaf-63113-01",
+    "metadata": {
+      "email": "https://www.contact.urssaf.fr/categorie.do",
+      "telephone": "3957",
+      "url": "https://www.urssaf.fr/portail/home/votre-urssaf.html"
+    }
+  },
+  {
+    "id": "6ae8009625255fa8c5600b3b920ed7da7138103a",
+    "name": "urssaf_auvergne_site_du_cantal",
+    "title": "Urssaf Auvergne - site du Cantal",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/cantal/urssaf-15014-01",
+    "metadata": {
+      "email": "https://www.contact.urssaf.fr/categorie.do",
+      "telephone": "3957",
+      "url": "https://www.urssaf.fr/portail/home/votre-urssaf.html"
+    }
+  },
+  {
+    "id": "fad646565b660d97b1894d9edd796346535161c6",
+    "name": "urssaf_auvergne_site_de_haute_loire",
+    "title": "Urssaf Auvergne - site de Haute-Loire",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/haute-loire/urssaf-43157-01",
+    "metadata": {
+      "email": "https://www.contact.urssaf.fr/categorie.do",
+      "telephone": "3957",
+      "url": "https://www.urssaf.fr/portail/home/votre-urssaf.html"
+    }
+  },
+  {
+    "id": "15f7b49a24dab91f6686c431629f76ab3fc9ce85",
+    "name": "urssaf_auvergne_site_de_l_allier",
+    "title": "Urssaf Auvergne - site de l'Allier",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/allier/urssaf-03190-01",
+    "metadata": {
+      "email": "https://www.contact.urssaf.fr/categorie.do",
+      "telephone": "3957",
+      "url": "https://www.urssaf.fr/portail/home/votre-urssaf.html"
+    }
+  },
+  {
+    "id": "a55318598f9cd2a4eaeb85d505cee071fe0a87a0",
+    "name": "urssaf_basse_normandie_siege_social_site_du_calvados",
+    "title": "Urssaf Basse-Normandie - siège social - site du Calvados",
+    "url": "https://lannuaire.service-public.fr/normandie/calvados/urssaf-14118-01",
+    "metadata": {
+      "email": "https://www.contact.urssaf.fr/categorie.do",
+      "telephone": "3957",
+      "url": "https://www.urssaf.fr/portail/home/votre-urssaf.html"
+    }
+  },
+  {
+    "id": "af0565701d8c11ad1424d2eb3f0099f08f53fe22",
+    "name": "urssaf_basse_normandie_site_de_l_orne",
+    "title": "Urssaf Basse-Normandie - site de l'Orne",
+    "url": "https://lannuaire.service-public.fr/normandie/orne/urssaf-61497-01",
+    "metadata": {
+      "email": "https://www.contact.urssaf.fr/categorie.do",
+      "telephone": "3957",
+      "url": "https://www.urssaf.fr/portail/home/votre-urssaf.html"
+    }
+  },
+  {
+    "id": "26623865a4cbeecca6809aaacaabee79fb68d4f9",
+    "name": "urssaf_basse_normandie_site_de_la_manche",
+    "title": "Urssaf Basse-Normandie - site de la Manche",
+    "url": "https://lannuaire.service-public.fr/normandie/manche/urssaf-50502-01",
+    "metadata": {
+      "email": "https://www.contact.urssaf.fr/categorie.do",
+      "telephone": "3957",
+      "url": "https://www.urssaf.fr/portail/home/votre-urssaf.html"
+    }
+  },
+  {
+    "id": "845860cc665f57d5b26403e531d8d48a68e1f732",
+    "name": "urssaf_bourgogne_siege_social_site_de_dijon",
+    "title": "Urssaf Bourgogne - siège social - site de Dijon",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/cote-d-or/urssaf-21231-01",
+    "metadata": {
+      "email": "https://www.contact.urssaf.fr/categorie.do",
+      "telephone": "3957",
+      "url": "https://www.urssaf.fr/portail/home/votre-urssaf.html"
+    }
+  },
+  {
+    "id": "db4a6a881ea3bad727af922afe725e94e2b4f806",
+    "name": "urssaf_bourgogne_site_d_auxerre",
+    "title": "Urssaf Bourgogne - site d'Auxerre",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/yonne/urssaf-89024-01",
+    "metadata": {
+      "email": "https://www.contact.urssaf.fr/categorie.do",
+      "telephone": "3957",
+      "url": "https://www.urssaf.fr/portail/home/votre-urssaf.html"
+    }
+  },
+  {
+    "id": "fa03e135dc41f56f1f7d8ae7c51426bf559d3784",
+    "name": "urssaf_bourgogne_site_de_macon",
+    "title": "Urssaf Bourgogne - site de Mâcon",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/saone-et-loire/urssaf-71270-01",
+    "metadata": {
+      "email": "https://www.contact.urssaf.fr/categorie.do",
+      "telephone": "3957",
+      "url": "https://www.urssaf.fr/portail/home/votre-urssaf.html"
+    }
+  },
+  {
+    "id": "125bfc365620b28130dda49203a3c93c8e09f617",
+    "name": "urssaf_bourgogne_site_de_nevers",
+    "title": "Urssaf Bourgogne - site de Nevers",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/nievre/urssaf-58194-01",
+    "metadata": {
+      "email": "https://www.contact.urssaf.fr/categorie.do",
+      "telephone": "3957",
+      "url": "https://www.urssaf.fr/portail/home/votre-urssaf.html"
+    }
+  },
+  {
+    "id": "a842306c1692ef4cd7bce82dce3f5cc0340f4356",
+    "name": "urssaf_bretagne_siege_social_site_de_rennes",
+    "title": "Urssaf Bretagne - siège social - site de Rennes",
+    "url": "https://lannuaire.service-public.fr/bretagne/ille-et-vilaine/urssaf-35238-01",
+    "metadata": {
+      "email": "https://www.contact.urssaf.fr/categorie.do",
+      "telephone": "3957",
+      "url": "https://www.urssaf.fr/portail/home/votre-urssaf.html"
+    }
+  },
+  {
+    "id": "3de2189f1ff72d2551d365fb5adfcee4aaf0df21",
+    "name": "urssaf_bretagne_site_de_brest",
+    "title": "Urssaf Bretagne - site de Brest",
+    "url": "https://lannuaire.service-public.fr/bretagne/finistere/urssaf-29019-01",
+    "metadata": {
+      "email": "https://www.contact.urssaf.fr/categorie.do",
+      "telephone": "3957",
+      "url": "https://www.urssaf.fr/portail/home/votre-urssaf.html"
+    }
+  },
+  {
+    "id": "305b3719e6e6d5c30d977397bb39ab066e1c1a2d",
+    "name": "urssaf_bretagne_site_du_morbihan_lorient",
+    "title": "Urssaf Bretagne - site du Morbihan - Lorient",
+    "url": "https://lannuaire.service-public.fr/bretagne/morbihan/urssaf-56121-01",
+    "metadata": {
+      "email": "https://www.contact.urssaf.fr/categorie.do",
+      "telephone": "3957",
+      "url": "https://www.urssaf.fr/portail/home/votre-urssaf.html"
+    }
+  },
+  {
+    "id": "a21aa704495f99c951e2bdb54d45109dbd82e2de",
+    "name": "urssaf_bretagne_site_de_plerin",
+    "title": "Urssaf Bretagne - site de Plérin",
+    "url": "https://lannuaire.service-public.fr/bretagne/cotes-d-armor/urssaf-22187-01",
+    "metadata": {
+      "email": "https://www.contact.urssaf.fr/categorie.do",
+      "telephone": "3957",
+      "url": "https://www.urssaf.fr/portail/home/votre-urssaf.html"
+    }
+  },
+  {
+    "id": "67b8e5cb4a6452d30cdd29e4886b83200d9160ad",
+    "name": "urssaf_bretagne_site_de_quimper",
+    "title": "Urssaf Bretagne - site de Quimper",
+    "url": "https://lannuaire.service-public.fr/bretagne/finistere/urssaf-29232-01",
+    "metadata": {
+      "email": "https://www.contact.urssaf.fr/categorie.do",
+      "telephone": "3957",
+      "url": "https://www.urssaf.fr/portail/home/votre-urssaf.html"
+    }
+  },
+  {
+    "id": "a4c8e03449d3282fd021bcb1f628898d1f9de393",
+    "name": "urssaf_bretagne_site_de_vannes",
+    "title": "Urssaf Bretagne - site de Vannes",
+    "url": "https://lannuaire.service-public.fr/bretagne/morbihan/urssaf-56260-01",
+    "metadata": {
+      "email": "https://www.contact.urssaf.fr/categorie.do",
+      "telephone": "3957",
+      "url": "https://www.urssaf.fr/portail/home/votre-urssaf.html"
+    }
+  },
+  {
+    "id": "e3ef1fc53a379ea4828df7e79a7edd007ce6becb",
+    "name": "urssaf_centre_val_de_loire_siege_social_site_d_olivet",
+    "title": "Urssaf Centre-Val de Loire - siège social - site d'Olivet",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/loiret/urssaf-45234-01",
+    "metadata": {
+      "email": "https://www.contact.urssaf.fr/categorie.do",
+      "telephone": "3957",
+      "url": "https://www.urssaf.fr/portail/home/votre-urssaf.html"
+    }
+  },
+  {
+    "id": "9693831258f6a7e6ce462240f3705d89f5d366e4",
+    "name": "urssaf_centre_val_de_loire_site_de_blois",
+    "title": "Urssaf Centre-Val de Loire - site de Blois",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/loir-et-cher/urssaf-41018-01",
+    "metadata": {
+      "email": "https://www.contact.urssaf.fr/categorie.do",
+      "telephone": "3957",
+      "url": "https://www.urssaf.fr/portail/home/votre-urssaf.html"
+    }
+  },
+  {
+    "id": "cfd69a53860138f49ba2dd8527f95161fab3bd44",
+    "name": "urssaf_centre_val_de_loire_site_de_bourges",
+    "title": "Urssaf Centre-Val de Loire - site de Bourges",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/cher/urssaf-18033-01",
+    "metadata": {
+      "email": "https://www.contact.urssaf.fr/categorie.do",
+      "telephone": "3957",
+      "url": "https://www.urssaf.fr/portail/home/votre-urssaf.html"
+    }
+  },
+  {
+    "id": "f78f27adcd4fefea1f03cfaf1e56847d78476050",
+    "name": "urssaf_centre_val_de_loire_site_de_chartres",
+    "title": "Urssaf Centre-Val de Loire - site de Chartres",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/eure-et-loir/urssaf-28085-01",
+    "metadata": {
+      "email": "https://www.contact.urssaf.fr/categorie.do",
+      "telephone": "3957",
+      "url": "https://www.urssaf.fr/portail/home/votre-urssaf.html"
+    }
+  },
+  {
+    "id": "1f22227f10dd760ecae632d820ce8c87f4e027d7",
+    "name": "urssaf_centre_val_de_loire_site_de_chateauroux",
+    "title": "Urssaf Centre-Val de Loire - site de Châteauroux",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/indre/urssaf-36044-01",
+    "metadata": {
+      "email": "https://www.contact.urssaf.fr/categorie.do",
+      "telephone": "3957",
+      "url": "https://www.urssaf.fr/portail/home/votre-urssaf.html"
+    }
+  },
+  {
+    "id": "e87ce2006c5e4e0af6839b377533cae77cd8cd9c",
+    "name": "urssaf_centre_val_de_loire_site_de_tours",
+    "title": "Urssaf Centre-Val de Loire - site de Tours",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/indre-et-loire/urssaf-37261-01",
+    "metadata": {
+      "email": "https://www.contact.urssaf.fr/categorie.do",
+      "telephone": "3957",
+      "url": "https://www.urssaf.fr/portail/home/votre-urssaf.html"
+    }
+  },
+  {
+    "id": "e6f0d38c9faf725088f90f856b98f9ba0d159790",
+    "name": "urssaf_champagne_ardenne_siege_social_site_de_la_marne",
+    "title": "Urssaf Champagne-Ardenne - siège social - site de la Marne",
+    "url": "https://lannuaire.service-public.fr/grand-est/marne/urssaf-51454-01",
+    "metadata": {
+      "email": "https://www.contact.urssaf.fr/categorie.do",
+      "telephone": "3957",
+      "url": "https://www.urssaf.fr/portail/home/votre-urssaf.html"
+    }
+  },
+  {
+    "id": "12f0592db56fa3fc227ba39358aa7b12a9545d4d",
+    "name": "urssaf_champagne_ardenne_site_des_ardennes",
+    "title": "Urssaf Champagne-Ardenne - site des Ardennes",
+    "url": "https://lannuaire.service-public.fr/grand-est/ardennes/urssaf-08105-01",
+    "metadata": {
+      "email": "https://www.contact.urssaf.fr/categorie.do",
+      "telephone": "3957",
+      "url": "https://www.urssaf.fr/portail/home/votre-urssaf.html"
+    }
+  },
+  {
+    "id": "acdd1fdd91c4003d862ab05e23e015dd06cb9722",
+    "name": "urssaf_champagne_ardenne_site_de_l_aube",
+    "title": "Urssaf Champagne-Ardenne - site de l'Aube",
+    "url": "https://lannuaire.service-public.fr/grand-est/aube/urssaf-10387-01",
+    "metadata": {
+      "email": "https://www.contact.urssaf.fr/categorie.do",
+      "telephone": "3957",
+      "url": "https://www.urssaf.fr/portail/home/votre-urssaf.html"
+    }
+  },
+  {
+    "id": "1fa43fe741c1b16885f420cdc751ae99a69b3f66",
+    "name": "urssaf_champagne_ardenne_site_de_la_haute_marne",
+    "title": "Urssaf Champagne-Ardenne - site de la Haute-Marne",
+    "url": "https://lannuaire.service-public.fr/grand-est/haute-marne/urssaf-52121-01",
+    "metadata": {
+      "email": "https://www.contact.urssaf.fr/categorie.do",
+      "telephone": "3957",
+      "url": "https://www.urssaf.fr/portail/home/votre-urssaf.html"
+    }
+  },
+  {
+    "id": "0ce4682667685490d3c93cde8bdbafec75d079ff",
+    "name": "urssaf_corse_siege_social_site_de_la_corse_du_sud",
+    "title": "Urssaf Corse - siège social - site de la Corse-du-Sud",
+    "url": "https://lannuaire.service-public.fr/corse/corse-du-sud/urssaf-2A004-01",
+    "metadata": {
+      "email": "https://www.contact.urssaf.fr/categorie.do",
+      "telephone": "3957",
+      "url": "https://www.urssaf.fr/portail/home/votre-urssaf.html"
+    }
+  },
+  {
+    "id": "629171889b1473bd6ea33a5be2f4b8e48b34395a",
+    "name": "urssaf_corse_site_de_la_haute_corse",
+    "title": "Urssaf Corse - site de la Haute-Corse",
+    "url": "https://lannuaire.service-public.fr/corse/haute-corse/urssaf-2B033-01",
+    "metadata": {
+      "email": "https://www.contact.urssaf.fr/categorie.do",
+      "telephone": "3957",
+      "url": "https://www.urssaf.fr/portail/home/votre-urssaf.html"
+    }
+  },
+  {
+    "id": "8db13d1b953c65e68dcf9f175221a1cc6c223926",
+    "name": "urssaf_franche_comte_siege_social_site_de_besancon",
+    "title": "Urssaf Franche-Comté - siège social - site de Besançon",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/doubs/urssaf-25212-01",
+    "metadata": {
+      "email": "http://www.contact.urssaf.fr",
+      "telephone": "3957",
+      "url": "https://www.urssaf.fr/portail/home/votre-urssaf.html"
+    }
+  },
+  {
+    "id": "78f0a22a7b44594665d1ad45ef73e11866ad5c8e",
+    "name": "urssaf_franche_comte_site_de_belfort",
+    "title": "Urssaf Franche-Comté - site de Belfort",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/territoire-de-belfort/urssaf-90010-01",
+    "metadata": {
+      "email": "https://www.contact.urssaf.fr/categorie.do",
+      "telephone": "3957",
+      "url": "https://www.urssaf.fr/portail/home/votre-urssaf.html"
+    }
+  },
+  {
+    "id": "7fd91cebcc826d15cb576e6b2463f7a51383d260",
+    "name": "urssaf_franche_comte_site_du_doubs_montbeliard",
+    "title": "Urssaf Franche-Comté - site du Doubs - Montbéliard",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/doubs/urssaf-25388-01",
+    "metadata": {
+      "email": "https://www.contact.urssaf.fr/categorie.do",
+      "telephone": "3957",
+      "url": "https://www.urssaf.fr/portail/home/votre-urssaf.html"
+    }
+  },
+  {
+    "id": "5650d365e840337b39fefa2639de5dec111ff322",
+    "name": "urssaf_franche_comte_site_du_jura",
+    "title": "Urssaf Franche-Comté - site du Jura",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/jura/urssaf-39300-01",
+    "metadata": {
+      "email": "https://www.contact.urssaf.fr/categorie.do",
+      "telephone": "3957",
+      "url": "https://www.urssaf.fr/portail/home/votre-urssaf.html"
+    }
+  },
+  {
+    "id": "100c76defdce7c85dfc413dfc57d40c50beaaa80",
+    "name": "urssaf_franche_comte_site_de_la_haute_saone",
+    "title": "Urssaf Franche-Comté - site de la Haute-Saône",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/haute-saone/urssaf-70550-01",
+    "metadata": {
+      "email": "https://www.contact.urssaf.fr/categorie.do",
+      "telephone": "3957",
+      "url": "https://www.urssaf.fr/portail/home/votre-urssaf.html"
+    }
+  },
+  {
+    "id": "c5792e811655479b4090fda6c60a4990aa125bb0",
+    "name": "urssaf_haute_normandie_siege_social_site_de_rouen",
+    "title": "Urssaf Haute-Normandie - siège social - site de Rouen",
+    "url": "https://lannuaire.service-public.fr/normandie/seine-maritime/urssaf-76540-01",
+    "metadata": {
+      "email": "https://www.contact.urssaf.fr/categorie.do",
+      "telephone": "3957",
+      "url": "https://www.urssaf.fr/portail/home/votre-urssaf.html"
+    }
+  },
+  {
+    "id": "b0628cafaec10c8341fc1bf00f826ca0adb7b2d0",
+    "name": "urssaf_ile_de_france_siege_social_site_de_montreuil",
+    "title": "Urssaf Île-de-France - siège social - site de Montreuil",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/seine-saint-denis/urssaf-93048-01",
+    "metadata": {
+      "email": "https://www.contact.urssaf.fr/categorie.do",
+      "telephone": "3957",
+      "url": "https://www.urssaf.fr/portail/home/votre-urssaf.html"
+    }
+  },
+  {
+    "id": "ed03da7982d743a08a8f8d83051ac5c21891549a",
+    "name": "urssaf_ile_de_france_site_de_cergy",
+    "title": "Urssaf Île-de-France - site de Cergy",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/val-d-oise/urssaf-95127-01",
+    "metadata": {
+      "email": "https://www.contact.urssaf.fr/categorie.do",
+      "telephone": "3957",
+      "url": "https://www.urssaf.fr/portail/home/votre-urssaf.html"
+    }
+  },
+  {
+    "id": "f2b6a31556b1032e0e967ec545db4b8ce69681a9",
+    "name": "urssaf_ile_de_france_site_des_hauts_de_seine",
+    "title": "Urssaf Île-de-France - site des Hauts-de-Seine",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/hauts-de-seine/urssaf-92050-01",
+    "metadata": {
+      "email": "https://www.contact.urssaf.fr/categorie.do",
+      "telephone": "3957",
+      "url": "https://www.urssaf.fr/portail/home/votre-urssaf.html"
+    }
+  },
+  {
+    "id": "374bb1014b90c93f25100393ed0a04c6f59bdc61",
+    "name": "urssaf_ile_de_france_site_de_l_essonne",
+    "title": "Urssaf Île-de-France - site de l'Essonne",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/essonne/urssaf-91228-01",
+    "metadata": {
+      "email": "https://www.contact.urssaf.fr/categorie.do",
+      "telephone": "3957",
+      "url": "https://www.urssaf.fr/portail/home/votre-urssaf.html"
+    }
+  },
+  {
+    "id": "598b77b29416e7d5a7e61bfc0d7b8c6a38fbce30",
+    "name": "urssaf_ile_de_france_site_de_paris_nord",
+    "title": "Urssaf Île-de-France - site de Paris-Nord",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/paris/urssaf-75119-01",
+    "metadata": {
+      "email": "https://www.contact.urssaf.fr/categorie.do",
+      "telephone": "3957",
+      "url": "https://www.urssaf.fr/portail/home/votre-urssaf.html"
+    }
+  },
+  {
+    "id": "39b2f02d55d9e688d1cb3f228875c4b526f96951",
+    "name": "urssaf_ile_de_france_site_de_paris_sud",
+    "title": "Urssaf Île-de-France - site de Paris-Sud",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/paris/urssaf-75113-01",
+    "metadata": {
+      "email": "https://www.contact.urssaf.fr/categorie.do",
+      "telephone": "3957",
+      "url": "https://www.urssaf.fr/portail/home/votre-urssaf.html"
+    }
+  },
+  {
+    "id": "38cf4eb1c7ae3a066d74b29f0cbc8cece3ce3a64",
+    "name": "urssaf_ile_de_france_site_de_seine_et_marne",
+    "title": "Urssaf Île-de-France - site de Seine-et-Marne",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/seine-et-marne/urssaf-77288-01",
+    "metadata": {
+      "email": "https://www.contact.urssaf.fr/categorie.do",
+      "telephone": "3957",
+      "url": "https://www.urssaf.fr/portail/home/votre-urssaf.html"
+    }
+  },
+  {
+    "id": "cc94ba68244d229974fdf0fc43b05b461f4c6ecf",
+    "name": "urssaf_ile_de_france_site_du_val_de_marne",
+    "title": "Urssaf Île-de-France - site du Val-de-Marne",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/val-de-marne/urssaf-94028-01",
+    "metadata": {
+      "email": "https://www.contact.urssaf.fr/categorie.do",
+      "telephone": "3957",
+      "url": "https://www.urssaf.fr/portail/home/votre-urssaf.html"
+    }
+  },
+  {
+    "id": "14493e261a5fa13aa9c70f3dea8895114677fc93",
+    "name": "urssaf_ile_de_france_site_des_yvelines",
+    "title": "Urssaf Île-de-France - site des Yvelines",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/yvelines/urssaf-78297-01",
+    "metadata": {
+      "email": "https://www.contact.urssaf.fr/categorie.do",
+      "telephone": "3957",
+      "url": "https://www.urssaf.fr/portail/home/votre-urssaf.html"
+    }
+  },
+  {
+    "id": "6e5c1ba6ff842963b7d3f3191d9595da4b8fb3d7",
+    "name": "urssaf_languedoc_roussillon_siege_social_site_de_montpellier",
+    "title": "Urssaf Languedoc-Roussillon - siège social - site de Montpellier",
+    "url": "https://lannuaire.service-public.fr/occitanie/herault/urssaf-34172-01",
+    "metadata": {
+      "email": "https://www.contact.urssaf.fr/categorie.do",
+      "telephone": "3957",
+      "url": "https://www.urssaf.fr/portail/home/votre-urssaf.html"
+    }
+  },
+  {
+    "id": "44f557fc5972cfb279906fd736ab9603ee4083e1",
+    "name": "urssaf_languedoc_roussillon_site_du_gard",
+    "title": "Urssaf Languedoc-Roussillon - site du Gard",
+    "url": "https://lannuaire.service-public.fr/occitanie/gard/urssaf-30189-01",
+    "metadata": {
+      "email": "https://www.contact.urssaf.fr/categorie.do",
+      "telephone": "3957",
+      "url": "https://www.urssaf.fr/portail/home/votre-urssaf.html"
+    }
+  },
+  {
+    "id": "34d769cd8cee2e2c1aeb28c86a6f1e8aa807fb97",
+    "name": "urssaf_languedoc_roussillon_site_de_l_aude",
+    "title": "Urssaf Languedoc-Roussillon - site de l'Aude",
+    "url": "https://lannuaire.service-public.fr/occitanie/aude/urssaf-11069-01",
+    "metadata": {
+      "email": "https://www.contact.urssaf.fr/categorie.do",
+      "telephone": "3957",
+      "url": "https://www.urssaf.fr/portail/home/votre-urssaf.html"
+    }
+  },
+  {
+    "id": "bc5eb3ab4453fe73f91286fee77e4735c4232d67",
+    "name": "urssaf_languedoc_roussillon_site_de_l_herault_beziers",
+    "title": "Urssaf Languedoc-Roussillon - site de l'Hérault - Béziers",
+    "url": "https://lannuaire.service-public.fr/occitanie/herault/urssaf-34032-01",
+    "metadata": {
+      "email": "https://www.contact.urssaf.fr/categorie.do",
+      "telephone": "3957",
+      "url": "https://www.urssaf.fr/portail/home/votre-urssaf.html"
+    }
+  },
+  {
+    "id": "6406ceac26bc205042b67c4fe64f4e955cdcf762",
+    "name": "urssaf_languedoc_roussillon_site_des_pyrenees_orientales",
+    "title": "Urssaf Languedoc-Roussillon - site des Pyrénées Orientales",
+    "url": "https://lannuaire.service-public.fr/occitanie/pyrenees-orientales/urssaf-66136-01",
+    "metadata": {
+      "email": "https://www.contact.urssaf.fr/categorie.do",
+      "telephone": "3957",
+      "url": "https://www.urssaf.fr/portail/home/votre-urssaf.html"
+    }
+  },
+  {
+    "id": "07d96218b5ad9293e226f1a0d3a4783ad1ad8753",
+    "name": "urssaf_limousin_site_de_correze",
+    "title": "Urssaf Limousin - site de Corrèze",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/correze/urssaf-19272-01",
+    "metadata": {
+      "email": "https://www.contact.urssaf.fr/categorie.do",
+      "telephone": "3957",
+      "url": "https://www.urssaf.fr/portail/home/votre-urssaf.html"
+    }
+  },
+  {
+    "id": "392e7ec424fbb662273363e24ef682e5714e52e4",
+    "name": "urssaf_limousin_site_de_creuse",
+    "title": "Urssaf Limousin - site de Creuse",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/creuse/urssaf-23096-01",
+    "metadata": {
+      "email": "https://www.contact.urssaf.fr/categorie.do",
+      "telephone": "3957",
+      "url": "https://www.urssaf.fr/portail/home/votre-urssaf.html"
+    }
+  },
+  {
+    "id": "69303cb6e5977f8a2f976a301e510813a6b8f85d",
+    "name": "urssaf_limousin_site_de_limoges",
+    "title": "Urssaf Limousin - Site de Limoges",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/haute-vienne/urssaf-87085-01",
+    "metadata": {
+      "email": "https://www.contact.urssaf.fr/categorie.do",
+      "telephone": "3957",
+      "url": "https://www.urssaf.fr/portail/home/votre-urssaf.html"
+    }
+  },
+  {
+    "id": "70133c2b822d29ce341b08895f6b4e88d6f3c36a",
+    "name": "urssaf_lorraine_siege_social_site_de_metz",
+    "title": "Urssaf Lorraine - siège social - site de Metz",
+    "url": "https://lannuaire.service-public.fr/grand-est/moselle/urssaf-57463-01",
+    "metadata": {
+      "email": "https://www.contact.urssaf.fr/categorie.do",
+      "telephone": "3957",
+      "url": "https://www.urssaf.fr/portail/home/votre-urssaf.html"
+    }
+  },
+  {
+    "id": "a640682c93e5b990e12d511667b78d7309b700b4",
+    "name": "urssaf_lorraine_site_de_bar_le_duc",
+    "title": "Urssaf Lorraine - site de Bar-le-Duc",
+    "url": "https://lannuaire.service-public.fr/grand-est/meuse/urssaf-55029-01",
+    "metadata": {
+      "email": "https://www.contact.urssaf.fr/categorie.do",
+      "telephone": "3957",
+      "url": "https://www.urssaf.fr/portail/home/votre-urssaf.html"
+    }
+  },
+  {
+    "id": "7986aee71ece2a19dcfa9deba038c6c9a89fa18c",
+    "name": "urssaf_lorraine_site_d_epinal",
+    "title": "Urssaf Lorraine - site d'Épinal",
+    "url": "https://lannuaire.service-public.fr/grand-est/vosges/urssaf-88160-01",
+    "metadata": {
+      "email": "https://www.contact.urssaf.fr/categorie.do",
+      "telephone": "3957",
+      "url": "https://www.urssaf.fr/portail/home/votre-urssaf.html"
+    }
+  },
+  {
+    "id": "5aed5ab2d720025cf7fc0ccd8f46f35c47d331cb",
+    "name": "urssaf_lorraine_site_de_villers_les_nancy",
+    "title": "Urssaf Lorraine - site de Villers-lès-Nancy",
+    "url": "https://lannuaire.service-public.fr/grand-est/meurthe-et-moselle/urssaf-54578-01",
+    "metadata": {
+      "email": "https://www.contact.urssaf.fr/categorie.do",
+      "telephone": "3957",
+      "url": "https://www.urssaf.fr/portail/home/votre-urssaf.html"
+    }
+  },
+  {
+    "id": "d0faa6654853a139e5bd07d11628b7e8e669a32c",
+    "name": "urssaf_midi_pyrenees_siege_social_site_de_labege",
+    "title": "Urssaf Midi-Pyrénées - siège social - site de Labège",
+    "url": "https://lannuaire.service-public.fr/occitanie/haute-garonne/urssaf-31254-01",
+    "metadata": {
+      "email": "https://www.contact.urssaf.fr/categorie.do",
+      "telephone": "3957",
+      "url": "https://www.urssaf.fr/portail/home/votre-urssaf.html"
+    }
+  },
+  {
+    "id": "4186cc2f8054144842a586e5d207dae3998463ae",
+    "name": "urssaf_midi_pyrenees_site_du_gers",
+    "title": "Urssaf Midi-Pyrénées - site du Gers",
+    "url": "https://lannuaire.service-public.fr/occitanie/gers/urssaf-32013-01",
+    "metadata": {
+      "email": "https://www.contact.urssaf.fr/categorie.do",
+      "telephone": "3957",
+      "url": "https://www.urssaf.fr/portail/home/votre-urssaf.html"
+    }
+  },
+  {
+    "id": "96176e4f14615ed5bd6b9584bda65ba52eb5f1a9",
+    "name": "urssaf_midi_pyrenees_site_des_hautes_pyrenees",
+    "title": "Urssaf Midi-Pyrénées - site des Hautes-Pyrénées",
+    "url": "https://lannuaire.service-public.fr/occitanie/hautes-pyrenees/urssaf-65440-01",
+    "metadata": {
+      "email": "https://www.contact.urssaf.fr/categorie.do",
+      "telephone": "3957",
+      "url": "https://www.urssaf.fr/portail/home/votre-urssaf.html"
+    }
+  },
+  {
+    "id": "4d61776fae27f779f822bd7f9cce4d2540dff0ac",
+    "name": "urssaf_midi_pyrenees_site_de_l_ariege",
+    "title": "Urssaf Midi-Pyrénées - site de l'Ariège",
+    "url": "https://lannuaire.service-public.fr/occitanie/ariege/urssaf-09122-01",
+    "metadata": {
+      "email": "https://www.contact.urssaf.fr/categorie.do",
+      "telephone": "3957",
+      "url": "https://www.urssaf.fr/portail/home/votre-urssaf.html"
+    }
+  },
+  {
+    "id": "3cc877b941802641ee6790539d29dbbf8bf016d3",
+    "name": "urssaf_midi_pyrenees_site_de_l_aveyron",
+    "title": "Urssaf Midi-Pyrénées - site de l'Aveyron",
+    "url": "https://lannuaire.service-public.fr/occitanie/aveyron/urssaf-12202-01",
+    "metadata": {
+      "email": "https://www.contact.urssaf.fr/categorie.do",
+      "telephone": "3957",
+      "url": "https://www.urssaf.fr/portail/home/votre-urssaf.html"
+    }
+  },
+  {
+    "id": "edecc4b23185cd9b65a9966d6848292ae08d6716",
+    "name": "urssaf_midi_pyrenees_site_du_lot",
+    "title": "Urssaf Midi-Pyrénées - site du Lot",
+    "url": "https://lannuaire.service-public.fr/occitanie/lot/urssaf-46042-01",
+    "metadata": {
+      "email": "https://www.contact.urssaf.fr/categorie.do",
+      "telephone": "3957",
+      "url": "https://www.urssaf.fr/portail/home/votre-urssaf.html"
+    }
+  },
+  {
+    "id": "ac76487968f9140f6adc3bbd812c92a7eb8ffa17",
+    "name": "urssaf_midi_pyrenees_site_du_tarn",
+    "title": "Urssaf Midi-Pyrénées - site du Tarn",
+    "url": "https://lannuaire.service-public.fr/occitanie/tarn/urssaf-81218-01",
+    "metadata": {
+      "email": "https://www.contact.urssaf.fr/categorie.do",
+      "telephone": "3957",
+      "url": "https://www.urssaf.fr/portail/home/votre-urssaf.html"
+    }
+  },
+  {
+    "id": "cf3f59c65e391839fb856ed77e33bd4c716fdbaf",
+    "name": "urssaf_midi_pyrenees_site_du_tarn_et_garonne",
+    "title": "Urssaf Midi-Pyrénées - site du Tarn-et-Garonne",
+    "url": "https://lannuaire.service-public.fr/occitanie/tarn-et-garonne/urssaf-82121-01",
+    "metadata": {
+      "email": "https://www.contact.urssaf.fr/categorie.do",
+      "telephone": "3957",
+      "url": "https://www.urssaf.fr/portail/home/votre-urssaf.html"
+    }
+  },
+  {
+    "id": "9c361ae2fcbccf171be12f1812fb593a2df38960",
+    "name": "urssaf_nord_pas_de_calais_siege_social_site_de_lille",
+    "title": "Urssaf Nord - Pas-de-Calais - siège social - site de Lille",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/nord/urssaf-59350-01",
+    "metadata": {
+      "email": "https://www.contact.urssaf.fr/categorie.do",
+      "telephone": "3957",
+      "url": "https://www.urssaf.fr/portail/home/votre-urssaf.html"
+    }
+  },
+  {
+    "id": "5c6220b4eeaa9a19d0d719262c7fa74715be5862",
+    "name": "urssaf_nord_pas_de_calais_site_d_arras",
+    "title": "Urssaf Nord – Pas-de-Calais - site d'Arras",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/pas-de-calais/urssaf-62041-01",
+    "metadata": {
+      "email": "https://www.contact.urssaf.fr/categorie.do",
+      "telephone": "3957",
+      "url": "https://www.urssaf.fr/portail/home/votre-urssaf.html"
+    }
+  },
+  {
+    "id": "6759fd4d64c0fe56acb073ee5a04832552f6705b",
+    "name": "urssaf_nord_pas_de_calais_site_de_calais",
+    "title": "Urssaf Nord – Pas-de-Calais - site de Calais",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/pas-de-calais/urssaf-62193-01",
+    "metadata": {
+      "email": "https://www.contact.urssaf.fr/categorie.do",
+      "telephone": "3957",
+      "url": "https://www.urssaf.fr/portail/home/votre-urssaf.html"
+    }
+  },
+  {
+    "id": "a570d04a0ba41fdcb2eb56f0c0cc10de1f15cc08",
+    "name": "urssaf_nord_pas_de_calais_site_de_douai",
+    "title": "Urssaf Nord – Pas-de-Calais - site de Douai",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/nord/urssaf-59178-01",
+    "metadata": {
+      "email": "https://www.contact.urssaf.fr/categorie.do",
+      "telephone": "3957",
+      "url": "https://www.urssaf.fr/portail/home/votre-urssaf.html"
+    }
+  },
+  {
+    "id": "05f44e43e372353cb57acbb57835024f8861ff9f",
+    "name": "urssaf_nord_pas_de_calais_site_de_tourcoing",
+    "title": "Urssaf Nord – Pas-de-Calais - site de Tourcoing",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/nord/urssaf-59599-01",
+    "metadata": {
+      "email": "https://www.contact.urssaf.fr/categorie.do",
+      "telephone": "3957",
+      "url": "https://www.urssaf.fr/portail/home/votre-urssaf.html"
+    }
+  },
+  {
+    "id": "0154d0e09d5bf166bfc6d0f94cd8db0f516ae756",
+    "name": "urssaf_nord_pas_de_calais_site_de_valenciennes",
+    "title": "Urssaf Nord – Pas-de-Calais - site de Valenciennes",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/nord/urssaf-59606-01",
+    "metadata": {
+      "email": "https://www.contact.urssaf.fr/categorie.do",
+      "telephone": "3957",
+      "url": "https://www.urssaf.fr/portail/home/votre-urssaf.html"
+    }
+  },
+  {
+    "id": "a4ebb416ca7d1c829fe57b5bcee72343d453651d",
+    "name": "urssaf_pays_de_la_loire_siege_social_site_de_nantes",
+    "title": "Urssaf Pays de la Loire - siège social - site de Nantes",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/loire-atlantique/urssaf-44109-01",
+    "metadata": {
+      "email": "https://www.contact.urssaf.fr/categorie.do",
+      "telephone": "3957",
+      "url": "https://www.urssaf.fr/portail/home/votre-urssaf.html"
+    }
+  },
+  {
+    "id": "9d8c70ab49031f37be5be10167192dbc9bf898f3",
+    "name": "urssaf_pays_de_la_loire_site_de_la_mayenne",
+    "title": "Urssaf Pays de la Loire - site de la Mayenne",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/mayenne/urssaf-53130-01",
+    "metadata": {
+      "email": "https://www.contact.urssaf.fr/categorie.do",
+      "telephone": "3957",
+      "url": "https://www.urssaf.fr/portail/home/votre-urssaf.html"
+    }
+  },
+  {
+    "id": "3d51a9dc61393baebf866a0676004c93b85650a5",
+    "name": "urssaf_pays_de_la_loire_site_de_la_sarthe",
+    "title": "Urssaf Pays de la Loire - site de la Sarthe",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/sarthe/urssaf-72181-01",
+    "metadata": {
+      "email": "https://www.contact.urssaf.fr/categorie.do",
+      "telephone": "3957",
+      "url": "https://www.urssaf.fr/portail/home/votre-urssaf.html"
+    }
+  },
+  {
+    "id": "30a64292eaad2b2b8c32996a1696ff2a0c9a93b8",
+    "name": "urssaf_pays_de_la_loire_site_de_la_vendee",
+    "title": "Urssaf Pays de la Loire - site de la Vendée",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/vendee/urssaf-85191-01",
+    "metadata": {
+      "email": "https://www.contact.urssaf.fr/categorie.do",
+      "telephone": "3957",
+      "url": "https://www.urssaf.fr/portail/home/votre-urssaf.html"
+    }
+  },
+  {
+    "id": "0fcd2ce8e4f61ba28031d0aac2e2e64f3a4cc5b6",
+    "name": "urssaf_pays_de_la_loire_site_de_maine_et_loire_angers",
+    "title": "Urssaf Pays de la Loire - site de Maine-et-Loire - Angers",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/maine-et-loire/urssaf-49007-01",
+    "metadata": {
+      "email": "https://www.contact.urssaf.fr/categorie.do",
+      "telephone": "3957",
+      "url": "https://www.urssaf.fr/portail/home/votre-urssaf.html"
+    }
+  },
+  {
+    "id": "16985216592572ab3fca0eab5f4def9fcec4d9a7",
+    "name": "urssaf_pays_de_la_loire_site_de_maine_et_loire_cholet",
+    "title": "Urssaf Pays de la Loire - site de Maine-et-Loire - Cholet",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/maine-et-loire/urssaf-49099-01",
+    "metadata": {
+      "email": "https://www.contact.urssaf.fr/categorie.do",
+      "telephone": "3957",
+      "url": "https://www.urssaf.fr/portail/home/votre-urssaf.html"
+    }
+  },
+  {
+    "id": "a53081dc55c69f35364b0307195c8ad2927b9419",
+    "name": "urssaf_picardie_siege_social_site_de_la_somme",
+    "title": "Urssaf Picardie - siège social - site de la Somme",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/somme/urssaf-80021-01",
+    "metadata": {
+      "email": "https://www.contact.urssaf.fr/categorie.do",
+      "telephone": "3957",
+      "url": "https://www.urssaf.fr/portail/home/votre-urssaf.html"
+    }
+  },
+  {
+    "id": "dd83de6243c4b97aec6c424f0b81f0eeadd4bf73",
+    "name": "urssaf_picardie_site_de_l_aisne_laon",
+    "title": "Urssaf Picardie - site de l'Aisne – Laon",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/aisne/urssaf-02408-01",
+    "metadata": {
+      "email": "https://www.contact.urssaf.fr/categorie.do",
+      "telephone": "3957",
+      "url": "https://www.urssaf.fr/portail/home/votre-urssaf.html"
+    }
+  },
+  {
+    "id": "0586e6a982fbcde47174e32d5f9ac5306e7c4ba4",
+    "name": "urssaf_picardie_site_de_l_aisne_saint_quentin",
+    "title": "Urssaf Picardie - site de l'Aisne – Saint-Quentin",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/aisne/urssaf-02691-01",
+    "metadata": {
+      "email": "https://www.contact.urssaf.fr/categorie.do",
+      "telephone": "3957",
+      "url": "https://www.urssaf.fr/portail/home/votre-urssaf.html"
+    }
+  },
+  {
+    "id": "019890aecef920c437b9c6da7268e432e9f0a26a",
+    "name": "urssaf_picardie_site_de_l_oise_beauvais",
+    "title": "Urssaf Picardie - site de l'Oise – Beauvais",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/oise/urssaf-60057-01",
+    "metadata": {
+      "email": "https://www.contact.urssaf.fr/categorie.do",
+      "telephone": "3957",
+      "url": "https://www.urssaf.fr/portail/home/votre-urssaf.html"
+    }
+  },
+  {
+    "id": "2dd3be53b1b9f190fb65e7c30f8c9c4656d2ba35",
+    "name": "urssaf_picardie_site_de_l_oise_creil",
+    "title": "Urssaf Picardie - site de l'Oise – Creil",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/oise/urssaf-60175-01",
+    "metadata": {
+      "email": "https://www.contact.urssaf.fr/categorie.do",
+      "telephone": "3957",
+      "url": "https://www.urssaf.fr/portail/home/votre-urssaf.html"
+    }
+  },
+  {
+    "id": "1a2816d9c9d7f35c53ad21404bbb7eb950ed9230",
+    "name": "urssaf_poitou_charentes_siege_social_site_de_poitiers",
+    "title": "Urssaf Poitou-Charentes - siège social - site de Poitiers",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/vienne/urssaf-86194-01",
+    "metadata": {
+      "email": "https://www.contact.urssaf.fr/categorie.do",
+      "telephone": "3957",
+      "url": "https://www.urssaf.fr/portail/home/votre-urssaf.html"
+    }
+  },
+  {
+    "id": "2d5660d41e11d3560f2e1326a7dcb512908f4eeb",
+    "name": "urssaf_poitou_charentes_site_d_angouleme",
+    "title": "Urssaf Poitou-Charentes - site d'Angoulême",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/charente/urssaf-16166-01",
+    "metadata": {
+      "email": "https://www.contact.urssaf.fr/categorie.do",
+      "telephone": "3957",
+      "url": "https://www.urssaf.fr/portail/home/votre-urssaf.html"
+    }
+  },
+  {
+    "id": "86474e1c347be1c59c7c1cba0b994925f70b5eef",
+    "name": "urssaf_poitou_charentes_site_de_la_rochelle",
+    "title": "Urssaf Poitou-Charentes - site de La Rochelle",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/charente-maritime/urssaf-17028-01",
+    "metadata": {
+      "email": "https://www.contact.urssaf.fr/categorie.do",
+      "telephone": "3957",
+      "url": "https://www.urssaf.fr/portail/home/votre-urssaf.html"
+    }
+  },
+  {
+    "id": "a9723a3b61c567c1a9cb9bcc9af27f448e8cfd7c",
+    "name": "urssaf_poitou_charentes_site_de_niort",
+    "title": "Urssaf Poitou-Charentes - site de Niort",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/deux-sevres/urssaf-79191-01",
+    "metadata": {
+      "email": "https://www.contact.urssaf.fr/categorie.do",
+      "telephone": "3957",
+      "url": "https://www.urssaf.fr/portail/home/votre-urssaf.html"
+    }
+  },
+  {
+    "id": "af4d3f068525e72a1c45d5dc22c90de6d1a26b7f",
+    "name": "urssaf_provence_alpes_cote_dazur_siege_social_site_de_marseille",
+    "title": "Urssaf Provence-Alpes-Côte d'azur - siège social - site de Marseille",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/urssaf-13203-01",
+    "metadata": {
+      "email": "https://www.contact.urssaf.fr/categorie.do",
+      "telephone": "3957",
+      "url": "https://www.urssaf.fr/portail/home/votre-urssaf.html"
+    }
+  },
+  {
+    "id": "c372b1d6374b355493d5b965477a8c9f97e9f797",
+    "name": "urssaf_provence_alpes_cote_d_azur_site_des_alpes_de_haute_provence",
+    "title": "Urssaf Provence-Alpes-Côte d'Azur - site des Alpes-de-Haute-Provence",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/alpes-de-haute-provence/urssaf-04070-01",
+    "metadata": {
+      "email": "https://www.contact.urssaf.fr/categorie.do",
+      "telephone": "3957",
+      "url": "https://www.urssaf.fr/portail/home/votre-urssaf.html"
+    }
+  },
+  {
+    "id": "25def665a63c9fb028182a84823bf62189574f2d",
+    "name": "urssaf_provence_alpes_cote_dazur_site_des_alpes_maritimes",
+    "title": "Urssaf Provence-Alpes-Côte d'azur - site des Alpes-Maritimes",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/alpes-maritimes/urssaf-06088-01",
+    "metadata": {
+      "email": "https://www.contact.urssaf.fr/categorie.do",
+      "telephone": "3957",
+      "url": "https://www.urssaf.fr/portail/home/votre-urssaf.html"
+    }
+  },
+  {
+    "id": "c3787ec0d1a3801a720fdbae4cbb2f1e15422c76",
+    "name": "urssaf_provence_alpes_cote_dazur_site_des_hautes_alpes",
+    "title": "Urssaf Provence-Alpes-Côte d'azur - site des Hautes-Alpes",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/hautes-alpes/urssaf-05061-01",
+    "metadata": {
+      "email": "https://www.contact.urssaf.fr/categorie.do",
+      "telephone": "3957",
+      "url": "https://www.urssaf.fr/portail/home/votre-urssaf.html"
+    }
+  },
+  {
+    "id": "5267e35c91a2307d0fa8cf837d21527300d00f1d",
+    "name": "urssaf_provence_alpes_cote_dazur_site_du_var",
+    "title": "Urssaf Provence-Alpes-Côte d'azur - site du Var",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/var/urssaf-83137-01",
+    "metadata": {
+      "email": "https://www.contact.urssaf.fr/categorie.do",
+      "telephone": "3957",
+      "url": "https://www.urssaf.fr/portail/home/votre-urssaf.html"
+    }
+  },
+  {
+    "id": "6d1b656cb8b8df3aaf6ee46cfea890e275b0b297",
+    "name": "urssaf_provence_alpes_cote_dazur_site_du_vaucluse",
+    "title": "Urssaf Provence-Alpes-Côte-d'azur - site du Vaucluse",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/vaucluse/urssaf-84007-01",
+    "metadata": {
+      "email": "https://www.contact.urssaf.fr/categorie.do",
+      "telephone": "3957",
+      "url": "https://www.urssaf.fr/portail/home/votre-urssaf.html"
+    }
+  },
+  {
+    "id": "d8a23bd1af258cfc04648c929f0d2e0216bb7f18",
+    "name": "urssaf_rhone_alpes_siege_social_site_du_rhone",
+    "title": "Urssaf Rhône-Alpes - siège social - site du Rhône",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/rhone/urssaf-69259-01",
+    "metadata": {
+      "email": "https://www.contact.urssaf.fr/categorie.do",
+      "telephone": "3957",
+      "url": "https://www.urssaf.fr/portail/home/votre-urssaf.html"
+    }
+  },
+  {
+    "id": "3063def7310e70823c9f896bd65e5c14934790fa",
+    "name": "urssaf_rhone_alpes_site_de_l_ain",
+    "title": "Urssaf Rhône-Alpes - site de l'Ain",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/ain/urssaf-01053-01",
+    "metadata": {
+      "email": "https://www.contact.urssaf.fr/categorie.do",
+      "telephone": "3957",
+      "url": "https://www.urssaf.fr/portail/home/votre-urssaf.html"
+    }
+  },
+  {
+    "id": "dd8d592f46eeda06e4ea37aaa600c6c429040846",
+    "name": "urssaf_rhone_alpes_site_de_l_ardeche",
+    "title": "Urssaf Rhône-Alpes - site de l'Ardèche",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/ardeche/urssaf-07186-01",
+    "metadata": {
+      "email": "https://www.contact.urssaf.fr/categorie.do",
+      "telephone": "3957",
+      "url": "https://www.urssaf.fr/portail/home/votre-urssaf.html"
+    }
+  },
+  {
+    "id": "9513dc54abf298689c296fe569f06499c53c668e",
+    "name": "urssaf_rhone_alpes_site_de_l_isere_grenoble",
+    "title": "Urssaf Rhône-Alpes - site de l'Isère - Grenoble",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/isere/urssaf-38185-01",
+    "metadata": {
+      "email": "https://www.contact.urssaf.fr/categorie.do",
+      "telephone": "3957",
+      "url": "https://www.urssaf.fr/portail/home/votre-urssaf.html"
+    }
+  },
+  {
+    "id": "9c38fc70ffa49240a2d98d6287d91b41400bd356",
+    "name": "urssaf_rhone_alpes_site_de_l_isere_vienne",
+    "title": "Urssaf Rhône-Alpes - site de l'Isère – Vienne",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/isere/urssaf-38544-01",
+    "metadata": {
+      "email": "http://www.contact.urssaf.fr",
+      "telephone": "3957",
+      "url": "https://www.urssaf.fr/portail/home/votre-urssaf.html"
+    }
+  },
+  {
+    "id": "af321e959267177f6481b35e15e4f37460bd5cda",
+    "name": "urssaf_rhone_alpes_site_de_la_drome",
+    "title": "Urssaf Rhône-Alpes - site de la Drôme",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/drome/urssaf-26362-01",
+    "metadata": {
+      "email": "https://www.contact.urssaf.fr/categorie.do",
+      "telephone": "3957",
+      "url": "https://www.urssaf.fr/portail/home/votre-urssaf.html"
+    }
+  },
+  {
+    "id": "34d0b0ad8a0a68cd76460933fad170ea000d8c70",
+    "name": "urssaf_rhone_alpes_site_de_la_haute_savoie",
+    "title": "Urssaf Rhône-Alpes - site de la Haute-Savoie",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/haute-savoie/urssaf-74010-01",
+    "metadata": {
+      "email": "https://www.contact.urssaf.fr/categorie.do",
+      "telephone": "3957",
+      "url": "https://www.urssaf.fr/portail/home/votre-urssaf.html"
+    }
+  },
+  {
+    "id": "e7ebc73d2b2253c0bf69bf8c3ec1bb75da95c5c1",
+    "name": "urssaf_rhone_alpes_site_de_la_loire_roanne",
+    "title": "Urssaf Rhône-Alpes - site de la Loire - Roanne",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/loire/urssaf-42187-01",
+    "metadata": {
+      "email": "https://www.contact.urssaf.fr/categorie.do",
+      "telephone": "3957",
+      "url": "https://www.urssaf.fr/portail/home/votre-urssaf.html"
+    }
+  },
+  {
+    "id": "f4c39bf99d383b857b079b1dfb2a39d1cfcc3ac6",
+    "name": "urssaf_rhone_alpes_site_de_la_loire_saint_etienne",
+    "title": "Urssaf Rhône-Alpes - site de la Loire - Saint-Étienne",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/loire/urssaf-42218-01",
+    "metadata": {
+      "email": "https://www.contact.urssaf.fr/categorie.do",
+      "telephone": "3957",
+      "url": "https://www.urssaf.fr/portail/home/votre-urssaf.html"
+    }
+  },
+  {
+    "id": "5082b71b8d07b7d006aa439efeb2b0e1ca793e1f",
+    "name": "urssaf_rhone_alpes_site_de_la_savoie",
+    "title": "Urssaf Rhône-Alpes - site de la Savoie",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/savoie/urssaf-73179-01",
+    "metadata": {
+      "email": "https://www.contact.urssaf.fr/categorie.do",
+      "telephone": "3957",
+      "url": "https://www.urssaf.fr/portail/home/votre-urssaf.html"
+    }
+  },
+  {
+    "id": "aefa1e0f5ed334202f3477d2ac244caca8ef5a97",
+    "name": "urssaf_rhone_alpes_site_du_rhone",
+    "title": "Urssaf Rhône-Alpes - site du Rhône",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/rhone/urssaf-69264-01",
+    "metadata": {
+      "email": "http://www.contact.urssaf.fr",
+      "telephone": "3957",
+      "url": "https://www.urssaf.fr/portail/home/votre-urssaf.html"
+    }
+  }
+]

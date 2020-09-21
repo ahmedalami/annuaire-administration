@@ -1,0 +1,110 @@
+[
+  {
+    "id": "cc8ecb0eba7f3c1655a941653dbc83759dd274d9",
+    "alternateName": "PRS",
+    "name": "pole_de_recouvrement_specialise_prs_alpes_maritimes_nice",
+    "title": "Pôle de recouvrement spécialisé (PRS) - Alpes-Maritimes - Nice",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/alpes-maritimes/prs-06088-01",
+    "metadata": {
+      "email": "prs.alpes-maritimes@dgfip.finances.gouv.fr",
+      "telephone": "04 92 09 45 00",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "7020abefa8c2e6583c38584ec9402b00d1f85e77",
+    "alternateName": "PRS",
+    "name": "pole_de_recouvrement_specialise_prs_bouches_du_rhone_aix_en_provence",
+    "title": "Pôle de recouvrement spécialisé (PRS) - Bouches-du-Rhône - Aix-en-Provence",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/prs-13001-03",
+    "metadata": {
+      "email": "prs.b-du-rhone-aix@dgfip.finances.gouv.fr",
+      "telephone": "04 42 95 81 00",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "b95cf3247f6741225723671f6475c369a2f3efec",
+    "alternateName": "PRS",
+    "name": "pole_de_recouvrement_specialise_prs_bouches_du_rhone_marseille",
+    "title": "Pôle de recouvrement spécialisé (PRS) - Bouches-du-Rhône - Marseille",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/prs-13055-04",
+    "metadata": {
+      "email": "prs.b-du-rhone-marseille@dgfip.finances.gouv.fr",
+      "telephone": "04 91 99 91 44",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "1682189b334850bb50ea445e1d461253d0a5457c",
+    "alternateName": "PRS",
+    "name": "pole_de_recouvrement_specialise_prs_gironde",
+    "title": "Pôle de recouvrement spécialisé (PRS) - Gironde",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/gironde/prs-33063-01",
+    "metadata": {
+      "email": "prs.gironde@dgfip.finances.gouv.fr",
+      "telephone": "05 56 24 86 00",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "7df6c51d85aa907f1c3aab7cb75f73c14f75ea94",
+    "alternateName": "PRS",
+    "name": "pole_de_recouvrement_specialise_prs_loiret",
+    "title": "Pôle de recouvrement spécialisé (PRS) - Loiret",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/loiret/prs-45234-01",
+    "metadata": {
+      "email": "",
+      "telephone": "",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "e42695f4245a414a776555a0792ab845e0e94c1a",
+    "alternateName": "PRS",
+    "name": "pole_de_recouvrement_specialise_prs_lot_et_garonne",
+    "title": "Pôle de recouvrement spécialisé (PRS) - Lot-et-Garonne",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/lot-et-garonne/prs-47001-05",
+    "metadata": {
+      "email": "prs.lot-et-garonne@dgfip.finances.gouv.fr",
+      "telephone": "05 53 69 19 03",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "b5b2c6c68abb0c8db15f1e5e965ba7f30f0e7dfe",
+    "alternateName": "PRS",
+    "name": "pole_de_recouvrement_specialise_prs_pas_de_calais",
+    "title": "Pôle de recouvrement spécialisé (PRS) - Pas-de-Calais",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/pas-de-calais/prs-62041-01",
+    "metadata": {
+      "email": "prs.pas-de-calais@dgfip.finances.gouv.fr",
+      "telephone": "03 21 24 68 46",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "bb89348244704a6e3ebb4c51b038c7a981985209",
+    "alternateName": "PRS",
+    "name": "pole_de_recouvrement_specialise_prs_seine_maritime",
+    "title": "Pôle de recouvrement spécialisé (PRS) - Seine-Maritime",
+    "url": "https://lannuaire.service-public.fr/normandie/seine-maritime/prs-76540-05",
+    "metadata": {
+      "email": "prs.seine-maritime@dgfip.finances.gouv.fr",
+      "telephone": "02 32 18 91 63",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "cf19a8725bbcaeec39394acc9dcd17ef697148c4",
+    "alternateName": "PRS",
+    "name": "pole_de_recouvrement_specialise_prs_seine_saint_denis",
+    "title": "Pôle de recouvrement spécialisé (PRS) - Seine-Saint-Denis",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/seine-saint-denis/prs-93008-03",
+    "metadata": {
+      "email": "prs.seine-saint-denis@dgfip.finances.gouv.fr",
+      "telephone": "01 48 96 56 19",
+      "url": "http://www.impots.gouv.fr"
+    }
+  }
+]

@@ -1,0 +1,2024 @@
+[
+  {
+    "id": "d93deb9ce5541a8d9dcb883dd0d9fe97674e7455",
+    "alternateName": "viticulture",
+    "name": "bureau_de_douane_viticulture_aix_en_provence",
+    "title": "Bureau de douane (viticulture) - Aix-en-Provence",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/bureau_de_douane-13001-02",
+    "metadata": {
+      "email": "viti-aix@douane.finances.gouv.fr",
+      "telephone": "09 70 27 92 77",
+      "url": "https://www.douane.gouv.fr"
+    }
+  },
+  {
+    "id": "e2cb39657f7b6252810a826f78ec4b7a9ccfea1a",
+    "alternateName": "viticulture",
+    "name": "bureau_de_douane_viticulture_ajaccio",
+    "title": "Bureau de douane (viticulture) - Ajaccio",
+    "url": "https://lannuaire.service-public.fr/corse/corse-du-sud/bureau_de_douane-2A004-02",
+    "metadata": {
+      "email": "viti-ajaccio@douane.finances.gouv.fr",
+      "telephone": "09 70 27 89 76",
+      "url": "https://www.douane.gouv.fr"
+    }
+  },
+  {
+    "id": "0cf5e7f04043ad249a6653d02314dfb047e9adcb",
+    "alternateName": "viticulture",
+    "name": "bureau_de_douane_viticulture_angers",
+    "title": "Bureau de douane (viticulture) - Angers",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/maine-et-loire/bureau_de_douane-49007-02",
+    "metadata": {
+      "email": "viti-angers@douane.finances.gouv.fr",
+      "telephone": "09 70 27 51 35",
+      "url": "https://www.douane.gouv.fr"
+    }
+  },
+  {
+    "id": "10094f32c72793f90f06d03c77c1a414d06a3b7c",
+    "alternateName": "viticulture",
+    "name": "bureau_de_douane_viticulture_angouleme",
+    "title": "Bureau de douane (viticulture) - Angoulême",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/charente/bureau_de_douane-16015-02",
+    "metadata": {
+      "email": "cvc-angouleme@douane.finances.gouv.fr",
+      "telephone": "09 70 27 51 85",
+      "url": "https://www.douane.gouv.fr"
+    }
+  },
+  {
+    "id": "2d0ffe6ae9cd64901311019f21d9f1dcd7260c81",
+    "alternateName": "viticulture",
+    "name": "bureau_de_douane_viticulture_auxerre",
+    "title": "Bureau de douane (viticulture) - Auxerre",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/yonne/bureau_de_douane-89263-02",
+    "metadata": {
+      "email": "viti-auxerre@douane.finances.gouv.fr",
+      "telephone": "09 70 27 64 91",
+      "url": "https://www.douane.gouv.fr"
+    }
+  },
+  {
+    "id": "16e8f819e4fffb66d6214a2d6ace8c32da010ebe",
+    "alternateName": "viticulture",
+    "name": "bureau_de_douane_viticulture_avignon",
+    "title": "Bureau de douane (viticulture) - Avignon",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/vaucluse/bureau_de_douane-84007-02",
+    "metadata": {
+      "email": "viti-avignon@douane.finances.gouv.fr",
+      "telephone": "09 70 27 91 86",
+      "url": "https://www.douane.gouv.fr"
+    }
+  },
+  {
+    "id": "7b037c2e93cdb7b8228fe719957af0b762550756",
+    "alternateName": "viticulture",
+    "name": "bureau_de_douane_viticulture_bagnols_sur_ceze",
+    "title": "Bureau de douane (viticulture) - Bagnols-sur-Cèze",
+    "url": "https://lannuaire.service-public.fr/occitanie/gard/bureau_de_douane-30028-02",
+    "metadata": {
+      "email": "vitici-bagnols-ceze@douane.finances.gouv.fr",
+      "telephone": "09 70 27 71 45",
+      "url": "https://www.douane.gouv.fr"
+    }
+  },
+  {
+    "id": "cdd82a2b6d96fd0259b3491968794875c5ff6d54",
+    "alternateName": "viticulture",
+    "name": "bureau_de_douane_viticulture_bar_sur_seine",
+    "title": "Bureau de douane (viticulture) - Bar-sur-Seine",
+    "url": "https://lannuaire.service-public.fr/grand-est/aube/bureau_de_douane-10034-02",
+    "metadata": {
+      "email": "viti-bar-sur-seine@douane.finances.gouv.fr",
+      "telephone": "09 70 27 80 97",
+      "url": "https://www.douane.gouv.fr"
+    }
+  },
+  {
+    "id": "4e9f3bdc0ab60ddafb59e1cb5d378f1e9e4fad2d",
+    "alternateName": "viticulture",
+    "name": "bureau_de_douane_viticulture_bastia",
+    "title": "Bureau de douane (viticulture) - Bastia",
+    "url": "https://lannuaire.service-public.fr/corse/haute-corse/bureau_de_douane-2B353-02",
+    "metadata": {
+      "email": "viti-bastia@douane.finances.gouv.fr",
+      "telephone": "09 70 27 89 33",
+      "url": "https://www.douane.gouv.fr"
+    }
+  },
+  {
+    "id": "1ea54eaf79643a65ab152bee386046c1fbdef90d",
+    "alternateName": "viticulture",
+    "name": "bureau_de_douane_viticulture_beaune",
+    "title": "Bureau de douane (viticulture) - Beaune",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/cote-d-or/bureau_de_douane-21054-02",
+    "metadata": {
+      "email": "viti-beaune@douane.finances.gouv.fr",
+      "telephone": "09 70 27 67 91",
+      "url": "https://www.douane.gouv.fr"
+    }
+  },
+  {
+    "id": "dc6f6c182c7942030c537b9271910a379b58180f",
+    "alternateName": "viticulture",
+    "name": "bureau_de_douane_viticulture_bergerac",
+    "title": "Bureau de douane (viticulture) - Bergerac",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/dordogne/bureau_de_douane-24037-02",
+    "metadata": {
+      "email": "viti-bergerac@douane.finances.gouv.fr",
+      "telephone": "09 70 27 57 20",
+      "url": "https://www.douane.gouv.fr"
+    }
+  },
+  {
+    "id": "bfcb1c3fd36b55af8b2d29b608135e2e7d431bc4",
+    "alternateName": "viticulture",
+    "name": "bureau_de_douane_viticulture_beziers",
+    "title": "Bureau de douane (viticulture) - Béziers",
+    "url": "https://lannuaire.service-public.fr/occitanie/herault/bureau_de_douane-34336-02",
+    "metadata": {
+      "email": "viti-beziers@douane.finances.gouv.fr",
+      "telephone": "09 70 27 70 45",
+      "url": "https://www.douane.gouv.fr"
+    }
+  },
+  {
+    "id": "a826812ba3ff6afe4db3b954dde7112dc8a32da1",
+    "alternateName": "viticulture",
+    "name": "bureau_de_douane_viticulture_blaye",
+    "title": "Bureau de douane (viticulture) - Blaye",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/gironde/bureau_de_douane-33058-02",
+    "metadata": {
+      "email": "viti-blaye@douane.finances.gouv.fr",
+      "telephone": "09 70 27 56 90",
+      "url": "https://www.douane.gouv.fr"
+    }
+  },
+  {
+    "id": "25282efa55f4f1df9ecec37790cfcc65e26595db",
+    "alternateName": "viticulture",
+    "name": "bureau_de_douane_viticulture_blois",
+    "title": "Bureau de douane (viticulture) - Blois",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/loir-et-cher/bureau_de_douane-41018-02",
+    "metadata": {
+      "email": "viti-blois@douane.finances.gouv.fr",
+      "telephone": "09 70 27 67 50",
+      "url": "https://www.douane.gouv.fr"
+    }
+  },
+  {
+    "id": "79a0c2c8a9fc85dad5f3823a623a4e7f45676ec3",
+    "alternateName": "viticulture",
+    "name": "bureau_de_douane_viticulture_bourg_en_bresse",
+    "title": "Bureau de douane (viticulture) - Bourg-en-Bresse",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/ain/bureau_de_douane-01289-02",
+    "metadata": {
+      "email": "viti-bourg-en-bresse@douane.finances.gouv.fr",
+      "telephone": "09 70 27 32 55",
+      "url": "https://www.douane.gouv.fr"
+    }
+  },
+  {
+    "id": "af0cc1ac4518fd14e8f24db110e26998e4af55bb",
+    "alternateName": "viticulture",
+    "name": "bureau_de_douane_viticulture_bourges",
+    "title": "Bureau de douane (viticulture) - Bourges",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/cher/bureau_de_douane-18033-02",
+    "metadata": {
+      "email": "viti-bourges@douane.finances.gouv.fr",
+      "telephone": "09 70 27 65 70",
+      "url": "https://www.douane.gouv.fr"
+    }
+  },
+  {
+    "id": "976377eaf69de8a73010e1476b018509f9936e05",
+    "alternateName": "viticulture",
+    "name": "bureau_de_douane_viticulture_carcassonne",
+    "title": "Bureau de douane (viticulture) - Carcassonne",
+    "url": "https://lannuaire.service-public.fr/occitanie/aude/bureau_de_douane-11069-02",
+    "metadata": {
+      "email": "viti-carcassonne@douane.finances.gouv.fr",
+      "telephone": "09 70 27 72 51",
+      "url": "https://www.douane.gouv.fr"
+    }
+  },
+  {
+    "id": "79eedc938de6c0edb9e276f27a47029ea08e7510",
+    "alternateName": "viticulture",
+    "name": "bureau_de_douane_viticulture_chalon_sur_saone",
+    "title": "Bureau de douane (viticulture) - Chalon-sur-Saône",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/saone-et-loire/bureau_de_douane-71076-02",
+    "metadata": {
+      "email": "viti-chalon-sur-saone@douane.finances.gouv.fr",
+      "telephone": "09 70 27 64 71",
+      "url": "https://www.douane.gouv.fr"
+    }
+  },
+  {
+    "id": "51aeef3ba0da7818e22af335ebe90ec5b9147e38",
+    "alternateName": "viticulture",
+    "name": "bureau_de_douane_viticulture_chambery",
+    "title": "Bureau de douane (viticulture) - Chambéry",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/savoie/bureau_de_douane-73065-02",
+    "metadata": {
+      "email": "viti-chambery@douane.finances.gouv.fr",
+      "telephone": "09 70 27 35 39",
+      "url": "https://www.douane.gouv.fr"
+    }
+  },
+  {
+    "id": "78416efb57e77a9be0a23f549ed5f4f43c3037b1",
+    "alternateName": "viticulture",
+    "name": "bureau_de_douane_viticulture_clermont_ferrand",
+    "title": "Bureau de douane (viticulture) - Clermont-Ferrand",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/puy-de-dome/bureau_de_douane-63113-02",
+    "metadata": {
+      "email": "viti-clermont@douane.finances.gouv.fr",
+      "telephone": "09 70 27 33 03",
+      "url": "https://www.douane.gouv.fr"
+    }
+  },
+  {
+    "id": "b7aa7a5cd922183622f4a9fd62e748f49745bb06",
+    "alternateName": "viticulture",
+    "name": "bureau_de_douane_viticulture_cognac",
+    "title": "Bureau de douane (viticulture) - Cognac",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/charente/bureau_de_douane-16102-02",
+    "metadata": {
+      "email": "cvc-cognac@douane.finances.gouv.fr",
+      "telephone": "09 70 27 51 83",
+      "url": "https://www.douane.gouv.fr"
+    }
+  },
+  {
+    "id": "57f7f259bb922705f669e0f269176670f91a9e6e",
+    "alternateName": "viticulture",
+    "name": "bureau_de_douane_viticulture_dijon",
+    "title": "Bureau de douane (viticulture) - Dijon",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/cote-d-or/bureau_de_douane-21231-02",
+    "metadata": {
+      "email": "viti-dijon@douane.finances.gouv.fr",
+      "telephone": "09 70 27 64 70",
+      "url": "https://www.douane.gouv.fr"
+    }
+  },
+  {
+    "id": "a05676a1865c9c846481a70ac0f13c57400c74ef",
+    "alternateName": "viticulture",
+    "name": "bureau_de_douane_viticulture_draguignan",
+    "title": "Bureau de douane (viticulture) - Draguignan",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/var/bureau_de_douane-83050-02",
+    "metadata": {
+      "email": "viti-draguignan@douane.finances.gouv.fr",
+      "telephone": "09 70 27 92 41",
+      "url": "https://www.douane.gouv.fr"
+    }
+  },
+  {
+    "id": "c2d6b6b31a2ec56cd6e12df5b177367f97243d79",
+    "alternateName": "viticulture",
+    "name": "bureau_de_douane_viticulture_epernay",
+    "title": "Bureau de douane (viticulture) - Epernay",
+    "url": "https://lannuaire.service-public.fr/grand-est/marne/bureau_de_douane-51230-02",
+    "metadata": {
+      "email": "viti-epernay@douane.finances.gouv.fr",
+      "telephone": "09 70 27 81 01",
+      "url": "https://www.douane.gouv.fr"
+    }
+  },
+  {
+    "id": "3b0ab2c23fff62e647d62624a5958ce17f066aaf",
+    "alternateName": "viticulture",
+    "name": "bureau_de_douane_viticulture_gaillac",
+    "title": "Bureau de douane (viticulture) - Gaillac",
+    "url": "https://lannuaire.service-public.fr/occitanie/tarn/bureau_de_douane-81099-02",
+    "metadata": {
+      "email": "viti-gaillac@douane.finances.gouv.fr",
+      "telephone": "09 70 27 62 36",
+      "url": "https://www.douane.gouv.fr"
+    }
+  },
+  {
+    "id": "8284de76f3752a5c55245bf1d2c9fc441dfe0172",
+    "alternateName": "viticulture",
+    "name": "bureau_de_douane_viticulture_grenoble",
+    "title": "Bureau de douane (viticulture) - Grenoble",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/isere/bureau_de_douane-38382-02",
+    "metadata": {
+      "email": "viti-grenoble@douane.finances.gouv.fr",
+      "telephone": "09 70 27 35 22",
+      "url": "https://www.douane.gouv.fr"
+    }
+  },
+  {
+    "id": "c7b0badbcb985dd39b1c21be639d9d06cf8f277c",
+    "alternateName": "viticulture",
+    "name": "bureau_de_douane_viticulture_jonzac",
+    "title": "Bureau de douane (viticulture) - Jonzac",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/charente-maritime/bureau_de_douane-17197-02",
+    "metadata": {
+      "email": "cvc-jonzac@douane.finances.gouv.fr",
+      "telephone": "09 70 27 51 86",
+      "url": "https://www.douane.gouv.fr"
+    }
+  },
+  {
+    "id": "66c54b5ee7cccb521710f03669ee0d5694df54a3",
+    "alternateName": "viticulture",
+    "name": "bureau_de_douane_viticulture_langon",
+    "title": "Bureau de douane (viticulture) - Langon",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/gironde/bureau_de_douane-33227-02",
+    "metadata": {
+      "email": "viti-langon@douane.finances.gouv.fr",
+      "telephone": "09 70 27 58 00",
+      "url": "https://www.douane.gouv.fr"
+    }
+  },
+  {
+    "id": "348e2e58976140d081b95b602a83808e1ce77d15",
+    "alternateName": "viticulture",
+    "name": "bureau_de_douane_viticulture_la_roche_sur_yon",
+    "title": "Bureau de douane (viticulture) - La Roche-sur-Yon",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/vendee/bureau_de_douane-85191-02",
+    "metadata": {
+      "email": "viti-la-roche-sur-yon@douane.finances.gouv.fr",
+      "telephone": "09 70 27 51 26",
+      "url": "https://www.douane.gouv.fr"
+    }
+  },
+  {
+    "id": "160f887f64d513b4ede16d5b6fd7835b8c672a8b",
+    "alternateName": "viticulture",
+    "name": "bureau_de_douane_viticulture_libourne_saint_emilion",
+    "title": "Bureau de douane (viticulture) - Libourne - Saint-Emilion",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/gironde/bureau_de_douane-33243-02",
+    "metadata": {
+      "email": "viti-libourne@douane.finances.gouv.fr",
+      "telephone": "09 70 27 57 00",
+      "url": "https://www.douane.gouv.fr"
+    }
+  },
+  {
+    "id": "fe86dae948901dd32663348d8acf8ca658c2f8db",
+    "alternateName": "viticulture",
+    "name": "bureau_de_douane_viticulture_macon",
+    "title": "Bureau de douane (viticulture) - Mâcon",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/saone-et-loire/bureau_de_douane-71270-02",
+    "metadata": {
+      "email": "viti-macon@douane.finances.gouv.fr",
+      "telephone": "09 70 27 64 90",
+      "url": "https://www.douane.gouv.fr"
+    }
+  },
+  {
+    "id": "8c43e25d8f8da2cb3d8094489ca7a12a38f53d34",
+    "alternateName": "viticulture",
+    "name": "bureau_de_douane_viticulture_nantes",
+    "title": "Bureau de douane (viticulture) - Nantes",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/loire-atlantique/bureau_de_douane-44109-02",
+    "metadata": {
+      "email": "viti-ci-nantes@douane.finances.gouv.fr",
+      "telephone": "09 70 27 51 25",
+      "url": "https://www.douane.gouv.fr"
+    }
+  },
+  {
+    "id": "8b19e14de4fa63e10a3da39260c8f49066d1c905",
+    "alternateName": "viticulture",
+    "name": "bureau_de_douane_viticulture_narbonne",
+    "title": "Bureau de douane (viticulture) - Narbonne",
+    "url": "https://lannuaire.service-public.fr/occitanie/aude/bureau_de_douane-11262-02",
+    "metadata": {
+      "email": "viti-narbonne@douane.finances.gouv.fr",
+      "telephone": "09.70.27.73.05",
+      "url": "https://www.douane.gouv.fr"
+    }
+  },
+  {
+    "id": "00409f0cc5b9da46c6d4f7cf4432333274b917d3",
+    "alternateName": "viticulture",
+    "name": "bureau_de_douane_viticulture_pauillac",
+    "title": "Bureau de douane (viticulture) - Pauillac",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/gironde/bureau_de_douane-33314-02",
+    "metadata": {
+      "email": "viti-pauillac@douane.finances.gouv.fr",
+      "telephone": "09 70 27 57 90",
+      "url": "https://www.douane.gouv.fr"
+    }
+  },
+  {
+    "id": "051eb718db34eedac8fb24d4f192b47f314fca4b",
+    "alternateName": "viticulture",
+    "name": "bureau_de_douane_viticulture_perpignan",
+    "title": "Bureau de douane (viticulture) - Perpignan",
+    "url": "https://lannuaire.service-public.fr/occitanie/pyrenees-orientales/bureau_de_douane-66136-02",
+    "metadata": {
+      "email": "viti-perpignan@douane.finances.gouv.fr",
+      "telephone": "09 70 27 72 88",
+      "url": "https://www.douane.gouv.fr"
+    }
+  },
+  {
+    "id": "fb570a9ab4c18e3ce7744058d6aa590dc8568cbe",
+    "alternateName": "viticulture",
+    "name": "bureau_de_douane_viticulture_privas",
+    "title": "Bureau de douane (viticulture) - Privas",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/ardeche/bureau_de_douane-07186-02",
+    "metadata": {
+      "email": "vitici-privas@douane.finances.gouv.fr",
+      "telephone": "09 70 27 29 39",
+      "url": "https://www.douane.gouv.fr"
+    }
+  },
+  {
+    "id": "50242e1bd67b8ad8239ddfdef1dc8bf02026ed70",
+    "alternateName": "viticulture",
+    "name": "bureau_de_douane_viticulture_saintes",
+    "title": "Bureau de douane (viticulture) - Saintes",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/charente-maritime/bureau_de_douane-17415-02",
+    "metadata": {
+      "email": "cvc-saintes@douane.finances.gouv.fr",
+      "telephone": "09 70 27 51 84",
+      "url": "https://www.douane.gouv.fr"
+    }
+  },
+  {
+    "id": "c7e7299a4bbed646925b4bb7518b6c5a1d2245f9",
+    "alternateName": "viticulture",
+    "name": "bureau_de_douane_viticulture_saumur",
+    "title": "Bureau de douane (viticulture) - Saumur",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/maine-et-loire/bureau_de_douane-49328-02",
+    "metadata": {
+      "email": "viti-saumur@douane.finances.gouv.fr",
+      "telephone": "09 70 27 51 36",
+      "url": "https://www.douane.gouv.fr"
+    }
+  },
+  {
+    "id": "b1c7b1804eeb606cff7224db695a8321a446e269",
+    "alternateName": "viticulture",
+    "name": "bureau_de_douane_viticulture_tain_l_hermitage",
+    "title": "Bureau de douane (viticulture) - Tain-l'Hermitage",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/drome/bureau_de_douane-26347-02",
+    "metadata": {
+      "email": "vitici-tain@douane.finances.gouv.fr",
+      "telephone": "09 70 27 34 31",
+      "url": "https://www.douane.gouv.fr"
+    }
+  },
+  {
+    "id": "a7202d236bc7bcc19070fceeba7e2b82ef11c29e",
+    "alternateName": "viticulture",
+    "name": "bureau_de_douane_viticulture_tours",
+    "title": "Bureau de douane (viticulture) - Tours",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/indre-et-loire/bureau_de_douane-37261-02",
+    "metadata": {
+      "email": "viti-tours@douane.finances.gouv.fr",
+      "telephone": "09 70 27 65 85",
+      "url": "https://www.douane.gouv.fr"
+    }
+  },
+  {
+    "id": "d7c2241b654c6d7118ba72fc341a3e50646e6472",
+    "alternateName": "viticulture",
+    "name": "bureau_de_douane_viticulture_valence",
+    "title": "Bureau de douane (viticulture) - Valence",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/drome/bureau_de_douane-26362-02",
+    "metadata": {
+      "email": "viti-valence@douane.finances.gouv.fr",
+      "telephone": "09 70 27 29 04",
+      "url": "https://www.douane.gouv.fr"
+    }
+  },
+  {
+    "id": "6ce6110370db92afea5901384376b1d22e73648b",
+    "alternateName": "viticulture",
+    "name": "bureau_de_douane_viticulture_villefranche_sur_saone",
+    "title": "Bureau de douane (viticulture) - Villefranche-sur-Saône",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/rhone/bureau_de_douane-69264-02",
+    "metadata": {
+      "email": "viti-villefranche-sur-saone@douane.finances.gouv.fr",
+      "telephone": "09 70 27 29 56",
+      "url": "https://www.douane.gouv.fr"
+    }
+  },
+  {
+    "id": "7c455e1abe2f175dae8e1236356b9444dc00f756",
+    "name": "bureau_de_douane_agen",
+    "title": "Bureau de douane - Agen",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/lot-et-garonne/bureau_de_douane-47201-01",
+    "metadata": {
+      "email": "r-agen@douane.finances.gouv.fr",
+      "telephone": "09 70 27 57 70",
+      "url": "https://www.douane.gouv.fr"
+    }
+  },
+  {
+    "id": "bcadae120b5ee1c9552aff5d9ec61dc414c038f7",
+    "name": "bureau_de_douane_ajaccio_port",
+    "title": "Bureau de douane - Ajaccio - Port",
+    "url": "https://lannuaire.service-public.fr/corse/corse-du-sud/bureau_de_douane-2A004-01",
+    "metadata": {
+      "email": "r-ajaccio-port@douane.finances.gouv.fr",
+      "telephone": "09 70 27 89 71",
+      "url": "https://www.douane.gouv.fr"
+    }
+  },
+  {
+    "id": "3ed3b9e4f156f68af82f94cf927d8d517ce2b442",
+    "name": "bureau_de_douane_albi",
+    "title": "Bureau de douane - Albi",
+    "url": "https://lannuaire.service-public.fr/occitanie/tarn/bureau_de_douane-81004-01",
+    "metadata": {
+      "email": "r-albi@douane.finances.gouv.fr",
+      "telephone": "09 70 27 61 60",
+      "url": "https://www.douane.gouv.fr"
+    }
+  },
+  {
+    "id": "8abb8ad22888ee405bf003dd0dbf987ee836ffa9",
+    "name": "bureau_de_douane_amiens",
+    "title": "Bureau de douane - Amiens",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/somme/bureau_de_douane-80021-01",
+    "metadata": {
+      "email": "r-amiens@douane.finances.gouv.fr",
+      "telephone": "09 70 27 11 49",
+      "url": "https://www.douane.gouv.fr"
+    }
+  },
+  {
+    "id": "c8bb2ddd541dcb496767abae5feff6a1e7b75465",
+    "name": "bureau_de_douane_angers",
+    "title": "Bureau de douane - Angers",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/maine-et-loire/bureau_de_douane-49007-01",
+    "metadata": {
+      "email": "r-angers@douane.finances.gouv.fr",
+      "telephone": "09 70 27 51 30",
+      "url": "https://www.douane.gouv.fr"
+    }
+  },
+  {
+    "id": "693bd4ef6a930d9cc24bfab920734e0e21fe954e",
+    "name": "bureau_de_douane_angouleme",
+    "title": "Bureau de douane - Angoulême",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/charente/bureau_de_douane-16015-01",
+    "metadata": {
+      "email": "r-angouleme@douane.finances.gouv.fr",
+      "telephone": "09 70 27 51 74",
+      "url": "https://www.douane.gouv.fr"
+    }
+  },
+  {
+    "id": "4d6f0421cf84ccde06573326a2d11060e9621938",
+    "name": "bureau_de_douane_annecy",
+    "title": "Bureau de douane - Annecy",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/haute-savoie/bureau_de_douane-74010-01",
+    "metadata": {
+      "email": "r-annecy@douane.finances.gouv.fr",
+      "telephone": "09 70 27 31 25",
+      "url": "https://www.douane.gouv.fr"
+    }
+  },
+  {
+    "id": "ab59d58171631ec579e5d49eabf79b3ee5a60520",
+    "name": "bureau_de_douane_arcachon_port",
+    "title": "Bureau de douane - Arcachon - Port",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/gironde/bureau_de_douane-33009-01",
+    "metadata": {
+      "email": "r-arcachon@douane.finances.gouv.fr",
+      "telephone": "09 70 27 57 32",
+      "url": "https://www.douane.gouv.fr"
+    }
+  },
+  {
+    "id": "cc10caaf21f9ebf9ba1450fd1e77b0f954b07a7b",
+    "name": "bureau_de_douane_arras",
+    "title": "Bureau de douane - Arras",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/pas-de-calais/bureau_de_douane-62041-01",
+    "metadata": {
+      "email": "r-arras@douane.finances.gouv.fr",
+      "telephone": "09 70 27 08 79",
+      "url": "https://www.douane.gouv.fr"
+    }
+  },
+  {
+    "id": "522941ef0f6084a72799774ce750dd3934963bfe",
+    "name": "bureau_de_douane_auch",
+    "title": "Bureau de douane - Auch",
+    "url": "https://lannuaire.service-public.fr/occitanie/gers/bureau_de_douane-32013-01",
+    "metadata": {
+      "email": "r-auch@douane.finances.gouv.fr",
+      "telephone": "09 70 27 61 11",
+      "url": "https://www.douane.gouv.fr"
+    }
+  },
+  {
+    "id": "f71f6c3dce38455b6d5d62bdfa66bfb9954ef49b",
+    "name": "bureau_de_douane_aulnay_sous_bois",
+    "title": "Bureau de douane - Aulnay-sous-Bois",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/seine-saint-denis/bureau_de_douane-93005-01",
+    "metadata": {
+      "email": "r-blanc-mesnil@douane.finances.gouv.fr",
+      "telephone": "09 70 27 22 30",
+      "url": "https://www.douane.gouv.fr"
+    }
+  },
+  {
+    "id": "b9c8ba2c1ec310025076991ddcfa67b454047644",
+    "name": "bureau_de_douane_auxerre",
+    "title": "Bureau de douane - Auxerre",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/yonne/bureau_de_douane-89263-01",
+    "metadata": {
+      "email": "r-auxerre@douane.finances.gouv.fr",
+      "telephone": "09 70 27 64 99",
+      "url": "https://www.douane.gouv.fr"
+    }
+  },
+  {
+    "id": "b99b1f6b94f0cc24083cae348acb1223b831d059",
+    "name": "bureau_de_douane_avignon",
+    "title": "Bureau de douane - Avignon",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/vaucluse/bureau_de_douane-84007-01",
+    "metadata": {
+      "email": "r-avignon@douane.finances.gouv.fr",
+      "telephone": "09 70 27 91 68",
+      "url": "https://www.douane.gouv.fr"
+    }
+  },
+  {
+    "id": "f07e77aaf39f3c22c3aa161029b7b35d2b9c881c",
+    "name": "bureau_de_douane_bale_mulhouse_aeroport",
+    "title": "Bureau de douane - Bale - Mulhouse Aéroport",
+    "url": "https://lannuaire.service-public.fr/grand-est/haut-rhin/bureau_de_douane-68297-01",
+    "metadata": {
+      "email": "r-bale-mulhouse-aeroport@douane.finances.gouv.fr",
+      "telephone": "09 70 27 79 50",
+      "url": "https://www.douane.gouv.fr"
+    }
+  },
+  {
+    "id": "f02219a26fe4b759ce5965e6178851fa3d5160e0",
+    "name": "bureau_de_douane_bar_le_duc",
+    "title": "Bureau de douane - Bar-Le-Duc",
+    "url": "https://lannuaire.service-public.fr/grand-est/meuse/bureau_de_douane-55029-01",
+    "metadata": {
+      "email": "r-bar-le-duc@douane.finances.gouv.fr",
+      "telephone": "09 70 27 76 10",
+      "url": "https://www.douane.gouv.fr"
+    }
+  },
+  {
+    "id": "87b0902780b652e366ae2be5a10e13b6932b38d6",
+    "name": "bureau_de_douane_bastia_port",
+    "title": "Bureau de douane - Bastia - Port",
+    "url": "https://lannuaire.service-public.fr/corse/haute-corse/bureau_de_douane-2B353-01",
+    "metadata": {
+      "email": "r-bastia-port@douane.finances.gouv.fr",
+      "telephone": "09 70 27 89 31",
+      "url": "https://www.douane.gouv.fr"
+    }
+  },
+  {
+    "id": "9368ff6b1391a81b822ef8afb179dd084bab0a19",
+    "name": "bureau_de_douane_bayonne",
+    "title": "Bureau de douane - Bayonne",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/pyrenees-atlantiques/bureau_de_douane-64102-01",
+    "metadata": {
+      "email": "r-bayonne@douane.finances.gouv.fr",
+      "telephone": "09 70 27 59 10",
+      "url": "https://www.douane.gouv.fr"
+    }
+  },
+  {
+    "id": "3a2ac78694f0cef7d83d06a16864bbf136eeb3e4",
+    "name": "bureau_de_douane_besancon",
+    "title": "Bureau de douane - Besançon",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/doubs/bureau_de_douane-25212-01",
+    "metadata": {
+      "email": "r-besancon@douane.finances.gouv.fr",
+      "telephone": "09 70 27 66 66",
+      "url": "https://www.douane.gouv.fr"
+    }
+  },
+  {
+    "id": "318b826005dd71cfff8d66fbf86387799c0179f1",
+    "name": "bureau_de_douane_blois",
+    "title": "Bureau de douane - Blois",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/loir-et-cher/bureau_de_douane-41018-01",
+    "metadata": {
+      "email": "r-blois@douane.finances.gouv.fr",
+      "telephone": "09 70 27 67 45",
+      "url": "https://www.douane.gouv.fr"
+    }
+  },
+  {
+    "id": "f31ae375359f0a66f08e2305e252f0917de37f9b",
+    "name": "bureau_de_douane_bordeaux_bassens_port",
+    "title": "Bureau de douane - Bordeaux - Bassens - Port",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/gironde/bureau_de_douane-33096-01",
+    "metadata": {
+      "email": "r-bassens@douane.finances.gouv.fr",
+      "telephone": "09 70 27 56 60",
+      "url": "https://www.douane.gouv.fr"
+    }
+  },
+  {
+    "id": "c84b2b23ddea984d8eff0b6744f9a7fd79af68e0",
+    "name": "bureau_de_douane_bordeaux_merignac",
+    "title": "Bureau de douane - Bordeaux - Mérignac",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/gironde/bureau_de_douane-33281-01",
+    "metadata": {
+      "email": "r-merignac@douane.finances.gouv.fr",
+      "telephone": "09 70 27 57 50",
+      "url": "https://www.douane.gouv.fr"
+    }
+  },
+  {
+    "id": "8fc845e94a16fde2b67164c8be8c036879362ca0",
+    "name": "bureau_de_douane_boulogne",
+    "title": "Bureau de douane - Boulogne",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/pas-de-calais/bureau_de_douane-62160-01",
+    "metadata": {
+      "email": "r-boulogne@douane.finances.gouv.fr",
+      "telephone": "09 70 27 08 43",
+      "url": "https://www.douane.gouv.fr"
+    }
+  },
+  {
+    "id": "fc43b514e57c471488545c723ffbba0a16030491",
+    "name": "bureau_de_douane_bourges",
+    "title": "Bureau de douane - Bourges",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/cher/bureau_de_douane-18033-01",
+    "metadata": {
+      "email": "r-bourges@douane.finances.gouv.fr",
+      "telephone": "09 70 27 65 70",
+      "url": "https://www.douane.gouv.fr"
+    }
+  },
+  {
+    "id": "f15eed3faa4a2ea903bc4de4aa79374c0bb5160b",
+    "name": "bureau_de_douane_brest",
+    "title": "Bureau de douane - Brest",
+    "url": "https://lannuaire.service-public.fr/bretagne/finistere/bureau_de_douane-29019-01",
+    "metadata": {
+      "email": "crd-brest@douane.finances.gouv.fr",
+      "telephone": "09 70 27 51 56",
+      "url": "https://www.douane.gouv.fr"
+    }
+  },
+  {
+    "id": "476cfa3d6587d62e45cd254b39d124787582abd7",
+    "name": "bureau_de_douane_brive_la_gaillarde",
+    "title": "Bureau de douane - Brive-la-Gaillarde",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/correze/bureau_de_douane-19031-01",
+    "metadata": {
+      "email": "r-brive@douane.finances.gouv.fr",
+      "telephone": "09 70 27 51 75",
+      "url": "https://www.douane.gouv.fr"
+    }
+  },
+  {
+    "id": "39dc8dd7fc24e6acb4eca12530f8ddb69406cf91",
+    "name": "bureau_de_douane_caen",
+    "title": "Bureau de douane - Caen",
+    "url": "https://lannuaire.service-public.fr/normandie/calvados/bureau_de_douane-14118-01",
+    "metadata": {
+      "email": "r-caen@douane.finances.gouv.fr",
+      "telephone": "09 70 27 44 50",
+      "url": "https://www.douane.gouv.fr"
+    }
+  },
+  {
+    "id": "20ebc67634f09fd652b8591cce397e0d61137b69",
+    "name": "bureau_de_douane_cahors",
+    "title": "Bureau de douane - Cahors",
+    "url": "https://lannuaire.service-public.fr/occitanie/lot/bureau_de_douane-46042-01",
+    "metadata": {
+      "email": "r-cahors@douane.finances.gouv.fr",
+      "telephone": "09 70 27 61 00",
+      "url": "https://www.douane.gouv.fr"
+    }
+  },
+  {
+    "id": "d7f74adb3b014edc457f11553fdcacf3548c420b",
+    "name": "bureau_de_douane_calais",
+    "title": "Bureau de douane - Calais",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/pas-de-calais/bureau_de_douane-62193-01",
+    "metadata": {
+      "email": "r-calais@douane.finances.gouv.fr",
+      "telephone": "09 70 27 08 54",
+      "url": "https://www.douane.gouv.fr"
+    }
+  },
+  {
+    "id": "dc266e3b656c930c506b52641128590b4bfc5c68",
+    "name": "bureau_de_douane_cannes",
+    "title": "Bureau de douane - Cannes",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/alpes-maritimes/bureau_de_douane-06029-01",
+    "metadata": {
+      "email": "r-cannes@douane.finances.gouv.fr",
+      "telephone": "09 70 27 88 48",
+      "url": "https://www.douane.gouv.fr"
+    }
+  },
+  {
+    "id": "aab82c83545c817dbf52abf1d53ce2d5079563eb",
+    "name": "bureau_de_douane_cayenne_aeroport",
+    "title": "Bureau de douane - Cayenne - Aéroport",
+    "url": "https://lannuaire.service-public.fr/guyane/guyane/bureau_de_douane-97307-01",
+    "metadata": {
+      "email": "rochambeau-aeroport@douane.finances.gouv.fr",
+      "telephone": "05 94 29 80 10",
+      "url": "https://www.douane.gouv.fr"
+    }
+  },
+  {
+    "id": "432ab5e57dc00076f2ef67de01972bb5d3290c37",
+    "name": "bureau_de_douane_chalon_sur_saone",
+    "title": "Bureau de douane - Chalon-sur-Saône",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/saone-et-loire/bureau_de_douane-71076-01",
+    "metadata": {
+      "email": "r-chalon-sur-saone@douane.finances.gouv.fr",
+      "telephone": "09 70 27 64 80",
+      "url": "https://www.douane.gouv.fr"
+    }
+  },
+  {
+    "id": "ea916b1dc9ee8122a2385bd9397e43345eaf155f",
+    "name": "bureau_de_douane_chambery",
+    "title": "Bureau de douane - Chambéry",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/savoie/bureau_de_douane-73065-01",
+    "metadata": {
+      "email": "r-chambery@douane.finances.gouv.fr",
+      "telephone": "09 70 27 35 41",
+      "url": "https://www.douane.gouv.fr"
+    }
+  },
+  {
+    "id": "05cbc56a95341ffa7dcc89728a458fa9456b49d5",
+    "name": "bureau_de_douane_chartres",
+    "title": "Bureau de douane - Chartres",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/eure-et-loir/bureau_de_douane-28085-01",
+    "metadata": {
+      "email": "r-chartres@douane.finances.gouv.fr",
+      "telephone": "02 37 20 40 15",
+      "url": "https://www.douane.gouv.fr"
+    }
+  },
+  {
+    "id": "bb3b0ff84ac4b532e29e43e2b49ec032d911c95f",
+    "name": "bureau_de_douane_chateauroux",
+    "title": "Bureau de douane - Chateauroux",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/indre/bureau_de_douane-36063-01",
+    "metadata": {
+      "email": "r-chateauroux@douane.finances.gouv.fr",
+      "telephone": "09 70 27 67 40",
+      "url": "https://www.douane.gouv.fr"
+    }
+  },
+  {
+    "id": "2edd55c112964f287277664bf893ca98df357147",
+    "name": "bureau_de_douane_cherbourg",
+    "title": "Bureau de douane - Cherbourg",
+    "url": "https://lannuaire.service-public.fr/normandie/manche/bureau_de_douane-50129-01",
+    "metadata": {
+      "email": "r-cherbourg@douane.finances.gouv.fr",
+      "telephone": "09 70 27 44 70",
+      "url": "https://www.douane.gouv.fr"
+    }
+  },
+  {
+    "id": "92cc0f05d8407094094e3ca7d1f8329c66cd032d",
+    "name": "bureau_de_douane_clermont_ferrand",
+    "title": "Bureau de douane - Clermont-Ferrand",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/puy-de-dome/bureau_de_douane-63113-01",
+    "metadata": {
+      "email": "r-clermont-ferrand@douane.finances.gouv.fr",
+      "telephone": "09 70 27 33 24",
+      "url": "https://www.douane.gouv.fr"
+    }
+  },
+  {
+    "id": "bf712140807f16faae61a0f16b88418e891684ce",
+    "name": "bureau_de_douane_colmar",
+    "title": "Bureau de douane - Colmar",
+    "url": "https://lannuaire.service-public.fr/grand-est/haut-rhin/bureau_de_douane-68066-01",
+    "metadata": {
+      "email": "viti-colmar@douane.finances.gouv.fr",
+      "telephone": "09 70 27 79 00",
+      "url": "https://www.douane.gouv.fr"
+    }
+  },
+  {
+    "id": "25b2822bc76e0e1cc2d2cdbaa96c6a91b19eff74",
+    "name": "bureau_de_douane_compiegne",
+    "title": "Bureau de douane - Compiègne",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/oise/bureau_de_douane-60159-01",
+    "metadata": {
+      "email": "r-compiegne@douane.finances.gouv.fr",
+      "telephone": "09 70 27 11 63",
+      "url": "https://www.douane.gouv.fr"
+    }
+  },
+  {
+    "id": "c986e6d3fbad013b7f1b17aa35d1f89c5d2a5fa9",
+    "name": "bureau_de_douane_corbeil_evry",
+    "title": "Bureau de douane - Corbeil - Évry",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/essonne/bureau_de_douane-91228-01",
+    "metadata": {
+      "email": "r-corbeil@douane.finances.gouv.fr",
+      "telephone": "09 70 27 25 20",
+      "url": "https://www.douane.gouv.fr"
+    }
+  },
+  {
+    "id": "147e4a4c4cfd9154d5669a591e1ee43172f8e26d",
+    "name": "bureau_de_douane_degrad_des_cannes_port",
+    "title": "Bureau de douane - Degrad-des-Cannes - Port",
+    "url": "https://lannuaire.service-public.fr/guyane/guyane/bureau_de_douane-97309-01",
+    "metadata": {
+      "email": "recette-degrad-des-cannes@douane.finances.gouv.fr",
+      "telephone": "05 94 25 23 40",
+      "url": "https://www.douane.gouv.fr"
+    }
+  },
+  {
+    "id": "3c73a004e0338503714130190b4942df4e2a8bd4",
+    "name": "bureau_de_douane_delle",
+    "title": "Bureau de douane - Delle",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/territoire-de-belfort/bureau_de_douane-90033-01",
+    "metadata": {
+      "email": "r-delle@douane.finances.gouv.fr'",
+      "telephone": "09 70 27 66 70",
+      "url": "https://www.douane.gouv.fr"
+    }
+  },
+  {
+    "id": "9c019540537afd8d49e75cd6caa4d3a7a807f530",
+    "name": "bureau_de_douane_dijon",
+    "title": "Bureau de douane - Dijon",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/cote-d-or/bureau_de_douane-21231-01",
+    "metadata": {
+      "email": "r-dijon@douane.finances.gouv.fr",
+      "telephone": "09 70 27 64 64",
+      "url": "https://www.douane.gouv.fr"
+    }
+  },
+  {
+    "id": "93bc36591d1df12f6486cf7ceeaf08b0a4eb9472",
+    "name": "bureau_de_douane_dunkerque_port",
+    "title": "Bureau de douane - Dunkerque - Port",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/nord/bureau_de_douane-59183-02",
+    "metadata": {
+      "email": "r-dunkerque-port@douane.finances.gouv.fr",
+      "telephone": "09 70 27 07 94",
+      "url": "https://www.douane.gouv.fr"
+    }
+  },
+  {
+    "id": "e1b433798c4a935ac13e93d86509fbeceb9369ed",
+    "name": "bureau_de_douane_ennery",
+    "title": "Bureau de douane - Ennery",
+    "url": "https://lannuaire.service-public.fr/grand-est/moselle/bureau_de_douane-57193-01",
+    "metadata": {
+      "email": "r-ennery@douane.finances.gouv.fr",
+      "telephone": "09 70 27 76 57",
+      "url": "https://www.douane.gouv.fr"
+    }
+  },
+  {
+    "id": "d1cf79a5cc710ec9151d009bcb21edd30af4a1d5",
+    "name": "bureau_de_douane_epinal",
+    "title": "Bureau de douane - Epinal",
+    "url": "https://lannuaire.service-public.fr/grand-est/vosges/bureau_de_douane-88160-01",
+    "metadata": {
+      "email": "r-epinal@douane.finances.gouv.fr",
+      "telephone": "09 70 27 75 99",
+      "url": "https://www.douane.gouv.fr"
+    }
+  },
+  {
+    "id": "2019003d27f449085512aed9df49a6506128459c",
+    "name": "bureau_de_douane_evreux",
+    "title": "Bureau de douane - Evreux",
+    "url": "https://lannuaire.service-public.fr/normandie/eure/bureau_de_douane-27229-01",
+    "metadata": {
+      "email": "r-evreux@douane.finances.gouv.fr",
+      "telephone": "09 70 27 40 70",
+      "url": "https://www.douane.gouv.fr"
+    }
+  },
+  {
+    "id": "01fec2fe7319e73c75780541fdc752ec02dd319f",
+    "name": "bureau_de_douane_faaa_fret_aeroport",
+    "title": "Bureau de douane - Faa'a - Fret aéroport",
+    "url": "https://lannuaire.service-public.fr/collectivites-d-outre-mer/polynesie-francaise/bureau_de_douane-98715-02",
+    "metadata": {
+      "email": "",
+      "telephone": "",
+      "url": "https://www.douane.gouv.fr"
+    }
+  },
+  {
+    "id": "b527f38f7fa08b93b4c38284cbe7c9928f2df50a",
+    "name": "bureau_de_douane_ferney_voltaire",
+    "title": "Bureau de douane - Ferney-Voltaire",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/ain/bureau_de_douane-01160-01",
+    "metadata": {
+      "email": "r-ferney-voltaire@douane.finances.gouv.fr",
+      "telephone": "09 70 27 31 83",
+      "url": "https://www.douane.gouv.fr"
+    }
+  },
+  {
+    "id": "42af32a3bf8d4a4fb096ef1fd04c7f80abd3e8af",
+    "name": "bureau_de_douane_foix",
+    "title": "Bureau de douane - Foix",
+    "url": "https://lannuaire.service-public.fr/occitanie/ariege/bureau_de_douane-09122-01",
+    "metadata": {
+      "email": "r-foix@douane.finances.gouv.fr",
+      "telephone": "09 70 27 62 70",
+      "url": "https://www.douane.gouv.fr"
+    }
+  },
+  {
+    "id": "6640b940587760e4859a55d2609ed0f3ff9deb22",
+    "name": "bureau_de_douane_fort_de_france_messagerie",
+    "title": "Bureau de douane - Fort-de-France - Messagerie",
+    "url": "https://lannuaire.service-public.fr/martinique/martinique/bureau_de_douane-97209-01",
+    "metadata": {
+      "email": "r-fort-de-france-messageries@douane.finances.gouv.fr",
+      "telephone": "+ 0596 39 01 81",
+      "url": "https://www.douane.gouv.fr"
+    }
+  },
+  {
+    "id": "cbbef6c22b60f4ab4958f56f6d3498b01747905a",
+    "name": "bureau_de_douane_fort_de_france_port",
+    "title": "Bureau de douane - Fort-de-France - Port",
+    "url": "https://lannuaire.service-public.fr/martinique/martinique/bureau_de_douane-97209-02",
+    "metadata": {
+      "email": "r-fort-de-france@douane.finances.gouv.fr",
+      "telephone": "+ 0596 60 85 25",
+      "url": "https://www.douane.gouv.fr"
+    }
+  },
+  {
+    "id": "7b0ceeebcc8789b31987e1a27d0face030d54ae8",
+    "name": "bureau_de_douane_fos_port_saint_louis",
+    "title": "Bureau de douane - Fos - Port saint-Louis",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/bureau_de_douane-13078-01",
+    "metadata": {
+      "email": "r-port-st-louis-du-rhone@douane.finances.gouv.fr",
+      "telephone": "09 70 27 84 87",
+      "url": "https://www.douane.gouv.fr"
+    }
+  },
+  {
+    "id": "cbd882a25153d85918ea8ebfe713bea9a7186460",
+    "name": "bureau_de_douane_gap",
+    "title": "Bureau de douane - Gap",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/hautes-alpes/bureau_de_douane-05061-01",
+    "metadata": {
+      "email": "r-gap@douane.finances.gouv.fr",
+      "telephone": "09 70 27 92 04",
+      "url": "https://www.douane.gouv.fr"
+    }
+  },
+  {
+    "id": "70d699be46a5269c03032d38c346b671c4223ebe",
+    "name": "bureau_de_douane_gennevilliers",
+    "title": "Bureau de douane - Gennevilliers",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/hauts-de-seine/bureau_de_douane-92036-01",
+    "metadata": {
+      "email": "r-gennevilliers@douane.finances.gouv.fr",
+      "telephone": "09 70 27 25 00",
+      "url": "https://www.douane.gouv.fr"
+    }
+  },
+  {
+    "id": "83f5aeeec90e81757c79e79927a5812b8c1a9d7b",
+    "name": "bureau_de_douane_grenoble",
+    "title": "Bureau de douane - Grenoble",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/isere/bureau_de_douane-38185-01",
+    "metadata": {
+      "email": "r-grenoble@douane.finances.gouv.fr",
+      "telephone": "09 70 27 35 23",
+      "url": "https://www.douane.gouv.fr"
+    }
+  },
+  {
+    "id": "253c3ed54d8a20d3e04d5246f0cffd254d1dbcdc",
+    "name": "bureau_de_douane_gueret",
+    "title": "Bureau de douane - Guéret",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/creuse/bureau_de_douane-23096-01",
+    "metadata": {
+      "email": "r-gueret@douane.finances.gouv.fr",
+      "telephone": "09 70 27 51 76",
+      "url": "https://www.douane.gouv.fr"
+    }
+  },
+  {
+    "id": "1681e8f337a7e68f865103236bb3bbc6c4f7ba30",
+    "name": "bureau_de_douane_haguenau",
+    "title": "Bureau de douane - Haguenau",
+    "url": "https://lannuaire.service-public.fr/grand-est/bas-rhin/bureau_de_douane-67180-01",
+    "metadata": {
+      "email": "r-haguenau@douane.finances.gouv.fr",
+      "telephone": "09 70 27 81 80",
+      "url": "https://www.douane.gouv.fr"
+    }
+  },
+  {
+    "id": "41576387b038f43f1a29c1275251d848d77fcda1",
+    "name": "bureau_de_douane_l_isle_d_abeau",
+    "title": "Bureau de douane - L'Isle d'Abeau",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/isere/bureau_de_douane-38449-01",
+    "metadata": {
+      "email": "r-isle-d-abeau@douane.finances.gouv.fr",
+      "telephone": "09 70 27 29 86",
+      "url": "https://www.douane.gouv.fr"
+    }
+  },
+  {
+    "id": "6ef1867263dd5dca52a4175136168243e8304f33",
+    "name": "bureau_de_douane_la_pointe_jarry_port",
+    "title": "Bureau de douane -  La Pointe-Jarry - Port",
+    "url": "https://lannuaire.service-public.fr/guadeloupe/guadeloupe/bureau_de_douane-97103-01",
+    "metadata": {
+      "email": "r-la-pointe-jarry@douane.finances.gouv.fr",
+      "telephone": "0590 41.19.20",
+      "url": "https://www.douane.gouv.fr"
+    }
+  },
+  {
+    "id": "f6ea8c45e9514135a2061c4072952696e505378e",
+    "name": "bureau_de_douane_la_rochelle_pallice",
+    "title": "Bureau de douane - La Rochelle Pallice",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/charente-maritime/bureau_de_douane-17300-01",
+    "metadata": {
+      "email": "r-la-pallice@douane.finances.gouv.fr",
+      "telephone": "09 70 27 51 80",
+      "url": "https://www.douane.gouv.fr"
+    }
+  },
+  {
+    "id": "11494fffbf44cf8a5fb172253e8fe4412f8a4566",
+    "name": "bureau_de_douane_la_roche_sur_yon",
+    "title": "Bureau de douane - La Roche-sur-Yon",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/vendee/bureau_de_douane-85191-01",
+    "metadata": {
+      "email": "r-la-roche-sur-yon@douane.finances.gouv.fr",
+      "telephone": "09 70 27 51 20",
+      "url": "https://www.douane.gouv.fr"
+    }
+  },
+  {
+    "id": "cc6aa21be9f028f15dd4ed299e007679022727b9",
+    "name": "bureau_de_douane_le_bourget",
+    "title": "Bureau de douane - Le Bourget",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/seine-saint-denis/bureau_de_douane-93013-01",
+    "metadata": {
+      "email": "fret-nord-p4-roissy@douane.finances.gouv.fr",
+      "telephone": "01 48 62 50 73",
+      "url": "https://www.douane.gouv.fr"
+    }
+  },
+  {
+    "id": "2cfa63219b278f7452f6174252976e4621a06aaa",
+    "name": "bureau_de_douane_le_havre_antifer",
+    "title": "Bureau de douane - Le Havre - Antifer",
+    "url": "https://lannuaire.service-public.fr/normandie/seine-maritime/bureau_de_douane-76351-01",
+    "metadata": {
+      "email": "r-antifer@douane.finances.gouv.fr",
+      "telephone": "09 70 27 43 90",
+      "url": "https://www.douane.gouv.fr"
+    }
+  },
+  {
+    "id": "27e9ab845bdd6830d825616ba30e7ed97cc7386a",
+    "name": "bureau_de_douane_le_havre_port",
+    "title": "Bureau de douane - Le Havre - Port",
+    "url": "https://lannuaire.service-public.fr/normandie/seine-maritime/bureau_de_douane-76351-02",
+    "metadata": {
+      "email": "peb-le-havre@douane.finances.gouv.fr",
+      "telephone": "09 70 27 41 00",
+      "url": "https://www.douane.gouv.fr"
+    }
+  },
+  {
+    "id": "654d4b9d0b1a5a6bee79951526bad00894ea9e0b",
+    "name": "bureau_de_douane_le_lamentin_aeroport",
+    "title": "Bureau de douane - Le Lamentin - Aéroport",
+    "url": "https://lannuaire.service-public.fr/martinique/martinique/bureau_de_douane-97213-02",
+    "metadata": {
+      "email": "r-lamentin@douane.finances.gouv.fr",
+      "telephone": "+ 0596 51 95 31",
+      "url": "https://www.douane.gouv.fr"
+    }
+  },
+  {
+    "id": "0e5f2125b1385dd0eaaa54464572aaef6e98628f",
+    "name": "bureau_de_douane_le_mans",
+    "title": "Bureau de douane - Le Mans",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/sarthe/bureau_de_douane-72181-01",
+    "metadata": {
+      "email": "r-le-mans@douane.finances.gouv.fr",
+      "telephone": "09 70 27 51 31",
+      "url": "https://www.douane.gouv.fr"
+    }
+  },
+  {
+    "id": "09290e140e3022e2f880244a02de1d978a9fd17b",
+    "name": "bureau_de_douane_le_port",
+    "title": "Bureau de douane - Le Port",
+    "url": "https://lannuaire.service-public.fr/la-reunion/reunion/bureau_de_douane-97407-01",
+    "metadata": {
+      "email": "r-le-port@douane.finances.gouv.fr",
+      "telephone": "",
+      "url": "https://www.douane.gouv.fr"
+    }
+  },
+  {
+    "id": "9712e0f9688812b133966783044aee7f27aeddae",
+    "name": "bureau_de_douane_le_raizet",
+    "title": "Bureau de douane - Le Raizet",
+    "url": "https://lannuaire.service-public.fr/guadeloupe/guadeloupe/bureau_de_douane-97101-01",
+    "metadata": {
+      "email": "r-le-raizet@douane.finances.gouv.fr",
+      "telephone": "0590 21 15 21",
+      "url": "https://www.douane.gouv.fr"
+    }
+  },
+  {
+    "id": "ca8f07ab111b28ecb918571e7712162411c25873",
+    "name": "bureau_de_douane_lesquin",
+    "title": "Bureau de douane - Lesquin",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/nord/bureau_de_douane-59343-01",
+    "metadata": {
+      "email": "r-lesquin@douane.finances.gouv.fr",
+      "telephone": "09 70 27 14 88",
+      "url": "https://www.douane.gouv.fr"
+    }
+  },
+  {
+    "id": "5d943b2b8489b735d40bdaf4f4c50541117c5d07",
+    "name": "bureau_de_douane_les_sables_d_olonne",
+    "title": "Bureau de douane - Les Sables d'Olonne",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/vendee/bureau_de_douane-85194-01",
+    "metadata": {
+      "email": "r-les-sables-d-olonne@douane.finances.gouv.fr",
+      "telephone": "09 70 27 96 03",
+      "url": "https://www.douane.gouv.fr"
+    }
+  },
+  {
+    "id": "88717f78bb6317c8d8c66e8a7779b6b8efd13f85",
+    "name": "bureau_de_douane_lille_port_fluvial",
+    "title": "Bureau de douane - Lille - Port fluvial",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/nord/bureau_de_douane-59350-01",
+    "metadata": {
+      "email": "r-lille@douane.finances.gouv.fr",
+      "telephone": "09 70 27 13 89",
+      "url": "https://www.douane.gouv.fr"
+    }
+  },
+  {
+    "id": "c69e2c25c6706c3fadbd2849ba965da70f07b88b",
+    "name": "bureau_de_douane_limoges",
+    "title": "Bureau de douane - Limoges",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/haute-vienne/bureau_de_douane-87085-01",
+    "metadata": {
+      "email": "r-limoges@douane.finances.gouv.fr",
+      "telephone": "09 70 27 51 73",
+      "url": "https://www.douane.gouv.fr"
+    }
+  },
+  {
+    "id": "0d9ac7699621878b5c92954b070b0f5108ff22fc",
+    "name": "bureau_de_douane_longoni_port",
+    "title": "Bureau de douane - Longoni - Port",
+    "url": "https://lannuaire.service-public.fr/mayotte/mayotte/bureau_de_douane-97610-01",
+    "metadata": {
+      "email": "r-longoni@douane.finances.gouv.fr",
+      "telephone": "+269 2 69 60 86 67",
+      "url": "https://www.douane.gouv.fr"
+    }
+  },
+  {
+    "id": "ececdd73b7aca9576d06310c95d54a9fe7d363f3",
+    "name": "bureau_de_douane_lons_le_saunier",
+    "title": "Bureau de douane - Lons-le-Saunier",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/jura/bureau_de_douane-39300-01",
+    "metadata": {
+      "email": "r-lons-le-saunier@douane.finances.gouv.fr",
+      "telephone": "09 70 27 68 93",
+      "url": "https://www.douane.gouv.fr"
+    }
+  },
+  {
+    "id": "7bf8e05a076287f3623e7c2ad1421a37ed2ab3b6",
+    "name": "bureau_de_douane_lorient",
+    "title": "Bureau de douane - Lorient",
+    "url": "https://lannuaire.service-public.fr/bretagne/morbihan/bureau_de_douane-56121-01",
+    "metadata": {
+      "email": "crd-lorient@douane.finances.gouv.fr",
+      "telephone": "09 70 27 51 57",
+      "url": "https://www.douane.gouv.fr"
+    }
+  },
+  {
+    "id": "5c2c34496d82a47640f01eeeb8d6eca629c219b4",
+    "name": "bureau_de_douane_lyon",
+    "title": "Bureau de douane - Lyon",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/rhone/bureau_de_douane-69383-01",
+    "metadata": {
+      "email": "r-lyon-ville@douane.finances.gouv.fr",
+      "telephone": "09 70 27 36 28",
+      "url": "https://www.douane.gouv.fr"
+    }
+  },
+  {
+    "id": "31929d9dede95f0009003215e4bdb289db6d41c5",
+    "name": "bureau_de_douane_lyon_saint_exupery_aeroport",
+    "title": "Bureau de douane - Lyon-Saint-Exupéry - Aéroport",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/rhone/bureau_de_douane-69299-01",
+    "metadata": {
+      "email": "r-lyon-st-exupery@douane.finances.gouv.fr",
+      "telephone": "09 70 27 28 45",
+      "url": "https://www.douane.gouv.fr"
+    }
+  },
+  {
+    "id": "41af116ef9f82e85874ae82b060c497b703ce3ed",
+    "name": "bureau_de_douane_macon",
+    "title": "Bureau de douane - Mâcon",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/saone-et-loire/bureau_de_douane-71270-01",
+    "metadata": {
+      "email": "r-macon@douane.finances.gouv.fr",
+      "telephone": "09 70 27 64 90",
+      "url": "https://www.douane.gouv.fr"
+    }
+  },
+  {
+    "id": "1f4afba541cf4c813000ddbd5282d5d4b6bad2de",
+    "name": "bureau_de_douane_marignane_aeroport",
+    "title": "Bureau de douane - Marignane - Aéroport",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/bureau_de_douane-13054-01",
+    "metadata": {
+      "email": "r-marignane@douane.finances.gouv.fr",
+      "telephone": "09 70 27 86 13",
+      "url": "https://www.douane.gouv.fr"
+    }
+  },
+  {
+    "id": "4be8c8f9598922550b70947b38b1cccf6e3d61e3",
+    "name": "bureau_de_douane_marne_la_vallee",
+    "title": "Bureau de douane - Marne-La-Vallée",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/seine-et-marne/bureau_de_douane-77146-01",
+    "metadata": {
+      "email": "r-marne-la-vallee@douane.finances.gouv.fr",
+      "telephone": "09 70 27 23 30",
+      "url": "https://www.douane.gouv.fr"
+    }
+  },
+  {
+    "id": "9097cc06fdad9d987ef8de4d6ea5e9aec446643b",
+    "name": "bureau_de_douane_marseille_port",
+    "title": "Bureau de douane - Marseille - Port",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/bureau_de_douane-13215-01",
+    "metadata": {
+      "email": "r-marseille-port@douane.finances.gouv.fr",
+      "telephone": "09 70 27 85 56",
+      "url": "https://www.douane.gouv.fr"
+    }
+  },
+  {
+    "id": "1b5a529f2dc314b3230a63801033997d0b9cc2d3",
+    "name": "bureau_de_douane_marseille_transports",
+    "title": "Bureau de douane - Marseille - Transports",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/bureau_de_douane-13202-01",
+    "metadata": {
+      "email": "r-marseille-transport@douane.finances.gouv.fr",
+      "telephone": "09 70 27 84 62",
+      "url": "https://www.douane.gouv.fr"
+    }
+  },
+  {
+    "id": "4d4a84538124f40deeeecbc6b3b10814cdc5f196",
+    "name": "bureau_de_douane_montauban",
+    "title": "Bureau de douane - Montauban",
+    "url": "https://lannuaire.service-public.fr/occitanie/tarn-et-garonne/bureau_de_douane-82121-01",
+    "metadata": {
+      "email": "r-montauban@douane.finances.gouv.fr",
+      "telephone": "09 70 27 62 80",
+      "url": "https://www.douane.gouv.fr"
+    }
+  },
+  {
+    "id": "02feca119c01e86745ec084977dfdef35383dc64",
+    "name": "bureau_de_douane_mont_de_marsan",
+    "title": "Bureau de douane - Mont-De-Marsan",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/landes/bureau_de_douane-40192-01",
+    "metadata": {
+      "email": "r-mont-de-marsan@douane.finances.gouv.fr",
+      "telephone": "09 70 27 59 30",
+      "url": "https://www.douane.gouv.fr"
+    }
+  },
+  {
+    "id": "6eaf72c63084ceee5b9888bf9d63aaec02eb2619",
+    "name": "bureau_de_douane_montpellier",
+    "title": "Bureau de douane - Montpellier",
+    "url": "https://lannuaire.service-public.fr/occitanie/herault/bureau_de_douane-34172-01",
+    "metadata": {
+      "email": "r-montpellier@douane.finances.gouv.fr",
+      "telephone": "09 70 27 70 49",
+      "url": "https://www.douane.gouv.fr"
+    }
+  },
+  {
+    "id": "5c2f5c4661419974d548f3a65522794c1cdc2cdd",
+    "name": "bureau_de_douane_morteau",
+    "title": "Bureau de douane - Morteau",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/doubs/bureau_de_douane-25411-01",
+    "metadata": {
+      "email": "r-morteau@douane.finances.gouv.fr",
+      "telephone": "09 70 27 66 90",
+      "url": "https://www.douane.gouv.fr"
+    }
+  },
+  {
+    "id": "9909b6bd56289fca6281bb71d78f34f7df79ca6d",
+    "name": "bureau_de_douane_moulins",
+    "title": "Bureau de douane - Moulins",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/allier/bureau_de_douane-03190-01",
+    "metadata": {
+      "email": "r-moulins@douane.finances.gouv.fr",
+      "telephone": "09 70 27 33 48",
+      "url": "https://www.douane.gouv.fr"
+    }
+  },
+  {
+    "id": "89d45ae04dcd8ac19200ec5c5ccb140b5ad67ec0",
+    "name": "bureau_de_douane_mulhouse",
+    "title": "Bureau de douane - Mulhouse",
+    "url": "https://lannuaire.service-public.fr/grand-est/haut-rhin/bureau_de_douane-68224-01",
+    "metadata": {
+      "email": "r-mulhouse@douane.finances.gouv.fr",
+      "telephone": "09 70 27 78 60",
+      "url": "https://www.douane.gouv.fr"
+    }
+  },
+  {
+    "id": "66d90216b802d8ae870b2bd7724ac70619475744",
+    "name": "bureau_de_douane_nancy",
+    "title": "Bureau de douane - Nancy",
+    "url": "https://lannuaire.service-public.fr/grand-est/meurthe-et-moselle/bureau_de_douane-54395-01",
+    "metadata": {
+      "email": "r-nancy@douane.finances.gouv.fr",
+      "telephone": "09 70 27 75 80",
+      "url": "https://www.douane.gouv.fr"
+    }
+  },
+  {
+    "id": "ffd3d70ba75df97b8579ddcbc89ce8b083459e9e",
+    "name": "bureau_de_douane_nantes_atlantique",
+    "title": "Bureau de douane - Nantes-Atlantique",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/loire-atlantique/bureau_de_douane-44150-01",
+    "metadata": {
+      "email": "r-nantes-atlantique@douane.finances.gouv.fr",
+      "telephone": "09 70 27 51 17",
+      "url": "https://www.douane.gouv.fr"
+    }
+  },
+  {
+    "id": "14606e0d440217b39869aa9b625c23a7894b871e",
+    "name": "bureau_de_douane_nevers",
+    "title": "Bureau de douane - Nevers",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/nievre/bureau_de_douane-58194-01",
+    "metadata": {
+      "email": "r-nevers@douane.finances.gouv.fr",
+      "telephone": "09 70 27 67 10",
+      "url": "https://www.douane.gouv.fr"
+    }
+  },
+  {
+    "id": "3342ce3df8a01493ecf4a038b11912a9dc5d7185",
+    "name": "bureau_de_douane_nice_aeroport",
+    "title": "Bureau de douane - Nice - Aéroport",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/alpes-maritimes/bureau_de_douane-06088-01",
+    "metadata": {
+      "email": "r-nice-aeroport@douane.finances.gouv.fr",
+      "telephone": "09 70 27 87 99",
+      "url": "https://www.douane.gouv.fr"
+    }
+  },
+  {
+    "id": "ac33c33e998383881d8581f70abf101bb9b50109",
+    "name": "bureau_de_douane_nice_port",
+    "title": "Bureau de douane - Nice - Port",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/alpes-maritimes/bureau_de_douane-06088-02",
+    "metadata": {
+      "email": "r-nice-port@douane.finances.gouv.fr",
+      "telephone": "09 70 27 87 67",
+      "url": "https://www.douane.gouv.fr"
+    }
+  },
+  {
+    "id": "2cd6fb966b79d2b4a4735b5b8e24c966ba3795bd",
+    "name": "bureau_de_douane_nimes",
+    "title": "Bureau de douane - Nîmes",
+    "url": "https://lannuaire.service-public.fr/occitanie/gard/bureau_de_douane-30189-01",
+    "metadata": {
+      "email": "r-nimes@douane.finances.gouv.fr",
+      "telephone": "09 70 27 70 99",
+      "url": "https://www.douane.gouv.fr"
+    }
+  },
+  {
+    "id": "56f282f5dd12b887fd18ad166ded1a51a351a852",
+    "name": "bureau_de_douane_niort",
+    "title": "Bureau de douane - Niort",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/deux-sevres/bureau_de_douane-79191-01",
+    "metadata": {
+      "email": "r-niort@douane.finances.gouv.fr",
+      "telephone": "09 70 27 51 81",
+      "url": "https://www.douane.gouv.fr"
+    }
+  },
+  {
+    "id": "2899c41e712a71242e57fc1a90dcd2fd1caae707",
+    "name": "bureau_de_douane_noumea_port",
+    "title": "Bureau de douane - Nouméa - Port",
+    "url": "https://lannuaire.service-public.fr/collectivites-d-outre-mer/nouvelle-caledonie/bureau_de_douane-98818-01",
+    "metadata": {
+      "email": "port-noumea@douane.finances.gouv.fr",
+      "telephone": "+687 26 53 80",
+      "url": "https://www.douane.gouv.fr"
+    }
+  },
+  {
+    "id": "e6a021c17f04c9bafd95d318c17ea069ef18c75e",
+    "name": "bureau_de_douane_orleans",
+    "title": "Bureau de douane - Orléans",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/loiret/bureau_de_douane-45302-01",
+    "metadata": {
+      "email": "r-orleans@douane.finances.gouv.fr",
+      "telephone": "09 70 27 65 65",
+      "url": "https://www.douane.gouv.fr"
+    }
+  },
+  {
+    "id": "380b0bdac4b0fcf7584ebcd05f884150ac30c700",
+    "name": "bureau_de_douane_orly_aeroport",
+    "title": "Bureau de douane - Orly - Aéroport",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/val-de-marne/bureau_de_douane-94054-01",
+    "metadata": {
+      "email": "bureau-orly@douane.finances.gouv.fr",
+      "telephone": "01 49 75 09 41",
+      "url": "https://www.douane.gouv.fr"
+    }
+  },
+  {
+    "id": "ab255c162e4221070283703ff4a52f9402871cb0",
+    "name": "bureau_de_douane_pamandzi",
+    "title": "Bureau de douane - Pamandzi",
+    "url": "https://lannuaire.service-public.fr/mayotte/mayotte/bureau_de_douane-97615-01",
+    "metadata": {
+      "email": "r-longoni@douane.finances.gouv.fr",
+      "telephone": "+269 2 69 60 86 67",
+      "url": "https://www.douane.gouv.fr"
+    }
+  },
+  {
+    "id": "820545050a9315117dea562a73e817b47f21e5a0",
+    "name": "bureau_de_douane_papeete_port",
+    "title": "Bureau de douane - Papeete - Port",
+    "url": "https://lannuaire.service-public.fr/collectivites-d-outre-mer/polynesie-francaise/bureau_de_douane-98735-01",
+    "metadata": {
+      "email": "",
+      "telephone": "",
+      "url": "https://www.douane.gouv.fr"
+    }
+  },
+  {
+    "id": "ea197f2277fb501838a01e19e12e63ef90f05c98",
+    "name": "bureau_de_douane_paris_principal",
+    "title": "Bureau de douane - Paris - Principal",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/paris/bureau_de_douane-75119-01",
+    "metadata": {
+      "email": "paris-principal@douane.finances.gouv.fr",
+      "telephone": "09 70 27 20 00",
+      "url": "https://www.douane.gouv.fr"
+    }
+  },
+  {
+    "id": "f138facd7cda542d5dd3a24763514569442bc9c4",
+    "name": "bureau_de_douane_pau",
+    "title": "Bureau de douane - Pau",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/pyrenees-atlantiques/bureau_de_douane-64445-01",
+    "metadata": {
+      "email": "r-pau@douane.finances.gouv.fr",
+      "telephone": "09 70 27 59 80",
+      "url": "https://www.douane.gouv.fr"
+    }
+  },
+  {
+    "id": "d6f9f8dbc4d8efec9b1245e8e968c387b000b9af",
+    "name": "bureau_de_douane_perpignan",
+    "title": "Bureau de douane - Perpignan",
+    "url": "https://lannuaire.service-public.fr/occitanie/pyrenees-orientales/bureau_de_douane-66136-01",
+    "metadata": {
+      "email": "r-perpignan@douane.finances.gouv.fr",
+      "telephone": "09 70 27 72 18",
+      "url": "https://www.douane.gouv.fr"
+    }
+  },
+  {
+    "id": "9072f4f20bac1c8c6e54375f55f34434db2de662",
+    "name": "bureau_de_douane_pointe_a_pitre_port",
+    "title": "Bureau de douane -  Pointe-à-Pitre - Port",
+    "url": "https://lannuaire.service-public.fr/guadeloupe/guadeloupe/bureau_de_douane-97120-01",
+    "metadata": {
+      "email": "r-pointeapitre@douane.finances.gouv.fr",
+      "telephone": "0590 89 76 00",
+      "url": "https://www.douane.gouv.fr"
+    }
+  },
+  {
+    "id": "ab88beba295f1fb4991669e185779bda9cb6a019",
+    "name": "bureau_de_douane_poitiers",
+    "title": "Bureau de douane - Poitiers",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/vienne/bureau_de_douane-86194-01",
+    "metadata": {
+      "email": "r-poitiers@douane.finances.gouv.fr",
+      "telephone": "09 70 27 51 62",
+      "url": "https://www.douane.gouv.fr"
+    }
+  },
+  {
+    "id": "1612d93a4a64afba1e18c30837937c3d1a9e6ed2",
+    "name": "bureau_de_douane_pontarlier",
+    "title": "Bureau de douane - Pontarlier",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/doubs/bureau_de_douane-25462-01",
+    "metadata": {
+      "email": "r-pontarlier@douane.finances.gouv.fr",
+      "telephone": "09 70 27 66 88",
+      "url": "https://www.douane.gouv.fr"
+    }
+  },
+  {
+    "id": "9c4c47d890a5af50a9994752061e327b2a2a0e84",
+    "name": "bureau_de_douane_porta",
+    "title": "Bureau de douane - Porta",
+    "url": "https://lannuaire.service-public.fr/occitanie/pyrenees-orientales/bureau_de_douane-66146-01",
+    "metadata": {
+      "email": "r-porta@douane.finances.gouv.fr",
+      "telephone": "09 70 27 73 65",
+      "url": "https://www.douane.gouv.fr"
+    }
+  },
+  {
+    "id": "982e47a47ef70ca95bc37d3124b49604c83cdf74",
+    "name": "bureau_de_douane_port_vendres",
+    "title": "Bureau de douane - Port-Vendres",
+    "url": "https://lannuaire.service-public.fr/occitanie/pyrenees-orientales/bureau_de_douane-66148-01",
+    "metadata": {
+      "email": "r-port-vendres@douane.finances.gouv.fr",
+      "telephone": "09 70 27 72 68",
+      "url": "https://www.douane.gouv.fr"
+    }
+  },
+  {
+    "id": "dd46a3fa009c7926606d2d8173fcf57ba0fac066",
+    "name": "bureau_de_douane_reims",
+    "title": "Bureau de douane - Reims",
+    "url": "https://lannuaire.service-public.fr/grand-est/marne/bureau_de_douane-51454-01",
+    "metadata": {
+      "email": "r-reims@douane.finances.gouv.fr",
+      "telephone": "09 70 27 80 50",
+      "url": "https://www.douane.gouv.fr"
+    }
+  },
+  {
+    "id": "8486e75a7d84dfba7d36775dee379308bcc49f0f",
+    "name": "bureau_de_douane_rennes",
+    "title": "Bureau de douane - Rennes",
+    "url": "https://lannuaire.service-public.fr/bretagne/ille-et-vilaine/bureau_de_douane-35238-01",
+    "metadata": {
+      "email": "crd-rennes@douane.finances.gouv.fr",
+      "telephone": "09 70 27 51 39",
+      "url": "https://www.douane.gouv.fr"
+    }
+  },
+  {
+    "id": "24497c6676fd7aaaea11c304c3061774a37c76cc",
+    "name": "bureau_de_douane_rodez",
+    "title": "Bureau de douane - Rodez",
+    "url": "https://lannuaire.service-public.fr/occitanie/aveyron/bureau_de_douane-12176-01",
+    "metadata": {
+      "email": "r-rodez@douane.finances.gouv.fr",
+      "telephone": "09 70 27 61 85",
+      "url": "https://www.douane.gouv.fr"
+    }
+  },
+  {
+    "id": "598bb3a1474464254de061cc3251aa1e5d655253",
+    "name": "bureau_de_douane_roissy_cdp_aeroport",
+    "title": "Bureau de douane - Roissy - CDP - Aéroport",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/val-d-oise/bureau_de_douane-95527-04",
+    "metadata": {
+      "email": "fret-sud-p8-hub-roissy@douane.finances.gouv.fr",
+      "telephone": "01 74 37 81 06",
+      "url": "https://www.douane.gouv.fr"
+    }
+  },
+  {
+    "id": "67682c911bde6897188352bb14be5bc45b75fc25",
+    "name": "bureau_de_douane_rouen_fiscalites",
+    "title": "Bureau de douane - Rouen - Fiscalités",
+    "url": "https://lannuaire.service-public.fr/normandie/seine-maritime/bureau_de_douane-76540-01",
+    "metadata": {
+      "email": "rouen-fiscalites@douane.finances.gouv.fr",
+      "telephone": "09 70 27 38 00",
+      "url": "https://www.douane.gouv.fr"
+    }
+  },
+  {
+    "id": "2a9bf7689a2aec71f7244e97be22af93169b7996",
+    "name": "bureau_de_douane_rouen_port",
+    "title": "Bureau de douane - Rouen - Port",
+    "url": "https://lannuaire.service-public.fr/normandie/seine-maritime/bureau_de_douane-76540-02",
+    "metadata": {
+      "email": "r-rouen-port-crd@douane.finances.gouv.fr",
+      "telephone": "09 70 27 40 50",
+      "url": "https://www.douane.gouv.fr"
+    }
+  },
+  {
+    "id": "9a08759413d1f9454b0369def1e503aa7f16c89e",
+    "name": "bureau_de_douane_rungis",
+    "title": "Bureau de douane - Rungis",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/val-de-marne/bureau_de_douane-94065-01",
+    "metadata": {
+      "email": "r-rungis@douane.finances.gouv.fr",
+      "telephone": "09 70 27 22 53",
+      "url": "https://www.douane.gouv.fr"
+    }
+  },
+  {
+    "id": "45ba8e5d0c8203736d071849d973ceb107088084",
+    "name": "bureau_de_douane_saint_avold",
+    "title": "Bureau de douane - Saint-Avold",
+    "url": "https://lannuaire.service-public.fr/grand-est/moselle/bureau_de_douane-57606-01",
+    "metadata": {
+      "email": "r-saint-avold@douane.finances.gouv.fr",
+      "telephone": "09 70 27 74 95",
+      "url": "https://www.douane.gouv.fr"
+    }
+  },
+  {
+    "id": "61d04bb5ca2be5524d7fc9ccfec6d633c465855e",
+    "name": "bureau_de_douane_saint_brieuc",
+    "title": "Bureau de douane - Saint-Brieuc",
+    "url": "https://lannuaire.service-public.fr/bretagne/cotes-d-armor/bureau_de_douane-22187-01",
+    "metadata": {
+      "email": "crd-saint-brieuc@douane.finances.gouv.fr",
+      "telephone": "09 70 27 51 51",
+      "url": "https://www.douane.gouv.fr"
+    }
+  },
+  {
+    "id": "969813a5cea27eab3546e055352784c39e7b3724",
+    "name": "bureau_de_douane_saint_etienne",
+    "title": "Bureau de douane - Saint-Etienne",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/loire/bureau_de_douane-42218-01",
+    "metadata": {
+      "email": "r-saint-etienne@douane.finances.gouv.fr",
+      "telephone": "09 70 27 28 75",
+      "url": "https://www.douane.gouv.fr"
+    }
+  },
+  {
+    "id": "3e90469ed0acc74f5694c1ffb5e343807e951616",
+    "name": "bureau_de_douane_saint_georges_de_l_oyapock",
+    "title": "Bureau de douane - Saint-Georges de l'Oyapock",
+    "url": "https://lannuaire.service-public.fr/guyane/guyane/bureau_de_douane-97308-01",
+    "metadata": {
+      "email": "dr-guyane@douane.finances.gouv.fr",
+      "telephone": "05 94 37 07 34",
+      "url": "https://www.douane.gouv.fr"
+    }
+  },
+  {
+    "id": "d57109d9108cb9726e8b7f8ed2b8215771bc008e",
+    "name": "bureau_de_douane_saint_julien_bardonnex",
+    "title": "Bureau de douane - Saint-Julien Bardonnex",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/haute-savoie/bureau_de_douane-74243-01",
+    "metadata": {
+      "email": "r-saint-julien-bardonnex@douane.finances.gouv.fr",
+      "telephone": "09 70 27 32 19",
+      "url": "https://www.douane.gouv.fr"
+    }
+  },
+  {
+    "id": "2db07b5215a43b87082c72b468e66f4432a2cdc3",
+    "name": "bureau_de_douane_saint_laurent_du_maroni",
+    "title": "Bureau de douane - Saint-Laurent du Maroni",
+    "url": "https://lannuaire.service-public.fr/guyane/guyane/bureau_de_douane-97311-01",
+    "metadata": {
+      "email": "dr-guyane@douane.finances.gouv.fr",
+      "telephone": "05 94 34 10 26",
+      "url": "https://www.douane.gouv.fr"
+    }
+  },
+  {
+    "id": "cfa67a4c2214e35b8f3c30a5cee33006a339ef95",
+    "name": "bureau_de_douane_saint_louis_autoroute",
+    "title": "Bureau de douane - Saint-Louis - Autoroute",
+    "url": "https://lannuaire.service-public.fr/grand-est/haut-rhin/bureau_de_douane-68297-02",
+    "metadata": {
+      "email": "r-saint-louis@douane.finances.gouv.fr",
+      "telephone": "09 70 27 79 20",
+      "url": "https://www.douane.gouv.fr"
+    }
+  },
+  {
+    "id": "1785190270376ad1a37621150ee5e6fb8bdb45da",
+    "name": "bureau_de_douane_saint_malo",
+    "title": "Bureau de douane - Saint-Malo",
+    "url": "https://lannuaire.service-public.fr/bretagne/ille-et-vilaine/bureau_de_douane-35288-01",
+    "metadata": {
+      "email": "crd-saint-malo@douane.finances.gouv.fr",
+      "telephone": "09 70 27 51 50",
+      "url": "https://www.douane.gouv.fr"
+    }
+  },
+  {
+    "id": "23818525ca2f3c89046653f158be748e1e3291e7",
+    "name": "bureau_de_douane_saint_nazaire_montoir",
+    "title": "Bureau de douane - Saint-Nazaire - Montoir",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/loire-atlantique/bureau_de_douane-44103-01",
+    "metadata": {
+      "email": "r-saint-nazaire-montoir@douane.finances.gouv.fr",
+      "telephone": "09 70 27 51 18",
+      "url": "https://www.douane.gouv.fr"
+    }
+  },
+  {
+    "id": "ce38f81f02865c7854d3dfe0c69841823dc5924a",
+    "name": "bureau_de_douane_saint_pierre",
+    "title": "Bureau de douane - Saint-Pierre",
+    "url": "https://lannuaire.service-public.fr/la-reunion/reunion/bureau_de_douane-97416-01",
+    "metadata": {
+      "email": "r-saint-pierre@douane.finances.gouv.fr",
+      "telephone": "02 62 25 01 68",
+      "url": "https://www.douane.gouv.fr"
+    }
+  },
+  {
+    "id": "d8df0f146a08cdeaac46c89deacfc609362724b7",
+    "name": "bureau_de_douane_saint_quentin",
+    "title": "Bureau de douane - Saint-Quentin",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/aisne/bureau_de_douane-02691-01",
+    "metadata": {
+      "email": "r-saint-quentin@douane.finances.gouv.fr",
+      "telephone": "09 70 27 11 20",
+      "url": "https://www.douane.gouv.fr"
+    }
+  },
+  {
+    "id": "3a7c10c1f351fa3071791f3eaf07129a5997970a",
+    "name": "bureau_de_douane_sete",
+    "title": "Bureau de douane - Sète",
+    "url": "https://lannuaire.service-public.fr/occitanie/herault/bureau_de_douane-34301-01",
+    "metadata": {
+      "email": "r-sete@douane.finances.gouv.fr",
+      "telephone": "09 70 27 70 13",
+      "url": "https://www.douane.gouv.fr"
+    }
+  },
+  {
+    "id": "fd0b0d6b16bf7f06a28a2f9c4830ca65ea075355",
+    "name": "bureau_de_douane_strasbourg_entzheim_aeroport",
+    "title": "Bureau de douane - Strasbourg-Entzheim - Aéroport",
+    "url": "https://lannuaire.service-public.fr/grand-est/bas-rhin/bureau_de_douane-67124-01",
+    "metadata": {
+      "email": "r-strasbourg@douane.finances.gouv.fr",
+      "telephone": "09 70 27 77 60",
+      "url": "https://www.douane.gouv.fr"
+    }
+  },
+  {
+    "id": "0e7b6088a76203753952210b090042acfe63ab3c",
+    "name": "bureau_de_douane_tontouta_aeroport",
+    "title": "Bureau de douane - Tontouta - Aéroport",
+    "url": "https://lannuaire.service-public.fr/collectivites-d-outre-mer/nouvelle-caledonie/bureau_de_douane-98818-02",
+    "metadata": {
+      "email": "aero-tontouta@douane.finances.gouv.fr",
+      "telephone": "+687 35 11 64",
+      "url": "https://www.douane.gouv.fr"
+    }
+  },
+  {
+    "id": "4fd7a5830353591f0154946294f06199d4dd8177",
+    "name": "bureau_de_douane_toulon_la_seyne",
+    "title": "Bureau de douane - Toulon La Seyne",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/var/bureau_de_douane-83137-01",
+    "metadata": {
+      "email": "r-toulon-la-seyne@douane.finances.gouv.fr",
+      "telephone": "09 70 27 92 11",
+      "url": "https://www.douane.gouv.fr"
+    }
+  },
+  {
+    "id": "8500e99876613d68fefdadc2688d92ebc0b1f362",
+    "name": "bureau_de_douane_toulouse_blagnac_aeroport",
+    "title": "Bureau de douane - Toulouse-Blagnac - Aéroport",
+    "url": "https://lannuaire.service-public.fr/occitanie/haute-garonne/bureau_de_douane-31069-01",
+    "metadata": {
+      "email": "r-blagnac@douane.finances.gouv.fr",
+      "telephone": "09 70 27 62 00",
+      "url": "https://www.douane.gouv.fr"
+    }
+  },
+  {
+    "id": "2612f9c8931eb8bf5fc2331019edce87931764cd",
+    "name": "bureau_de_douane_toulouse_portet_sur_garonne",
+    "title": "Bureau de douane - Toulouse - Portet-sur-Garonne",
+    "url": "https://lannuaire.service-public.fr/occitanie/haute-garonne/bureau_de_douane-31433-01",
+    "metadata": {
+      "email": "r-portet@douane.finances.gouv.fr",
+      "telephone": "09 70 27 61 40",
+      "url": "https://www.douane.gouv.fr"
+    }
+  },
+  {
+    "id": "08b69a5ffc717ab397dad23561cf33dd4884bbae",
+    "name": "bureau_de_douane_tours",
+    "title": "Bureau de douane - Tours",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/indre-et-loire/bureau_de_douane-37261-01",
+    "metadata": {
+      "email": "r-tours@douane.finances.gouv.fr",
+      "telephone": "09 70 27 65 90",
+      "url": "https://www.douane.gouv.fr"
+    }
+  },
+  {
+    "id": "d1c6dadafe9a183c2150899628baf5f44671467f",
+    "name": "bureau_de_douane_troyes",
+    "title": "Bureau de douane - Troyes",
+    "url": "https://lannuaire.service-public.fr/grand-est/aube/bureau_de_douane-10081-01",
+    "metadata": {
+      "email": "r-troyes@douane.finances.gouv.fr",
+      "telephone": "09 70 27 80 80",
+      "url": "https://www.douane.gouv.fr"
+    }
+  },
+  {
+    "id": "310f5fdd875e3086a3ddaf7b054276a8055227c8",
+    "name": "bureau_de_douane_valence",
+    "title": "Bureau de douane - Valence",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/drome/bureau_de_douane-26252-01",
+    "metadata": {
+      "email": "r-valence@douane.finances.gouv.fr",
+      "telephone": "09 70 27 29 24",
+      "url": "https://www.douane.gouv.fr"
+    }
+  },
+  {
+    "id": "324f632a14b5dd0a5eeb7a901faa0b2a76f6080c",
+    "name": "bureau_de_douane_valenciennes",
+    "title": "Bureau de douane - Valenciennes",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/nord/bureau_de_douane-59606-01",
+    "metadata": {
+      "email": "r-valenciennes@douane.finances.gouv.fr",
+      "telephone": "09 70 27 09 90",
+      "url": "https://www.douane.gouv.fr"
+    }
+  },
+  {
+    "id": "87f87576a2f7eea4c89cdf26a6eda90f4daa3206",
+    "name": "bureau_de_douane_vallard_thonex",
+    "title": "Bureau de douane - Vallard-Thonex",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/haute-savoie/bureau_de_douane-74012-01",
+    "metadata": {
+      "email": "r-vallard@douane.finances.gouv.fr",
+      "telephone": "09 70 27 31 44",
+      "url": "https://www.douane.gouv.fr"
+    }
+  },
+  {
+    "id": "2a8561904a342c9fc75b37a01ea0223c21373f7d",
+    "name": "bureau_de_douane_vesoul",
+    "title": "Bureau de douane - Vesoul",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/haute-saone/bureau_de_douane-70550-01",
+    "metadata": {
+      "email": "r-vesoul@douane.finances.gouv.fr",
+      "telephone": "09 70 27 66 77",
+      "url": "https://www.douane.gouv.fr"
+    }
+  }
+]

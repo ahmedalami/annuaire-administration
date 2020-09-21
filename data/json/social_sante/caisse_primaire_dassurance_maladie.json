@@ -1,0 +1,2162 @@
+[
+  {
+    "id": "d17b52a5e971fd00b7cbef3a6145dcc689eb4503",
+    "alternateName": "CCSS",
+    "name": "caisse_commune_de_securite_sociale_ccss_de_lozere_accueil_de_mende",
+    "title": "Caisse commune de sécurité sociale (CCSS) de Lozère - accueil de Mende",
+    "url": "https://lannuaire.service-public.fr/occitanie/lozere/cpam-48095-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3646",
+      "url": "https://www.ameli.fr"
+    }
+  },
+  {
+    "id": "02d463d9858fa0663f8d3d6d91ebec3dcf501043",
+    "alternateName": "CGSS",
+    "name": "caisse_generale_de_securite_sociale_cgss_de_guadeloupe_siege_des_abymes",
+    "title": "Caisse générale de sécurité sociale (CGSS) de Guadeloupe - siège des Abymes",
+    "url": "https://lannuaire.service-public.fr/guadeloupe/guadeloupe/cpam-97101-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3646",
+      "url": "https://www.ameli.fr"
+    }
+  },
+  {
+    "id": "0a3b0ce3d59409203842d936e39a4f0b0e538867",
+    "alternateName": "CGSS",
+    "name": "caisse_generale_de_securite_sociale_cgss_de_guyane_siege_de_cayenne",
+    "title": "Caisse générale de sécurité sociale (CGSS) de Guyane - siège de Cayenne",
+    "url": "https://lannuaire.service-public.fr/guyane/guyane/cpam-97302-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3646",
+      "url": "https://www.ameli.fr"
+    }
+  },
+  {
+    "id": "d83b4702b10a831116c169457e5f5e7c7d986c00",
+    "alternateName": "CGSS",
+    "name": "caisse_generale_de_securite_sociale_cgss_de_la_reunion_accueil_de_saint_andre",
+    "title": "Caisse générale de sécurité sociale (CGSS) de La Réunion - accueil de Saint-André",
+    "url": "https://lannuaire.service-public.fr/la-reunion/reunion/cpam-97409-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3646",
+      "url": "https://www.ameli.fr"
+    }
+  },
+  {
+    "id": "6dd4167604cae75cab0c86a9f446dfdcea520acb",
+    "alternateName": "CGSS",
+    "name": "caisse_generale_de_securite_sociale_cgss_de_la_reunion_accueil_de_saint_joseph",
+    "title": "Caisse générale de sécurité sociale (CGSS) de La Réunion - accueil de Saint-Joseph",
+    "url": "https://lannuaire.service-public.fr/la-reunion/reunion/cpam-97412-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3646",
+      "url": "https://www.ameli.fr"
+    }
+  },
+  {
+    "id": "591f3a4e8ec2afb64dd32e3f8145ca7dabe6bf17",
+    "alternateName": "CGSS",
+    "name": "caisse_generale_de_securite_sociale_cgss_de_la_reunion_accueil_de_saint_louis",
+    "title": "Caisse générale de sécurité sociale (CGSS) de La Réunion - accueil de Saint-Louis",
+    "url": "https://lannuaire.service-public.fr/la-reunion/reunion/cpam-97414-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3646",
+      "url": "https://www.ameli.fr"
+    }
+  },
+  {
+    "id": "3008c2cd23f4ae8e91ee9cb48426056337964e1f",
+    "alternateName": "CGSS",
+    "name": "caisse_generale_de_securite_sociale_cgss_de_la_reunion_accueil_de_saint_paul",
+    "title": "Caisse générale de sécurité sociale (CGSS) de La Réunion - accueil de Saint-Paul",
+    "url": "https://lannuaire.service-public.fr/la-reunion/reunion/cpam-97415-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3646",
+      "url": "http://www.cgss.re"
+    }
+  },
+  {
+    "id": "f678baf573df4b26e978db9bf2422313a2f98196",
+    "alternateName": "CGSS",
+    "name": "caisse_generale_de_securite_sociale_cgss_de_la_reunion_accueil_de_saint_pierre",
+    "title": "Caisse générale de sécurité sociale (CGSS) de La Réunion - accueil de Saint-Pierre",
+    "url": "https://lannuaire.service-public.fr/la-reunion/reunion/cpam-97416-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3646",
+      "url": "http://www.cgss.re"
+    }
+  },
+  {
+    "id": "8ff2afbac80a999fc89f9e51ac4ce6740b9898bc",
+    "alternateName": "CGSS",
+    "name": "caisse_generale_de_securite_sociale_cgss_de_la_reunion_siege_de_saint_denis",
+    "title": "Caisse générale de sécurité sociale (CGSS) de La Réunion - siège de Saint-Denis",
+    "url": "https://lannuaire.service-public.fr/la-reunion/reunion/cpam-97411-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3646",
+      "url": "http://www.cgss.re"
+    }
+  },
+  {
+    "id": "6e4c530cab4aae19cf6833a08d09c7b6dbf8480c",
+    "alternateName": "CGSS",
+    "name": "caisse_generale_de_securite_sociale_cgss_de_martinique_siege_du_lamentin",
+    "title": "Caisse générale de sécurité sociale (CGSS) de Martinique - siège du Lamentin",
+    "url": "https://lannuaire.service-public.fr/martinique/martinique/cpam-97213-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3646",
+      "url": "https://www.ameli.fr"
+    }
+  },
+  {
+    "id": "d4858c07f396e84040fef0776558806f05a23838",
+    "alternateName": "CPAM",
+    "name": "caisse_primaire_dassurance_maladie_cpam_des_alpes_de_haute_provence_accueil_de_manosque",
+    "title": "Caisse primaire d'assurance maladie (CPAM) des Alpes-de-Haute-Provence - accueil de Manosque",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/alpes-de-haute-provence/cpam-04112-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3646",
+      "url": "https://www.ameli.fr"
+    }
+  },
+  {
+    "id": "c8a09085198d875f80da3e7028416483ca89d755",
+    "alternateName": "CPAM",
+    "name": "caisse_primaire_dassurance_maladie_cpam_des_alpes_de_haute_provence_siege_de_digne_les_bains",
+    "title": "Caisse primaire d'assurance maladie (CPAM) des Alpes-de-Haute-Provence - siège de Digne-les-Bains",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/alpes-de-haute-provence/cpam-04070-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3646",
+      "url": "https://www.ameli.fr"
+    }
+  },
+  {
+    "id": "fd4731222c3974607512587dda7cb5082cf97e8e",
+    "alternateName": "CPAM",
+    "name": "caisse_primaire_dassurance_maladie_cpam_des_alpes_maritimes_accueil_d_antibes",
+    "title": "Caisse primaire d'assurance maladie (CPAM) des Alpes-Maritimes - accueil d'Antibes",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/alpes-maritimes/cpam-06004-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3646",
+      "url": "https://www.ameli.fr"
+    }
+  },
+  {
+    "id": "9b8a7749141aa387fa7e972fd25747472a6473b1",
+    "alternateName": "CPAM",
+    "name": "caisse_primaire_dassurance_maladie_cpam_des_alpes_maritimes_accueil_de_cagnes_sur_mer",
+    "title": "Caisse primaire d'assurance maladie (CPAM) des Alpes-Maritimes - accueil de Cagnes-sur-Mer",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/alpes-maritimes/cpam-06027-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3646",
+      "url": "https://www.ameli.fr"
+    }
+  },
+  {
+    "id": "822b660a0c3be8e8532ce7ee9606c04d97df479f",
+    "alternateName": "CPAM",
+    "name": "caisse_primaire_dassurance_maladie_cpam_des_alpes_maritimes_accueil_de_cannes",
+    "title": "Caisse primaire d'assurance maladie (CPAM) des Alpes-Maritimes - accueil de Cannes",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/alpes-maritimes/cpam-06029-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3646",
+      "url": "https://www.ameli.fr"
+    }
+  },
+  {
+    "id": "b708d1096268a08e59f1a480da16b91543588e80",
+    "alternateName": "CPAM",
+    "name": "caisse_primaire_dassurance_maladie_cpam_des_alpes_maritimes_accueil_du_cannet",
+    "title": "Caisse primaire d'assurance maladie (CPAM) des Alpes-Maritimes - accueil du Cannet",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/alpes-maritimes/cpam-06030-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3646",
+      "url": "https://www.ameli.fr"
+    }
+  },
+  {
+    "id": "3e792d4b1762982afcd153080ac5c304ddd13485",
+    "alternateName": "CPAM",
+    "name": "caisse_primaire_dassurance_maladie_cpam_des_alpes_maritimes_accueil_de_grasse",
+    "title": "Caisse primaire d'assurance maladie (CPAM) des Alpes-Maritimes - accueil de Grasse",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/alpes-maritimes/cpam-06069-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3646",
+      "url": "https://www.ameli.fr"
+    }
+  },
+  {
+    "id": "abe5feabd58d1476d2942f99183f885863ca9f97",
+    "alternateName": "CPAM",
+    "name": "caisse_primaire_dassurance_maladie_cpam_des_alpes_maritimes_accueil_de_menton",
+    "title": "Caisse primaire d'assurance maladie (CPAM) des Alpes-Maritimes - accueil de Menton",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/alpes-maritimes/cpam-06083-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3646",
+      "url": "https://www.ameli.fr"
+    }
+  },
+  {
+    "id": "081780504f4c444ab414c19fb0be0f8148ca2713",
+    "alternateName": "CPAM",
+    "name": "caisse_primaire_dassurance_maladie_cpam_des_alpes_maritimes_accueil_de_nice_pertinax",
+    "title": "Caisse primaire d'assurance maladie (CPAM) des Alpes-Maritimes - accueil de Nice - Pertinax",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/alpes-maritimes/cpam-06088-02",
+    "metadata": {
+      "email": "",
+      "telephone": "3646",
+      "url": "https://www.ameli.fr"
+    }
+  },
+  {
+    "id": "e725c6cede196397efd0e02c1fb576fb4abe585a",
+    "alternateName": "CPAM",
+    "name": "caisse_primaire_dassurance_maladie_cpam_des_alpes_maritimes_siege_de_nice",
+    "title": "Caisse primaire d'assurance maladie (CPAM) des Alpes-Maritimes - siège de Nice",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/alpes-maritimes/cpam-06088-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3646",
+      "url": "https://www.ameli.fr"
+    }
+  },
+  {
+    "id": "6dfe1c54708fc6e4d1f4c45f61419f5427a328c0",
+    "alternateName": "CPAM",
+    "name": "caisse_primaire_dassurance_maladie_cpam_d_ardeche_accueil_d_annonay",
+    "title": "Caisse primaire d'assurance maladie (CPAM) d'Ardèche - accueil d'Annonay",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/ardeche/cpam-07010-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3646",
+      "url": "https://www.ameli.fr"
+    }
+  },
+  {
+    "id": "033c48968362913ba2fe1eb2b19e4e5362bfecc6",
+    "alternateName": "CPAM",
+    "name": "caisse_primaire_dassurance_maladie_cpam_d_ardeche_accueil_d_aubenas",
+    "title": "Caisse primaire d'assurance maladie (CPAM) d'Ardèche - accueil d'Aubenas",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/ardeche/cpam-07019-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3646",
+      "url": "https://www.ameli.fr"
+    }
+  },
+  {
+    "id": "d18717979893cf54802fce9c7c672919ae0d4924",
+    "alternateName": "CPAM",
+    "name": "caisse_primaire_dassurance_maladie_cpam_d_ardeche_accueil_du_teil",
+    "title": "Caisse primaire d'assurance maladie (CPAM) d'Ardèche - accueil du Teil",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/ardeche/cpam-07319-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3646",
+      "url": "https://www.ameli.fr"
+    }
+  },
+  {
+    "id": "972f0ae6b78bfe7bda69a52c26fd479054cd831b",
+    "alternateName": "CPAM",
+    "name": "caisse_primaire_dassurance_maladie_cpam_d_ardeche_accueil_de_tournon_sur_rhone",
+    "title": "Caisse primaire d'assurance maladie (CPAM) d'Ardèche - accueil de Tournon-sur-Rhône",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/ardeche/cpam-07324-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3646",
+      "url": "https://www.ameli.fr"
+    }
+  },
+  {
+    "id": "fc71ba628269987f143dba2f92fe04cd4a720bc0",
+    "alternateName": "CPAM",
+    "name": "caisse_primaire_dassurance_maladie_cpam_d_ardeche_siege_de_privas",
+    "title": "Caisse primaire d'assurance maladie (CPAM) d'Ardèche - siège de Privas",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/ardeche/cpam-07186-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3646",
+      "url": "https://www.ameli.fr"
+    }
+  },
+  {
+    "id": "dfbcdacca9cb42e8e5df2106e694ab2cfc4b96d3",
+    "alternateName": "CPAM",
+    "name": "caisse_primaire_dassurance_maladie_cpam_des_ardennes_accueil_de_givet",
+    "title": "Caisse primaire d'assurance maladie (CPAM) des Ardennes - accueil de Givet",
+    "url": "https://lannuaire.service-public.fr/grand-est/ardennes/cpam-08190-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3646",
+      "url": "https://www.ameli.fr"
+    }
+  },
+  {
+    "id": "d93be9c594d10687e6cbb12a565b1c918fd315a7",
+    "alternateName": "CPAM",
+    "name": "caisse_primaire_dassurance_maladie_cpam_des_ardennes_accueil_de_montherme",
+    "title": "Caisse primaire d'assurance maladie (CPAM) des Ardennes - accueil de Monthermé",
+    "url": "https://lannuaire.service-public.fr/grand-est/ardennes/cpam-08302-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3646",
+      "url": "https://www.ameli.fr"
+    }
+  },
+  {
+    "id": "82fbd8e6f528116b61585c07ef55d15e28d18bc1",
+    "alternateName": "CPAM",
+    "name": "caisse_primaire_dassurance_maladie_cpam_des_ardennes_accueil_de_rethel",
+    "title": "Caisse primaire d'assurance maladie (CPAM) des Ardennes - accueil de Rethel",
+    "url": "https://lannuaire.service-public.fr/grand-est/ardennes/cpam-08362-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3646",
+      "url": "https://www.ameli.fr"
+    }
+  },
+  {
+    "id": "8b55b1616ec4f88610a69c4c01d3488926436ccb",
+    "alternateName": "CPAM",
+    "name": "caisse_primaire_dassurance_maladie_cpam_des_ardennes_accueil_de_sedan",
+    "title": "Caisse primaire d'assurance maladie (CPAM) des Ardennes - accueil de Sedan",
+    "url": "https://lannuaire.service-public.fr/grand-est/ardennes/cpam-08409-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3646",
+      "url": "https://www.ameli.fr"
+    }
+  },
+  {
+    "id": "ae8f88cb64c704e4cdc233992defc7e24c8e9e4c",
+    "alternateName": "CPAM",
+    "name": "caisse_primaire_dassurance_maladie_cpam_des_ardennes_siege_de_charleville_mezieres",
+    "title": "Caisse primaire d'assurance maladie (CPAM) des Ardennes - siège de Charleville-Mézières",
+    "url": "https://lannuaire.service-public.fr/grand-est/ardennes/cpam-08105-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3646",
+      "url": "https://www.ameli.fr"
+    }
+  },
+  {
+    "id": "a935cadddd0781ffa0063f7478422823d7fe7cf1",
+    "alternateName": "CPAM",
+    "name": "caisse_primaire_dassurance_maladie_cpam_du_bas_rhin_accueil_d_erstein",
+    "title": "Caisse primaire d'assurance maladie (CPAM) du Bas-Rhin - accueil d'Erstein",
+    "url": "https://lannuaire.service-public.fr/grand-est/bas-rhin/cpam-67130-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3646",
+      "url": "https://www.ameli.fr"
+    }
+  },
+  {
+    "id": "7e528cf2f2644b3ad9e13f1855092528a466ccbf",
+    "alternateName": "CPAM",
+    "name": "caisse_primaire_dassurance_maladie_cpam_du_bas_rhin_accueil_de_haguenau",
+    "title": "Caisse primaire d'assurance maladie (CPAM) du Bas-Rhin - accueil de Haguenau",
+    "url": "https://lannuaire.service-public.fr/grand-est/bas-rhin/cpam-67180-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3646",
+      "url": "https://www.ameli.fr"
+    }
+  },
+  {
+    "id": "ce0ae02d416c3504184f72775622e0e2032abcb7",
+    "alternateName": "CPAM",
+    "name": "caisse_primaire_dassurance_maladie_cpam_du_bas_rhin_accueil_d_illkirch",
+    "title": "Caisse primaire d'assurance maladie (CPAM) du Bas-Rhin - accueil d'Illkirch",
+    "url": "https://lannuaire.service-public.fr/grand-est/bas-rhin/cpam-67218-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3646",
+      "url": "https://www.ameli.fr"
+    }
+  },
+  {
+    "id": "1c94f09937aacf7cf7f6cc92eb7a554e4f3b8a11",
+    "alternateName": "CPAM",
+    "name": "caisse_primaire_dassurance_maladie_cpam_du_bas_rhin_accueil_de_niederbronn_les_bains",
+    "title": "Caisse primaire d'assurance maladie (CPAM) du Bas-Rhin - accueil de Niederbronn-les-Bains",
+    "url": "https://lannuaire.service-public.fr/grand-est/bas-rhin/cpam-67324-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3646",
+      "url": "https://www.ameli.fr"
+    }
+  },
+  {
+    "id": "f553edd5b0e9db9031227fde5bd3dfbea82e247c",
+    "alternateName": "CPAM",
+    "name": "caisse_primaire_dassurance_maladie_cpam_du_bas_rhin_accueil_de_sarre_union",
+    "title": "Caisse primaire d'assurance maladie (CPAM) du Bas-Rhin - accueil de Sarre-Union",
+    "url": "https://lannuaire.service-public.fr/grand-est/bas-rhin/cpam-67434-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3646",
+      "url": "https://www.ameli.fr"
+    }
+  },
+  {
+    "id": "f03c5c71ae9bd474ba423d8d4cb14f948812d380",
+    "alternateName": "CPAM",
+    "name": "caisse_primaire_dassurance_maladie_cpam_du_bas_rhin_accueil_de_saverne",
+    "title": "Caisse primaire d'assurance maladie (CPAM) du Bas-Rhin - accueil de Saverne",
+    "url": "https://lannuaire.service-public.fr/grand-est/bas-rhin/cpam-67437-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3646",
+      "url": "https://www.ameli.fr"
+    }
+  },
+  {
+    "id": "b2817bf157de0e7a78004f2ada92a2f402a3a825",
+    "alternateName": "CPAM",
+    "name": "caisse_primaire_dassurance_maladie_cpam_du_bas_rhin_accueil_de_schiltigheim",
+    "title": "Caisse primaire d'assurance maladie (CPAM) du Bas-Rhin - accueil de Schiltigheim",
+    "url": "https://lannuaire.service-public.fr/grand-est/bas-rhin/cpam-67447-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3646",
+      "url": "https://www.ameli.fr"
+    }
+  },
+  {
+    "id": "9d125e7109cecd60089186eb14f716e9c6072335",
+    "alternateName": "CPAM",
+    "name": "caisse_primaire_dassurance_maladie_cpam_du_bas_rhin_accueil_de_schirmeck",
+    "title": "Caisse primaire d'assurance maladie (CPAM) du Bas-Rhin - accueil de Schirmeck",
+    "url": "https://lannuaire.service-public.fr/grand-est/bas-rhin/cpam-67448-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3646",
+      "url": "https://www.ameli.fr"
+    }
+  },
+  {
+    "id": "4b14ddcdd2d48b0d7fd7e3f3e1b65bd02d56e243",
+    "alternateName": "CPAM",
+    "name": "caisse_primaire_dassurance_maladie_cpam_du_bas_rhin_accueil_de_selestat",
+    "title": "Caisse primaire d'assurance maladie (CPAM) du Bas-Rhin - accueil de Sélestat",
+    "url": "https://lannuaire.service-public.fr/grand-est/bas-rhin/cpam-67462-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3646",
+      "url": "https://www.ameli.fr"
+    }
+  },
+  {
+    "id": "3ec155b4097dd2c60309d19f6bd2dd01b72b5d13",
+    "alternateName": "CPAM",
+    "name": "caisse_primaire_dassurance_maladie_cpam_du_bas_rhin_accueil_de_strasbourg",
+    "title": "Caisse primaire d'assurance maladie (CPAM) du Bas-Rhin - accueil de Strasbourg",
+    "url": "https://lannuaire.service-public.fr/grand-est/bas-rhin/cpam-67482-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3646",
+      "url": "https://www.ameli.fr"
+    }
+  },
+  {
+    "id": "25ae61631918587a9c30ec842bc8ce8ffd7c3035",
+    "alternateName": "CPAM",
+    "name": "caisse_primaire_dassurance_maladie_cpam_du_bas_rhin_accueil_de_strasbourg_koenigshoffen",
+    "title": "Caisse primaire d'assurance maladie (CPAM) du Bas-Rhin - accueil de Strasbourg - Koenigshoffen",
+    "url": "https://lannuaire.service-public.fr/grand-est/bas-rhin/cpam-67482-03",
+    "metadata": {
+      "email": "",
+      "telephone": "3646",
+      "url": "https://www.ameli.fr"
+    }
+  },
+  {
+    "id": "b267bd35368619f59f26df4744a343145e97fe2f",
+    "alternateName": "CPAM",
+    "name": "caisse_primaire_dassurance_maladie_cpam_du_bas_rhin_accueil_de_wissembourg",
+    "title": "Caisse primaire d'assurance maladie (CPAM) du Bas-Rhin - accueil de Wissembourg",
+    "url": "https://lannuaire.service-public.fr/grand-est/bas-rhin/cpam-67544-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3646",
+      "url": "https://www.ameli.fr"
+    }
+  },
+  {
+    "id": "1badc168c532f0b931b4c967c87cfa6018a065c1",
+    "alternateName": "CPAM",
+    "name": "caisse_primaire_dassurance_maladie_cpam_de_bayonne_accueil_de_bayonne_hauts_de_sainte_croix",
+    "title": "Caisse primaire d'assurance maladie (CPAM) de Bayonne - accueil de Bayonne – Hauts-de-Sainte-Croix",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/pyrenees-atlantiques/cpam-64102-02",
+    "metadata": {
+      "email": "",
+      "telephone": "3646",
+      "url": "https://www.ameli.fr"
+    }
+  },
+  {
+    "id": "ed16146f43c6e42a22706c6255e5ffdb25f05db0",
+    "alternateName": "CPAM",
+    "name": "caisse_primaire_dassurance_maladie_cpam_de_bayonne_accueil_de_saint_jean_de_luz",
+    "title": "Caisse primaire d'assurance maladie (CPAM) de Bayonne - accueil de Saint-Jean-de-Luz",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/pyrenees-atlantiques/cpam-64483-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3646",
+      "url": "https://www.ameli.fr"
+    }
+  },
+  {
+    "id": "3b5f817ed4124679de9ca306a833fac01d5fa844",
+    "alternateName": "CPAM",
+    "name": "caisse_primaire_dassurance_maladie_cpam_de_bayonne_accueil_de_saint_palais",
+    "title": "Caisse primaire d'assurance maladie (CPAM) de Bayonne - accueil de Saint-Palais",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/pyrenees-atlantiques/cpam-64493-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3646",
+      "url": "https://www.ameli.fr"
+    }
+  },
+  {
+    "id": "832118f875ffc0e8901c7eac740a8a999ab59abe",
+    "alternateName": "CPAM",
+    "name": "caisse_primaire_dassurance_maladie_cpam_de_bayonne_siege_de_bayonne",
+    "title": "Caisse primaire d'assurance maladie (CPAM) de Bayonne - siège de Bayonne",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/pyrenees-atlantiques/cpam-64102-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3646",
+      "url": "https://www.ameli.fr"
+    }
+  },
+  {
+    "id": "d0b1115a7e2c221b7b8f5deee70dfe3314ec4ce5",
+    "alternateName": "CPAM",
+    "name": "caisse_primaire_dassurance_maladie_cpam_des_bouches_du_rhone_accueil_d_aix_en_provence",
+    "title": "Caisse primaire d'assurance maladie (CPAM) des Bouches-du-Rhône - accueil d'Aix-en-Provence",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/cpam-13001-02",
+    "metadata": {
+      "email": "",
+      "telephone": "3646",
+      "url": "https://www.ameli.fr"
+    }
+  },
+  {
+    "id": "ecf5f85d7eef812872d875e0d1a7162f0368cabc",
+    "alternateName": "CPAM",
+    "name": "caisse_primaire_dassurance_maladie_cpam_des_bouches_du_rhone_accueil_d_arles",
+    "title": "Caisse primaire d'assurance maladie (CPAM) des Bouches-du-Rhône - accueil d'Arles",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/cpam-13004-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3646",
+      "url": "https://www.ameli.fr"
+    }
+  },
+  {
+    "id": "56d6751434e825d55e66d3324532cd9c33994612",
+    "alternateName": "CPAM",
+    "name": "caisse_primaire_dassurance_maladie_cpam_des_bouches_du_rhone_accueil_d_aubagne_defensions",
+    "title": "Caisse primaire d'assurance maladie (CPAM) des Bouches-du-Rhône - accueil d'Aubagne - Défensions",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/cpam-13005-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3646",
+      "url": "https://www.ameli.fr"
+    }
+  },
+  {
+    "id": "a1f16f1752c19a947d4ed5d612742ce0e745aa40",
+    "alternateName": "CPAM",
+    "name": "caisse_primaire_dassurance_maladie_cpam_des_bouches_du_rhone_accueil_de_gardanne",
+    "title": "Caisse primaire d'assurance maladie (CPAM) des Bouches-du-Rhône - accueil de Gardanne",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/cpam-13041-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3646",
+      "url": "https://www.ameli.fr"
+    }
+  },
+  {
+    "id": "8ca9c6c9d27d9191b6cf98d9043ee4534fde73c6",
+    "alternateName": "CPAM",
+    "name": "caisse_primaire_dassurance_maladie_cpam_des_bouches_du_rhone_accueil_d_istres",
+    "title": "Caisse primaire d'assurance maladie (CPAM) des Bouches-du-Rhône - accueil d'Istres",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/cpam-13047-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3646",
+      "url": "https://www.ameli.fr"
+    }
+  },
+  {
+    "id": "3caa91efe32d9ec74c161a7aae90e95419ec6f87",
+    "alternateName": "CPAM",
+    "name": "caisse_primaire_dassurance_maladie_cpam_des_bouches_du_rhone_accueil_de_la_ciotat",
+    "title": "Caisse primaire d'assurance maladie (CPAM) des Bouches-du-Rhône - accueil de La Ciotat",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/cpam-13028-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3646",
+      "url": "https://www.ameli.fr"
+    }
+  },
+  {
+    "id": "e427240865a0e59d873c2cdb22d83482e4316e8c",
+    "alternateName": "CPAM",
+    "name": "caisse_primaire_dassurance_maladie_cpam_des_bouches_du_rhone_accueil_de_marignane",
+    "title": "Caisse primaire d'assurance maladie (CPAM) des Bouches-du-Rhône - accueil de Marignane",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/cpam-13054-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3646",
+      "url": "https://www.ameli.fr"
+    }
+  },
+  {
+    "id": "292ed2364a51bf4a604c537aa07fe2faf3d2c4f3",
+    "alternateName": "CPAM",
+    "name": "caisse_primaire_dassurance_maladie_cpam_des_bouches_du_rhone_accueil_de_marseille_burel",
+    "title": "Caisse primaire d'assurance maladie (CPAM) des Bouches-du-Rhône - accueil de Marseille - Burel",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/cpam-13214-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3646",
+      "url": "https://www.ameli.fr"
+    }
+  },
+  {
+    "id": "79062726e93ef0cb6eeda6900b7880c646606067",
+    "alternateName": "CPAM",
+    "name": "caisse_primaire_dassurance_maladie_cpam_des_bouches_du_rhone_accueil_de_marseille_capelette",
+    "title": "Caisse primaire d'assurance maladie (CPAM) des Bouches-du-Rhône - accueil de Marseille - Capelette",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/cpam-13210-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3646",
+      "url": "https://www.ameli.fr"
+    }
+  },
+  {
+    "id": "43778ac4a91f46f554b982b6176b4e445c4bad7e",
+    "alternateName": "CPAM",
+    "name": "caisse_primaire_dassurance_maladie_cpam_des_bouches_du_rhone_accueil_de_marseille_jacquand",
+    "title": "Caisse primaire d'assurance maladie (CPAM) des Bouches-du-Rhône - accueil de Marseille - Jacquand",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/cpam-13208-02",
+    "metadata": {
+      "email": "",
+      "telephone": "3646",
+      "url": "https://www.ameli.fr"
+    }
+  },
+  {
+    "id": "d9064a4b3072d90c43f94de938e3515bd7e78edc",
+    "alternateName": "CPAM",
+    "name": "caisse_primaire_dassurance_maladie_cpam_des_bouches_du_rhone_accueil_de_marseille_la_canebiere_1_er_arrondissement",
+    "title": "Caisse primaire d'assurance maladie (CPAM) des Bouches-du-Rhône - accueil de Marseille - La Canebière - 1er arrondissement",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/cpam-13201-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3646",
+      "url": "https://www.ameli.fr"
+    }
+  },
+  {
+    "id": "73e0c4aa823589ef0bae525592797131e5536417",
+    "alternateName": "CPAM",
+    "name": "caisse_primaire_dassurance_maladie_cpam_des_bouches_du_rhone_accueil_de_marseille_les_chartreux",
+    "title": "Caisse primaire d'assurance maladie (CPAM) des Bouches-du-Rhône - accueil de Marseille - Les Chartreux",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/cpam-13204-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3646",
+      "url": "https://www.ameli.fr"
+    }
+  },
+  {
+    "id": "0b8b7363e280594efb4bbe0510d86b0b27ee7e91",
+    "alternateName": "CPAM",
+    "name": "caisse_primaire_dassurance_maladie_cpam_des_bouches_du_rhone_accueil_de_marseille_saint_barnabe",
+    "title": "Caisse primaire d'assurance maladie (CPAM) des Bouches-du-Rhône - accueil de Marseille - Saint-Barnabé",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/cpam-13212-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3646",
+      "url": "https://www.ameli.fr"
+    }
+  },
+  {
+    "id": "a6573c48ec9a344a162e5bc2a0dd912812908492",
+    "alternateName": "CPAM",
+    "name": "caisse_primaire_dassurance_maladie_cpam_des_bouches_du_rhone_accueil_de_marseille_saint_louis",
+    "title": "Caisse primaire d'assurance maladie (CPAM) des Bouches-du-Rhône - accueil de Marseille - Saint-Louis",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/cpam-13215-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3646",
+      "url": "https://www.ameli.fr"
+    }
+  },
+  {
+    "id": "da51d307f527ff6a92b1b57b8a9f855d423f4bbd",
+    "alternateName": "CPAM",
+    "name": "caisse_primaire_dassurance_maladie_cpam_des_bouches_du_rhone_accueil_de_martigues",
+    "title": "Caisse primaire d'assurance maladie (CPAM) des Bouches-du-Rhône - accueil de Martigues",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/cpam-13056-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3646",
+      "url": "https://www.ameli.fr"
+    }
+  },
+  {
+    "id": "0b74f4bf7f3f38608d0e1f79b730276269dba3aa",
+    "alternateName": "CPAM",
+    "name": "caisse_primaire_dassurance_maladie_cpam_des_bouches_du_rhone_accueil_de_plan_de_cuques",
+    "title": "Caisse primaire d'assurance maladie (CPAM) des Bouches-du-Rhône - accueil de Plan-de-Cuques",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/cpam-13075-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3646",
+      "url": "https://www.ameli.fr"
+    }
+  },
+  {
+    "id": "69889ecb498fc513daf960e41927454e9c601456",
+    "alternateName": "CPAM",
+    "name": "caisse_primaire_dassurance_maladie_cpam_des_bouches_du_rhone_accueil_de_port_de_bouc",
+    "title": "Caisse primaire d'assurance maladie (CPAM) des Bouches-du-Rhône - accueil de Port-de-Bouc",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/cpam-13077-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3646",
+      "url": "https://www.ameli.fr"
+    }
+  },
+  {
+    "id": "6cd17e0d168f2ac652608a1aa1efe4db23e4d1fc",
+    "alternateName": "CPAM",
+    "name": "caisse_primaire_dassurance_maladie_cpam_des_bouches_du_rhone_accueil_de_port_saint_louis_du_rhone",
+    "title": "Caisse primaire d'assurance maladie (CPAM) des Bouches-du-Rhône - accueil de Port-Saint-Louis-du-Rhône",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/cpam-13078-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3646",
+      "url": "https://www.ameli.fr"
+    }
+  },
+  {
+    "id": "4a8195f0c9f787b185302647ed6e98e58bf42ef5",
+    "alternateName": "CPAM",
+    "name": "caisse_primaire_dassurance_maladie_cpam_des_bouches_du_rhone_accueil_de_salon_de_provence",
+    "title": "Caisse primaire d'assurance maladie (CPAM) des Bouches-du-Rhône - accueil de Salon-de-Provence",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/cpam-13103-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3646",
+      "url": "https://www.ameli.fr"
+    }
+  },
+  {
+    "id": "e0ed56758dbfd19b30a693db18e5ddc7465abe42",
+    "alternateName": "CPAM",
+    "name": "caisse_primaire_dassurance_maladie_cpam_des_bouches_du_rhone_accueil_de_tarascon",
+    "title": "Caisse primaire d'assurance maladie (CPAM) des Bouches-du-Rhône - accueil de Tarascon",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/cpam-13108-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3646",
+      "url": "https://www.ameli.fr"
+    }
+  },
+  {
+    "id": "cee33a48999c23278951512feeac7a11959c3ad0",
+    "alternateName": "CPAM",
+    "name": "caisse_primaire_dassurance_maladie_cpam_du_calvados_accueil_de_bayeux",
+    "title": "Caisse primaire d'assurance maladie (CPAM) du Calvados - accueil de Bayeux",
+    "url": "https://lannuaire.service-public.fr/normandie/calvados/cpam-14047-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3646",
+      "url": "https://www.ameli.fr"
+    }
+  },
+  {
+    "id": "8926426daef88fcb76b47823b75a7094076d1cf8",
+    "alternateName": "CPAM",
+    "name": "caisse_primaire_dassurance_maladie_cpam_du_calvados_accueil_de_caen_11_novembre",
+    "title": "Caisse primaire d'assurance maladie (CPAM) du Calvados - accueil de Caen - 11-Novembre",
+    "url": "https://lannuaire.service-public.fr/normandie/calvados/cpam-14118-02",
+    "metadata": {
+      "email": "",
+      "telephone": "3646",
+      "url": "https://www.ameli.fr"
+    }
+  },
+  {
+    "id": "ad185560d8e239be967efb3f4fdb19eb1c10ebba",
+    "alternateName": "CPAM",
+    "name": "caisse_primaire_dassurance_maladie_cpam_du_calvados_accueil_de_dives_sur_mer",
+    "title": "Caisse primaire d'assurance maladie (CPAM) du Calvados - accueil de Dives-sur-Mer",
+    "url": "https://lannuaire.service-public.fr/normandie/calvados/cpam-14225-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3646",
+      "url": "https://www.ameli.fr"
+    }
+  },
+  {
+    "id": "5d5484be4513197e3eb4f1e3599aca069f0ecccf",
+    "alternateName": "CPAM",
+    "name": "caisse_primaire_dassurance_maladie_cpam_du_calvados_accueil_de_falaise",
+    "title": "Caisse primaire d'assurance maladie (CPAM) du Calvados - accueil de Falaise",
+    "url": "https://lannuaire.service-public.fr/normandie/calvados/cpam-14258-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3646",
+      "url": "https://www.ameli.fr"
+    }
+  },
+  {
+    "id": "982b48c61e7b8b8390c21bd2127801f7595ed26f",
+    "alternateName": "CPAM",
+    "name": "caisse_primaire_dassurance_maladie_cpam_du_calvados_accueil_de_honfleur",
+    "title": "Caisse primaire d'assurance maladie (CPAM) du Calvados - accueil de Honfleur",
+    "url": "https://lannuaire.service-public.fr/normandie/calvados/cpam-14333-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3646",
+      "url": "https://www.ameli.fr"
+    }
+  },
+  {
+    "id": "96d329b5f9d114527f0fbd003e40c07639dcfa73",
+    "alternateName": "CPAM",
+    "name": "caisse_primaire_dassurance_maladie_cpam_du_calvados_accueil_de_lisieux",
+    "title": "Caisse primaire d'assurance maladie (CPAM) du Calvados - accueil de Lisieux",
+    "url": "https://lannuaire.service-public.fr/normandie/calvados/cpam-14366-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3646",
+      "url": "https://www.ameli.fr"
+    }
+  },
+  {
+    "id": "ee40116248f62f365855cc80f17baa1398e58250",
+    "alternateName": "CPAM",
+    "name": "caisse_primaire_dassurance_maladie_cpam_du_calvados_accueil_de_vire",
+    "title": "Caisse primaire d'assurance maladie (CPAM) du Calvados - accueil de Vire",
+    "url": "https://lannuaire.service-public.fr/normandie/calvados/cpam-14762-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3646",
+      "url": "https://www.ameli.fr"
+    }
+  },
+  {
+    "id": "5d68bffb4c30430f5987e45852996b6538f9b2eb",
+    "alternateName": "CPAM",
+    "name": "caisse_primaire_dassurance_maladie_cpam_du_calvados_siege_de_caen",
+    "title": "Caisse primaire d'assurance maladie (CPAM) du Calvados - siège de Caen",
+    "url": "https://lannuaire.service-public.fr/normandie/calvados/cpam-14118-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3646",
+      "url": "https://www.ameli.fr"
+    }
+  },
+  {
+    "id": "51d4e00ae77404bf300b098cb063ee0e455037d5",
+    "alternateName": "CPAM",
+    "name": "caisse_primaire_dassurance_maladie_cpam_du_cantal_siege_d_aurillac",
+    "title": "Caisse primaire d'assurance maladie (CPAM) du Cantal - siège d'Aurillac",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/cantal/cpam-15014-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3646",
+      "url": "https://www.ameli.fr"
+    }
+  },
+  {
+    "id": "07395e6d09efda25752dc9fe4c2197e9e9a397d5",
+    "alternateName": "CPAM",
+    "name": "caisse_primaire_dassurance_maladie_cpam_de_charente_accueil_d_aigre",
+    "title": "Caisse primaire d'assurance maladie (CPAM) de Charente - accueil d'Aigre",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/charente/cpam-16005-01",
+    "metadata": {
+      "email": "rendezvous@cpam-angouleme.cnamts.fr",
+      "telephone": "3646",
+      "url": "https://www.ameli.fr"
+    }
+  },
+  {
+    "id": "8388ff908096e9b40cc70f0b23a28f9f4986703f",
+    "alternateName": "CPAM",
+    "name": "caisse_primaire_dassurance_maladie_cpam_de_charente_accueil_de_barbezieux_saint_hilaire",
+    "title": "Caisse primaire d'assurance maladie (CPAM) de Charente - accueil de Barbezieux-Saint-Hilaire",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/charente/cpam-16028-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3646",
+      "url": "https://www.ameli.fr"
+    }
+  },
+  {
+    "id": "4ba93721f33e020557a2ab77730c3117330808e1",
+    "alternateName": "CPAM",
+    "name": "caisse_primaire_dassurance_maladie_cpam_de_charente_accueil_de_chabanais",
+    "title": "Caisse primaire d'assurance maladie (CPAM) de Charente - accueil de Chabanais",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/charente/cpam-16070-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3646",
+      "url": "https://www.ameli.fr"
+    }
+  },
+  {
+    "id": "dfb1769644dc648a9d7b83290db773c269452453",
+    "alternateName": "CPAM",
+    "name": "caisse_primaire_dassurance_maladie_cpam_de_charente_accueil_de_chalais",
+    "title": "Caisse primaire d'assurance maladie (CPAM) de Charente - accueil de Chalais",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/charente/cpam-16073-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3646",
+      "url": "https://www.ameli.fr"
+    }
+  },
+  {
+    "id": "c1f1296faf706cd9d1fd5bd1aa4d1331f603b319",
+    "alternateName": "CPAM",
+    "name": "caisse_primaire_dassurance_maladie_cpam_de_charente_accueil_de_cognac",
+    "title": "Caisse primaire d'assurance maladie (CPAM) de Charente - accueil de Cognac",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/charente/cpam-16102-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3646",
+      "url": "https://www.ameli.fr"
+    }
+  },
+  {
+    "id": "214670d2ca8ab93e2c4f3156aa0f373a3d818e09",
+    "alternateName": "CPAM",
+    "name": "caisse_primaire_dassurance_maladie_cpam_de_charente_accueil_de_confolens",
+    "title": "Caisse primaire d'assurance maladie (CPAM) de Charente - accueil de Confolens",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/charente/cpam-16106-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3646",
+      "url": "https://www.ameli.fr"
+    }
+  },
+  {
+    "id": "a754febecdf76aa00f4060d8fd815b708eb7affa",
+    "alternateName": "CPAM",
+    "name": "caisse_primaire_dassurance_maladie_cpam_de_charente_accueil_de_la_rochefoucauld",
+    "title": "Caisse primaire d'assurance maladie (CPAM) de Charente - accueil de La Rochefoucauld",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/charente/cpam-16281-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3646",
+      "url": "https://www.ameli.fr"
+    }
+  },
+  {
+    "id": "9360ccd7471cb13aad69bcb9c67cd1e3b297b367",
+    "alternateName": "CPAM",
+    "name": "caisse_primaire_dassurance_maladie_cpam_de_charente_accueil_de_mansle",
+    "title": "Caisse primaire d'assurance maladie (CPAM) de Charente - accueil de Mansle",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/charente/cpam-16206-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3646",
+      "url": "https://www.ameli.fr"
+    }
+  },
+  {
+    "id": "68b3039ba87f35893245a3f5c0d32b6817e90359",
+    "alternateName": "CPAM",
+    "name": "caisse_primaire_dassurance_maladie_cpam_de_charente_accueil_de_ruffec",
+    "title": "Caisse primaire d'assurance maladie (CPAM) de Charente - accueil de Ruffec",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/charente/cpam-16292-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3646",
+      "url": "https://www.ameli.fr"
+    }
+  },
+  {
+    "id": "e8a227684c0728f5377ad618f7e84f86f3dcdd9b",
+    "alternateName": "CPAM",
+    "name": "caisse_primaire_dassurance_maladie_cpam_de_charente_maritime_accueil_de_jonzac",
+    "title": "Caisse primaire d'assurance maladie (CPAM) de Charente-Maritime - accueil de Jonzac",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/charente-maritime/cpam-17197-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3646",
+      "url": "https://www.ameli.fr"
+    }
+  },
+  {
+    "id": "213b8b04656b214548a7cd5af0d01d9fd9b7caa2",
+    "alternateName": "CPAM",
+    "name": "caisse_primaire_dassurance_maladie_cpam_de_charente_maritime_accueil_de_la_rochelle_mireuil",
+    "title": "Caisse primaire d'assurance maladie (CPAM) de Charente-Maritime - accueil de La Rochelle - Mireuil",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/charente-maritime/cpam-17300-02",
+    "metadata": {
+      "email": "",
+      "telephone": "3646",
+      "url": "https://www.ameli.fr"
+    }
+  },
+  {
+    "id": "2d418933e8aa2db649f2ad56f0c6b4f7ae304179",
+    "alternateName": "CPAM",
+    "name": "caisse_primaire_dassurance_maladie_cpam_de_charente_maritime_accueil_de_la_rochelle_villeneuve_les_salines",
+    "title": "Caisse primaire d'assurance maladie (CPAM) de Charente-Maritime - accueil de La Rochelle - Villeneuve-les-Salines",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/charente-maritime/cpam-17300-03",
+    "metadata": {
+      "email": "",
+      "telephone": "3646",
+      "url": "https://www.ameli.fr"
+    }
+  },
+  {
+    "id": "288e1f596224ea6ac34774b62e2cbc8afb0bd0ac",
+    "alternateName": "CPAM",
+    "name": "caisse_primaire_dassurance_maladie_cpam_de_charente_maritime_accueil_de_rochefort",
+    "title": "Caisse primaire d'assurance maladie (CPAM) de Charente-Maritime - accueil de Rochefort",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/charente-maritime/cpam-17299-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3646",
+      "url": "https://www.ameli.fr"
+    }
+  },
+  {
+    "id": "6341c6c2822196b1a5caaf92d63ee909dbcaf437",
+    "alternateName": "CPAM",
+    "name": "caisse_primaire_dassurance_maladie_cpam_de_charente_maritime_accueil_de_royan",
+    "title": "Caisse primaire d'assurance maladie (CPAM) de Charente-Maritime - accueil de Royan",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/charente-maritime/cpam-17306-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3646",
+      "url": "https://www.ameli.fr"
+    }
+  },
+  {
+    "id": "8d1c9b6feec14e93662bd6a87be9e965057acf52",
+    "alternateName": "CPAM",
+    "name": "caisse_primaire_dassurance_maladie_cpam_de_charente_maritime_accueil_de_saintes",
+    "title": "Caisse primaire d'assurance maladie (CPAM) de Charente-Maritime - accueil de Saintes",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/charente-maritime/cpam-17415-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3646",
+      "url": "https://www.ameli.fr"
+    }
+  },
+  {
+    "id": "4012d61a282346c7f83e057ead3b45f32e92eac3",
+    "alternateName": "CPAM",
+    "name": "caisse_primaire_dassurance_maladie_cpam_de_charente_maritime_accueil_de_saint_jean_d_angely",
+    "title": "Caisse primaire d'assurance maladie (CPAM) de Charente-Maritime - accueil de Saint-Jean-d'Angély",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/charente-maritime/cpam-17347-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3646",
+      "url": "https://www.ameli.fr"
+    }
+  },
+  {
+    "id": "f9b64ce4f9577db4e938a8c7b55775940894e09c",
+    "alternateName": "CPAM",
+    "name": "caisse_primaire_dassurance_maladie_cpam_de_charente_maritime_siege_de_la_rochelle",
+    "title": "Caisse primaire d'assurance maladie (CPAM) de Charente-Maritime - siège de La Rochelle",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/charente-maritime/cpam-17300-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3646",
+      "url": "https://www.ameli.fr"
+    }
+  },
+  {
+    "id": "1c138242b57671dbc0b000ba2e1fc13ba3897aba",
+    "alternateName": "CPAM",
+    "name": "caisse_primaire_dassurance_maladie_cpam_de_charente_siege_d_angouleme",
+    "title": "Caisse primaire d'assurance maladie (CPAM) de Charente - siège d'Angoulême",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/charente/cpam-16015-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3646",
+      "url": "https://www.ameli.fr"
+    }
+  },
+  {
+    "id": "3fd9a26c4b15e5279d39ea5977e25147cbb24794",
+    "alternateName": "CPAM",
+    "name": "caisse_primaire_dassurance_maladie_cpam_du_cher_accueil_de_saint_amand_montrond",
+    "title": "Caisse primaire d'assurance maladie (CPAM) du Cher - accueil de Saint-Amand-Montrond",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/cher/cpam-18197-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3646",
+      "url": "https://www.ameli.fr"
+    }
+  },
+  {
+    "id": "368f1c12ef3229e76ca5129ad1821d65dcc92be3",
+    "alternateName": "CPAM",
+    "name": "caisse_primaire_dassurance_maladie_cpam_du_cher_accueil_de_vierzon",
+    "title": "Caisse primaire d'assurance maladie (CPAM) du Cher - accueil de Vierzon",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/cher/cpam-18279-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3646",
+      "url": "https://www.ameli.fr"
+    }
+  },
+  {
+    "id": "731150c7213d0f81529fbaa75f793f9a421cf431",
+    "alternateName": "CPAM",
+    "name": "caisse_primaire_dassurance_maladie_cpam_du_cher_siege_de_bourges",
+    "title": "Caisse primaire d'assurance maladie (CPAM) du Cher - siège de Bourges",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/cher/cpam-18033-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3646",
+      "url": "https://www.ameli.fr"
+    }
+  },
+  {
+    "id": "8a5b971f8a1b366c9417552ece4db54950b47077",
+    "alternateName": "CPAM",
+    "name": "caisse_primaire_dassurance_maladie_cpam_de_correze_accueil_de_brive_la_gaillarde",
+    "title": "Caisse primaire d'assurance maladie (CPAM) de Corrèze - accueil de Brive-la-Gaillarde",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/correze/cpam-19031-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3646",
+      "url": "https://www.ameli.fr"
+    }
+  },
+  {
+    "id": "3cc7c9cad78b9481eab66d557ef12995bac48376",
+    "alternateName": "CPAM",
+    "name": "caisse_primaire_dassurance_maladie_cpam_de_correze_accueil_d_ussel",
+    "title": "Caisse primaire d'assurance maladie (CPAM) de Corrèze - accueil d'Ussel",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/correze/cpam-19275-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3646",
+      "url": "https://www.ameli.fr"
+    }
+  },
+  {
+    "id": "4382e5f960d0b2fea7c8e1b03e963d6be58bac4d",
+    "alternateName": "CPAM",
+    "name": "caisse_primaire_dassurance_maladie_cpam_de_correze_siege_de_tulle",
+    "title": "Caisse primaire d'assurance maladie (CPAM) de Corrèze - siège de Tulle",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/correze/cpam-19272-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3646",
+      "url": "https://www.ameli.fr"
+    }
+  },
+  {
+    "id": "484f227095197a911685577cbfca75848fa52b61",
+    "alternateName": "CPAM",
+    "name": "caisse_primaire_dassurance_maladie_cpam_de_corse_du_sud_accueil_de_porto_vecchio",
+    "title": "Caisse primaire d'assurance maladie (CPAM) de Corse-du-Sud - accueil de Porto-Vecchio",
+    "url": "https://lannuaire.service-public.fr/corse/corse-du-sud/cpam-2A247-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3646",
+      "url": "https://www.ameli.fr"
+    }
+  },
+  {
+    "id": "f70b1a358c7c1196f08cbd73812efe2d6ce397cd",
+    "alternateName": "CPAM",
+    "name": "caisse_primaire_dassurance_maladie_cpam_de_corse_du_sud_accueil_de_sartene",
+    "title": "Caisse primaire d'assurance maladie (CPAM) de Corse-du-Sud - accueil de Sartène",
+    "url": "https://lannuaire.service-public.fr/corse/corse-du-sud/cpam-2A272-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3646",
+      "url": "https://www.ameli.fr"
+    }
+  },
+  {
+    "id": "0ae1f79756fca7f4e9010a2c8e4eefe6ee2bf129",
+    "alternateName": "CPAM",
+    "name": "caisse_primaire_dassurance_maladie_cpam_de_corse_du_sud_siege_d_ajaccio",
+    "title": "Caisse primaire d'assurance maladie (CPAM) de Corse-du-Sud - siège d'Ajaccio",
+    "url": "https://lannuaire.service-public.fr/corse/corse-du-sud/cpam-2A004-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3646",
+      "url": "https://www.ameli.fr"
+    }
+  },
+  {
+    "id": "635cc85d10ffb3e8bfa633c5bf8a13e4eeaee3c2",
+    "alternateName": "CPAM",
+    "name": "caisse_primaire_dassurance_maladie_cpam_de_cote_d_or_accueil_d_auxonne",
+    "title": "Caisse primaire d'assurance maladie (CPAM) de Côte-d'Or - accueil d'Auxonne",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/cote-d-or/cpam-21038-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3646",
+      "url": "https://www.ameli.fr"
+    }
+  },
+  {
+    "id": "dff4f8f895bd6a52c1958bcfad2c84bb53fb8c23",
+    "alternateName": "CPAM",
+    "name": "caisse_primaire_dassurance_maladie_cpam_de_cote_d_or_accueil_de_beaune",
+    "title": "Caisse primaire d'assurance maladie (CPAM) de Côte-d'Or - accueil de Beaune",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/cote-d-or/cpam-21054-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3646",
+      "url": "https://www.ameli.fr"
+    }
+  },
+  {
+    "id": "53028799de5eddb7380e6f4e53c79fe1d20df2c1",
+    "alternateName": "CPAM",
+    "name": "caisse_primaire_dassurance_maladie_cpam_de_cote_d_or_accueil_de_dijon_darcy_maret",
+    "title": "Caisse primaire d'assurance maladie (CPAM) de Côte-d'Or - accueil de Dijon - Darcy-Maret",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/cote-d-or/cpam-21231-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3646",
+      "url": "https://www.ameli.fr"
+    }
+  },
+  {
+    "id": "cc9b18568db23ffc2b0aa51e4a9079de0d8bfefd",
+    "alternateName": "CPAM",
+    "name": "caisse_primaire_dassurance_maladie_cpam_de_cote_d_or_accueil_de_dijon_est_champollion_gresilles",
+    "title": "Caisse primaire d'assurance maladie (CPAM) de Côte-d'Or - accueil de Dijon-Est Champollion (Grésilles)",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/cote-d-or/cpam-21231-02",
+    "metadata": {
+      "email": "",
+      "telephone": "3646",
+      "url": "https://www.ameli.fr"
+    }
+  },
+  {
+    "id": "aad9f2cb2ec21c78388e2c22d190ac81b361a2a9",
+    "alternateName": "CPAM",
+    "name": "caisse_primaire_dassurance_maladie_cpam_de_cote_d_or_accueil_de_montbard",
+    "title": "Caisse primaire d'assurance maladie (CPAM) de Côte-d'Or - accueil de Montbard",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/cote-d-or/cpam-21425-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3646",
+      "url": "https://www.ameli.fr"
+    }
+  },
+  {
+    "id": "9814e15468d94362bb4150f0ec6c685db8e9810f",
+    "alternateName": "CPAM",
+    "name": "caisse_primaire_dassurance_maladie_cpam_des_cotes_d_armor_accueil_de_dinan",
+    "title": "Caisse primaire d'assurance maladie (CPAM) des Côtes-d'Armor - accueil de Dinan",
+    "url": "https://lannuaire.service-public.fr/bretagne/cotes-d-armor/cpam-22050-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3646",
+      "url": "https://www.ameli.fr"
+    }
+  },
+  {
+    "id": "d6f786106f39ee61f0196538e263102c5b612304",
+    "alternateName": "CPAM",
+    "name": "caisse_primaire_dassurance_maladie_cpam_des_cotes_d_armor_accueil_de_guingamp",
+    "title": "Caisse primaire d'assurance maladie (CPAM) des Côtes-d'Armor - accueil de Guingamp",
+    "url": "https://lannuaire.service-public.fr/bretagne/cotes-d-armor/cpam-22070-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3646",
+      "url": "https://www.ameli.fr"
+    }
+  },
+  {
+    "id": "7a446b8f1833a38de1c27c889e632c37de79ad6e",
+    "alternateName": "CPAM",
+    "name": "caisse_primaire_dassurance_maladie_cpam_des_cotes_d_armor_accueil_de_lannion",
+    "title": "Caisse primaire d'assurance maladie (CPAM) des Côtes-d'Armor - accueil de Lannion",
+    "url": "https://lannuaire.service-public.fr/bretagne/cotes-d-armor/cpam-22113-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3646",
+      "url": "https://www.ameli.fr"
+    }
+  },
+  {
+    "id": "c7df9636dcd1c00c0d50d08cf4c719659fb4b7da",
+    "alternateName": "CPAM",
+    "name": "caisse_primaire_dassurance_maladie_cpam_des_cotes_d_armor_accueil_de_loudeac",
+    "title": "Caisse primaire d'assurance maladie (CPAM) des Côtes-d'Armor - accueil de Loudéac",
+    "url": "https://lannuaire.service-public.fr/bretagne/cotes-d-armor/cpam-22136-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3646",
+      "url": "https://www.ameli.fr"
+    }
+  },
+  {
+    "id": "15f36735e875571c50d9a77c569d863c5c3725e2",
+    "alternateName": "CPAM",
+    "name": "caisse_primaire_dassurance_maladie_cpam_des_cotes_d_armor_accueil_de_plancoet",
+    "title": "Caisse primaire d'assurance maladie (CPAM) des Côtes-d'Armor - accueil de Plancoët",
+    "url": "https://lannuaire.service-public.fr/bretagne/cotes-d-armor/cpam-22172-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3646",
+      "url": "https://www.ameli.fr"
+    }
+  },
+  {
+    "id": "5651e3ccc85deed6534d1eee2d4072743c9f7b8e",
+    "alternateName": "CPAM",
+    "name": "caisse_primaire_dassurance_maladie_cpam_des_cotes_d_armor_accueil_de_treguier",
+    "title": "Caisse primaire d'assurance maladie (CPAM) des Côtes-d'Armor - accueil de Tréguier",
+    "url": "https://lannuaire.service-public.fr/bretagne/cotes-d-armor/cpam-22362-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3646",
+      "url": "https://www.ameli.fr"
+    }
+  },
+  {
+    "id": "1347071cf75dba9863a096c07de3d71cf90dc8f5",
+    "alternateName": "CPAM",
+    "name": "caisse_primaire_dassurance_maladie_cpam_des_cotes_d_armor_siege_de_saint_brieuc",
+    "title": "Caisse primaire d'assurance maladie (CPAM) des Côtes-d'Armor - siège de Saint-Brieuc",
+    "url": "https://lannuaire.service-public.fr/bretagne/cotes-d-armor/cpam-22278-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3646",
+      "url": "https://www.ameli.fr"
+    }
+  },
+  {
+    "id": "6017623ddfe54c16f946c2369ed0354d29457338",
+    "alternateName": "CPAM",
+    "name": "caisse_primaire_dassurance_maladie_cpam_de_creuse_siege_de_gueret",
+    "title": "Caisse primaire d'assurance maladie (CPAM) de Creuse - siège de Guéret",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/creuse/cpam-23096-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3646",
+      "url": "https://www.ameli.fr"
+    }
+  },
+  {
+    "id": "0177487ede786e402814ca32d58cd2ab578b2a20",
+    "alternateName": "CPAM",
+    "name": "caisse_primaire_dassurance_maladie_cpam_des_deux_sevres_accueil_de_cerizay",
+    "title": "Caisse primaire d'assurance maladie (CPAM) des Deux-Sèvres - accueil de Cerizay",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/deux-sevres/cpam-79062-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3646",
+      "url": "https://www.ameli.fr"
+    }
+  },
+  {
+    "id": "c5052980a5b055cd6a8f6581536a33d3a2d44177",
+    "alternateName": "CPAM",
+    "name": "caisse_primaire_dassurance_maladie_cpam_des_deux_sevres_accueil_de_mauleon",
+    "title": "Caisse primaire d'assurance maladie (CPAM) des Deux-Sèvres - accueil de Mauléon",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/deux-sevres/cpam-79079-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3646",
+      "url": "https://www.ameli.fr"
+    }
+  },
+  {
+    "id": "0c56c5c4f84c2d4bc8bcaf9d41f0a6f2c35ab020",
+    "alternateName": "CPAM",
+    "name": "caisse_primaire_dassurance_maladie_cpam_des_deux_sevres_accueil_de_nueil_les_aubiers",
+    "title": "Caisse primaire d'assurance maladie (CPAM) des Deux-Sèvres - accueil de Nueil-les-Aubiers",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/deux-sevres/cpam-79195-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3646",
+      "url": "https://www.ameli.fr"
+    }
+  },
+  {
+    "id": "9f158753d205fc8ed036723104b68abf3245a65e",
+    "alternateName": "CPAM",
+    "name": "caisse_primaire_dassurance_maladie_cpam_des_deux_sevres_accueil_de_parthenay",
+    "title": "Caisse primaire d'assurance maladie (CPAM) des Deux-Sèvres - accueil de Parthenay",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/deux-sevres/cpam-79202-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3646",
+      "url": "https://www.ameli.fr"
+    }
+  },
+  {
+    "id": "b387b5665f35c01b520fc84ea1743927ac0e2183",
+    "alternateName": "CPAM",
+    "name": "caisse_primaire_dassurance_maladie_cpam_des_deux_sevres_accueil_de_saint_maixent_l_ecole",
+    "title": "Caisse primaire d'assurance maladie (CPAM) des Deux-Sèvres - accueil de Saint-Maixent-l'École",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/deux-sevres/cpam-79270-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3646",
+      "url": "https://www.ameli.fr"
+    }
+  },
+  {
+    "id": "26c32a065f88903cbebc6ac6fffcc760a26e3bed",
+    "alternateName": "CPAM",
+    "name": "caisse_primaire_dassurance_maladie_cpam_des_deux_sevres_accueil_de_saint_martin_les_melle",
+    "title": "Caisse primaire d'assurance maladie (CPAM) des Deux-Sèvres - accueil de Saint-Martin-lès-Melle",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/deux-sevres/cpam-79174-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3646",
+      "url": "https://www.ameli.fr"
+    }
+  },
+  {
+    "id": "7e5e33150473faaa9a1fc7d8d67a32676638c2fb",
+    "alternateName": "CPAM",
+    "name": "caisse_primaire_dassurance_maladie_cpam_des_deux_sevres_accueil_de_sauze_vaussais",
+    "title": "Caisse primaire d'assurance maladie (CPAM) des Deux-Sèvres - accueil de Sauzé-Vaussais",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/deux-sevres/cpam-79307-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3646",
+      "url": "https://www.ameli.fr"
+    }
+  },
+  {
+    "id": "04a277bc0fd03a94b4912ba5d5d2a48ed427de0e",
+    "alternateName": "CPAM",
+    "name": "caisse_primaire_dassurance_maladie_cpam_des_deux_sevres_accueil_de_thouars",
+    "title": "Caisse primaire d'assurance maladie (CPAM) des Deux-Sèvres - accueil de Thouars",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/deux-sevres/cpam-79329-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3646",
+      "url": "https://www.ameli.fr"
+    }
+  },
+  {
+    "id": "355d24cad05e84ac76276be1898cc6a945fe5868",
+    "alternateName": "CPAM",
+    "name": "caisse_primaire_dassurance_maladie_cpam_des_deux_sevres_siege_de_niort",
+    "title": "Caisse primaire d'assurance maladie (CPAM) des Deux-Sèvres - siège de Niort",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/deux-sevres/cpam-79191-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3646",
+      "url": "https://www.ameli.fr"
+    }
+  },
+  {
+    "id": "11278b68d55bef0f594ecd30967476bc60e25d6b",
+    "alternateName": "CPAM",
+    "name": "caisse_primaire_dassurance_maladie_cpam_de_dordogne_accueil_de_bergerac",
+    "title": "Caisse primaire d'assurance maladie (CPAM) de Dordogne - accueil de Bergerac",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/dordogne/cpam-24037-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3646",
+      "url": "https://www.ameli.fr"
+    }
+  },
+  {
+    "id": "f2efc5703aa9dc73860fca1cf1cb8755fc1ac7e3",
+    "alternateName": "CPAM",
+    "name": "caisse_primaire_dassurance_maladie_cpam_de_dordogne_accueil_du_bugue",
+    "title": "Caisse primaire d'assurance maladie (CPAM) de Dordogne - accueil du Bugue",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/dordogne/cpam-24067-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3646",
+      "url": "https://www.ameli.fr"
+    }
+  },
+  {
+    "id": "905eb05197219a078772cda37b75aa1f98872bbf",
+    "alternateName": "CPAM",
+    "name": "caisse_primaire_dassurance_maladie_cpam_de_dordogne_accueil_d_excideuil",
+    "title": "Caisse primaire d'assurance maladie (CPAM) de Dordogne - accueil d'Excideuil",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/dordogne/cpam-24164-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3646",
+      "url": "https://www.ameli.fr"
+    }
+  },
+  {
+    "id": "1e8ceb769c80b85dc6663f49953a97e78d1b37f1",
+    "alternateName": "CPAM",
+    "name": "caisse_primaire_dassurance_maladie_cpam_de_dordogne_accueil_de_hautefort",
+    "title": "Caisse primaire d'assurance maladie (CPAM) de Dordogne - accueil de Hautefort",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/dordogne/cpam-24210-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3646",
+      "url": "https://www.ameli.fr"
+    }
+  },
+  {
+    "id": "4f7bac3cef614ee1a9b4d20d58387f9e1797cb74",
+    "alternateName": "CPAM",
+    "name": "caisse_primaire_dassurance_maladie_cpam_de_dordogne_accueil_de_la_roche_chalais",
+    "title": "Caisse primaire d'assurance maladie (CPAM) de Dordogne - accueil de La Roche-Chalais",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/dordogne/cpam-24354-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3646",
+      "url": "https://www.ameli.fr"
+    }
+  },
+  {
+    "id": "b2dc91861f4ae6831400379003463c4b66ec75b4",
+    "alternateName": "CPAM",
+    "name": "caisse_primaire_dassurance_maladie_cpam_de_dordogne_accueil_de_montpon_menesterol",
+    "title": "Caisse primaire d'assurance maladie (CPAM) de Dordogne - accueil de Montpon-Ménestérol",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/dordogne/cpam-24294-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3646",
+      "url": "https://www.ameli.fr"
+    }
+  },
+  {
+    "id": "b499d48d6df8290f7f839e17873f49cd7ef19a40",
+    "alternateName": "CPAM",
+    "name": "caisse_primaire_dassurance_maladie_cpam_de_dordogne_accueil_de_mussidan",
+    "title": "Caisse primaire d'assurance maladie (CPAM) de Dordogne - accueil de Mussidan",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/dordogne/cpam-24299-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3646",
+      "url": "https://www.ameli.fr"
+    }
+  },
+  {
+    "id": "462c25551639f3eb9fa0655cc76f9d180bcf444e",
+    "alternateName": "CPAM",
+    "name": "caisse_primaire_dassurance_maladie_cpam_de_dordogne_accueil_de_nontron",
+    "title": "Caisse primaire d'assurance maladie (CPAM) de Dordogne - accueil de Nontron",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/dordogne/cpam-24311-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3646",
+      "url": "https://www.ameli.fr"
+    }
+  },
+  {
+    "id": "85b85b6ac8e71f6e2474a892603eaf14e188fe8e",
+    "alternateName": "CPAM",
+    "name": "caisse_primaire_dassurance_maladie_cpam_de_dordogne_accueil_de_riberac",
+    "title": "Caisse primaire d'assurance maladie (CPAM) de Dordogne - accueil de Ribérac",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/dordogne/cpam-24352-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3646",
+      "url": "https://www.ameli.fr"
+    }
+  },
+  {
+    "id": "66ed0284760cebf2a87907e9f98ac18a97df5561",
+    "alternateName": "CPAM",
+    "name": "caisse_primaire_dassurance_maladie_cpam_de_dordogne_accueil_de_saint_astier",
+    "title": "Caisse primaire d'assurance maladie (CPAM) de Dordogne - accueil de Saint-Astier",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/dordogne/cpam-24372-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3646",
+      "url": "https://www.ameli.fr"
+    }
+  },
+  {
+    "id": "c1025ba9b4dbb34da6c071b0efdfbe23d04dbda8",
+    "alternateName": "CPAM",
+    "name": "caisse_primaire_dassurance_maladie_cpam_de_dordogne_accueil_de_sarlat_la_caneda",
+    "title": "Caisse primaire d'assurance maladie (CPAM) de Dordogne - accueil de Sarlat-la-Caneda",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/dordogne/cpam-24520-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3646",
+      "url": "https://www.ameli.fr"
+    }
+  },
+  {
+    "id": "938e37398b128116c0063a913c874033a37d646d",
+    "alternateName": "CPAM",
+    "name": "caisse_primaire_dassurance_maladie_cpam_de_dordogne_accueil_de_terrasson_lavilledieu",
+    "title": "Caisse primaire d'assurance maladie (CPAM) de Dordogne - accueil de Terrasson-Lavilledieu",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/dordogne/cpam-24547-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3646",
+      "url": "https://www.ameli.fr"
+    }
+  },
+  {
+    "id": "7f76976445d5b35d46ff1b7f335685101514204e",
+    "alternateName": "CPAM",
+    "name": "caisse_primaire_dassurance_maladie_cpam_de_dordogne_accueil_de_thenon",
+    "title": "Caisse primaire d'assurance maladie (CPAM) de Dordogne - accueil de Thenon",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/dordogne/cpam-24550-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3646",
+      "url": "https://www.ameli.fr"
+    }
+  },
+  {
+    "id": "bb8029f4629faddc4e6f5c8d479ab1992d82dd35",
+    "alternateName": "CPAM",
+    "name": "caisse_primaire_dassurance_maladie_cpam_de_dordogne_accueil_de_thiviers",
+    "title": "Caisse primaire d'assurance maladie (CPAM) de Dordogne - accueil de Thiviers",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/dordogne/cpam-24551-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3646",
+      "url": "https://www.ameli.fr"
+    }
+  },
+  {
+    "id": "ebd0c6c3f9fe07c2b3573b163e5143d9347bb35e",
+    "alternateName": "CPAM",
+    "name": "caisse_primaire_dassurance_maladie_cpam_de_dordogne_siege_de_perigueux",
+    "title": "Caisse primaire d'assurance maladie (CPAM) de Dordogne - siège de Périgueux",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/dordogne/cpam-24322-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3646",
+      "url": "https://www.ameli.fr"
+    }
+  },
+  {
+    "id": "5f1bbab9025ba5fdefc157942a4c6394c902806d",
+    "alternateName": "CPAM",
+    "name": "caisse_primaire_dassurance_maladie_cpam_du_doubs_accueil_d_audincourt",
+    "title": "Caisse primaire d'assurance maladie (CPAM) du Doubs - accueil d'Audincourt",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/doubs/cpam-25031-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3646",
+      "url": "https://www.ameli.fr"
+    }
+  },
+  {
+    "id": "5d26063a7260b981c6972b6d456c6551930ba9e3",
+    "alternateName": "CPAM",
+    "name": "caisse_primaire_dassurance_maladie_cpam_du_doubs_accueil_de_montbeliard",
+    "title": "Caisse primaire d'assurance maladie (CPAM) du Doubs - accueil de Montbéliard",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/doubs/cpam-25388-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3646",
+      "url": "https://www.ameli.fr"
+    }
+  },
+  {
+    "id": "e56a90bcf4825abaa7b911b71f5c19e65bda722f",
+    "alternateName": "CPAM",
+    "name": "caisse_primaire_dassurance_maladie_cpam_du_doubs_accueil_de_morteau",
+    "title": "Caisse primaire d'assurance maladie (CPAM) du Doubs - accueil de Morteau",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/doubs/cpam-25411-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3646",
+      "url": "https://www.ameli.fr"
+    }
+  },
+  {
+    "id": "913d862098fd663a41ab0217cb482fd033cd8a51",
+    "alternateName": "CPAM",
+    "name": "caisse_primaire_dassurance_maladie_cpam_du_doubs_accueil_de_pontarlier",
+    "title": "Caisse primaire d'assurance maladie (CPAM) du Doubs - accueil de Pontarlier",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/doubs/cpam-25462-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3646",
+      "url": "https://www.ameli.fr"
+    }
+  },
+  {
+    "id": "332d4504e9ceb0554aab82e95e1d8eee437ccf2a",
+    "alternateName": "CPAM",
+    "name": "caisse_primaire_dassurance_maladie_cpam_du_doubs_siege_de_besancon",
+    "title": "Caisse primaire d'assurance maladie (CPAM) du Doubs - siège de Besançon",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/doubs/cpam-25056-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3646",
+      "url": "https://www.ameli.fr"
+    }
+  },
+  {
+    "id": "eaaee50c60b301c930cad3447bb5161587a97612",
+    "alternateName": "CPAM",
+    "name": "caisse_primaire_dassurance_maladie_cpam_d_eure_et_loir_accueil_de_chartres",
+    "title": "Caisse primaire d'assurance maladie (CPAM) d'Eure-et-Loir - accueil de Chartres",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/eure-et-loir/cpam-28085-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3646",
+      "url": "https://www.ameli.fr"
+    }
+  },
+  {
+    "id": "7188ef3fdf93bf8b1e9cd1435c66d50cd911da72",
+    "alternateName": "CPAM",
+    "name": "caisse_primaire_dassurance_maladie_cpam_d_eure_et_loir_accueil_de_chateaudun",
+    "title": "Caisse primaire d'assurance maladie (CPAM) d'Eure-et-Loir - accueil de Châteaudun",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/eure-et-loir/cpam-28088-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3646",
+      "url": "https://www.ameli.fr"
+    }
+  },
+  {
+    "id": "cba2576bfa602d9b2959cc39584520637ca980ae",
+    "alternateName": "CPAM",
+    "name": "caisse_primaire_dassurance_maladie_cpam_d_eure_et_loir_accueil_de_dreux",
+    "title": "Caisse primaire d'assurance maladie (CPAM) d'Eure-et-Loir - accueil de Dreux",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/eure-et-loir/cpam-28134-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3646",
+      "url": "https://www.ameli.fr"
+    }
+  },
+  {
+    "id": "08152a9251fae511dbb3a13be51da7ffbde14cd4",
+    "alternateName": "CPAM",
+    "name": "caisse_primaire_dassurance_maladie_cpam_d_eure_et_loir_accueil_de_luce",
+    "title": "Caisse primaire d'assurance maladie (CPAM) d'Eure-et-Loir - accueil de Lucé",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/eure-et-loir/cpam-28218-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3646",
+      "url": "https://www.ameli.fr"
+    }
+  },
+  {
+    "id": "aa054b640a4c46bf39b423a0b1d1bb9eaa987286",
+    "alternateName": "CPAM",
+    "name": "caisse_primaire_dassurance_maladie_cpam_d_eure_et_loir_accueil_de_maintenon",
+    "title": "Caisse primaire d'assurance maladie (CPAM) d'Eure-et-Loir - accueil de Maintenon",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/eure-et-loir/cpam-28227-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3646",
+      "url": "https://www.ameli.fr"
+    }
+  },
+  {
+    "id": "ed5ee163b1f75ad609561430cf2d73a329a9f040",
+    "alternateName": "CPAM",
+    "name": "caisse_primaire_dassurance_maladie_cpam_d_eure_et_loir_accueil_de_nogent_le_rotrou",
+    "title": "Caisse primaire d'assurance maladie (CPAM) d'Eure-et-Loir - accueil de Nogent-le-Rotrou",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/eure-et-loir/cpam-28280-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3646",
+      "url": "https://www.ameli.fr"
+    }
+  },
+  {
+    "id": "af352ae0d1ee77da9025011762514e03d82b83de",
+    "alternateName": "CPAM",
+    "name": "caisse_primaire_dassurance_maladie_cpam_d_eure_et_loir_accueil_de_saint_lubin_des_joncherets",
+    "title": "Caisse primaire d'assurance maladie (CPAM) d'Eure-et-Loir - accueil de Saint-Lubin-des-Joncherets",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/eure-et-loir/cpam-28348-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3646",
+      "url": "https://www.ameli.fr"
+    }
+  },
+  {
+    "id": "65beb7c261a3a1e77a793ce2ec28d6651c475e71",
+    "alternateName": "CPAM",
+    "name": "caisse_primaire_dassurance_maladie_cpam_du_finistere_accueil_de_brest_square_marc_sangnier",
+    "title": "Caisse primaire d'assurance maladie (CPAM) du Finistère - accueil de Brest - Square Marc-Sangnier",
+    "url": "https://lannuaire.service-public.fr/bretagne/finistere/cpam-29019-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3646",
+      "url": "https://www.ameli.fr"
+    }
+  },
+  {
+    "id": "3f34be6fd53df7d796f0904898f61cfe738f14ec",
+    "alternateName": "CPAM",
+    "name": "caisse_primaire_dassurance_maladie_cpam_du_finistere_accueil_de_carhaix_plouguer",
+    "title": "Caisse primaire d'assurance maladie (CPAM) du Finistère - accueil de Carhaix-Plouguer",
+    "url": "https://lannuaire.service-public.fr/bretagne/finistere/cpam-29024-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3646",
+      "url": "https://www.ameli.fr"
+    }
+  },
+  {
+    "id": "bde6d7282dfe444db705146549e29e7cea848da0",
+    "alternateName": "CPAM",
+    "name": "caisse_primaire_dassurance_maladie_cpam_du_finistere_accueil_de_chateaulin",
+    "title": "Caisse primaire d'assurance maladie (CPAM) du Finistère - accueil de Châteaulin",
+    "url": "https://lannuaire.service-public.fr/bretagne/finistere/cpam-29026-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3646",
+      "url": "https://www.ameli.fr"
+    }
+  },
+  {
+    "id": "6162aa82810df4ef7c693dd422e01bef8d9b5866",
+    "alternateName": "CPAM",
+    "name": "caisse_primaire_dassurance_maladie_cpam_du_finistere_accueil_de_concarneau",
+    "title": "Caisse primaire d'assurance maladie (CPAM) du Finistère - accueil de Concarneau",
+    "url": "https://lannuaire.service-public.fr/bretagne/finistere/cpam-29039-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3646",
+      "url": "https://www.ameli.fr"
+    }
+  },
+  {
+    "id": "28673a271aeddcaf734960d8c583dff8cb140f97",
+    "alternateName": "CPAM",
+    "name": "caisse_primaire_dassurance_maladie_cpam_du_finistere_accueil_de_crozon",
+    "title": "Caisse primaire d'assurance maladie (CPAM) du Finistère - accueil de Crozon",
+    "url": "https://lannuaire.service-public.fr/bretagne/finistere/cpam-29042-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3646",
+      "url": "https://www.ameli.fr"
+    }
+  },
+  {
+    "id": "527f4938524573a95ec1731c6aa37ee998b36baf",
+    "alternateName": "CPAM",
+    "name": "caisse_primaire_dassurance_maladie_cpam_du_finistere_accueil_de_douarnenez",
+    "title": "Caisse primaire d'assurance maladie (CPAM) du Finistère - accueil de Douarnenez",
+    "url": "https://lannuaire.service-public.fr/bretagne/finistere/cpam-29046-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3646",
+      "url": "https://www.ameli.fr"
+    }
+  },
+  {
+    "id": "0adfbcb0506f07acef87eefc16c44bd0b94d507e",
+    "alternateName": "CPAM",
+    "name": "caisse_primaire_dassurance_maladie_cpam_du_finistere_accueil_de_landerneau",
+    "title": "Caisse primaire d'assurance maladie (CPAM) du Finistère - accueil de Landerneau",
+    "url": "https://lannuaire.service-public.fr/bretagne/finistere/cpam-29103-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3646",
+      "url": "https://www.ameli.fr"
+    }
+  },
+  {
+    "id": "78c1dc8aacc5b05738efed42e680c06ef36d7435",
+    "alternateName": "CPAM",
+    "name": "caisse_primaire_dassurance_maladie_cpam_du_finistere_accueil_de_landivisiau",
+    "title": "Caisse primaire d'assurance maladie (CPAM) du Finistère - accueil de Landivisiau",
+    "url": "https://lannuaire.service-public.fr/bretagne/finistere/cpam-29105-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3646",
+      "url": "https://www.ameli.fr"
+    }
+  },
+  {
+    "id": "9a810211b64ecfa30f3e9ad70925c3c523cadb0f",
+    "alternateName": "CPAM",
+    "name": "caisse_primaire_dassurance_maladie_cpam_du_finistere_accueil_de_lesneven",
+    "title": "Caisse primaire d'assurance maladie (CPAM) du Finistère - accueil de Lesneven",
+    "url": "https://lannuaire.service-public.fr/bretagne/finistere/cpam-29124-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3646",
+      "url": "https://www.ameli.fr"
+    }
+  },
+  {
+    "id": "c81e86f15a12d63cfd821fd2efef8d8bcc3e8025",
+    "alternateName": "CPAM",
+    "name": "caisse_primaire_dassurance_maladie_cpam_du_finistere_accueil_de_morlaix",
+    "title": "Caisse primaire d'assurance maladie (CPAM) du Finistère - accueil de Morlaix",
+    "url": "https://lannuaire.service-public.fr/bretagne/finistere/cpam-29151-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3646",
+      "url": "https://www.ameli.fr"
+    }
+  },
+  {
+    "id": "277f67c2dec6b644b580ce960209d4773cf0947d",
+    "alternateName": "CPAM",
+    "name": "caisse_primaire_dassurance_maladie_cpam_du_finistere_accueil_de_pont_l_abbe",
+    "title": "Caisse primaire d'assurance maladie (CPAM) du Finistère - accueil de Pont-l'Abbé",
+    "url": "https://lannuaire.service-public.fr/bretagne/finistere/cpam-29220-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3646",
+      "url": "https://www.ameli.fr"
+    }
+  },
+  {
+    "id": "b6907034ee4e3a0e1dd9d807e261b61bf850c4e0",
+    "alternateName": "CPAM",
+    "name": "caisse_primaire_dassurance_maladie_cpam_du_finistere_accueil_de_quimper",
+    "title": "Caisse primaire d'assurance maladie (CPAM) du Finistère - accueil de Quimper",
+    "url": "https://lannuaire.service-public.fr/bretagne/finistere/cpam-29232-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3646",
+      "url": "https://www.ameli.fr"
+    }
+  },
+  {
+    "id": "0e60f32dc95346ada1a55ff226c29943a206d57f",
+    "alternateName": "CPAM",
+    "name": "caisse_primaire_dassurance_maladie_cpam_du_finistere_accueil_de_quimperle",
+    "title": "Caisse primaire d'assurance maladie (CPAM) du Finistère - accueil de Quimperlé",
+    "url": "https://lannuaire.service-public.fr/bretagne/finistere/cpam-29233-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3646",
+      "url": "https://www.ameli.fr"
+    }
+  },
+  {
+    "id": "d3819b7c9da131921595b6eba8d67a826a52364e",
+    "alternateName": "CPAM",
+    "name": "caisse_primaire_dassurance_maladie_cpam_du_finistere_accueil_de_saint_pol_de_leon",
+    "title": "Caisse primaire d'assurance maladie (CPAM) du Finistère - accueil de Saint-Pol-de-Léon",
+    "url": "https://lannuaire.service-public.fr/bretagne/finistere/cpam-29259-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3646",
+      "url": "https://www.ameli.fr"
+    }
+  },
+  {
+    "id": "b0a0660dac9d88d144b16aa6b441b8e03991cd46",
+    "alternateName": "CPAM",
+    "name": "caisse_primaire_dassurance_maladie_cpam_du_finistere_siege_de_brest_bellevue",
+    "title": "Caisse primaire d'assurance maladie (CPAM) du Finistère - siège de Brest - Bellevue",
+    "url": "https://lannuaire.service-public.fr/bretagne/finistere/cpam-29019-02",
+    "metadata": {
+      "email": "",
+      "telephone": "3646",
+      "url": "https://www.ameli.fr"
+    }
+  },
+  {
+    "id": "9d898478a968b9a420d43acf81fca366b94df539",
+    "alternateName": "CPAM",
+    "name": "caisse_primaire_dassurance_maladie_cpam_de_fives_accueil_de_lille",
+    "title": "Caisse primaire d'assurance maladie (CPAM) de Fives - accueil de Lille",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/nord/cpam-59350-02",
+    "metadata": {
+      "email": "",
+      "telephone": "3646",
+      "url": "https://www.ameli.fr"
+    }
+  },
+  {
+    "id": "483f0a4734c215bc39241941eefd159c2fb0375e",
+    "alternateName": "CPAM",
+    "name": "caisse_primaire_dassurance_maladie_cpam_de_flandres_dunkerque_armentieres_accueil_d_armentieres",
+    "title": "Caisse primaire d'assurance maladie (CPAM) de Flandres-Dunkerque-Armentières - accueil d'Armentières",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/nord/cpam-59017-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3646",
+      "url": "https://www.ameli.fr"
+    }
+  },
+  {
+    "id": "990b3d8814431d0f3b7c73eed82a50e39cbebbbe",
+    "alternateName": "CPAM",
+    "name": "caisse_primaire_dassurance_maladie_cpam_de_flandres_dunkerque_armentieres_accueil_de_bailleul",
+    "title": "Caisse primaire d'assurance maladie (CPAM) de Flandres-Dunkerque-Armentières - accueil de Bailleul",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/nord/cpam-59043-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3646",
+      "url": "https://www.ameli.fr"
+    }
+  },
+  {
+    "id": "aa1e3347adda61916041df78af0074482e51520f",
+    "alternateName": "CPAM",
+    "name": "caisse_primaire_dassurance_maladie_cpam_de_flandres_dunkerque_armentieres_accueil_de_bourbourg",
+    "title": "Caisse primaire d'assurance maladie (CPAM) de Flandres-Dunkerque-Armentières - accueil de Bourbourg",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/nord/cpam-59094-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3646",
+      "url": "https://www.ameli.fr"
+    }
+  },
+  {
+    "id": "ade21e4fe18413b1a3fde598119d78f9a5b7fccc",
+    "alternateName": "CPAM",
+    "name": "caisse_primaire_dassurance_maladie_cpam_de_flandres_dunkerque_armentieres_accueil_de_grande_synthe",
+    "title": "Caisse primaire d'assurance maladie (CPAM) de Flandres-Dunkerque-Armentières - accueil de Grande-Synthe",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/nord/cpam-59271-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3646",
+      "url": "https://www.ameli.fr"
+    }
+  },
+  {
+    "id": "079ab0d7079180e946ec21315cb7c74ed3329d6f",
+    "alternateName": "CPAM",
+    "name": "caisse_primaire_dassurance_maladie_cpam_de_flandres_dunkerque_armentieres_accueil_de_hazebrouck",
+    "title": "Caisse primaire d'assurance maladie (CPAM) de Flandres-Dunkerque-Armentières - accueil de Hazebrouck",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/nord/cpam-59295-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3646",
+      "url": "https://www.ameli.fr"
+    }
+  },
+  {
+    "id": "08075a283b348a3a559492b6d61d0d7660ba359d",
+    "alternateName": "CPAM",
+    "name": "caisse_primaire_dassurance_maladie_cpam_de_flandres_dunkerque_armentieres_accueil_de_merville",
+    "title": "Caisse primaire d'assurance maladie (CPAM) de Flandres-Dunkerque-Armentières - accueil de Merville",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/nord/cpam-59400-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3646",
+      "url": "https://www.ameli.fr"
+    }
+  },
+  {
+    "id": "221fefb98404acf97b38cd4a0a6c3d2a5694a34b",
+    "alternateName": "CPAM",
+    "name": "caisse_primaire_dassurance_maladie_cpam_de_flandres_dunkerque_armentieres_accueil_de_perenchies",
+    "title": "Caisse primaire d'assurance maladie (CPAM) de Flandres-Dunkerque-Armentières - accueil de Pérenchies",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/nord/cpam-59457-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3646",
+      "url": "https://www.ameli.fr"
+    }
+  },
+  {
+    "id": "48e2568970bd37be5cffa0faec320c87dd842553",
+    "alternateName": "CPAM",
+    "name": "caisse_primaire_dassurance_maladie_cpam_de_flandres_dunkerque_armentieres_accueil_de_wormhout",
+    "title": "Caisse primaire d'assurance maladie (CPAM) de Flandres-Dunkerque-Armentières - accueil de Wormhout",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/nord/cpam-59663-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3646",
+      "url": "https://www.ameli.fr"
+    }
+  },
+  {
+    "id": "1a1275cc7fe6b65b598cc3a641f5a3f1235d9262",
+    "alternateName": "CPAM",
+    "name": "caisse_primaire_dassurance_maladie_cpam_de_flandres_dunkerque_armentieres_siege_de_dunkerque",
+    "title": "Caisse primaire d'assurance maladie (CPAM) de Flandres-Dunkerque-Armentières - siège de Dunkerque",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/nord/cpam-59183-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3646",
+      "url": "https://www.ameli.fr"
+    }
+  },
+  {
+    "id": "058a89427ae07ddf70719dbe33aad51c79b9bdd0",
+    "alternateName": "CPAM",
+    "name": "caisse_primaire_dassurance_maladie_cpam_du_gard_accueil_d_aigues_mortes",
+    "title": "Caisse primaire d'assurance maladie (CPAM) du Gard - accueil d'Aigues-Mortes",
+    "url": "https://lannuaire.service-public.fr/occitanie/gard/cpam-30003-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3646",
+      "url": "https://www.ameli.fr"
+    }
+  },
+  {
+    "id": "c822daf667e17b3ef9be7b47c5e037526b45ad74",
+    "alternateName": "CPAM",
+    "name": "caisse_primaire_dassurance_maladie_cpam_du_gard_accueil_d_ales",
+    "title": "Caisse primaire d'assurance maladie (CPAM) du Gard - accueil d'Alès",
+    "url": "https://lannuaire.service-public.fr/occitanie/gard/cpam-30007-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3646",
+      "url": "https://www.ameli.fr"
+    }
+  },
+  {
+    "id": "cadf089cf749d30d055486964239ec7615ca2901",
+    "alternateName": "CPAM",
+    "name": "caisse_primaire_dassurance_maladie_cpam_du_gard_accueil_de_bagnols_sur_ceze",
+    "title": "Caisse primaire d'assurance maladie (CPAM) du Gard - accueil de Bagnols-sur-Cèze",
+    "url": "https://lannuaire.service-public.fr/occitanie/gard/cpam-30028-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3646",
+      "url": "https://www.ameli.fr"
+    }
+  },
+  {
+    "id": "b645867d818d46d7b5054b2200865797966b7d5e",
+    "alternateName": "CPAM",
+    "name": "caisse_primaire_dassurance_maladie_cpam_du_gard_accueil_de_beaucaire",
+    "title": "Caisse primaire d'assurance maladie (CPAM) du Gard - accueil de Beaucaire",
+    "url": "https://lannuaire.service-public.fr/occitanie/gard/cpam-30032-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3646",
+      "url": "https://www.ameli.fr"
+    }
+  }
+]

@@ -1,0 +1,1983 @@
+[
+  {
+    "id": "45a48c64c70d528c8198d40ca3976f74d1e20567",
+    "alternateName": "ADIIJ",
+    "name": "association_departementale_information_initiative_jeunesse_adiij_grenoble",
+    "title": "Association départementale information initiative jeunesse - (ADIIJ) - Grenoble",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/isere/cij-38185-01",
+    "metadata": {
+      "email": "contact@adiij.fr",
+      "telephone": "04 76 86 56 00",
+      "url": "https://isere.info-jeunes.fr"
+    }
+  },
+  {
+    "id": "0c5dbac8bb3282cb9e738cfca9da73722db30d6f",
+    "name": "bureau_information_jeunesse_acheres",
+    "title": "Bureau information jeunesse - Achères",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/yvelines/cij-78005-01",
+    "metadata": {
+      "email": "bij@mairie-acheres78.fr",
+      "telephone": "01 30 06 77 14",
+      "url": "http://www.mairie-acheres.fr"
+    }
+  },
+  {
+    "id": "4d8bd98d2655fe9645051a311f7064a0c6002d7d",
+    "name": "bureau_information_jeunesse_agen",
+    "title": "Bureau information jeunesse - Agen",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/lot-et-garonne/cij-47001-01",
+    "metadata": {
+      "email": "pointjeunes@agglo-agen.fr",
+      "telephone": "05 53 67 69 78",
+      "url": "http://www.agen.fr"
+    }
+  },
+  {
+    "id": "7685af8b22dd0b5eee590207e9b2e1b42dc54122",
+    "name": "bureau_information_jeunesse_alencon",
+    "title": "Bureau information jeunesse - Alençon",
+    "url": "https://lannuaire.service-public.fr/normandie/orne/cij-61001-01",
+    "metadata": {
+      "email": "contact@bij-orne.com",
+      "telephone": "02 33 80 48 90",
+      "url": "http://www.bij-orne.com"
+    }
+  },
+  {
+    "id": "4ba9d01a2a0cbeca0ffe9a3fea143beee9f78edb",
+    "name": "bureau_information_jeunesse_ambares_et_lagrave",
+    "title": "Bureau information jeunesse - Ambarès-et-Lagrave",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/gironde/cij-33003-01",
+    "metadata": {
+      "email": "contact@cscdm.fr",
+      "telephone": "05 56 77 62 64",
+      "url": ""
+    }
+  },
+  {
+    "id": "72ec8ba50d56ce66902c7b29c7bc921176653ebc",
+    "name": "bureau_information_jeunesse_annecy",
+    "title": "Bureau information jeunesse - Annecy",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/haute-savoie/cij-74010-01",
+    "metadata": {
+      "email": "infojeunes@annecy.fr",
+      "telephone": "04 50 33 87 40",
+      "url": "http://www.infojeunes.annecy.fr"
+    }
+  },
+  {
+    "id": "96d67f334095714861f01969bf0a055cc0ec1f1c",
+    "name": "bureau_information_jeunesse_antibes",
+    "title": "Bureau information jeunesse - Antibes",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/alpes-maritimes/cij-06004-01",
+    "metadata": {
+      "email": "accueil.bij@ville-antibes.fr",
+      "telephone": "04 92 90 52 38",
+      "url": "http://www.antibes-juanlespins.com"
+    }
+  },
+  {
+    "id": "2b8dbbca9dd99760685dcac1205b2621cc7e0e77",
+    "name": "bureau_information_jeunesse_antony",
+    "title": "Bureau information jeunesse - Antony",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/hauts-de-seine/cij-92002-01",
+    "metadata": {
+      "email": "espace-jeunes@ville-antony.fr",
+      "telephone": "01 40 96 73 77",
+      "url": "http://www.ville-antony.fr"
+    }
+  },
+  {
+    "id": "57fe60dbb2f85a95963223aa5ac138ac07c5ae74",
+    "name": "bureau_information_jeunesse_argentiere_la_bessee",
+    "title": "Bureau information jeunesse - Argentière-la-Bessée",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/hautes-alpes/cij-05006-01",
+    "metadata": {
+      "email": "msap@cc-paysdesecrins.com",
+      "telephone": "04 92 23 06 21",
+      "url": "http://www.cc-paysdesecrins.com"
+    }
+  },
+  {
+    "id": "2bab4710df679f69790d3cdb5dc4bb8a6db5d09e",
+    "name": "bureau_information_jeunesse_armentieres",
+    "title": "Bureau information jeunesse - Armentières",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/nord/cij-59017-01",
+    "metadata": {
+      "email": "bij@ville-armentieres.fr",
+      "telephone": "03 61 76 08 30",
+      "url": "http://www.armentieres.fr"
+    }
+  },
+  {
+    "id": "ec6fc2f63180cd6e9eea118043b58f0378e9e9fe",
+    "name": "bureau_information_jeunesse_aubergenville",
+    "title": "Bureau information jeunesse - Aubergenville",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/yvelines/cij-78029-01",
+    "metadata": {
+      "email": "mbozza@aubergenville.fr",
+      "telephone": "01 30 90 36 63",
+      "url": "http://www.aubergenville.fr"
+    }
+  },
+  {
+    "id": "2fe69aa6e1b5f9abc0a1f2fc29cf6611f8decc98",
+    "name": "bureau_information_jeunesse_auch",
+    "title": "Bureau information jeunesse - Auch",
+    "url": "https://lannuaire.service-public.fr/occitanie/gers/cij-32013-01",
+    "metadata": {
+      "email": "bij@imaj32.fr",
+      "telephone": "05 62 60 21 21",
+      "url": "http://www.imaj32.fr"
+    }
+  },
+  {
+    "id": "9c2ab9751080d815ddc08d5fde4e48e45f29b030",
+    "name": "bureau_information_jeunesse_aulnay_sous_bois",
+    "title": "Bureau information jeunesse - Aulnay-sous-Bois",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/seine-saint-denis/cij-93005-01",
+    "metadata": {
+      "email": "bij@aulnay-sous-bois.com",
+      "telephone": "01 48 79 63 34",
+      "url": ""
+    }
+  },
+  {
+    "id": "68b6578aba1fcf2d7c862d965a07696f9e258d02",
+    "name": "bureau_information_jeunesse_avignon",
+    "title": "Bureau information jeunesse - Avignon",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/vaucluse/cij-84007-01",
+    "metadata": {
+      "email": "espace.infojeunes@mairie-avignon.com",
+      "telephone": "04 90 14 04 05",
+      "url": "http://avignon.fr"
+    }
+  },
+  {
+    "id": "43ae7bccddbae13066944bed90fba2d808ccad10",
+    "name": "bureau_information_jeunesse_bayonne",
+    "title": "Bureau information jeunesse - Bayonne",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/pyrenees-atlantiques/cij-64102-01",
+    "metadata": {
+      "email": "bij@bayonne.fr",
+      "telephone": "05 59 59 35 29",
+      "url": "http://www.bayonne.fr"
+    }
+  },
+  {
+    "id": "8be9d38e8368ea3990efb8a82e2dc1b3aed632a5",
+    "name": "bureau_information_jeunesse_beausset",
+    "title": "Bureau information jeunesse - Beausset",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/var/cij-83016-01",
+    "metadata": {
+      "email": "bij@ville-lebeausset.fr",
+      "telephone": "04 94 02 39 23",
+      "url": "http://www.ijca.fr"
+    }
+  },
+  {
+    "id": "0ecef46e3d2cf2213b6a179f341cb067bd3cc112",
+    "name": "bureau_information_jeunesse_beauvais",
+    "title": "Bureau information jeunesse - Beauvais",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/oise/cij-60057-01",
+    "metadata": {
+      "email": "blog46beauvais@gmail.com",
+      "telephone": "03 44 45 20 07",
+      "url": "http://blog46.beauvais.fr"
+    }
+  },
+  {
+    "id": "434ef2cdd7968a191c3144687ebe5c0a7c0429d5",
+    "name": "bureau_information_jeunesse_begles",
+    "title": "Bureau information jeunesse - Bègles",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/gironde/cij-33039-01",
+    "metadata": {
+      "email": "bij@mairie-begles.fr",
+      "telephone": "05 56 49 06 34",
+      "url": "http://www.mairie-begles.fr"
+    }
+  },
+  {
+    "id": "3e4a67493408ceeb8bef5292579be182ff7e4e02",
+    "name": "bureau_information_jeunesse_belfort",
+    "title": "Bureau information jeunesse - Belfort",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/territoire-de-belfort/cij-90010-01",
+    "metadata": {
+      "email": "bij@mairie-belfort.fr",
+      "telephone": "03 84 90 11 11",
+      "url": "http://www.ijbelfort.com"
+    }
+  },
+  {
+    "id": "f6477e9be2c945aca980065a9dfbb43fc621f7b5",
+    "name": "bureau_information_jeunesse_bergerac",
+    "title": "Bureau information jeunesse - Bergerac",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/dordogne/cij-24037-01",
+    "metadata": {
+      "email": "bij@la-cab.fr",
+      "telephone": "05 53 58 11 77",
+      "url": "http://www.la-cab.fr"
+    }
+  },
+  {
+    "id": "3f1aa91f8b5e576125e2a1c95eb5bb7e8bf5a674",
+    "name": "bureau_information_jeunesse_biarritz",
+    "title": "Bureau information jeunesse - Biarritz",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/pyrenees-atlantiques/cij-64122-01",
+    "metadata": {
+      "email": "bij@biarritz.fr",
+      "telephone": "05 59 41 01 67",
+      "url": "http://www.biarritz.fr"
+    }
+  },
+  {
+    "id": "5167640e859f80c0c4941d957417baf877bddd41",
+    "name": "bureau_information_jeunesse_blanquefort",
+    "title": "Bureau information jeunesse - Blanquefort",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/gironde/cij-33056-01",
+    "metadata": {
+      "email": "actionjeunesse.abc@wanadoo.fr",
+      "telephone": "05 57 93 12 93",
+      "url": "http://abc-blanquefort.fr"
+    }
+  },
+  {
+    "id": "02ce0b824b4d1b80598f05bb30aa2a218d41df24",
+    "name": "bureau_information_jeunesse_blois",
+    "title": "Bureau information jeunesse - Blois",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/loir-et-cher/cij-41018-01",
+    "metadata": {
+      "email": "contact@infojeune41.org",
+      "telephone": "02 54 78 54 87",
+      "url": "http://www.infojeune41.org"
+    }
+  },
+  {
+    "id": "02ce0b824b4d1b80598f05bb30aa2a218d41df24",
+    "name": "bureau_information_jeunesse_blois",
+    "title": "Bureau information jeunesse - Blois",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/loir-et-cher/cij-41018-02",
+    "metadata": {
+      "email": "contact@infojeune41.org",
+      "telephone": "02 54 78 54 87",
+      "url": "http://www.infojeune41.org"
+    }
+  },
+  {
+    "id": "30cb6df2fad2b16d934152d80d6486327357be66",
+    "name": "bureau_information_jeunesse_bois_colombes",
+    "title": "Bureau information jeunesse - Bois-Colombes",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/hauts-de-seine/cij-92009-01",
+    "metadata": {
+      "email": "bij@bois-colombes.com",
+      "telephone": "01 84 11 74 48",
+      "url": "http://www.bois-colombes.com"
+    }
+  },
+  {
+    "id": "8c7ffc67302dcb977c6f38b2931cdce7c10e445a",
+    "name": "bureau_information_jeunesse_bondy",
+    "title": "Bureau information jeunesse - Bondy",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/seine-saint-denis/cij-93010-01",
+    "metadata": {
+      "email": "k.tabouri@ville-bondy.fr",
+      "telephone": "01 71 86 64 30",
+      "url": "http://www.ville-bondy.fr"
+    }
+  },
+  {
+    "id": "02eb479d513f9eacfb6bec067c5a56e6d1e08784",
+    "name": "bureau_information_jeunesse_boulogne_billancourt",
+    "title": "Bureau information jeunesse - Boulogne-Billancourt",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/hauts-de-seine/cij-92012-01",
+    "metadata": {
+      "email": "bij@mairie-boulogne-billancourt.fr",
+      "telephone": "01 55 18 61 47",
+      "url": "http://www.boulognebillancourt.com"
+    }
+  },
+  {
+    "id": "7b173aed09c415c2324eada356edd1748c91da67",
+    "name": "bureau_information_jeunesse_bourg_en_bresse",
+    "title": "Bureau information jeunesse - Bourg-en-Bresse",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/ain/cij-01053-01",
+    "metadata": {
+      "email": "bij@mife01.org",
+      "telephone": "04 74 24 43 45",
+      "url": "http://www.jeunes01.fr"
+    }
+  },
+  {
+    "id": "cab064fde438f2b38755c6e5eed1f15ca8ad9c48",
+    "name": "bureau_information_jeunesse_bourges",
+    "title": "Bureau information jeunesse - Bourges",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/cher/cij-18033-01",
+    "metadata": {
+      "email": "bij@ville-bourges.fr",
+      "telephone": "02 48 24 77 19",
+      "url": "http://www.ville-bourges.fr"
+    }
+  },
+  {
+    "id": "8058d157b54b9820bdab32fb7e600d0d13947d0f",
+    "name": "bureau_information_jeunesse_bourgoin_jallieu",
+    "title": "Bureau information jeunesse - Bourgoin-Jallieu",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/isere/cij-38053-01",
+    "metadata": {
+      "email": "bij@bourgoinjallieu.fr",
+      "telephone": "04 74 19 08 20",
+      "url": "http://www.bourgoinjallieu.fr"
+    }
+  },
+  {
+    "id": "8a894ce7c49939302e672b1a5c4ca8685f1f888a",
+    "name": "bureau_information_jeunesse_bouscat",
+    "title": "Bureau information jeunesse - Bouscat",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/gironde/cij-33069-01",
+    "metadata": {
+      "email": "bij@mairie-le-bouscat.fr",
+      "telephone": "05 57 22 49 68",
+      "url": "http://www.mairie-le-bouscat.fr"
+    }
+  },
+  {
+    "id": "677a1fe9debad6c8b3a5aeef03605ae53749ec30",
+    "name": "bureau_information_jeunesse_bressuire",
+    "title": "Bureau information jeunesse - Bressuire",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/deux-sevres/cij-79049-01",
+    "metadata": {
+      "email": "bij@agglo2b.fr",
+      "telephone": "05 49 80 48 84",
+      "url": "http://www.cidj.com"
+    }
+  },
+  {
+    "id": "5c725fb9af235e86ba39f604f81e5d800dadd61b",
+    "name": "bureau_information_jeunesse_brest",
+    "title": "Bureau information jeunesse - Brest",
+    "url": "https://lannuaire.service-public.fr/bretagne/finistere/cij-29019-01",
+    "metadata": {
+      "email": "accueil@bij-brest.org",
+      "telephone": "02 98 43 01 08",
+      "url": "http://www.bij-brest.org"
+    }
+  },
+  {
+    "id": "f4184476bf1cb001096db85f094812d10f6d3d98",
+    "name": "bureau_information_jeunesse_brignoles",
+    "title": "Bureau information jeunesse - Brignoles",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/var/cij-83023-01",
+    "metadata": {
+      "email": "bij@brignoles.fr",
+      "telephone": "04 98 05 16 73",
+      "url": ""
+    }
+  },
+  {
+    "id": "0eb4d51bafa8fb7c54c8e7d1a198b76e3a263052",
+    "name": "bureau_information_jeunesse_bruges",
+    "title": "Bureau information jeunesse - Bruges",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/gironde/cij-33075-01",
+    "metadata": {
+      "email": "e-bij@mairie-bruges.fr",
+      "telephone": "05 56 16 17 96",
+      "url": "http://www.mairie-bruges.fr"
+    }
+  },
+  {
+    "id": "15aefa180e48d5028e4dded58fe18cb2e09d71f7",
+    "name": "bureau_information_jeunesse_cadillac",
+    "title": "Bureau information jeunesse - Cadillac",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/gironde/cij-33081-01",
+    "metadata": {
+      "email": "ml2rives@orange.fr",
+      "telephone": "05 57 98 02 98",
+      "url": "https://www.missionlocaledes2rives.com"
+    }
+  },
+  {
+    "id": "95806b656ed5be8018693d70772af8cdeae039dc",
+    "name": "bureau_information_jeunesse_cagnes_sur_mer",
+    "title": "Bureau information jeunesse - Cagnes-sur-Mer",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/alpes-maritimes/cij-06027-01",
+    "metadata": {
+      "email": "information.jeunesse@cagnes.fr",
+      "telephone": "04 93 08 63 48",
+      "url": "http://www.cagnes-sur-mer.fr"
+    }
+  },
+  {
+    "id": "a7b20b64dd4ead07066cf205809053871c6c9082",
+    "name": "bureau_information_jeunesse_cannes",
+    "title": "Bureau information jeunesse - Cannes",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/alpes-maritimes/cij-06029-02",
+    "metadata": {
+      "email": "bij@ville-cannes.fr",
+      "telephone": "04 97 06 46 25",
+      "url": "http://www.cannes.com"
+    }
+  },
+  {
+    "id": "76d0326072589049c633291592ddb9ba1cc14871",
+    "name": "bureau_information_jeunesse_canohes",
+    "title": "Bureau information jeunesse - Canohès",
+    "url": "https://lannuaire.service-public.fr/occitanie/pyrenees-orientales/cij-66038-01",
+    "metadata": {
+      "email": "point-jeunes3@wanadoo.fr",
+      "telephone": "04 68 55 98 34",
+      "url": ""
+    }
+  },
+  {
+    "id": "48b17549cc3a3b1ab682a87933fe8a9dd43d4f9b",
+    "name": "bureau_information_jeunesse_capbreton",
+    "title": "Bureau information jeunesse - Capbreton",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/landes/cij-40065-01",
+    "metadata": {
+      "email": "escaleinfo@cc-macs.org",
+      "telephone": "05 58 41 09 51",
+      "url": "http://www.cc-macs.org"
+    }
+  },
+  {
+    "id": "ea190b78228204be741c40b536c1e2a7ba0c1a1e",
+    "name": "bureau_information_jeunesse_cap_d_ail",
+    "title": "Bureau information jeunesse - Cap-d'Ail",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/alpes-maritimes/cij-06032-01",
+    "metadata": {
+      "email": "bij.capdail@sivom-villefranche.org",
+      "telephone": "04 93 41 91 80",
+      "url": "http://www.sivom-villefranche.org"
+    }
+  },
+  {
+    "id": "006b2777b48286b2a1185d7b0dfbcf6229698543",
+    "name": "bureau_information_jeunesse_carbon_blanc",
+    "title": "Bureau information jeunesse - Carbon-Blanc",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/gironde/cij-33096-01",
+    "metadata": {
+      "email": "bij@carbon-blanc.fr",
+      "telephone": "05 57 77 68 87",
+      "url": "http://www.carbon-blanc.fr"
+    }
+  },
+  {
+    "id": "5f72fa002bc2099dc6879e682087f027d728c587",
+    "name": "bureau_information_jeunesse_chambery",
+    "title": "Bureau information jeunesse - Chambéry",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/savoie/cij-73065-01",
+    "metadata": {
+      "email": "mlchambery@mlchambery.org",
+      "telephone": "04 79 62 66 87",
+      "url": "http://www.mlchambery.org"
+    }
+  },
+  {
+    "id": "898235102afe55a120459fd0193de36ffbcae08a",
+    "name": "bureau_information_jeunesse_chartres",
+    "title": "Bureau information jeunesse - Chartres",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/eure-et-loir/cij-28085-01",
+    "metadata": {
+      "email": "bij28@agglo-ville.chartres.fr",
+      "telephone": "02 37 23 42 32",
+      "url": "http://www.chartres.frvotre-mairie/bureau-information-jeunesse"
+    }
+  },
+  {
+    "id": "6adeae6d16d91ea2f207c0eac1c7cd7577109b75",
+    "name": "bureau_information_jeunesse_chatellerault",
+    "title": "Bureau information jeunesse - Châtellerault",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/vienne/cij-86066-01",
+    "metadata": {
+      "email": "le4@grand-chatellerault.fr",
+      "telephone": "05 49 23 70 00",
+      "url": "http://www.crij.com"
+    }
+  },
+  {
+    "id": "7acf680dab2a3962895ede586e1ce06118d7227b",
+    "name": "bureau_information_jeunesse_chatenay_malabry",
+    "title": "Bureau information jeunesse - Châtenay-Malabry",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/hauts-de-seine/cij-92019-01",
+    "metadata": {
+      "email": "capjeunes@chatenay-malabry.fr",
+      "telephone": "01 55 52 14 00",
+      "url": "http://www.chatenay-malabry.fr"
+    }
+  },
+  {
+    "id": "1ea64b2aeb0a76b8a1aab4f02fb3bd9da3b42cf8",
+    "name": "bureau_information_jeunesse_chatillon",
+    "title": "Bureau information jeunesse - Châtillon",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/hauts-de-seine/cij-92020-01",
+    "metadata": {
+      "email": "bij@chatillon92.fr",
+      "telephone": "01 42 31 83 50",
+      "url": "http://www.ville-chatillon.fr"
+    }
+  },
+  {
+    "id": "93ed45e369b47d2a7031a2a7a989f5222330d332",
+    "name": "bureau_information_jeunesse_chelles",
+    "title": "Bureau information jeunesse - Chelles",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/seine-et-marne/cij-77108-01",
+    "metadata": {
+      "email": "laboussole@chelles.fr",
+      "telephone": "01 64 26 61 50",
+      "url": "http://www.chelles.fr"
+    }
+  },
+  {
+    "id": "625ff3b486c2900555245a48b52ea238513c1094",
+    "name": "bureau_information_jeunesse_clichy",
+    "title": "Bureau information jeunesse - Clichy",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/hauts-de-seine/cij-92024-01",
+    "metadata": {
+      "email": "cij@ville-clichy.fr",
+      "telephone": "01 47 15 32 28",
+      "url": "http://www.ville-clichy.fr"
+    }
+  },
+  {
+    "id": "daf3b042b351338eed71e4f9c716418357bfe60e",
+    "name": "bureau_information_jeunesse_cluses",
+    "title": "Bureau information jeunesse - Cluses",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/haute-savoie/cij-74081-01",
+    "metadata": {
+      "email": "bij@cluses.fr",
+      "telephone": "04 57 54 22 60",
+      "url": "http://www.cluses.frbij"
+    }
+  },
+  {
+    "id": "34c4854080aa3946c6ce79e1cb6ea2d69556cd84",
+    "name": "bureau_information_jeunesse_cognac",
+    "title": "Bureau information jeunesse - Cognac",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/charente/cij-16102-01",
+    "metadata": {
+      "email": "info16cognac@wanadoo.fr",
+      "telephone": "05 45 82 62 00",
+      "url": "http://www.info16cognac.fr"
+    }
+  },
+  {
+    "id": "bf28f758a805ae84afdab0eec6ced16f2e6a40f8",
+    "name": "bureau_information_jeunesse_colmar",
+    "title": "Bureau information jeunesse - Colmar",
+    "url": "https://lannuaire.service-public.fr/grand-est/haut-rhin/cij-68066-01",
+    "metadata": {
+      "email": "bij.info@colmar.fr",
+      "telephone": "03 89 20 67 91",
+      "url": "http://www.reseau-informationjeunesse-alsace.fr"
+    }
+  },
+  {
+    "id": "8bd1ec7f40372f3b1d60e8b0073155f094829e84",
+    "name": "bureau_information_jeunesse_colombes",
+    "title": "Bureau information jeunesse - Colombes",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/hauts-de-seine/cij-92025-01",
+    "metadata": {
+      "email": "bureau.information-jeunesse@mairie-colombes.fr",
+      "telephone": "01 47 60 82 60",
+      "url": ""
+    }
+  },
+  {
+    "id": "e5f192db903ef1fdb1f367d822562a55bf5157c1",
+    "name": "bureau_information_jeunesse_compiegne",
+    "title": "Bureau information jeunesse - Compiègne",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/oise/cij-60159-01",
+    "metadata": {
+      "email": "bij@compiegne.fr",
+      "telephone": "03 44 20 71 31",
+      "url": ""
+    }
+  },
+  {
+    "id": "446f1f5e2231d18c400e217f1c901715599d4196",
+    "name": "bureau_information_jeunesse_corte",
+    "title": "Bureau information jeunesse - Corte",
+    "url": "https://lannuaire.service-public.fr/corse/haute-corse/cij-2B096-01",
+    "metadata": {
+      "email": "contact@cpie-centrecorse.fr",
+      "telephone": "09 70 71 85 78",
+      "url": "http://www.cpie-centrecorse.fr"
+    }
+  },
+  {
+    "id": "78b91c5859b4d42c6ae91af0bbb3f85b8dafcc7a",
+    "name": "bureau_information_jeunesse_courbevoie",
+    "title": "Bureau information jeunesse - Courbevoie",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/hauts-de-seine/cij-92026-01",
+    "metadata": {
+      "email": "bij.multimedia@ville-courbevoie.fr",
+      "telephone": "01 80 03 60 29",
+      "url": "http://www.ville-courbevoie.fr"
+    }
+  },
+  {
+    "id": "8fea660962bdfd90ab3d00146a9ff9803fc0f8d9",
+    "name": "bureau_information_jeunesse_creon",
+    "title": "Bureau information jeunesse - Créon",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/gironde/cij-33140-01",
+    "metadata": {
+      "email": "contact@lacabaneaprojets.fr",
+      "telephone": "05 57 34 42 52",
+      "url": "http://www.lacabaneaprojets.fr"
+    }
+  },
+  {
+    "id": "cfabe3a4e75e13fff0d89a42e25097eea5465fc7",
+    "name": "bureau_information_jeunesse_creteil",
+    "title": "Bureau information jeunesse - Créteil",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/val-de-marne/cij-94028-02",
+    "metadata": {
+      "email": "pij_creteil@yahoo.fr",
+      "telephone": "01 48 98 58 10",
+      "url": "http://www.ville-creteil.fr"
+    }
+  },
+  {
+    "id": "f62a4c73c23d45da8bd7fd2a9e35242d29d851d1",
+    "name": "bureau_information_jeunesse_decines_charpieu",
+    "title": "Bureau information jeunesse - Décines-Charpieu",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/rhone/cij-69275-01",
+    "metadata": {
+      "email": "espace-jeunes@mairie-decines.fr",
+      "telephone": "04 37 42 10 20",
+      "url": "http://www.decines.fr"
+    }
+  },
+  {
+    "id": "0b504a8c7ff24a4d1c2d0365c6ca07d507631246",
+    "name": "bureau_information_jeunesse_digne_les_bains",
+    "title": "Bureau information jeunesse - Digne-les-Bains",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/alpes-de-haute-provence/cij-04070-01",
+    "metadata": {
+      "email": "mje@dignelesbains.fr",
+      "telephone": "04 92 36 10 31",
+      "url": "http://www.dignelesbains.fr"
+    }
+  },
+  {
+    "id": "536195f7d22c13766e426c3a855eead7fafc8490",
+    "name": "bureau_information_jeunesse_draguignan",
+    "title": "Bureau information jeunesse - Draguignan",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/var/cij-83050-01",
+    "metadata": {
+      "email": "bij@ville-draguignan.fr",
+      "telephone": "04 94 68 27 00",
+      "url": "http://www.ville-draguignan.fr"
+    }
+  },
+  {
+    "id": "6044c9e7b1de661aa13ba65912eff3c60f595294",
+    "name": "bureau_information_jeunesse_drancy",
+    "title": "Bureau information jeunesse - Drancy",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/seine-saint-denis/cij-93029-01",
+    "metadata": {
+      "email": "bij@drancy.fr",
+      "telephone": "01 48 96 51 10",
+      "url": "http://www.drancy.net"
+    }
+  },
+  {
+    "id": "1a09b05016fe84697444cce04ddc08f9c5bec62c",
+    "name": "bureau_information_jeunesse_eaubonne",
+    "title": "Bureau information jeunesse - Eaubonne",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/val-d-oise/cij-95203-01",
+    "metadata": {
+      "email": "bij@eaubonne.fr",
+      "telephone": "01 34 27 67 27",
+      "url": ""
+    }
+  },
+  {
+    "id": "e7b5ee6838e3de83093b6ce4b2159a90a5f3341e",
+    "name": "bureau_information_jeunesse_echirolles",
+    "title": "Bureau information jeunesse - Échirolles",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/isere/cij-38151-01",
+    "metadata": {
+      "email": "bij@ville-echirolles.fr",
+      "telephone": "04 76 20 63 96",
+      "url": "http://www.ville-echirolles.fr"
+    }
+  },
+  {
+    "id": "399ad24fff04028acddbf6bd93350b5f8d27f179",
+    "name": "bureau_information_jeunesse_elancourt",
+    "title": "Bureau information jeunesse - Élancourt",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/yvelines/cij-78208-01",
+    "metadata": {
+      "email": "valerie.coue@ville-elancourt.fr",
+      "telephone": "01 30 66 45 11",
+      "url": "http://www.ville-elancourt.fr"
+    }
+  },
+  {
+    "id": "9ae6b8eaa783cf2323446f06bd6cd0ce58d89385",
+    "name": "bureau_information_jeunesse_enghien_les_bains",
+    "title": "Bureau information jeunesse - Enghien-les-Bains",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/val-d-oise/cij-95210-01",
+    "metadata": {
+      "email": "bij@enghien95.fr",
+      "telephone": "01 34 12 32 53",
+      "url": "http://www.enghienlesbains.fr"
+    }
+  },
+  {
+    "id": "0eb83b22bfd5ff8b07700d6c38592ba743492ea1",
+    "name": "bureau_information_jeunesse_entressen",
+    "title": "Bureau information jeunesse - Entressen",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/cij-13047-01",
+    "metadata": {
+      "email": "csapm.accueil@orange.fr",
+      "telephone": "04 90 50 69 49",
+      "url": ""
+    }
+  },
+  {
+    "id": "0e374417b8e0a2a859848e628bcb4a34cf351c5d",
+    "name": "bureau_information_jeunesse_epinal",
+    "title": "Bureau information jeunesse - Épinal",
+    "url": "https://lannuaire.service-public.fr/grand-est/vosges/cij-88160-01",
+    "metadata": {
+      "email": "bij@epinal.fr",
+      "telephone": "03 29 68 51 29",
+      "url": "http://www.epinal.fr"
+    }
+  },
+  {
+    "id": "b896975a4c8d7452ac6441996c0e84b72e9fadd4",
+    "name": "bureau_information_jeunesse_etampes",
+    "title": "Bureau information jeunesse - Étampes",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/essonne/cij-91223-01",
+    "metadata": {
+      "email": "bij@mairie-etampes.fr",
+      "telephone": "01 69 16 17 60",
+      "url": "http://www.bij-etampes.fr"
+    }
+  },
+  {
+    "id": "816942cb8da6f919cc856fca1c9c97ee0519142b",
+    "name": "bureau_information_jeunesse_evreux",
+    "title": "Bureau information jeunesse - Évreux",
+    "url": "https://lannuaire.service-public.fr/normandie/eure/cij-27229-01",
+    "metadata": {
+      "email": "bij@evreux.fr",
+      "telephone": "02 32 31 98 17",
+      "url": "https://evreux.frvie-quotidienne/enfance-jeunesse/jeunesse/les-services-du-bureau-information-jeunesse"
+    }
+  },
+  {
+    "id": "6681513810a13230dfc0641e61188e4ab7f9fbe3",
+    "name": "bureau_information_jeunesse_evry",
+    "title": "Bureau information jeunesse - Évry",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/essonne/cij-91228-01",
+    "metadata": {
+      "email": "lafabrik@evrycourcouronnes.fr",
+      "telephone": "01 69 90 79 50",
+      "url": ""
+    }
+  },
+  {
+    "id": "272152b15905b4a5bee5239e8addaeea6999dafa",
+    "name": "bureau_information_jeunesse_eysines",
+    "title": "Bureau information jeunesse - Eysines",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/gironde/cij-33162-01",
+    "metadata": {
+      "email": "leycho.bourg@eysines.fr",
+      "telephone": "05 56 28 92 17",
+      "url": "http://www.facebook.com/eychoeysines"
+    }
+  },
+  {
+    "id": "da6d4b1e31d1f3edeb88cc5724dfe0d237939c7a",
+    "name": "bureau_information_jeunesse_foix",
+    "title": "Bureau information jeunesse - Foix",
+    "url": "https://lannuaire.service-public.fr/occitanie/ariege/cij-09122-01",
+    "metadata": {
+      "email": "bij09.foix@crij.org",
+      "telephone": "05 61 02 86 10",
+      "url": "http://www.bij09.org"
+    }
+  },
+  {
+    "id": "4e330b57ae3f3b359e316ee4b5d5f6be11e4fec7",
+    "name": "bureau_information_jeunesse_francheville",
+    "title": "Bureau information jeunesse - Francheville",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/rhone/cij-69089-01",
+    "metadata": {
+      "email": "bureauinfosjeunesse@mairie-francheville69.fr",
+      "telephone": "04 78 59 05 04",
+      "url": "https://www.mairie-francheville69.fr"
+    }
+  },
+  {
+    "id": "21fd3b7bfc2a0fbf56b4ce91a876ac737ced7cdc",
+    "name": "bureau_information_jeunesse_gap",
+    "title": "Bureau information jeunesse - Gap",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/hautes-alpes/cij-05061-01",
+    "metadata": {
+      "email": "bij@ville-gap.fr",
+      "telephone": "04 92 53 22 77",
+      "url": "http://www.ville-gap.fr"
+    }
+  },
+  {
+    "id": "1adaed561459555929ba7c942bfb004b55df6d9c",
+    "name": "bureau_information_jeunesse_gareoult",
+    "title": "Bureau information jeunesse - Garéoult",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/var/cij-83064-01",
+    "metadata": {
+      "email": "service-jeunesse@gareoult.fr",
+      "telephone": "04 94 80 94 90",
+      "url": "http://www.gareoult.fr"
+    }
+  },
+  {
+    "id": "094d39ca41496b9cd3273d0fe195c1f2bf1147e1",
+    "name": "bureau_information_jeunesse_gennevilliers",
+    "title": "Bureau information jeunesse - Gennevilliers",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/hauts-de-seine/cij-92036-01",
+    "metadata": {
+      "email": "",
+      "telephone": "01 40 85 49 94",
+      "url": "http://www.ville-gennevilliers.fr"
+    }
+  },
+  {
+    "id": "fc921567faca61888f8795846462c58aae2495e3",
+    "name": "bureau_information_jeunesse_gisors",
+    "title": "Bureau information jeunesse - Gisors",
+    "url": "https://lannuaire.service-public.fr/normandie/eure/cij-27284-01",
+    "metadata": {
+      "email": "service.jeunesse.gisors@gmail.com",
+      "telephone": "02 32 55 04 39",
+      "url": "http://www.ville-gisors.fr"
+    }
+  },
+  {
+    "id": "683fc4b3534ec8d3627db2fdc4090553f8235407",
+    "name": "bureau_information_jeunesse_gradignan",
+    "title": "Bureau information jeunesse - Gradignan",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/gironde/cij-33192-01",
+    "metadata": {
+      "email": "bij@ville-gradignan.fr",
+      "telephone": "05 56 89 12 46",
+      "url": ""
+    }
+  },
+  {
+    "id": "325db4b41d99f62ba97416b464c8effcb4facb98",
+    "name": "bureau_information_jeunesse_gravigny",
+    "title": "Bureau information jeunesse - Gravigny",
+    "url": "https://lannuaire.service-public.fr/normandie/eure/cij-27299-01",
+    "metadata": {
+      "email": "pajgravigny@live.fr",
+      "telephone": "02 32 62 76 16",
+      "url": "http://www.evreuxportesdenormandie.fr/535-point-information-jeunesse.htm#par2687"
+    }
+  },
+  {
+    "id": "a881d7e337aa208eff27df5c499f0e48e4140748",
+    "name": "bureau_information_jeunesse_gray",
+    "title": "Bureau information jeunesse - Gray",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/haute-saone/cij-70279-01",
+    "metadata": {
+      "email": "ijgray@jeunes-bfc.com",
+      "telephone": "09 50 75 76 19",
+      "url": "http://www.ijgray.com"
+    }
+  },
+  {
+    "id": "5e46e4d48273f18b3f140a5bfd56468b2fcdaa71",
+    "name": "bureau_information_jeunesse_gueret",
+    "title": "Bureau information jeunesse - Guéret",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/creuse/cij-23096-01",
+    "metadata": {
+      "email": "contact@aliso.fr",
+      "telephone": "05 55 52 00 40",
+      "url": "http://www.aliso.fr"
+    }
+  },
+  {
+    "id": "3960163babfa77694c9142ea35efcb48f632497e",
+    "name": "bureau_information_jeunesse_guyancourt",
+    "title": "Bureau information jeunesse - Guyancourt",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/yvelines/cij-78297-01",
+    "metadata": {
+      "email": "information.jeunesse@ville-guyancourt.fr",
+      "telephone": "01 30 44 50 92",
+      "url": "http://www.ville-guyancourt.fr"
+    }
+  },
+  {
+    "id": "2cb957687541b04acc4b6e6dc08da7dd73172605",
+    "name": "bureau_information_jeunesse_harfleur",
+    "title": "Bureau information jeunesse - Harfleur",
+    "url": "https://lannuaire.service-public.fr/normandie/seine-maritime/cij-76341-01",
+    "metadata": {
+      "email": "jeunesse@harfleur.fr",
+      "telephone": "02 35 13 31 00",
+      "url": "http://www.harfleur.fr"
+    }
+  },
+  {
+    "id": "1a7a64ecd4e319154a8f9c60a27b8c71f1ee9a69",
+    "name": "bureau_information_jeunesse_hendaye",
+    "title": "Bureau information jeunesse - Hendaye",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/pyrenees-atlantiques/cij-64260-01",
+    "metadata": {
+      "email": "bij@hendaye.com",
+      "telephone": "05 59 20 41 41",
+      "url": "https://www.hendaye.fr"
+    }
+  },
+  {
+    "id": "2d4bd0403984868c81f9483157bee0733e88fae0",
+    "name": "bureau_information_jeunesse_hyeres",
+    "title": "Bureau information jeunesse - Hyères",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/var/cij-83069-01",
+    "metadata": {
+      "email": "jeunesse@mairie-hyeres.com",
+      "telephone": "04 94 00 78 78",
+      "url": "http://www.ville-hyeres.fr"
+    }
+  },
+  {
+    "id": "48fcd0b32c6b62b357f54684b52b9d66a56dea60",
+    "name": "bureau_information_jeunesse_issy_les_moulineaux",
+    "title": "Bureau information jeunesse - Issy-les-Moulineaux",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/hauts-de-seine/cij-92040-01",
+    "metadata": {
+      "email": "espacejeunes@ville-issy.fr",
+      "telephone": "01 41 23 83 50",
+      "url": "http://www.clavim.asso.fr"
+    }
+  },
+  {
+    "id": "aa2a43f71abce38f9ba9d605fa8d7191d93bebc9",
+    "name": "bureau_information_jeunesse_jonzac",
+    "title": "Bureau information jeunesse - Jonzac",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/charente-maritime/cij-17197-01",
+    "metadata": {
+      "email": "doc.ml@haute-saintonge.org",
+      "telephone": "05 46 48 58 10",
+      "url": "http://hautesaintonge.pourlesjeunes.com"
+    }
+  },
+  {
+    "id": "4b2127587c8d7aa4644b709efafd4d8ad011e174",
+    "name": "bureau_information_jeunesse_la_brede",
+    "title": "Bureau information jeunesse - La Brède",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/gironde/cij-33213-01",
+    "metadata": {
+      "email": "espace-jeunes@labrede-montesquieu.com",
+      "telephone": "05 56 78 43 82",
+      "url": "http://www.labrede-montesquieu.com"
+    }
+  },
+  {
+    "id": "d270038eeead7c8b4d6a8645b0246bcae039b5d8",
+    "name": "bureau_information_jeunesse_la_ciotat",
+    "title": "Bureau information jeunesse - La Ciotat",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/cij-13028-01",
+    "metadata": {
+      "email": "bij.ciotat@mairie-laciotat.fr",
+      "telephone": "04 42 83 85 57",
+      "url": "http://www.laciotat.com"
+    }
+  },
+  {
+    "id": "ca2f5e0e4bf5df510e0999c26acbaf8a6476b4b7",
+    "name": "bureau_information_jeunesse_la_garde",
+    "title": "Bureau information jeunesse - La Garde",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/var/cij-83062-01",
+    "metadata": {
+      "email": "bij_lagarde@yahoo.fr",
+      "telephone": "04 94 21 60 64",
+      "url": "http://www.ville-lagarde.fr"
+    }
+  },
+  {
+    "id": "25610506e0fd6a9d3d2f050889456efca7e712e7",
+    "name": "bureau_information_jeunesse_la_londe_les_maures",
+    "title": "Bureau information jeunesse - La Londe-les-Maures",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/var/cij-83071-01",
+    "metadata": {
+      "email": "bij@lalondelesmaures.fr",
+      "telephone": "04 94 01 54 38",
+      "url": "http://www.ville-lalondelesmaures.fr"
+    }
+  },
+  {
+    "id": "e28442886677af2d66abfacd499ea25c32864ef0",
+    "name": "bureau_information_jeunesse_langres",
+    "title": "Bureau information jeunesse - Langres",
+    "url": "https://lannuaire.service-public.fr/grand-est/haute-marne/cij-52269-01",
+    "metadata": {
+      "email": "accueil@missionlocale-langres.fr",
+      "telephone": "03 25 84 80 43",
+      "url": ""
+    }
+  },
+  {
+    "id": "5895d785f7789cd332b0d9f1f2ce6e4b32e606eb",
+    "name": "bureau_information_jeunesse_la_seyne_sur_mer",
+    "title": "Bureau information jeunesse - La Seyne-sur-Mer",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/var/cij-83126-01",
+    "metadata": {
+      "email": "bij83500@gmail.com",
+      "telephone": "04 94 06 07 80",
+      "url": ""
+    }
+  },
+  {
+    "id": "21e2c376d6394dde0e32835b2fcf0b794ade8a0f",
+    "name": "bureau_information_jeunesse_la_teste_de_buch",
+    "title": "Bureau information jeunesse - La Teste-de-Buch",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/gironde/cij-33529-01",
+    "metadata": {
+      "email": "lacentrale@latestedebuch.fr",
+      "telephone": "05 57 52 41 22",
+      "url": "http://www.latestedebuch.fr"
+    }
+  },
+  {
+    "id": "e36118d1308fe4255c4571be88d0dfab54562fc6",
+    "name": "bureau_information_jeunesse_la_trinite",
+    "title": "Bureau information jeunesse - La Trinité",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/alpes-maritimes/cij-06149-01",
+    "metadata": {
+      "email": "bij.trinite@svdb.fr",
+      "telephone": "04 92 00 10 37",
+      "url": ""
+    }
+  },
+  {
+    "id": "18775eb4a564638ce24f4ec5641ae56da7843b4e",
+    "name": "bureau_information_jeunesse_le_cannet",
+    "title": "Bureau information jeunesse - Le Cannet",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/alpes-maritimes/cij-06030-01",
+    "metadata": {
+      "email": "aej@mairie-le-cannet.fr",
+      "telephone": "04 93 69 22 67",
+      "url": "http://www.lecannet.ijca.fr"
+    }
+  },
+  {
+    "id": "249cdaa91775d29c8379901c6f3a8e06e16580e7",
+    "name": "bureau_information_jeunesse_le_havre",
+    "title": "Bureau information jeunesse - Le Havre",
+    "url": "https://lannuaire.service-public.fr/normandie/seine-maritime/cij-76351-01",
+    "metadata": {
+      "email": "nadia.gaillard@lehavre.fr",
+      "telephone": "02 35 19 49 84",
+      "url": "http://www.lehavre.fr"
+    }
+  },
+  {
+    "id": "496c85c7049969f48bcfe987f89afafb9167fa33",
+    "name": "bureau_information_jeunesse_le_mee_sur_seine",
+    "title": "Bureau information jeunesse - Le Mée-sur-Seine",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/seine-et-marne/cij-77285-01",
+    "metadata": {
+      "email": "bij@lemeesurseine.fr",
+      "telephone": "01 83 99 99 05",
+      "url": "http://www.le-mee-sur-seine.fr"
+    }
+  },
+  {
+    "id": "45cbf2aa8ba2f09ec0addd6548f0b9e2359cfc2c",
+    "name": "bureau_information_jeunesse_le_pontet",
+    "title": "Bureau information jeunesse - Le Pontet",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/vaucluse/cij-84092-01",
+    "metadata": {
+      "email": "bij.pontet@hotmail.fr",
+      "telephone": "04 90 03 09 50",
+      "url": "http://www.ville-lepontet.com"
+    }
+  },
+  {
+    "id": "e6fc0917277efc32db9527072df1f4d993c16aa6",
+    "name": "bureau_information_jeunesse_le_pradet",
+    "title": "Bureau information jeunesse - Le Pradet",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/var/cij-83098-01",
+    "metadata": {
+      "email": "bij@le-pradet.fr",
+      "telephone": "04 94 14 37 25",
+      "url": "http://www.bij-le-pradet.com"
+    }
+  },
+  {
+    "id": "97a5d21cbf81703e9366d070806f0a44e0cd9c39",
+    "name": "bureau_information_jeunesse_les_clayes_sous_bois",
+    "title": "Bureau information jeunesse - Les Clayes-sous-Bois",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/yvelines/cij-78165-01",
+    "metadata": {
+      "email": "pij@lesclayessousbois.fr",
+      "telephone": "01 30 79 39 85",
+      "url": "http://www.lesclayessousbois.fr"
+    }
+  },
+  {
+    "id": "10495fd91c53c8baf4a1ee6681a7c528c9c66563",
+    "name": "bureau_information_jeunesse_les_lilas",
+    "title": "Bureau information jeunesse - Les Lilas",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/seine-saint-denis/cij-93045-01",
+    "metadata": {
+      "email": "lekiosque@leslilas.fr",
+      "telephone": "01 48 97 21 10",
+      "url": "http://www.ville-leslilas.fr"
+    }
+  },
+  {
+    "id": "44a16e489742c993fb6f4085699ed83bf319946d",
+    "name": "bureau_information_jeunesse_les_mureaux",
+    "title": "Bureau information jeunesse - Les Mureaux",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/yvelines/cij-78440-02",
+    "metadata": {
+      "email": "bij@mairie-lesmureaux.fr",
+      "telephone": "01 30 91 39 34",
+      "url": "http://www.mairie-lesmureaux.fr"
+    }
+  },
+  {
+    "id": "44a16e489742c993fb6f4085699ed83bf319946d",
+    "name": "bureau_information_jeunesse_les_mureaux",
+    "title": "Bureau information jeunesse - Les Mureaux",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/yvelines/cij-78440-03",
+    "metadata": {
+      "email": "bij@mairie-lesmureaux.fr",
+      "telephone": "01 30 91 39 34",
+      "url": "http://www.lesmureaux.fr"
+    }
+  },
+  {
+    "id": "5714b9e208a2d92e39b05150ba4e1c93a4e272af",
+    "name": "bureau_information_jeunesse_levallois_perret",
+    "title": "Bureau information jeunesse - Levallois-Perret",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/hauts-de-seine/cij-92044-01",
+    "metadata": {
+      "email": "espacejeunesse@ville-levallois.fr",
+      "telephone": "01 47 15 76 80",
+      "url": "http://www.info-jeunesse.fr"
+    }
+  },
+  {
+    "id": "5ed9faf36d48b75a36476c60ddd0753e9a5114ce",
+    "name": "bureau_information_jeunesse_libourne",
+    "title": "Bureau information jeunesse - Libourne",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/gironde/cij-33243-01",
+    "metadata": {
+      "email": "bij-libourne@lacali.fr",
+      "telephone": "05 57 74 06 52",
+      "url": "http://www.facebook.com/lacali.jeunesse"
+    }
+  },
+  {
+    "id": "b1c3401737708cfb96b07b5e2e780497e1db84b3",
+    "name": "bureau_information_jeunesse_limay",
+    "title": "Bureau information jeunesse - Limay",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/yvelines/cij-78335-01",
+    "metadata": {
+      "email": "bij@ville-limay.fr",
+      "telephone": "01 34 97 36 90",
+      "url": "http://www.cidj.com"
+    }
+  },
+  {
+    "id": "509526e052ac4454506543695ec51c4040212ae8",
+    "name": "bureau_information_jeunesse_lognes",
+    "title": "Bureau information jeunesse - Lognes",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/seine-et-marne/cij-77258-01",
+    "metadata": {
+      "email": "linfojeune@mairie-lognes.fr",
+      "telephone": "01 60 05 69 32",
+      "url": ""
+    }
+  },
+  {
+    "id": "9c6f44b6e08ee3bc246a3c656e34d8c9b769b589",
+    "name": "bureau_information_jeunesse_lorient",
+    "title": "Bureau information jeunesse - Lorient",
+    "url": "https://lannuaire.service-public.fr/bretagne/morbihan/cij-56121-01",
+    "metadata": {
+      "email": "infos@bij-lorient.org",
+      "telephone": "02 97 84 84 57",
+      "url": "http://www.bij-lorient.org"
+    }
+  },
+  {
+    "id": "d80be4e3fa5cc6a9de61c9f0d85d5ec5f27082c0",
+    "name": "bureau_information_jeunesse_lormont",
+    "title": "Bureau information jeunesse - Lormont",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/gironde/cij-33249-01",
+    "metadata": {
+      "email": "bij@lormont.fr",
+      "telephone": "05 57 77 79 72",
+      "url": "http://www.lormont.fr"
+    }
+  },
+  {
+    "id": "7828f84f4f26188c7c6d4ceecef08506b195a769",
+    "name": "bureau_information_jeunesse_lourdes",
+    "title": "Bureau information jeunesse - Lourdes",
+    "url": "https://lannuaire.service-public.fr/occitanie/hautes-pyrenees/cij-65286-01",
+    "metadata": {
+      "email": "vie.citoyenne.jeunesse@ville-lourdes.fr",
+      "telephone": "05 62 94 31 51",
+      "url": "http://www.lourdes.fr"
+    }
+  },
+  {
+    "id": "4028a859b9846b58f12b54db1b65b7d53da62a04",
+    "name": "bureau_information_jeunesse_louvres",
+    "title": "Bureau information jeunesse - Louvres",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/val-d-oise/cij-95351-01",
+    "metadata": {
+      "email": "pij@ville-louvres.fr",
+      "telephone": "01 34 31 31 33",
+      "url": "http://www.ville-louvres.frmenu-principal/enfance-jeunesse/jeunesse-et-sports"
+    }
+  },
+  {
+    "id": "67e42108682d5e70d795041d48b8a30a8d9d886a",
+    "name": "bureau_information_jeunesse_lure",
+    "title": "Bureau information jeunesse - Lure",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/haute-saone/cij-70310-01",
+    "metadata": {
+      "email": "ijlure@jeunes-bfc.com",
+      "telephone": "03 84 62 94 90",
+      "url": "http://www.lure.frbij.htm"
+    }
+  },
+  {
+    "id": "aefcabb6c062f11777a957abbe4f146a85d62d22",
+    "name": "bureau_information_jeunesse_luxeuil_les_bains",
+    "title": "Bureau information jeunesse - Luxeuil-les-Bains",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/haute-saone/cij-70311-01",
+    "metadata": {
+      "email": "bij.luxeuil@jeunes-fc.com",
+      "telephone": "03 84 40 12 28",
+      "url": "http://www.ville-luxeuil-les-bains.frbureau-information-jeunesse.htm"
+    }
+  },
+  {
+    "id": "bc948c2f652225cf0693d832c8377c110cca81df",
+    "name": "bureau_information_jeunesse_maisons_alfort",
+    "title": "Bureau information jeunesse - Maisons-Alfort",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/val-de-marne/cij-94046-01",
+    "metadata": {
+      "email": "info.j@bij-maisons-alfort.com",
+      "telephone": "01 49 77 80 38",
+      "url": "http://www.bij-maisons-alfort.com"
+    }
+  },
+  {
+    "id": "2abb5f0eb6e89cfc398d5b4de3275040cfddd4e4",
+    "name": "bureau_information_jeunesse_mantes_la_jolie",
+    "title": "Bureau information jeunesse - Mantes-la-Jolie",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/yvelines/cij-78361-01",
+    "metadata": {
+      "email": "contactassociations@monteslajolie.fr",
+      "telephone": "01 30 94 02 02",
+      "url": "http://www.mairie-mantes-la-jolie.fr"
+    }
+  },
+  {
+    "id": "1a90b6a9a67cb3965cd6a502980f8f19ec93e7f4",
+    "name": "bureau_information_jeunesse_marly_le_roi",
+    "title": "Bureau information jeunesse - Marly-le-Roi",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/yvelines/cij-78372-01",
+    "metadata": {
+      "email": "bij@marlyleroi.fr",
+      "telephone": "01 39 16 91 62",
+      "url": "http://www.marlyleroi.fr"
+    }
+  },
+  {
+    "id": "f7539de75c8abbb97d85654db90bd2d195db8393",
+    "name": "bureau_information_jeunesse_maurepas",
+    "title": "Bureau information jeunesse - Maurepas",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/yvelines/cij-78383-01",
+    "metadata": {
+      "email": "bij@maurepas.fr",
+      "telephone": "01 30 66 53 35",
+      "url": "http://www.maurepas.fr"
+    }
+  },
+  {
+    "id": "3fd8ae78f00c7910facf50c8c20001cb93739a85",
+    "name": "bureau_information_jeunesse_meaux",
+    "title": "Bureau information jeunesse - Meaux",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/seine-et-marne/cij-77284-01",
+    "metadata": {
+      "email": "bij@meaux.fr",
+      "telephone": "01 83 69 01 93",
+      "url": "http://www.ville-meaux.frjeunesse/bij.html"
+    }
+  },
+  {
+    "id": "2e46638f8f2df58064723478a27953c02ca507cd",
+    "name": "bureau_information_jeunesse_melun",
+    "title": "Bureau information jeunesse - Melun",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/seine-et-marne/cij-77288-03",
+    "metadata": {
+      "email": "bij@ville-melun.fr",
+      "telephone": "01 64 09 73 51",
+      "url": "http://www.ville-melun.fr"
+    }
+  },
+  {
+    "id": "87155c1fe94270a5b3e4399fa0595453f02016f1",
+    "name": "bureau_information_jeunesse_menton",
+    "title": "Bureau information jeunesse - Menton",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/alpes-maritimes/cij-06083-01",
+    "metadata": {
+      "email": "bij.menton@wanadoo.fr",
+      "telephone": "04 92 10 51 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "b07f6453b9bdb4c777e1c9c4d7c563ea3d156e97",
+    "name": "bureau_information_jeunesse_merignac",
+    "title": "Bureau information jeunesse - Mérignac",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/gironde/cij-33281-01",
+    "metadata": {
+      "email": "bij@merignac.com",
+      "telephone": "05 57 00 02 40",
+      "url": "http://www.merignac.com"
+    }
+  },
+  {
+    "id": "2af4d40feb68d4473c510439720081e850d270da",
+    "name": "bureau_information_jeunesse_metz",
+    "title": "Bureau information jeunesse - Metz",
+    "url": "https://lannuaire.service-public.fr/grand-est/moselle/cij-57463-01",
+    "metadata": {
+      "email": "metz@cribij.fr",
+      "telephone": "03 87 69 04 50",
+      "url": "http://www.cribij.fr"
+    }
+  },
+  {
+    "id": "46ba5b51c1ff9ba974cd1f9145a54a2d8070e8dd",
+    "name": "bureau_information_jeunesse_montauban",
+    "title": "Bureau information jeunesse - Montauban",
+    "url": "https://lannuaire.service-public.fr/occitanie/tarn-et-garonne/cij-82121-01",
+    "metadata": {
+      "email": "pôlejeunesse@ville-montauban.fr",
+      "telephone": "05 63 66 32 12",
+      "url": "http://www.sij-montauban.fr"
+    }
+  },
+  {
+    "id": "438ff2c1f48622367e56a39c323b02cdae019eb4",
+    "name": "bureau_information_jeunesse_montbeliard",
+    "title": "Bureau information jeunesse - Montbéliard",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/doubs/cij-25388-01",
+    "metadata": {
+      "email": "bij@montbeliard.com",
+      "telephone": "03 81 99 24 15",
+      "url": "http://www.montbeliard.fr"
+    }
+  },
+  {
+    "id": "9879bc3a9cd4de63d5337c58f5e1e0d851feb2fd",
+    "name": "bureau_information_jeunesse_montigny_le_bretonneux",
+    "title": "Bureau information jeunesse - Montigny-le-Bretonneux",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/yvelines/cij-78423-01",
+    "metadata": {
+      "email": "polejeunesse@montigny78.fr",
+      "telephone": "01 30 57 42 40",
+      "url": "http://www.montigny78.fr"
+    }
+  },
+  {
+    "id": "db82eab4b1d0b13d532f6a7387c7952dac4eda77",
+    "name": "bureau_information_jeunesse_morlaas",
+    "title": "Bureau information jeunesse - Morlaas",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/pyrenees-atlantiques/cij-64405-01",
+    "metadata": {
+      "email": "ieba.accueil@orange.fr",
+      "telephone": "05 59 33 63 67",
+      "url": ""
+    }
+  },
+  {
+    "id": "f216350a3d0a85a638e511359c0b5fd67a2cd570",
+    "name": "bureau_information_jeunesse_mornant",
+    "title": "Bureau information jeunesse - Mornant",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/rhone/cij-69141-01",
+    "metadata": {
+      "email": "bij@cc-paysmornantais.fr",
+      "telephone": "04 78 44 98 56",
+      "url": "http://www.cc-paysmornantais.fr"
+    }
+  },
+  {
+    "id": "0feea2102708b02d219328980ae31e38d3bf61be",
+    "name": "bureau_information_jeunesse_nevers",
+    "title": "Bureau information jeunesse - Nevers",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/nievre/cij-58194-01",
+    "metadata": {
+      "email": "ijnievre@jeunes-bfc.fr",
+      "telephone": "03 45 52 50 01",
+      "url": "http://www.ijbourgogne.com"
+    }
+  },
+  {
+    "id": "7e084f71aa79e8d7641db92c7d8d85aa261b62e5",
+    "name": "bureau_information_jeunesse_nimes",
+    "title": "Bureau information jeunesse - Nîmes",
+    "url": "https://lannuaire.service-public.fr/occitanie/gard/cij-30189-01",
+    "metadata": {
+      "email": "jeunesse@ville-nimes.fr",
+      "telephone": "04 66 27 76 86",
+      "url": "http://www.jeunesse.nimes.fr"
+    }
+  },
+  {
+    "id": "e5ea69339610cba8b2323eb348a9d249c2da4e00",
+    "name": "bureau_information_jeunesse_orthez",
+    "title": "Bureau information jeunesse - Orthez",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/pyrenees-atlantiques/cij-64430-01",
+    "metadata": {
+      "email": "accueil.orthez@missionlocale-tm2o.fr",
+      "telephone": "05 59 69 21 13",
+      "url": ""
+    }
+  },
+  {
+    "id": "52ce92bde8d8bf02726cb73c53bc0906d3f06b15",
+    "name": "bureau_information_jeunesse_oullins",
+    "title": "Bureau information jeunesse - Oullins",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/rhone/cij-69149-01",
+    "metadata": {
+      "email": "service.jeunesse@ville-oullins.fr",
+      "telephone": "04 78 45 11 68",
+      "url": "http://www.ville-oullins.fr"
+    }
+  },
+  {
+    "id": "5223003565f505f7936251030d187ca5346e48e5",
+    "name": "bureau_information_jeunesse_pau",
+    "title": "Bureau information jeunesse - Pau",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/pyrenees-atlantiques/cij-64445-01",
+    "metadata": {
+      "email": "bij@mljpau.fr",
+      "telephone": "05 59 98 90 46",
+      "url": ""
+    }
+  },
+  {
+    "id": "12c72399fabfd5999a884696509526954138b072",
+    "name": "bureau_information_jeunesse_peri",
+    "title": "Bureau information jeunesse - Peri",
+    "url": "https://lannuaire.service-public.fr/corse/corse-du-sud/cij-2A209-01",
+    "metadata": {
+      "email": "uliamugravunincu@gmail.com",
+      "telephone": "04 95 53 72 00",
+      "url": "http://www.ulg.asso.fr"
+    }
+  },
+  {
+    "id": "72da5ef1b3382066207dc175ac85201ff545cd19",
+    "name": "bureau_information_jeunesse_pessac",
+    "title": "Bureau information jeunesse - Pessac",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/gironde/cij-33318-01",
+    "metadata": {
+      "email": "bij@mairie-pessac.fr",
+      "telephone": "05 57 93 67 80",
+      "url": "http://www.pessac.fr"
+    }
+  },
+  {
+    "id": "ff8bba4f0347a49951a62bf1324ce7cad3810c41",
+    "name": "bureau_information_jeunesse_pierre_benite",
+    "title": "Bureau information jeunesse - Pierre-Bénite",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/rhone/cij-69152-01",
+    "metadata": {
+      "email": "h2vj@pierrebenite.fr",
+      "telephone": "04 78 50 85 17",
+      "url": "http://www.pierrebenite.fr"
+    }
+  },
+  {
+    "id": "97917d0be7cf037fd455c32004dd164ad3a014c6",
+    "name": "bureau_information_jeunesse_plan_de_cuques",
+    "title": "Bureau information jeunesse - Plan-de-Cuques",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/cij-13075-01",
+    "metadata": {
+      "email": "pointjeunes@plandecuques.fr",
+      "telephone": "04 91 68 61 11",
+      "url": "http://www.plandecuques.fr"
+    }
+  },
+  {
+    "id": "e41b0dec0615d0764adb004caedd82e87aefe7bd",
+    "name": "bureau_information_jeunesse_poissy",
+    "title": "Bureau information jeunesse - Poissy",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/yvelines/cij-78498-01",
+    "metadata": {
+      "email": "jeunesse@ville-poissy.fr",
+      "telephone": "01 39 22 56 57",
+      "url": "http://www.ville-poissy.fr"
+    }
+  },
+  {
+    "id": "7957a27fe4a7d629d52dc5f479c5b27d24dd7224",
+    "name": "bureau_information_jeunesse_puteaux",
+    "title": "Bureau information jeunesse - Puteaux",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/hauts-de-seine/cij-92062-01",
+    "metadata": {
+      "email": "bij@mairie-puteaux.fr",
+      "telephone": "01 41 02 95 53",
+      "url": "http://www.puteaux.fr"
+    }
+  },
+  {
+    "id": "9b9e4f7c0de1f486f155abd725e910c2ef433cf9",
+    "name": "bureau_information_jeunesse_rambouillet",
+    "title": "Bureau information jeunesse - Rambouillet",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/yvelines/cij-78517-01",
+    "metadata": {
+      "email": "bij@usineachapeaux.fr",
+      "telephone": "01 30 88 89 01",
+      "url": "http://www.usineachapeaux.fr"
+    }
+  },
+  {
+    "id": "9b9e4f7c0de1f486f155abd725e910c2ef433cf9",
+    "name": "bureau_information_jeunesse_rambouillet",
+    "title": "Bureau information jeunesse - Rambouillet",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/yvelines/cij-78517-02",
+    "metadata": {
+      "email": "bij@usineachapeaux.fr",
+      "telephone": "01 30 88 89 01",
+      "url": "http://www.yij78.org"
+    }
+  },
+  {
+    "id": "0ffcf22b9c8ea4eca8561ffa8753298bb18e08c7",
+    "name": "bureau_information_jeunesse_rillieux_la_pape",
+    "title": "Bureau information jeunesse - Rillieux-la-Pape",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/rhone/cij-69286-01",
+    "metadata": {
+      "email": "espacejeunes@rillieuxlapape.fr",
+      "telephone": "04 37 85 05 70",
+      "url": "http://www.rillieuxlapape.fr"
+    }
+  },
+  {
+    "id": "5bd82acf6b35c3a3296d3c7fb53b9d92d7a6670d",
+    "name": "bureau_information_jeunesse_roanne",
+    "title": "Bureau information jeunesse - Roanne",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/loire/cij-42187-01",
+    "metadata": {
+      "email": "bij@ville-roanne.fr",
+      "telephone": "04 77 72 70 63",
+      "url": "http://www.aggloroanne.fr"
+    }
+  },
+  {
+    "id": "6a2ef7cec94d4d940ca623373b5aa0bd855d88a0",
+    "name": "bureau_information_jeunesse_rochefort",
+    "title": "Bureau information jeunesse - Rochefort",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/charente-maritime/cij-17299-01",
+    "metadata": {
+      "email": "bijrochefort@gmail.com",
+      "telephone": "05 46 87 40 26",
+      "url": "http://www.ville-rochefort.fr"
+    }
+  },
+  {
+    "id": "522c700e1429f8ed4bbbea30b98b610cdb638b8e",
+    "name": "bureau_information_jeunesse_royan",
+    "title": "Bureau information jeunesse - Royan",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/charente-maritime/cij-17306-01",
+    "metadata": {
+      "email": "info@bij-ara.com",
+      "telephone": "05 46 06 60 70",
+      "url": "http://bijroyan.ij-poitou-charentes.org"
+    }
+  },
+  {
+    "id": "2d1c185d0d4582e4076acbaccd80b6a275a52323",
+    "name": "bureau_information_jeunesse_rueil_malmaison",
+    "title": "Bureau information jeunesse - Rueil-Malmaison",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/hauts-de-seine/cij-92063-01",
+    "metadata": {
+      "email": "bij@mairie-rueilmalmaison.fr",
+      "telephone": "01 47 32 82 78",
+      "url": ""
+    }
+  },
+  {
+    "id": "2d1c185d0d4582e4076acbaccd80b6a275a52323",
+    "name": "bureau_information_jeunesse_rueil_malmaison",
+    "title": "Bureau information jeunesse - Rueil-Malmaison",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/hauts-de-seine/cij-92063-02",
+    "metadata": {
+      "email": "bij@mairie-rueilmalmaison.fr",
+      "telephone": "01 47 32 82 78",
+      "url": ""
+    }
+  },
+  {
+    "id": "5fdf65b58d697d338c294f3dd9ae4b821493aaa3",
+    "name": "bureau_information_jeunesse_saint_chamond",
+    "title": "Bureau information jeunesse - Saint-Chamond",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/loire/cij-42207-01",
+    "metadata": {
+      "email": "jeunesse@saint-chamond.fr",
+      "telephone": "04 77 31 40 10",
+      "url": "http://www.saint-chamond.fr"
+    }
+  },
+  {
+    "id": "16bc54f6b1f35dcfcbb496204d386ef69a2a6086",
+    "name": "bureau_information_jeunesse_saint_denis",
+    "title": "Bureau information jeunesse - Saint-Denis",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/seine-saint-denis/cij-93066-01",
+    "metadata": {
+      "email": "alexandre.ngang@ville-saint-denis.fr",
+      "telephone": "01 49 33 67 03",
+      "url": "http://ville-saint-denis.frmaison-de-la-jeunesse"
+    }
+  },
+  {
+    "id": "82cfd6d33af963ca0cb3d6ab945ed06dc4702026",
+    "name": "bureau_information_jeunesse_sainte_livrade_sur_lot",
+    "title": "Bureau information jeunesse - Sainte-Livrade-sur-Lot",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/lot-et-garonne/cij-47252-01",
+    "metadata": {
+      "email": "bij@ville-ste-livrade47.fr",
+      "telephone": "05 53 01 47 98",
+      "url": "http://www.ville-ste-livrade47.fr"
+    }
+  },
+  {
+    "id": "e3220c79c56aa9772e632fa6088a9d77b1718fe1",
+    "name": "bureau_information_jeunesse_sainte_maxime",
+    "title": "Bureau information jeunesse - Sainte-Maxime",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/var/cij-83115-01",
+    "metadata": {
+      "email": "bij@ste-maxime.fr",
+      "telephone": "04 94 79 97 05",
+      "url": "https://www.sainte-maxime.com"
+    }
+  },
+  {
+    "id": "1a343563ee089de1e16afc5741c0a5ae3837da7d",
+    "name": "bureau_information_jeunesse_saintes",
+    "title": "Bureau information jeunesse - Saintes",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/charente-maritime/cij-17415-01",
+    "metadata": {
+      "email": "mission-locale-saintonge@wanadoo.fr",
+      "telephone": "05 46 97 49 50",
+      "url": "http://www.milo-saintonge.asso.fr"
+    }
+  },
+  {
+    "id": "bea50041495ee6c59ca86700dc3eb063e5daa007",
+    "name": "bureau_information_jeunesse_saint_jean_de_luz",
+    "title": "Bureau information jeunesse - Saint-Jean-de-Luz",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/pyrenees-atlantiques/cij-64483-01",
+    "metadata": {
+      "email": "jeunesse@saintjeandeluz.fr",
+      "telephone": "05 59 85 20 40",
+      "url": "http://www.saintjeandeluz.fr"
+    }
+  },
+  {
+    "id": "8b05d574ea08cf3b98ca143395434eda16678ff4",
+    "name": "bureau_information_jeunesse_saint_laurent_de_chamousset",
+    "title": "Bureau information jeunesse - Saint-Laurent-de-Chamousset",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/rhone/cij-69220-01",
+    "metadata": {
+      "email": "msap@cc-mdl.fr",
+      "telephone": "04 74 26 50 78",
+      "url": "http://www.cc-montsdulyonnais.fr"
+    }
+  },
+  {
+    "id": "d4eae74a4788076a4daa3a6d2b52f5c7c98cc7e2",
+    "name": "bureau_information_jeunesse_saint_laurent_du_var",
+    "title": "Bureau information jeunesse - Saint-Laurent-du-Var",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/alpes-maritimes/cij-06123-01",
+    "metadata": {
+      "email": "adeel@saintlaurentduvar.fr",
+      "telephone": "04 92 12 20 30",
+      "url": ""
+    }
+  },
+  {
+    "id": "c4eb3d54ff2654a57064b2ea124e6f7c753cf761",
+    "name": "bureau_information_jeunesse_saint_lo",
+    "title": "Bureau information jeunesse - Saint-Lô",
+    "url": "https://lannuaire.service-public.fr/normandie/manche/cij-50502-01",
+    "metadata": {
+      "email": "kiosk@saint-lo-agglo.fr",
+      "telephone": "02 14 16 30 10",
+      "url": "http://www.saint-lo-agglo.fr"
+    }
+  },
+  {
+    "id": "868e921f1bb90ff4a3bf7b864b444739347c77cf",
+    "name": "bureau_information_jeunesse_saint_medard_en_jalles",
+    "title": "Bureau information jeunesse - Saint-Médard-en-Jalles",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/gironde/cij-33449-01",
+    "metadata": {
+      "email": "bij@saint-medard-en-jalles.fr",
+      "telephone": "05 56 05 10 01",
+      "url": "http://espace-jeunes.saint-medard-en-jalles.fr"
+    }
+  },
+  {
+    "id": "17d58e14daa7463bf48ea8f01e575168d6019a46",
+    "name": "bureau_information_jeunesse_saint_ouen",
+    "title": "Bureau information jeunesse - Saint-Ouen",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/seine-saint-denis/cij-93070-01",
+    "metadata": {
+      "email": "initiativesjeune@mairie-saint-ouen.fr",
+      "telephone": "01 49 48 14 32",
+      "url": ""
+    }
+  },
+  {
+    "id": "fc30881a91ca9848e960953e4910018874a1101c",
+    "name": "bureau_information_jeunesse_saint_priest",
+    "title": "Bureau information jeunesse - Saint-Priest",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/rhone/cij-69290-01",
+    "metadata": {
+      "email": "bij@mairie-saint-priest.fr",
+      "telephone": "04 81 92 21 70",
+      "url": "http://www.ville-saint-priest.fr"
+    }
+  },
+  {
+    "id": "56bb078dc0989d04db23958325cc46672f637daa",
+    "name": "bureau_information_jeunesse_saint_raphael",
+    "title": "Bureau information jeunesse - Saint-Raphaël",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/var/cij-83118-01",
+    "metadata": {
+      "email": "bij@ville-saintraphael.fr",
+      "telephone": "04 98 11 89 75",
+      "url": "http://www.ville-saintraphael.fr"
+    }
+  },
+  {
+    "id": "aeb6c083a4157aacc331be5c258510fd11bc4eb8",
+    "name": "bureau_information_jeunesse_saint_tropez",
+    "title": "Bureau information jeunesse - Saint-Tropez",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/var/cij-83119-01",
+    "metadata": {
+      "email": "ccas@ville-sainttropez.fr",
+      "telephone": "04 94 97 81 57",
+      "url": ""
+    }
+  },
+  {
+    "id": "124852fae2b1bf8f195a991d9779494fb0d81379",
+    "name": "bureau_information_jeunesse_sarcelles",
+    "title": "Bureau information jeunesse - Sarcelles",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/val-d-oise/cij-95585-01",
+    "metadata": {
+      "email": "bij@sarcelles.fr",
+      "telephone": "01 34 38 27 74",
+      "url": "http://www.cidj.fr"
+    }
+  },
+  {
+    "id": "a32e25b08856155699c40f6ceb2d7513d9058672",
+    "name": "bureau_information_jeunesse_sevres",
+    "title": "Bureau information jeunesse - Sèvres",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/hauts-de-seine/cij-92072-01",
+    "metadata": {
+      "email": "lescale@ville-sevres.fr",
+      "telephone": "01 41 14 12 20",
+      "url": "http://www.sevres.fr"
+    }
+  },
+  {
+    "id": "8fbef53a7dab558c41383e4625d04e105fbd62f9",
+    "name": "bureau_information_jeunesse_suresnes",
+    "title": "Bureau information jeunesse - Suresnes",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/hauts-de-seine/cij-92073-01",
+    "metadata": {
+      "email": "bij@sij.asso.fr",
+      "telephone": "01 47 72 35 73",
+      "url": "http://www.sij.asso.fr"
+    }
+  },
+  {
+    "id": "296ae11aca769719d3a6ab0b7c2809c4bc10dff0",
+    "name": "bureau_information_jeunesse_surgeres",
+    "title": "Bureau information jeunesse - Surgères",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/charente-maritime/cij-17434-01",
+    "metadata": {
+      "email": "bij@aunis-sud.fr",
+      "telephone": "05 46 07 51 66",
+      "url": "http://www.aunis-sud.fr"
+    }
+  },
+  {
+    "id": "d3d9251c1f0109b63cfd73c1c16dd9fc4f7d2bf8",
+    "name": "bureau_information_jeunesse_talence",
+    "title": "Bureau information jeunesse - Talence",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/gironde/cij-33522-02",
+    "metadata": {
+      "email": "eij@talence.fr",
+      "telephone": "05 56 84 78 13",
+      "url": "http://www.mairiedetalence.fr"
+    }
+  },
+  {
+    "id": "df3d558d730bfd1348adfa35dcce00bb8d8c60c2",
+    "name": "bureau_information_jeunesse_tarascon",
+    "title": "Bureau information jeunesse - Tarascon",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/cij-13108-01",
+    "metadata": {
+      "email": "ass.teef@wanadoo.fr",
+      "telephone": "04 90 91 02 96",
+      "url": "http://www.teef-tarascon.fr"
+    }
+  },
+  {
+    "id": "de200187b57f36ba975ad94d50b8de9684ad6725",
+    "name": "bureau_information_jeunesse_tarbes",
+    "title": "Bureau information jeunesse - Tarbes",
+    "url": "https://lannuaire.service-public.fr/occitanie/hautes-pyrenees/cij-65440-01",
+    "metadata": {
+      "email": "bij@mairie-tarbes.fr",
+      "telephone": "05 62 93 22 12",
+      "url": "http://bijtarbes.pagesperso-orange.fr"
+    }
+  },
+  {
+    "id": "dd8fdfeb2c3b9800f466874c0c4cc212c4beb0a9",
+    "name": "bureau_information_jeunesse_tassin_la_demi_lune",
+    "title": "Bureau information jeunesse - Tassin-la-Demi-Lune",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/rhone/cij-69244-01",
+    "metadata": {
+      "email": "animation@villetassinlamilune.fr",
+      "telephone": "04 78 34 78 60",
+      "url": "http://www.tassinlademilune.fr"
+    }
+  },
+  {
+    "id": "45aacf1e7910a955d990b18c85566f4bb4268ec5",
+    "name": "bureau_information_jeunesse_terrasson_lavilledieu",
+    "title": "Bureau information jeunesse - Terrasson-Lavilledieu",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/dordogne/cij-24547-01",
+    "metadata": {
+      "email": "contact@espace-economie-emploi.com",
+      "telephone": "05 53 50 82 44",
+      "url": ""
+    }
+  },
+  {
+    "id": "a0b66713d13253eccad7c8be5393e97559f5677c",
+    "name": "bureau_information_jeunesse_thonon_les_bains",
+    "title": "Bureau information jeunesse - Thonon-les-Bains",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/haute-savoie/cij-74281-01",
+    "metadata": {
+      "email": "bij@thononagglo.fr",
+      "telephone": "04 50 26 22 23",
+      "url": "http://www.thononagglo.fr"
+    }
+  },
+  {
+    "id": "b3d09e9f37ac4e753dbb05bacfe0d8ebb3cca56f",
+    "name": "bureau_information_jeunesse_torcy",
+    "title": "Bureau information jeunesse - Torcy",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/seine-et-marne/cij-77468-01",
+    "metadata": {
+      "email": "bij@mairie-torcy.org",
+      "telephone": "01 60 05 36 95",
+      "url": "http://www.mairie-torcy.org"
+    }
+  },
+  {
+    "id": "b546fa71cb98b9574244adf5eb19f693e5e25850",
+    "name": "bureau_information_jeunesse_toulon",
+    "title": "Bureau information jeunesse - Toulon",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/var/cij-83137-01",
+    "metadata": {
+      "email": "bijtoulon@mairie-toulon.fr",
+      "telephone": "04 83 16 67 90",
+      "url": "http://www.toulon.fr"
+    }
+  },
+  {
+    "id": "b0c94472331f993a410c886de3a9c5d47bf4fbb2",
+    "name": "bureau_information_jeunesse_tours",
+    "title": "Bureau information jeunesse - Tours",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/indre-et-loire/cij-37261-01",
+    "metadata": {
+      "email": "bij37@ijcentre.fr",
+      "telephone": "02 47 64 69 13",
+      "url": "http://crijinfo.fr"
+    }
+  },
+  {
+    "id": "e910001f03859eea779d370e9bb9672188f4e93e",
+    "name": "bureau_information_jeunesse_trappes",
+    "title": "Bureau information jeunesse - Trappes",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/yvelines/cij-78621-01",
+    "metadata": {
+      "email": "bij@mairie-trappes.fr",
+      "telephone": "01 30 16 24 99",
+      "url": "http://www.cidj.com"
+    }
+  },
+  {
+    "id": "7c3da9e63c17b1b255e6be94d537fd75ab5c3e6f",
+    "name": "bureau_information_jeunesse_tremblay_en_france",
+    "title": "Bureau information jeunesse - Tremblay-en-France",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/seine-saint-denis/cij-93073-01",
+    "metadata": {
+      "email": "information.jeunesse@tremblayenfrance.fr",
+      "telephone": "01 41 51 15 60",
+      "url": "http://www.cidj.com"
+    }
+  },
+  {
+    "id": "58212d4e275b4196d9a64843fb1c78c90848bac7",
+    "name": "bureau_information_jeunesse_valreas",
+    "title": "Bureau information jeunesse - Valréas",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/vaucluse/cij-84138-01",
+    "metadata": {
+      "email": "mediationpij.valreas@gmail.com",
+      "telephone": "04 90 35 24 27",
+      "url": ""
+    }
+  },
+  {
+    "id": "3e7983c3039768ae3251c9dec53ffa2c79daac57",
+    "name": "bureau_information_jeunesse_vals_de_saintonge",
+    "title": "Bureau information jeunesse - Vals-de-Saintonge",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/charente-maritime/cij-17347-01",
+    "metadata": {
+      "email": "bij@cdcvalsdesaintonge.fr",
+      "telephone": "05 46 33 65 35",
+      "url": "http://www.valsdesaintonge.frbij"
+    }
+  },
+  {
+    "id": "01a3f0f039e61138bf432cf0d10b2e4736f4c9f5",
+    "name": "bureau_information_jeunesse_vannes",
+    "title": "Bureau information jeunesse - Vannes",
+    "url": "https://lannuaire.service-public.fr/bretagne/morbihan/cij-56260-01",
+    "metadata": {
+      "email": "bij@mairie-vannes.fr",
+      "telephone": "02 97 01 61 00",
+      "url": "http://www.mairie-vannes.fr"
+    }
+  }
+]

@@ -1,0 +1,200 @@
+[
+  {
+    "id": "95eb9315885b11f7c08b238b7dd5db3dc1b1cc0d",
+    "name": "centre_regional_de_formation_de_la_police_nationale_auvergne",
+    "title": "Centre régional de formation de la police nationale - Auvergne",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/puy-de-dome/crfpn-63103-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 73 86 36 85",
+      "url": ""
+    }
+  },
+  {
+    "id": "1f3c863b3751f1cdd4657253121a003711b5cafe",
+    "name": "centre_regional_de_formation_de_la_police_nationale_bourgogne",
+    "title": "Centre régional de formation de la police nationale - Bourgogne",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/cote-d-or/crfpn-21231-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 80 44 54 88",
+      "url": ""
+    }
+  },
+  {
+    "id": "cdfdfe1642875b3b6806a712964a1e45b85214d5",
+    "name": "centre_regional_de_formation_de_la_police_nationale_centre_val_de_loire",
+    "title": "Centre régional de formation de la police nationale - Centre-Val de Loire",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/indre-et-loire/crfpn-37214-01",
+    "metadata": {
+      "email": "crf.tours@interieur.gouv.fr",
+      "telephone": "02 47 42 86 79",
+      "url": ""
+    }
+  },
+  {
+    "id": "496e22626ca3834047882ce86a1156f11c216f46",
+    "name": "centre_regional_de_formation_de_la_police_nationale_corse",
+    "title": "Centre régional de formation de la police nationale - Corse",
+    "url": "https://lannuaire.service-public.fr/corse/corse-du-sud/crfpn-2A004-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 30 08 13 08",
+      "url": ""
+    }
+  },
+  {
+    "id": "22fbe7cfc912bbb97d051135f242144a10f7c2bc",
+    "name": "centre_regional_de_formation_de_la_police_nationale_guyane",
+    "title": "Centre régional de formation de la Police nationale - Guyane",
+    "url": "https://lannuaire.service-public.fr/guadeloupe/guadeloupe/crfpn-97101-01",
+    "metadata": {
+      "email": "",
+      "telephone": "+590 5 90 47 11 50",
+      "url": ""
+    }
+  },
+  {
+    "id": "b9027bd59b3c4d043308591d2399a1ab0fae1773",
+    "name": "centre_regional_de_formation_de_la_police_nationale_ile_de_france",
+    "title": "Centre régional de formation de la police nationale - Île-de-France",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/seine-et-marne/crfpn-77258-01",
+    "metadata": {
+      "email": "",
+      "telephone": "01 60 05 00 22",
+      "url": ""
+    }
+  },
+  {
+    "id": "5cad1e7370d07d80b29235d8e073d1c7d6f3c8be",
+    "name": "centre_regional_de_formation_de_la_police_nationale_languedoc_roussillon",
+    "title": "Centre régional de formation de la police nationale - Languedoc-Roussillon",
+    "url": "https://lannuaire.service-public.fr/occitanie/herault/crfpn-34172-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 67 06 13 50",
+      "url": ""
+    }
+  },
+  {
+    "id": "add4ca5299a0be8db1583f92500ad93cc02d017b",
+    "name": "centre_regional_de_formation_de_la_police_nationale_martinique",
+    "title": "Centre régional de formation de la Police nationale - Martinique",
+    "url": "https://lannuaire.service-public.fr/martinique/martinique/crfpn-97213-01",
+    "metadata": {
+      "email": "crf-martinique@interieur.gouv.fr",
+      "telephone": "05 96 39 20 80",
+      "url": "https://www.devenirpolicier.fr/"
+    }
+  },
+  {
+    "id": "c4354adfae389524a088ff3b1a596de9141d0ff9",
+    "name": "centre_regional_de_formation_de_la_police_nationale_midi_pyrenees",
+    "title": "Centre régional de formation de la police nationale - Midi-Pyrénées",
+    "url": "https://lannuaire.service-public.fr/occitanie/haute-garonne/crfpn-31555-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 61 12 77 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "8942ef4fafd5d3a1c9e44af35b15af85bb43cd3f",
+    "name": "centre_regional_de_formation_de_la_police_nationale_polynesie_francaise",
+    "title": "Centre régional de formation de la police nationale - Polynésie française",
+    "url": "https://lannuaire.service-public.fr/collectivites-d-outre-mer/polynesie-francaise/crfpn-98735-01",
+    "metadata": {
+      "email": "secretariat-crf987@interieur.gouv.fr",
+      "telephone": "+689 40 46 89 50",
+      "url": "http://www.polynesie-francaise.pref.gouv.fr/Services-de-l-Etat/Securite/Centre-Regional-de-Formation"
+    }
+  },
+  {
+    "id": "1cbb4d55198d8e2449ba487ec3a8329ac8f70134",
+    "name": "direction_regionale_au_recrutement_et_a_la_formation_de_la_police_nationale_reunion",
+    "title": "Direction régionale au recrutement et à la formation de la police nationale - Réunion",
+    "url": "https://lannuaire.service-public.fr/la-reunion/reunion/crfpn-97411-01",
+    "metadata": {
+      "email": "",
+      "telephone": "+262 2 62 90 26 46",
+      "url": ""
+    }
+  },
+  {
+    "id": "cd3d77038423fcdd5836d6421e3c9e5a821603f1",
+    "name": "direction_zonale_au_recrutement_et_a_la_formation_de_la_police_nationale_est",
+    "title": "Direction zonale au recrutement et à la formation de la police nationale - Est",
+    "url": "https://lannuaire.service-public.fr/grand-est/moselle/crfpn-01",
+    "metadata": {
+      "email": "dcrfpn-dzrfpn-est@interieur.gouv.fr",
+      "telephone": "03 54 73 72 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "07a1b46cec89969208305c007c82114d046d078a",
+    "name": "direction_zonale_au_recrutement_et_a_la_formation_de_la_police_nationale_nord",
+    "title": "Direction zonale au recrutement et à la formation de la police nationale - Nord",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/nord/crfpn-59350-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 20 81 71 71",
+      "url": ""
+    }
+  },
+  {
+    "id": "6be8d8584000f52c17b9a8b93dfc9db8607d7e58",
+    "name": "direction_zonale_au_recrutement_et_a_la_formation_de_la_police_nationale_ouest",
+    "title": "Direction zonale au recrutement et à la formation de la police nationale - Ouest",
+    "url": "https://lannuaire.service-public.fr/bretagne/ille-et-vilaine/crfpn-35047-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 99 57 98 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "6c68ec15decfea28f417db15a5563fb35c9dab15",
+    "name": "direction_zonale_au_recrutement_et_a_la_formation_de_la_police_nationale_paris_ile_de_france",
+    "title": "Direction zonale au recrutement et à la formation de la police nationale - Paris - Île-de-France",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/paris/crfpn-75113-01",
+    "metadata": {
+      "email": "",
+      "telephone": "01 53 60 56 66",
+      "url": ""
+    }
+  },
+  {
+    "id": "54336b60dbd33f813381e6dda850795ad41240eb",
+    "name": "direction_zonale_au_recrutement_et_a_la_formation_de_la_police_nationale_sud",
+    "title": "Direction zonale au recrutement et à la formation de la police nationale - Sud",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/crfpn-13214-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 66 28 31 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "f89b11d7530bb3d9c1b014db9002bf82715df38a",
+    "name": "direction_zonale_au_recrutement_et_a_la_formation_de_la_police_nationale_sud_est",
+    "title": "Direction zonale au recrutement et à la formation de la police nationale - Sud-Est",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/rhone/crfpn-69382-01",
+    "metadata": {
+      "email": "info.police-recrutement-lyon@interieur.gouv.fr",
+      "telephone": "",
+      "url": ""
+    }
+  },
+  {
+    "id": "7c65b7e650aa10b5c200bbde260121c7ab927a2c",
+    "name": "direction_zonale_au_recrutement_et_a_la_formation_de_la_police_nationale_sud_ouest",
+    "title": "Direction zonale au recrutement et à la formation de la police nationale - Sud-Ouest",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/gironde/crfpn-33063-01",
+    "metadata": {
+      "email": "info-police-recrutement-bordeaux@interieur.gouv.fr",
+      "telephone": "05 57 22 33 22",
+      "url": ""
+    }
+  }
+]

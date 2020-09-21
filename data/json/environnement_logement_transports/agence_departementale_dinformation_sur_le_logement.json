@@ -1,0 +1,1202 @@
+[
+  {
+    "id": "28e64a6c60be9988b0125bfbda60348c76e96795",
+    "alternateName": "ADIL",
+    "name": "agence_departementale_dinformation_sur_le_logement_adil_ain",
+    "title": "Agence départementale d'information sur le logement (ADIL) - Ain",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/ain/adil-01053-01",
+    "metadata": {
+      "email": "adil.01@wanadoo.fr",
+      "telephone": "04 74 21 82 77",
+      "url": "http://www.adil01.org"
+    }
+  },
+  {
+    "id": "15bc5cb7cc3daa5846d3b4c0db835b5c20ac515e",
+    "alternateName": "ADIL",
+    "name": "agence_departementale_dinformation_sur_le_logement_adil_allier_montlucon",
+    "title": "Agence départementale d'information sur le logement (ADIL) - Allier - Montluçon",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/allier/adil-03185-01",
+    "metadata": {
+      "email": "adil03@orange.fr",
+      "telephone": "04 70 28 42 04",
+      "url": "http://www.adil03.org"
+    }
+  },
+  {
+    "id": "2f785d7587694996ede441ea1f39d2bbca7cb5a1",
+    "alternateName": "ADIL",
+    "name": "agence_departementale_dinformation_sur_le_logement_adil_allier_moulins",
+    "title": "Agence départementale d'information sur le logement (ADIL) - Allier - Moulins",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/allier/adil-03190-01",
+    "metadata": {
+      "email": "adil03@orange.fr",
+      "telephone": "04 70 20 44 10",
+      "url": "http://www.adil03.org"
+    }
+  },
+  {
+    "id": "b8d79a0d2ac497ec2316cdd04a603e42610ddbbc",
+    "alternateName": "ADIL",
+    "name": "agence_departementale_dinformation_sur_le_logement_adil_allier_vichy",
+    "title": "Agence départementale d'information sur le logement (ADIL) - Allier - Vichy",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/allier/adil-03310-01",
+    "metadata": {
+      "email": "adil03@orange.fr",
+      "telephone": "04 70 98 18 45",
+      "url": "http://www.adil03.org"
+    }
+  },
+  {
+    "id": "8dc41f9b9abb3f32269891fedc2cf25de8b0e020",
+    "alternateName": "ADIL",
+    "name": "agence_departementale_dinformation_sur_le_logement_adil_ardennes",
+    "title": "Agence départementale d'information sur le logement (ADIL) - Ardennes",
+    "url": "https://lannuaire.service-public.fr/grand-est/ardennes/adil-08105-01",
+    "metadata": {
+      "email": "adil@adil08.fr",
+      "telephone": "03 24 58 28 92",
+      "url": "http://www.adil08.org"
+    }
+  },
+  {
+    "id": "34b93561370cbe0982427cb9b85f720c8a86b6ed",
+    "alternateName": "ADIL",
+    "name": "agence_departementale_dinformation_sur_le_logement_adil_aube",
+    "title": "Agence départementale d'information sur le logement (ADIL) - Aube",
+    "url": "https://lannuaire.service-public.fr/grand-est/aube/adil-10387-01",
+    "metadata": {
+      "email": "adil10@wanadoo.fr",
+      "telephone": "03 25 73 42 05",
+      "url": "http://www.adil10.org"
+    }
+  },
+  {
+    "id": "4e91f1fd998a720e890fd2134814613de170b382",
+    "alternateName": "ADIL",
+    "name": "agence_departementale_dinformation_sur_le_logement_adil_aveyron",
+    "title": "Agence départementale d'information sur le logement (ADIL) - Aveyron",
+    "url": "https://lannuaire.service-public.fr/occitanie/aveyron/adil-12202-01",
+    "metadata": {
+      "email": "adil12@wanadoo.fr",
+      "telephone": "05 65 73 18 00",
+      "url": "http://www.adil12.org"
+    }
+  },
+  {
+    "id": "df0ec2d082a7b080dbe9a3f503d2f0b195e1169a",
+    "alternateName": "ADIL",
+    "name": "agence_departementale_dinformation_sur_le_logement_adil_bas_rhin",
+    "title": "Agence départementale d'information sur le logement (ADIL) - Bas-Rhin",
+    "url": "https://lannuaire.service-public.fr/grand-est/bas-rhin/adil-67482-01",
+    "metadata": {
+      "email": "adil.67@wanadoo.fr",
+      "telephone": "03 88 21 07 06",
+      "url": "http://www.adil67.org"
+    }
+  },
+  {
+    "id": "ffac957bb79d9aab07660cc02700c9d0ff55efc2",
+    "alternateName": "ADIL",
+    "name": "agence_departementale_dinformation_sur_le_logement_adil_bouches_du_rhone",
+    "title": "Agence départementale d'information sur le logement (ADIL) - Bouches-du-Rhône",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/adil-13201-01",
+    "metadata": {
+      "email": "contact@adil13.org",
+      "telephone": "04 96 11 12 00",
+      "url": "http://www.adil13.org"
+    }
+  },
+  {
+    "id": "8cc5b752596bc6c086cb5918f2b99556383d0cf5",
+    "alternateName": "ADIL",
+    "name": "agence_departementale_dinformation_sur_le_logement_adil_charente",
+    "title": "Agence départementale d'information sur le logement (ADIL) - Charente",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/charente/adil-16015-01",
+    "metadata": {
+      "email": "adil16@orange.fr",
+      "telephone": "05 45 93 94 95",
+      "url": "http://www.adil16.org"
+    }
+  },
+  {
+    "id": "1847e1f4dfd854d1b272cb006152602e8d96e19e",
+    "alternateName": "ADIL",
+    "name": "agence_departementale_dinformation_sur_le_logement_adil_charente_maritime",
+    "title": "Agence départementale d'information sur le logement (ADIL) - Charente-Maritime",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/charente-maritime/adil-17300-01",
+    "metadata": {
+      "email": "contact@adil17.org",
+      "telephone": "05 46 34 41 36",
+      "url": "http://www.adil17.org"
+    }
+  },
+  {
+    "id": "59a0e3c362033720df6d144f0d278b9f80f601ff",
+    "alternateName": "ADIL",
+    "name": "agence_departementale_dinformation_sur_le_logement_adil_correze",
+    "title": "Agence départementale d'information sur le logement (ADIL) - Corrèze",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/correze/adil-19272-01",
+    "metadata": {
+      "email": "adil.19@orange.fr",
+      "telephone": "05 55 26 56 82",
+      "url": "http://www.adil19.org"
+    }
+  },
+  {
+    "id": "7910eb723234049ed29f6925d50d02f9c719e850",
+    "alternateName": "ADIL",
+    "name": "agence_departementale_dinformation_sur_le_logement_adil_corse_bastia",
+    "title": "Agence départementale d'information sur le logement (ADIL) - Corse – Bastia",
+    "url": "https://lannuaire.service-public.fr/corse/haute-corse/adil-2B033-01",
+    "metadata": {
+      "email": "adil2b@orange.fr",
+      "telephone": "04 95 58 15 32",
+      "url": "http://www.adil2b.org"
+    }
+  },
+  {
+    "id": "d4fefeb50049d3dd373e39e2e1ddbeebec8e1626",
+    "alternateName": "ADIL",
+    "name": "agence_departementale_dinformation_sur_le_logement_adil_corse_du_sud",
+    "title": "Agence départementale d'information sur le logement (ADIL) - Corse-du-Sud",
+    "url": "https://lannuaire.service-public.fr/corse/corse-du-sud/adil-2A004-01",
+    "metadata": {
+      "email": "adil.2a@orange.fr",
+      "telephone": "04 95 20 85 25",
+      "url": "http://www.adil2a.org"
+    }
+  },
+  {
+    "id": "4a27deb4422f0146529ea15e56fd552e41384b0f",
+    "alternateName": "ADIL",
+    "name": "agence_departementale_dinformation_sur_le_logement_adil_cote_d_or",
+    "title": "Agence départementale d'information sur le logement (ADIL) - Côte-d'Or",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/cote-d-or/adil-21231-01",
+    "metadata": {
+      "email": "https://www.adil21.frnous-contacter",
+      "telephone": "03 80 66 28 88",
+      "url": "https://www.adil21.fr"
+    }
+  },
+  {
+    "id": "902c079be6bd864dfad9ea25e1297e413977c1ce",
+    "alternateName": "ADIL",
+    "name": "agence_departementale_dinformation_sur_le_logement_adil_cotes_d_armor",
+    "title": "Agence départementale d'information sur le logement (ADIL) - Côtes-d'Armor",
+    "url": "https://lannuaire.service-public.fr/bretagne/cotes-d-armor/adil-22278-01",
+    "metadata": {
+      "email": "adil.22@orange.fr",
+      "telephone": "02 96 61 50 46",
+      "url": "http://www.adil22.org"
+    }
+  },
+  {
+    "id": "9af17516d316333ed3b38c5d1ab39301139d82fd",
+    "alternateName": "ADIL",
+    "name": "agence_departementale_dinformation_sur_le_logement_adil_deux_sevres",
+    "title": "Agence départementale d'information sur le logement (ADIL) - Deux-Sèvres",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/deux-sevres/adil-79191-01",
+    "metadata": {
+      "email": "accueil@adil79.fr",
+      "telephone": "05 49 28 08 08",
+      "url": "http://www.adil79.org"
+    }
+  },
+  {
+    "id": "f8acb75b49d71f84caabc97d0f55511765c50546",
+    "alternateName": "ADIL",
+    "name": "agence_departementale_dinformation_sur_le_logement_adil_dordogne",
+    "title": "Agence départementale d'information sur le logement (ADIL) - Dordogne",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/dordogne/adil-24322-01",
+    "metadata": {
+      "email": "contact@adil24.org",
+      "telephone": "05 53 09 89 89",
+      "url": "http://www.adil24.org"
+    }
+  },
+  {
+    "id": "cf020184914388a027585f90532e73db446aefb3",
+    "alternateName": "ADIL",
+    "name": "agence_departementale_dinformation_sur_le_logement_adil_doubs_besancon",
+    "title": "Agence départementale d'information sur le logement (ADIL) - Doubs - Besançon",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/doubs/adil-25056-01",
+    "metadata": {
+      "email": "contact@adil25.fr",
+      "telephone": "03 81 61 92 41",
+      "url": "http://www.adil25.org"
+    }
+  },
+  {
+    "id": "c47dac0767b8d234221d35c04b835786506df767",
+    "alternateName": "ADIL",
+    "name": "agence_departementale_dinformation_sur_le_logement_adil_doubs_montbeliard",
+    "title": "Agence départementale d'information sur le logement (ADIL) - Doubs - Montbéliard",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/doubs/adil-25228-01",
+    "metadata": {
+      "email": "contact@adil25.fr",
+      "telephone": "03 81 61 92 41",
+      "url": "http://www.adil25.org"
+    }
+  },
+  {
+    "id": "fca580ced09d189b9c74f9f6ceee810cd4bf21e7",
+    "alternateName": "ADIL",
+    "name": "agence_departementale_dinformation_sur_le_logement_adil_drome",
+    "title": "Agence départementale d'information sur le logement (ADIL) - Drôme",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/drome/adil-26362-01",
+    "metadata": {
+      "email": "adil26@dromenet.org",
+      "telephone": "04 75 79 04 04",
+      "url": "http://adil.dromenet.org"
+    }
+  },
+  {
+    "id": "35c567ac48a8d3f58560efc8ba1f61da0063eb58",
+    "alternateName": "ADIL",
+    "name": "agence_departementale_dinformation_sur_le_logement_adil_essonne",
+    "title": "Agence départementale d'information sur le logement (ADIL) - Essonne",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/essonne/adil-91228-01",
+    "metadata": {
+      "email": "adil.91@wanadoo.fr",
+      "telephone": "01 60 77 21 22",
+      "url": "http://www.adil91.org"
+    }
+  },
+  {
+    "id": "1764bb516db53ddea4392c38ca8773915234c7ce",
+    "alternateName": "ADIL",
+    "name": "agence_departementale_dinformation_sur_le_logement_adil_eure",
+    "title": "Agence départementale d'information sur le logement (ADIL) - Eure",
+    "url": "https://lannuaire.service-public.fr/normandie/eure/adil-27229-01",
+    "metadata": {
+      "email": "adil27@cegetel.net",
+      "telephone": "02 32 24 06 66",
+      "url": "http://www.adil27.org"
+    }
+  },
+  {
+    "id": "7dab71743adf30f4758befc0a18eb110b16457e7",
+    "alternateName": "ADIL",
+    "name": "agence_departementale_dinformation_sur_le_logement_adil_finistere_brest",
+    "title": "Agence départementale d'information sur le logement (ADIL) - Finistère - Brest",
+    "url": "https://lannuaire.service-public.fr/bretagne/finistere/adil-29019-01",
+    "metadata": {
+      "email": "adil29@adil29.org",
+      "telephone": "02 98 46 37 38",
+      "url": "http://www.adil29.org"
+    }
+  },
+  {
+    "id": "d07b40e9510efab16d0746e0df6dfe5406733add",
+    "alternateName": "ADIL",
+    "name": "agence_departementale_dinformation_sur_le_logement_adil_finistere_quimper",
+    "title": "Agence départementale d'information sur le logement (ADIL) - Finistère - Quimper",
+    "url": "https://lannuaire.service-public.fr/bretagne/finistere/adil-29232-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 98 46 37 38",
+      "url": "http://www.adil29.org"
+    }
+  },
+  {
+    "id": "a6f455639e7007aff34c99492fc034e52e7ae08b",
+    "alternateName": "ADIL",
+    "name": "agence_departementale_dinformation_sur_le_logement_adil_gard",
+    "title": "Agence départementale d'information sur le logement (ADIL) - Gard",
+    "url": "https://lannuaire.service-public.fr/occitanie/gard/adil-30189-01",
+    "metadata": {
+      "email": "courrier@adil30.org",
+      "telephone": "04 66 21 22 23",
+      "url": "http://www.adil30.org"
+    }
+  },
+  {
+    "id": "229f46ee33e0322b2ce5413b9b2e79c1e76e7eda",
+    "alternateName": "ADIL",
+    "name": "agence_departementale_dinformation_sur_le_logement_adil_gers",
+    "title": "Agence départementale d'information sur le logement (ADIL) - Gers",
+    "url": "https://lannuaire.service-public.fr/occitanie/gers/adil-32013-01",
+    "metadata": {
+      "email": "direction@adil32.org",
+      "telephone": "05 81 32 35 05",
+      "url": "http://www.adil32.org"
+    }
+  },
+  {
+    "id": "c2f71e58a3094fbcd615fa519639ad40fa1778e3",
+    "alternateName": "ADIL",
+    "name": "agence_departementale_dinformation_sur_le_logement_adil_gironde",
+    "title": "Agence départementale d'information sur le logement (ADIL) - Gironde",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/gironde/adil-33063-01",
+    "metadata": {
+      "email": "contact@adil33.com",
+      "telephone": "05 57 10 09 10",
+      "url": "http://www.adil33.org"
+    }
+  },
+  {
+    "id": "448ece75793e2c56c3c749b8bdd7c1850a25bd80",
+    "alternateName": "ADIL",
+    "name": "agence_departementale_dinformation_sur_le_logement_adil_guadeloupe",
+    "title": "Agence départementale d'information sur le logement (ADIL) - Guadeloupe",
+    "url": "https://lannuaire.service-public.fr/guadeloupe/guadeloupe/adil-97101-01",
+    "metadata": {
+      "email": "adil.971@wanadoo.fr",
+      "telephone": "05 90 89 43 63",
+      "url": "http://www.adil971.org"
+    }
+  },
+  {
+    "id": "89cb22d934bb1934137aecef62485491d667ffaf",
+    "alternateName": "ADIL",
+    "name": "agence_departementale_dinformation_sur_le_logement_adil_guyane",
+    "title": "Agence départementale d'information sur le logement (ADIL) - Guyane",
+    "url": "https://lannuaire.service-public.fr/guyane/guyane/adil-97302-01",
+    "metadata": {
+      "email": "contact@adil973.fr",
+      "telephone": "+594 5 94 38 14 29",
+      "url": "http://www.adil973.fr"
+    }
+  },
+  {
+    "id": "d3e2c8cab8ed93db751c8e255b3f5a06326af575",
+    "alternateName": "ADIL",
+    "name": "agence_departementale_dinformation_sur_le_logement_adil_haute_garonne",
+    "title": "Agence départementale d'information sur le logement (ADIL) - Haute-Garonne",
+    "url": "https://lannuaire.service-public.fr/occitanie/haute-garonne/adil-31555-01",
+    "metadata": {
+      "email": "info@adil31.org",
+      "telephone": "05 61 22 46 22",
+      "url": "http://www.adil31.org"
+    }
+  },
+  {
+    "id": "44546a13e32e13837d25765bfdac7eda0e5a25ab",
+    "alternateName": "ADIL",
+    "name": "agence_departementale_dinformation_sur_le_logement_adil_hautes_alpes",
+    "title": "Agence départementale d'information sur le logement (ADIL) - Hautes-Alpes",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/hautes-alpes/adil-05061-01",
+    "metadata": {
+      "email": "accueil@adil05.org",
+      "telephone": "04 92 21 05 98",
+      "url": "http://www.adil04-05.org"
+    }
+  },
+  {
+    "id": "d037938feef2c238f8a22422b822fcbce17ff96c",
+    "alternateName": "ADIL",
+    "name": "agence_departementale_dinformation_sur_le_logement_adil_haute_saone",
+    "title": "Agence départementale d'information sur le logement (ADIL) - Haute-Saône",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/haute-saone/adil-70550-01",
+    "metadata": {
+      "email": "adil.70@wanadoo.fr",
+      "telephone": "03 84 75 60 19",
+      "url": "http://www.adil70.org"
+    }
+  },
+  {
+    "id": "b98fd97c9fe4f1e4866a72d51d74ce99a2f69bfc",
+    "alternateName": "ADIL",
+    "name": "agence_departementale_dinformation_sur_le_logement_adil_haute_savoie",
+    "title": "Agence départementale d'information sur le logement (ADIL) - Haute-Savoie",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/haute-savoie/adil-74010-01",
+    "metadata": {
+      "email": "pls.adil74@wanadoo.fr",
+      "telephone": "04 50 45 79 72",
+      "url": "http://www.adil74.org"
+    }
+  },
+  {
+    "id": "f1fbfe32f80cc17846c26d23097f30cdad88dd9e",
+    "alternateName": "ADIL",
+    "name": "agence_departementale_dinformation_sur_le_logement_adil_hautes_pyrenees",
+    "title": "Agence départementale d'information sur le logement (ADIL) - Hautes-Pyrénées",
+    "url": "https://lannuaire.service-public.fr/occitanie/hautes-pyrenees/adil-65440-01",
+    "metadata": {
+      "email": "adil.65@wanadoo.fr",
+      "telephone": "05 62 34 67 11",
+      "url": "http://www.adil65.org"
+    }
+  },
+  {
+    "id": "e9f9f1993ffbd5bc05f21563a1bbd3f3587938e1",
+    "alternateName": "ADIL",
+    "name": "agence_departementale_dinformation_sur_le_logement_adil_haute_vienne",
+    "title": "Agence départementale d'information sur le logement (ADIL) - Haute-Vienne",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/haute-vienne/adil-87085-01",
+    "metadata": {
+      "email": "contact@adil87.org",
+      "telephone": "05 55 10 89 89",
+      "url": "http://www.adil87.org"
+    }
+  },
+  {
+    "id": "8089b7ade287bfa5dfe4b3cacc64de3586f52d3b",
+    "alternateName": "ADIL",
+    "name": "agence_departementale_dinformation_sur_le_logement_adil_haut_rhin_colmar",
+    "title": "Agence départementale d'information sur le logement (ADIL) - Haut-Rhin - Colmar",
+    "url": "https://lannuaire.service-public.fr/grand-est/haut-rhin/adil-68066-01",
+    "metadata": {
+      "email": "contact@adil68.fr",
+      "telephone": "03 89 21 75 35",
+      "url": "http://www.adil68.org"
+    }
+  },
+  {
+    "id": "31bb54b7d88761f64ced98b4d42ca533383f3af6",
+    "alternateName": "ADIL",
+    "name": "agence_departementale_dinformation_sur_le_logement_adil_haut_rhin_mulhouse",
+    "title": "Agence départementale d'information sur le logement (ADIL) - Haut-Rhin - Mulhouse",
+    "url": "https://lannuaire.service-public.fr/grand-est/haut-rhin/adil-68224-01",
+    "metadata": {
+      "email": "contact@adil68.fr",
+      "telephone": "03 89 46 79 50",
+      "url": "http://www.adil68.org"
+    }
+  },
+  {
+    "id": "417acf69b4923d4d3bc046ae2ed5496d562c649e",
+    "alternateName": "ADIL",
+    "name": "agence_departementale_dinformation_sur_le_logement_adil_hauts_de_seine_nanterre",
+    "title": "Agence départementale d'information sur le logement (ADIL) - Hauts-de-Seine - Nanterre",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/hauts-de-seine/adil-92050-01",
+    "metadata": {
+      "email": "adil92@adil92.org",
+      "telephone": "01 41 45 06 10",
+      "url": "http://www.adil92.org"
+    }
+  },
+  {
+    "id": "43a4a85899748b8c14a6ebe0873a27e223f9230c",
+    "alternateName": "ADIL",
+    "name": "agence_departementale_dinformation_sur_le_logement_adil_herault_beziers",
+    "title": "Agence départementale d'information sur le logement (ADIL) - Hérault - Béziers",
+    "url": "https://lannuaire.service-public.fr/occitanie/herault/adil-34032-01",
+    "metadata": {
+      "email": "contact@adil34.org",
+      "telephone": "04 67 55 55 55",
+      "url": "http://www.adil34.org"
+    }
+  },
+  {
+    "id": "131fd442332ac47ff3fd79f4e19eb64d059659e9",
+    "alternateName": "ADIL",
+    "name": "agence_departementale_dinformation_sur_le_logement_adil_herault_montpellier",
+    "title": "Agence départementale d'information sur le logement (ADIL) - Hérault - Montpellier",
+    "url": "https://lannuaire.service-public.fr/occitanie/herault/adil-34172-01",
+    "metadata": {
+      "email": "contact.adil34@orange.fr",
+      "telephone": "04 67 55 55 55",
+      "url": "http://www.adil34.org"
+    }
+  },
+  {
+    "id": "70dc51136cbd36c0af7d047d36e71843e253649a",
+    "alternateName": "ADIL",
+    "name": "agence_departementale_dinformation_sur_le_logement_adil_ille_et_vilaine",
+    "title": "Agence départementale d'information sur le logement (ADIL) - Ille-et-Vilaine",
+    "url": "https://lannuaire.service-public.fr/bretagne/ille-et-vilaine/adil-35238-01",
+    "metadata": {
+      "email": "adil35@wanadoo.fr",
+      "telephone": "02 99 78  2727",
+      "url": "http://www.adil35.org"
+    }
+  },
+  {
+    "id": "74278e4ea4ddd8b1ddb11998162f06877264a34f",
+    "alternateName": "ADIL",
+    "name": "agence_departementale_dinformation_sur_le_logement_adil_indre",
+    "title": "Agence départementale d'information sur le logement (ADIL) - Indre",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/indre/adil-36044-01",
+    "metadata": {
+      "email": "contact@adil36.org",
+      "telephone": "02 54 27 37 37",
+      "url": "http://www.adil36.org"
+    }
+  },
+  {
+    "id": "340d1b61b958f7f0ff37a5167b98e9691aa38bfe",
+    "alternateName": "ADIL",
+    "name": "agence_departementale_dinformation_sur_le_logement_adil_jura",
+    "title": "Agence départementale d'information sur le logement (ADIL) - Jura",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/jura/adil-39300-01",
+    "metadata": {
+      "email": "adil.39@wanadoo.fr",
+      "telephone": "03 84 86 19 30",
+      "url": "http://www.adil39.org"
+    }
+  },
+  {
+    "id": "891eb78a0aa7de4c110b930b16157219c3728779",
+    "alternateName": "ADIL",
+    "name": "agence_departementale_dinformation_sur_le_logement_adil_landes_dax",
+    "title": "Agence départementale d'information sur le logement (ADIL) - Landes - Dax",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/landes/adil-40088-01",
+    "metadata": {
+      "email": "contact@adil40.fr",
+      "telephone": "05 58 91 00 11",
+      "url": "http://www.adil40.fr"
+    }
+  },
+  {
+    "id": "c72f306b2ed6d74c246c1099897e92c48db44167",
+    "alternateName": "ADIL",
+    "name": "agence_departementale_dinformation_sur_le_logement_adil_landes_mont_de_marsan",
+    "title": "Agence départementale d'information sur le logement (ADIL) - Landes - Mont-de-Marsan",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/landes/adil-40192-01",
+    "metadata": {
+      "email": "contact@adil40.fr",
+      "telephone": "05 58 46 58 58",
+      "url": "http://www.adil40.fr"
+    }
+  },
+  {
+    "id": "93ebcd4a723334449b715ad76853134ee6c4ba65",
+    "alternateName": "ADIL",
+    "name": "agence_departementale_dinformation_sur_le_logement_adil_loire",
+    "title": "Agence départementale d'information sur le logement (ADIL) - Loire",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/loire/adil-42218-01",
+    "metadata": {
+      "email": "contact@adil42.org",
+      "telephone": "04 77 95 13 32",
+      "url": "http://www.adil42.org"
+    }
+  },
+  {
+    "id": "64c0a915755a4c9f6eebb9eadcc3937f39bffa9b",
+    "alternateName": "ADIL",
+    "name": "agence_departementale_dinformation_sur_le_logement_adil_loire_atlantique_nantes",
+    "title": "Agence départementale d'information sur le logement (ADIL) - Loire-Atlantique - Nantes",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/loire-atlantique/adil-44109-01",
+    "metadata": {
+      "email": "contact@adil44.fr",
+      "telephone": "02 40 89 30 15",
+      "url": "http://www.adil44.fr"
+    }
+  },
+  {
+    "id": "db5778a762186bcc2c5bce1fc0aa691ffe5be6c1",
+    "alternateName": "ADIL",
+    "name": "agence_departementale_dinformation_sur_le_logement_adil_loire_atlantique_saint_nazaire",
+    "title": "Agence départementale d'information sur le logement (ADIL) - Loire-Atlantique - Saint-Nazaire",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/loire-atlantique/adil-44184-01",
+    "metadata": {
+      "email": "contact.stnazaire@adil44.fr",
+      "telephone": "02 40 66 80 29",
+      "url": "http://www.adil44.fr"
+    }
+  },
+  {
+    "id": "1e0a12e308d182b53b77e3745dfc7305ed34aebd",
+    "alternateName": "ADIL",
+    "name": "agence_departementale_dinformation_sur_le_logement_adil_loiret",
+    "title": "Agence départementale d'information sur le logement (ADIL) - Loiret",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/loiret/adil-45234-01",
+    "metadata": {
+      "email": "adil.eie@adil45.org",
+      "telephone": "02 38 62 47 07",
+      "url": "http://www.adil45.org"
+    }
+  },
+  {
+    "id": "0905c0a8605dc9c8d64386155f93871de1ef0ac0",
+    "alternateName": "ADIL",
+    "name": "agence_departementale_dinformation_sur_le_logement_adil_loir_et_cher",
+    "title": "Agence départementale d'information sur le logement (ADIL) - Loir-et-Cher",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/loir-et-cher/adil-41018-01",
+    "metadata": {
+      "email": "adileie41@wanadoo.fr",
+      "telephone": "02 54 42 10 00",
+      "url": "http://www.adil41.org"
+    }
+  },
+  {
+    "id": "5f8edec2ce6a857694742f316eee2e0fa01e3d5c",
+    "alternateName": "ADIL",
+    "name": "agence_departementale_dinformation_sur_le_logement_adil_lot",
+    "title": "Agence départementale d'information sur le logement (ADIL) - Lot",
+    "url": "https://lannuaire.service-public.fr/occitanie/lot/adil-46042-01",
+    "metadata": {
+      "email": "adil46@wanadoo.fr",
+      "telephone": "05 65 35 25 41",
+      "url": "http://www.adil46.org"
+    }
+  },
+  {
+    "id": "470892e3dbd08e8f973c39da587cce12de3374cc",
+    "alternateName": "ADIL",
+    "name": "agence_departementale_dinformation_sur_le_logement_adil_lozere",
+    "title": "Agence départementale d'information sur le logement (ADIL) - Lozère",
+    "url": "https://lannuaire.service-public.fr/occitanie/lozere/adil-48095-01",
+    "metadata": {
+      "email": "contact.adil48@orange.fr",
+      "telephone": "04 66 49 36 65",
+      "url": "http://www.adil48.org"
+    }
+  },
+  {
+    "id": "ed3efdc5c8ebba429d4204b616a6bd252d067140",
+    "alternateName": "ADIL",
+    "name": "agence_departementale_dinformation_sur_le_logement_adil_maine_et_loire",
+    "title": "Agence départementale d'information sur le logement (ADIL) - Maine-et-Loire",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/maine-et-loire/adil-49007-01",
+    "metadata": {
+      "email": "contact@adil49.com",
+      "telephone": "02 41 81 89 40",
+      "url": "http://www.adil49.org"
+    }
+  },
+  {
+    "id": "bee831de2d73f57a8f4d11e473f88790c8603646",
+    "alternateName": "ADIL",
+    "name": "agence_departementale_dinformation_sur_le_logement_adil_martinique",
+    "title": "Agence départementale d'information sur le logement (ADIL) - Martinique",
+    "url": "https://lannuaire.service-public.fr/martinique/martinique/adil-97209-01",
+    "metadata": {
+      "email": "adilmartinique@adil972.org",
+      "telephone": "+596 5 96 71 48 45",
+      "url": "http://www.adilmartinique.org"
+    }
+  },
+  {
+    "id": "4760975c0b850fb0f5b74fc49d38983ba2d7c9dd",
+    "alternateName": "ADIL",
+    "name": "agence_departementale_dinformation_sur_le_logement_adil_mayenne",
+    "title": "Agence départementale d'information sur le logement (ADIL) - Mayenne",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/mayenne/adil-53130-01",
+    "metadata": {
+      "email": "contact@adil53.fr",
+      "telephone": "02 43 69 57 00",
+      "url": "http://www.adil53.org"
+    }
+  },
+  {
+    "id": "2b01c9a83b0094fb7f668bb6e23b182575f5616a",
+    "alternateName": "ADIL",
+    "name": "agence_departementale_dinformation_sur_le_logement_adil_meurthe_et_moselle_meuse",
+    "title": "Agence départementale d'information sur le logement (ADIL) - Meurthe-et-Moselle - Meuse",
+    "url": "https://lannuaire.service-public.fr/grand-est/meurthe-et-moselle/adil-54395-01",
+    "metadata": {
+      "email": "adil.54@wanadoo.fr",
+      "telephone": "03 83 27 62 72",
+      "url": "http://www.adil54.org"
+    }
+  },
+  {
+    "id": "93b2fb7dad9d045aa81dbee07f8d603b1806a3c0",
+    "alternateName": "ADIL",
+    "name": "agence_departementale_dinformation_sur_le_logement_adil_morbihan_lorient",
+    "title": "Agence départementale d'information sur le logement (ADIL) - Morbihan - Lorient",
+    "url": "https://lannuaire.service-public.fr/bretagne/morbihan/adil-56121-01",
+    "metadata": {
+      "email": "adil.56@wanadoo.fr",
+      "telephone": "02 97 21 74 64",
+      "url": "https://www.adil56.org"
+    }
+  },
+  {
+    "id": "676bbcb1c418c360f8b0609c500e0e5486197520",
+    "alternateName": "ADIL",
+    "name": "agence_departementale_dinformation_sur_le_logement_adil_morbihan_vannes",
+    "title": "Agence départementale d'information sur le logement (ADIL) - Morbihan - Vannes",
+    "url": "https://lannuaire.service-public.fr/bretagne/morbihan/adil-56260-01",
+    "metadata": {
+      "email": "adil.56@wanadoo.fr",
+      "telephone": "02 97 47 02 30",
+      "url": "https://www.adil56.org"
+    }
+  },
+  {
+    "id": "9f98e59141642bc2dea31e0568c16ffa8886d74c",
+    "alternateName": "ADIL",
+    "name": "agence_departementale_dinformation_sur_le_logement_adil_nord_cambrai",
+    "title": "Agence départementale d'information sur le logement (ADIL) - Nord - Cambrai",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/nord/adil-59122-01",
+    "metadata": {
+      "email": "contact@adilnord.fr",
+      "telephone": "03 59 61 15 00",
+      "url": "http://www.adilnord.fr"
+    }
+  },
+  {
+    "id": "a2cb6863e2e0027fbd4f42476d31dd97c217f9da",
+    "alternateName": "ADIL",
+    "name": "agence_departementale_dinformation_sur_le_logement_adil_nord_douai",
+    "title": "Agence départementale d'information sur le logement (ADIL) - Nord - Douai",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/nord/adil-59178-01",
+    "metadata": {
+      "email": "contact@adilnpdc.fr",
+      "telephone": "03 59 61 62 59",
+      "url": "http://www.adilnpdc.fr"
+    }
+  },
+  {
+    "id": "765694917849fa4ffe4382c80b49966a53cb5ce3",
+    "alternateName": "ADIL",
+    "name": "agence_departementale_dinformation_sur_le_logement_adil_nord_dunkerque",
+    "title": "Agence départementale d'information sur le logement (ADIL) - Nord - Dunkerque",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/nord/adil-59183-01",
+    "metadata": {
+      "email": "contact@adilnpdc.fr",
+      "telephone": "03 59 61 62 59",
+      "url": "http://www.adilnord.fr"
+    }
+  },
+  {
+    "id": "ce9386cade7a5f999688dd2cd3d8a3fa8e01f10d",
+    "alternateName": "ADIL",
+    "name": "agence_departementale_dinformation_sur_le_logement_adil_nord_lille",
+    "title": "Agence départementale d'information sur le logement (ADIL) - Nord - Lille",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/nord/adil-59350-01",
+    "metadata": {
+      "email": "contact@adilnpdc.fr",
+      "telephone": "03 59 61 62 59",
+      "url": "http://www.adilnord.fr"
+    }
+  },
+  {
+    "id": "043ae974fc208460fb8bc4fe897f325e5b4500d9",
+    "alternateName": "ADIL",
+    "name": "agence_departementale_dinformation_sur_le_logement_adil_nord_maubeuge",
+    "title": "Agence départementale d'information sur le logement (ADIL) - Nord - Maubeuge",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/nord/adil-59392-01",
+    "metadata": {
+      "email": "contact@adilnord.fr",
+      "telephone": "03 59 61 62 59",
+      "url": "https://www.adilnord.fr"
+    }
+  },
+  {
+    "id": "70ff50bc8aaf1237457348c1d9d59eab99cd65cc",
+    "alternateName": "ADIL",
+    "name": "agence_departementale_dinformation_sur_le_logement_adil_nord_roubaix",
+    "title": "Agence départementale d'information sur le logement (ADIL) - Nord - Roubaix",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/nord/adil-59512-01",
+    "metadata": {
+      "email": "contact@adilnpdc.fr",
+      "telephone": "03 59 61 62 59",
+      "url": "http://www.adilnpdc.fr"
+    }
+  },
+  {
+    "id": "ad8f5039a2fa79d302ff2e969e4ad7f1cea5c2ca",
+    "alternateName": "ADIL",
+    "name": "agence_departementale_dinformation_sur_le_logement_adil_nord_tourcoing",
+    "title": "Agence départementale d'information sur le logement (ADIL) - Nord - Tourcoing",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/nord/adil-59599-01",
+    "metadata": {
+      "email": "contact@adilnpdc.fr",
+      "telephone": "03 20 52 95 39",
+      "url": "http://www.adilnord.fr"
+    }
+  },
+  {
+    "id": "db43c8f61fcc36cbc89e31c95245d8f0c312bfcb",
+    "alternateName": "ADIL",
+    "name": "agence_departementale_dinformation_sur_le_logement_adil_nord_valenciennes",
+    "title": "Agence départementale d'information sur le logement (ADIL) - Nord - Valenciennes",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/nord/adil-59606-01",
+    "metadata": {
+      "email": "contact@adilnord.fr",
+      "telephone": "03 59 61 62 59",
+      "url": "http://www.adilnord.fr"
+    }
+  },
+  {
+    "id": "54a77c7ce8958710cb95e6100618bfdfcac2181e",
+    "alternateName": "ADIL",
+    "name": "agence_departementale_dinformation_sur_le_logement_adil_oise",
+    "title": "Agence départementale d'information sur le logement (ADIL) - Oise",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/oise/adil-60057-01",
+    "metadata": {
+      "email": "adil60@wanadoo.fr",
+      "telephone": "03 44 48 61 30",
+      "url": "http://www.adil60.org"
+    }
+  },
+  {
+    "id": "637441f0a528cc81a50d654b323a0abe548b929d",
+    "alternateName": "ADIL",
+    "name": "agence_departementale_dinformation_sur_le_logement_adil_orne",
+    "title": "Agence départementale d'information sur le logement (ADIL) - Orne",
+    "url": "https://lannuaire.service-public.fr/normandie/orne/adil-61001-01",
+    "metadata": {
+      "email": "adil61@wanadoo.fr",
+      "telephone": "02 33 32 94 76",
+      "url": "http://www.adil61.org"
+    }
+  },
+  {
+    "id": "b03491d21f2e3f7d58c76e1691b612b6267f617c",
+    "alternateName": "ADIL",
+    "name": "agence_departementale_dinformation_sur_le_logement_adil_paris",
+    "title": "Agence départementale d'information sur le logement (ADIL) - Paris",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/paris/adil-75114-01",
+    "metadata": {
+      "email": "info@adil75.org",
+      "telephone": "01 42 79 50 50",
+      "url": "http://www.adil75.org"
+    }
+  },
+  {
+    "id": "b5ba517b66bb386ee482fb741ded6764e64db9d7",
+    "alternateName": "ADIL",
+    "name": "agence_departementale_dinformation_sur_le_logement_adil_puy_de_dome",
+    "title": "Agence départementale d'information sur le logement (ADIL) - Puy-de-Dôme",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/puy-de-dome/adil-63113-01",
+    "metadata": {
+      "email": "contact@adil63.org",
+      "telephone": "04 73 42 30 75",
+      "url": "http://www.adil63.org"
+    }
+  },
+  {
+    "id": "a9226ec64adcab2746213b1e1e5399c618244ca7",
+    "alternateName": "ADIL",
+    "name": "agence_departementale_dinformation_sur_le_logement_adil_pyrenees_atlantiques_bayonne",
+    "title": "Agence départementale d'information sur le logement (ADIL) - Pyrénées-Atlantiques - Bayonne",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/pyrenees-atlantiques/adil-64102-01",
+    "metadata": {
+      "email": "adil.bayonne@orange.fr",
+      "telephone": "05 59 59 11 00",
+      "url": "http://www.adil64.org"
+    }
+  },
+  {
+    "id": "90f9aafe56c6b167f57cc421273ed7e5d3bc3c42",
+    "alternateName": "ADIL",
+    "name": "agence_departementale_dinformation_sur_le_logement_adil_pyrenees_atlantiques_pau",
+    "title": "Agence départementale d'information sur le logement (ADIL) - Pyrénées-Atlantiques - Pau",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/pyrenees-atlantiques/adil-64445-01",
+    "metadata": {
+      "email": "adil_64@orange.fr",
+      "telephone": "05 59 02 26 26",
+      "url": "http://www.adil64.org"
+    }
+  },
+  {
+    "id": "29ea4d7432e82fa8808c38323c095284e1b5b68e",
+    "alternateName": "ADIL",
+    "name": "agence_departementale_dinformation_sur_le_logement_adil_pyrenees_orientales",
+    "title": "Agence départementale d'information sur le logement (ADIL) - Pyrénées-Orientales",
+    "url": "https://lannuaire.service-public.fr/occitanie/pyrenees-orientales/adil-66136-01",
+    "metadata": {
+      "email": "contact@adil66.org",
+      "telephone": "04 68 52 00 00",
+      "url": "http://www.adil66.org"
+    }
+  },
+  {
+    "id": "d56a261bb60bdaca3d3484a1cf41696e56d7d2c3",
+    "alternateName": "ADIL",
+    "name": "agence_departementale_dinformation_sur_le_logement_adil_reunion",
+    "title": "Agence départementale d'information sur le logement (ADIL) - Réunion",
+    "url": "https://lannuaire.service-public.fr/la-reunion/reunion/adil-97411-01",
+    "metadata": {
+      "email": "courrier@adil974.com",
+      "telephone": "02 62 41 14 24",
+      "url": "http://www.adil974.com"
+    }
+  },
+  {
+    "id": "1fd77792cd2a9c3a5d69c40d5f4cb2d1f4fb7a57",
+    "alternateName": "ADIL",
+    "name": "agence_departementale_dinformation_sur_le_logement_adil_rhone_lyon",
+    "title": "Agence départementale d'information sur le logement (ADIL) - Rhône - Lyon",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/rhone/adil-69386-01",
+    "metadata": {
+      "email": "contact@adilrhone.org",
+      "telephone": "04 78 52 84 84",
+      "url": "http://www.adil69.org"
+    }
+  },
+  {
+    "id": "ade3c9d23c5e35000e9b3693662898479aa384ab",
+    "alternateName": "ADIL",
+    "name": "agence_departementale_dinformation_sur_le_logement_adil_rhone_villefranche_sur_saone",
+    "title": "Agence départementale d'information sur le logement (ADIL) - Rhône - Villefranche-sur-Saône",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/rhone/adil-69264-01",
+    "metadata": {
+      "email": "adil.villefranche@orange.fr",
+      "telephone": "04 74 65 61 11",
+      "url": "http://www.adil69.org"
+    }
+  },
+  {
+    "id": "722156b51802387fc368925cdb17c306cbb49fb8",
+    "alternateName": "ADIL",
+    "name": "agence_departementale_dinformation_sur_le_logement_adil_saone_et_loire_chalon_sur_saone",
+    "title": "Agence départementale d'information sur le logement (ADIL) - Saône-et-Loire - Chalon-sur-Saône",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/saone-et-loire/adil-71076-01",
+    "metadata": {
+      "email": "adil71@adil71.org",
+      "telephone": "03 85 39 30 70",
+      "url": "https://www.adil71.org"
+    }
+  },
+  {
+    "id": "cc2d724a2ec93285cdce3befb62a16e2e5263c8d",
+    "alternateName": "ADIL",
+    "name": "agence_departementale_dinformation_sur_le_logement_adil_saone_et_loire_le_creusot",
+    "title": "Agence départementale d'information sur le logement (ADIL) - Saône-et-Loire - Le Creusot",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/saone-et-loire/adil-71153-01",
+    "metadata": {
+      "email": "adil71@adil71.org",
+      "telephone": "03 85 39 30 70",
+      "url": "http://www.adil71.org"
+    }
+  },
+  {
+    "id": "63eecd4f85a42a1f2c67a055eca4f13790982191",
+    "alternateName": "ADIL",
+    "name": "agence_departementale_dinformation_sur_le_logement_adil_saone_et_loire_macon",
+    "title": "Agence départementale d'information sur le logement (ADIL) - Saône-et-Loire - Mâcon",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/saone-et-loire/adil-71270-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 85 39 30 70",
+      "url": "http://www.adil71.org"
+    }
+  },
+  {
+    "id": "2b8a440dbc29549bf0406cce9594aa1307bddaf6",
+    "alternateName": "ADIL",
+    "name": "agence_departementale_dinformation_sur_le_logement_adil_saone_et_loire_paray_le_monial",
+    "title": "Agence départementale d'information sur le logement (ADIL) - Saône-et-Loire - Paray-le-Monial",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/saone-et-loire/adil-71342-01",
+    "metadata": {
+      "email": "adil71@adil71.org",
+      "telephone": "03 85 39 30 70",
+      "url": ""
+    }
+  },
+  {
+    "id": "e987bf43fab2bde833dd1332c4215c512501d5ea",
+    "alternateName": "ADIL",
+    "name": "agence_departementale_dinformation_sur_le_logement_adil_savoie",
+    "title": "Agence départementale d'information sur le logement (ADIL) - Savoie",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/savoie/adil-73065-01",
+    "metadata": {
+      "email": "accueil@adil73.org",
+      "telephone": "04 79 69 90 20",
+      "url": "http://www.adil73.org"
+    }
+  },
+  {
+    "id": "92ed7a0f97ab1b45f2a9c331357b8aefb5711ec5",
+    "alternateName": "ADIL",
+    "name": "agence_departementale_dinformation_sur_le_logement_adil_seine_et_marne_meaux",
+    "title": "Agence départementale d'information sur le logement (ADIL) - Seine-et-Marne - Meaux",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/seine-et-marne/adil-77284-01",
+    "metadata": {
+      "email": "info@adil77.org",
+      "telephone": "08 20 16 77 77",
+      "url": "http://www.adil77.org"
+    }
+  },
+  {
+    "id": "836ffbed840291df044a423da1d3d561f6711b0f",
+    "alternateName": "ADIL",
+    "name": "agence_departementale_dinformation_sur_le_logement_adil_seine_et_marne_melun",
+    "title": "Agence départementale d'information sur le logement (ADIL) - Seine-et-Marne - Melun",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/seine-et-marne/adil-77288-01",
+    "metadata": {
+      "email": "info@adil77.org",
+      "telephone": "01 64 87 09 87",
+      "url": "http://www.adil77.org"
+    }
+  },
+  {
+    "id": "7750a3419bc81894e972f66d241fbe3f666c7e48",
+    "alternateName": "ADIL",
+    "name": "agence_departementale_dinformation_sur_le_logement_adil_seine_maritime_le_havre",
+    "title": "Agence départementale d'information sur le logement (ADIL) - Seine-Maritime - Le Havre",
+    "url": "https://lannuaire.service-public.fr/normandie/seine-maritime/adil-76351-01",
+    "metadata": {
+      "email": "adil.76@wanadoo.fr",
+      "telephone": "02 35 43 71 61",
+      "url": "https://www.adil76.org"
+    }
+  },
+  {
+    "id": "9fa5f788232e6b479396f0cb8d5d8e25fad18488",
+    "alternateName": "ADIL",
+    "name": "agence_departementale_dinformation_sur_le_logement_adil_seine_maritime_sotteville_les_rouen",
+    "title": "Agence départementale d'information sur le logement (ADIL) - Seine-Maritime - Sotteville-lès-Rouen",
+    "url": "https://lannuaire.service-public.fr/normandie/seine-maritime/adil-76540-01",
+    "metadata": {
+      "email": "adil.76@wanadoo.fr",
+      "telephone": "02 35 72 58 50",
+      "url": "http://www.adil76.org"
+    }
+  },
+  {
+    "id": "d7de76a796680c8103b845d99b63b9a650d0a341",
+    "alternateName": "ADIL",
+    "name": "agence_departementale_dinformation_sur_le_logement_adil_seine_saint_denis",
+    "title": "Agence départementale d'information sur le logement (ADIL) - Seine-Saint-Denis",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/seine-saint-denis/adil-93048-01",
+    "metadata": {
+      "email": "adil93@wanadoo.fr",
+      "telephone": "01 48 51 17 45",
+      "url": "http://www.adil93.org"
+    }
+  },
+  {
+    "id": "4dd89140b8d484399cadcef0e1429ed56a0a2635",
+    "alternateName": "ADIL",
+    "name": "agence_departementale_dinformation_sur_le_logement_adil_somme",
+    "title": "Agence départementale d'information sur le logement (ADIL) - Somme",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/somme/adil-80021-01",
+    "metadata": {
+      "email": "adil80@adil80.org",
+      "telephone": "03 60 12 45 00",
+      "url": "http://www.adil80.org"
+    }
+  },
+  {
+    "id": "8a208ebf6d7eb2e6ce659cccc4cdec0802789992",
+    "alternateName": "ADIL",
+    "name": "agence_departementale_dinformation_sur_le_logement_adil_tarn",
+    "title": "Agence départementale d'information sur le logement (ADIL) - Tarn",
+    "url": "https://lannuaire.service-public.fr/occitanie/tarn/adil-81004-01",
+    "metadata": {
+      "email": "adil81@wanadoo.fr",
+      "telephone": "05 63 48 73 80",
+      "url": "http://www.adiltarn.org"
+    }
+  },
+  {
+    "id": "331833dadfe6f42bfca52a3b98635a5163f194da",
+    "alternateName": "ADIL",
+    "name": "agence_departementale_dinformation_sur_le_logement_adil_tarn_et_garonne",
+    "title": "Agence départementale d'information sur le logement (ADIL) - Tarn-et-Garonne",
+    "url": "https://lannuaire.service-public.fr/occitanie/tarn-et-garonne/adil-82121-01",
+    "metadata": {
+      "email": "contact@adil82.fr",
+      "telephone": "05 63 63 04 68",
+      "url": "http://www.adil82.org"
+    }
+  },
+  {
+    "id": "fe8344d8b886e152ec701ed19e5a213a56eace1a",
+    "alternateName": "ADIL",
+    "name": "agence_departementale_dinformation_sur_le_logement_adil_val_d_oise_cergy_pontoise",
+    "title": "Agence départementale d'information sur le logement (ADIL) - Val-d'Oise - Cergy-Pontoise",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/val-d-oise/adil-95127-01",
+    "metadata": {
+      "email": "contact@adil95.org",
+      "telephone": "01 87 49 03 33",
+      "url": "http://www.adil95.org"
+    }
+  },
+  {
+    "id": "cd8dcec360ce87723e7876317def6b5391daaa79",
+    "alternateName": "ADIL",
+    "name": "agence_departementale_dinformation_sur_le_logement_adil_val_de_marne",
+    "title": "Agence départementale d'information sur le logement (ADIL) - Val-de-Marne",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/val-de-marne/adil-94028-01",
+    "metadata": {
+      "email": "info@adil94.org",
+      "telephone": "01 48 98 03 48",
+      "url": "http://www.adil94.org"
+    }
+  },
+  {
+    "id": "a426e267a07e690fe3b24b1e6a3e40d4f66e611a",
+    "alternateName": "ADIL",
+    "name": "agence_departementale_dinformation_sur_le_logement_adil_var",
+    "title": "Agence départementale d'information sur le logement (ADIL) - Var",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/var/adil-83062-01",
+    "metadata": {
+      "email": "adil@adil83.org",
+      "telephone": "04 94 22 65 80",
+      "url": "http://www.adil83.org"
+    }
+  },
+  {
+    "id": "8fc9bc7cb38f0a4371a4a60c661b27d1b1acd527",
+    "alternateName": "ADIL",
+    "name": "agence_departementale_dinformation_sur_le_logement_adil_var_draguignan",
+    "title": "Agence départementale d'information sur le logement (ADIL) - Var - Draguignan",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/var/adil-83050-01",
+    "metadata": {
+      "email": "adil@adil83.org",
+      "telephone": "04 94 22 65 80",
+      "url": "http://www.adil83.org"
+    }
+  },
+  {
+    "id": "f923ccb8d1ab4c745d032e71533d3f68590f43ee",
+    "alternateName": "ADIL",
+    "name": "agence_departementale_dinformation_sur_le_logement_adil_vaucluse",
+    "title": "Agence départementale d'information sur le logement (ADIL) - Vaucluse",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/vaucluse/adil-84007-01",
+    "metadata": {
+      "email": "conseils@adil84.fr",
+      "telephone": "04 90 16 34 34",
+      "url": "http://www.adil84.fr"
+    }
+  },
+  {
+    "id": "e6f6fa73b214a3ffe6587a93450dcf4c5d0b4441",
+    "alternateName": "ADIL",
+    "name": "agence_departementale_dinformation_sur_le_logement_adil_vendee",
+    "title": "Agence départementale d'information sur le logement (ADIL) - Vendée",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/vendee/adil-85191-01",
+    "metadata": {
+      "email": "contact@adil85.org",
+      "telephone": "02 51 44 78 78",
+      "url": "http://www.adil85.org"
+    }
+  },
+  {
+    "id": "c94a8546e6f553fbc6ddd4fb100ed1af3e10170f",
+    "alternateName": "ADIL",
+    "name": "agence_departementale_dinformation_sur_le_logement_adil_vienne_chatellerault",
+    "title": "Agence départementale d'information sur le logement (ADIL) - Vienne - Châtellerault",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/vienne/adil-86066-01",
+    "metadata": {
+      "email": "conseils@adil86.com",
+      "telephone": "05 49 23 50 24",
+      "url": "http://www.adil86.com"
+    }
+  },
+  {
+    "id": "54a07480c71208d3f990337c93ff75af339fb81c",
+    "alternateName": "ADIL",
+    "name": "agence_departementale_dinformation_sur_le_logement_adil_vienne_poitiers",
+    "title": "Agence départementale d'information sur le logement (ADIL) - Vienne - Poitiers",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/vienne/adil-86194-01",
+    "metadata": {
+      "email": "conseils@adil86.com",
+      "telephone": "05 49 88 31 93",
+      "url": "http://www.adil86.com"
+    }
+  },
+  {
+    "id": "b6615398660ce8dca2ae92b697c22b7a7744f915",
+    "alternateName": "ADIL",
+    "name": "agence_departementale_dinformation_sur_le_logement_adil_yonne",
+    "title": "Agence départementale d'information sur le logement (ADIL) - Yonne",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/yonne/adil-89024-01",
+    "metadata": {
+      "email": "contact@adil89.org",
+      "telephone": "03 86 72 16 16",
+      "url": "http://www.adil89.org"
+    }
+  },
+  {
+    "id": "a17ffbf51a67119cf57d25927c290538014560b2",
+    "alternateName": "ADIL",
+    "name": "agence_departementale_dinformation_sur_le_logement_adil_yvelines",
+    "title": "Agence départementale d'information sur le logement (ADIL) - Yvelines",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/yvelines/adil-78646-01",
+    "metadata": {
+      "email": "contact@adil78.org",
+      "telephone": "01 39 50 84 72",
+      "url": "http://www.adil78.org"
+    }
+  }
+]

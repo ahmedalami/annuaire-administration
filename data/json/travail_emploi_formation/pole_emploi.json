@@ -1,0 +1,1982 @@
+[
+  {
+    "id": "bf3f02db3e5f66dfcea8f57e94c091610cc6d944",
+    "name": "pole_emploi_abbeville",
+    "title": "Pôle emploi - Abbeville",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/somme/pole_emploi-80001-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3949",
+      "url": "https://www.pole-emploi.fr"
+    }
+  },
+  {
+    "id": "a2dcdad590db230939e42e9f160c5cdd910d5076",
+    "name": "pole_emploi_abymes",
+    "title": "Pôle emploi - Abymes",
+    "url": "https://lannuaire.service-public.fr/guadeloupe/guadeloupe/pole_emploi-97101-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3949",
+      "url": "https://www.pole-emploi.fr"
+    }
+  },
+  {
+    "id": "a7c44f1571c62b92ec5fe3186606f9705163e84a",
+    "name": "pole_emploi_aeroportuaire_roissy_charles_de_gaulle",
+    "title": "Pôle emploi - Aéroportuaire - Roissy-Charles-de-Gaulle",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/val-d-oise/pole_emploi-95527-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3949",
+      "url": "https://www.pole-emploi.fr"
+    }
+  },
+  {
+    "id": "b232714658a42b79935464c35b089db4bb1446ec",
+    "name": "pole_emploi_agde",
+    "title": "Pôle emploi - Agde",
+    "url": "https://lannuaire.service-public.fr/occitanie/herault/pole_emploi-34003-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3949",
+      "url": "https://www.pole-emploi.fr"
+    }
+  },
+  {
+    "id": "cf92fdc22e9c7590eb2d94b7985338e07e74e4e7",
+    "name": "pole_emploi_agen",
+    "title": "Pôle emploi - Agen",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/lot-et-garonne/pole_emploi-47001-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3949",
+      "url": "https://www.pole-emploi.fr"
+    }
+  },
+  {
+    "id": "53f1b5b2b0fb44d0dba0013a4aa6abbcaf9af665",
+    "name": "pole_emploi_aiguillon",
+    "title": "Pôle emploi - Aiguillon",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/lot-et-garonne/pole_emploi-47004-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3949",
+      "url": "https://www.pole-emploi.fr"
+    }
+  },
+  {
+    "id": "485f1e12a1ee12af9a22f9f8b64e2460d9e36a8e",
+    "name": "pole_emploi_aix_en_provence_aix_vallee_arc",
+    "title": "Pôle emploi - Aix-en-Provence - Aix-Vallée-Arc",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/pole_emploi-13001-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3949",
+      "url": "https://www.pole-emploi.fr"
+    }
+  },
+  {
+    "id": "fc278535babddedcf22e2ce25dc7695e720b66f2",
+    "name": "pole_emploi_aix_en_provence_galice",
+    "title": "Pôle emploi - Aix-en-Provence - Galice",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/pole_emploi-13001-02",
+    "metadata": {
+      "email": "",
+      "telephone": "3949",
+      "url": "https://www.pole-emploi.fr"
+    }
+  },
+  {
+    "id": "650fcc669da1edaeec2d74dc8ff9ffbc8895542b",
+    "name": "pole_emploi_aix_les_bains",
+    "title": "Pôle emploi - Aix-les-Bains",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/savoie/pole_emploi-73008-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3949",
+      "url": "https://www.pole-emploi.fr"
+    }
+  },
+  {
+    "id": "c6a30f71017421713fbc8af9912ac338a8abf5f2",
+    "name": "pole_emploi_ajaccio",
+    "title": "Pôle emploi - Ajaccio",
+    "url": "https://lannuaire.service-public.fr/corse/corse-du-sud/pole_emploi-2A004-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3949",
+      "url": "https://www.pole-emploi.fr"
+    }
+  },
+  {
+    "id": "51f9273865faa80e6fe3019bcf4c7484cf08c3f7",
+    "name": "pole_emploi_albertville",
+    "title": "Pôle emploi - Albertville",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/savoie/pole_emploi-73011-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3949",
+      "url": "https://www.pole-emploi.fr"
+    }
+  },
+  {
+    "id": "d45c15209e85de4357fdc015a2cb90f3f07606de",
+    "name": "pole_emploi_albi",
+    "title": "Pôle emploi - Albi",
+    "url": "https://lannuaire.service-public.fr/occitanie/tarn/pole_emploi-81004-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3949",
+      "url": "https://www.pole-emploi.fr"
+    }
+  },
+  {
+    "id": "10eb01d3cf91140938e6bbb03a6126bcce4aff36",
+    "name": "pole_emploi_alencon",
+    "title": "Pôle emploi - Alençon",
+    "url": "https://lannuaire.service-public.fr/normandie/orne/pole_emploi-61001-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3949",
+      "url": "https://www.pole-emploi.fr"
+    }
+  },
+  {
+    "id": "669b194b26af50623208d6fdc54ce9b851c8411a",
+    "name": "pole_emploi_ales_avene",
+    "title": "Pôle emploi - Alès - Avene",
+    "url": "https://lannuaire.service-public.fr/occitanie/gard/pole_emploi-30007-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3949",
+      "url": "https://www.pole-emploi.fr"
+    }
+  },
+  {
+    "id": "fd5d2d4999dd7b44586bcdc4b33cd9cf109e05a6",
+    "name": "pole_emploi_ales_gardon",
+    "title": "Pôle emploi - Alès - Gardon",
+    "url": "https://lannuaire.service-public.fr/occitanie/gard/pole_emploi-30007-02",
+    "metadata": {
+      "email": "",
+      "telephone": "3949",
+      "url": "https://www.pole-emploi.fr"
+    }
+  },
+  {
+    "id": "966f504081b78a821aaea7c87b510b3bd26641b0",
+    "name": "pole_emploi_alfortville",
+    "title": "Pôle emploi - Alfortville",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/val-de-marne/pole_emploi-94002-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3949",
+      "url": "https://www.pole-emploi.fr"
+    }
+  },
+  {
+    "id": "da563b482af9b7e9163ffc14500057578b05383e",
+    "name": "pole_emploi_altkirch",
+    "title": "Pôle emploi - Altkirch",
+    "url": "https://lannuaire.service-public.fr/grand-est/haut-rhin/pole_emploi-68004-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3949",
+      "url": "https://www.pole-emploi.fr"
+    }
+  },
+  {
+    "id": "12192d5b3c1a4830ff2583a03522694a9cc72191",
+    "name": "pole_emploi_amberieu_en_bugey",
+    "title": "Pôle emploi - Ambérieu-en-Bugey",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/ain/pole_emploi-01004-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3949",
+      "url": "https://www.pole-emploi.fr"
+    }
+  },
+  {
+    "id": "bec3c5b4ef2ad0a092f02eb2f882abcda9a3f9df",
+    "name": "pole_emploi_ambert",
+    "title": "Pôle emploi - Ambert",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/puy-de-dome/pole_emploi-63003-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3949",
+      "url": "https://www.pole-emploi.fr"
+    }
+  },
+  {
+    "id": "caa75103129d3a53057765bb4364c837f47d0e34",
+    "name": "pole_emploi_amboise",
+    "title": "Pôle emploi - Amboise",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/indre-et-loire/pole_emploi-37003-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3949",
+      "url": "https://www.pole-emploi.fr"
+    }
+  },
+  {
+    "id": "05873e8edaff424c90ea648a626a8a9b866eb474",
+    "name": "pole_emploi_amiens_dury",
+    "title": "Pôle emploi - Amiens - Dury",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/somme/pole_emploi-80021-03",
+    "metadata": {
+      "email": "",
+      "telephone": "3949",
+      "url": "https://www.pole-emploi.fr"
+    }
+  },
+  {
+    "id": "80220edd1f51fb55777855a733fed45ef225d0c4",
+    "name": "pole_emploi_amiens_millevoye",
+    "title": "Pôle emploi - Amiens - Millevoye",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/somme/pole_emploi-80021-02",
+    "metadata": {
+      "email": "",
+      "telephone": "3949",
+      "url": "https://www.pole-emploi.fr"
+    }
+  },
+  {
+    "id": "24b2f9e55455ef7dbc3ae6e158ccd55f6b45b493",
+    "name": "pole_emploi_amiens_tellier",
+    "title": "Pôle emploi - Amiens - Tellier",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/somme/pole_emploi-80021-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3949",
+      "url": "https://www.pole-emploi.fr"
+    }
+  },
+  {
+    "id": "3fdce9b711e2bc583d957b02a8d984e03cf6ec75",
+    "name": "pole_emploi_ancenis",
+    "title": "Pôle emploi - Ancenis",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/loire-atlantique/pole_emploi-44003-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3949",
+      "url": "https://www.pole-emploi.fr"
+    }
+  },
+  {
+    "id": "7f102578796f3c2e62b579987801e5ab5693cdd9",
+    "name": "pole_emploi_andernos",
+    "title": "Pôle emploi - Andernos",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/gironde/pole_emploi-33005-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3949",
+      "url": "https://www.pole-emploi.fr"
+    }
+  },
+  {
+    "id": "5cae5bd3674487eb02e80dbb388eddc4166b7423",
+    "name": "pole_emploi_andrezieux_boutheon",
+    "title": "Pôle emploi - Andrézieux-Bouthéon",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/loire/pole_emploi-42005-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3949",
+      "url": "https://www.pole-emploi.fr"
+    }
+  },
+  {
+    "id": "f8a8289d31e6f037aa3958b913dc81b90c944cf0",
+    "name": "pole_emploi_angers_balzac",
+    "title": "Pôle emploi - Angers - Balzac",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/maine-et-loire/pole_emploi-49007-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3949",
+      "url": "https://www.pole-emploi.fr"
+    }
+  },
+  {
+    "id": "bc942edc19c7388d0656b264d375797054319e81",
+    "name": "pole_emploi_angers_capucins",
+    "title": "Pôle emploi - Angers - Capucins",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/maine-et-loire/pole_emploi-49007-02",
+    "metadata": {
+      "email": "",
+      "telephone": "3949",
+      "url": "https://www.pole-emploi.fr"
+    }
+  },
+  {
+    "id": "ae17d5675fcdb406a57fe0041248c0d605b12cde",
+    "name": "pole_emploi_angers_europe",
+    "title": "Pôle emploi - Angers - Europe",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/maine-et-loire/pole_emploi-49007-04",
+    "metadata": {
+      "email": "",
+      "telephone": "3949",
+      "url": "https://www.pole-emploi.fr"
+    }
+  },
+  {
+    "id": "ca757508270cd41039ab566fdb556b06ea3ff9b9",
+    "name": "pole_emploi_angers_la_roseraie",
+    "title": "Pôle emploi - Angers - La-Roseraie",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/maine-et-loire/pole_emploi-49007-03",
+    "metadata": {
+      "email": "",
+      "telephone": "3949",
+      "url": "https://www.pole-emploi.fr"
+    }
+  },
+  {
+    "id": "9fd2a7d88982780797050022d45b93157f3202bf",
+    "name": "pole_emploi_angouleme_la_couronne",
+    "title": "Pôle emploi - Angoulême - La Couronne",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/charente/pole_emploi-16113-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3949",
+      "url": "https://www.pole-emploi.fr"
+    }
+  },
+  {
+    "id": "4fe7f923203e9c23e72a186bf25fce3b09b67b9a",
+    "name": "pole_emploi_angouleme_saint_martial",
+    "title": "Pôle emploi - Angoulême - Saint-Martial",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/charente/pole_emploi-16015-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3949",
+      "url": "https://www.pole-emploi.fr"
+    }
+  },
+  {
+    "id": "b6078163321647f94d9324341f481a2a225170f7",
+    "name": "pole_emploi_annecy",
+    "title": "Pôle emploi - Annecy",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/haute-savoie/pole_emploi-74010-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3949",
+      "url": "https://www.pole-emploi.fr"
+    }
+  },
+  {
+    "id": "36ca467ceef504789b870231b11968ea8acc142f",
+    "name": "pole_emploi_annemasse",
+    "title": "Pôle emploi - Annemasse",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/haute-savoie/pole_emploi-74012-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3949",
+      "url": "https://www.pole-emploi.fr"
+    }
+  },
+  {
+    "id": "1d2f48f1771755c7549e0de491efcfdda50ca356",
+    "name": "pole_emploi_annonay",
+    "title": "Pôle emploi - Annonay",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/ardeche/pole_emploi-07010-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3949",
+      "url": "https://www.pole-emploi.fr"
+    }
+  },
+  {
+    "id": "42ea51fb1d17774cd0bf4824c9e6ae97c06c1ea3",
+    "name": "pole_emploi_antibes_vallauris",
+    "title": "Pôle emploi - Antibes - Vallauris",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/alpes-maritimes/pole_emploi-06004-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3949",
+      "url": "https://www.pole-emploi.fr"
+    }
+  },
+  {
+    "id": "b55798284c5063e9488657bda4bf6b0dc7a9d1af",
+    "name": "pole_emploi_antony",
+    "title": "Pôle emploi - Antony",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/hauts-de-seine/pole_emploi-92002-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3949",
+      "url": "https://www.pole-emploi.fr"
+    }
+  },
+  {
+    "id": "a3cf40b81983f04fab3d9d915a25e9537c06f16e",
+    "name": "pole_emploi_anzin",
+    "title": "Pôle emploi - Anzin",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/nord/pole_emploi-59014-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3949",
+      "url": "https://www.pole-emploi.fr"
+    }
+  },
+  {
+    "id": "bd17995814aad92573cd52eba2f0f1fbc823011a",
+    "name": "pole_emploi_apt",
+    "title": "Pôle emploi - Apt",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/vaucluse/pole_emploi-84003-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3949",
+      "url": "https://www.pole-emploi.fr"
+    }
+  },
+  {
+    "id": "50349c00057368ceb0a728b770a582e40eb1395f",
+    "name": "pole_emploi_arc_les_gray",
+    "title": "Pôle emploi - Arc-lès-Gray",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/haute-saone/pole_emploi-70026-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3949",
+      "url": "https://www.pole-emploi.fr"
+    }
+  },
+  {
+    "id": "16de62bdb6acfd9f2bc288c752f01a6599c95be5",
+    "name": "pole_emploi_argentan",
+    "title": "Pôle emploi - Argentan",
+    "url": "https://lannuaire.service-public.fr/normandie/orne/pole_emploi-61006-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3949",
+      "url": "https://www.pole-emploi.fr"
+    }
+  },
+  {
+    "id": "c06c57c6fca6375862ab593e26ae39b9df85514a",
+    "name": "pole_emploi_argenteuil",
+    "title": "Pôle emploi - Argenteuil",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/val-d-oise/pole_emploi-95018-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3949",
+      "url": "https://www.pole-emploi.fr"
+    }
+  },
+  {
+    "id": "1eaf41646c12a4fa7bd50dbe346255bcac01b1b1",
+    "name": "pole_emploi_argenton_sur_creuse",
+    "title": "Pôle emploi - Argenton-sur-Creuse",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/indre/pole_emploi-36006-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3949",
+      "url": "https://www.pole-emploi.fr"
+    }
+  },
+  {
+    "id": "2d6032094d9c475c3f0616a0c602e4c3cd8c8a03",
+    "name": "pole_emploi_arles",
+    "title": "Pôle emploi - Arles",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/pole_emploi-13004-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3949",
+      "url": "https://www.pole-emploi.fr"
+    }
+  },
+  {
+    "id": "2c5dbb732df03a41df1bc6b9eef094e1dc68effa",
+    "name": "pole_emploi_armentieres",
+    "title": "Pôle emploi - Armentières",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/nord/pole_emploi-59017-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3949",
+      "url": "https://www.pole-emploi.fr"
+    }
+  },
+  {
+    "id": "a1d0bb210efdaf22fc26a63070db14498248773e",
+    "name": "pole_emploi_arpajon",
+    "title": "Pôle emploi - Arpajon",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/essonne/pole_emploi-91021-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3949",
+      "url": "https://www.pole-emploi.fr"
+    }
+  },
+  {
+    "id": "6b2acfc883c8429ce3a872fabc00b6c127446e19",
+    "name": "pole_emploi_arras",
+    "title": "Pôle emploi - Arras",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/pas-de-calais/pole_emploi-62041-02",
+    "metadata": {
+      "email": "",
+      "telephone": "3949",
+      "url": "https://www.pole-emploi.fr"
+    }
+  },
+  {
+    "id": "38ab7b17dc580962cfccf185c8cfd14c38bd980f",
+    "name": "pole_emploi_arras_rivage",
+    "title": "Pôle emploi - Arras - Rivage",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/pas-de-calais/pole_emploi-62041-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3949",
+      "url": "https://www.pole-emploi.fr"
+    }
+  },
+  {
+    "id": "cb569632a4d72d0165062207a6757a5474396fff",
+    "name": "pole_emploi_asnieres_sur_seine",
+    "title": "Pôle emploi - Asnières-sur-Seine",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/hauts-de-seine/pole_emploi-92004-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3949",
+      "url": "https://www.pole-emploi.fr"
+    }
+  },
+  {
+    "id": "1bc022bd6b1699ff890cbe94684f127c24ca5d6e",
+    "name": "pole_emploi_aubagne",
+    "title": "Pôle emploi - Aubagne",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/pole_emploi-13005-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3949",
+      "url": "https://www.pole-emploi.fr"
+    }
+  },
+  {
+    "id": "350c38316cbb9e37b2488e80e9d50ec856be8065",
+    "name": "pole_emploi_aubenas",
+    "title": "Pôle emploi - Aubenas",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/ardeche/pole_emploi-07019-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3949",
+      "url": "https://www.pole-emploi.fr"
+    }
+  },
+  {
+    "id": "60bd3c52417e72fccb713e0c4e1b457e6aeb6e41",
+    "name": "pole_emploi_aubervilliers",
+    "title": "Pôle emploi - Aubervilliers",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/seine-saint-denis/pole_emploi-93001-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3949",
+      "url": "https://www.pole-emploi.fr"
+    }
+  },
+  {
+    "id": "bbeb785d39f7bde7878cfa73277a61c7c5fee76d",
+    "name": "pole_emploi_aubigny_sur_nere",
+    "title": "Pôle emploi - Aubigny-sur-Nère",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/cher/pole_emploi-18015-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3949",
+      "url": "https://www.pole-emploi.fr"
+    }
+  },
+  {
+    "id": "0e34fe3064b6f128d05ece8f1d6fbe5d1e057d9f",
+    "name": "pole_emploi_aubusson",
+    "title": "Pôle emploi - Aubusson",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/creuse/pole_emploi-23008-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3949",
+      "url": "https://www.pole-emploi.fr"
+    }
+  },
+  {
+    "id": "f32bd20e000bad09948695fefe8aac5f0670b5c0",
+    "name": "pole_emploi_auch",
+    "title": "Pôle emploi - Auch",
+    "url": "https://lannuaire.service-public.fr/occitanie/gers/pole_emploi-32013-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3949",
+      "url": "https://www.pole-emploi.fr"
+    }
+  },
+  {
+    "id": "ef16324502735d9029a0278cf005ad1e7f678471",
+    "name": "pole_emploi_audincourt",
+    "title": "Pôle emploi - Audincourt",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/doubs/pole_emploi-25031-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3949",
+      "url": "https://www.pole-emploi.fr"
+    }
+  },
+  {
+    "id": "b09e59f3ccd277595054a407a60f12e12159bfeb",
+    "name": "pole_emploi_aulnay_sous_bois",
+    "title": "Pôle emploi - Aulnay-sous-Bois",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/seine-saint-denis/pole_emploi-93005-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3949",
+      "url": "https://www.pole-emploi.fr"
+    }
+  },
+  {
+    "id": "f5978db7d198f6c0c03289c4ecf29750ce3c9cf0",
+    "name": "pole_emploi_aulnoye_aymeries",
+    "title": "Pôle emploi - Aulnoye-Aymeries",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/nord/pole_emploi-59033-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3949",
+      "url": "https://www.pole-emploi.fr"
+    }
+  },
+  {
+    "id": "661212af6d53b752f6a25d4875450d72eae505d3",
+    "name": "pole_emploi_auray",
+    "title": "Pôle emploi - Auray",
+    "url": "https://lannuaire.service-public.fr/bretagne/morbihan/pole_emploi-56007-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3949",
+      "url": "https://www.pole-emploi.fr"
+    }
+  },
+  {
+    "id": "27fc43fcda317e33660d38039d256bc3780bcb40",
+    "name": "pole_emploi_aurillac",
+    "title": "Pôle emploi - Aurillac",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/cantal/pole_emploi-15014-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3949",
+      "url": "https://www.pole-emploi.fr"
+    }
+  },
+  {
+    "id": "ee87bcd9fb9444d5f065573960a8eac8765f2902",
+    "name": "pole_emploi_aussillon",
+    "title": "Pôle emploi - Aussillon",
+    "url": "https://lannuaire.service-public.fr/occitanie/tarn/pole_emploi-81021-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3949",
+      "url": "https://www.pole-emploi.fr"
+    }
+  },
+  {
+    "id": "72ae6a4e117f395bbb2e247b967a1d5a1ff8fe51",
+    "name": "pole_emploi_autun",
+    "title": "Pôle emploi - Autun",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/saone-et-loire/pole_emploi-71014-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3949",
+      "url": "https://www.pole-emploi.fr"
+    }
+  },
+  {
+    "id": "c60ef1ce1ff2abef5be51c6f8fb122c2eb52bf41",
+    "name": "pole_emploi_auxerre_clairions",
+    "title": "Pôle emploi - Auxerre - Clairions",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/yonne/pole_emploi-89024-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3949",
+      "url": "https://www.pole-emploi.fr"
+    }
+  },
+  {
+    "id": "1ed51ed39c9ea97bf11162e85b9d22d561e14368",
+    "name": "pole_emploi_avallon",
+    "title": "Pôle emploi - Avallon",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/yonne/pole_emploi-89025-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3949",
+      "url": "https://www.pole-emploi.fr"
+    }
+  },
+  {
+    "id": "8cc8bc0aad4bf8c6469a3cfde2559a0212c7ac42",
+    "name": "pole_emploi_avesnelles",
+    "title": "Pôle emploi - Avesnelles",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/nord/pole_emploi-59036-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3949",
+      "url": "https://www.pole-emploi.fr"
+    }
+  },
+  {
+    "id": "de47ae76d12d610b7aff80d4318d48362b375d81",
+    "name": "pole_emploi_avignon_joly_jean",
+    "title": "Pôle emploi - Avignon - Joly-Jean",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/vaucluse/pole_emploi-84007-02",
+    "metadata": {
+      "email": "",
+      "telephone": "3949",
+      "url": "https://www.pole-emploi.fr"
+    }
+  },
+  {
+    "id": "4eed170a747016b252366769a51ad438763c6a43",
+    "name": "pole_emploi_avignon_realpanier",
+    "title": "Pôle emploi - Avignon - Realpanier",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/vaucluse/pole_emploi-84007-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3949",
+      "url": "https://www.pole-emploi.fr"
+    }
+  },
+  {
+    "id": "3c850bfb30f162c39e5eb0a4a52d045f0a5133b6",
+    "name": "pole_emploi_avon",
+    "title": "Pôle emploi - Avon",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/seine-et-marne/pole_emploi-77014-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3949",
+      "url": "https://www.pole-emploi.fr"
+    }
+  },
+  {
+    "id": "03d2ad89f44c02f482a85d919028833dd1215c72",
+    "name": "pole_emploi_avranches",
+    "title": "Pôle emploi - Avranches",
+    "url": "https://lannuaire.service-public.fr/normandie/manche/pole_emploi-50025-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3949",
+      "url": "https://www.pole-emploi.fr"
+    }
+  },
+  {
+    "id": "1ac604518aa4d23ddaf859b7c2ccacc07bb044ac",
+    "name": "pole_emploi_bagneux",
+    "title": "Pôle emploi - Bagneux",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/hauts-de-seine/pole_emploi-92007-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3949",
+      "url": "https://www.pole-emploi.fr"
+    }
+  },
+  {
+    "id": "920aa2d86814b9a658b9240b0338b80c855e699a",
+    "name": "pole_emploi_bagnols_sur_ceze",
+    "title": "Pôle emploi - Bagnols-sur-Cèze",
+    "url": "https://lannuaire.service-public.fr/occitanie/gard/pole_emploi-30028-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3949",
+      "url": "https://www.pole-emploi.fr"
+    }
+  },
+  {
+    "id": "d8b4f3e8bd18408d068372e97bc0a9f3347ef451",
+    "name": "pole_emploi_baie_mahault",
+    "title": "Pôle emploi - Baie-Mahault",
+    "url": "https://lannuaire.service-public.fr/guadeloupe/guadeloupe/pole_emploi-97103-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3949",
+      "url": "https://www.pole-emploi.fr"
+    }
+  },
+  {
+    "id": "85cb3c2c8429ff57013fda9a2387eeb42be94721",
+    "name": "pole_emploi_bailleul",
+    "title": "Pôle emploi - Bailleul",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/nord/pole_emploi-59043-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3949",
+      "url": "https://www.pole-emploi.fr"
+    }
+  },
+  {
+    "id": "bf6c5e296d5a8969e33336d87f422215028ad4bf",
+    "name": "pole_emploi_bapaume",
+    "title": "Pôle emploi - Bapaume",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/pas-de-calais/pole_emploi-62080-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3949",
+      "url": "https://www.pole-emploi.fr"
+    }
+  },
+  {
+    "id": "542431668a722147e315947d40b82f19aadeb5a3",
+    "name": "pole_emploi_barentin",
+    "title": "Pôle emploi - Barentin",
+    "url": "https://lannuaire.service-public.fr/normandie/seine-maritime/pole_emploi-76057-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3949",
+      "url": "https://www.pole-emploi.fr"
+    }
+  },
+  {
+    "id": "92db132a488bd9209446c81310dc2df81c4fa650",
+    "name": "pole_emploi_bar_le_duc",
+    "title": "Pôle emploi - Bar-le-Duc",
+    "url": "https://lannuaire.service-public.fr/grand-est/meuse/pole_emploi-55029-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3949",
+      "url": "https://www.pole-emploi.fr"
+    }
+  },
+  {
+    "id": "36ba7383d7b76e0c85a9bb4357a8506588d8a23b",
+    "name": "pole_emploi_bar_sur_aube",
+    "title": "Pôle emploi - Bar-sur-Aube",
+    "url": "https://lannuaire.service-public.fr/grand-est/aube/pole_emploi-10033-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3949",
+      "url": "https://www.pole-emploi.fr"
+    }
+  },
+  {
+    "id": "410d704ed9b44e4ed95133fa7129cb904eb211c7",
+    "name": "pole_emploi_basse_terre_desmarais",
+    "title": "Pôle emploi - Basse-Terre - Desmarais",
+    "url": "https://lannuaire.service-public.fr/guadeloupe/guadeloupe/pole_emploi-97105-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3949",
+      "url": "https://www.pole-emploi.fr"
+    }
+  },
+  {
+    "id": "2964ee598499f33d5590174cd87833bc97675a5f",
+    "name": "pole_emploi_bastia",
+    "title": "Pôle emploi - Bastia",
+    "url": "https://lannuaire.service-public.fr/corse/haute-corse/pole_emploi-2B033-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3949",
+      "url": "https://www.pole-emploi.fr"
+    }
+  },
+  {
+    "id": "74e2a2776c1efe2bf8e3b051c99dd55bed02009a",
+    "name": "pole_emploi_bayeux",
+    "title": "Pôle emploi - Bayeux",
+    "url": "https://lannuaire.service-public.fr/normandie/calvados/pole_emploi-14047-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3949",
+      "url": "https://www.pole-emploi.fr"
+    }
+  },
+  {
+    "id": "927258441ba127fc5315950772188b6bed048eff",
+    "name": "pole_emploi_bayonne",
+    "title": "Pôle emploi - Bayonne",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/pyrenees-atlantiques/pole_emploi-64102-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3949",
+      "url": "https://www.pole-emploi.fr"
+    }
+  },
+  {
+    "id": "78dce4ce7b98cd0cbeefb31d55b03a4954893bdf",
+    "name": "pole_emploi_beaucaire",
+    "title": "Pôle emploi - Beaucaire",
+    "url": "https://lannuaire.service-public.fr/occitanie/gard/pole_emploi-30032-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3949",
+      "url": "https://www.pole-emploi.fr"
+    }
+  },
+  {
+    "id": "c4ae8d37cf8bac845f3be4b5d00d8e831b5f3af1",
+    "name": "pole_emploi_beaune",
+    "title": "Pôle emploi - Beaune",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/cote-d-or/pole_emploi-21054-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3949",
+      "url": "https://www.pole-emploi.fr"
+    }
+  },
+  {
+    "id": "4221f7db8e9e492aba9ff1bb60617bae103736a7",
+    "name": "pole_emploi_beaupreau",
+    "title": "Pôle emploi - Beaupréau",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/maine-et-loire/pole_emploi-49023-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3949",
+      "url": "https://www.pole-emploi.fr"
+    }
+  },
+  {
+    "id": "fa9fc35edfee9941bb249af60ae19fbbcad54a2c",
+    "name": "pole_emploi_beauvais_delie",
+    "title": "Pôle emploi - Beauvais - Délie",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/oise/pole_emploi-60057-02",
+    "metadata": {
+      "email": "",
+      "telephone": "3949",
+      "url": "https://www.pole-emploi.fr"
+    }
+  },
+  {
+    "id": "ab3cd8693bc65360ec7b9822289d7fe8efed2df6",
+    "name": "pole_emploi_beauvais_mykonos",
+    "title": "Pôle emploi - Beauvais - Mykonos",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/oise/pole_emploi-60057-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3949",
+      "url": "https://www.pole-emploi.fr"
+    }
+  },
+  {
+    "id": "62f7c3d1fe59a2c4f62a7c0b938a4215eef4a47c",
+    "name": "pole_emploi_begles",
+    "title": "Pôle emploi - Bègles",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/gironde/pole_emploi-33039-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3949",
+      "url": "https://www.pole-emploi.fr"
+    }
+  },
+  {
+    "id": "e9db951bdd311e41b078fcb27f98e5f646464869",
+    "name": "pole_emploi_belfort_europe",
+    "title": "Pôle emploi - Belfort - Europe",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/territoire-de-belfort/pole_emploi-90010-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3949",
+      "url": "https://www.pole-emploi.fr"
+    }
+  },
+  {
+    "id": "6c8a3018eac6c7c19fee986113c070688e9a5bbd",
+    "name": "pole_emploi_belfort_thiers",
+    "title": "Pôle emploi - Belfort - Thiers",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/territoire-de-belfort/pole_emploi-90010-02",
+    "metadata": {
+      "email": "",
+      "telephone": "3949",
+      "url": "https://www.pole-emploi.fr"
+    }
+  },
+  {
+    "id": "dbcb6276334e1a529510e6a05e1fcd4ba3aef68f",
+    "name": "pole_emploi_bellac",
+    "title": "Pôle emploi - Bellac",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/haute-vienne/pole_emploi-87011-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3949",
+      "url": "https://www.pole-emploi.fr"
+    }
+  },
+  {
+    "id": "a629be5cd265115e4a1e4b16ff19286948096d7d",
+    "name": "pole_emploi_belleville",
+    "title": "Pôle emploi - Belleville",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/rhone/pole_emploi-69019-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3949",
+      "url": "https://www.pole-emploi.fr"
+    }
+  },
+  {
+    "id": "da79a8e282819d752f0bc1576f9b916a121003ae",
+    "name": "pole_emploi_belley",
+    "title": "Pôle emploi - Belley",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/ain/pole_emploi-01034-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3949",
+      "url": "https://www.pole-emploi.fr"
+    }
+  },
+  {
+    "id": "8d2800d1f1e0db11bca3bbdfe2d4234a1d768fd7",
+    "name": "pole_emploi_berck_sur_mer",
+    "title": "Pôle emploi - Berck-sur-Mer",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/pas-de-calais/pole_emploi-62108-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3949",
+      "url": "https://www.pole-emploi.fr"
+    }
+  },
+  {
+    "id": "6fd9d67c54df0ea6438058de748712a847e44973",
+    "name": "pole_emploi_bergerac",
+    "title": "Pôle emploi - Bergerac",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/dordogne/pole_emploi-24037-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3949",
+      "url": "https://www.pole-emploi.fr"
+    }
+  },
+  {
+    "id": "034c3a1271412edfa3524e4a6266d1bc46573dd9",
+    "name": "pole_emploi_bernay",
+    "title": "Pôle emploi - Bernay",
+    "url": "https://lannuaire.service-public.fr/normandie/eure/pole_emploi-27056-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3949",
+      "url": "https://www.pole-emploi.fr"
+    }
+  },
+  {
+    "id": "9799109d04d888aa58ec5404b6e6d62ebc98f826",
+    "name": "pole_emploi_besancon_palente",
+    "title": "Pôle emploi - Besançon - Palente",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/doubs/pole_emploi-25056-02",
+    "metadata": {
+      "email": "",
+      "telephone": "3949",
+      "url": "https://www.pole-emploi.fr"
+    }
+  },
+  {
+    "id": "006956dbc7827a377ed296a48f87a84f3c9dc672",
+    "name": "pole_emploi_besancon_planoise",
+    "title": "Pôle emploi - Besançon - Planoise",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/doubs/pole_emploi-25056-03",
+    "metadata": {
+      "email": "",
+      "telephone": "3949",
+      "url": "https://www.pole-emploi.fr"
+    }
+  },
+  {
+    "id": "187803fdfcd1f88d7f210b482b53140572acd284",
+    "name": "pole_emploi_besancon_temis",
+    "title": "Pôle emploi - Besançon - Temis",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/doubs/pole_emploi-25056-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3949",
+      "url": "https://www.pole-emploi.fr"
+    }
+  },
+  {
+    "id": "ad4ca92772f96fb176da56cfb127a5a100ea27c8",
+    "name": "pole_emploi_bethune",
+    "title": "Pôle emploi - Béthune",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/pas-de-calais/pole_emploi-62119-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3949",
+      "url": "https://www.pole-emploi.fr"
+    }
+  },
+  {
+    "id": "09fb0e896344d9471c7de296c4ab3510a998b632",
+    "name": "pole_emploi_beziers_capiscol",
+    "title": "Pôle emploi - Béziers - Capiscol",
+    "url": "https://lannuaire.service-public.fr/occitanie/herault/pole_emploi-34032-02",
+    "metadata": {
+      "email": "",
+      "telephone": "3949",
+      "url": "https://www.pole-emploi.fr"
+    }
+  },
+  {
+    "id": "97a3581eec9eb71b740a09a6789d7f7afc4779a2",
+    "name": "pole_emploi_beziers_courondelle",
+    "title": "Pôle emploi - Béziers - Courondelle",
+    "url": "https://lannuaire.service-public.fr/occitanie/herault/pole_emploi-34032-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3949",
+      "url": "https://www.pole-emploi.fr"
+    }
+  },
+  {
+    "id": "df3f80fb4045399468787253f069145e6046c614",
+    "name": "pole_emploi_bezons",
+    "title": "Pôle emploi - Bezons",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/val-d-oise/pole_emploi-95063-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3949",
+      "url": "https://www.pole-emploi.fr"
+    }
+  },
+  {
+    "id": "4a570c353266c22be0837b45337393f5cf44caf5",
+    "name": "pole_emploi_biarritz",
+    "title": "Pôle emploi - Biarritz",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/pyrenees-atlantiques/pole_emploi-64122-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3949",
+      "url": "https://www.pole-emploi.fr"
+    }
+  },
+  {
+    "id": "e4bc30932fc21c5f8a3fdc8b89d6cf1b620f007d",
+    "name": "pole_emploi_blagnac",
+    "title": "Pôle emploi - Blagnac",
+    "url": "https://lannuaire.service-public.fr/occitanie/haute-garonne/pole_emploi-31069-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3949",
+      "url": "https://www.pole-emploi.fr"
+    }
+  },
+  {
+    "id": "4cc81166d2fedb0a413b1dfbc537bb510842d1f0",
+    "name": "pole_emploi_blain",
+    "title": "Pôle emploi - Blain",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/loire-atlantique/pole_emploi-44015-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3949",
+      "url": "https://www.pole-emploi.fr"
+    }
+  },
+  {
+    "id": "ef733e6d3fa7246deecea78943e456f6107988c2",
+    "name": "pole_emploi_blanquefort",
+    "title": "Pôle emploi - Blanquefort",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/gironde/pole_emploi-33056-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3949",
+      "url": "https://www.pole-emploi.fr"
+    }
+  },
+  {
+    "id": "a899fd2ea2ed9785f6daf49db9b482ce15171969",
+    "name": "pole_emploi_blaye",
+    "title": "Pôle emploi - Blaye",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/gironde/pole_emploi-33058-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3949",
+      "url": "https://www.pole-emploi.fr"
+    }
+  },
+  {
+    "id": "e0f5efd122ad9796585323b96aa6430f20d0b263",
+    "name": "pole_emploi_blois_gare",
+    "title": "Pôle emploi - Blois - Gare",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/loir-et-cher/pole_emploi-41018-02",
+    "metadata": {
+      "email": "",
+      "telephone": "3949",
+      "url": "https://www.pole-emploi.fr"
+    }
+  },
+  {
+    "id": "fc94a0fe3e6b8c5aa7fdc2fe9f4d74557865feaa",
+    "name": "pole_emploi_blois_laplace",
+    "title": "Pôle emploi - Blois - Laplace",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/loir-et-cher/pole_emploi-41018-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3949",
+      "url": "https://www.pole-emploi.fr"
+    }
+  },
+  {
+    "id": "299a0c5e24e7b2762b7ce15628cb979960422dcb",
+    "name": "pole_emploi_bobigny",
+    "title": "Pôle emploi - Bobigny",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/seine-saint-denis/pole_emploi-93008-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3949",
+      "url": "https://www.pole-emploi.fr"
+    }
+  },
+  {
+    "id": "436e365c7a3100565436d8014d93e92732537132",
+    "name": "pole_emploi_bollene",
+    "title": "Pôle emploi - Bollène",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/vaucluse/pole_emploi-84019-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3949",
+      "url": "https://www.pole-emploi.fr"
+    }
+  },
+  {
+    "id": "640ca08bbcefcc9f9dbea60aae5bb2ecff8e6a3b",
+    "name": "pole_emploi_bondy",
+    "title": "Pôle emploi - Bondy",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/seine-saint-denis/pole_emploi-93057-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3949",
+      "url": "https://www.pole-emploi.fr"
+    }
+  },
+  {
+    "id": "e79b4ef60c4b095f44c6c7d600614fa292738103",
+    "name": "pole_emploi_bordeaux_bastide",
+    "title": "Pôle emploi - Bordeaux - Bastide",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/gironde/pole_emploi-33063-04",
+    "metadata": {
+      "email": "",
+      "telephone": "3949",
+      "url": "https://www.pole-emploi.fr"
+    }
+  },
+  {
+    "id": "a81510e0caef4b05573ae2d0e6b73b1e4e547b53",
+    "name": "pole_emploi_bordeaux_meriadeck",
+    "title": "Pôle emploi - Bordeaux - Mériadeck",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/gironde/pole_emploi-33063-02",
+    "metadata": {
+      "email": "",
+      "telephone": "3949",
+      "url": "https://www.pole-emploi.fr"
+    }
+  },
+  {
+    "id": "aa6658885f919b9faff6e1a040820cca34ea693a",
+    "name": "pole_emploi_bordeaux_nord",
+    "title": "Pôle emploi - Bordeaux - Nord",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/gironde/pole_emploi-33063-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3949",
+      "url": "https://www.pole-emploi.fr"
+    }
+  },
+  {
+    "id": "b89cc8cf5408a0064b479f7cb6dfc975926572e0",
+    "name": "pole_emploi_bordeaux_saint_jean",
+    "title": "Pôle emploi - Bordeaux - Saint-Jean",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/gironde/pole_emploi-33063-03",
+    "metadata": {
+      "email": "",
+      "telephone": "3949",
+      "url": "https://www.pole-emploi.fr"
+    }
+  },
+  {
+    "id": "68127d9302b9a15ddee92df7440281313773528d",
+    "name": "pole_emploi_boucau",
+    "title": "Pôle emploi - Boucau",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/pyrenees-atlantiques/pole_emploi-64140-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3949",
+      "url": "https://www.pole-emploi.fr"
+    }
+  },
+  {
+    "id": "540406a78ea19d3a31754eb2f95cdbd84ce64efe",
+    "name": "pole_emploi_bouillante",
+    "title": "Pôle emploi - Bouillante",
+    "url": "https://lannuaire.service-public.fr/guadeloupe/guadeloupe/pole_emploi-97106-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3949",
+      "url": "https://www.pole-emploi.fr"
+    }
+  },
+  {
+    "id": "1ea2cbac90b6e1e2c10c5b58d73eba3520d1c13a",
+    "name": "pole_emploi_boulogne_billancourt",
+    "title": "Pôle emploi - Boulogne-Billancourt",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/hauts-de-seine/pole_emploi-92012-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3949",
+      "url": "https://www.pole-emploi.fr"
+    }
+  },
+  {
+    "id": "828967061bbb4e12475a3fad98cef1eb4f474f4b",
+    "name": "pole_emploi_boulogne_sur_mer",
+    "title": "Pôle emploi - Boulogne-sur-Mer",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/pas-de-calais/pole_emploi-62160-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3949",
+      "url": "https://www.pole-emploi.fr"
+    }
+  },
+  {
+    "id": "9269c307bd738093611b0c3b1ce49c82233ea205",
+    "name": "pole_emploi_bourg_en_bresse",
+    "title": "Pôle emploi - Bourg-en-Bresse",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/ain/pole_emploi-01053-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3949",
+      "url": "https://www.pole-emploi.fr"
+    }
+  },
+  {
+    "id": "9abba0440cdf671dbc9c90e175a4da8c5bf892cd",
+    "name": "pole_emploi_bourges_baudens",
+    "title": "Pôle emploi - Bourges - Baudens",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/cher/pole_emploi-18033-02",
+    "metadata": {
+      "email": "",
+      "telephone": "3949",
+      "url": "https://www.pole-emploi.fr"
+    }
+  },
+  {
+    "id": "9f465865025c2f3616652699315df4c0eb44d19a",
+    "name": "pole_emploi_bourges_prospective",
+    "title": "Pôle emploi - Bourges - Prospective",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/cher/pole_emploi-18033-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3949",
+      "url": "https://www.pole-emploi.fr"
+    }
+  },
+  {
+    "id": "f744b4b3e74d7040945aabfd7b2d8ab05f87ac88",
+    "name": "pole_emploi_bourgoin_jallieu",
+    "title": "Pôle emploi - Bourgoin-Jallieu",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/isere/pole_emploi-38053-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3949",
+      "url": "https://www.pole-emploi.fr"
+    }
+  },
+  {
+    "id": "743abe96c4dfde503db5857c9d154fe213fb6a1f",
+    "name": "pole_emploi_bressuire",
+    "title": "Pôle emploi - Bressuire",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/deux-sevres/pole_emploi-79049-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3949",
+      "url": "https://www.pole-emploi.fr"
+    }
+  },
+  {
+    "id": "d02c3b8b2b42415e36cea0b3fda12fc60092be21",
+    "name": "pole_emploi_brest_europe",
+    "title": "Pôle emploi - Brest - Europe",
+    "url": "https://lannuaire.service-public.fr/bretagne/finistere/pole_emploi-29019-02",
+    "metadata": {
+      "email": "",
+      "telephone": "3949",
+      "url": "https://www.pole-emploi.fr"
+    }
+  },
+  {
+    "id": "de43ebb607d679868ca8b6a6f2de6561ccd9bba5",
+    "name": "pole_emploi_brest_iroise",
+    "title": "Pôle emploi - Brest - Iroise",
+    "url": "https://lannuaire.service-public.fr/bretagne/finistere/pole_emploi-29019-03",
+    "metadata": {
+      "email": "",
+      "telephone": "3949",
+      "url": "https://www.pole-emploi.fr"
+    }
+  },
+  {
+    "id": "a57aab22f6ff486df298356a39a9d9f60b81fcbc",
+    "name": "pole_emploi_brest_marine",
+    "title": "Pôle emploi - Brest - Marine",
+    "url": "https://lannuaire.service-public.fr/bretagne/finistere/pole_emploi-29019-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3949",
+      "url": "https://www.pole-emploi.fr"
+    }
+  },
+  {
+    "id": "acddec70a3fe32ec539f0e3d71f9eaad779a42b5",
+    "name": "pole_emploi_bretigny_sur_orge",
+    "title": "Pôle emploi - Brétigny-sur-Orge",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/essonne/pole_emploi-91103-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3949",
+      "url": "https://www.pole-emploi.fr"
+    }
+  },
+  {
+    "id": "1cfe9fff47498932345f1711a5baca5864797f15",
+    "name": "pole_emploi_briancon",
+    "title": "Pôle emploi - Briançon",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/hautes-alpes/pole_emploi-05023-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3949",
+      "url": "https://www.pole-emploi.fr"
+    }
+  },
+  {
+    "id": "270d4cc17311446b3d1b4f679745e44d30a835ce",
+    "name": "pole_emploi_brie_comte_robert",
+    "title": "Pôle emploi - Brie-Comte-Robert",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/seine-et-marne/pole_emploi-77053-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3949",
+      "url": "https://www.pole-emploi.fr"
+    }
+  },
+  {
+    "id": "db935f13ee758efaac731cba370ed3d869574b1b",
+    "name": "pole_emploi_briey",
+    "title": "Pôle emploi - Briey",
+    "url": "https://lannuaire.service-public.fr/grand-est/meurthe-et-moselle/pole_emploi-54099-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3949",
+      "url": "https://www.pole-emploi.fr"
+    }
+  },
+  {
+    "id": "14b00daa566c9183b57ad17345a83fd0347701ec",
+    "name": "pole_emploi_brignoles",
+    "title": "Pôle emploi - Brignoles",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/var/pole_emploi-83023-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3949",
+      "url": "https://www.pole-emploi.fr"
+    }
+  },
+  {
+    "id": "d50230fd7c6926e8ed6f858235a006884b77b170",
+    "name": "pole_emploi_brioude",
+    "title": "Pôle emploi - Brioude",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/haute-loire/pole_emploi-43040-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3949",
+      "url": "https://www.pole-emploi.fr"
+    }
+  },
+  {
+    "id": "931de5770811ceff0e3662872927762a7c45d75f",
+    "name": "pole_emploi_brive_la_marquisie",
+    "title": "Pôle emploi - Brive - La Marquisie",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/correze/pole_emploi-19031-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3949",
+      "url": "https://www.pole-emploi.fr"
+    }
+  },
+  {
+    "id": "26e46ef8cf3f7f6ec1aeb69c8afee54816b68ec4",
+    "name": "pole_emploi_bron",
+    "title": "Pôle emploi - Bron",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/rhone/pole_emploi-69029-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3949",
+      "url": "https://www.pole-emploi.fr"
+    }
+  },
+  {
+    "id": "ae016c1e2b14f8dc0a4365dda1fe19201e606546",
+    "name": "pole_emploi_bruay_la_buissiere",
+    "title": "Pôle emploi - Bruay-la-Buissière",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/pas-de-calais/pole_emploi-62178-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3949",
+      "url": "https://www.pole-emploi.fr"
+    }
+  },
+  {
+    "id": "27aef6b0e33c9c29461d6fb7c6f8f58e93fc996c",
+    "name": "pole_emploi_brunoy",
+    "title": "Pôle emploi - Brunoy",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/essonne/pole_emploi-91114-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3949",
+      "url": "https://www.pole-emploi.fr"
+    }
+  },
+  {
+    "id": "a4853db9cba28f76b9b5917071b7f568df36a6c6",
+    "name": "pole_emploi_cachan",
+    "title": "Pôle emploi - Cachan",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/val-de-marne/pole_emploi-94016-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3949",
+      "url": "https://www.pole-emploi.fr"
+    }
+  },
+  {
+    "id": "2a19ba2988cba08567b4d05bc497b46772a3e0cd",
+    "name": "pole_emploi_caen_beaulieu",
+    "title": "Pôle emploi - Caen - Beaulieu",
+    "url": "https://lannuaire.service-public.fr/normandie/calvados/pole_emploi-14118-03",
+    "metadata": {
+      "email": "",
+      "telephone": "3949",
+      "url": "https://www.pole-emploi.fr"
+    }
+  },
+  {
+    "id": "a76dedf6306f3899753c6e754acb202fbb0fb720",
+    "name": "pole_emploi_caen_fresnel",
+    "title": "Pôle emploi - Caen - Fresnel",
+    "url": "https://lannuaire.service-public.fr/normandie/calvados/pole_emploi-14118-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3949",
+      "url": "https://www.pole-emploi.fr"
+    }
+  },
+  {
+    "id": "3797faaffbf3e910d1be734c4a4074cae4889ded",
+    "name": "pole_emploi_cahors_hautesserre",
+    "title": "Pôle emploi - Cahors - Hautesserre",
+    "url": "https://lannuaire.service-public.fr/occitanie/lot/pole_emploi-46042-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3949",
+      "url": "https://www.pole-emploi.fr"
+    }
+  },
+  {
+    "id": "8a275af2b78c236c1e0a794c0cc68c7547551344",
+    "name": "pole_emploi_calais_mollien",
+    "title": "Pôle emploi - Calais - Mollien",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/pas-de-calais/pole_emploi-62193-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3949",
+      "url": "https://www.pole-emploi.fr"
+    }
+  },
+  {
+    "id": "148a8807b67c6abf78b7d1b8fa995b03d2bdc683",
+    "name": "pole_emploi_calais_saint_exupery",
+    "title": "Pôle emploi - Calais - Saint-Exupéry",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/pas-de-calais/pole_emploi-62193-02",
+    "metadata": {
+      "email": "",
+      "telephone": "3949",
+      "url": "https://www.pole-emploi.fr"
+    }
+  },
+  {
+    "id": "09ab84d2606c57480e8f70419a4f090fbc77e7fc",
+    "name": "pole_emploi_cambrai",
+    "title": "Pôle emploi - Cambrai",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/nord/pole_emploi-59122-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3949",
+      "url": "https://www.pole-emploi.fr"
+    }
+  },
+  {
+    "id": "282e77894a4b1b8c79b27a6b5aad6b9e6c8d4504",
+    "name": "pole_emploi_cannes",
+    "title": "Pôle emploi - Cannes",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/alpes-maritimes/pole_emploi-06029-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3949",
+      "url": "https://www.pole-emploi.fr"
+    }
+  },
+  {
+    "id": "2f8c9fdbe3ceaf7df241f6539f3654abf4cb1900",
+    "name": "pole_emploi_capesterre_les_flamboyants",
+    "title": "Pôle emploi - Capesterre - Les Flamboyants",
+    "url": "https://lannuaire.service-public.fr/guadeloupe/guadeloupe/pole_emploi-97107-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3949",
+      "url": "https://www.pole-emploi.fr"
+    }
+  },
+  {
+    "id": "a09ed746663bedd8262fffa216972bbbba1c1133",
+    "name": "pole_emploi_carentan",
+    "title": "Pôle emploi - Carentan",
+    "url": "https://lannuaire.service-public.fr/normandie/manche/pole_emploi-50099-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3949",
+      "url": "https://www.pole-emploi.fr"
+    }
+  },
+  {
+    "id": "5e7fe63073f85beddcf3c812c2fb4af03e616b54",
+    "name": "pole_emploi_carhaix",
+    "title": "Pôle emploi - Carhaix",
+    "url": "https://lannuaire.service-public.fr/bretagne/finistere/pole_emploi-29024-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3949",
+      "url": "https://www.pole-emploi.fr"
+    }
+  },
+  {
+    "id": "ceebb69853e7d0684e126db8ca22b383292af125",
+    "name": "pole_emploi_carmaux",
+    "title": "Pôle emploi - Carmaux",
+    "url": "https://lannuaire.service-public.fr/occitanie/tarn/pole_emploi-81060-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3949",
+      "url": "https://www.pole-emploi.fr"
+    }
+  },
+  {
+    "id": "a7ad02b4bf1f1851bba8cb4a2e661a6a7311c275",
+    "name": "pole_emploi_carpentras",
+    "title": "Pôle emploi - Carpentras",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/vaucluse/pole_emploi-84031-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3949",
+      "url": "https://www.pole-emploi.fr"
+    }
+  },
+  {
+    "id": "105892b04b5bbf2884fe47878a85fcf32cea2825",
+    "name": "pole_emploi_carvin",
+    "title": "Pôle emploi - Carvin",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/pas-de-calais/pole_emploi-62215-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3949",
+      "url": "https://www.pole-emploi.fr"
+    }
+  },
+  {
+    "id": "2d4db56331cd6fd192b3af5f01c89eec49a93663",
+    "name": "pole_emploi_castelginest",
+    "title": "Pôle emploi - Castelginest",
+    "url": "https://lannuaire.service-public.fr/occitanie/haute-garonne/pole_emploi-31116-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3949",
+      "url": "https://www.pole-emploi.fr"
+    }
+  },
+  {
+    "id": "83462c7ffa777c2e9ee29ef10fdef3071543a768",
+    "name": "pole_emploi_castelnaudary",
+    "title": "Pôle emploi - Castelnaudary",
+    "url": "https://lannuaire.service-public.fr/occitanie/aude/pole_emploi-11076-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3949",
+      "url": "https://www.pole-emploi.fr"
+    }
+  },
+  {
+    "id": "eeb9892fdbe07555de14ea8ff218398c7e09e3ae",
+    "name": "pole_emploi_castelsarrasin",
+    "title": "Pôle emploi - Castelsarrasin",
+    "url": "https://lannuaire.service-public.fr/occitanie/tarn-et-garonne/pole_emploi-82033-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3949",
+      "url": "https://www.pole-emploi.fr"
+    }
+  },
+  {
+    "id": "6e52896c44be4e28b5b5c60cdac1857aba6789c2",
+    "name": "pole_emploi_castres",
+    "title": "Pôle emploi - Castres",
+    "url": "https://lannuaire.service-public.fr/occitanie/tarn/pole_emploi-81065-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3949",
+      "url": "https://www.pole-emploi.fr"
+    }
+  },
+  {
+    "id": "7e0e3ccd04d00764bfe9b62a07dd1d401c925f69",
+    "name": "pole_emploi_caudry",
+    "title": "Pôle emploi - Caudry",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/nord/pole_emploi-59139-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3949",
+      "url": "https://www.pole-emploi.fr"
+    }
+  },
+  {
+    "id": "47eb1cfa827a013c15598fde8a62175e2973e916",
+    "name": "pole_emploi_cavaillon",
+    "title": "Pôle emploi - Cavaillon",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/vaucluse/pole_emploi-84035-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3949",
+      "url": "https://www.pole-emploi.fr"
+    }
+  },
+  {
+    "id": "6e42e5140a745f536f3e5bbd93fe4866b1e2f199",
+    "name": "pole_emploi_cayenne_baduel",
+    "title": "Pôle emploi - Cayenne - Baduel",
+    "url": "https://lannuaire.service-public.fr/guyane/guyane/pole_emploi-97302-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3949",
+      "url": "https://www.pole-emploi.fr"
+    }
+  },
+  {
+    "id": "5af4f4071828f514c96738f78331e6b95aad98a1",
+    "name": "pole_emploi_cayenne_collery",
+    "title": "Pôle emploi - Cayenne - Collery",
+    "url": "https://lannuaire.service-public.fr/guyane/guyane/pole_emploi-97302-02",
+    "metadata": {
+      "email": "",
+      "telephone": "3949",
+      "url": "https://www.pole-emploi.fr"
+    }
+  },
+  {
+    "id": "a51bfa468c6ee22c6576e993164a01e5256b8ef9",
+    "name": "pole_emploi_cayenne_montabo",
+    "title": "Pôle emploi - Cayenne - Montabo",
+    "url": "https://lannuaire.service-public.fr/guyane/guyane/pole_emploi-97302-03",
+    "metadata": {
+      "email": "",
+      "telephone": "3949",
+      "url": "https://www.pole-emploi.fr"
+    }
+  },
+  {
+    "id": "06f0e68881f225c6710c032f2d5461b61d3d6c22",
+    "name": "pole_emploi_cenon",
+    "title": "Pôle emploi - Cenon",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/gironde/pole_emploi-33119-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3949",
+      "url": "https://www.pole-emploi.fr"
+    }
+  },
+  {
+    "id": "5a1ac3a3c039f21f07b560c70a059dec7d4a1b56",
+    "name": "pole_emploi_ceret",
+    "title": "Pôle emploi - Céret",
+    "url": "https://lannuaire.service-public.fr/occitanie/pyrenees-orientales/pole_emploi-66049-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3949",
+      "url": "https://www.pole-emploi.fr"
+    }
+  },
+  {
+    "id": "3bdf0bf24472b2a09215a5917581219d02e6edea",
+    "name": "pole_emploi_cergy",
+    "title": "Pôle emploi - Cergy",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/val-d-oise/pole_emploi-95127-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3949",
+      "url": "https://www.pole-emploi.fr"
+    }
+  },
+  {
+    "id": "602e8e8e5daca90ecbb9097f21ef2ff014ef91fa",
+    "name": "pole_emploi_challans",
+    "title": "Pôle emploi - Challans",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/vendee/pole_emploi-85047-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3949",
+      "url": "https://www.pole-emploi.fr"
+    }
+  },
+  {
+    "id": "cc0a57a05a3a121806da2820831965639d556000",
+    "name": "pole_emploi_chalon_centre",
+    "title": "Pôle emploi - Chalon - Centre",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/saone-et-loire/pole_emploi-71076-02",
+    "metadata": {
+      "email": "",
+      "telephone": "3949",
+      "url": "https://www.pole-emploi.fr"
+    }
+  },
+  {
+    "id": "36e2bf1bce875ff0de61448dd66d7b1a69523dbd",
+    "name": "pole_emploi_chalon_nord",
+    "title": "Pôle emploi - Chalon - Nord",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/saone-et-loire/pole_emploi-71076-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3949",
+      "url": "https://www.pole-emploi.fr"
+    }
+  },
+  {
+    "id": "47c9cc50ec5ff36ee0e97f98796d9a373e83ea01",
+    "name": "pole_emploi_chalons_en_champagne",
+    "title": "Pôle emploi - Châlons-en-Champagne",
+    "url": "https://lannuaire.service-public.fr/grand-est/marne/pole_emploi-51108-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3949",
+      "url": "https://www.pole-emploi.fr"
+    }
+  },
+  {
+    "id": "53f45d0780efd3c8db52d07db7223993f8873980",
+    "name": "pole_emploi_chamalieres",
+    "title": "Pôle emploi - Chamalières",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/puy-de-dome/pole_emploi-63075-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3949",
+      "url": "https://www.pole-emploi.fr"
+    }
+  },
+  {
+    "id": "e7d6a961bb4a995fa572f1b50e503c6eb8ebc665",
+    "name": "pole_emploi_chambery_grand_verger",
+    "title": "Pôle emploi - Chambéry - Grand-Verger",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/savoie/pole_emploi-73065-02",
+    "metadata": {
+      "email": "",
+      "telephone": "3949",
+      "url": "https://www.pole-emploi.fr"
+    }
+  },
+  {
+    "id": "df6416f93cea9ac902ef198b3de31ed4d229e7b6",
+    "name": "pole_emploi_chambery_mudry",
+    "title": "Pôle emploi - Chambéry - Mudry",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/savoie/pole_emploi-73065-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3949",
+      "url": "https://www.pole-emploi.fr"
+    }
+  },
+  {
+    "id": "fa08a9ae35f7468c60cc2cfd82c519e0c16656b6",
+    "name": "pole_emploi_champagnole",
+    "title": "Pôle emploi - Champagnole",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/jura/pole_emploi-39097-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3949",
+      "url": "https://www.pole-emploi.fr"
+    }
+  },
+  {
+    "id": "33cab38903416f672b6d4ff8c5e971cdc5c83c42",
+    "name": "pole_emploi_champigny_sur_marne",
+    "title": "Pôle emploi - Champigny-sur-Marne",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/val-de-marne/pole_emploi-94017-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3949",
+      "url": "https://www.pole-emploi.fr"
+    }
+  },
+  {
+    "id": "9b1aaf2ced92d2e59f3ef30fd8956e818684a314",
+    "name": "pole_emploi_charleville_mezieres_montjoly",
+    "title": "Pôle emploi - Charleville-Mézières - Montjoly",
+    "url": "https://lannuaire.service-public.fr/grand-est/ardennes/pole_emploi-08105-02",
+    "metadata": {
+      "email": "",
+      "telephone": "3949",
+      "url": "https://www.pole-emploi.fr"
+    }
+  },
+  {
+    "id": "0e1d06d7551c20c514f3180d2b68a616f2d2f06d",
+    "name": "pole_emploi_charleville_mezieres_val_de_vence",
+    "title": "Pôle emploi - Charleville-Mézières - Val-de-Vence",
+    "url": "https://lannuaire.service-public.fr/grand-est/ardennes/pole_emploi-08105-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3949",
+      "url": "https://www.pole-emploi.fr"
+    }
+  },
+  {
+    "id": "07761362b7ad54a92faa4cc281a4ae443514abd1",
+    "name": "pole_emploi_chartres_gare",
+    "title": "Pôle emploi - Chartres - Gare",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/eure-et-loir/pole_emploi-28085-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3949",
+      "url": "https://www.pole-emploi.fr"
+    }
+  },
+  {
+    "id": "6d8ed0e6af826f45689b6f3be9965d12bc3fa247",
+    "name": "pole_emploi_chateaubriant",
+    "title": "Pôle emploi - Châteaubriant",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/loire-atlantique/pole_emploi-44036-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3949",
+      "url": "https://www.pole-emploi.fr"
+    }
+  },
+  {
+    "id": "b9a83c52ebbbe401b56c9032be4186f74775e0fd",
+    "name": "pole_emploi_chateaudun",
+    "title": "Pôle emploi - Châteaudun",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/eure-et-loir/pole_emploi-28088-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3949",
+      "url": "https://www.pole-emploi.fr"
+    }
+  },
+  {
+    "id": "79723ee256d83b08d354eb5be6e86eb99aec580d",
+    "name": "pole_emploi_chateau_gontier",
+    "title": "Pôle emploi - Château-Gontier",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/mayenne/pole_emploi-53062-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3949",
+      "url": "https://www.pole-emploi.fr"
+    }
+  },
+  {
+    "id": "62c4fc4f7ca360ebd3d5b04e480a2f587c35a953",
+    "name": "pole_emploi_chateaurenard",
+    "title": "Pôle emploi - Châteaurenard",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/pole_emploi-13027-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3949",
+      "url": "https://www.pole-emploi.fr"
+    }
+  }
+]

@@ -1,0 +1,272 @@
+[
+  {
+    "id": "c5c2d80946e3d31de89d0126fc8d44f9374caf67",
+    "name": "comite_consultatif_du_credit_dimpot_pour_depenses_de_recherche",
+    "title": "Comité consultatif du crédit d'impôt pour dépenses de recherche",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/paris/dr_fip-75106-02",
+    "metadata": {
+      "email": "drfip75@dgfip.finances.gouv.fr",
+      "telephone": "01 55 80 85 85",
+      "url": "https://www.economie.gouv.fr"
+    }
+  },
+  {
+    "id": "d0ec5aefce0add059443e0f15f342e17ebe0f6c3",
+    "name": "direction_des_finances_publiques_nouvelle_caledonie",
+    "title": "Direction des finances publiques - Nouvelle-Calédonie",
+    "url": "https://lannuaire.service-public.fr/collectivites-d-outre-mer/nouvelle-caledonie/dr_fip-98818-01",
+    "metadata": {
+      "email": "dfip988@dgfip.finances.gouv.fr",
+      "telephone": "+687 27 92 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "de8ee777aba336692d0820fb12cb67a4e297357f",
+    "name": "direction_des_finances_publiques_polynesie_francaise",
+    "title": "Direction des finances publiques - Polynésie française",
+    "url": "https://lannuaire.service-public.fr/collectivites-d-outre-mer/polynesie-francaise/dr_fip-98735-02",
+    "metadata": {
+      "email": "dfip987@dgfip.finances.gouv.fr",
+      "telephone": "+689 40 46 70 00",
+      "url": "http://www.polynesie-francaise.pref.gouv.fr/Les-services-de-l-Etat/Finances/Finances-publiques"
+    }
+  },
+  {
+    "id": "a2a5e201df067a64406baa3a9227cb87c3525aa3",
+    "name": "direction_des_finances_publiques_saint_pierre_et_miquelon",
+    "title": "Direction des finances publiques - Saint-Pierre-et-Miquelon",
+    "url": "https://lannuaire.service-public.fr/collectivites-d-outre-mer/saint-pierre-et-miquelon/dr_fip-97502-01",
+    "metadata": {
+      "email": "dfip975@dgfip.finances.gouv.fr",
+      "telephone": "+508 41 08 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "5375b36f66bf4bf27c6f722688d4bc943e94a389",
+    "name": "direction_des_impots_et_des_contributions_publiques_polynesie_francaise",
+    "title": "Direction des impôts et des contributions publiques - Polynésie française",
+    "url": "https://lannuaire.service-public.fr/collectivites-d-outre-mer/polynesie-francaise/dr_fip-98735-01",
+    "metadata": {
+      "email": "directiondesimpots@dicp.gov.pf",
+      "telephone": "(+689) 40 46 13 13",
+      "url": "http://www.impot-polynesie.gov.pf/"
+    }
+  },
+  {
+    "id": "3af00f06ba7edb87e858860d30ecbaca89351934",
+    "alternateName": "DRFIP",
+    "name": "direction_regionale_des_finances_publiques_drfip_auvergne_rhone_alpes_et_departement_du_rhone",
+    "title": "Direction régionale des finances publiques (DRFIP) - Auvergne-Rhône-Alpes et département du Rhône",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/rhone/dr_fip-69123-01",
+    "metadata": {
+      "email": "drfip69@dgfip.finances.gouv.fr",
+      "telephone": "04 72 40 84 00",
+      "url": "https://www.impots.gouv.fr/portail/"
+    }
+  },
+  {
+    "id": "0d60dd9403ec22ae430041ce58143fcd2eafabc0",
+    "alternateName": "DRFIP",
+    "name": "direction_regionale_des_finances_publiques_drfip_bourgogne_franche_comte_et_departement_de_la_cote_d_or",
+    "title": "Direction régionale des finances publiques (DRFIP) - Bourgogne-Franche-Comté et département de la Côte-d'Or",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/cote-d-or/dr_fip-21231-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 80 59 26 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "33eb14072dc77f3f5692d643809932380c39adba",
+    "alternateName": "DRFIP",
+    "name": "direction_regionale_des_finances_publiques_drfip_bretagne_et_departement_d_ille_et_vilaine",
+    "title": "Direction régionale des finances publiques (DRFIP) - Bretagne et département d'Ille-et-Vilaine",
+    "url": "https://lannuaire.service-public.fr/bretagne/ille-et-vilaine/dr_fip-35238-01",
+    "metadata": {
+      "email": "drfip35@dgfip.finances.gouv.fr",
+      "telephone": "02 99 79 80 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "699d89c4e60e5ee1570827211b2385517995a51f",
+    "alternateName": "DRFIP",
+    "name": "direction_regionale_des_finances_publiques_drfip_centre_val_de_loire",
+    "title": "Direction régionale des finances publiques (DRFIP) - Centre-Val de Loire",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/loiret/dr_fip-45234-01",
+    "metadata": {
+      "email": "drfip45@dgfip.finances.gouv.fr",
+      "telephone": "02 38 79 69 59",
+      "url": "https://www.economie.gouv.fr/"
+    }
+  },
+  {
+    "id": "ebb840e051394b56b8006fb6160270c348d31018",
+    "alternateName": "DRFIP",
+    "name": "direction_regionale_des_finances_publiques_drfip_corse_et_corse_du_sud",
+    "title": "Direction régionale des finances publiques (DRFIP) - Corse et Corse-du-Sud",
+    "url": "https://lannuaire.service-public.fr/corse/corse-du-sud/dr_fip-2A004-01",
+    "metadata": {
+      "email": "drfip2a@dgfip.finances.gouv.fr",
+      "telephone": "04 95 23 51 50",
+      "url": ""
+    }
+  },
+  {
+    "id": "c109cc2491ece447122faf52d19f1ddf0bd536c7",
+    "alternateName": "DRFIP",
+    "name": "direction_regionale_des_finances_publiques_drfip_grand_est_et_departement_du_bas_rhin",
+    "title": "Direction régionale des finances publiques (DRFIP) - Grand Est et département du Bas-Rhin",
+    "url": "https://lannuaire.service-public.fr/grand-est/bas-rhin/dr_fip-67482-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 88 25 37 37",
+      "url": ""
+    }
+  },
+  {
+    "id": "dc394e6840b32ad62ee55cbe299b69fcdd5d0d9d",
+    "alternateName": "DRFIP",
+    "name": "direction_regionale_des_finances_publiques_drfip_guadeloupe",
+    "title": "Direction régionale des finances publiques (DRFIP) - Guadeloupe",
+    "url": "https://lannuaire.service-public.fr/guadeloupe/guadeloupe/dr_fip-97105-01",
+    "metadata": {
+      "email": "drfip971@dgfip.finances.gouv.fr",
+      "telephone": "+590 590 99 24 27+590 590 99 14 20",
+      "url": "https://www.economie.gouv.fr/"
+    }
+  },
+  {
+    "id": "82349cc0e833f011211fc20754686b1edced3a04",
+    "alternateName": "DRFIP",
+    "name": "direction_regionale_des_finances_publiques_drfip_guyane",
+    "title": "Direction régionale des finances publiques (DRFIP) - Guyane",
+    "url": "https://lannuaire.service-public.fr/guyane/guyane/dr_fip-97302-01",
+    "metadata": {
+      "email": "drfip973@dgfip.finances.gouv.fr",
+      "telephone": "+594 5 94 29 91 91",
+      "url": "https://www.impots.gouv.fr/portail/"
+    }
+  },
+  {
+    "id": "589bbbbba205ee16ed92e9792d983ebb2d4ae979",
+    "alternateName": "DRFIP",
+    "name": "direction_regionale_des_finances_publiques_drfip_hauts_de_france_et_departement_du_nord",
+    "title": "Direction régionale des finances publiques (DRFIP) - Hauts de France et département du Nord",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/nord/dr_fip-59350-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 20 62 42 42",
+      "url": "http://www.prefectures-regions.gouv.fr/hauts-de-france/Region-et-institutions/Organisation-administrative-de-la-region/Les-services-de-l-Etat-en-region/La-DRFIP/La-DRFIP-Hauts-de-France"
+    }
+  },
+  {
+    "id": "69e3697eb401905ce4690c0012df95dc904dd705",
+    "alternateName": "DRFIP",
+    "name": "direction_regionale_des_finances_publiques_drfip_la_reunion",
+    "title": "Direction régionale des finances publiques (DRFIP) - La Réunion",
+    "url": "https://lannuaire.service-public.fr/la-reunion/reunion/dr_fip-97411-01",
+    "metadata": {
+      "email": "drfip974@dgfip.finances.gouv.fr",
+      "telephone": "02 62 90 88 00",
+      "url": "https://www.economie.gouv.fr"
+    }
+  },
+  {
+    "id": "c617b840a15850b86f9dcc69ecf5d0394429a164",
+    "alternateName": "DRFIP",
+    "name": "direction_regionale_des_finances_publiques_drfip_martinique",
+    "title": "Direction régionale des finances publiques (DRFIP) - Martinique",
+    "url": "https://lannuaire.service-public.fr/martinique/martinique/dr_fip-97209-01",
+    "metadata": {
+      "email": "drfip972@dgfip.finances.gouv.fr",
+      "telephone": "+596 596 59 07 07",
+      "url": "https://www.impots.gouv.fr/portail/"
+    }
+  },
+  {
+    "id": "6fca9e89bee188616538e23e0cc99e57fa04e2ca",
+    "alternateName": "DRFIP",
+    "name": "direction_regionale_des_finances_publiques_drfip_mayotte",
+    "title": "Direction régionale des finances publiques (DRFIP) - Mayotte",
+    "url": "https://lannuaire.service-public.fr/mayotte/mayotte/dr_fip-97611-01",
+    "metadata": {
+      "email": "drfip976@dgfip.finances.gouv.fr",
+      "telephone": "+269 2 69 61 16 40",
+      "url": "https://www.economie.gouv.fr"
+    }
+  },
+  {
+    "id": "5ee90d06c4808255ece38e2f94e57d80a9188f4e",
+    "alternateName": "DRFIP",
+    "name": "direction_regionale_des_finances_publiques_drfip_normandie_et_departement_de_seine_maritime",
+    "title": "Direction régionale des finances publiques (DRFIP) - Normandie et département de Seine-Maritime",
+    "url": "https://lannuaire.service-public.fr/normandie/seine-maritime/dr_fip-76540-01",
+    "metadata": {
+      "email": "drfip76@dgfip.finances.gouv.fr",
+      "telephone": "02 35 58 37 37",
+      "url": ""
+    }
+  },
+  {
+    "id": "b17dabb8ae4c6e0019e3961ec853681d3537f9c8",
+    "alternateName": "DRFIP",
+    "name": "direction_regionale_des_finances_publiques_drfip_nouvelle_aquitaine_et_departement_de_la_gironde",
+    "title": "Direction régionale des finances publiques (DRFIP) - Nouvelle-Aquitaine et département de la Gironde",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/gironde/dr_fip-33063-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 56 90 76 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "8cbfdac6dc542e3e4480ef2b78877d3a3f428ef8",
+    "alternateName": "DRFIP",
+    "name": "direction_regionale_des_finances_publiques_drfip_occitanie_et_departement_de_la_haute_garonne",
+    "title": "Direction régionale des finances publiques (DRFIP) - Occitanie et département de la Haute-Garonne",
+    "url": "https://lannuaire.service-public.fr/occitanie/haute-garonne/dr_fip-31555-01",
+    "metadata": {
+      "email": "drfip31@dgfip.finances.gouv.fr",
+      "telephone": "05 61 10 67 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "da012c5fd1b0688e4676d2b315fa348989492d9a",
+    "alternateName": "DRFIP",
+    "name": "direction_regionale_des_finances_publiques_drfip_pays_de_la_loire_et_departement_de_la_loire_atlantique",
+    "title": "Direction régionale des finances publiques (DRFIP) - Pays-de-la-Loire et département de la Loire-Atlantique",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/loire-atlantique/dr_fip-44109-01",
+    "metadata": {
+      "email": "drfip44@dgfip.finances.gouv.fr",
+      "telephone": "02 40 20 50 50",
+      "url": "https://www.economie.gouv.fr/dgfip"
+    }
+  },
+  {
+    "id": "849a7e5bc535c8cd5dc044f9dfb3295fbba6b10a",
+    "alternateName": "DRFIP",
+    "name": "direction_regionale_des_finances_publiques_drfip_provence_alpes_cote_d_azur_et_departement_des_bouches_du_rhone",
+    "title": "Direction régionale des finances publiques (DRFIP) - Provence-Alpes-Côte d'Azur et département des Bouches-du-Rhône",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/dr_fip-13208-01",
+    "metadata": {
+      "email": "drfip13@dgfip.finances.gouv.fr",
+      "telephone": "04 91 17 91 17",
+      "url": "https://www.economie.gouv.fr/"
+    }
+  },
+  {
+    "id": "95f1b3fa98f816513314a3382090da69cc517810",
+    "name": "direction_regionale_des_finances_publiques_d_ile_de_france_et_de_paris",
+    "title": "Direction régionale des finances publiques d'Île-de-France et de Paris",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/paris/dr_fip-75102-01",
+    "metadata": {
+      "email": "drfip75@dgfip.finances.gouv.fr",
+      "telephone": "01 55 80 85 85",
+      "url": ""
+    }
+  }
+]

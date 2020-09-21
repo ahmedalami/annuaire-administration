@@ -1,0 +1,1105 @@
+[
+  {
+    "id": "ef4bb0f463580db48f55173dfaeef7df3e33daf9",
+    "alternateName": "DDTM",
+    "name": "direction_departementales_des_territoires_et_de_la_mer_ddtm_charente_maritime",
+    "title": "Direction Départementales des Territoires et de la Mer (DDTM)- Charente-Maritime)",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/charente-maritime/ddt-17300-01",
+    "metadata": {
+      "email": "ddtm@charente-maritime.gouv.fr",
+      "telephone": "05 16 49 61 00",
+      "url": "http://www.charente-maritime.gouv.fr"
+    }
+  },
+  {
+    "id": "f75f900dc8b0154be9fc4b4d00dfd565e99f84d7",
+    "alternateName": "DDT",
+    "name": "direction_departementale_des_territoires_ddt_ain",
+    "title": "Direction départementale des Territoires (DDT) - Ain",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/ain/ddt-01053-01",
+    "metadata": {
+      "email": "ddt@ain.gouv.fr",
+      "telephone": "04 74 45 62 37",
+      "url": "http://www.ain.equipement.gouv.fr"
+    }
+  },
+  {
+    "id": "acf77f0043f2df603d4b56f7583f4e01d9550013",
+    "alternateName": "DDT",
+    "name": "direction_departementale_des_territoires_ddt_aisne",
+    "title": "Direction départementale des territoires (DDT) - Aisne",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/aisne/ddt-02408-01",
+    "metadata": {
+      "email": "ddt@aisne.gouv.fr",
+      "telephone": "03 23 24 64 00",
+      "url": "http://www.aisne.gouv.fr"
+    }
+  },
+  {
+    "id": "5c99a8bd4e4ca6a907a15688a9fc5db7cd5e6a41",
+    "alternateName": "DDT",
+    "name": "direction_departementale_des_territoires_ddt_allier",
+    "title": "Direction départementale des territoires (DDT) - Allier",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/allier/ddt-03321-01",
+    "metadata": {
+      "email": "ddt@allier.gouv.fr",
+      "telephone": "04 70 48 79 79",
+      "url": "http://www.allier.pref.gouv.fr"
+    }
+  },
+  {
+    "id": "fdd47ee1dbb1b92b5a8b1c1518eeae6406e3a00e",
+    "alternateName": "DDT",
+    "name": "direction_departementale_des_territoires_ddt_alpes_de_haute_provence",
+    "title": "Direction départementale des territoires (DDT) - Alpes-de-Haute-Provence",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/alpes-de-haute-provence/ddt-04070-01",
+    "metadata": {
+      "email": "ddt@alpes-de-haute-provence.gouv.fr",
+      "telephone": "04 92 30 55 00",
+      "url": "http://www.alpes-de-haute-provence.pref.gouv.fr"
+    }
+  },
+  {
+    "id": "55ba201673c7df6e4cbb7b28ec6f25a8c94ee631",
+    "alternateName": "DDT",
+    "name": "direction_departementale_des_territoires_ddt_ardeche",
+    "title": "Direction départementale des territoires (DDT) - Ardèche",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/ardeche/ddt-07186-01",
+    "metadata": {
+      "email": "ddt@ardeche.gouv.fr",
+      "telephone": "04 75 65 50 00",
+      "url": "http://www.ardeche.equipement.gouv.fr"
+    }
+  },
+  {
+    "id": "f51f926c0f09f251a05508b9677753baa3def066",
+    "alternateName": "DDT",
+    "name": "direction_departementale_des_territoires_ddt_ardennes",
+    "title": "Direction départementale des territoires (DDT) - Ardennes",
+    "url": "https://lannuaire.service-public.fr/grand-est/ardennes/ddt-08105-01",
+    "metadata": {
+      "email": "ddt@ardennes.gouv.fr",
+      "telephone": "03 51 16 50 00",
+      "url": "http://www.ardennes.gouv.fr/la-direction-departementale-des-territoires-ddt-a12.html"
+    }
+  },
+  {
+    "id": "9fec6917b893b91035354482faf48af137383263",
+    "alternateName": "DDT",
+    "name": "direction_departementale_des_territoires_ddt_ariege",
+    "title": "Direction départementale des territoires (DDT) - Ariège",
+    "url": "https://lannuaire.service-public.fr/occitanie/ariege/ddt-09122-01",
+    "metadata": {
+      "email": "ddt@ariege.gouv.fr",
+      "telephone": "05 61 02 47 00",
+      "url": "http://www.ariege.gouv.fr"
+    }
+  },
+  {
+    "id": "457b490720a235dbb00fe1d4e300793ee141a831",
+    "alternateName": "DDT",
+    "name": "direction_departementale_des_territoires_ddt_aube",
+    "title": "Direction départementale des territoires (DDT) - Aube",
+    "url": "https://lannuaire.service-public.fr/grand-est/aube/ddt-10387-01",
+    "metadata": {
+      "email": "ddt@aube.gouv.fr",
+      "telephone": "03 25 71 18 00",
+      "url": "http://www.aube.equipement-agriculture.gouv.fr"
+    }
+  },
+  {
+    "id": "aab3719ad684e87b7b29506516657d40a4c7e5c8",
+    "alternateName": "DDT",
+    "name": "direction_departementale_des_territoires_ddt_aveyron",
+    "title": "Direction départementale des territoires (DDT) - Aveyron",
+    "url": "https://lannuaire.service-public.fr/occitanie/aveyron/ddt-12202-01",
+    "metadata": {
+      "email": "ddt@aveyron.gouv.fr",
+      "telephone": "05 65 73 50 00",
+      "url": "http://www.aveyron.gouv.fr"
+    }
+  },
+  {
+    "id": "2b8a5c1e259ac81a9e76e865a0a4c5a68716af0a",
+    "alternateName": "DDT",
+    "name": "direction_departementale_des_territoires_ddt_bas_rhin",
+    "title": "Direction départementale des territoires (DDT) - Bas-Rhin",
+    "url": "https://lannuaire.service-public.fr/grand-est/bas-rhin/ddt-67482-01",
+    "metadata": {
+      "email": "ddt@bas-rhin.gouv.fr",
+      "telephone": "03 88 88 91 00",
+      "url": "http://www.bas-rhin.gouv.fr/"
+    }
+  },
+  {
+    "id": "9343a3ee3199e2ac82e93cd49394708377ee1f6d",
+    "alternateName": "DDT",
+    "name": "direction_departementale_des_territoires_ddt_cantal",
+    "title": "Direction départementale des territoires (DDT) - Cantal",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/cantal/ddt-15014-01",
+    "metadata": {
+      "email": "ddt@cantal.gouv.fr",
+      "telephone": "04 63 27 66 00",
+      "url": "http://www.cantal.gouv.fr"
+    }
+  },
+  {
+    "id": "d0da556b423ee1658ac7d161ff6f1060c436fe4f",
+    "alternateName": "DDT",
+    "name": "direction_departementale_des_territoires_ddt_charente",
+    "title": "Direction départementale des territoires (DDT) - Charente",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/charente/ddt-16015-01",
+    "metadata": {
+      "email": "ddt@charente.gouv.fr",
+      "telephone": "05 17 17 37 37",
+      "url": "http://www.charente.gouv.fr"
+    }
+  },
+  {
+    "id": "947d29b52758a1283def31d4cd5e1e940dd773c5",
+    "alternateName": "DDT",
+    "name": "direction_departementale_des_territoires_ddt_cher",
+    "title": "Direction départementale des territoires (DDT) - Cher",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/cher/ddt-18033-01",
+    "metadata": {
+      "email": "ddt@cher.gouv.fr",
+      "telephone": "02 34 34 61 00",
+      "url": "http://www.cher.equipement-agriculture.gouv.fr"
+    }
+  },
+  {
+    "id": "6c8f330af039d8fee039179d1f48a8bfe8d0f0c6",
+    "alternateName": "DDT",
+    "name": "direction_departementale_des_territoires_ddt_correze",
+    "title": "Direction départementale des territoires (DDT) - Corrèze",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/correze/ddt-19272-01",
+    "metadata": {
+      "email": "ddt-direction@correze.gouv.fr",
+      "telephone": "05 55 21 83 13",
+      "url": "http://www.correze.gouv.fr"
+    }
+  },
+  {
+    "id": "3e3fb2f5067bfd731ae3c1b0acacb1be7cb9feb8",
+    "alternateName": "DDT",
+    "name": "direction_departementale_des_territoires_ddt_cote_d_or",
+    "title": "Direction départementale des territoires (DDT) - Côte-d'Or",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/cote-d-or/ddt-21231-01",
+    "metadata": {
+      "email": "ddt@cote-dor.gouv.fr",
+      "telephone": "03 80 29 44 44",
+      "url": "http://www.cote-d-or.equipement-agriculture.gouv.fr"
+    }
+  },
+  {
+    "id": "0e7d3c61bf275ace071bca06624c6d834ed7e696",
+    "alternateName": "DDT",
+    "name": "direction_departementale_des_territoires_ddt_creuse",
+    "title": "Direction départementale des territoires (DDT) - Creuse",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/creuse/ddt-23096-01",
+    "metadata": {
+      "email": "ddt@creuse.gouv.fr",
+      "telephone": "05 55 51 59 00",
+      "url": "http://www.creuse.gouv.fr"
+    }
+  },
+  {
+    "id": "f81cbbaa43e3444e8503b0d4e37f71836d4628d3",
+    "alternateName": "DDT",
+    "name": "direction_departementale_des_territoires_ddt_deux_sevres",
+    "title": "Direction départementale des territoires (DDT) - Deux-Sèvres",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/deux-sevres/ddt-79191-01",
+    "metadata": {
+      "email": "ddt@deux-sevres.gouv.fr",
+      "telephone": "05 49 06 88 88",
+      "url": "http://www.deux-sevres.gouv.fr"
+    }
+  },
+  {
+    "id": "be1be1b80e83a4eabb23e3437849c84ff889864a",
+    "alternateName": "DDT",
+    "name": "direction_departementale_des_territoires_ddt_dordogne",
+    "title": "Direction Départementale des Territoires (DDT) - Dordogne",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/dordogne/ddt-24322-01",
+    "metadata": {
+      "email": "ddt-directeur@dordogne.gouv.fr",
+      "telephone": "05 53 02 24 24",
+      "url": "http://www.dordogne.gouv.fr"
+    }
+  },
+  {
+    "id": "81b24bb43aead81c60f9c53af725aecbb5559b4d",
+    "alternateName": "DDT",
+    "name": "direction_departementale_des_territoires_ddt_doubs",
+    "title": "Direction départementale des territoires (DDT) - Doubs",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/doubs/ddt-25056-01",
+    "metadata": {
+      "email": "ddt@doubs.gouv.fr",
+      "telephone": "03 81 65 62 62",
+      "url": "http://www.doubs.gouv.fr./"
+    }
+  },
+  {
+    "id": "40456b506c5646fd25797683a807550b71800ed1",
+    "alternateName": "DDT",
+    "name": "direction_departementale_des_territoires_ddt_drome",
+    "title": "Direction départementale des territoires (DDT) - Drôme",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/drome/ddt-26362-01",
+    "metadata": {
+      "email": "ddt@drome.gouv.fr",
+      "telephone": "04 81 66 80 00",
+      "url": "http://www.drome.equipement.gouv.fr"
+    }
+  },
+  {
+    "id": "d14a2a64d3760d239c2608a4eada85cccbc37738",
+    "alternateName": "DDT",
+    "name": "direction_departementale_des_territoires_ddt_essonne",
+    "title": "Direction départementale des territoires (DDT) - Essonne",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/essonne/ddt-91228-01",
+    "metadata": {
+      "email": "ddt-directeur@essonne.gouv.fr",
+      "telephone": "01 60 76 32 00",
+      "url": "http://www.essonne.pref.gouv.fr"
+    }
+  },
+  {
+    "id": "dd33f9ce4d7becbe9519339062fce42d6319b912",
+    "alternateName": "DDT",
+    "name": "direction_departementale_des_territoires_ddt_eure_et_loir",
+    "title": "Direction départementale des territoires (DDT) - Eure-et-Loir",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/eure-et-loir/ddt-28085-01",
+    "metadata": {
+      "email": "ddt@eure-et-loir.gouv.fr",
+      "telephone": "02 37 20 40 60",
+      "url": "http://www.eure-et-loir.equipement-agriculture.gouv.fr"
+    }
+  },
+  {
+    "id": "4335a76174de4d066a65dc85abe635f2def1b7d4",
+    "alternateName": "DDT",
+    "name": "direction_departementale_des_territoires_ddt_gers",
+    "title": "Direction départementale des territoires (DDT) - Gers",
+    "url": "https://lannuaire.service-public.fr/occitanie/gers/ddt-32013-01",
+    "metadata": {
+      "email": "ddt@gers.gouv.fr",
+      "telephone": "05 62 61 46 46",
+      "url": "http://www.gers.gouv.fr/Services-de-l-Etat/Agriculture-environnement-amenagement-et-logement"
+    }
+  },
+  {
+    "id": "e8bd1e60348b8ed4f7b461784f515ebd98a2f534",
+    "alternateName": "DDT",
+    "name": "direction_departementale_des_territoires_ddt_haute_garonne",
+    "title": "Direction départementale des territoires (DDT) - Haute-Garonne",
+    "url": "https://lannuaire.service-public.fr/occitanie/haute-garonne/ddt-31555-01",
+    "metadata": {
+      "email": "ddt-courrier@haute-garonne.gouv.fr",
+      "telephone": "05 81 97 71 00",
+      "url": "http://www.haute-garonne.equipement-agriculture.gouv.fr"
+    }
+  },
+  {
+    "id": "e3e26786ace09e1d9c07c76dc77f4cd19c68fbbe",
+    "alternateName": "DDT",
+    "name": "direction_departementale_des_territoires_ddt_haute_loire",
+    "title": "Direction départementale des territoires (DDT) - Haute-Loire",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/haute-loire/ddt-43157-01",
+    "metadata": {
+      "email": "ddt-direction@haute-loire.gouv.fr",
+      "telephone": "04 71 05 84 00",
+      "url": "http://www.haute-loire.pref.gouv.fr"
+    }
+  },
+  {
+    "id": "abfcff16eab83ac6354df46fe1c047dbd3f61187",
+    "alternateName": "DDT",
+    "name": "direction_departementale_des_territoires_ddt_haute_marne",
+    "title": "Direction départementale des territoires (DDT) - Haute-Marne",
+    "url": "https://lannuaire.service-public.fr/grand-est/haute-marne/ddt-52121-01",
+    "metadata": {
+      "email": "ddt@haute-marne.gouv.fr",
+      "telephone": "03 25 30 79 79",
+      "url": "http://www.haute-marne.gouv.fr/Services-de-l-Etat/Agriculture-environnement-amenagement-et-logement/Direction-departementale-des-Territoires/La-Direction-departementale-des-Territoires-DDT-coordonnees"
+    }
+  },
+  {
+    "id": "7e0a36b4ba310de7d57c56f41cba733b49e85d45",
+    "alternateName": "DDT",
+    "name": "direction_departementale_des_territoires_ddt_hautes_alpes",
+    "title": "Direction départementale des territoires (DDT) - Hautes-Alpes",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/hautes-alpes/ddt-05061-01",
+    "metadata": {
+      "email": "ddt@hautes-alpes.gouv.fr",
+      "telephone": "04 92 40 35 00",
+      "url": "http://www.hautes-alpes.equipement-agriculture.gouv.fr"
+    }
+  },
+  {
+    "id": "c9e07861d9e2700215e6b163866586fa040d90a3",
+    "alternateName": "DDT",
+    "name": "direction_departementale_des_territoires_ddt_haute_saone",
+    "title": "Direction départementale des territoires (DDT) - Haute-Saône",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/haute-saone/ddt-70550-01",
+    "metadata": {
+      "email": "ddt@haute-saone.gouv.fr",
+      "telephone": "03 63 37 92 00",
+      "url": "http://www.haute-saone.equipement-agriculture.gouv.fr"
+    }
+  },
+  {
+    "id": "b73c61799ebe161f3a60f0433af788e0cebd1cdd",
+    "alternateName": "DDT",
+    "name": "direction_departementale_des_territoires_ddt_haute_savoie",
+    "title": "Direction départementale des territoires (DDT) - Haute-Savoie",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/haute-savoie/ddt-74010-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 50 33 78 00",
+      "url": "http://www.haute-savoie.gouv.fr"
+    }
+  },
+  {
+    "id": "af6de05ceb650a1fd1b60af39f11c31ba3399e2e",
+    "alternateName": "DDT",
+    "name": "direction_departementale_des_territoires_ddt_hautes_pyrenees",
+    "title": "Direction départementale des territoires (DDT) - Hautes-Pyrénées",
+    "url": "https://lannuaire.service-public.fr/occitanie/hautes-pyrenees/ddt-65440-01",
+    "metadata": {
+      "email": "ddt@hautes-pyrenees.gouv.fr",
+      "telephone": "05 62 51 65 65",
+      "url": "http://www.hautes-pyrenees.equipement.gouv.fr"
+    }
+  },
+  {
+    "id": "717d15ab378977e3064654aa3c5df3bade02044a",
+    "alternateName": "DDT",
+    "name": "direction_departementale_des_territoires_ddt_haute_vienne",
+    "title": "Direction départementale des territoires (DDT) - Haute-Vienne",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/haute-vienne/ddt-87085-01",
+    "metadata": {
+      "email": "ddt@haute-vienne.gouv.fr",
+      "telephone": "05 55 12 90 00",
+      "url": "http://www.haute-vienne.gouv.fr"
+    }
+  },
+  {
+    "id": "2783ad472fe7bff5a4e896106d81dd61e2a88171",
+    "alternateName": "DDT",
+    "name": "direction_departementale_des_territoires_ddt_haut_rhin",
+    "title": "Direction départementale des territoires (DDT) - Haut-Rhin",
+    "url": "https://lannuaire.service-public.fr/grand-est/haut-rhin/ddt-68066-01",
+    "metadata": {
+      "email": "ddt@haut-rhin.gouv.fr",
+      "telephone": "03 89 24 81 37",
+      "url": "http://www.haut-rhin.gouv.fr/"
+    }
+  },
+  {
+    "id": "3f03e69e0165f5092dce039dc263081605f03988",
+    "alternateName": "DDT",
+    "name": "direction_departementale_des_territoires_ddt_indre",
+    "title": "Direction départementale des territoires (DDT) - Indre",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/indre/ddt-36044-01",
+    "metadata": {
+      "email": "ddp@indre.gouv.fr",
+      "telephone": "02 54 53 20 36",
+      "url": "http://www.indre.pref.gouv.fr"
+    }
+  },
+  {
+    "id": "f757632c990b029ef0cb34996512d7248e0268a7",
+    "alternateName": "DDT",
+    "name": "direction_departementale_des_territoires_ddt_indre_et_loire",
+    "title": "Direction départementale des territoires (DDT) - Indre-et-Loire",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/indre-et-loire/ddt-37261-01",
+    "metadata": {
+      "email": "ddt@indre-et-loire.gouv.fr",
+      "telephone": "02 47 70 80 90",
+      "url": "http://www.indre-et-loire.equipement-agriculture.gouv.fr"
+    }
+  },
+  {
+    "id": "aabb1b13a88840bf5248834f9eabfeee74ec17eb",
+    "alternateName": "DDT",
+    "name": "direction_departementale_des_territoires_ddt_isere",
+    "title": "Direction Départementale des Territoires (DDT)- Isère",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/isere/ddt-38185-01",
+    "metadata": {
+      "email": "ddt@isere.gouv.fr",
+      "telephone": "04 56 59 46 49",
+      "url": "http://www.isere.gouv.fr"
+    }
+  },
+  {
+    "id": "3002eaec4dbf5bcd299f098210d3da4ed0c30089",
+    "alternateName": "DDT",
+    "name": "direction_departementale_des_territoires_ddt_jura",
+    "title": "Direction départementale des territoires (DDT) - Jura",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/jura/ddt-39300-01",
+    "metadata": {
+      "email": "ddt@jura.gouv.fr",
+      "telephone": "03 84 86 80 00",
+      "url": "http://www.jura.equipement-agriculture.gouv.fr"
+    }
+  },
+  {
+    "id": "40b50f82045255f0aa956e592cededfcf81d9e4b",
+    "alternateName": "DDT",
+    "name": "direction_departementale_des_territoires_ddt_loire",
+    "title": "Direction départementale des territoires (DDT) - Loire",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/loire/ddt-42218-01",
+    "metadata": {
+      "email": "ddt@loire.gouv.fr",
+      "telephone": "04 77 43 80 00",
+      "url": "http://www.loire.gouv.fr"
+    }
+  },
+  {
+    "id": "5044ca7dd13b545fbd255dade60bf087fcfb1366",
+    "alternateName": "DDT",
+    "name": "direction_departementale_des_territoires_ddt_loiret",
+    "title": "Direction Départementale des Territoires (DDT) - Loiret",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/loiret/ddt-45234-01",
+    "metadata": {
+      "email": "ddt@loiret.gouv.fr",
+      "telephone": "02 38 52 46 46",
+      "url": "http://www.loiret.equipement-agriculture.gouv.fr"
+    }
+  },
+  {
+    "id": "c451cd4b22fb0029b60963ff2f79bb3d9e65694e",
+    "alternateName": "DDT",
+    "name": "direction_departementale_des_territoires_ddt_loir_et_cher",
+    "title": "Direction Départementale des Territoires (DDT) - Loir-et-Cher",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/loir-et-cher/ddt-41018-01",
+    "metadata": {
+      "email": "ddt@loir-et-cher.gouv.fr",
+      "telephone": "02 54 55 73 50",
+      "url": "http://www.loir-et-cher.gouv.fr"
+    }
+  },
+  {
+    "id": "5a0f4dd68079c18352e13da0fda5c4565fb224c9",
+    "alternateName": "DDT",
+    "name": "direction_departementale_des_territoires_ddt_lot",
+    "title": "Direction départementale des territoires (DDT) - Lot",
+    "url": "https://lannuaire.service-public.fr/occitanie/lot/ddt-46042-01",
+    "metadata": {
+      "email": "ddt@lot.gouv.fr",
+      "telephone": "05 65 23 60 60",
+      "url": "http://www.lot.equipement.gouv.fr"
+    }
+  },
+  {
+    "id": "cc747fddf376c58c50b1c5d81c1174865d02253a",
+    "alternateName": "DDT",
+    "name": "direction_departementale_des_territoires_ddt_lot_et_garonne",
+    "title": "Direction départementale des territoires (DDT) - Lot-et-Garonne",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/lot-et-garonne/ddt-47001-01",
+    "metadata": {
+      "email": "ddt@lot-et-garonne.gouv.fr",
+      "telephone": "05 53 69 33 33",
+      "url": "http://www.lot-et-garonne.gouv.fr"
+    }
+  },
+  {
+    "id": "9530ce6c2b11e179f7f97534e12570e2c649069c",
+    "alternateName": "DDT",
+    "name": "direction_departementale_des_territoires_ddt_lozere",
+    "title": "Direction départementale des territoires (DDT) - Lozère",
+    "url": "https://lannuaire.service-public.fr/occitanie/lozere/ddt-48095-01",
+    "metadata": {
+      "email": "ddt48@lozere.gouv.fr",
+      "telephone": "04 66 49 41 00",
+      "url": "http://www.lozere.gouv.fr"
+    }
+  },
+  {
+    "id": "661bb0f7ae10ed08690e7b00b2223cd76375cbf3",
+    "alternateName": "DDT",
+    "name": "direction_departementale_des_territoires_ddt_maine_et_loire",
+    "title": "Direction départementale des territoires (DDT) - Maine-et-Loire",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/maine-et-loire/ddt-49007-01",
+    "metadata": {
+      "email": "ddt@maine-et-loire.gouv.fr",
+      "telephone": "02 41 86 65 00",
+      "url": "http://www.maine-et-loire.equipement-agriculture.gouv.fr"
+    }
+  },
+  {
+    "id": "2c25a46239f62997fd6e8d25d87e75c783a36051",
+    "alternateName": "DDT",
+    "name": "direction_departementale_des_territoires_ddt_marne",
+    "title": "Direction départementale des territoires (DDT) - Marne",
+    "url": "https://lannuaire.service-public.fr/grand-est/marne/ddt-51108-01",
+    "metadata": {
+      "email": "ddt@marne.gouv.fr",
+      "telephone": "03 26 70 80 00",
+      "url": "http://www.marne.equipement.gouv.fr"
+    }
+  },
+  {
+    "id": "262f898c3efcb350638f01bc0d64ce368ea803bc",
+    "alternateName": "DDT",
+    "name": "direction_departementale_des_territoires_ddt_mayenne",
+    "title": "Direction départementale des territoires (DDT) - Mayenne",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/mayenne/ddt-53130-01",
+    "metadata": {
+      "email": "ddt@mayenne.gouv.fr",
+      "telephone": "02 43 67 87 00",
+      "url": "http://www.mayenne.gouv.fr"
+    }
+  },
+  {
+    "id": "afefad8b47aeebcdc7668ffe262ee2b9f3505a86",
+    "alternateName": "DDT",
+    "name": "direction_departementale_des_territoires_ddt_meurthe_et_moselle",
+    "title": "Direction départementale des territoires (DDT) - Meurthe-et-Moselle",
+    "url": "https://lannuaire.service-public.fr/grand-est/meurthe-et-moselle/ddt-54395-01",
+    "metadata": {
+      "email": "ddt@meurthe-et-moselle.gouv.fr",
+      "telephone": "03 83 91 40 00",
+      "url": "http://www.meurthe-et-moselle.gouv.fr"
+    }
+  },
+  {
+    "id": "0257b70f2f0e7df70a1fe94510873c0284dbba3e",
+    "alternateName": "DDT",
+    "name": "direction_departementale_des_territoires_ddt_meuse",
+    "title": "Direction départementale des Territoires (DDT) - Meuse",
+    "url": "https://lannuaire.service-public.fr/grand-est/meuse/ddt-55029-01",
+    "metadata": {
+      "email": "ddt@meuse.gouv.fr",
+      "telephone": "03 29 79 48 65",
+      "url": "http://www.meuse.gouv.fr"
+    }
+  },
+  {
+    "id": "51e17cf34e36ab316f11ed53934b672bfdb3c259",
+    "alternateName": "DDT",
+    "name": "direction_departementale_des_territoires_ddt_moselle",
+    "title": "Direction départementale des territoires (DDT) - Moselle",
+    "url": "https://lannuaire.service-public.fr/grand-est/moselle/ddt-57463-01",
+    "metadata": {
+      "email": "ddt@moselle.gouv.fr",
+      "telephone": "03 87 34 34 34",
+      "url": "http://www.moselle.gouv.fr"
+    }
+  },
+  {
+    "id": "75a9bde4f7c42fd95a426ef9250b1c3c94ba8e81",
+    "alternateName": "DDT",
+    "name": "direction_departementale_des_territoires_ddt_nievre",
+    "title": "Direction départementale des territoires (DDT) - Nièvre",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/nievre/ddt-58194-01",
+    "metadata": {
+      "email": "ddt@nievre.gouv.fr",
+      "telephone": "03 86 71 71 71",
+      "url": "http://www.nievre.equipement.gouv.fr"
+    }
+  },
+  {
+    "id": "82b88b91cb6f008a39c14bfb9b482e137a190cc5",
+    "alternateName": "DDT",
+    "name": "direction_departementale_des_territoires_ddt_oise",
+    "title": "Direction départementale des territoires (DDT) - Oise",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/oise/ddt-60057-01",
+    "metadata": {
+      "email": "ddt@oise.gouv.fr",
+      "telephone": "03 44 06 50 00",
+      "url": "http://www.oise.gouv.fr"
+    }
+  },
+  {
+    "id": "74fe5a00bffbbd1fe99c64deca10cea9c8918f0f",
+    "alternateName": "DDT",
+    "name": "direction_departementale_des_territoires_ddt_orne",
+    "title": "Direction départementale des territoires (DDT) - Orne",
+    "url": "https://lannuaire.service-public.fr/normandie/orne/ddt-61001-01",
+    "metadata": {
+      "email": "ddt@orne.gouv.fr",
+      "telephone": "02 33 32 50 50",
+      "url": "http://www.orne.gouv.fr"
+    }
+  },
+  {
+    "id": "bf80441ca4e515bd99a2eea61b8888cdc1e1689a",
+    "alternateName": "DDT",
+    "name": "direction_departementale_des_territoires_ddt_puy_de_dome",
+    "title": "Direction départementale des territoires (DDT) - Puy-de-Dôme",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/puy-de-dome/ddt-63113-01",
+    "metadata": {
+      "email": "ddt@puy-de-dome.gouv.fr",
+      "telephone": "04 73 43 16 00",
+      "url": "http://www.puy-de-dome.equipement-agriculture.gouv.fr"
+    }
+  },
+  {
+    "id": "3008dc1dd5e35c74693da5357fe51799427bcbd8",
+    "alternateName": "DDT",
+    "name": "direction_departementale_des_territoires_ddt_rhone",
+    "title": "Direction départementale des territoires (DDT) - Rhône",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/rhone/ddt-69383-01",
+    "metadata": {
+      "email": "ddt@rhone.gouv.fr",
+      "telephone": "04 78 62 50 50",
+      "url": "http://www.rhone.gouv.fr"
+    }
+  },
+  {
+    "id": "6dd0aa10b32e0b81a9edd5098c074a78c660489c",
+    "alternateName": "DDT",
+    "name": "direction_departementale_des_territoires_ddt_saone_et_loire",
+    "title": "Direction départementale des territoires (DDT) - Saône-et-Loire",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/saone-et-loire/ddt-71270-01",
+    "metadata": {
+      "email": "ddt@saone-et-loire.gouv.fr",
+      "telephone": "03 85 21 28 00",
+      "url": "http://www.saone-et-loire.gouv.fr"
+    }
+  },
+  {
+    "id": "0379dd4c9e78f4c0d94625e030785cbe960f243f",
+    "alternateName": "DDT",
+    "name": "direction_departementale_des_territoires_ddt_sarthe",
+    "title": "Direction Départementale des Territoires (DDT) - Sarthe",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/sarthe/ddt-72181-01",
+    "metadata": {
+      "email": "ddt@sarthe.gouv.fr",
+      "telephone": "02 72 16 41 00",
+      "url": "http://www.sarthe.gouv.fr"
+    }
+  },
+  {
+    "id": "640a723adbfbdfbfbd298320770036767c2f238d",
+    "alternateName": "DDT",
+    "name": "direction_departementale_des_territoires_ddt_savoie",
+    "title": "Direction départementale des territoires (DDT) - Savoie",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/savoie/ddt-73065-01",
+    "metadata": {
+      "email": "ddt@savoie.gouv.fr",
+      "telephone": "04 79 71 73 73",
+      "url": "http://www.savoie.gouv.fr"
+    }
+  },
+  {
+    "id": "88e5414d7e35da888b7fe2a49f2b718df39779f5",
+    "alternateName": "DDT",
+    "name": "direction_departementale_des_territoires_ddt_de_seine_et_marne",
+    "title": "Direction départementale des territoires (DDT) de Seine-et-Marne",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/seine-et-marne/ddt-77288-01",
+    "metadata": {
+      "email": "ddt-directeur@seine-et-marne.gouv.fr",
+      "telephone": "01 60 56 71 71",
+      "url": "http://www.seine-et-marne.equipement-agriculture.gouv.fr"
+    }
+  },
+  {
+    "id": "683c7cf56bcbc02483dcd56bb7172b970aedceef",
+    "alternateName": "DDT",
+    "name": "direction_departementale_des_territoires_ddt_tarn",
+    "title": "Direction départementale des territoires (DDT) - Tarn",
+    "url": "https://lannuaire.service-public.fr/occitanie/tarn/ddt-81004-01",
+    "metadata": {
+      "email": "ddt-direction@tarn.gouv.fr",
+      "telephone": "05 81 27 50 01",
+      "url": "http://www.tarn.gouv.fr"
+    }
+  },
+  {
+    "id": "20a45540d6bc2a9ee03602a81f32d228986013ed",
+    "alternateName": "DDT",
+    "name": "direction_departementale_des_territoires_ddt_tarn_et_garonne",
+    "title": "Direction départementale des territoires (DDT) - Tarn-et-Garonne",
+    "url": "https://lannuaire.service-public.fr/occitanie/tarn-et-garonne/ddt-82121-01",
+    "metadata": {
+      "email": "ddt@tarn-et-garonne.gouv.fr",
+      "telephone": "05 63 22 23 24",
+      "url": "http://www.tarn-et-garonne.pref.gouv.fr"
+    }
+  },
+  {
+    "id": "93aba807ab944d44072a04234115d04644022371",
+    "alternateName": "DDT",
+    "name": "direction_departementale_des_territoires_ddt_territoire_de_belfort",
+    "title": "Direction départementale des territoires (DDT) - Territoire de Belfort",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/territoire-de-belfort/ddt-90010-01",
+    "metadata": {
+      "email": "ddt@territoire-de-belfort.gouv.fr",
+      "telephone": "03 84 58 86 00",
+      "url": "http://www.territoire-de-belfort.gouv.fr"
+    }
+  },
+  {
+    "id": "6de98aacb12970ac4140a6f7d8964c24a1bc6dae",
+    "alternateName": "DDT",
+    "name": "direction_departementale_des_territoires_ddt_val_d_oise",
+    "title": "Direction départementale des territoires (DDT) - Val-d'Oise",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/val-d-oise/ddt-95127-01",
+    "metadata": {
+      "email": "ddt@val-doise.gouv.fr",
+      "telephone": "01 34 25 25 00",
+      "url": "http://www.val-doise.gouv.fr"
+    }
+  },
+  {
+    "id": "9b17d574c8e737d40282b1e202ccec84a62eb577",
+    "alternateName": "DDT",
+    "name": "direction_departementale_des_territoires_ddt_vienne",
+    "title": "Direction départementale des territoires (DDT) - Vienne",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/vienne/ddt-86194-01",
+    "metadata": {
+      "email": "ddt@vienne.gouv.fr",
+      "telephone": "05 49 03 13 00",
+      "url": "http://www.vienne.gouv.fr"
+    }
+  },
+  {
+    "id": "387a12c04801d0132a296cc441894d6e2b3d7617",
+    "alternateName": "DDT",
+    "name": "direction_departementale_des_territoires_ddt_vosges",
+    "title": "Direction départementale des territoires (DDT) - Vosges",
+    "url": "https://lannuaire.service-public.fr/grand-est/vosges/ddt-88160-01",
+    "metadata": {
+      "email": "ddt@vosges.gouv.fr",
+      "telephone": "03 29 69 12 12",
+      "url": "http://www.vosges.equipement.gouv.fr"
+    }
+  },
+  {
+    "id": "39f3d0a82f59b0746a309c1d3e1d6e1cb32e9357",
+    "alternateName": "DDT",
+    "name": "direction_departementale_des_territoires_ddt_yonne",
+    "title": "Direction départementale des Territoires (DDT) - Yonne",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/yonne/ddt-89024-01",
+    "metadata": {
+      "email": "ddt@yonne.gouv.fr",
+      "telephone": "03 86 48 41 00",
+      "url": "http://www.yonne.gouv.fr"
+    }
+  },
+  {
+    "id": "2c694fee3fcecf50192273133c1c8d43937b51e4",
+    "alternateName": "DDT",
+    "name": "direction_departementale_des_territoires_ddt_yvelines",
+    "title": "Direction départementale des territoires (DDT) - Yvelines",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/yvelines/ddt-78646-01",
+    "metadata": {
+      "email": "ddt@yvelines.gouv.fr",
+      "telephone": "01 30 84 30 00",
+      "url": "http://www.yvelines.pref.gouv.fr"
+    }
+  },
+  {
+    "id": "a038aba60a8bfab079c4c68358a39a9ebe58d798",
+    "alternateName": "DDTM",
+    "name": "direction_departementale_des_territoires_et_de_la_mer_ddtm_alpes_maritimes",
+    "title": "Direction départementale des territoires et de la mer (DDTM) - Alpes-Maritimes",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/alpes-maritimes/ddt-06088-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 93 72 72 72",
+      "url": "http://www.alpes-maritimes.equipement.gouv.fr"
+    }
+  },
+  {
+    "id": "46141cebc38b8e7c62f7b3edbb0d15b4ef0bbaff",
+    "alternateName": "DDTM",
+    "name": "direction_departementale_des_territoires_et_de_la_mer_ddtm_aude",
+    "title": "Direction départementale des territoires et de la Mer (DDTM) - Aude",
+    "url": "https://lannuaire.service-public.fr/occitanie/aude/ddt-11069-01",
+    "metadata": {
+      "email": "ddtm@aude.gouv.fr",
+      "telephone": "04 68 10 31 00",
+      "url": "http://www.aude.gouv.fr"
+    }
+  },
+  {
+    "id": "935b305a49f951ea94c6c5e5c433026c21aa0c2c",
+    "alternateName": "DDTM",
+    "name": "direction_departementale_des_territoires_et_de_la_mer_ddtm_bouches_du_rhone",
+    "title": "Direction départementale des territoires et de la mer (DDTM) - Bouches-du-Rhône",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/ddt-13055-01",
+    "metadata": {
+      "email": "ddtm@bouches-du-rhone.gouv.fr",
+      "telephone": "04 91 28 40 40",
+      "url": "http://www.bouches-du-rhone.pref.gouv.fr"
+    }
+  },
+  {
+    "id": "b3a18f701c7e25103f35d093d53324280c49b1de",
+    "alternateName": "DDTM",
+    "name": "direction_departementale_des_territoires_et_de_la_mer_ddtm_calvados",
+    "title": "Direction départementale des territoires et de la mer (DDTM) - Calvados",
+    "url": "https://lannuaire.service-public.fr/normandie/calvados/ddt-14118-01",
+    "metadata": {
+      "email": "ddtm@calvados.gouv.fr",
+      "telephone": "02 31 43 15 00",
+      "url": "http://www.calvados.equipement-agriculture.gouv.fr"
+    }
+  },
+  {
+    "id": "6c9169565c50b236b3732df4fbff3c632dcc93e0",
+    "alternateName": "DDTM",
+    "name": "direction_departementale_des_territoires_et_de_la_mer_ddtm_corse_du_sud",
+    "title": "Direction départementale des territoires et de la mer (DDTM) - Corse-du-Sud",
+    "url": "https://lannuaire.service-public.fr/corse/corse-du-sud/ddt-2A004-01",
+    "metadata": {
+      "email": "ddtm@corse-du-sud.gouv.fr",
+      "telephone": "04 95 29 09 09",
+      "url": "http://www.corse.pref.gouv.fr"
+    }
+  },
+  {
+    "id": "30e50e47ff9ec4641dcdcb8029dbc29bc977b348",
+    "alternateName": "DDTM",
+    "name": "direction_departementale_des_territoires_et_de_la_mer_ddtm_cotes_d_armor",
+    "title": "Direction départementale des territoires et de la mer (DDTM) - Côtes-d'Armor",
+    "url": "https://lannuaire.service-public.fr/bretagne/cotes-d-armor/ddt-22278-01",
+    "metadata": {
+      "email": "ddtm@cotes-darmor.gouv.fr",
+      "telephone": "02 96 62 47 00",
+      "url": "http://www.cotes-darmor.gouv.fr"
+    }
+  },
+  {
+    "id": "cf3011e759bbfcf6d3610925980e1772b1b931da",
+    "alternateName": "DDTM",
+    "name": "direction_departementale_des_territoires_et_de_la_mer_ddtm_eure",
+    "title": "Direction départementale des territoires et de la mer (DDTM) - Eure",
+    "url": "https://lannuaire.service-public.fr/normandie/eure/ddt-27229-01",
+    "metadata": {
+      "email": "ddtm@eure.gouv.fr",
+      "telephone": "02 32 29 60 60",
+      "url": "http://www.eure.equipement-agriculture.gouv.fr"
+    }
+  },
+  {
+    "id": "bca76777d1ddd6e99cd6aefd7620a02a7c38ae7c",
+    "alternateName": "DDTM",
+    "name": "direction_departementale_des_territoires_et_de_la_mer_ddtm_finistere",
+    "title": "Direction départementale des territoires et de la mer (DDTM)- Finistère",
+    "url": "https://lannuaire.service-public.fr/bretagne/finistere/ddt-29232-01",
+    "metadata": {
+      "email": "ddtm@finistere.gouv.fr",
+      "telephone": "02 98 76 52 00",
+      "url": "http://www.finistere.gouv.fr"
+    }
+  },
+  {
+    "id": "ad2215566c6b43ec1e997d01fd9eb38335530d10",
+    "alternateName": "DDTM",
+    "name": "direction_departementale_des_territoires_et_de_la_mer_ddtm_gard",
+    "title": "Direction départementale des territoires et de la mer (DDTM) - Gard",
+    "url": "https://lannuaire.service-public.fr/occitanie/gard/ddt-30189-01",
+    "metadata": {
+      "email": "ddtm@gard.gouv.fr",
+      "telephone": "04 66 62 62 00",
+      "url": "http://www.gard.gouv.fr/Services-de-l-Etat/Agriculture-environnement-amenagement-et-logement/Direction-Departementale-des-Territoires-et-de-la-Mer-DDTM"
+    }
+  },
+  {
+    "id": "0ead623ddc6c0ffbe880363b94554705875b38b4",
+    "alternateName": "DDTM",
+    "name": "direction_departementale_des_territoires_et_de_la_mer_ddtm_gironde",
+    "title": "Direction départementale des territoires et de la mer - (DDTM) Gironde",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/gironde/ddt-33063-01",
+    "metadata": {
+      "email": "ddtm@gironde.gouv.fr",
+      "telephone": "05 56 93 30 33",
+      "url": "http://www.gironde.pref.gouv.fr"
+    }
+  },
+  {
+    "id": "8c29be9abe2e61ae5a97d8ecc78c1150eb405eba",
+    "alternateName": "DDTM",
+    "name": "direction_departementale_des_territoires_et_de_la_mer_ddtm_haute_corse",
+    "title": "Direction départementale des Territoires et de la Mer (DDTM) - Haute-Corse",
+    "url": "https://lannuaire.service-public.fr/corse/haute-corse/ddt-2B033-01",
+    "metadata": {
+      "email": "ddtm@haute-corse.gouv.fr",
+      "telephone": "04 95 32 97 97",
+      "url": "http://www.haute-corse.gouv.fr"
+    }
+  },
+  {
+    "id": "7fd76b2e5fe857866809f3d1e3a0370768829a37",
+    "alternateName": "DDTM",
+    "name": "direction_departementale_des_territoires_et_de_la_mer_ddtm_herault",
+    "title": "Direction départementale des territoires et de la mer (DDTM) - Hérault",
+    "url": "https://lannuaire.service-public.fr/occitanie/herault/ddt-34172-01",
+    "metadata": {
+      "email": "ddtm-contact@herault.gouv.fr",
+      "telephone": "04 34 46 60 00",
+      "url": "http://www.herault.equipement.gouv.fr"
+    }
+  },
+  {
+    "id": "f965fafeb10c627e8a567004b6c4424e37ebaa16",
+    "alternateName": "DDTM",
+    "name": "direction_departementale_des_territoires_et_de_la_mer_ddtm_ille_et_vilaine",
+    "title": "Direction départementale des territoires et de la mer (DDTM) - Ille-et-Vilaine",
+    "url": "https://lannuaire.service-public.fr/bretagne/ille-et-vilaine/ddt-35238-01",
+    "metadata": {
+      "email": "ddtm@ille-et-vilaine.gouv.fr",
+      "telephone": "02 90 02 32 00",
+      "url": "http://www.ille-et-vilaine.gouv.fr"
+    }
+  },
+  {
+    "id": "f3c7ccfad13bdf9fa190d59394c389e629d0bd6c",
+    "alternateName": "DDTM",
+    "name": "direction_departementale_des_territoires_et_de_la_mer_ddtm_landes",
+    "title": "Direction départementale des territoires et de la mer (DDTM) - Landes",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/landes/ddt-40192-01",
+    "metadata": {
+      "email": "ddtm@landes.gouv.fr",
+      "telephone": "05 58 51 30 00",
+      "url": "http://www.landes.equipement-agriculture.gouv.fr"
+    }
+  },
+  {
+    "id": "41fba2c5f9b51436fd76e3842e980505290e6312",
+    "alternateName": "DDTM",
+    "name": "direction_departementale_des_territoires_et_de_la_mer_ddtm_loire_atlantique",
+    "title": "Direction départementale des territoires et de la mer (DDTM) - Loire-Atlantique",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/loire-atlantique/ddt-44109-01",
+    "metadata": {
+      "email": "ddtm@loire-atlantique.gouv.fr",
+      "telephone": "02 40 67 26 26",
+      "url": "http://www.loire-atlantique.gouv.fr"
+    }
+  },
+  {
+    "id": "ef8f3128ef7a6327a6343b5130f66649c3b06c9d",
+    "alternateName": "DDTM",
+    "name": "direction_departementale_des_territoires_et_de_la_mer_ddtm_manche",
+    "title": "Direction Départementale des Territoires et de la Mer (DDTM) - Manche",
+    "url": "https://lannuaire.service-public.fr/normandie/manche/ddt-50502-01",
+    "metadata": {
+      "email": "ddtm@manche.gouv.fr",
+      "telephone": "02 33 06 39 00",
+      "url": "http://www.manche.gouv.fr"
+    }
+  },
+  {
+    "id": "4a455c0690e31f5d6cd727fb4791fdb407006cd9",
+    "alternateName": "DDTM",
+    "name": "direction_departementale_des_territoires_et_de_la_mer_ddtm_morbihan",
+    "title": "Direction départementale des territoires et de la mer (DDTM) - Morbihan",
+    "url": "https://lannuaire.service-public.fr/bretagne/morbihan/ddt-56260-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 97 68 12 00",
+      "url": "http://www.morbihan.gouv.fr"
+    }
+  },
+  {
+    "id": "0a0ebc309b750b43c03cf6f323b5c870e06dbf86",
+    "alternateName": "DDTM",
+    "name": "direction_departementale_des_territoires_et_de_la_mer_ddtm_nord",
+    "title": "Direction départementale des territoires et de la mer (DDTM) - Nord",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/nord/ddt-59350-01",
+    "metadata": {
+      "email": "ddtm@nord.gouv.fr",
+      "telephone": "03 28 03 83 00",
+      "url": "http://www.nord.gouv.fr/Services-de-l-Etat/Mer-littoral-et-securite-maritime/Direction-departementale-des-territoires-et-de-la-mer-DDTM"
+    }
+  },
+  {
+    "id": "23c863b7b19e3fa17ea9907851809fa41bd56b49",
+    "alternateName": "DDTM",
+    "name": "direction_departementale_des_territoires_et_de_la_mer_ddtm_pas_de_calais",
+    "title": "Direction départementale des territoires et de la mer (DDTM) - Pas-de-Calais",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/pas-de-calais/ddt-62041-01",
+    "metadata": {
+      "email": "ddtm@pas-de-calais.gouv.fr",
+      "telephone": "03 21 22 99 99",
+      "url": "http://www.pas-de-calais.gouv.fr/Services-de-l-Etat/Les-Services-de-l-Etat/DDTM"
+    }
+  },
+  {
+    "id": "3721564fe90e856d1a2349cd7e323083455be98a",
+    "alternateName": "DDTM",
+    "name": "direction_departementale_des_territoires_et_de_la_mer_ddtm_pyrenees_atlantiques",
+    "title": "Direction Départementale des Territoires et de la Mer (DDTM) - Pyrénées-Atlantiques",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/pyrenees-atlantiques/ddt-64445-01",
+    "metadata": {
+      "email": "ddtm@pyrenees-atlantiques.gouv.fr",
+      "telephone": "05 59 80 86 00",
+      "url": "http://www.pyrenees-atlantiques.gouv.fr"
+    }
+  },
+  {
+    "id": "0504eb457ca02fe6e85bd3ea61168bcad9304723",
+    "alternateName": "DDTM",
+    "name": "direction_departementale_des_territoires_et_de_la_mer_ddtm_pyrenees_orientales",
+    "title": "Direction départementale des territoires et de la mer (DDTM) - Pyrénées-Orientales",
+    "url": "https://lannuaire.service-public.fr/occitanie/pyrenees-orientales/ddt-66136-01",
+    "metadata": {
+      "email": "ddtm@pyrenees-orientales.gouv.fr",
+      "telephone": "04 68 38 12 34",
+      "url": "http://www.pyrenees-orientales.gouv.fr"
+    }
+  },
+  {
+    "id": "e14aeaec96aa51de7141f87335251c30d6962576",
+    "alternateName": "DDTM",
+    "name": "direction_departementale_des_territoires_et_de_la_mer_ddtm_seine_maritime",
+    "title": "Direction départementale des Territoires et de la Mer (DDTM) - Seine-Maritime",
+    "url": "https://lannuaire.service-public.fr/normandie/seine-maritime/ddt-76540-01",
+    "metadata": {
+      "email": "ddtm@seine-maritime.gouv.fr",
+      "telephone": "02 35 58 53 27",
+      "url": "http://www.seine-maritime.equipement-agriculture.gouv.fr"
+    }
+  },
+  {
+    "id": "5cd4d04eb18a726601187cbf2ed8bb902b76ad40",
+    "alternateName": "DDTM",
+    "name": "direction_departementale_des_territoires_et_de_la_mer_ddtm_somme",
+    "title": "Direction départementale des territoires et de la mer (DDTM) - Somme",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/somme/ddt-80021-01",
+    "metadata": {
+      "email": "DDTM-80@equipement-agriculture.gouv.fr",
+      "telephone": "03 22 97 21 00",
+      "url": "http://www.somme.developpement-durable.gouv.fr"
+    }
+  },
+  {
+    "id": "86a9017ae86d1eb31122f588dc290f61f5f51b65",
+    "alternateName": "DDTM",
+    "name": "direction_departementale_des_territoires_et_de_la_mer_ddtm_var",
+    "title": "Direction départementale des territoires et de la mer (DDTM) - Var",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/var/ddt-83137-01",
+    "metadata": {
+      "email": "ddtm@var.gouv.fr",
+      "telephone": "04 94 46 83 83",
+      "url": "http://www.var.gouv.fr"
+    }
+  },
+  {
+    "id": "d4f2f9f58bde9da63a28676f67ff921d5b550834",
+    "alternateName": "DDTM",
+    "name": "direction_departementale_des_territoires_et_de_la_mer_ddtm_vendee",
+    "title": "Direction départementale des territoires et de la mer (DDTM) - Vendée",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/vendee/ddt-85191-01",
+    "metadata": {
+      "email": "ddtm@vendee.gouv.fr",
+      "telephone": "02 51 44 32 32",
+      "url": "http://www.vendee.pref.gouv.fr"
+    }
+  },
+  {
+    "id": "f0d890da0f2c5f562f09f315f99a319b35e29747",
+    "name": "direction_departementale_des_territoires_vaucluse",
+    "title": "Direction départementale des territoires - Vaucluse",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/vaucluse/ddt-84007-01",
+    "metadata": {
+      "email": "ddt@vaucluse.gouv.fr",
+      "telephone": "04 90 80 85 00",
+      "url": "http://www.vaucluse.gouv.fr"
+    }
+  }
+]

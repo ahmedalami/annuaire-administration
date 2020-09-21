@@ -1,0 +1,1806 @@
+[
+  {
+    "id": "7fb00ed31d319d1467e1ab6c255c4fb756a5b5dc",
+    "name": "ordre_des_avocats_barreau_d_agen",
+    "title": "Ordre des avocats - Barreau d'Agen",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/lot-et-garonne/ordre_avocats-47001-01",
+    "metadata": {
+      "email": "barreau-agen@avocat-conseil.fr",
+      "telephone": "05 53 98 03 15",
+      "url": "https://www.barreau-agen.fr"
+    }
+  },
+  {
+    "id": "5dae75120828c2f61fae3376940e01b0d50ca9eb",
+    "name": "ordre_des_avocats_barreau_d_aix_en_provence",
+    "title": "Ordre des avocats - Barreau d'Aix-en-provence",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/ordre_avocats-13001-01",
+    "metadata": {
+      "email": "ordreavocats.aix@avocatline.com",
+      "telephone": "04 42 21 72 30",
+      "url": "http://www.barreau-aixenprovence.avocat.fr"
+    }
+  },
+  {
+    "id": "3325d2ff0a060bd6e572818e040565071fc37c46",
+    "name": "ordre_des_avocats_barreau_d_ajaccio",
+    "title": "Ordre des avocats - Barreau d'Ajaccio",
+    "url": "https://lannuaire.service-public.fr/corse/corse-du-sud/ordre_avocats-2A004-01",
+    "metadata": {
+      "email": "ordreavocatsajaccio@wanadoo.fr",
+      "telephone": "04 95 23 29 03",
+      "url": "http://www.barreau-ajaccio.fr"
+    }
+  },
+  {
+    "id": "5f359bf096003cc2674002311c95389286c9983b",
+    "name": "ordre_des_avocats_barreau_d_albertville",
+    "title": "Ordre des avocats - Barreau d'Albertville",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/savoie/ordre_avocats-73011-01",
+    "metadata": {
+      "email": "ordre.barreau.albertville@avocat-conseil.fr",
+      "telephone": "04 79 32 21 02",
+      "url": "http://www.avocats-albertville.fr/"
+    }
+  },
+  {
+    "id": "49da956c65c3629d7610c6f66ceb7cf6b5c73d75",
+    "name": "ordre_des_avocats_barreau_d_albi",
+    "title": "Ordre des avocats - Barreau d'Albi",
+    "url": "https://lannuaire.service-public.fr/occitanie/tarn/ordre_avocats-81004-01",
+    "metadata": {
+      "email": "ordredesavocats.albi@orange.fr",
+      "telephone": "05 63 54 85 90",
+      "url": "http://www.barreau-avocat-albi.com"
+    }
+  },
+  {
+    "id": "2a9d42234e91b6e3846904d4c83c222ffd70bb16",
+    "name": "ordre_des_avocats_barreau_d_alencon",
+    "title": "Ordre des avocats - Barreau d'Alençon",
+    "url": "https://lannuaire.service-public.fr/normandie/orne/ordre_avocats-61001-01",
+    "metadata": {
+      "email": "ordreavocats61@orange.fr",
+      "telephone": "02 33 26 13 65",
+      "url": "https://www.barreau-alencon.fr"
+    }
+  },
+  {
+    "id": "8990ae04965cea924abf7895068e90f5b3abb351",
+    "name": "ordre_des_avocats_barreau_d_ales",
+    "title": "Ordre des avocats - Barreau d'Alès",
+    "url": "https://lannuaire.service-public.fr/occitanie/gard/ordre_avocats-30007-01",
+    "metadata": {
+      "email": "contact@barreau-ales.fr",
+      "telephone": "04 66 52 64 70",
+      "url": "https://www.barreau-ales.fr"
+    }
+  },
+  {
+    "id": "7651329d23ff08a4afbdb8e5c42cff611aa4991a",
+    "name": "ordre_des_avocats_barreau_des_alpes_de_haute_provence",
+    "title": "Ordre des avocats - Barreau des Alpes de haute-provence",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/alpes-de-haute-provence/ordre_avocats-04070-01",
+    "metadata": {
+      "email": "ordre@avocats04.fr",
+      "telephone": "04 92 31 20 21",
+      "url": "http://www.avocats04.fr"
+    }
+  },
+  {
+    "id": "e8e69cb5927906ec0eceff26ef120f1d53ae858c",
+    "name": "ordre_des_avocats_barreau_d_amiens",
+    "title": "Ordre des avocats - Barreau d'Amiens",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/somme/ordre_avocats-80021-01",
+    "metadata": {
+      "email": "contact@avocatsamiens.fr",
+      "telephone": "03 22 92 31 52",
+      "url": "http://www.barreau-amiens.avocat.fr"
+    }
+  },
+  {
+    "id": "7861affe289717e8ba4c5fdd91656b395b6ebeee",
+    "name": "ordre_des_avocats_barreau_d_angers",
+    "title": "Ordre des avocats - Barreau d'Angers",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/maine-et-loire/ordre_avocats-49007-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 41 25 30 70",
+      "url": "http://barreau-angers.org"
+    }
+  },
+  {
+    "id": "d02faf64d936691a5f68f8ba7cc88d626d280780",
+    "name": "ordre_des_avocats_barreau_d_annecy",
+    "title": "Ordre des avocats - Barreau d'Annecy",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/haute-savoie/ordre_avocats-74010-01",
+    "metadata": {
+      "email": "avocats.annecy@orange.fr",
+      "telephone": "04 50 45 60 80",
+      "url": "https://www.barreau-annecy.com"
+    }
+  },
+  {
+    "id": "94eee28577cccf7e5b028a58d10bcfdf26879328",
+    "name": "ordre_des_avocats_barreau_des_ardennes",
+    "title": "Ordre des avocats - Barreau des Ardennes",
+    "url": "https://lannuaire.service-public.fr/grand-est/ardennes/ordre_avocats-08105-01",
+    "metadata": {
+      "email": "avocats.des.ardennes@orange.fr",
+      "telephone": "03 24 57 57 57",
+      "url": "http://www.barreaudesardennes.com"
+    }
+  },
+  {
+    "id": "33014aa10ab3a6e87bcd4b85634724649a4b701c",
+    "name": "ordre_des_avocats_barreau_d_argentan",
+    "title": "Ordre des avocats - Barreau d'Argentan",
+    "url": "https://lannuaire.service-public.fr/normandie/orne/ordre_avocats-61006-01",
+    "metadata": {
+      "email": "barreau.argentan@wanadoo.fr",
+      "telephone": "02 33 36 29 71",
+      "url": "http://www.barreau-argentan.fr"
+    }
+  },
+  {
+    "id": "3e3f3bcfccac5e10d0d18a1173a4d32490661c92",
+    "name": "ordre_des_avocats_barreau_d_arras",
+    "title": "Ordre des avocats - Barreau d'Arras",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/pas-de-calais/ordre_avocats-62041-01",
+    "metadata": {
+      "email": "ordre@avocatsarras.com",
+      "telephone": "03 21 23 71 88",
+      "url": "http://www.avocatsarras.com"
+    }
+  },
+  {
+    "id": "5084885e84fd743d6cff409e1411bbf1064f456d",
+    "name": "ordre_des_avocats_barreau_d_aurillac",
+    "title": "Ordre des avocats - Barreau d'Aurillac",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/cantal/ordre_avocats-15014-01",
+    "metadata": {
+      "email": "ordre-avocats15@orange.fr",
+      "telephone": "04 71 64 36 95",
+      "url": "http://www.avocat-cantal.fr"
+    }
+  },
+  {
+    "id": "edd79e14ed48c6261605ba8dc7f2dd6e7be31dd6",
+    "name": "ordre_des_avocats_barreau_d_auxerre",
+    "title": "Ordre des avocats - Barreau d'Auxerre",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/yonne/ordre_avocats-89024-02",
+    "metadata": {
+      "email": "ordre-des-avocats89@orange.fr",
+      "telephone": "03 86 52 06 07",
+      "url": "http://www.avocats-auxerre.fr"
+    }
+  },
+  {
+    "id": "ecd43cad0ca66ef413f3f7c3db6d54e58b5ded81",
+    "name": "ordre_des_avocats_barreau_d_avesnes_sur_helpe",
+    "title": "Ordre des avocats - Barreau d'Avesnes-sur-Helpe",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/nord/ordre_avocats-59036-01",
+    "metadata": {
+      "email": "barreau.avesnes@orange.fr",
+      "telephone": "03 27 61 21 90",
+      "url": ""
+    }
+  },
+  {
+    "id": "118212edb12162d186c6cd8d2921f85d9e5dfb03",
+    "name": "ordre_des_avocats_barreau_d_avignon",
+    "title": "Ordre des avocats - Barreau d'Avignon",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/vaucluse/ordre_avocats-84007-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 90 86 22 39",
+      "url": "https://barreau-avignon.avocat.fr"
+    }
+  },
+  {
+    "id": "a677756170347bb18b1a6be3f2f774b386a88eae",
+    "name": "ordre_des_avocats_barreau_de_bastia",
+    "title": "Ordre des avocats - Barreau de Bastia",
+    "url": "https://lannuaire.service-public.fr/corse/haute-corse/ordre_avocats-2B033-01",
+    "metadata": {
+      "email": "ordredesavocats@wanadoo.fr",
+      "telephone": "04 95 31 15 76",
+      "url": "http://www.avocats-bastia.fr"
+    }
+  },
+  {
+    "id": "06a0102e5d57d080f94435137e66a092a7e9b89e",
+    "name": "ordre_des_avocats_barreau_de_bayonne",
+    "title": "Ordre des avocats - Barreau de Bayonne",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/pyrenees-atlantiques/ordre_avocats-64102-01",
+    "metadata": {
+      "email": "contact@avocats-bayonne.org",
+      "telephone": "05 59 59 27 72",
+      "url": "https://www.avocats-bayonne.org"
+    }
+  },
+  {
+    "id": "6d909f8500943f375c73126f4febd61d89d4cd3d",
+    "name": "ordre_des_avocats_barreau_de_beauvais",
+    "title": "Ordre des avocats - Barreau de Beauvais",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/oise/ordre_avocats-60057-01",
+    "metadata": {
+      "email": "barreaubeauvais@orange.fr",
+      "telephone": "03 44 45 61 21",
+      "url": "http://www.avocats-beauvais.org/"
+    }
+  },
+  {
+    "id": "98b384dcc1bcab9d8f7ecff4284f924bc38d0002",
+    "name": "ordre_des_avocats_barreau_de_belfort",
+    "title": "Ordre des avocats - Barreau de Belfort",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/territoire-de-belfort/ordre_avocats-90010-02",
+    "metadata": {
+      "email": "ordre.avocats.belfort@orange.fr",
+      "telephone": "03 84 28 13 17",
+      "url": ""
+    }
+  },
+  {
+    "id": "c60d9434db5555e3b118cf241edf6c7affb3bd2f",
+    "name": "ordre_des_avocats_barreau_de_bergerac_sarlat",
+    "title": "Ordre des avocats - Barreau de Bergerac-Sarlat",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/dordogne/ordre_avocats-24037-01",
+    "metadata": {
+      "email": "avocats.bergerac@orange.fr",
+      "telephone": "05 53 57 66 68",
+      "url": "http://www.avocat-bergerac-sarlat.com"
+    }
+  },
+  {
+    "id": "e18276e479a0055cfb79d5167f3a57d7e00bd286",
+    "name": "ordre_des_avocats_barreau_de_besancon",
+    "title": "Ordre des avocats - Barreau de Besançon",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/doubs/ordre_avocats-25056-02",
+    "metadata": {
+      "email": "ordre.avocats.besancon@gmail.com",
+      "telephone": "03 81 81 44 53",
+      "url": "http://www.barreau-besancon-avocat.com"
+    }
+  },
+  {
+    "id": "6a47ecad5b89cd40c4631b0c75c41a94c2499b4d",
+    "name": "ordre_des_avocats_barreau_de_bethune",
+    "title": "Ordre des avocats - Barreau de Béthune",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/pas-de-calais/ordre_avocats-62119-01",
+    "metadata": {
+      "email": "contact@barreaudebethune.com",
+      "telephone": "03 21 56 25 57",
+      "url": "https://www.barreaudebethune.com"
+    }
+  },
+  {
+    "id": "f11109f107dd58d7755def1e57dd2caa7c0db556",
+    "name": "ordre_des_avocats_barreau_de_beziers",
+    "title": "Ordre des avocats - Barreau de Béziers",
+    "url": "https://lannuaire.service-public.fr/occitanie/herault/ordre_avocats-34032-01",
+    "metadata": {
+      "email": "maison-avocat-beziers@wanadoo.fr",
+      "telephone": "04 67 28 14 84",
+      "url": "https://www.barreau-beziers-avocats.fr"
+    }
+  },
+  {
+    "id": "0d80bde1e7918a3d810022d4af5415c107c1270a",
+    "name": "ordre_des_avocats_barreau_de_blois",
+    "title": "Ordre des avocats - Barreau de Blois",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/loir-et-cher/ordre_avocats-41018-01",
+    "metadata": {
+      "email": "ordreavocatsblois@orange.fr",
+      "telephone": "02 54 74 02 73",
+      "url": "http://www.avocats-blois.com"
+    }
+  },
+  {
+    "id": "85d4b936c89360e38eb4b7f41b2da8f497018f93",
+    "name": "ordre_des_avocats_barreau_de_bonneville_et_pays_du_montblanc",
+    "title": "Ordre des avocats - Barreau de Bonneville et Pays du Montblanc",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/haute-savoie/ordre_avocats-74042-01",
+    "metadata": {
+      "email": "ordre.avocats.boneville@wanadoo.fr",
+      "telephone": "04 50 97 12 97",
+      "url": "http://www.avocats-bonneville.com"
+    }
+  },
+  {
+    "id": "002c0fcc9adf90447820621e5ea47791684d5d0e",
+    "name": "ordre_des_avocats_barreau_de_bordeaux",
+    "title": "Ordre des avocats - Barreau de Bordeaux",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/gironde/ordre_avocats-33063-01",
+    "metadata": {
+      "email": "contact@barreau-bordeaux.com",
+      "telephone": "05 56 44 20 76",
+      "url": "http://barreau-bordeaux.avocat.fr"
+    }
+  },
+  {
+    "id": "d99c84bdbb2d881b8655ccc4ec28222665b8ade5",
+    "name": "ordre_des_avocats_barreau_de_boulogne_sur_mer",
+    "title": "Ordre des avocats - Barreau de Boulogne-sur-Mer",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/pas-de-calais/ordre_avocats-62160-01",
+    "metadata": {
+      "email": "lamaisondelavocat@orange.fr",
+      "telephone": "03 21 83 08 07",
+      "url": "https://avocats-boulogne.fr"
+    }
+  },
+  {
+    "id": "dbf4e4955698c8ad31f8b81057381b0570f47694",
+    "name": "ordre_des_avocats_barreau_de_bourges",
+    "title": "Ordre des avocats - Barreau de Bourges",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/cher/ordre_avocats-18033-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 48 24 13 41",
+      "url": "http://www.barreau-bourges.com"
+    }
+  },
+  {
+    "id": "6ab2a8c6abb172c9b25c58bc5952a557961749c1",
+    "name": "ordre_des_avocats_barreau_de_bourgogne_franche_comte",
+    "title": "Ordre des avocats - Barreau de Bourgogne-Franche-Comté",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/yonne/ordre_avocats-89024-01",
+    "metadata": {
+      "email": "valence.ordre-des-avocats@wanadoo.fr",
+      "telephone": "04 75 61 56 54",
+      "url": "https://www.avocats-valence.org"
+    }
+  },
+  {
+    "id": "f51f06602e8854ddb5eb29ba463f75cc8bf7e5ae",
+    "name": "ordre_des_avocats_barreau_de_bourgoin_jallieu",
+    "title": "Ordre des avocats - Barreau de Bourgoin-Jallieu",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/isere/ordre_avocats-38053-01",
+    "metadata": {
+      "email": "ordre.avocats.bj@orange.fr",
+      "telephone": "04 74 28 20 65",
+      "url": "http://www.ordre-avocats-bourgoin-jallieu.com"
+    }
+  },
+  {
+    "id": "bcf4708188431a6b3f745adff8136a90bd2502e4",
+    "name": "ordre_des_avocats_barreau_de_brest",
+    "title": "Ordre des avocats - Barreau de Brest",
+    "url": "https://lannuaire.service-public.fr/bretagne/finistere/ordre_avocats-29019-01",
+    "metadata": {
+      "email": "ordre.avocats@barreaudebrest.fr",
+      "telephone": "02 98 44 31 84",
+      "url": "http://www.avocatsbrest.org"
+    }
+  },
+  {
+    "id": "f6d5caf26cda2fd6c63e44d09766039caecf7bf3",
+    "name": "ordre_des_avocats_barreau_de_briey",
+    "title": "Ordre des avocats - Barreau de Briey",
+    "url": "https://lannuaire.service-public.fr/grand-est/meurthe-et-moselle/ordre_avocats-54099-01",
+    "metadata": {
+      "email": "barreau.briey@free.fr",
+      "telephone": "03 82 20 21 30",
+      "url": ""
+    }
+  },
+  {
+    "id": "9b016c7e8a364a9e9b4e951e3ae0bbc51a51faaa",
+    "name": "ordre_des_avocats_barreau_de_brive_la_gaillarde",
+    "title": "Ordre des avocats - Barreau de Brive-la-Gaillarde",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/correze/ordre_avocats-19031-01",
+    "metadata": {
+      "email": "barreaudebrive@orange.fr",
+      "telephone": "05 55 23 58 47",
+      "url": ""
+    }
+  },
+  {
+    "id": "34d76c4a7bcb8bfa114586b782ea4f248487df76",
+    "name": "ordre_des_avocats_barreau_de_caen",
+    "title": "Ordre des avocats - Barreau de Caen",
+    "url": "https://lannuaire.service-public.fr/normandie/calvados/ordre_avocats-14118-01",
+    "metadata": {
+      "email": "barreau@caen-avocats.net",
+      "telephone": "02 31 86 37 11",
+      "url": "https://barreau-caen.com"
+    }
+  },
+  {
+    "id": "746ca45641ba1909c41975e2817c61f5a88727f0",
+    "name": "ordre_des_avocats_barreau_de_cambrai",
+    "title": "Ordre des avocats - Barreau de Cambrai",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/nord/ordre_avocats-59122-01",
+    "metadata": {
+      "email": "avocatscambrai@wanadoo.fr",
+      "telephone": "03 27 78 29 76",
+      "url": "https://www.avocats-cambrai.com"
+    }
+  },
+  {
+    "id": "dca4aca4ab9506f991b8a9a7271ccdcabeb400d3",
+    "name": "ordre_des_avocats_barreau_de_carcassonne",
+    "title": "Ordre des avocats - Barreau de Carcassonne",
+    "url": "https://lannuaire.service-public.fr/occitanie/aude/ordre_avocats-11069-01",
+    "metadata": {
+      "email": "ordre.avocats.carcassonne@wanadoo.fr",
+      "telephone": "04 68 25 86 29",
+      "url": "http://www.avocats-carcassonne.fr"
+    }
+  },
+  {
+    "id": "f63158732bc50371d41524fc85c5fdf5bb42647c",
+    "name": "ordre_des_avocats_barreau_de_carpentras",
+    "title": "Ordre des avocats - Barreau de Carpentras",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/vaucluse/ordre_avocats-84031-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 90 67 13 60",
+      "url": "www.barreaudecarpentras.fr"
+    }
+  },
+  {
+    "id": "63b7be6f496dd4f8b95da9834cc4ae1b3e358078",
+    "name": "ordre_des_avocats_barreau_de_castres",
+    "title": "Ordre des avocats - Barreau de Castres",
+    "url": "https://lannuaire.service-public.fr/occitanie/tarn/ordre_avocats-81065-01",
+    "metadata": {
+      "email": "barreaudecastres@orange.fr",
+      "telephone": "05 63 59 53 69",
+      "url": "http://www.avocats-castres.fr"
+    }
+  },
+  {
+    "id": "7038f6a93fb0ee5a86474d6a26da73f94cd346f0",
+    "name": "ordre_des_avocats_barreau_de_chalons_en_champagne",
+    "title": "Ordre des avocats - Barreau de Châlons-en-Champagne",
+    "url": "https://lannuaire.service-public.fr/grand-est/marne/ordre_avocats-51108-01",
+    "metadata": {
+      "email": "contact@barreau-chalons.fr",
+      "telephone": "03 26 68 08 08",
+      "url": "https://www.barreau-chalons.fr"
+    }
+  },
+  {
+    "id": "a274d0f8dec8d9ab9854c1480304c4adb58d9987",
+    "name": "ordre_des_avocats_barreau_de_chalon_sur_saone",
+    "title": "Ordre des avocats - Barreau de Chalon-sur-Saône",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/saone-et-loire/ordre_avocats-71076-02",
+    "metadata": {
+      "email": "avocats@avocats-chalonsursaone.com",
+      "telephone": "03 85 48 18 68",
+      "url": "http://www.avocats-chalonsursaone.com"
+    }
+  },
+  {
+    "id": "2d317dcecdb36f62530ce2ecd1b4b3c165eb2161",
+    "name": "ordre_des_avocats_barreau_de_chambery",
+    "title": "Ordre des avocats - Barreau de Chambéry",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/savoie/ordre_avocats-73065-01",
+    "metadata": {
+      "email": "ordre@barreau-chambery.fr",
+      "telephone": "04 79 62 74 13",
+      "url": "http://www.barreau-chambery.fr"
+    }
+  },
+  {
+    "id": "4bc7d4a355529e17d6f7c249d3c92c70dd3952fb",
+    "name": "ordre_des_avocats_barreau_de_chartres",
+    "title": "Ordre des avocats - Barreau de Chartres",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/eure-et-loir/ordre_avocats-28085-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 37 36 16 14",
+      "url": "http://www.ordredesavocats-chartres.com"
+    }
+  },
+  {
+    "id": "d48b928bf35e6e53f3f9e106bf21895ea03a0a31",
+    "name": "ordre_des_avocats_barreau_de_chateauroux",
+    "title": "Ordre des avocats - Barreau de Châteauroux",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/indre/ordre_avocats-36044-01",
+    "metadata": {
+      "email": "ordre.avocats.chateauroux@wanadoo.fr",
+      "telephone": "02 54 60 35 48",
+      "url": "http://www.avocats-chateauroux.com"
+    }
+  },
+  {
+    "id": "0d03c60ebb072582bb8c14b4f02b83d9992e8b9a",
+    "name": "ordre_des_avocats_barreau_de_cherbourg",
+    "title": "Ordre des avocats - Barreau de Cherbourg",
+    "url": "https://lannuaire.service-public.fr/normandie/manche/ordre_avocats-50129-01",
+    "metadata": {
+      "email": "cherbourg.avocats@orange.fr",
+      "telephone": "02 33 94 23 15",
+      "url": "http://www.ordre-avocats-cherbourg.fr"
+    }
+  },
+  {
+    "id": "e626dbcbf15e90a31b1e46ea42ed1ddc04de28f8",
+    "name": "ordre_des_avocats_barreau_de_clermont_ferrand",
+    "title": "Ordre des avocats - Barreau de Clermont-Ferrand",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/puy-de-dome/ordre_avocats-63113-01",
+    "metadata": {
+      "email": "ordre@barreau-clermont.fr",
+      "telephone": "04 73 37 39 04",
+      "url": "https://www.barreau-clermont.avocat.fr"
+    }
+  },
+  {
+    "id": "98e0613ee2cb7a187c2dd4e9cc5fbde1da0ebf09",
+    "name": "ordre_des_avocats_barreau_de_colmar",
+    "title": "Ordre des avocats - Barreau de Colmar",
+    "url": "https://lannuaire.service-public.fr/grand-est/haut-rhin/ordre_avocats-68066-01",
+    "metadata": {
+      "email": "contact@ordre-avocats-colmar.fr",
+      "telephone": "03 89 23 42 42",
+      "url": "http://www.barreau-colmar.fr"
+    }
+  },
+  {
+    "id": "15a934cc0baf1f96afc7e09fba2843b2d7987de0",
+    "name": "ordre_des_avocats_barreau_de_compiegne",
+    "title": "Ordre des avocats - Barreau de Compiègne",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/oise/ordre_avocats-60159-01",
+    "metadata": {
+      "email": "ordre@avocats-compiègne.fr",
+      "telephone": "03 44 40 25 93",
+      "url": "http://www.avocats-compiegne.fr"
+    }
+  },
+  {
+    "id": "a5ba0e4d69ce7f0aaaf6495fa0bc60c3c05a0a24",
+    "name": "ordre_des_avocats_barreau_de_coutances_avranches",
+    "title": "Ordre des avocats - Barreau de Coutances-Avranches",
+    "url": "https://lannuaire.service-public.fr/normandie/manche/ordre_avocats-50147-01",
+    "metadata": {
+      "email": "ordredesavocats@barreau-coutances-avranches.fr",
+      "telephone": "02 33 07 54 77",
+      "url": "http://www.barreau-coutances-avranches.fr"
+    }
+  },
+  {
+    "id": "b56d2a58f55ecf42b16cd505b6941b6ef10d2249",
+    "name": "ordre_des_avocats_barreau_de_cusset_vichy",
+    "title": "Ordre des avocats - Barreau de Cusset-Vichy",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/allier/ordre_avocats-03095-01",
+    "metadata": {
+      "email": "avocats.vichycusset@orange.fr",
+      "telephone": "04 70 98 39 18",
+      "url": "https://ordreavocats-cussetvichy.fr"
+    }
+  },
+  {
+    "id": "d18455eeec7996b4155d69595e08cc366d6eb132",
+    "name": "ordre_des_avocats_barreau_de_dax",
+    "title": "Ordre des avocats - Barreau de Dax",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/landes/ordre_avocats-40088-01",
+    "metadata": {
+      "email": "contact@ordredesavocatsdedax.fr",
+      "telephone": "05 58 90 19 30",
+      "url": "http://www.barreau-dax.org"
+    }
+  },
+  {
+    "id": "2f3b480fa8e989a6df23ffbf63365e095733a812",
+    "name": "ordre_des_avocats_barreau_des_deux_sevres",
+    "title": "Ordre des avocats - Barreau des Deux-Sèvres",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/deux-sevres/ordre_avocats-79191-01",
+    "metadata": {
+      "email": "contact@avocats-deux-sevres.fr",
+      "telephone": "05 49 09 18 40",
+      "url": "http://www.avocats-deux-sevres.fr"
+    }
+  },
+  {
+    "id": "3b6fcbad3bedbeaaae60b6a8ef25df2317c766d8",
+    "name": "ordre_des_avocats_barreau_de_dieppe",
+    "title": "Ordre des avocats - Barreau de Dieppe",
+    "url": "https://lannuaire.service-public.fr/normandie/seine-maritime/ordre_avocats-76217-01",
+    "metadata": {
+      "email": "avocats-dieppe@orange.fr",
+      "telephone": "02 35 04 95 26",
+      "url": "https://www.avocats-dieppe.fr"
+    }
+  },
+  {
+    "id": "44cde45e4be3aaccb015faf4adf14602b16e61ca",
+    "name": "ordre_des_avocats_barreau_de_dijon",
+    "title": "Ordre des avocats - Barreau de Dijon",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/cote-d-or/ordre_avocats-21231-02",
+    "metadata": {
+      "email": "ordre.avocats.dijon@wanadoo.fr",
+      "telephone": "03 80 70 40 70",
+      "url": "http://www.barreau-dijon.avocat.fr"
+    }
+  },
+  {
+    "id": "3cce0b9eec2698b89869e25b280201b2715c46be",
+    "name": "ordre_des_avocats_barreau_de_douai",
+    "title": "Ordre des avocats - Barreau de Douai",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/nord/ordre_avocats-59178-01",
+    "metadata": {
+      "email": "avocats.douai@orange.fr",
+      "telephone": "03 27 71 59 90",
+      "url": "http://www.avocats-douai.fr"
+    }
+  },
+  {
+    "id": "596b8e198b52766a62e7e2f463fef7f73ca32616",
+    "name": "ordre_des_avocats_barreau_de_draguignan",
+    "title": "Ordre des avocats - Barreau de Draguignan",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/var/ordre_avocats-83050-01",
+    "metadata": {
+      "email": "http://www.avocazur.com/fr/contact",
+      "telephone": "04 94 60 44 33",
+      "url": "http://www.avocazur.com/fr"
+    }
+  },
+  {
+    "id": "c0396fb6d21fdd44acb36c6b0f42b421ff98ce45",
+    "name": "ordre_des_avocats_barreau_de_dunkerque",
+    "title": "Ordre des avocats - Barreau de Dunkerque",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/nord/ordre_avocats-59183-01",
+    "metadata": {
+      "email": "ordre.avocats.dk@club-internet.fr",
+      "telephone": "03 28 59 22 24",
+      "url": ""
+    }
+  },
+  {
+    "id": "321b91ae15748f2f6ae703ba4a04aa8b02a2e9d3",
+    "name": "ordre_des_avocats_barreau_d_epinal",
+    "title": "Ordre des avocats - Barreau d'Epinal",
+    "url": "https://lannuaire.service-public.fr/grand-est/vosges/ordre_avocats-88160-01",
+    "metadata": {
+      "email": "carpa.88@wanadoo.fr",
+      "telephone": "03 29 31 48 29",
+      "url": "https://www.barreau-epinal.avocat.fr"
+    }
+  },
+  {
+    "id": "068f1abca9d599965cc522b1d3531e8d8a39ac1c",
+    "name": "ordre_des_avocats_barreau_de_fontainebleau",
+    "title": "Ordre des avocats - Barreau de Fontainebleau",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/seine-et-marne/ordre_avocats-77186-01",
+    "metadata": {
+      "email": "info@avocats-fontainebleau.fr",
+      "telephone": "01 64 22 15 63",
+      "url": "https://www.avocats-fontainebleau.fr"
+    }
+  },
+  {
+    "id": "ccde6e3b060fc4d2b8d34388a8f9267bb4b652be",
+    "name": "ordre_des_avocats_barreau_de_fort_de_france",
+    "title": "Ordre des avocats - Barreau de Fort-de-France",
+    "url": "https://lannuaire.service-public.fr/martinique/martinique/ordre_avocats-97209-01",
+    "metadata": {
+      "email": "ordre@avocatsdemartinique.com",
+      "telephone": "+596 5 96 48 41 23",
+      "url": "http://www.avocatsdemartinique.com"
+    }
+  },
+  {
+    "id": "05e8fd59eec337fcfcb88ceede3d6df9fed398cc",
+    "name": "ordre_des_avocats_barreau_du_gers",
+    "title": "Ordre des avocats - Barreau du Gers",
+    "url": "https://lannuaire.service-public.fr/occitanie/gers/ordre_avocats-32013-01",
+    "metadata": {
+      "email": "barreau.gers@orange.fr",
+      "telephone": "05 62 63 52 27",
+      "url": "http://www.avocats-gers.fr"
+    }
+  },
+  {
+    "id": "0f1953990a36974bc8ec205429ece4cc0a43b300",
+    "name": "ordre_des_avocats_barreau_de_grasse",
+    "title": "Ordre des avocats - Barreau de Grasse",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/alpes-maritimes/ordre_avocats-06069-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 92 60 77 50",
+      "url": "https://www.avocats-grasse.com/fr"
+    }
+  },
+  {
+    "id": "642842c30de7e2059c28b4fead71a433e85c654b",
+    "name": "ordre_des_avocats_barreau_de_grenoble",
+    "title": "Ordre des avocats - Barreau de Grenoble",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/isere/ordre_avocats-38185-01",
+    "metadata": {
+      "email": "ordre@avocats-grenoble.com",
+      "telephone": "04 76 15 10 36",
+      "url": "https://www.avocats-grasse.com/fr"
+    }
+  },
+  {
+    "id": "e6ce38a8d2f706596bcc45dffc7646d4a2db182b",
+    "name": "ordre_des_avocats_barreau_de_guyane",
+    "title": "Ordre des avocats - Barreau de Guyane",
+    "url": "https://lannuaire.service-public.fr/guyane/guyane/ordre_avocats-97302-01",
+    "metadata": {
+      "email": "barreauguyane@orange.fr",
+      "telephone": "+594 5 94 30 05 85",
+      "url": "https://avocats-barreau-guyane.com"
+    }
+  },
+  {
+    "id": "0c6e9def829899b815b8b61e2a20c0d5be6c475e",
+    "name": "ordre_des_avocats_barreau_des_hautes_alpes",
+    "title": "Ordre des avocats - Barreau des hautes-Alpes",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/hautes-alpes/ordre_avocats-05061-01",
+    "metadata": {
+      "email": "avocats.hautes.alpes@wanadoo.fr",
+      "telephone": "04 92 52 09 82",
+      "url": "http://www.avocats-hautes-alpes.fr"
+    }
+  },
+  {
+    "id": "b97cd16f7ca1f047d86dc4fe547926ab8f28bef2",
+    "name": "ordre_des_avocats_barreau_des_hauts_de_seine",
+    "title": "Ordre des avocats - Barreau des Hauts-de-Seine",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/hauts-de-seine/ordre_avocats-92050-01",
+    "metadata": {
+      "email": "bra.nanterre@barreau92.com",
+      "telephone": "01 55 69 17 00",
+      "url": "https://www.matoque92.com"
+    }
+  },
+  {
+    "id": "73e5efd885be5f08c1b1cd69a0c44c3ef428d3e1",
+    "name": "ordre_des_avocats_barreau_du_havre",
+    "title": "Ordre des avocats - Barreau du Havre",
+    "url": "https://lannuaire.service-public.fr/normandie/seine-maritime/ordre_avocats-76351-01",
+    "metadata": {
+      "email": "ordreavocatslehavre@orange.fr",
+      "telephone": "02 35 42 65 83",
+      "url": "https://avocatslehavre.fr"
+    }
+  },
+  {
+    "id": "6eae43dddd16619a9ba3814f6c748b5d23fab32e",
+    "name": "ordre_des_avocats_barreau_du_jura",
+    "title": "Ordre des avocats - Barreau du Jura",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/jura/ordre_avocats-39300-01",
+    "metadata": {
+      "email": "avocats.lonslesaunier@wanadoo.fr",
+      "telephone": "03 84 47 11 28",
+      "url": "http://www.barreau-jura-avocats.fr/"
+    }
+  },
+  {
+    "id": "f2a115de1ed94b9501f7f55d209f7dd739a29bf5",
+    "name": "ordre_des_avocats_barreau_de_l_ain",
+    "title": "Ordre des avocats - Barreau de l'Ain",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/ain/ordre_avocats-01053-01",
+    "metadata": {
+      "email": "ordre@bourg-avocats.com",
+      "telephone": "04 74 22 47 63",
+      "url": "http://www.bourg-avocats.com/"
+    }
+  },
+  {
+    "id": "b24b63b96dbb9e9f040cb64a2c238b5b410cddd3",
+    "name": "ordre_des_avocats_barreau_de_l_ardeche",
+    "title": "Ordre des avocats - Barreau de l'Ardèche",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/ardeche/ordre_avocats-07186-01",
+    "metadata": {
+      "email": "ordre-avocatsardeche@wanadoo.fr",
+      "telephone": "04 75 64 34 40",
+      "url": "http://www.barreaudelardeche.fr"
+    }
+  },
+  {
+    "id": "0fa539256af914ea1a2c84c9932f7e5007a8ad95",
+    "name": "ordre_des_avocats_barreau_de_l_ariege",
+    "title": "Ordre des avocats - Barreau de l'Ariège",
+    "url": "https://lannuaire.service-public.fr/occitanie/ariege/ordre_avocats-09122-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 61 02 71 40",
+      "url": "http://www.avocats-ariege.fr"
+    }
+  },
+  {
+    "id": "b76dc8bbdb6b5ba4560b5fcfc2231b94cac25860",
+    "name": "ordre_des_avocats_barreau_de_l_aube",
+    "title": "Ordre des avocats - Barreau de l'Aube",
+    "url": "https://lannuaire.service-public.fr/grand-est/aube/ordre_avocats-10387-01",
+    "metadata": {
+      "email": "batonnier@barreau-de-troyes.com",
+      "telephone": "03 25 73 68 38",
+      "url": "http://www.avocats-thionville.fr"
+    }
+  },
+  {
+    "id": "53d8417fa30c41f8b73b79737f458bc691e5325d",
+    "name": "ordre_des_avocats_barreau_de_l_aveyron",
+    "title": "Ordre des avocats - Barreau de l'Aveyron",
+    "url": "https://lannuaire.service-public.fr/occitanie/aveyron/ordre_avocats-12202-01",
+    "metadata": {
+      "email": "contact@avocats-aveyron.com",
+      "telephone": "05 65 68 29 83",
+      "url": "https://www.avocats12.com"
+    }
+  },
+  {
+    "id": "db55d9ac04de4175312e0ecb21275270d214d710",
+    "name": "ordre_des_avocats_barreau_de_l_essonne",
+    "title": "Ordre des avocats - Barreau de l'Essonne",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/essonne/ordre_avocats-91228-01",
+    "metadata": {
+      "email": "",
+      "telephone": "01 60 77 00 28",
+      "url": "https://www.avocats91.com"
+    }
+  },
+  {
+    "id": "41d0a74300bd64647f7c719ae61f814e61d9be90",
+    "name": "ordre_des_avocats_barreau_de_l_eure",
+    "title": "Ordre des avocats - Barreau de l'Eure",
+    "url": "https://lannuaire.service-public.fr/normandie/eure/ordre_avocats-27229-01",
+    "metadata": {
+      "email": "ordre.avocats.evreux@wanadoo.fr",
+      "telephone": "02 32 38 68 94",
+      "url": "http://www.barreau-evreux.avocat.fr"
+    }
+  },
+  {
+    "id": "ff152dd40cb4505aed524c37f003109c8819bafa",
+    "name": "ordre_des_avocats_barreau_de_la_charente",
+    "title": "Ordre des avocats - Barreau de la Charente",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/charente/ordre_avocats-16015-01",
+    "metadata": {
+      "email": "contact@avocats-charente.com",
+      "telephone": "05 45 37 16 80",
+      "url": "http://www.avocats-charente.com"
+    }
+  },
+  {
+    "id": "8d45ef9b50fd4bf7bcd123b8d96514a617ec2c5a",
+    "name": "ordre_des_avocats_barreau_de_la_creuse",
+    "title": "Ordre des avocats - Barreau de la Creuse",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/creuse/ordre_avocats-23096-01",
+    "metadata": {
+      "email": "avocats.creuse@orange.fr",
+      "telephone": "05 55 52 45 09",
+      "url": ""
+    }
+  },
+  {
+    "id": "2a3e9add0ff504375aee7e810dd3bbec3773cb11",
+    "name": "ordre_des_avocats_barreau_de_la_drome",
+    "title": "Ordre des avocats - Barreau de la Drôme",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/drome/ordre_avocats-26362-01",
+    "metadata": {
+      "email": "valence.ordre-des-avocats@wanadoo.fr",
+      "telephone": "04 75 61 56 54",
+      "url": "https://www.avocats-valence.org"
+    }
+  },
+  {
+    "id": "ce1d6213f080b03504cdfbf0098b681346c6f0a6",
+    "name": "ordre_des_avocats_barreau_de_la_guadeloupe",
+    "title": "Ordre des avocats - Barreau de la Guadeloupe",
+    "url": "https://lannuaire.service-public.fr/guadeloupe/guadeloupe/ordre_avocats-97120-01",
+    "metadata": {
+      "email": "",
+      "telephone": "+590 5 90 91 31 27",
+      "url": "http://www.barreau-guadeloupe.avocat.fr"
+    }
+  },
+  {
+    "id": "4c9f6453390d82f70f0921625a50d708eeb0293f",
+    "name": "ordre_des_avocats_barreau_de_la_haute_loire",
+    "title": "Ordre des avocats - Barreau de la Haute-Loire",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/haute-loire/ordre_avocats-43157-01",
+    "metadata": {
+      "email": "ordre-avocats-43@wanadoo.fr",
+      "telephone": "04 71 09 79 98",
+      "url": "https://www.barreaudehauteloire.fr/"
+    }
+  },
+  {
+    "id": "61352815b2883b9666f83fa6dc82fb0c84d334bd",
+    "name": "ordre_des_avocats_barreau_de_la_haute_marne",
+    "title": "Ordre des avocats - Barreau de la Haute-Marne",
+    "url": "https://lannuaire.service-public.fr/grand-est/haute-marne/ordre_avocats-52121-01",
+    "metadata": {
+      "email": "avocatshautemarne@orange.fr",
+      "telephone": "03 25 32 68 61",
+      "url": ""
+    }
+  },
+  {
+    "id": "2dfdb071018aee9fa26d3b4fad874512c066c719",
+    "name": "ordre_des_avocats_barreau_de_la_haute_saone",
+    "title": "Ordre des avocats - Barreau de la Haute-Saône",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/haute-saone/ordre_avocats-70550-01",
+    "metadata": {
+      "email": "ordredesavocatsvesoul@orange.fr",
+      "telephone": "03 84 75 50 62",
+      "url": ""
+    }
+  },
+  {
+    "id": "54534568012f9a60f02518750d475d8f5c85930e",
+    "name": "ordre_des_avocats_barreau_de_la_meuse",
+    "title": "Ordre des avocats - Barreau de la Meuse",
+    "url": "https://lannuaire.service-public.fr/grand-est/meuse/ordre_avocats-55029-01",
+    "metadata": {
+      "email": "barreau.barleduc@orange.fr",
+      "telephone": "03 29 77 03 92",
+      "url": "https://www.ordre-avocats-meuse.fr"
+    }
+  },
+  {
+    "id": "c1436ddf3e7234c7630d6b8e5fc64cb8b4d8d24d",
+    "name": "ordre_des_avocats_barreau_de_laon",
+    "title": "Ordre des avocats - Barreau de Laon",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/aisne/ordre_avocats-02408-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 23 20 27 01",
+      "url": "http://www.avocats-laon.com"
+    }
+  },
+  {
+    "id": "16f8f04220ee50f8434cc874407e1a9e74953cda",
+    "name": "ordre_des_avocats_barreau_de_la_rochelle_rochefort",
+    "title": "Ordre des avocats - Barreau de La Rochelle-Rochefort",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/charente-maritime/ordre_avocats-17300-01",
+    "metadata": {
+      "email": "ordre@avocats-larochelle.com",
+      "telephone": "05 46 41 47 06",
+      "url": "https://www.avocats-larochelle.com"
+    }
+  },
+  {
+    "id": "2a8d4d879cafa222417011fe914533e15b703074",
+    "name": "ordre_des_avocats_barreau_de_la_roche_sur_yon",
+    "title": "Ordre des avocats - Barreau de La Roche-sur-Yon",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/vendee/ordre_avocats-85191-01",
+    "metadata": {
+      "email": "ordre.avocats.lrsy@wanadoo.fr",
+      "telephone": "02 51 36 14 99",
+      "url": "http://www.avocats-larochesuryon.com"
+    }
+  },
+  {
+    "id": "eed6d660803fba1f3970582c01823c08d97fdec8",
+    "name": "ordre_des_avocats_barreau_de_laval",
+    "title": "Ordre des avocats - Barreau de Laval",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/mayenne/ordre_avocats-53130-01",
+    "metadata": {
+      "email": "ordre.avocats.laval@wanadoo.fr",
+      "telephone": "02 43 49 33 05",
+      "url": "https://www.barreau-de-laval.com"
+    }
+  },
+  {
+    "id": "4ef7d73cf90dbd70ef8ff7f3c04c1c73f3982cb7",
+    "name": "ordre_des_avocats_barreau_de_libourne",
+    "title": "Ordre des avocats - Barreau de Libourne",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/gironde/ordre_avocats-33243-01",
+    "metadata": {
+      "email": "avocats.barreaulibourne@wanadoo.fr",
+      "telephone": "05 57 51 59 70",
+      "url": ""
+    }
+  },
+  {
+    "id": "5110068c5927af02e91ea044225fc3dd9aa35311",
+    "name": "ordre_des_avocats_barreau_de_lille",
+    "title": "Ordre des avocats - Barreau de Lille",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/nord/ordre_avocats-59350-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 20 12 16 90",
+      "url": "https://www.avocats-lille.com"
+    }
+  },
+  {
+    "id": "94790fa048058aad86b53c7e47116cb04d201e2c",
+    "name": "ordre_des_avocats_barreau_de_limoges",
+    "title": "Ordre des avocats - Barreau de Limoges",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/haute-vienne/ordre_avocats-87085-01",
+    "metadata": {
+      "email": "ordre@barreau-limoges.fr",
+      "telephone": "05 55 34 40 63",
+      "url": "https://www.avocats-limoges.org"
+    }
+  },
+  {
+    "id": "ea644c9dcf5153454d81e854cf2875c3637f9412",
+    "name": "ordre_des_avocats_barreau_de_lisieux",
+    "title": "Ordre des avocats - Barreau de Lisieux",
+    "url": "https://lannuaire.service-public.fr/normandie/calvados/ordre_avocats-14366-01",
+    "metadata": {
+      "email": "barreau.de.lisieux@wanadoo.fr",
+      "telephone": "02 31 31 30 62",
+      "url": "https://lisieux-avocats.fr"
+    }
+  },
+  {
+    "id": "5540c128cfefabdc17b8b8a00acded6d9bf82ab4",
+    "name": "ordre_des_avocats_barreau_de_lorient",
+    "title": "Ordre des avocats - Barreau de Lorient",
+    "url": "https://lannuaire.service-public.fr/bretagne/morbihan/ordre_avocats-56121-01",
+    "metadata": {
+      "email": "barreau.lorient@wanadoo.fr",
+      "telephone": "02 97 64 67 49",
+      "url": "http://www.barreaulorient.fr"
+    }
+  },
+  {
+    "id": "2c7352ae42dd70e78df2b56c0ad49d0146690a6b",
+    "name": "ordre_des_avocats_barreau_du_lot",
+    "title": "Ordre des avocats - Barreau du Lot",
+    "url": "https://lannuaire.service-public.fr/occitanie/lot/ordre_avocats-46042-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 65 35 62 50",
+      "url": ""
+    }
+  },
+  {
+    "id": "67d18bc2ea565ce0bbe18cf0f7ed582eeaa42d3c",
+    "name": "ordre_des_avocats_barreau_de_lozere",
+    "title": "Ordre des avocats - Barreau de Lozère",
+    "url": "https://lannuaire.service-public.fr/occitanie/lozere/ordre_avocats-48095-01",
+    "metadata": {
+      "email": "lebatonnier.lozere@gmail.com",
+      "telephone": "04 66 49 39 90",
+      "url": "https://www.avocats-lozere.fr"
+    }
+  },
+  {
+    "id": "8f56f6a842516e67e7587688f81f08a41160e0a5",
+    "name": "ordre_des_avocats_barreau_de_lyon",
+    "title": "Ordre des avocats - Barreau de Lyon",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/rhone/ordre_avocats-69383-01",
+    "metadata": {
+      "email": "contact@barreaulyon.com",
+      "telephone": "04 72 60 60 00",
+      "url": "http://www.barreaulyon.com"
+    }
+  },
+  {
+    "id": "ed8e503a3478d29f4cf13cdfbd183370667f0d18",
+    "name": "ordre_des_avocats_barreau_de_macon",
+    "title": "Ordre des avocats - Barreau de Mâcon",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/saone-et-loire/ordre_avocats-71270-01",
+    "metadata": {
+      "email": "contact@ordre-avocats-macon.fr",
+      "telephone": "03 85 38 75 79",
+      "url": "http://www.barreau-macon.avocat.fr"
+    }
+  },
+  {
+    "id": "f27599d79468db73e680a8d1a6e72515ac8de079",
+    "name": "ordre_des_avocats_barreau_du_mans",
+    "title": "Ordre des avocats - Barreau du Mans",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/sarthe/ordre_avocats-72181-01",
+    "metadata": {
+      "email": "ordrelemans@orange.fr",
+      "telephone": "02 43 82 01 04",
+      "url": "http://barreau-lemans.avocat.fr"
+    }
+  },
+  {
+    "id": "8d3081662bb6f44839101fae9cfa347f473fc7e7",
+    "name": "ordre_des_avocats_barreau_de_marseille",
+    "title": "Ordre des avocats - Barreau de Marseille",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/ordre_avocats-13206-01",
+    "metadata": {
+      "email": "ordreavocats.marseille@wanadoo.fr",
+      "telephone": "04 91 15 31 13",
+      "url": "https://www.barreau-marseille.avocat.fr"
+    }
+  },
+  {
+    "id": "e9e977af92f53278438c9dbc56cebf551e5ad8e0",
+    "name": "ordre_des_avocats_barreau_de_mayotte",
+    "title": "Ordre des avocats - Barreau de Mayotte",
+    "url": "https://lannuaire.service-public.fr/mayotte/mayotte/ordre_avocats-97611-01",
+    "metadata": {
+      "email": "",
+      "telephone": "+269 2 69 60 52 13",
+      "url": ""
+    }
+  },
+  {
+    "id": "348a19e96e3538a5f6db782e4f14ded8ddd8c132",
+    "name": "ordre_des_avocats_barreau_de_meaux",
+    "title": "Ordre des avocats - Barreau de Meaux",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/seine-et-marne/ordre_avocats-77284-01",
+    "metadata": {
+      "email": "contact@ordreavocats-meaux.fr",
+      "telephone": "01 60 09 03 60",
+      "url": "https://ordreavocats-meaux.fr"
+    }
+  },
+  {
+    "id": "ecc630ea3c7f1b6e249743802ae8db8db3d32dcb",
+    "name": "ordre_des_avocats_barreau_de_melun",
+    "title": "Ordre des avocats - Barreau de Melun",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/seine-et-marne/ordre_avocats-77288-01",
+    "metadata": {
+      "email": "",
+      "telephone": "01 64 39 00 35",
+      "url": "http://www.barreau-melun.org"
+    }
+  },
+  {
+    "id": "85fe5ab14c027438fda91c7ee54ce9311c3048be",
+    "name": "ordre_des_avocats_barreau_de_metz",
+    "title": "Ordre des avocats - Barreau de Metz",
+    "url": "https://lannuaire.service-public.fr/grand-est/moselle/ordre_avocats-57463-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 87 76 16 00",
+      "url": "http://www.avocats-metz.com"
+    }
+  },
+  {
+    "id": "69fe52d4690c9db538837486724d0badf2124a65",
+    "name": "ordre_des_avocats_barreau_de_montargis",
+    "title": "Ordre des avocats - Barreau de Montargis",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/loiret/ordre_avocats-45208-01",
+    "metadata": {
+      "email": "info@avocats-montargis.com",
+      "telephone": "02 38 93 88 77",
+      "url": "http://www.avocats-montargis.com"
+    }
+  },
+  {
+    "id": "81aa393b3e2c72f8b80472a0f3b665d907f8147e",
+    "name": "ordre_des_avocats_barreau_de_montbeliard",
+    "title": "Ordre des avocats - Barreau de Montbeliard",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/doubs/ordre_avocats-25388-01",
+    "metadata": {
+      "email": "barreaudemontbeliard@wanadoo.fr",
+      "telephone": "03 81 98 17 22",
+      "url": ""
+    }
+  },
+  {
+    "id": "7c5a792d596f829cac3e16aadd3d2044a78929f6",
+    "name": "ordre_des_avocats_barreau_de_mont_de_marsan",
+    "title": "Ordre des avocats - Barreau de Mont-de-Marsan",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/landes/ordre_avocats-40192-01",
+    "metadata": {
+      "email": "ordre-des-avocats.mdm@wanadoo.fr",
+      "telephone": "05 58 46 20 29",
+      "url": "http://www.barreau-montdemarsan.org"
+    }
+  },
+  {
+    "id": "be40ca915498a368145c1b6a10503c8405a10038",
+    "name": "ordre_des_avocats_barreau_de_montlucon",
+    "title": "Ordre des avocats - Barreau de Montluçon",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/allier/ordre_avocats-03185-01",
+    "metadata": {
+      "email": "avocats.montlucon@wanadoo.fr",
+      "telephone": "04 70 28 28 45",
+      "url": ""
+    }
+  },
+  {
+    "id": "e6f4b2c9784ec1cf07da0969f62af0635e5603de",
+    "name": "ordre_des_avocats_barreau_de_montpellier",
+    "title": "Ordre des avocats - Barreau de Montpellier",
+    "url": "https://lannuaire.service-public.fr/occitanie/herault/ordre_avocats-34172-01",
+    "metadata": {
+      "email": "accueil@avocats-montpellier.com",
+      "telephone": "04 67 61 72 60",
+      "url": "https://barreau-montpellier.com"
+    }
+  },
+  {
+    "id": "57695d8b5b89a8815fac451c90c1f86afd7933e8",
+    "name": "ordre_des_avocats_barreau_de_moulins",
+    "title": "Ordre des avocats - Barreau de Moulins",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/allier/ordre_avocats-03190-01",
+    "metadata": {
+      "email": "ordre.avocats.moulins@wanadoo.fr",
+      "telephone": "04 70 46 01 65",
+      "url": "http://www.ordre-avocats-moulins.com"
+    }
+  },
+  {
+    "id": "36d5db2f1c2d1ccc1dfaa967f9c75a401289b827",
+    "name": "ordre_des_avocats_barreau_de_mulhouse",
+    "title": "Ordre des avocats - Barreau de Mulhouse",
+    "url": "https://lannuaire.service-public.fr/grand-est/haut-rhin/ordre_avocats-68224-01",
+    "metadata": {
+      "email": "ordre.avocats.mulhouse@wanadoo.fr",
+      "telephone": "03 89 56 00 46",
+      "url": "http://www.avocats-mulhouse.fr"
+    }
+  },
+  {
+    "id": "3935321cd77917f3ff787e0e8b394789d924252c",
+    "name": "ordre_des_avocats_barreau_de_nancy",
+    "title": "Ordre des avocats - Barreau de Nancy",
+    "url": "https://lannuaire.service-public.fr/grand-est/meurthe-et-moselle/ordre_avocats-54395-01",
+    "metadata": {
+      "email": "ordre@avocats-nancy.com",
+      "telephone": "03 83 41 13 84",
+      "url": "http://www.avocats-nancy.com"
+    }
+  },
+  {
+    "id": "2b164631d3bc760c55348a7d8fec787841f0dd72",
+    "name": "ordre_des_avocats_barreau_de_nantes",
+    "title": "Ordre des avocats - Barreau de Nantes",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/loire-atlantique/ordre_avocats-44109-01",
+    "metadata": {
+      "email": "accueil@barreaunantes.fr",
+      "telephone": "02 40 20 48 45",
+      "url": "https://www.barreaunantes.fr"
+    }
+  },
+  {
+    "id": "a7c573d2c5e3389f9c050e6a20e74ddfddf796a3",
+    "name": "ordre_des_avocats_barreau_de_narbonne",
+    "title": "Ordre des avocats - Barreau de Narbonne",
+    "url": "https://lannuaire.service-public.fr/occitanie/aude/ordre_avocats-11262-01",
+    "metadata": {
+      "email": "avocatsnarbonne@club-internet.fr",
+      "telephone": "04 68 32 52 67",
+      "url": "https://www.avocats-narbonne.fr"
+    }
+  },
+  {
+    "id": "a601a325ed8a8e3291813234ccf2eab1942cef19",
+    "name": "ordre_des_avocats_barreau_de_nevers",
+    "title": "Ordre des avocats - Barreau de Nevers",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/nievre/ordre_avocats-58194-01",
+    "metadata": {
+      "email": "ordre.avocatsnevers@orange.fr",
+      "telephone": "03 86 59 57 64",
+      "url": "https://www.avocats-nevers.org"
+    }
+  },
+  {
+    "id": "23690a64f60fef67dcdbdc4833ce814612977f57",
+    "name": "ordre_des_avocats_barreau_de_nice",
+    "title": "Ordre des avocats - Barreau de Nice",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/alpes-maritimes/ordre_avocats-06088-01",
+    "metadata": {
+      "email": "ordreavocats@barreaudenice.com",
+      "telephone": "04 93 85 12 03",
+      "url": "https://www.barreaudenice.com"
+    }
+  },
+  {
+    "id": "5a186c038eaadf64afbb3a366f3b63845a74f51c",
+    "name": "ordre_des_avocats_barreau_de_nimes",
+    "title": "Ordre des avocats - Barreau de Nîmes",
+    "url": "https://lannuaire.service-public.fr/occitanie/gard/ordre_avocats-30189-01",
+    "metadata": {
+      "email": "contact@avocats-nimes.org",
+      "telephone": "04 66 36 25 25",
+      "url": "https://www.avocats-nimes.org"
+    }
+  },
+  {
+    "id": "6b8332ec67ba74983c8dae9c9fbf759e8038400d",
+    "name": "ordre_des_avocats_barreau_de_noumea",
+    "title": "Ordre des avocats - Barreau de Nouméa",
+    "url": "https://lannuaire.service-public.fr/collectivites-d-outre-mer/nouvelle-caledonie/ordre_avocats-98818-01",
+    "metadata": {
+      "email": "",
+      "telephone": "+ 687 28 81 00",
+      "url": "https://www.barreau-noumea.nc"
+    }
+  },
+  {
+    "id": "2f7ca38ca29aad180950421ea195791e637a964e",
+    "name": "ordre_des_avocats_barreau_d_orleans",
+    "title": "Ordre des avocats - Barreau d'Orléans",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/loiret/ordre_avocats-45234-01",
+    "metadata": {
+      "email": "ordreavocats45@wanadoo.fr",
+      "telephone": "02 38 53 49 49",
+      "url": "http://www.ordre-avocats-orleans.fr"
+    }
+  },
+  {
+    "id": "2e01388dbe3f279fa805a82da4d3e67ee0423ca6",
+    "name": "ordre_des_avocats_barreau_de_papeete_tahiti",
+    "title": "Ordre des avocats - Barreau de Papeete-Tahiti",
+    "url": "https://lannuaire.service-public.fr/collectivites-d-outre-mer/polynesie-francaise/ordre_avocats-98735-01",
+    "metadata": {
+      "email": "ordredesavocatstahiti@mail.pf",
+      "telephone": "+689 40 43 34 28",
+      "url": "https://barreau-avocats.pf"
+    }
+  },
+  {
+    "id": "e2befdb3ae3e79697f172c8e56c144c138836e74",
+    "name": "ordre_des_avocats_barreau_de_paris",
+    "title": "Ordre des avocats - Barreau de Paris",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/paris/ordre_avocats-75101-01",
+    "metadata": {
+      "email": "accueil_palais@avocatparis.org",
+      "telephone": "01 80 27 19 20",
+      "url": "http://www.avocatparis.org"
+    }
+  },
+  {
+    "id": "bd8392fbf81530190209ed8876946bf2a8ba5f70",
+    "name": "ordre_des_avocats_barreau_de_pau",
+    "title": "Ordre des avocats - Barreau de Pau",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/pyrenees-atlantiques/ordre_avocats-64445-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 59 27 66 74",
+      "url": "www.avocats-pau.fr"
+    }
+  },
+  {
+    "id": "42fa3be0e51d530003dba14d0fb1d7acfe4b8a3a",
+    "name": "ordre_des_avocats_barreau_de_perigueux",
+    "title": "Ordre des avocats - Barreau de Périgueux",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/dordogne/ordre_avocats-24322-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 53 53 21 34",
+      "url": "http://www.avocats-perigueux.com"
+    }
+  },
+  {
+    "id": "c931e0db708adca44944f59d6bd3b0689014f7fe",
+    "name": "ordre_des_avocats_barreau_de_poitiers",
+    "title": "Ordre des avocats - Barreau de Poitiers",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/vienne/ordre_avocats-86194-01",
+    "metadata": {
+      "email": "contact@avocats-poitiers.com",
+      "telephone": "05 49 88 05 35",
+      "url": "https://www.avocats-poitiers.com"
+    }
+  },
+  {
+    "id": "bbd50bebd244ae746b3b7f6f480cbacf4d572774",
+    "name": "ordre_des_avocats_barreau_des_pyrenees_orientales",
+    "title": "Ordre des avocats - Barreau des Pyrénées-Orientales",
+    "url": "https://lannuaire.service-public.fr/occitanie/pyrenees-orientales/ordre_avocats-66136-01",
+    "metadata": {
+      "email": "ordre66@wanadoo.fr",
+      "telephone": "04 68 34 21 14",
+      "url": "http://www.avocats-pyrenees-orientales.com"
+    }
+  },
+  {
+    "id": "d71d4198605c1a55d743c2bab9275a83d6a09a7d",
+    "name": "ordre_des_avocats_barreau_de_quimper",
+    "title": "Ordre des avocats - Barreau de Quimper",
+    "url": "https://lannuaire.service-public.fr/bretagne/finistere/ordre_avocats-29232-01",
+    "metadata": {
+      "email": "ordre.quimper@avocat-conseil.fr",
+      "telephone": "02 98 53 67 34",
+      "url": "http://www.avocats-quimper.fr"
+    }
+  },
+  {
+    "id": "abf1a6aa672cc9af50eaf68dfeb21efe63915bf1",
+    "name": "ordre_des_avocats_barreau_de_reims",
+    "title": "Ordre des avocats - Barreau de Reims",
+    "url": "https://lannuaire.service-public.fr/grand-est/marne/ordre_avocats-51454-01",
+    "metadata": {
+      "email": "ordreavocats@avocats-reims.com",
+      "telephone": "03 26 47 30 20",
+      "url": "http://www.avocats-reims.com"
+    }
+  },
+  {
+    "id": "afd7a4a008fcdc8d6bc5822caf85ec47b23a63ea",
+    "name": "ordre_des_avocats_barreau_de_rennes",
+    "title": "Ordre des avocats - Barreau de Rennes",
+    "url": "https://lannuaire.service-public.fr/bretagne/ille-et-vilaine/ordre_avocats-35238-01",
+    "metadata": {
+      "email": "info@ordre-avocats-rennes.com",
+      "telephone": "02 23 20 90 00",
+      "url": "http://www.ordre-avocats-rennes.com"
+    }
+  },
+  {
+    "id": "d2a31b7bace5018bf4c49a7dcc61971e68b2b1d4",
+    "name": "ordre_des_avocats_barreau_de_roanne",
+    "title": "Ordre des avocats - Barreau de Roanne",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/loire/ordre_avocats-42187-01",
+    "metadata": {
+      "email": "barreauderoanne@orange.fr",
+      "telephone": "04 77 70 35 51",
+      "url": "http://www.barreauderoanne.fr"
+    }
+  },
+  {
+    "id": "c9a4a817ad0b110680c1a23dc2664cae4c10deb8",
+    "name": "ordre_des_avocats_barreau_de_rouen",
+    "title": "Ordre des avocats - Barreau de Rouen",
+    "url": "https://lannuaire.service-public.fr/normandie/seine-maritime/ordre_avocats-76540-01",
+    "metadata": {
+      "email": "ordre@bareau-rouen.avocat.fr",
+      "telephone": "02 32 08 32 70",
+      "url": "https://www.barreau-rouen.avocat.fr"
+    }
+  },
+  {
+    "id": "462b86f11fb900e1a36cff967218fe8624002cf6",
+    "name": "ordre_des_avocats_barreau_des_sables_dolonne",
+    "title": "Ordre des avocats - Barreau des Sables d'olonne",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/vendee/ordre_avocats-85194-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 51 95 77 58",
+      "url": "http://www.barreaudessablesdolonne.fr"
+    }
+  },
+  {
+    "id": "6883ee161bc52b6649fef724d9841c144db5a94b",
+    "name": "ordre_des_avocats_barreau_de_saint_brieuc",
+    "title": "Ordre des avocats - Barreau de Saint-Brieuc",
+    "url": "https://lannuaire.service-public.fr/bretagne/cotes-d-armor/ordre_avocats-22278-01",
+    "metadata": {
+      "email": "barreau.saint-brieuc@wanadoo.fr",
+      "telephone": "02 96 33 73 05",
+      "url": "http://www.avocats-saint-brieuc.fr"
+    }
+  },
+  {
+    "id": "6074fdb776ddcba04a25dc51173dfd5cdc9bd13c",
+    "name": "ordre_des_avocats_barreau_de_saintes",
+    "title": "Ordre des avocats - Barreau de Saintes",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/charente-maritime/ordre_avocats-17415-01",
+    "metadata": {
+      "email": "batonnier17@ordre-saintes.fr",
+      "telephone": "05 46 93 04 39",
+      "url": "https://www.avocats-saintes.com"
+    }
+  },
+  {
+    "id": "5c7abeebf8bdca8301d0cf920efa0481a1697df9",
+    "name": "ordre_des_avocats_barreau_de_saint_etienne",
+    "title": "Ordre des avocats - Barreau de Saint-Etienne",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/loire/ordre_avocats-42218-01",
+    "metadata": {
+      "email": "ordre@avocat-saint-etienne.com",
+      "telephone": "04 77 33 16 22",
+      "url": "http://www.avocat-saint-etienne.com"
+    }
+  },
+  {
+    "id": "ce399964f359c5c47a5f14b3ddb25706546b8a89",
+    "name": "ordre_des_avocats_barreau_de_saint_gaudens",
+    "title": "Ordre des avocats - Barreau de Saint-Gaudens",
+    "url": "https://lannuaire.service-public.fr/occitanie/haute-garonne/ordre_avocats-31483-01",
+    "metadata": {
+      "email": "ordre@avocats-saint-gaudens.fr",
+      "telephone": "05 61 89 69 14",
+      "url": "http://www.avocats-saint-gaudens.fr"
+    }
+  },
+  {
+    "id": "f8be6752e6e4e8574318ef6c27904f95e05198ba",
+    "name": "ordre_des_avocats_barreau_de_saint_malo_dinan",
+    "title": "Ordre des avocats - Barreau de Saint-Malo - Dinan",
+    "url": "https://lannuaire.service-public.fr/bretagne/ille-et-vilaine/ordre_avocats-35288-01",
+    "metadata": {
+      "email": "barreau.saintmalo-dinan@orange.fr",
+      "telephone": "02 99 40 97 04",
+      "url": "http://www.avocats-st-malo-dinan.fr"
+    }
+  },
+  {
+    "id": "536c86863694b6a4d2015ecdd5f1aaf4eaa223b0",
+    "name": "ordre_des_avocats_barreau_de_saint_nazaire",
+    "title": "Ordre des avocats - Barreau de Saint-Nazaire",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/loire-atlantique/ordre_avocats-44184-01",
+    "metadata": {
+      "email": "contact@barreau-saintnazaire.fr",
+      "telephone": "02 40 66 73 82",
+      "url": "http://www.barreau-saintnazaire.fr"
+    }
+  },
+  {
+    "id": "47d28d09c495ef86150f8cf997ee08ce5a758ca0",
+    "name": "ordre_des_avocats_barreau_de_saint_omer",
+    "title": "Ordre des avocats - Barreau de Saint-Omer",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/pas-de-calais/ordre_avocats-62765-01",
+    "metadata": {
+      "email": "ordredesavocats.stomer@orange.fr",
+      "telephone": "03 21 12 41 11",
+      "url": ""
+    }
+  },
+  {
+    "id": "3e1f2eeacac7513ca0368333bf685724dd0d35d4",
+    "name": "ordre_des_avocats_barreau_de_saint_pierre_de_la_reunion",
+    "title": "Ordre des avocats - Barreau de Saint-Pierre de La Réunion",
+    "url": "https://lannuaire.service-public.fr/la-reunion/reunion/ordre_avocats-97416-01",
+    "metadata": {
+      "email": "ordre.avocats-stpierre@orange.fr",
+      "telephone": "+262 2 62 25 05 29",
+      "url": "https://www.barreau-saint-pierre-reunion.re"
+    }
+  },
+  {
+    "id": "b57ad7a459a4fdff2d98dad92d146c246ae56173",
+    "name": "ordre_des_avocats_barreau_de_saint_quentin",
+    "title": "Ordre des avocats - Barreau de Saint-Quentin",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/aisne/ordre_avocats-02691-01",
+    "metadata": {
+      "email": "ordre.avocats.stq@wanadoo.fr",
+      "telephone": "03 23 64 89 74",
+      "url": "https://www.avocats-saint-quentin.com"
+    }
+  },
+  {
+    "id": "d43b81f7be5c14bf111e17f66dbfdb9a805ec1bd",
+    "name": "ordre_des_avocats_barreau_de_sarreguemines",
+    "title": "Ordre des avocats - Barreau de Sarreguemines",
+    "url": "https://lannuaire.service-public.fr/grand-est/moselle/ordre_avocats-57631-01",
+    "metadata": {
+      "email": "ordre.avocats.sarreguemines@wanadoo.fr",
+      "telephone": "03 87 95 48 23",
+      "url": ""
+    }
+  },
+  {
+    "id": "97653e72a0748c29f4f4c1368180e306654fdd22",
+    "name": "ordre_des_avocats_barreau_de_saumur",
+    "title": "Ordre des avocats - Barreau de Saumur",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/maine-et-loire/ordre_avocats-49328-01",
+    "metadata": {
+      "email": "ordre@barreau-saumur.fr",
+      "telephone": "02 41 52 69 62",
+      "url": "https://www.barreau-saumur.fr"
+    }
+  },
+  {
+    "id": "b1e1c1917efc21422170b92d29307edf597a1d26",
+    "name": "ordre_des_avocats_barreau_de_saverne",
+    "title": "Ordre des avocats - Barreau de Saverne",
+    "url": "https://lannuaire.service-public.fr/grand-est/bas-rhin/ordre_avocats-67437-01",
+    "metadata": {
+      "email": "avocats.saverne@wanadoo.fr",
+      "telephone": "03 88 71 11 07",
+      "url": "http://www.avocats-saverne.com"
+    }
+  },
+  {
+    "id": "9ebb27c97e0d6aedbed05a1f9d1587366b788b7e",
+    "name": "ordre_des_avocats_barreau_de_seine_saint_denis",
+    "title": "Ordre des avocats - Barreau de Seine-Saint-Denis",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/seine-saint-denis/ordre_avocats-93008-01",
+    "metadata": {
+      "email": "",
+      "telephone": "01 41 60 80 80",
+      "url": "https://www.avocats-bobigny.com"
+    }
+  },
+  {
+    "id": "e704ec700057fd0fb57fa9e8c1e65185d9dc54e2",
+    "name": "ordre_des_avocats_barreau_de_senlis",
+    "title": "Ordre des avocats - Barreau de Senlis",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/oise/ordre_avocats-60612-01",
+    "metadata": {
+      "email": "ordredes",
+      "telephone": "03 44 53 66 89",
+      "url": ""
+    }
+  },
+  {
+    "id": "d182cc55f5b6ab9500aaccdb2e39f118fd88796f",
+    "name": "ordre_des_avocats_barreau_de_sens",
+    "title": "Ordre des avocats - Barreau de Sens",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/yonne/ordre_avocats-89387-01",
+    "metadata": {
+      "email": "ordreavocats.sens@orange.fr",
+      "telephone": "03 86 64 32 04",
+      "url": ""
+    }
+  },
+  {
+    "id": "8f7430d717d83bce26f9a91b61e0a723de91fb62",
+    "name": "ordre_des_avocats_barreau_de_soissons",
+    "title": "Ordre des avocats - Barreau de Soissons",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/aisne/ordre_avocats-02722-01",
+    "metadata": {
+      "email": "contact@avocats-soisson.com",
+      "telephone": "03 23 53 24 13",
+      "url": ""
+    }
+  },
+  {
+    "id": "a473d09284fc1229753b203f2c5a4c6d7dc07eeb",
+    "name": "ordre_des_avocats_barreau_de_strasbourg",
+    "title": "Ordre des avocats - Barreau de Strasbourg",
+    "url": "https://lannuaire.service-public.fr/grand-est/bas-rhin/ordre_avocats-67482-01",
+    "metadata": {
+      "email": "ordre@avocat-strasbourg.com",
+      "telephone": "03 88 37 12 66",
+      "url": "http://www.avocats-strasbourg.com"
+    }
+  },
+  {
+    "id": "d1afe5572b97467129b2395ad1fbc56fc65305f8",
+    "name": "ordre_des_avocats_barreau_de_tarascon",
+    "title": "Ordre des avocats - Barreau de Tarascon",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/ordre_avocats-13108-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 86 63 00 65",
+      "url": "https://www.avocats-tarascon.com"
+    }
+  },
+  {
+    "id": "96b857576847ef3b250d3f8cd76bb50e7681b80f",
+    "name": "ordre_des_avocats_barreau_de_tarbes",
+    "title": "Ordre des avocats - Barreau de Tarbes",
+    "url": "https://lannuaire.service-public.fr/occitanie/hautes-pyrenees/ordre_avocats-65440-01",
+    "metadata": {
+      "email": "ordre.des.avocats.65@wanadoo.fr",
+      "telephone": "05 62 93 64 66",
+      "url": "http://avocats-tarbes.fr"
+    }
+  },
+  {
+    "id": "342b6e37dcd8bb35f79c61f6c6bae06efa5a8030",
+    "name": "ordre_des_avocats_barreau_du_tarn_et_garonne",
+    "title": "Ordre des avocats - Barreau du Tarn-et-Garonne",
+    "url": "https://lannuaire.service-public.fr/occitanie/tarn-et-garonne/ordre_avocats-82121-01",
+    "metadata": {
+      "email": "contact@avocats-tarnetgaronne.fr",
+      "telephone": "05 63 03 27 89",
+      "url": "https://avocats-tarnetgaronne.fr"
+    }
+  },
+  {
+    "id": "6821a9609d00301757d8aacd1e5afa470cb8ff2e",
+    "name": "ordre_des_avocats_barreau_de_thionville",
+    "title": "Ordre des avocats - Barreau de Thionville",
+    "url": "https://lannuaire.service-public.fr/grand-est/moselle/ordre_avocats-57672-01",
+    "metadata": {
+      "email": "ordre-des-avocats.thionville57@wanadoo.fr",
+      "telephone": "03 82 53 22 75",
+      "url": "http://www.avocats-thionville.fr"
+    }
+  },
+  {
+    "id": "d0d737b312909766da319a000ba19dbecaf1d273",
+    "name": "ordre_des_avocats_barreau_de_thonon_les_bains_leman_genevois",
+    "title": "Ordre des avocats - Barreau de Thonon-les-Bains - Léman - Genevois",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/haute-savoie/ordre_avocats-74281-01",
+    "metadata": {
+      "email": "ordre.avocats.thonon@wanadoo.fr",
+      "telephone": "04 50 26 08 04",
+      "url": "http://www.barreau-thonon.fr"
+    }
+  },
+  {
+    "id": "64b57d414542cbe51d4b911cf853544a87cab908",
+    "name": "ordre_des_avocats_barreau_de_toulon",
+    "title": "Ordre des avocats - Barreau de Toulon",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/var/ordre_avocats-83137-01",
+    "metadata": {
+      "email": "ordreavocats@barreau-toulon.fr",
+      "telephone": "04 94 93 49 48",
+      "url": "https://barreautoulon.fr"
+    }
+  },
+  {
+    "id": "c9b31c04405662176f2bfc5aa73b090e25570523",
+    "name": "ordre_des_avocats_barreau_de_toulouse",
+    "title": "Ordre des avocats - Barreau de Toulouse",
+    "url": "https://lannuaire.service-public.fr/occitanie/haute-garonne/ordre_avocats-31555-01",
+    "metadata": {
+      "email": "ordre@avocats-toulouse.com",
+      "telephone": "05 61 14 91 50",
+      "url": "https://www.avocats-toulouse.com"
+    }
+  },
+  {
+    "id": "e630340ae6da57cfcdffde5a2538ff203b3e0f87",
+    "name": "ordre_des_avocats_barreau_de_tours",
+    "title": "Ordre des avocats - Barreau de Tours",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/indre-et-loire/ordre_avocats-37261-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 47 05 61 64",
+      "url": "http://www.barreaudetours.fr"
+    }
+  },
+  {
+    "id": "5e624ffab0d686cb558d83ca20d22e10426586b4",
+    "name": "ordre_des_avocats_barreau_de_tulle_ussel",
+    "title": "Ordre des avocats - Barreau de Tulle-Ussel",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/correze/ordre_avocats-19272-01",
+    "metadata": {
+      "email": "ordretulle@orange.fr",
+      "telephone": "05 55 26 00 79",
+      "url": "https://www.avocats-correze.com"
+    }
+  },
+  {
+    "id": "581c9e6097023808ce9954319fc7489fe58277f6",
+    "name": "ordre_des_avocats_barreau_du_val_d_oise",
+    "title": "Ordre des avocats - Barreau du Val-d'Oise",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/val-d-oise/ordre_avocats-95500-01",
+    "metadata": {
+      "email": "contact@avocat-95.fr",
+      "telephone": "01 34 35 39 39",
+      "url": "http://www.avocat-95.fr"
+    }
+  },
+  {
+    "id": "e49d2e11867f52a8012f445f15b618bd594991b0",
+    "name": "ordre_des_avocats_barreau_du_val_de_marne",
+    "title": "Ordre des avocats - Barreau du Val-de-Marne",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/val-de-marne/ordre_avocats-94028-01",
+    "metadata": {
+      "email": "avocats@ordre94.fr",
+      "telephone": "01 45 17 06 06",
+      "url": "http://avocats-valdemarne.com"
+    }
+  },
+  {
+    "id": "02531b500e2958f24c20ad0c820639147e766f56",
+    "name": "ordre_des_avocats_barreau_de_valenciennes",
+    "title": "Ordre des avocats - Barreau de Valenciennes",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/nord/ordre_avocats-59606-01",
+    "metadata": {
+      "email": "ordre.valenciennes@wanadoo.fr",
+      "telephone": "03 27 42 71 44",
+      "url": "https://fr-fr.facebook.com/ordredevalenciennes/"
+    }
+  },
+  {
+    "id": "fdcd49f08ad24584b5266268858da3032c931d4d",
+    "name": "ordre_des_avocats_barreau_de_vannes",
+    "title": "Ordre des avocats - Barreau de Vannes",
+    "url": "https://lannuaire.service-public.fr/bretagne/morbihan/ordre_avocats-56260-01",
+    "metadata": {
+      "email": "avocatsvannes@wanadoo.fr",
+      "telephone": "02 97 54 29 53",
+      "url": "https://www.avocats-vannes.com"
+    }
+  },
+  {
+    "id": "1bf9ecc27116012cbbb2367d3bd0193473201d20",
+    "name": "ordre_des_avocats_barreau_de_versailles",
+    "title": "Ordre des avocats - Barreau de Versailles",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/yvelines/ordre_avocats-78646-01",
+    "metadata": {
+      "email": "",
+      "telephone": "01 30 83 25 25",
+      "url": "https://www.barreaudeversailles.com"
+    }
+  },
+  {
+    "id": "2a824a73cbbaa66aed1313b470fbdbffd1253fd2",
+    "name": "ordre_des_avocats_barreau_de_vienne",
+    "title": "Ordre des avocats - Barreau de Vienne",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/isere/ordre_avocats-38544-01",
+    "metadata": {
+      "email": "ordredesavocats@oda-vienne.fr",
+      "telephone": "04 74 78 05 58",
+      "url": "http://www.avocats-vienne.com"
+    }
+  },
+  {
+    "id": "65ad4da5761fb484dccf5e68c9f36ca0d8bfa047",
+    "name": "ordre_des_avocats_barreau_de_villefranche_sur_saone",
+    "title": "Ordre des avocats - Barreau de Villefranche-sur-Saône",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/rhone/ordre_avocats-69264-01",
+    "metadata": {
+      "email": "barreau.villefranche@orange.fr",
+      "telephone": "04 74 65 05 95",
+      "url": "http://www.avocatsvillefranche.fr"
+    }
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "id": "6c54613b9ae8a0c1d2ae197ccd91f0d61ea5dc4b",
+    "name": "maison_centrale_d_arles",
+    "title": "Maison centrale d'Arles",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/maison_centrale-13004-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 90 99 07 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "a2959d96978390493958946fa367a81302a370ee",
+    "name": "maison_centrale_de_clairvaux",
+    "title": "Maison centrale de Clairvaux",
+    "url": "https://lannuaire.service-public.fr/grand-est/aube/maison_centrale-10426-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 25 92 30 30",
+      "url": ""
+    }
+  },
+  {
+    "id": "04608685b34dd016c6e012f5c13510bc71745d19",
+    "name": "maison_centrale_d_ensisheim",
+    "title": "Maison centrale d'Ensisheim",
+    "url": "https://lannuaire.service-public.fr/grand-est/haut-rhin/maison_centrale-68082-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 89 83 47 83",
+      "url": ""
+    }
+  },
+  {
+    "id": "ca3a99619eb47e1ea481955d8662e27b15c59615",
+    "name": "maison_centrale_de_poissy",
+    "title": "Maison centrale de Poissy",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/yvelines/maison_centrale-78498-01",
+    "metadata": {
+      "email": "",
+      "telephone": "01 30 06 28 40",
+      "url": ""
+    }
+  },
+  {
+    "id": "31af9b0c47cd533ce336852c77d523bc159c47a8",
+    "name": "maison_centrale_de_saint_martin_de_re",
+    "title": "Maison centrale de Saint-Martin-de-Ré",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/charente-maritime/maison_centrale-17369-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 46 09 20 42",
+      "url": ""
+    }
+  },
+  {
+    "id": "615721f39544ad62e8c37429612e4494e3a3d375",
+    "name": "maison_centrale_de_saint_maur",
+    "title": "Maison centrale de Saint-Maur",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/indre/maison_centrale-36202-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 54 08 29 00",
+      "url": ""
+    }
+  }
+]

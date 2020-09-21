@@ -1,0 +1,1273 @@
+[
+  {
+    "id": "f1f71ff85f6358bc69f5404a1b7baab5fb4687c7",
+    "name": "bureau_des_anciens_combattants_saint_pierre_et_miquelon",
+    "title": "Bureau des anciens combattants - Saint-Pierre-et-Miquelon",
+    "url": "https://lannuaire.service-public.fr/collectivites-d-outre-mer/saint-pierre-et-miquelon/onac-97502-01",
+    "metadata": {
+      "email": "",
+      "telephone": "+508 41 10 10",
+      "url": "https://www.onac-vg.fr"
+    }
+  },
+  {
+    "id": "d1b05d4a5a2859f8901c125aa1ec090f6c9be38d",
+    "alternateName": "ONACVG",
+    "name": "office_national_des_anciens_combattants_et_victimes_de_guerre_onacvg_polynesie_francaise",
+    "title": "Office national des anciens combattants et victimes de guerre (ONACVG) - Polynésie française",
+    "url": "https://lannuaire.service-public.fr/collectivites-d-outre-mer/polynesie-francaise/onac-98735-01",
+    "metadata": {
+      "email": "",
+      "telephone": "+689 40 42 03 24",
+      "url": "https://www.onac-vg.fr/"
+    }
+  },
+  {
+    "id": "71c3abf1939bce8ff5227e719ac17893a3f02bc7",
+    "alternateName": "ONACVG",
+    "name": "office_national_des_anciens_combattants_et_victimes_de_guerre_onacvg_service_departemental_ain",
+    "title": "Office national des anciens combattants et victimes de guerre (ONACVG) - Service départemental - Ain",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/ain/onac-01053-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 74 21 09 95",
+      "url": "https://www.onac-vg.fr/"
+    }
+  },
+  {
+    "id": "0d40d0533f639e1116223097a1b246c7e7995730",
+    "alternateName": "ONACVG",
+    "name": "office_national_des_anciens_combattants_et_victimes_de_guerre_onacvg_service_departemental_aisne",
+    "title": "Office national des anciens combattants et victimes de guerre (ONACVG) - Service départemental - Aisne",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/aisne/onac-02408-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 23 26 30 40",
+      "url": "https://www.onac-vg.fr/"
+    }
+  },
+  {
+    "id": "66ce39bc99f272c8ebf62cc4942e2f8aa9703790",
+    "alternateName": "ONACVG",
+    "name": "office_national_des_anciens_combattants_et_victimes_de_guerre_onacvg_service_departemental_allier",
+    "title": "Office national des anciens combattants et victimes de guerre (ONACVG) - Service départemental - Allier",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/allier/onac-03190-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 70 44 10 20",
+      "url": "https://www.onac-vg.fr/"
+    }
+  },
+  {
+    "id": "3d12e914f8fe669cb2262068f95fa070a511505b",
+    "alternateName": "ONACVG",
+    "name": "office_national_des_anciens_combattants_et_victimes_de_guerre_onacvg_service_departemental_alpes_de_haute_provence",
+    "title": "Office national des anciens combattants et victimes de guerre (ONACVG) - Service départemental - Alpes-de-Haute-Provence",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/alpes-de-haute-provence/onac-04070-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 92 31 31 83",
+      "url": "https://www.onac-vg.fr/"
+    }
+  },
+  {
+    "id": "4f972111f0960c0c58da99a1645124cfe7eb87c6",
+    "alternateName": "ONACVG",
+    "name": "office_national_des_anciens_combattants_et_victimes_de_guerre_onacvg_service_departemental_alpes_maritimes",
+    "title": "Office national des anciens combattants et victimes de guerre (ONACVG) - Service départemental - Alpes-Maritimes",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/alpes-maritimes/onac-06088-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 93 80 59 13",
+      "url": "https://www.onac-vg.fr/"
+    }
+  },
+  {
+    "id": "00a2d75670ec7e7b4fbfbd776602d6b9f36674bf",
+    "alternateName": "ONACVG",
+    "name": "office_national_des_anciens_combattants_et_victimes_de_guerre_onacvg_service_departemental_ardeche",
+    "title": "Office national des anciens combattants et victimes de guerre (ONACVG) - Service départemental - Ardèche",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/ardeche/onac-07186-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 75 64 21 13",
+      "url": "https://www.onac-vg.fr/"
+    }
+  },
+  {
+    "id": "bd9a2136329ef5bfa0a7b6c12155080cc37d0bb9",
+    "alternateName": "ONACVG",
+    "name": "office_national_des_anciens_combattants_et_victimes_de_guerre_onacvg_service_departemental_ardennes",
+    "title": "Office national des anciens combattants et victimes de guerre (ONACVG) - Service départemental - Ardennes",
+    "url": "https://lannuaire.service-public.fr/grand-est/ardennes/onac-08105-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 24 56 60 56",
+      "url": "https://www.onac-vg.fr/"
+    }
+  },
+  {
+    "id": "f882d1aee54d72af104f25397d3426341d03faa8",
+    "alternateName": "ONACVG",
+    "name": "office_national_des_anciens_combattants_et_victimes_de_guerre_onacvg_service_departemental_ariege",
+    "title": "Office national des anciens combattants et victimes de guerre (ONACVG) - Service départemental - Ariège",
+    "url": "https://lannuaire.service-public.fr/occitanie/ariege/onac-09122-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 61 65 00 23",
+      "url": "https://www.onac-vg.fr/"
+    }
+  },
+  {
+    "id": "420ea8a768c6596bf35b1333a1877f00a1dadb53",
+    "alternateName": "ONACVG",
+    "name": "office_national_des_anciens_combattants_et_victimes_de_guerre_onacvg_service_departemental_aube",
+    "title": "Office national des anciens combattants et victimes de guerre (ONACVG) - Service départemental - Aube",
+    "url": "https://lannuaire.service-public.fr/grand-est/aube/onac-10387-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 25 73 19 57",
+      "url": "https://www.onac-vg.fr/"
+    }
+  },
+  {
+    "id": "7e4f1aeb6b933a0f65b2caa2c33398f6eabf18a6",
+    "alternateName": "ONACVG",
+    "name": "office_national_des_anciens_combattants_et_victimes_de_guerre_onacvg_service_departemental_aude",
+    "title": "Office national des anciens combattants et victimes de guerre (ONACVG) - Service départemental - Aude",
+    "url": "https://lannuaire.service-public.fr/occitanie/aude/onac-11069-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 68 10 27 00",
+      "url": "https://www.onac-vg.fr/"
+    }
+  },
+  {
+    "id": "f6761c9999203f8d12550823a2066215122f2aad",
+    "alternateName": "ONACVG",
+    "name": "office_national_des_anciens_combattants_et_victimes_de_guerre_onacvg_service_departemental_aveyron",
+    "title": "Office national des anciens combattants et victimes de guerre (ONACVG) - Service départemental - Aveyron",
+    "url": "https://lannuaire.service-public.fr/occitanie/aveyron/onac-12202-01",
+    "metadata": {
+      "email": "sec.sd12@onacvg.fr",
+      "telephone": "05 65 75 40 47",
+      "url": "https://www.onac-vg.fr/"
+    }
+  },
+  {
+    "id": "7b21f4781737a2ca49259ca7bdfd2766dc27aea4",
+    "alternateName": "ONACVG",
+    "name": "office_national_des_anciens_combattants_et_victimes_de_guerre_onacvg_service_departemental_bas_rhin",
+    "title": "Office national des anciens combattants et victimes de guerre (ONACVG) - Service départemental - Bas-Rhin",
+    "url": "https://lannuaire.service-public.fr/grand-est/bas-rhin/onac-67482-01",
+    "metadata": {
+      "email": "sec.sd67@onacvg.fr",
+      "telephone": "03 88 76 78 10",
+      "url": "https://www.onac-vg.fr/"
+    }
+  },
+  {
+    "id": "76b4d285dda1459a30a18955eeecc4ec55a5c846",
+    "alternateName": "ONACVG",
+    "name": "office_national_des_anciens_combattants_et_victimes_de_guerre_onacvg_service_departemental_bouches_du_rhone",
+    "title": "Office national des anciens combattants et victimes de guerre (ONACVG) - Service départemental - Bouches-du-Rhône",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/onac-13206-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 91 37 19 54",
+      "url": "https://www.onac-vg.fr/"
+    }
+  },
+  {
+    "id": "09ae1a7b9bb5fa959b403640736dacfd85b6a405",
+    "alternateName": "ONACVG",
+    "name": "office_national_des_anciens_combattants_et_victimes_de_guerre_onacvg_service_departemental_calvados",
+    "title": "Office national des anciens combattants et victimes de guerre (ONACVG) - Service départemental - Calvados",
+    "url": "https://lannuaire.service-public.fr/normandie/calvados/onac-14118-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 31 38 47 80",
+      "url": "https://www.onac-vg.fr/"
+    }
+  },
+  {
+    "id": "ba287a716dd54872a92458834648650fce89fc07",
+    "alternateName": "ONACVG",
+    "name": "office_national_des_anciens_combattants_et_victimes_de_guerre_onacvg_service_departemental_cantal",
+    "title": "Office national des anciens combattants et victimes de guerre (ONACVG) - Service départemental - Cantal",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/cantal/onac-15014-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 71 46 83 90",
+      "url": "https://www.onac-vg.fr/"
+    }
+  },
+  {
+    "id": "c939963e9d69a79344dbd458773874310bf336fd",
+    "alternateName": "ONACVG",
+    "name": "office_national_des_anciens_combattants_et_victimes_de_guerre_onacvg_service_departemental_charente",
+    "title": "Office national des anciens combattants et victimes de guerre (ONACVG) - Service départemental - Charente",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/charente/onac-16015-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 45 21 14 18",
+      "url": "https://www.onac-vg.fr/"
+    }
+  },
+  {
+    "id": "6e99f5ba14807976efbec4f413620f26dfc946a2",
+    "alternateName": "ONACVG",
+    "name": "office_national_des_anciens_combattants_et_victimes_de_guerre_onacvg_service_departemental_charente_maritime",
+    "title": "Office national des anciens combattants et victimes de guerre (ONACVG) - Service départemental - Charente-Maritime",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/charente-maritime/onac-17300-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 46 41 74 44",
+      "url": "https://www.onac-vg.fr/"
+    }
+  },
+  {
+    "id": "6ed1f3529c07a5769c9bb04030c16e9220119ab3",
+    "alternateName": "ONACVG",
+    "name": "office_national_des_anciens_combattants_et_victimes_de_guerre_onacvg_service_departemental_cher",
+    "title": "Office national des anciens combattants et victimes de guerre (ONACVG) - Service départemental - Cher",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/cher/onac-18033-01",
+    "metadata": {
+      "email": "sd18@onacvg.fr",
+      "telephone": "02 46 08 81 76",
+      "url": "https://www.onac-vg.fr/"
+    }
+  },
+  {
+    "id": "cbd91055e2fd319cedeffacc1b94bd74e4aa0d86",
+    "alternateName": "ONACVG",
+    "name": "office_national_des_anciens_combattants_et_victimes_de_guerre_onacvg_service_departemental_correze",
+    "title": "Office national des anciens combattants et victimes de guerre (ONACVG) - Service départemental - Corrèze",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/correze/onac-19272-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 55 26 22 67",
+      "url": "https://www.onac-vg.fr/"
+    }
+  },
+  {
+    "id": "16fae0c305d272a98c0420eaf21c298e7835c721",
+    "alternateName": "ONACVG",
+    "name": "office_national_des_anciens_combattants_et_victimes_de_guerre_onacvg_service_departemental_corse_du_sud",
+    "title": "Office national des anciens combattants et victimes de guerre (ONACVG) - Service départemental - Corse-du-Sud",
+    "url": "https://lannuaire.service-public.fr/corse/corse-du-sud/onac-2A004-01",
+    "metadata": {
+      "email": "sd2a@onacvg.fr",
+      "telephone": "04 95 21 42 81",
+      "url": "https://www.onac-vg.fr/"
+    }
+  },
+  {
+    "id": "be746aae823aaf7857c1d47efcacffcb5d5a9a85",
+    "alternateName": "ONACVG",
+    "name": "office_national_des_anciens_combattants_et_victimes_de_guerre_onacvg_service_departemental_cote_d_or",
+    "title": "Office national des anciens combattants et victimes de guerre (ONACVG) - Service départemental - Côte-d'Or",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/cote-d-or/onac-21231-01",
+    "metadata": {
+      "email": "sd21@onacvg.fr",
+      "telephone": "03 80 11 22 00",
+      "url": "https://www.onac-vg.fr/"
+    }
+  },
+  {
+    "id": "bfb0dc131e01bc8d212cc28352197fa8a1341e5f",
+    "alternateName": "ONACVG",
+    "name": "office_national_des_anciens_combattants_et_victimes_de_guerre_onacvg_service_departemental_cotes_d_amor",
+    "title": "Office national des anciens combattants et victimes de guerre (ONACVG) - Service départemental - Côtes-d'Amor",
+    "url": "https://lannuaire.service-public.fr/bretagne/cotes-d-armor/onac-22278-01",
+    "metadata": {
+      "email": "dir.sd22@onacvg.fr",
+      "telephone": "02 96 68 01 44",
+      "url": "https://www.onac-vg.fr/"
+    }
+  },
+  {
+    "id": "91f89bc09a77c9a1e88067f56619aed5112a188c",
+    "alternateName": "ONACVG",
+    "name": "office_national_des_anciens_combattants_et_victimes_de_guerre_onacvg_service_departemental_creuse",
+    "title": "Office national des anciens combattants et victimes de guerre (ONACVG) - Service départemental - Creuse",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/creuse/onac-23096-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 55 51 58 90",
+      "url": "https://www.onac-vg.fr/"
+    }
+  },
+  {
+    "id": "53df4343ed155519dab2c8233cb096b56871c724",
+    "alternateName": "ONACVG",
+    "name": "office_national_des_anciens_combattants_et_victimes_de_guerre_onacvg_service_departemental_deux_sevres",
+    "title": "Office national des anciens combattants et victimes de guerre (ONACVG) - Service départemental - Deux-Sèvres",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/deux-sevres/onac-79191-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 49 28 25 02",
+      "url": "https://www.onac-vg.fr/"
+    }
+  },
+  {
+    "id": "76996b54b3608854e1e816496fd6cc47831173bb",
+    "alternateName": "ONACVG",
+    "name": "office_national_des_anciens_combattants_et_victimes_de_guerre_onacvg_service_departemental_dordogne",
+    "title": "Office national des anciens combattants et victimes de guerre (ONACVG) - Service départemental - Dordogne",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/dordogne/onac-24322-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 53 53 46 21",
+      "url": "https://www.onac-vg.fr/"
+    }
+  },
+  {
+    "id": "e5e6487fb356639454b32acb34f2c89079475103",
+    "alternateName": "ONACVG",
+    "name": "office_national_des_anciens_combattants_et_victimes_de_guerre_onacvg_service_departemental_doubs",
+    "title": "Office national des anciens combattants et victimes de guerre (ONACVG) - Service départemental - Doubs",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/doubs/onac-25056-01",
+    "metadata": {
+      "email": "sd25@onacvg.fr",
+      "telephone": "03 81 82 61 00",
+      "url": "https://www.onac-vg.fr/"
+    }
+  },
+  {
+    "id": "d329776e915158e78bdd2573b83238d8966da1ae",
+    "alternateName": "ONACVG",
+    "name": "office_national_des_anciens_combattants_et_victimes_de_guerre_onacvg_service_departemental_drome",
+    "title": "Office national des anciens combattants et victimes de guerre (ONACVG) - Service départemental - Drôme",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/drome/onac-26362-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 75 78 41 00",
+      "url": "https://www.onac-vg.fr/"
+    }
+  },
+  {
+    "id": "a0cec16a9eb07b6b575d7febc4fa13780bfa8378",
+    "alternateName": "ONACVG",
+    "name": "office_national_des_anciens_combattants_et_victimes_de_guerre_onacvg_service_departemental_essonne",
+    "title": "Office national des anciens combattants et victimes de guerre (ONACVG) - Service départemental - Essonne",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/essonne/onac-91182-01",
+    "metadata": {
+      "email": "",
+      "telephone": "01 60 79 25 11",
+      "url": "https://www.onac-vg.fr/"
+    }
+  },
+  {
+    "id": "cf2a59c395ab58956e2343941676188bd21b39c4",
+    "alternateName": "ONACVG",
+    "name": "office_national_des_anciens_combattants_et_victimes_de_guerre_onacvg_service_departemental_eure",
+    "title": "Office national des anciens combattants et victimes de guerre (ONACVG) - Service départemental - Eure",
+    "url": "https://lannuaire.service-public.fr/normandie/eure/onac-27229-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 32 38 14 18",
+      "url": "https://www.onac-vg.fr/"
+    }
+  },
+  {
+    "id": "a0f9e16b341fe624cbd77405d4cc676eb6f39dd8",
+    "alternateName": "ONACVG",
+    "name": "office_national_des_anciens_combattants_et_victimes_de_guerre_onacvg_service_departemental_eure_et_loir",
+    "title": "Office national des anciens combattants et victimes de guerre (ONACVG) - Service départemental  - Eure-et-Loir",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/eure-et-loir/onac-28218-01",
+    "metadata": {
+      "email": "sd28@onacvg.fr",
+      "telephone": "02 37 21 54 25",
+      "url": "https://www.onac-vg.fr/"
+    }
+  },
+  {
+    "id": "85a291482a7c08b45c3a84095167227a958f36c4",
+    "alternateName": "ONACVG",
+    "name": "office_national_des_anciens_combattants_et_victimes_de_guerre_onacvg_service_departemental_eure_et_loir",
+    "title": "Office national des anciens combattants et victimes de guerre (ONACVG) - Service départemental - Eure-et-Loir",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/eure-et-loir/onac-28085-01",
+    "metadata": {
+      "email": "sd28@onacvg.fr",
+      "telephone": "02 37 21 54 25",
+      "url": "https://www.onac-vg.fr"
+    }
+  },
+  {
+    "id": "920c2e779c8c15b6d140b1dc090a7b14b8e81964",
+    "alternateName": "ONACVG",
+    "name": "office_national_des_anciens_combattants_et_victimes_de_guerre_onacvg_service_departemental_finistere",
+    "title": "Office national des anciens combattants et victimes de guerre (ONACVG) - Service départemental - Finistère",
+    "url": "https://lannuaire.service-public.fr/bretagne/finistere/onac-29232-01",
+    "metadata": {
+      "email": "sec.sd29@onacvg.fr",
+      "telephone": "02 98 55 45 74",
+      "url": "https://www.onac-vg.fr/"
+    }
+  },
+  {
+    "id": "4191feec84cac1772f698583f3ebe0c084ffb67e",
+    "alternateName": "ONACVG",
+    "name": "office_national_des_anciens_combattants_et_victimes_de_guerre_onacvg_service_departemental_gard",
+    "title": "Office national des anciens combattants et victimes de guerre (ONACVG) - Service départemental - Gard",
+    "url": "https://lannuaire.service-public.fr/occitanie/gard/onac-30189-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 66 67 27 81",
+      "url": "https://www.onac-vg.fr/"
+    }
+  },
+  {
+    "id": "77ac75c354da0c495784e35f51e0206ad9b89de5",
+    "alternateName": "ONACVG",
+    "name": "office_national_des_anciens_combattants_et_victimes_de_guerre_onacvg_service_departemental_gers",
+    "title": "Office national des anciens combattants et victimes de guerre (ONACVG) - Service départemental - Gers",
+    "url": "https://lannuaire.service-public.fr/occitanie/gers/onac-32013-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 62 05 01 32",
+      "url": "https://www.onac-vg.fr/"
+    }
+  },
+  {
+    "id": "98dcbaa070381560c081a54ec64ec64580fe52c3",
+    "alternateName": "ONACVG",
+    "name": "office_national_des_anciens_combattants_et_victimes_de_guerre_onacvg_service_departemental_gironde",
+    "title": "Office national des anciens combattants et victimes de guerre (ONACVG) - Service départemental - Gironde",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/gironde/onac-33063-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 56 44 79 63",
+      "url": "https://www.onac-vg.fr/"
+    }
+  },
+  {
+    "id": "2e50c92cf9a49214aa6bc7f2bc589b6f4d1132fd",
+    "alternateName": "ONACVG",
+    "name": "office_national_des_anciens_combattants_et_victimes_de_guerre_onacvg_service_departemental_guadeloupe",
+    "title": "Office national des anciens combattants et victimes de guerre (ONACVG) - Service départemental - Guadeloupe",
+    "url": "https://lannuaire.service-public.fr/guadeloupe/guadeloupe/onac-97105-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 90 81 17 63",
+      "url": "https://www.onac-vg.fr/"
+    }
+  },
+  {
+    "id": "31106625e3eb3459bb6801996112933d0328903d",
+    "alternateName": "ONACVG",
+    "name": "office_national_des_anciens_combattants_et_victimes_de_guerre_onacvg_service_departemental_guyane",
+    "title": "Office national des anciens combattants et victimes de guerre (ONACVG) - Service départemental - Guyane",
+    "url": "https://lannuaire.service-public.fr/guyane/guyane/onac-97302-01",
+    "metadata": {
+      "email": "sd973@onacvg.fr",
+      "telephone": "05 94 29 01 50",
+      "url": "https://www.onac-vg.fr"
+    }
+  },
+  {
+    "id": "31106625e3eb3459bb6801996112933d0328903d",
+    "alternateName": "ONACVG",
+    "name": "office_national_des_anciens_combattants_et_victimes_de_guerre_onacvg_service_departemental_guyane",
+    "title": "Office national des anciens combattants et victimes de guerre (ONACVG) - Service départemental - Guyane",
+    "url": "https://lannuaire.service-public.fr/guyane/guyane/onac-97309-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 94 29 01 50",
+      "url": "https://www.onac-vg.fr/"
+    }
+  },
+  {
+    "id": "5c1ac72f8cd2eb24830d83e436a7b93a96516a07",
+    "alternateName": "ONACVG",
+    "name": "office_national_des_anciens_combattants_et_victimes_de_guerre_onacvg_service_departemental_haute_corse",
+    "title": "Office national des anciens combattants et victimes de guerre (ONACVG) - Service départemental - Haute-Corse",
+    "url": "https://lannuaire.service-public.fr/corse/haute-corse/onac-2B033-01",
+    "metadata": {
+      "email": "sd2b@onacvg.fr",
+      "telephone": "4 95 30 20 41",
+      "url": "https://www.onac-vg.fr/"
+    }
+  },
+  {
+    "id": "9abe543580eea61d90e4701cd328a298fc701ce1",
+    "alternateName": "ONACVG",
+    "name": "office_national_des_anciens_combattants_et_victimes_de_guerre_onacvg_service_departemental_haute_garonne",
+    "title": "Office national des anciens combattants et victimes de guerre (ONACVG) - Service départemental - Haute-Garonne",
+    "url": "https://lannuaire.service-public.fr/occitanie/haute-garonne/onac-31555-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 62 21 44 80",
+      "url": "https://www.onac-vg.fr/"
+    }
+  },
+  {
+    "id": "7dd95e9756de6a2b6d5729d885235a904c915ca7",
+    "alternateName": "ONACVG",
+    "name": "office_national_des_anciens_combattants_et_victimes_de_guerre_onacvg_service_departemental_haute_loire",
+    "title": "Office national des anciens combattants et victimes de guerre (ONACVG) - Service départemental - Haute-Loire",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/haute-loire/onac-43157-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 71 09 32 46",
+      "url": "https://www.onac-vg.fr/"
+    }
+  },
+  {
+    "id": "53e06a82ff724948e9ffd76f0d395e7630c7cb74",
+    "alternateName": "ONACVG",
+    "name": "office_national_des_anciens_combattants_et_victimes_de_guerre_onacvg_service_departemental_haute_marne",
+    "title": "Office national des anciens combattants et victimes de guerre (ONACVG) - Service départemental - Haute-Marne",
+    "url": "https://lannuaire.service-public.fr/grand-est/haute-marne/onac-52121-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 25 30 20 89",
+      "url": "https://www.onac-vg.fr/"
+    }
+  },
+  {
+    "id": "0bcb22128231e8bebc566af1b84423150aa033bf",
+    "alternateName": "ONACVG",
+    "name": "office_national_des_anciens_combattants_et_victimes_de_guerre_onacvg_service_departemental_hautes_alpes",
+    "title": "Office national des anciens combattants et victimes de guerre (ONACVG) - Service départemental - Hautes-Alpes",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/hautes-alpes/onac-05061-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 92 51 32 67",
+      "url": "https://www.onac-vg.fr/"
+    }
+  },
+  {
+    "id": "cadff6a0cf668c08b7ecf1483e6ed8b3fbc50bed",
+    "alternateName": "ONACVG",
+    "name": "office_national_des_anciens_combattants_et_victimes_de_guerre_onacvg_service_departemental_haute_saone",
+    "title": "Office national des anciens combattants et victimes de guerre (ONACVG) - Service départemental - Haute-Saône",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/haute-saone/onac-70550-01",
+    "metadata": {
+      "email": "sd70@onacvg.fr",
+      "telephone": "03 84 75 02 85",
+      "url": "https://www.onac-vg.fr/"
+    }
+  },
+  {
+    "id": "40662ad5cd414dddf13c8fca5145782e7e3ca8d5",
+    "alternateName": "ONACVG",
+    "name": "office_national_des_anciens_combattants_et_victimes_de_guerre_onacvg_service_departemental_haute_savoie",
+    "title": "Office national des anciens combattants et victimes de guerre (ONACVG) - Service départemental - Haute-Savoie",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/haute-savoie/onac-74010-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 50 88 43 92",
+      "url": "https://www.onac-vg.fr/"
+    }
+  },
+  {
+    "id": "f23056b8a2bdb7bd7648d667db7c7f89e5b62166",
+    "alternateName": "ONACVG",
+    "name": "office_national_des_anciens_combattants_et_victimes_de_guerre_onacvg_service_departemental_hautes_pyrenees",
+    "title": "Office national des anciens combattants et victimes de guerre (ONACVG) - Service départemental - Hautes-Pyrénées",
+    "url": "https://lannuaire.service-public.fr/occitanie/hautes-pyrenees/onac-65440-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 62 56 64 90",
+      "url": "https://www.onac-vg.fr/"
+    }
+  },
+  {
+    "id": "2973a1e5e438f601951afdceb6af322e4df85f15",
+    "alternateName": "ONACVG",
+    "name": "office_national_des_anciens_combattants_et_victimes_de_guerre_onacvg_service_departemental_haute_vienne",
+    "title": "Office national des anciens combattants et victimes de guerre (ONACVG) - Service départemental - Haute-Vienne",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/haute-vienne/onac-87085-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 55 33 51 30",
+      "url": "https://www.onac-vg.fr/"
+    }
+  },
+  {
+    "id": "9dd0da16dc3fb3b46a52eb9a8bd8ae2991ed2296",
+    "alternateName": "ONACVG",
+    "name": "office_national_des_anciens_combattants_et_victimes_de_guerre_onacvg_service_departemental_haut_rhin",
+    "title": "Office national des anciens combattants et victimes de guerre (ONACVG) - Service départemental - Haut-Rhin",
+    "url": "https://lannuaire.service-public.fr/grand-est/haut-rhin/onac-68066-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 89 24 83 16",
+      "url": "https://www.onac-vg.fr/"
+    }
+  },
+  {
+    "id": "afe29ac572e71c3f8d9e790618f5b27b366e04b7",
+    "alternateName": "ONACVG",
+    "name": "office_national_des_anciens_combattants_et_victimes_de_guerre_onacvg_service_departemental_hauts_de_seine",
+    "title": "Office national des anciens combattants et victimes de guerre (ONACVG) - Service départemental - Hauts-de-Seine",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/hauts-de-seine/onac-92050-01",
+    "metadata": {
+      "email": "",
+      "telephone": "01 40 97 21 40",
+      "url": "https://www.onac-vg.fr/"
+    }
+  },
+  {
+    "id": "94bf99b86e2ad11a2e0c91937ac3315fd648acc5",
+    "alternateName": "ONACVG",
+    "name": "office_national_des_anciens_combattants_et_victimes_de_guerre_onacvg_service_departemental_herault",
+    "title": "Office national des anciens combattants et victimes de guerre (ONACVG) - Service départemental - Hérault",
+    "url": "https://lannuaire.service-public.fr/occitanie/herault/onac-34172-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 67 16 59 30",
+      "url": "https://www.onac-vg.fr/"
+    }
+  },
+  {
+    "id": "aa2577b27a9a307bf409f6489dbe0758536c8461",
+    "alternateName": "ONACVG",
+    "name": "office_national_des_anciens_combattants_et_victimes_de_guerre_onacvg_service_departemental_ille_et_vilaine",
+    "title": "Office national des anciens combattants et victimes de guerre (ONACVG) - Service départemental - Ille-et-Vilaine",
+    "url": "https://lannuaire.service-public.fr/bretagne/ille-et-vilaine/onac-35238-01",
+    "metadata": {
+      "email": "sd35@onacvg.fr",
+      "telephone": "02 99 02 18 60",
+      "url": "https://www.onac-vg.fr/"
+    }
+  },
+  {
+    "id": "5c1f95795f0aeb0ee136cd772af59ebecb2f6868",
+    "alternateName": "ONACVG",
+    "name": "office_national_des_anciens_combattants_et_victimes_de_guerre_onacvg_service_departemental_indre",
+    "title": "Office national des anciens combattants et victimes de guerre (ONACVG) - Service départemental - Indre",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/indre/onac-36044-01",
+    "metadata": {
+      "email": "sd36@onacvg.fr",
+      "telephone": "02 54 53 81 10",
+      "url": "https://www.onac-vg.fr/"
+    }
+  },
+  {
+    "id": "072e0726e2fa128d5518a25b0ae08b1a7f2c3859",
+    "alternateName": "ONACVG",
+    "name": "office_national_des_anciens_combattants_et_victimes_de_guerre_onacvg_service_departemental_indre_et_loire",
+    "title": "Office national des anciens combattants et victimes de guerre (ONACVG) - Service départemental - Indre-et-Loire",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/indre-et-loire/onac-37261-01",
+    "metadata": {
+      "email": "sd37@onacvg.fr",
+      "telephone": "02 47 05 46 75",
+      "url": "https://www.onac-vg.fr/"
+    }
+  },
+  {
+    "id": "77a136a5b6271e1f983286ba599511ef39aa2cd7",
+    "alternateName": "ONACVG",
+    "name": "office_national_des_anciens_combattants_et_victimes_de_guerre_onacvg_service_departemental_isere",
+    "title": "Office national des anciens combattants et victimes de guerre (ONACVG) - Service départemental - Isère",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/isere/onac-38185-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 76 46 10 33",
+      "url": "https://www.onac-vg.fr/"
+    }
+  },
+  {
+    "id": "20bc35ade75e66e7b5ae9cc29f587a3d9cf77030",
+    "alternateName": "ONACVG",
+    "name": "office_national_des_anciens_combattants_et_victimes_de_guerre_onacvg_service_departemental_jura",
+    "title": "Office national des anciens combattants et victimes de guerre (ONACVG) - Service départemental - Jura",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/jura/onac-39300-01",
+    "metadata": {
+      "email": "sd39@onacvg.fr",
+      "telephone": "03 84 24 09 08",
+      "url": "https://www.onac-vg.fr/"
+    }
+  },
+  {
+    "id": "19647b3599f6ebd2c4b6ec2ab86b85d7fe09e6d0",
+    "alternateName": "ONACVG",
+    "name": "office_national_des_anciens_combattants_et_victimes_de_guerre_onacvg_service_departemental_landes",
+    "title": "Office national des anciens combattants et victimes de guerre (ONACVG) - Service départemental - Landes",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/landes/onac-40192-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 58 75 42 98",
+      "url": "https://www.onac-vg.fr/"
+    }
+  },
+  {
+    "id": "7a957e2fe9f865e33a1344630eb7999605b24291",
+    "alternateName": "ONACVG",
+    "name": "office_national_des_anciens_combattants_et_victimes_de_guerre_onacvg_service_departemental_la_reunion",
+    "title": "Office national des anciens combattants et victimes de guerre (ONACVG) - Service départemental - La Réunion",
+    "url": "https://lannuaire.service-public.fr/la-reunion/reunion/onac-97411-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 62 21 14 67",
+      "url": "https://www.onac-vg.fr/"
+    }
+  },
+  {
+    "id": "63d5bab1ea852191d87b4a68653f6e6147dd4f80",
+    "alternateName": "ONACVG",
+    "name": "office_national_des_anciens_combattants_et_victimes_de_guerre_onacvg_service_departemental_loire",
+    "title": "Office national des anciens combattants et victimes de guerre (ONACVG) - Service départemental - Loire",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/loire/onac-42218-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 77 91 14 18",
+      "url": "https://www.onac-vg.fr/"
+    }
+  },
+  {
+    "id": "4599d1ca453c9fc41d51016550d543c98bfd40a6",
+    "alternateName": "ONACVG",
+    "name": "office_national_des_anciens_combattants_et_victimes_de_guerre_onacvg_service_departemental_loire_atlantique",
+    "title": "Office national des anciens combattants et victimes de guerre (ONACVG) - Service départemental - Loire-Atlantique",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/loire-atlantique/onac-44109-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 51 86 02 10",
+      "url": "https://www.onac-vg.fr/"
+    }
+  },
+  {
+    "id": "149ff797018df016f6fd6ad6be3cad65da3a1786",
+    "alternateName": "ONACVG",
+    "name": "office_national_des_anciens_combattants_et_victimes_de_guerre_onacvg_service_departemental_loiret",
+    "title": "Office national des anciens combattants et victimes de guerre (ONACVG) - Service départemental - Loiret",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/loiret/onac-45234-01",
+    "metadata": {
+      "email": "sd45@onacvg.fr",
+      "telephone": "02 38 53 36 12",
+      "url": "https://www.onac-vg.fr/"
+    }
+  },
+  {
+    "id": "9595a7cc8ddc56333a3bde79979f9d7dffa62140",
+    "alternateName": "ONACVG",
+    "name": "office_national_des_anciens_combattants_et_victimes_de_guerre_onacvg_service_departemental_loir_et_cher",
+    "title": "Office national des anciens combattants et victimes de guerre (ONACVG) - Service départemental - Loir-et-Cher",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/loir-et-cher/onac-41018-01",
+    "metadata": {
+      "email": "sd41@onacvg.fr",
+      "telephone": "02 54 81 56 11",
+      "url": "https://www.onac-vg.fr/"
+    }
+  },
+  {
+    "id": "1825281deb813356872a7c85133a0f60d34077df",
+    "alternateName": "ONACVG",
+    "name": "office_national_des_anciens_combattants_et_victimes_de_guerre_onacvg_service_departemental_lot",
+    "title": "Office national des anciens combattants et victimes de guerre (ONACVG) - Service départemental - Lot",
+    "url": "https://lannuaire.service-public.fr/occitanie/lot/onac-46042-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 65 23 34 00",
+      "url": "https://www.onac-vg.fr/"
+    }
+  },
+  {
+    "id": "3762c4f0c4075843e115c8311e770087d5f3a8f9",
+    "alternateName": "ONACVG",
+    "name": "office_national_des_anciens_combattants_et_victimes_de_guerre_onacvg_service_departemental_lot_et_garonne",
+    "title": "Office national des anciens combattants et victimes de guerre (ONACVG) - Service départemental - Lot-et-Garonne",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/lot-et-garonne/onac-47001-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 53 77 64 50",
+      "url": "https://www.onac-vg.fr/"
+    }
+  },
+  {
+    "id": "9ac2e5bc79194aa44a9ca8135c15b003d83e9253",
+    "alternateName": "ONACVG",
+    "name": "office_national_des_anciens_combattants_et_victimes_de_guerre_onacvg_service_departemental_lozere",
+    "title": "Office national des anciens combattants et victimes de guerre (ONACVG) - Service départemental - Lozère",
+    "url": "https://lannuaire.service-public.fr/occitanie/lozere/onac-48095-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 66 65 18 47",
+      "url": "https://www.onac-vg.fr/"
+    }
+  },
+  {
+    "id": "691107352a20d35f01130581cd7840e1756bf3df",
+    "alternateName": "ONACVG",
+    "name": "office_national_des_anciens_combattants_et_victimes_de_guerre_onacvg_service_departemental_maine_et_loire",
+    "title": "Office national des anciens combattants et victimes de guerre (ONACVG) - Service départemental - Maine-et-Loire",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/maine-et-loire/onac-49007-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 41 47 82 92",
+      "url": "https://www.onac-vg.fr/"
+    }
+  },
+  {
+    "id": "67d0457f318353cfa541ac7d444b35890c0ca7be",
+    "alternateName": "ONACVG",
+    "name": "office_national_des_anciens_combattants_et_victimes_de_guerre_onacvg_service_departemental_manche",
+    "title": "Office national des anciens combattants et victimes de guerre (ONACVG) - Service départemental - Manche",
+    "url": "https://lannuaire.service-public.fr/normandie/manche/onac-50502-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 33 57 99 50",
+      "url": "https://www.onac-vg.fr/"
+    }
+  },
+  {
+    "id": "cb32102e4a202dc956071fd4b323afda0c2f7c94",
+    "alternateName": "ONACVG",
+    "name": "office_national_des_anciens_combattants_et_victimes_de_guerre_onacvg_service_departemental_marne",
+    "title": "Office national des anciens combattants et victimes de guerre (ONACVG) - Service départemental - Marne",
+    "url": "https://lannuaire.service-public.fr/grand-est/marne/onac-51108-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 26 68 60 24",
+      "url": "http://www.marne.gouv.fr/Services-de-l-Etat/Defense/Anciens-combattants-et-victimes-de-guerre-ONACVG"
+    }
+  },
+  {
+    "id": "0687c9b39642cc9b4c58ff9ada5710d043f43c7b",
+    "alternateName": "ONACVG",
+    "name": "office_national_des_anciens_combattants_et_victimes_de_guerre_onacvg_service_departemental_martinique",
+    "title": "Office national des anciens combattants et victimes de guerre (ONACVG) - Service départemental - Martinique",
+    "url": "https://lannuaire.service-public.fr/martinique/martinique/onac-97209-01",
+    "metadata": {
+      "email": "",
+      "telephone": "+596 5 96 63 00 72",
+      "url": "https://www.onac-vg.fr/"
+    }
+  },
+  {
+    "id": "8f43279af80781b77acd6c37930e1735f8e3d2db",
+    "alternateName": "ONACVG",
+    "name": "office_national_des_anciens_combattants_et_victimes_de_guerre_onacvg_service_departemental_mayenne",
+    "title": "Office national des anciens combattants et victimes de guerre (ONACVG) - Service départemental - Mayenne",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/mayenne/onac-53130-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 43 91 72 91",
+      "url": "https://www.onac-vg.fr/"
+    }
+  },
+  {
+    "id": "f0277164f59c866fa8ddc31dfa71a1498117f72f",
+    "alternateName": "ONACVG",
+    "name": "office_national_des_anciens_combattants_et_victimes_de_guerre_onacvg_service_departemental_meurthe_et_moselle",
+    "title": "Office national des anciens combattants et victimes de guerre (ONACVG) - Service départemental - Meurthe-et-Moselle",
+    "url": "https://lannuaire.service-public.fr/grand-est/meurthe-et-moselle/onac-54395-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 83 67 82 86",
+      "url": "https://www.onac-vg.fr/"
+    }
+  },
+  {
+    "id": "c5cad2c9178de1de03e141b8e99ed10966288043",
+    "alternateName": "ONACVG",
+    "name": "office_national_des_anciens_combattants_et_victimes_de_guerre_onacvg_service_departemental_meuse",
+    "title": "Office national des anciens combattants et victimes de guerre (ONACVG) - Service départemental - Meuse",
+    "url": "https://lannuaire.service-public.fr/grand-est/meuse/onac-55029-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 29 77 39 45",
+      "url": "http://www.meuse.gouv.fr/Services-de-l-Etat/Defense/L-Office-National-des-Anciens-Combattants-et-Victimes-de-Guerre-ONAC"
+    }
+  },
+  {
+    "id": "7e56ce8f773a3340b7185a80f8b2e74bc8863f76",
+    "alternateName": "ONACVG",
+    "name": "office_national_des_anciens_combattants_et_victimes_de_guerre_onacvg_service_departemental_morbihan",
+    "title": "Office national des anciens combattants et victimes de guerre (ONACVG) - Service départemental - Morbihan",
+    "url": "https://lannuaire.service-public.fr/bretagne/morbihan/onac-56260-01",
+    "metadata": {
+      "email": "sd56@onacvg.fr",
+      "telephone": "02 97 47 88 88",
+      "url": "https://www.onac-vg.fr/"
+    }
+  },
+  {
+    "id": "2426a7837053baf47a089955c5ec43774cf221c0",
+    "alternateName": "ONACVG",
+    "name": "office_national_des_anciens_combattants_et_victimes_de_guerre_onacvg_service_departemental_moselle",
+    "title": "Office national des anciens combattants et victimes de guerre (ONACVG) - Service départemental - Moselle",
+    "url": "https://lannuaire.service-public.fr/grand-est/moselle/onac-57463-01",
+    "metadata": {
+      "email": "secretariat-direction.psghlmn@orange.fr",
+      "telephone": "03 87 34 77 40",
+      "url": "https://www.onac-vg.fr/"
+    }
+  },
+  {
+    "id": "a3ea78a85025c9ada318bfa12b84699771c59fd2",
+    "alternateName": "ONACVG",
+    "name": "office_national_des_anciens_combattants_et_victimes_de_guerre_onacvg_service_departemental_nievre",
+    "title": "Office national des anciens combattants et victimes de guerre (ONACVG) - Service départemental - Nièvre",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/nievre/onac-58194-01",
+    "metadata": {
+      "email": "sec.sd58@onacvg.fr",
+      "telephone": "03 86 71 90 85",
+      "url": "https://www.onac-vg.fr/"
+    }
+  },
+  {
+    "id": "dbc6fe1bc17b0d58564ac966641c6211ce62ca44",
+    "alternateName": "ONACVG",
+    "name": "office_national_des_anciens_combattants_et_victimes_de_guerre_onacvg_service_departemental_nord",
+    "title": "Office national des anciens combattants et victimes de guerre (ONACVG) - Service départemental - Nord",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/nord/onac-59350-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 59 00 41 20",
+      "url": "https://www.onac-vg.fr/"
+    }
+  },
+  {
+    "id": "e2b62a8a2c98360a17335647d9f74c8abc0dfd07",
+    "alternateName": "ONACVG",
+    "name": "office_national_des_anciens_combattants_et_victimes_de_guerre_onacvg_service_departemental_nouvelle_caledonie",
+    "title": "Office national des anciens combattants et victimes de guerre (ONACVG) - Service départemental - Nouvelle-Calédonie",
+    "url": "https://lannuaire.service-public.fr/collectivites-d-outre-mer/nouvelle-caledonie/onac-98818-01",
+    "metadata": {
+      "email": "",
+      "telephone": "+687 27 28 77",
+      "url": "https://www.onac-vg.fr/"
+    }
+  },
+  {
+    "id": "b2e30580accdbf8b74e613c7baddbe3d97e15e9b",
+    "alternateName": "ONACVG",
+    "name": "office_national_des_anciens_combattants_et_victimes_de_guerre_onacvg_service_departemental_oise",
+    "title": "Office national des anciens combattants et victimes de guerre (ONACVG) - Service départemental - Oise",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/oise/onac-60057-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 44 45 80 34",
+      "url": "https://www.onac-vg.fr/"
+    }
+  },
+  {
+    "id": "385d5b586a9a5a33df7a426a52c802e6b9b9246a",
+    "alternateName": "ONACVG",
+    "name": "office_national_des_anciens_combattants_et_victimes_de_guerre_onacvg_service_departemental_orne",
+    "title": "Office national des anciens combattants et victimes de guerre (ONACVG) - Service départemental - Orne",
+    "url": "https://lannuaire.service-public.fr/normandie/orne/onac-61001-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 33 81 44 30",
+      "url": "https://www.onac-vg.fr/"
+    }
+  },
+  {
+    "id": "72a6bd0a92594fb1ec87ad834a2fd66cd1b49c64",
+    "alternateName": "ONACVG",
+    "name": "office_national_des_anciens_combattants_et_victimes_de_guerre_onacvg_service_departemental_paris",
+    "title": "Office national des anciens combattants et victimes de guerre (ONACVG) - Service départemental - Paris",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/paris/onac-75105-01",
+    "metadata": {
+      "email": "",
+      "telephone": "01 44 41 38 38",
+      "url": "https://www.onac-vg.fr/"
+    }
+  },
+  {
+    "id": "91110784367e7ff19fad5f7dc3a4896cfc765c43",
+    "alternateName": "ONACVG",
+    "name": "office_national_des_anciens_combattants_et_victimes_de_guerre_onacvg_service_departemental_pas_de_calais",
+    "title": "Office national des anciens combattants et victimes de guerre (ONACVG) - Service départemental - Pas-de-Calais",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/pas-de-calais/onac-62041-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 21 71 58 26",
+      "url": "https://www.onac-vg.fr/"
+    }
+  },
+  {
+    "id": "8b5eac87f404c61aa0c83f62904750c06c805d75",
+    "alternateName": "ONACVG",
+    "name": "office_national_des_anciens_combattants_et_victimes_de_guerre_onacvg_service_departemental_puy_de_dome",
+    "title": "Office national des anciens combattants et victimes de guerre (ONACVG) - Service départemental - Puy-de-Dôme",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/puy-de-dome/onac-63113-01",
+    "metadata": {
+      "email": "sec.sd63@onacvg.fr (sec.sd63@onacvg.fr)",
+      "telephone": "04 73 98 39 45",
+      "url": "https://www.onac-vg.fr/"
+    }
+  },
+  {
+    "id": "50396751f4c58f205e48090a54e8732bcec9c6f8",
+    "alternateName": "ONACVG",
+    "name": "office_national_des_anciens_combattants_et_victimes_de_guerre_onacvg_service_departemental_pyrenees_atlantiques",
+    "title": "Office national des anciens combattants et victimes de guerre (ONACVG) - Service départemental - Pyrénées-Atlantiques",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/pyrenees-atlantiques/onac-64445-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 59 98 25 70",
+      "url": "https://www.onac-vg.fr/"
+    }
+  },
+  {
+    "id": "0b00a50495f7932c6ac11faf6d4f94c403d20bdc",
+    "alternateName": "ONACVG",
+    "name": "office_national_des_anciens_combattants_et_victimes_de_guerre_onacvg_service_departemental_pyrenees_orientales",
+    "title": "Office national des anciens combattants et victimes de guerre (ONACVG) - Service départemental - Pyrénées-Orientales",
+    "url": "https://lannuaire.service-public.fr/occitanie/pyrenees-orientales/onac-66136-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 68 34 01 11",
+      "url": "https://www.onac-vg.fr/"
+    }
+  },
+  {
+    "id": "f58d430bf78e35eb2b5f09d87b464fbf55ad768a",
+    "alternateName": "ONACVG",
+    "name": "office_national_des_anciens_combattants_et_victimes_de_guerre_onacvg_service_departemental_rhone",
+    "title": "Office national des anciens combattants et victimes de guerre (ONACVG) - Service départemental - Rhône",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/rhone/onac-69381-01",
+    "metadata": {
+      "email": "sd.69@onacvg.fr",
+      "telephone": "04 78 27 15 61",
+      "url": "https://www.onac-vg.fr/"
+    }
+  },
+  {
+    "id": "cce8e7a08a5c3239f194370a6d2ecb3314dc5a7c",
+    "alternateName": "ONACVG",
+    "name": "office_national_des_anciens_combattants_et_victimes_de_guerre_onacvg_service_departemental_saone_et_loire",
+    "title": "Office national des anciens combattants et victimes de guerre (ONACVG) - Service départemental - Saône-et-Loire",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/saone-et-loire/onac-71270-01",
+    "metadata": {
+      "email": "sec.sd71@onacvg.fr",
+      "telephone": "03 85 22 56 40",
+      "url": "https://www.onac-vg.fr/"
+    }
+  },
+  {
+    "id": "a3744749c7987ca0e1b2e16a69c59d4ce0449821",
+    "alternateName": "ONACVG",
+    "name": "office_national_des_anciens_combattants_et_victimes_de_guerre_onacvg_service_departemental_sarthe",
+    "title": "Office national des anciens combattants et victimes de guerre (ONACVG) - Service départemental - Sarthe",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/sarthe/onac-72181-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 72 16 44 70",
+      "url": "https://www.onac-vg.fr/"
+    }
+  },
+  {
+    "id": "49710cb7536c9317bae14f02312eff220fac8e00",
+    "alternateName": "ONACVG",
+    "name": "office_national_des_anciens_combattants_et_victimes_de_guerre_onacvg_service_departemental_savoie",
+    "title": "Office national des anciens combattants et victimes de guerre (ONACVG) - Service départemental - Savoie",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/savoie/onac-73065-01",
+    "metadata": {
+      "email": "sd73@onacvg.fr",
+      "telephone": "04 79 33 66 54",
+      "url": "https://www.onac-vg.fr/"
+    }
+  },
+  {
+    "id": "955aa1e3db2878b57915541cbb83b9a30105ee7d",
+    "alternateName": "ONACVG",
+    "name": "office_national_des_anciens_combattants_et_victimes_de_guerre_onacvg_service_departemental_seine_et_marne",
+    "title": "Office national des anciens combattants et victimes de guerre (ONACVG) - Service départemental - Seine-et-Marne",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/seine-et-marne/onac-77288-01",
+    "metadata": {
+      "email": "",
+      "telephone": "01 64 39 14 18",
+      "url": "https://www.onac-vg.fr/"
+    }
+  },
+  {
+    "id": "80933b72993a692f5143dc7b64da6e02eb8a4827",
+    "alternateName": "ONACVG",
+    "name": "office_national_des_anciens_combattants_et_victimes_de_guerre_onacvg_service_departemental_seine_maritime",
+    "title": "Office national des anciens combattants et victimes de guerre (ONACVG) - Service départemental - Seine-Maritime",
+    "url": "https://lannuaire.service-public.fr/normandie/seine-maritime/onac-76540-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 32 76 52 55",
+      "url": "https://www.onac-vg.fr/"
+    }
+  },
+  {
+    "id": "ddc07c8d298c057d6fff185f3f6ba661984513b2",
+    "alternateName": "ONACVG",
+    "name": "office_national_des_anciens_combattants_et_victimes_de_guerre_onacvg_service_departemental_seine_saint_denis",
+    "title": "Office national des anciens combattants et victimes de guerre (ONACVG) - Service départemental - Seine-Saint-Denis",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/seine-saint-denis/onac-93008-01",
+    "metadata": {
+      "email": "",
+      "telephone": "01 48 96 98 74",
+      "url": "https://www.onac-vg.fr/"
+    }
+  },
+  {
+    "id": "0479947c3928d130c60b5f408252fa00b6b2ee69",
+    "alternateName": "ONACVG",
+    "name": "office_national_des_anciens_combattants_et_victimes_de_guerre_onacvg_service_departemental_somme",
+    "title": "Office national des anciens combattants et victimes de guerre (ONACVG) - Service départemental - Somme",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/somme/onac-80021-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 22 71 67 00",
+      "url": "https://www.onac-vg.fr/"
+    }
+  },
+  {
+    "id": "b6321173e967e6a3cb5eb0e760d8477cdc7933f9",
+    "alternateName": "ONACVG",
+    "name": "office_national_des_anciens_combattants_et_victimes_de_guerre_onacvg_service_departemental_tarn",
+    "title": "Office national des anciens combattants et victimes de guerre (ONACVG) - Service départemental - Tarn",
+    "url": "https://lannuaire.service-public.fr/occitanie/tarn/onac-81004-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 81 27 54 00",
+      "url": "https://www.onac-vg.fr/"
+    }
+  },
+  {
+    "id": "52c6a3771c83afa807b2d6b3031fc84df728aa74",
+    "alternateName": "ONACVG",
+    "name": "office_national_des_anciens_combattants_et_victimes_de_guerre_onacvg_service_departemental_tarn_et_garonne",
+    "title": "Office national des anciens combattants et victimes de guerre (ONACVG) - Service départemental - Tarn-et-Garonne",
+    "url": "https://lannuaire.service-public.fr/occitanie/tarn-et-garonne/onac-82121-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 63 63 14 18",
+      "url": "https://www.onac-vg.fr/"
+    }
+  },
+  {
+    "id": "76e129133adbece10911f22edebdc01e2c534c87",
+    "alternateName": "ONACVG",
+    "name": "office_national_des_anciens_combattants_et_victimes_de_guerre_onacvg_service_departemental_territoire_de_belfort",
+    "title": "Office national des anciens combattants et victimes de guerre (ONACVG) - Service départemental - Territoire de Belfort",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/territoire-de-belfort/onac-90010-01",
+    "metadata": {
+      "email": "sd90@onacvg.fr",
+      "telephone": "03 84 22 21 41",
+      "url": "https://www.onac-vg.fr/"
+    }
+  },
+  {
+    "id": "3a862d982c147620c8bf9ad7c25f170c28f1dfea",
+    "alternateName": "ONACVG",
+    "name": "office_national_des_anciens_combattants_et_victimes_de_guerre_onacvg_service_departemental_val_d_oise",
+    "title": "Office national des anciens combattants et victimes de guerre (ONACVG) - Service départemental - Val-d'Oise",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/val-d-oise/onac-95127-01",
+    "metadata": {
+      "email": "",
+      "telephone": "01 34 41 60 64",
+      "url": "https://www.onac-vg.fr/"
+    }
+  },
+  {
+    "id": "3a862d982c147620c8bf9ad7c25f170c28f1dfea",
+    "alternateName": "ONACVG",
+    "name": "office_national_des_anciens_combattants_et_victimes_de_guerre_onacvg_service_departemental_val_d_oise",
+    "title": "Office national des anciens combattants et victimes de guerre (ONACVG) - Service départemental - Val-d'Oise",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/val-d-oise/onac-95500-01",
+    "metadata": {
+      "email": "sd95@onacvg.fr",
+      "telephone": "01 34 41 60 64",
+      "url": "https://www.onac-vg.fr"
+    }
+  },
+  {
+    "id": "202c10ae78a8092b55657333533811172769c429",
+    "alternateName": "ONACVG",
+    "name": "office_national_des_anciens_combattants_et_victimes_de_guerre_onacvg_service_departemental_val_de_marne",
+    "title": "Office national des anciens combattants et victimes de guerre (ONACVG) - Service départemental - Val-de-Marne",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/val-de-marne/onac-94028-01",
+    "metadata": {
+      "email": "",
+      "telephone": "01 49 56 68 95",
+      "url": "https://www.onac-vg.fr/"
+    }
+  },
+  {
+    "id": "cb6edeb82403634f0646fcc0306a95176c008092",
+    "alternateName": "ONACVG",
+    "name": "office_national_des_anciens_combattants_et_victimes_de_guerre_onacvg_service_departemental_var",
+    "title": "Office national des anciens combattants et victimes de guerre (ONACVG) - Service départemental - Var",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/var/onac-83137-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 94 16 97 70",
+      "url": "https://www.onac-vg.fr/"
+    }
+  },
+  {
+    "id": "95dca86d011600c00ef68dc8be5e6743374ef3fc",
+    "alternateName": "ONACVG",
+    "name": "office_national_des_anciens_combattants_et_victimes_de_guerre_onacvg_service_departemental_vaucluse",
+    "title": "Office national des anciens combattants et victimes de guerre (ONACVG) - Service départemental - Vaucluse",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/vaucluse/onac-84007-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 88 17 87 23",
+      "url": "https://www.onac-vg.fr/"
+    }
+  },
+  {
+    "id": "4e61f0c774ada0cdbd855be2ac43a68c328344e2",
+    "alternateName": "ONACVG",
+    "name": "office_national_des_anciens_combattants_et_victimes_de_guerre_onacvg_service_departemental_vendee",
+    "title": "Office national des anciens combattants et victimes de guerre (ONACVG) - Service départemental - Vendée",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/vendee/onac-85191-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 51 37 00 52",
+      "url": "https://www.onac-vg.fr/"
+    }
+  },
+  {
+    "id": "ba789f6710650e68e209d6accf1c37d05c3e74ae",
+    "alternateName": "ONACVG",
+    "name": "office_national_des_anciens_combattants_et_victimes_de_guerre_onacvg_service_departemental_vienne",
+    "title": "Office national des anciens combattants et victimes de guerre (ONACVG) - Service départemental - Vienne",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/vienne/onac-86194-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 49 41 35 42",
+      "url": "https://www.onac-vg.fr/"
+    }
+  },
+  {
+    "id": "318480940e93ccc558b92ededa613508a135ae8a",
+    "alternateName": "ONACVG",
+    "name": "office_national_des_anciens_combattants_et_victimes_de_guerre_onacvg_service_departemental_vosges",
+    "title": "Office national des anciens combattants et victimes de guerre (ONACVG) - Service départemental - Vosges",
+    "url": "https://lannuaire.service-public.fr/grand-est/vosges/onac-88160-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 29 64 00 75",
+      "url": "https://www.onac-vg.fr/"
+    }
+  },
+  {
+    "id": "f895ca1f50a427d40a427c3f09b4c8be8972cd41",
+    "alternateName": "ONACVG",
+    "name": "office_national_des_anciens_combattants_et_victimes_de_guerre_onacvg_service_departemental_yonne",
+    "title": "Office national des anciens combattants et victimes de guerre (ONACVG) - Service départemental - Yonne",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/yonne/onac-89024-01",
+    "metadata": {
+      "email": "sd89@onacvg.fr",
+      "telephone": "03 86 94 24 74",
+      "url": "https://www.onac-vg.fr/"
+    }
+  },
+  {
+    "id": "f92c108a977c6860371a4d0c3d9d3aa08126a7cb",
+    "alternateName": "ONACVG",
+    "name": "office_national_des_anciens_combattants_et_victimes_de_guerre_onacvg_service_departemental_yvelines",
+    "title": "Office national des anciens combattants et victimes de guerre (ONACVG) - Service départemental - Yvelines",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/yvelines/onac-78646-01",
+    "metadata": {
+      "email": "",
+      "telephone": "01 30 97 55 80",
+      "url": "https://www.onac-vg.fr/"
+    }
+  }
+]

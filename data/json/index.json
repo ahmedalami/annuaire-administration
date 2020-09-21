@@ -1,0 +1,1196 @@
+[
+  {
+    "id": "967c51e372ac593d3d13fd845ad417841a6c4885",
+    "name": "administration_nationale",
+    "title": "Administration nationale",
+    "types": [
+      {
+        "id": "ceae0017db6a26e429de7d16e90076f846925caf",
+        "name": "ambassades_de_france",
+        "title": "Ambassades de France",
+        "url": "https://lannuaire.service-public.fr/navigation/ambassades"
+      },
+      {
+        "id": "530bfc7d594a11232e2072f4c064d66e8d79cb32",
+        "name": "autorites_independantes",
+        "title": "Autorités indépendantes",
+        "url": "https://lannuaire.service-public.fr/navigation/autorites-independantes"
+      },
+      {
+        "id": "c765143c15bdff4ab3d8498d318813f73f760017",
+        "name": "institutions_et_juridictions",
+        "title": "Institutions et juridictions",
+        "url": "https://lannuaire.service-public.fr/navigation/institutions-juridictions"
+      },
+      {
+        "id": "49bfb1f4f71d6997e2c6aef170f14781bdab5940",
+        "name": "ministeres",
+        "title": "Ministères",
+        "url": "https://lannuaire.service-public.fr/navigation/ministeres"
+      }
+    ]
+  },
+  {
+    "id": "83c90c412a83a3a11756c0001ad28cfd35958a62",
+    "name": "administration_locale",
+    "title": "Administration locale",
+    "types": [
+      {
+        "id": "44f3f39c7070bd8b9f09ed661d17934506f87a4a",
+        "alternateName": "CDG",
+        "name": "centre_de_gestion_de_la_fonction_publique_territoriale",
+        "title": "Centre de gestion de la fonction publique territoriale",
+        "url": "https://lannuaire.service-public.fr/navigation/cdg"
+      },
+      {
+        "id": "9895a373f4439b6083768a2aa6b10edd6f0cdff5",
+        "alternateName": "CNFPT",
+        "name": "centre_national_de_la_fonction_publique_territoriale",
+        "title": "Centre national de la fonction publique territoriale",
+        "url": "https://lannuaire.service-public.fr/navigation/cnfpt"
+      },
+      {
+        "id": "e0c0801db64f4136ae4f2c53540d1ee3b81e2938",
+        "name": "conseil_departemental",
+        "title": "Conseil départemental",
+        "url": "https://lannuaire.service-public.fr/navigation/cg"
+      },
+      {
+        "id": "1db13987340c22ee380bb52c8eba96a3763ccd4e",
+        "alternateName": "CESER",
+        "name": "conseil_economique_social_et_environnemental_regional",
+        "title": "Conseil économique, social et environnemental régional",
+        "url": "https://lannuaire.service-public.fr/navigation/cesr"
+      },
+      {
+        "id": "45b7571117c983158ba8fde0dd9f673db01b9b6d",
+        "name": "conseil_regional",
+        "title": "Conseil régional",
+        "url": "https://lannuaire.service-public.fr/navigation/cr"
+      },
+      {
+        "id": "58404400baa18d04d16441899e8d87ad04f74ed5",
+        "name": "intercommunalite",
+        "title": "Intercommunalité",
+        "url": "https://lannuaire.service-public.fr/navigation/epci"
+      },
+      {
+        "id": "5f1f307649a2ddae7f77c2e9b92336d6def9c56c",
+        "name": "mairie",
+        "title": "Mairie",
+        "url": "https://lannuaire.service-public.fr/navigation/mairie"
+      },
+      {
+        "id": "98865b1fd05c3b7b2b4b6b507f4d8695c7d4aaf4",
+        "name": "prefecture",
+        "title": "Préfecture",
+        "url": "https://lannuaire.service-public.fr/navigation/prefecture"
+      },
+      {
+        "id": "801b878e46cff0095c6225fef23764787a301ab6",
+        "name": "prefecture_de_police_de_paris",
+        "title": "Préfecture de police de Paris",
+        "url": "https://lannuaire.service-public.fr/navigation/paris_ppp"
+      },
+      {
+        "id": "ae3f41b54bf6a94e36d33d8bd91c35cbf2ead8ed",
+        "name": "prefecture_de_region",
+        "title": "Préfecture de région",
+        "url": "https://lannuaire.service-public.fr/navigation/prefecture_region"
+      },
+      {
+        "id": "91ed204b277f983ec3addbca9581a7a62709cefb",
+        "name": "sous_prefecture",
+        "title": "Sous-préfecture",
+        "url": "https://lannuaire.service-public.fr/navigation/sous_pref"
+      }
+    ]
+  },
+  {
+    "id": "814ac845769832ae43dbff9cc12bf9d3aaa22daa",
+    "name": "social_sante",
+    "title": "Social, santé",
+    "types": [
+      {
+        "id": "833d549b7d5cd9da86d52f86c0906b4318274eb0",
+        "alternateName": "ARS",
+        "name": "agence_regionale_de_sante",
+        "title": "Agence régionale de santé",
+        "url": "https://lannuaire.service-public.fr/navigation/ars"
+      },
+      {
+        "id": "833d549b7d5cd9da86d52f86c0906b4318274eb0",
+        "alternateName": "ARS",
+        "name": "agence_regionale_de_sante",
+        "title": "Agence régionale de santé",
+        "url": "https://lannuaire.service-public.fr/navigation/ars_antenne"
+      },
+      {
+        "id": "6ac946d0cd2c141b0b32a6ed32caedd299ce7a70",
+        "alternateName": "AGEFIPH",
+        "name": "association_de_gestion_du_fonds_pour_linsertion_professionnelle_des_personnes_handicapees",
+        "title": "Association de gestion du fonds pour l'insertion professionnelle des personnes handicapées",
+        "url": "https://lannuaire.service-public.fr/navigation/agefiph"
+      },
+      {
+        "id": "3a6207df3fa6cd039e434e19b8f35d2d4ab80e3d",
+        "alternateName": "CAF",
+        "name": "caisse_dallocations_familiales",
+        "title": "Caisse d'allocations familiales",
+        "url": "https://lannuaire.service-public.fr/navigation/caf"
+      },
+      {
+        "id": "a38bfedfc4bb6dcfcad718536318d9d022a4503a",
+        "alternateName": "CARSAT",
+        "name": "caisse_dassurance_retraite_et_de_la_sante_au_travail",
+        "title": "Caisse d'assurance retraite et de la santé au travail",
+        "url": "https://lannuaire.service-public.fr/navigation/carsat"
+      },
+      {
+        "id": "d39fe4a884846525fb5b2959a6ff7aa036c007c0",
+        "alternateName": "CPAM",
+        "name": "caisse_primaire_dassurance_maladie",
+        "title": "Caisse primaire d'assurance maladie",
+        "url": "https://lannuaire.service-public.fr/navigation/cpam"
+      },
+      {
+        "id": "9f292499a76398b323642415aa332874922446dd",
+        "alternateName": "CICAS",
+        "name": "centre_dinformation_de_conseil_et_daccueil_des_salaries",
+        "title": "Centre d'information de conseil et d'accueil des salariés",
+        "url": "https://lannuaire.service-public.fr/navigation/cicas"
+      },
+      {
+        "id": "21f5b9d0f5dcc2cd061772370a3267f6d95f26c9",
+        "alternateName": "CIDFF",
+        "name": "centre_dinformation_sur_les_droits_des_femmes_et_des_familles",
+        "title": "Centre d'information sur les droits des femmes et des familles",
+        "url": "https://lannuaire.service-public.fr/navigation/cidf"
+      },
+      {
+        "id": "0feb8ce375d70a406590410e8e9bb25d5870be89",
+        "alternateName": "PMI",
+        "name": "centre_de_protection_maternelle_et_infantile",
+        "title": "Centre de protection maternelle et infantile",
+        "url": "https://lannuaire.service-public.fr/navigation/pmi"
+      },
+      {
+        "id": "35df3fe054805f6956e576ae8c2dc61b1dc7f4a4",
+        "alternateName": "CHU",
+        "name": "centre_hospitalier_universitaire",
+        "title": "Centre hospitalier universitaire",
+        "url": "https://lannuaire.service-public.fr/navigation/chu"
+      },
+      {
+        "id": "ffad10e486c6feda7a2bda807545f1ae14d9480b",
+        "name": "centre_regional_de_pharmacovigilance",
+        "title": "Centre régional de pharmacovigilance",
+        "url": "https://lannuaire.service-public.fr/navigation/crpv"
+      },
+      {
+        "id": "8ad215fa245716c3d922cef1b73aa64925331cf5",
+        "alternateName": "DCSTEP",
+        "name": "direction_de_la_cohesion_sociale_du_travail_de_lemploi_et_de_la_population",
+        "title": "Direction de la cohésion sociale, du travail, de l'emploi et de la population",
+        "url": "https://lannuaire.service-public.fr/navigation/dcstep"
+      },
+      {
+        "id": "6ac8618b93789e7d307dec47443040498fbe5ccb",
+        "alternateName": "DDCS",
+        "name": "direction_departementale_de_la_cohesion_sociale",
+        "title": "Direction départementale de la cohésion sociale",
+        "url": "https://lannuaire.service-public.fr/navigation/ddcs"
+      },
+      {
+        "id": "b361673ec617d6e7e92d21582c4f7cdcc89f3c42",
+        "alternateName": "DDCSPP",
+        "name": "direction_departementale_de_la_cohesion_sociale_et_de_la_protection_des_populations",
+        "title": "Direction départementale de la cohésion sociale et de la protection des populations",
+        "url": "https://lannuaire.service-public.fr/navigation/ddcspp"
+      },
+      {
+        "id": "048123b09f6bd42ae9bf9c5c871182d7847599c5",
+        "name": "france_services_et_maison_de_services_au_public",
+        "title": "France Services et Maison de services au public",
+        "url": "https://lannuaire.service-public.fr/navigation/msap"
+      },
+      {
+        "id": "c8ce6078bee701197e1e6eeae387ec31df29d85f",
+        "name": "laboratoire_departemental_danalyses",
+        "title": "Laboratoire départemental d'analyses",
+        "url": "https://lannuaire.service-public.fr/navigation/laboratoire_departemental"
+      },
+      {
+        "id": "060fcc3649472b1d90b0f860970d5569b70a7e10",
+        "name": "maison_de_la_metropole_de_lyon",
+        "title": "Maison de la Métropole de Lyon",
+        "url": "https://lannuaire.service-public.fr/navigation/Maison-metropole-Lyon"
+      },
+      {
+        "id": "81301a859a1d8554ec1d0e7ab10b5e3d470cbc34",
+        "alternateName": "MDPH",
+        "name": "maison_departementale_des_personnes_handicapees",
+        "title": "Maison départementale des personnes handicapées",
+        "url": "https://lannuaire.service-public.fr/navigation/maison_handicapees"
+      },
+      {
+        "id": "abf636f2d88f15ed5a2ba23f9b44d4e13a972050",
+        "alternateName": "MSA",
+        "name": "mutualite_sociale_agricole",
+        "title": "Mutualité sociale agricole",
+        "url": "https://lannuaire.service-public.fr/navigation/msa"
+      },
+      {
+        "id": "822182ccc67b17ff5ef807912e790548a87d0718",
+        "name": "plateforme_daccompagnement_et_de_repit_pour_les_aidants_de_personnes_agees",
+        "title": "Plateforme d'accompagnement et de répit pour les aidants de personnes âgées",
+        "url": "https://lannuaire.service-public.fr/navigation/accompagnement_personnes_agees"
+      },
+      {
+        "id": "3a85f9a73cbd2dadd00470ea99f58b1c3e8df10b",
+        "name": "point_dinformation_local_dedie_aux_personnes_agees",
+        "title": "Point d'information local dédié aux personnes âgées",
+        "url": "https://lannuaire.service-public.fr/navigation/clic"
+      },
+      {
+        "id": "bc1d985ce1bfcdc05cea88d49e446e95c6f06ddb",
+        "name": "point_info_famille",
+        "title": "Point info famille",
+        "url": "https://lannuaire.service-public.fr/navigation/pif"
+      },
+      {
+        "id": "407617573f844a5f9c52a72bd7a203ec3fcc1f75",
+        "alternateName": "URSSAF",
+        "name": "union_de_recouvrement_des_cotisations_de_securite_sociale_et_dallocations_familiales",
+        "title": "Union de recouvrement des cotisations de sécurité sociale et d’allocations familiales",
+        "url": "https://lannuaire.service-public.fr/navigation/urssaf"
+      }
+    ]
+  },
+  {
+    "id": "b55d0de814d2cc2df4d23175790210303bb11267",
+    "name": "travail_emploi_formation",
+    "title": "Travail, emploi, formation",
+    "types": [
+      {
+        "id": "5c5e10433721277ed13ba3cbf1909e582e6314e0",
+        "alternateName": "Afpa",
+        "name": "agence_nationale_pour_la_formation_professionnelle_des_adultes",
+        "title": "Agence nationale pour la formation professionnelle des adultes",
+        "url": "https://lannuaire.service-public.fr/navigation/afpa"
+      },
+      {
+        "id": "f999722a3384e431e0bc45df4dcad62df368a330",
+        "alternateName": "Apec",
+        "name": "association_pour_lemploi_des_cadres",
+        "title": "Association pour l'emploi des cadres",
+        "url": "https://lannuaire.service-public.fr/navigation/apec"
+      },
+      {
+        "id": "f1d1b81401eaf6e796a43e36474d49434c349fe9",
+        "alternateName": "Apecita",
+        "name": "association_pour_lemploi_des_cadres_ingenieurs_et_techniciens_de_lagriculture_et_de_lagroalimentaire",
+        "title": "Association pour l'emploi des cadres, ingénieurs et techniciens de l'agriculture et de l'agroalimentaire",
+        "url": "https://lannuaire.service-public.fr/navigation/apecita"
+      },
+      {
+        "id": "a627cca283676c59a9e52910b758b9cf6d139c87",
+        "name": "cap_emploi",
+        "title": "Cap emploi",
+        "url": "https://lannuaire.service-public.fr/navigation/cap_emploi"
+      },
+      {
+        "id": "8c656b36a82cfad327d2f36988591bc56e8342fd",
+        "alternateName": "CCI",
+        "name": "chambre_de_commerce_et_dindustrie",
+        "title": "Chambre de commerce et d’industrie",
+        "url": "https://lannuaire.service-public.fr/navigation/cci"
+      },
+      {
+        "id": "110d7b74e45da7730ec94b9cbc9ee35b961b7fe5",
+        "name": "chambre_de_lagriculture",
+        "title": "Chambre de l'agriculture",
+        "url": "https://lannuaire.service-public.fr/navigation/chambre_agriculture"
+      },
+      {
+        "id": "a3244d5afeed41526c3b031b01f9ff876d3e1cbf",
+        "alternateName": "CMA",
+        "name": "chambre_des_metiers_et_de_lartisanat",
+        "title": "Chambre des métiers et de l'artisanat",
+        "url": "https://lannuaire.service-public.fr/navigation/chambre_metier"
+      },
+      {
+        "id": "84ffc8727e1a9feee49a267f34aaa8c8b9920bf5",
+        "alternateName": "DIRECCTE",
+        "name": "direction_regionale_des_entreprises_de_la_concurrence_de_la_consommation_du_travail_et_de_lemploi",
+        "title": "Direction régionale des entreprises, de la concurrence, de la consommation, du travail et de l'emploi",
+        "url": "https://lannuaire.service-public.fr/navigation/direccte"
+      },
+      {
+        "id": "84ffc8727e1a9feee49a267f34aaa8c8b9920bf5",
+        "alternateName": "DIRECCTE",
+        "name": "direction_regionale_des_entreprises_de_la_concurrence_de_la_consommation_du_travail_et_de_lemploi",
+        "title": "Direction régionale des entreprises, de la concurrence, de la consommation, du travail et de l'emploi",
+        "url": "https://lannuaire.service-public.fr/navigation/direccte_ut"
+      },
+      {
+        "id": "c81dfc4c7a4830c658a39cfb58a908b518518131",
+        "alternateName": "EPIDE",
+        "name": "etablissement_pour_linsertion_dans_lemploi",
+        "title": "Etablissement pour l'insertion dans l'emploi",
+        "url": "https://lannuaire.service-public.fr/navigation/epide"
+      },
+      {
+        "id": "048123b09f6bd42ae9bf9c5c871182d7847599c5",
+        "name": "france_services_et_maison_de_services_au_public",
+        "title": "France Services et Maison de services au public",
+        "url": "https://lannuaire.service-public.fr/navigation/msap"
+      },
+      {
+        "id": "272795a0a6b763648f786ae75fdcd1b17fd726e1",
+        "alternateName": "16-25 ans",
+        "name": "mission_locale_pour_linsertion_professionnelle_et_sociale_des_jeunes",
+        "title": "Mission locale pour l'insertion professionnelle et sociale des jeunes",
+        "url": "https://lannuaire.service-public.fr/navigation/mission_locale"
+      },
+      {
+        "id": "f7653fa931f3e57d34b85103a30a8af7cd846791",
+        "name": "pole_emploi",
+        "title": "Pôle emploi",
+        "url": "https://lannuaire.service-public.fr/navigation/pole_emploi"
+      }
+    ]
+  },
+  {
+    "id": "99416de5023fec0be9a716229b90f62b8ab399b6",
+    "name": "economie_finances_consommation",
+    "title": "Économie, finances, consommation",
+    "types": [
+      {
+        "id": "f761ac26e4208258cae1a6d2b0d4ee24a1a4525b",
+        "alternateName": "succursale",
+        "name": "banque_de_france",
+        "title": "Banque de France",
+        "url": "https://lannuaire.service-public.fr/navigation/banque_de_france"
+      },
+      {
+        "id": "7cdbaa5cd84354635d513e7fd258f2974a9fefad",
+        "name": "bureau_de_douane",
+        "title": "Bureau de douane",
+        "url": "https://lannuaire.service-public.fr/navigation/bureau_de_douane"
+      },
+      {
+        "id": "0a85158397d154d6226958a80b29dbf1772dd3c2",
+        "name": "cadastre",
+        "title": "Cadastre",
+        "url": "https://lannuaire.service-public.fr/navigation/cadastre"
+      },
+      {
+        "id": "e3a025125b96b7747583d667c10e4eeb4c8ac49e",
+        "name": "centre_des_impots_foncier",
+        "title": "Centre des impôts foncier",
+        "url": "https://lannuaire.service-public.fr/navigation/centre_impots_fonciers"
+      },
+      {
+        "id": "a4fed5b792f635d0b6fcdfab620c4bb21fba385f",
+        "name": "conciliateur_fiscal_departemental",
+        "title": "Conciliateur fiscal départemental",
+        "url": "https://lannuaire.service-public.fr/navigation/conciliateur_fiscal"
+      },
+      {
+        "id": "0b665c0947beb9695754aefe8ca3619e169958e6",
+        "name": "credit_municipal",
+        "title": "Crédit municipal",
+        "url": "https://lannuaire.service-public.fr/navigation/credit_municipal"
+      },
+      {
+        "id": "b361673ec617d6e7e92d21582c4f7cdcc89f3c42",
+        "alternateName": "DDCSPP",
+        "name": "direction_departementale_de_la_cohesion_sociale_et_de_la_protection_des_populations",
+        "title": "Direction départementale de la cohésion sociale et de la protection des populations",
+        "url": "https://lannuaire.service-public.fr/navigation/ddcspp"
+      },
+      {
+        "id": "bde57aa5232bd10e2922ccdd57616a3b2b6c2b1f",
+        "alternateName": "DDPP",
+        "name": "direction_departementale_de_la_protection_des_populations",
+        "title": "Direction départementale de la protection des populations",
+        "url": "https://lannuaire.service-public.fr/navigation/ddpp"
+      },
+      {
+        "id": "26745f5408b53d5f43cdb49119be3f5a2789f12f",
+        "alternateName": "DDFIP",
+        "name": "direction_departementale_des_finances_publiques",
+        "title": "Direction départementale des finances publiques",
+        "url": "https://lannuaire.service-public.fr/navigation/dd_fip"
+      },
+      {
+        "id": "c3cfe16186db17fcf3b4d5f61306cb184a45e336",
+        "alternateName": "DRAAF",
+        "name": "direction_regionale_de_lalimentation_de_lagriculture_et_de_la_foret",
+        "title": "Direction régionale de l'alimentation, de l'agriculture et de la forêt",
+        "url": "https://lannuaire.service-public.fr/navigation/draf"
+      },
+      {
+        "id": "2d39fcbb328986e370924a6fc950c594bce51ccd",
+        "name": "direction_regionale_de_l_insee",
+        "title": "Direction régionale de l'INSEE",
+        "url": "https://lannuaire.service-public.fr/navigation/dr_insee"
+      },
+      {
+        "id": "89c176693a86e8a642b4dffd7dec59f3e54c030c",
+        "name": "direction_regionale_des_douanes_et_droits_indirects",
+        "title": "Direction régionale des douanes et droits indirects",
+        "url": "https://lannuaire.service-public.fr/navigation/drddi"
+      },
+      {
+        "id": "1107a0d33ae0ae1dc6765b28c222f352c455309e",
+        "alternateName": "DRFIP",
+        "name": "direction_regionale_des_finances_publiques",
+        "title": "Direction régionale des finances publiques",
+        "url": "https://lannuaire.service-public.fr/navigation/dr_fip"
+      },
+      {
+        "id": "ce5f0fe010639e36c420b8d83dd0f060aa8930d2",
+        "name": "direction_specialisee_du_controle_fiscal",
+        "title": "Direction spécialisée du contrôle fiscal",
+        "url": "https://lannuaire.service-public.fr/navigation/dcf"
+      },
+      {
+        "id": "6dc9b5e5e9a0a63d6804877f6ab2620d1420e030",
+        "name": "paierie_departementale",
+        "title": "Paierie départementale",
+        "url": "https://lannuaire.service-public.fr/navigation/paierie_departementale"
+      },
+      {
+        "id": "14499ee38235f8854cc0c894535ee4d783cc44f2",
+        "name": "paierie_regionale",
+        "title": "Paierie régionale",
+        "url": "https://lannuaire.service-public.fr/navigation/paierie_regionale"
+      },
+      {
+        "id": "5821961e9fab14e94e82e53615c2aa75888ef455",
+        "name": "point_conseil_budget",
+        "title": "Point conseil budget",
+        "url": "https://lannuaire.service-public.fr/navigation/pcb"
+      },
+      {
+        "id": "6a10fc50f062ecbb851501df654db130ac7b2db7",
+        "name": "pole_de_recouvrement_specialise",
+        "title": "Pôle de recouvrement spécialisé",
+        "url": "https://lannuaire.service-public.fr/navigation/prs"
+      },
+      {
+        "id": "0740e296efeb07cffd27b4bb19e14fea1cf69767",
+        "name": "service_de_la_publicite_fonciere",
+        "title": "Service de la publicité foncière",
+        "url": "https://lannuaire.service-public.fr/navigation/hypotheque"
+      },
+      {
+        "id": "e0715c9b5874ffae43204c0bf620dcfac1c88766",
+        "name": "service_departemental_de_lenregistrement",
+        "title": "Service départemental de l'enregistrement",
+        "url": "https://lannuaire.service-public.fr/navigation/sde"
+      },
+      {
+        "id": "0a089d3f3f36cdec447396df1be2dc3389d90e30",
+        "alternateName": "SIE",
+        "name": "service_des_impots_des_entreprises",
+        "title": "Service des impôts des entreprises",
+        "url": "https://lannuaire.service-public.fr/navigation/sie"
+      },
+      {
+        "id": "5f59f97e50eea1ebce601fdfac475b5acec166cf",
+        "alternateName": "SIP",
+        "name": "service_des_impots_des_particuliers",
+        "title": "Service des impôts des particuliers",
+        "url": "https://lannuaire.service-public.fr/navigation/sip"
+      },
+      {
+        "id": "e0e75da7e7f6124fb0b5ecbcfb4e5cf40a329215",
+        "name": "tresorerie",
+        "title": "Trésorerie",
+        "url": "https://lannuaire.service-public.fr/navigation/tresorerie"
+      }
+    ]
+  },
+  {
+    "id": "fced6951d8ea64a3820f8e757048849804d759a9",
+    "name": "enseignement_recherche",
+    "title": "Enseignement, recherche",
+    "types": [
+      {
+        "id": "a21bfa9af450216ccd2db95ef2d560ccacb493a6",
+        "alternateName": "CIO",
+        "name": "centre_dinformation_et_dorientation",
+        "title": "Centre d'information et d’orientation",
+        "url": "https://lannuaire.service-public.fr/navigation/cio"
+      },
+      {
+        "id": "29ccd6714c00758dd1a6f84ae699028f449115ad",
+        "alternateName": "CREPS",
+        "name": "centre_de_ressources_dexpertise_et_de_performances_sportives",
+        "title": "Centre de ressources, d'expertise et de performances sportives",
+        "url": "https://lannuaire.service-public.fr/navigation/creps"
+      },
+      {
+        "id": "e4fc7af0f69a9d0a3d9b77d35e9cdf58edc27a4c",
+        "alternateName": "CROUS",
+        "name": "centre_regional_des_oeuvres_universitaires_et_scolaires",
+        "title": "Centre régional des œuvres universitaires et scolaires",
+        "url": "https://lannuaire.service-public.fr/navigation/crous"
+      },
+      {
+        "id": "773748ac0977679000cf542dad7408b9f1c89d06",
+        "alternateName": "DSDEN",
+        "name": "direction_de_services_departementaux_de_l_education_nationale",
+        "title": "Direction de services départementaux de l'Éducation nationale",
+        "url": "https://lannuaire.service-public.fr/navigation/inspection_academique"
+      },
+      {
+        "id": "bc17d345533f694a097e0ed58131d1be45dafe7d",
+        "alternateName": "GRETA",
+        "name": "groupement_detablissements_publics_denseignement",
+        "title": "Groupement d'établissements publics d'enseignement",
+        "url": "https://lannuaire.service-public.fr/navigation/greta"
+      },
+      {
+        "id": "66501ccfecc784f20758be6b8a264184687044d4",
+        "alternateName": "INSPÉ",
+        "name": "institut_national_superieur_du_professorat_et_de_leducation",
+        "title": "Institut national supérieur du professorat et de l’éducation",
+        "url": "https://lannuaire.service-public.fr/navigation/espe"
+      },
+      {
+        "id": "04a6924104ccd8263461d61ad77fc5dcf329dece",
+        "alternateName": "ONISEP",
+        "name": "office_national_dinformation_sur_les_enseignements_et_les_professions",
+        "title": "Office national d'information sur les enseignements et les professions",
+        "url": "https://lannuaire.service-public.fr/navigation/dronisep"
+      },
+      {
+        "id": "3d2fa3611b015e61e9e8db1783730c3070d5d917",
+        "name": "rectorat",
+        "title": "Rectorat",
+        "url": "https://lannuaire.service-public.fr/navigation/rectorat"
+      },
+      {
+        "id": "19e4fe0e54723e386566a2e46006d535f8b95f9e",
+        "name": "reseau_canope_atelier_departemental",
+        "title": "Réseau Canopé - atelier départemental",
+        "url": "https://lannuaire.service-public.fr/navigation/canope_atelier"
+      },
+      {
+        "id": "ce6b599d6d4651ad4098db29334e55ca8de1b057",
+        "name": "reseau_canope_direction_territoriale",
+        "title": "Réseau Canopé - direction territoriale",
+        "url": "https://lannuaire.service-public.fr/navigation/canope_dt"
+      },
+      {
+        "id": "fdc951a0869dce1f29e69618f56db4ce8182b1c1",
+        "alternateName": "SUIO",
+        "name": "service_universitaire_dinformation_et_dorientation",
+        "title": "Service universitaire d'information et d'orientation",
+        "url": "https://lannuaire.service-public.fr/navigation/suio"
+      }
+    ]
+  },
+  {
+    "id": "7f6f1f3bca3a8d8a431d93ca51d4f84d7abe9035",
+    "name": "environnement_logement_transports",
+    "title": "Environnement, logement, transports",
+    "types": [
+      {
+        "id": "9ec388eb84d0b89e6f1703e4ab08ac2fb3a1429a",
+        "alternateName": "ADEME",
+        "name": "agence_de_lenvironnement_et_de_la_maitrise_de_lenergie",
+        "title": "Agence de l’environnement et de la maîtrise de l’énergie",
+        "url": "https://lannuaire.service-public.fr/navigation/ademe"
+      },
+      {
+        "id": "b29d1cc829015385293cb29398f042e09a0776b9",
+        "alternateName": "ADIL",
+        "name": "agence_departementale_dinformation_sur_le_logement",
+        "title": "Agence départementale d'information sur le logement",
+        "url": "https://lannuaire.service-public.fr/navigation/adil"
+      },
+      {
+        "id": "54477b9915c1b5b5ebfe049c73c18c5476b44266",
+        "alternateName": "ANAH",
+        "name": "agence_nationale_de_lhabitat",
+        "title": "Agence nationale de l’habitat",
+        "url": "https://lannuaire.service-public.fr/navigation/anah"
+      },
+      {
+        "id": "0f24dba9e7ade9c8657386337b87fc49c19ea9c9",
+        "alternateName": "CEREMA",
+        "name": "centre_detudes_et_dexpertise_sur_les_risques_lenvironnement_la_mobilite_et_lamenagement",
+        "title": "Centre d'études et d'expertise sur les risques, l'environnement, la mobilité et l'aménagement",
+        "url": "https://lannuaire.service-public.fr/navigation/cerema"
+      },
+      {
+        "id": "2021fa21e42e98800eda5d8e496748161263c833",
+        "alternateName": "CRNA",
+        "name": "centre_en_route_de_la_navigation_aerienne",
+        "title": "Centre en route de la navigation aérienne",
+        "url": "https://lannuaire.service-public.fr/navigation/cnra"
+      },
+      {
+        "id": "8294c1e4c0040668281f8b7494559343f3cae067",
+        "alternateName": "DML",
+        "name": "delegation_a_la_mer_et_au_littoral",
+        "title": "Délégation à la mer et au littoral",
+        "url": "https://lannuaire.service-public.fr/navigation/dml"
+      },
+      {
+        "id": "fd44e62891199bd15fe93f7c8fd90d8a91d67d6b",
+        "alternateName": "DDT",
+        "name": "direction_departementale_des_territoires",
+        "title": "Direction départementale des territoires",
+        "url": "https://lannuaire.service-public.fr/navigation/ddt"
+      },
+      {
+        "id": "45c5769d63c9ed70af8322ef35a9a770bb8f3f52",
+        "alternateName": "DTAM",
+        "name": "direction_des_territoires_de_lalimentation_et_de_la_mer",
+        "title": "Direction des territoires, de l'alimentation et de la mer",
+        "url": "https://lannuaire.service-public.fr/navigation/dtam"
+      },
+      {
+        "id": "197ebd31dc1abaf8c7e6e3d434ea618b0b00bb9a",
+        "alternateName": "DIR",
+        "name": "direction_interdepartementale_des_routes",
+        "title": "Direction interdépartementale des routes",
+        "url": "https://lannuaire.service-public.fr/navigation/did_routes"
+      },
+      {
+        "id": "806278638fb01aa60bd198c528b40407804b3eaf",
+        "name": "direction_interregionale_de_la_mer",
+        "title": "Direction interrégionale de la mer",
+        "url": "https://lannuaire.service-public.fr/navigation/dir_mer"
+      },
+      {
+        "id": "eeeb908011997dd18d193f875f0d946bf91e7425",
+        "name": "direction_interregionale_de_meteo_france",
+        "title": "Direction interrégionale de Météo-France",
+        "url": "https://lannuaire.service-public.fr/navigation/dir_meteo"
+      },
+      {
+        "id": "c3cfe16186db17fcf3b4d5f61306cb184a45e336",
+        "alternateName": "DRAAF",
+        "name": "direction_regionale_de_lalimentation_de_lagriculture_et_de_la_foret",
+        "title": "Direction régionale de l'alimentation, de l'agriculture et de la forêt",
+        "url": "https://lannuaire.service-public.fr/navigation/draf"
+      },
+      {
+        "id": "36e7b4f91f0479aca9e0e6583b6bb6cc0d8e3cfa",
+        "alternateName": "DREAL",
+        "name": "direction_regionale_de_lenvironnement_de_lamenagement_et_du_logement",
+        "title": "Direction régionale de l'environnement, de l'aménagement et du logement",
+        "url": "https://lannuaire.service-public.fr/navigation/dreal"
+      },
+      {
+        "id": "36e7b4f91f0479aca9e0e6583b6bb6cc0d8e3cfa",
+        "alternateName": "DREAL",
+        "name": "direction_regionale_de_lenvironnement_de_lamenagement_et_du_logement",
+        "title": "Direction régionale de l'environnement, de l'aménagement et du logement",
+        "url": "https://lannuaire.service-public.fr/navigation/dreal_ut"
+      },
+      {
+        "id": "e650e0316a68e5d6245d675590fc96286df036b6",
+        "alternateName": "DRIEA",
+        "name": "direction_regionale_et_interdepartementale_de_lequipement_et_de_lamenagement",
+        "title": "Direction régionale et interdépartementale de l'équipement et de l'aménagement",
+        "url": "https://lannuaire.service-public.fr/navigation/driea"
+      },
+      {
+        "id": "e650e0316a68e5d6245d675590fc96286df036b6",
+        "alternateName": "DRIEA",
+        "name": "direction_regionale_et_interdepartementale_de_lequipement_et_de_lamenagement",
+        "title": "Direction régionale et interdépartementale de l'équipement et de l'aménagement",
+        "url": "https://lannuaire.service-public.fr/navigation/driea_ut"
+      },
+      {
+        "id": "04c98e91ed2228b61181aca515b268bd6b9d52f7",
+        "alternateName": "DRIHL",
+        "name": "direction_regionale_et_interdepartementale_de_lhebergement_et_du_logement",
+        "title": "Direction régionale et interdépartementale de l'hébergement et du logement",
+        "url": "https://lannuaire.service-public.fr/navigation/drihl"
+      },
+      {
+        "id": "04c98e91ed2228b61181aca515b268bd6b9d52f7",
+        "alternateName": "DRIHL",
+        "name": "direction_regionale_et_interdepartementale_de_lhebergement_et_du_logement",
+        "title": "Direction régionale et interdépartementale de l'hébergement et du logement",
+        "url": "https://lannuaire.service-public.fr/navigation/drihl_ut"
+      },
+      {
+        "id": "b171b0d1289c256fa4ad1ecf5e7ccf67e1c01024",
+        "alternateName": "ONF",
+        "name": "office_national_des_forets",
+        "title": "Office national des forêts",
+        "url": "https://lannuaire.service-public.fr/navigation/onf"
+      },
+      {
+        "id": "c98e443f26fe3fa976cabeece5920513d25413b2",
+        "alternateName": "SAFER",
+        "name": "societe_damenagement_foncier_et_detablissement_rural",
+        "title": "Société d'aménagement foncier et d'établissement rural",
+        "url": "https://lannuaire.service-public.fr/navigation/safer"
+      },
+      {
+        "id": "0fd0947315c1431780d7017d1b864afa69775116",
+        "alternateName": "VNF",
+        "name": "voies_navigables_de_france",
+        "title": "Voies navigables de France",
+        "url": "https://lannuaire.service-public.fr/navigation/service_navigation"
+      }
+    ]
+  },
+  {
+    "id": "d0436ccf34e37a2a110c6a3b4eca8dd2dda04ecf",
+    "name": "securite_defense",
+    "title": "Sécurité, défense",
+    "types": [
+      {
+        "id": "4b5a397512c1f6f7cdb4b8f20a9a40d8eef25658",
+        "name": "brigade_de_gendarmerie",
+        "title": "Brigade de gendarmerie",
+        "url": "https://lannuaire.service-public.fr/navigation/gendarmerie"
+      },
+      {
+        "id": "6380e176e8e2c753f937dbb69d828f4994db78c7",
+        "name": "brigade_motorisee_de_gendarmerie",
+        "title": "Brigade motorisée de gendarmerie",
+        "url": "https://lannuaire.service-public.fr/navigation/gendarmerie_moto"
+      },
+      {
+        "id": "28de45ec54b8cf4ac5cfb062d82062d7eeeee4d9",
+        "alternateName": "CIR",
+        "name": "centre_dinformation_et_de_recrutement",
+        "title": "Centre d'information et de recrutement",
+        "url": "https://lannuaire.service-public.fr/navigation/cirgn"
+      },
+      {
+        "id": "eda8651ea07238295ee0617e75d58d129ca58518",
+        "alternateName": "CIRFA",
+        "name": "centre_dinformation_et_de_recrutement_des_forces_armees",
+        "title": "Centre d'information et de recrutement des forces armées",
+        "url": "https://lannuaire.service-public.fr/navigation/cirfa"
+      },
+      {
+        "id": "24b4bb9d6dac6ed3dd585cd0c0d7b67392546de8",
+        "alternateName": "CRFPN",
+        "name": "centre_de_recrutement_et_de_formation_de_la_police_nationale",
+        "title": "Centre de recrutement et de formation de la police nationale",
+        "url": "https://lannuaire.service-public.fr/navigation/crfpn"
+      },
+      {
+        "id": "7f5164ad9e1c6d5b5a5a3b3917bfdd499f652e66",
+        "name": "centre_du_service_national",
+        "title": "Centre du Service national",
+        "url": "https://lannuaire.service-public.fr/navigation/bsn"
+      },
+      {
+        "id": "3fc9bc298f4592a957d2f3dc24ce85504f3c6538",
+        "name": "commissariat_de_police",
+        "title": "Commissariat de police",
+        "url": "https://lannuaire.service-public.fr/navigation/commissariat_police"
+      },
+      {
+        "id": "5da5e0f44e5f00d70d4e24a0d549c6307953d96f",
+        "name": "delegation_militaire_departementale",
+        "title": "Délégation militaire départementale",
+        "url": "https://lannuaire.service-public.fr/navigation/dmd"
+      },
+      {
+        "id": "2e56ebe4798e95501b505ca647fc80175e6684bf",
+        "name": "direction_de_la_police_aux_frontieres",
+        "title": "Direction de la police aux frontières",
+        "url": "https://lannuaire.service-public.fr/navigation/dz_paf"
+      },
+      {
+        "id": "b13583957b816bda5b9a5b6538d7942f31405409",
+        "alternateName": "DDSP",
+        "name": "direction_departementale_de_la_securite_publique",
+        "title": "Direction départementale de la sécurité publique",
+        "url": "https://lannuaire.service-public.fr/navigation/ddsp"
+      },
+      {
+        "id": "233f971c76cde7be7999d2b4d7e49786fd4be51b",
+        "alternateName": "DRPJ",
+        "name": "direction_regionale_de_la_police_judiciaire",
+        "title": "Direction régionale de la police judiciaire",
+        "url": "https://lannuaire.service-public.fr/navigation/dir_pj"
+      },
+      {
+        "id": "5cb105dc17e6840702063f21d241ca9533bdc22e",
+        "name": "direction_territoriale_de_la_police_nationale",
+        "title": "Direction territoriale de la police nationale",
+        "url": "https://lannuaire.service-public.fr/navigation/direction_territoriale_police"
+      },
+      {
+        "id": "1e57a51944a4549c68052578ed5732c40e7d645c",
+        "name": "groupement_de_gendarmerie_departementale",
+        "title": "Groupement de gendarmerie départementale",
+        "url": "https://lannuaire.service-public.fr/navigation/gendarmerie_departementale"
+      },
+      {
+        "id": "8ae60e9a65ea21d12833ce962ad42a4051decd95",
+        "alternateName": "ONACVG",
+        "name": "office_national_des_anciens_combattants_et_victimes_de_guerre",
+        "title": "Office national des anciens combattants et victimes de guerre",
+        "url": "https://lannuaire.service-public.fr/navigation/onac"
+      },
+      {
+        "id": "801b878e46cff0095c6225fef23764787a301ab6",
+        "name": "prefecture_de_police_de_paris",
+        "title": "Préfecture de police de Paris",
+        "url": "https://lannuaire.service-public.fr/navigation/paris_ppp"
+      },
+      {
+        "id": "df249a04503a2b07c1766b8f1b7444a697e5ab81",
+        "name": "prefecture_de_police_de_paris_antennes_darrondissements",
+        "title": "Préfecture de police de Paris, antennes d'arrondissements",
+        "url": "https://lannuaire.service-public.fr/navigation/paris_ppp_antenne"
+      },
+      {
+        "id": "6effbdee51c51109ad7a7962468923ef8e12d657",
+        "name": "prefecture_de_police_des_bouches_du_rhone",
+        "title": "Préfecture de police des Bouches-du-Rhône",
+        "url": "https://lannuaire.service-public.fr/navigation/pp_marseille"
+      },
+      {
+        "id": "3914e9f809a63923fa769064801e8fb9d91d9059",
+        "alternateName": "SGAMI",
+        "name": "secretariat_general_pour_ladministration_du_ministere_de_l_interieur",
+        "title": "Secrétariat général pour l'administration du ministère de l'Intérieur",
+        "url": "https://lannuaire.service-public.fr/navigation/sgami"
+      },
+      {
+        "id": "35c95aa374d6a5f8f0673c3e1e994c7b66b85b99",
+        "alternateName": "SDIS",
+        "name": "service_departemental_dincendie_et_de_secours",
+        "title": "Service départemental d'incendie et de secours",
+        "url": "https://lannuaire.service-public.fr/navigation/sdis"
+      }
+    ]
+  },
+  {
+    "id": "3f3c25716f8be066e674a7e4e38f4b7c9ce72e80",
+    "name": "droit_justice",
+    "title": "Droit, justice",
+    "types": [
+      {
+        "id": "b15f871e6c55dbffc4dc882a5755301420553a56",
+        "name": "bureau_daide_aux_victimes",
+        "title": "Bureau d'aide aux victimes",
+        "url": "https://lannuaire.service-public.fr/navigation/bav"
+      },
+      {
+        "id": "e03822b0a6bb8ee7c7e35ea1d0baaf18b3d9a9e3",
+        "name": "chambre_departementale_des_huissiers_de_justice",
+        "title": "Chambre départementale des huissiers de justice",
+        "url": "https://lannuaire.service-public.fr/navigation/huissiers_justice"
+      },
+      {
+        "id": "d878db99b5c269f2f5a70d3cd51957fb78779ad9",
+        "name": "chambre_departementale_des_notaires",
+        "title": "Chambre départementale des notaires",
+        "url": "https://lannuaire.service-public.fr/navigation/chambre_notaires"
+      },
+      {
+        "id": "2afca13a1006567323d1433fd6e2011c595ab14c",
+        "alternateName": "Civi",
+        "name": "commission_dindemnisation_des_victimes_dinfraction",
+        "title": "Commission d'indemnisation des victimes d'infraction",
+        "url": "https://lannuaire.service-public.fr/navigation/civi"
+      },
+      {
+        "id": "2424784af09fc2df445f56545e9abd6f9d7e4936",
+        "name": "commission_departementale_de_conciliation",
+        "title": "Commission départementale de conciliation",
+        "url": "https://lannuaire.service-public.fr/navigation/commission_conciliation"
+      },
+      {
+        "id": "d78642ff16d895ca085920f3eb513a54a692e8f3",
+        "name": "conseil_de_prudhommes",
+        "title": "Conseil de Prud'hommes",
+        "url": "https://lannuaire.service-public.fr/navigation/prudhommes"
+      },
+      {
+        "id": "5914c3f48f65d7d6b68dbdecbe8e8e5a296dd27f",
+        "alternateName": "CDAD",
+        "name": "conseil_departemental_dacces_au_droit",
+        "title": "Conseil départemental d'accès au droit",
+        "url": "https://lannuaire.service-public.fr/navigation/cdad"
+      },
+      {
+        "id": "52987c2130bf603433ed10f637f35b449dc917f3",
+        "name": "cour_administrative_dappel",
+        "title": "Cour administrative d'appel",
+        "url": "https://lannuaire.service-public.fr/navigation/caa"
+      },
+      {
+        "id": "cbc06007df0677714a7e917d9445151e7c9fd73d",
+        "name": "cour_criminelle_departementale",
+        "title": "Cour criminelle départementale",
+        "url": "https://lannuaire.service-public.fr/navigation/ccd"
+      },
+      {
+        "id": "fea88f42f0a080b67729e3556c669de3bd199edf",
+        "name": "cour_dappel",
+        "title": "Cour d'appel",
+        "url": "https://lannuaire.service-public.fr/navigation/cour_appel"
+      },
+      {
+        "id": "a29c6607b261ef14c4cb84db45d4ed0df4c6e886",
+        "alternateName": "DDDFE",
+        "name": "delegation_departementale_aux_droits_des_femmes_et_a_legalite",
+        "title": "Délégation départementale aux droits des femmes et à l'égalité",
+        "url": "https://lannuaire.service-public.fr/navigation/dd_femmes"
+      },
+      {
+        "id": "36b48f73de70ad5a11115c10eda02fd920235f64",
+        "alternateName": "DRDFE",
+        "name": "delegation_regionale_aux_droits_des_femmes_et_a_legalite",
+        "title": "Délégation régionale aux droits des femmes et à l'égalité",
+        "url": "https://lannuaire.service-public.fr/navigation/dr_femmes"
+      },
+      {
+        "id": "d430f0ac122f383ab70ea7852e41e8dd648cc911",
+        "alternateName": "DIRPJJ",
+        "name": "direction_interregionale_de_la_protection_judiciaire_de_la_jeunesse",
+        "title": "Direction interrégionale de la protection judiciaire de la jeunesse",
+        "url": "https://lannuaire.service-public.fr/navigation/drpjj"
+      },
+      {
+        "id": "0d1b5da4c6eea4c6b204964d370c327918c3ff4d",
+        "alternateName": "DISP",
+        "name": "direction_interregionale_des_services_penitentiaires",
+        "title": "Direction interrégionale des services pénitentiaires",
+        "url": "https://lannuaire.service-public.fr/navigation/drsp"
+      },
+      {
+        "id": "897af1627fee0dd309f32d91f275c8ca34a041e9",
+        "alternateName": "OFII",
+        "name": "direction_territoriale_de_l_office_francais_de_limmigration_et_de_lintegration",
+        "title": "Direction territoriale de l'Office français de l'immigration et de l'intégration",
+        "url": "https://lannuaire.service-public.fr/navigation/ofii"
+      },
+      {
+        "id": "dde6b5e7bf0421713ccd2fde4299a1e3cad4aeb9",
+        "alternateName": "DTPJJ",
+        "name": "direction_territoriale_de_la_protection_judiciaire_de_la_jeunesse",
+        "title": "Direction territoriale de la protection judiciaire de la jeunesse",
+        "url": "https://lannuaire.service-public.fr/navigation/ddpjj"
+      },
+      {
+        "id": "58aa8a4959ab6a5a2ae07b2f7a39854c45a23eb4",
+        "name": "etablissement_penitentiaire_centre_de_detention",
+        "title": "Établissement pénitentiaire - Centre de détention",
+        "url": "https://lannuaire.service-public.fr/navigation/centre_detention"
+      },
+      {
+        "id": "635a7b91831b62e592ea384fd7093f4fff83ad35",
+        "name": "etablissement_penitentiaire_centre_de_semi_liberte",
+        "title": "Établissement pénitentiaire - Centre de semi-liberté",
+        "url": "https://lannuaire.service-public.fr/navigation/csl"
+      },
+      {
+        "id": "aeda3efdfd8e86a3ef0413b8a496941a3aeb48b9",
+        "name": "etablissement_penitentiaire_centre_penitentiaire",
+        "title": "Établissement pénitentiaire - Centre pénitentiaire",
+        "url": "https://lannuaire.service-public.fr/navigation/centre_penitentiaire"
+      },
+      {
+        "id": "6e431fa785f64e60e366fe3eebd772724cfa073b",
+        "name": "etablissement_penitentiaire_maison_centrale",
+        "title": "Établissement pénitentiaire - Maison centrale",
+        "url": "https://lannuaire.service-public.fr/navigation/maison_centrale"
+      },
+      {
+        "id": "681e3b28f7bd7a8d4ddebd0e4e83d6fdbc4475ec",
+        "name": "etablissement_penitentiaire_maison_darret",
+        "title": "Établissement pénitentiaire - Maison d'arrêt",
+        "url": "https://lannuaire.service-public.fr/navigation/maison_arret"
+      },
+      {
+        "id": "e2fc50f8b0c7ec775a8e6dd5454fffd693096702",
+        "alternateName": "ESM",
+        "name": "etablissement_penitentiaire_specialise_pour_mineurs",
+        "title": "Établissement pénitentiaire spécialisé pour mineurs",
+        "url": "https://lannuaire.service-public.fr/navigation/esm"
+      },
+      {
+        "id": "a5d7c1600f0f322ce585df869a45c2187b2c86e1",
+        "name": "maison_de_justice_et_du_droit",
+        "title": "Maison de justice et du droit",
+        "url": "https://lannuaire.service-public.fr/navigation/mjd"
+      },
+      {
+        "id": "6d6d8956f3869672df939dbf1636909912b3ac0e",
+        "name": "ordre_des_avocats_barreau",
+        "title": "Ordre des avocats - Barreau",
+        "url": "https://lannuaire.service-public.fr/navigation/ordre_avocats"
+      },
+      {
+        "id": "f92e4a10f3c471a59f686db8fa4ed85d536fae15",
+        "name": "point_dacces_au_droit",
+        "title": "Point d'accès au droit",
+        "url": "https://lannuaire.service-public.fr/navigation/permanence_juridique"
+      },
+      {
+        "id": "2f4ec40045e413b7a28b4fe96dd7c7a01551dbd1",
+        "alternateName": "SPIP",
+        "name": "service_penitentiaire_dinsertion_et_de_probation",
+        "title": "Service pénitentiaire d'insertion et de probation",
+        "url": "https://lannuaire.service-public.fr/navigation/spip"
+      },
+      {
+        "id": "deb8d000ae464ffb6f0e3d4bcc013c5494654527",
+        "name": "tribunal_administratif",
+        "title": "Tribunal administratif",
+        "url": "https://lannuaire.service-public.fr/navigation/ta"
+      },
+      {
+        "id": "512550d8e573abdc217798a0946ddf9da0ba5656",
+        "name": "tribunal_de_commerce",
+        "title": "Tribunal de commerce",
+        "url": "https://lannuaire.service-public.fr/navigation/tribunal_commerce"
+      },
+      {
+        "id": "cebd56c85a4904acc69d0da6a5995229c6ea55da",
+        "name": "tribunal_de_proximite",
+        "title": "Tribunal de proximité",
+        "url": "https://lannuaire.service-public.fr/navigation/ti"
+      },
+      {
+        "id": "8895f13af2babcb57810315b36fe346263c3606a",
+        "name": "tribunal_judiciaire",
+        "title": "Tribunal judiciaire",
+        "url": "https://lannuaire.service-public.fr/navigation/tgi"
+      },
+      {
+        "id": "9729dc7067d7f0b64c3d2a6fca9079bd0f391e9b",
+        "name": "tribunal_pour_enfants",
+        "title": "Tribunal pour enfants",
+        "url": "https://lannuaire.service-public.fr/navigation/te"
+      }
+    ]
+  },
+  {
+    "id": "a6886a8295f78191ce74f987fd7973be10fb9ea6",
+    "name": "associations_culture_jeunesse",
+    "title": "Associations, culture, jeunesse",
+    "types": [
+      {
+        "id": "ec838c36ae362cfc1059a28f313ff0b95a4882dd",
+        "name": "archives_departementales",
+        "title": "Archives départementales",
+        "url": "https://lannuaire.service-public.fr/navigation/ad"
+      },
+      {
+        "id": "30896419f4581392b16c06b9b2d88926577e0a28",
+        "name": "bibliotheque_departementale_de_pret",
+        "title": "Bibliothèque départementale de prêt",
+        "url": "https://lannuaire.service-public.fr/navigation/bibli"
+      },
+      {
+        "id": "dcf8536df1a7a22b942b2299250434830bf895e0",
+        "alternateName": "Crib",
+        "name": "centre_de_ressources_et_dinformation_des_benevoles",
+        "title": "Centre de ressources et d'information des bénévoles",
+        "url": "https://lannuaire.service-public.fr/navigation/crib"
+      },
+      {
+        "id": "c98820b125903082484cc7175de8b346bb340407",
+        "alternateName": "CAUE",
+        "name": "conseil_darchitecture_durbanisme_et_de_lenvironnement",
+        "title": "Conseil d'architecture, d'urbanisme et de l'environnement",
+        "url": "https://lannuaire.service-public.fr/navigation/caue"
+      },
+      {
+        "id": "8d7671d787ee4d477ec44b9287fd03cabc01f06a",
+        "alternateName": "CCEE",
+        "name": "conseil_de_la_culture_de_leducation_et_de_lenvironnement",
+        "title": "Conseil de la culture, de l'éducation et de l'environnement",
+        "url": "https://lannuaire.service-public.fr/navigation/conseil_culture"
+      },
+      {
+        "id": "a6fa165b283713708474dcfbd4aed3db50b31adf",
+        "alternateName": "DDVA",
+        "name": "delegue_departemental_a_la_vie_associative",
+        "title": "Délégué départemental à la vie associative",
+        "url": "https://lannuaire.service-public.fr/navigation/ddva"
+      },
+      {
+        "id": "6ac8618b93789e7d307dec47443040498fbe5ccb",
+        "alternateName": "DDCS",
+        "name": "direction_departementale_de_la_cohesion_sociale",
+        "title": "Direction départementale de la cohésion sociale",
+        "url": "https://lannuaire.service-public.fr/navigation/ddcs"
+      },
+      {
+        "id": "b361673ec617d6e7e92d21582c4f7cdcc89f3c42",
+        "alternateName": "DDCSPP",
+        "name": "direction_departementale_de_la_cohesion_sociale_et_de_la_protection_des_populations",
+        "title": "Direction départementale de la cohésion sociale et de la protection des populations",
+        "url": "https://lannuaire.service-public.fr/navigation/ddcspp"
+      },
+      {
+        "id": "26e18930638845b3e174b1172241e51dd0cac790",
+        "alternateName": "DRJSCS",
+        "name": "direction_regionale_de_la_jeunesse_des_sports_et_de_la_cohesion_sociale",
+        "title": "Direction régionale de la jeunesse, des sports et de la cohésion sociale",
+        "url": "https://lannuaire.service-public.fr/navigation/drjscs"
+      },
+      {
+        "id": "46e068009a6cdd83a8dc641f0d1a1095d49cd8d5",
+        "alternateName": "DRAC",
+        "name": "direction_regionale_des_affaires_culturelles",
+        "title": "Direction régionale des affaires culturelles",
+        "url": "https://lannuaire.service-public.fr/navigation/drac"
+      },
+      {
+        "id": "2b5500c7a1e72d52c22e5414cc36eb331658a675",
+        "name": "federation_departementale_de_la_peche_et_de_la_protection_du_milieu_aquatique",
+        "title": "Fédération départementale de la pêche et de la protection du milieu aquatique",
+        "url": "https://lannuaire.service-public.fr/navigation/fdapp"
+      },
+      {
+        "id": "844b82e085fb6c2fdd3455d08cc1b2acbc4ab114",
+        "name": "federation_departementale_des_chasseurs",
+        "title": "Fédération départementale des chasseurs",
+        "url": "https://lannuaire.service-public.fr/navigation/fdc"
+      },
+      {
+        "id": "9bcb109242477efad1ce9908a281c3e20e9b9b67",
+        "name": "greffe_des_associations",
+        "title": "Greffe des associations",
+        "url": "https://lannuaire.service-public.fr/navigation/prefecture_greffe_associations"
+      },
+      {
+        "id": "0c96adaeb171ca4948d3e527d8560ffb6b0e0442",
+        "alternateName": "réseau local",
+        "name": "information_jeunesse",
+        "title": "Information jeunesse",
+        "url": "https://lannuaire.service-public.fr/navigation/cij"
+      },
+      {
+        "id": "fd112bc11c865236559342d6b996ac213dfa2d4f",
+        "alternateName": "MAIA",
+        "name": "mission_daccueil_et_dinformation_des_associations",
+        "title": "Mission d'accueil et d'information des associations",
+        "url": "https://lannuaire.service-public.fr/navigation/maia"
+      },
+      {
+        "id": "af7710ded246fa268d89d3c96941b9c971835bc4",
+        "alternateName": "UDAP",
+        "name": "unite_departementale_de_larchitecture_et_du_patrimoine",
+        "title": "Unité départementale de l'architecture et du patrimoine",
+        "url": "https://lannuaire.service-public.fr/navigation/sdac"
+      }
+    ]
+  }
+]

@@ -1,0 +1,1124 @@
+[
+  {
+    "id": "ed63c62759199fece9ec9fdd8f0415228799e5c3",
+    "name": "conseil_departemental_ain",
+    "title": "Conseil départemental - Ain",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/ain/cg-01053-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 74 32 32 32",
+      "url": "http://www.ain.fr"
+    }
+  },
+  {
+    "id": "036616665814eeab6403e94feae84225c93f19ee",
+    "name": "conseil_departemental_aisne",
+    "title": "Conseil départemental - Aisne",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/aisne/cg-02408-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 23 24 60 60",
+      "url": "http://www.aisne.com"
+    }
+  },
+  {
+    "id": "f3440f9e00bd3c4bd8b9c8f3b09c09e032dd0d6f",
+    "name": "conseil_departemental_allier",
+    "title": "Conseil départemental - Allier",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/allier/cg-03190-01",
+    "metadata": {
+      "email": "contact@allier.fr",
+      "telephone": "04 70 34 40 03",
+      "url": "http://www.allier.fr"
+    }
+  },
+  {
+    "id": "58679b59efab8b098c7c7da2c35d699393e9c684",
+    "name": "conseil_departemental_alpes_de_haute_provence",
+    "title": "Conseil départemental - Alpes-de-Haute-Provence",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/alpes-de-haute-provence/cg-04070-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 92 30 04 00",
+      "url": "http://www.mondepartement04.fr/accueil.html"
+    }
+  },
+  {
+    "id": "d45c4899b36f47462d2744097ff68867eddc6a03",
+    "name": "conseil_departemental_alpes_maritimes",
+    "title": "Conseil départemental - Alpes-Maritimes",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/alpes-maritimes/cg-06088-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 97 18 60 00",
+      "url": "https://www.departement06.fr/"
+    }
+  },
+  {
+    "id": "fe72a844131a6a25a16043542472cdfc653fbe44",
+    "name": "conseil_departemental_ardeche",
+    "title": "Conseil départemental - Ardèche",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/ardeche/cg-07186-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 75 66 77 07",
+      "url": "http://www.ardeche.fr"
+    }
+  },
+  {
+    "id": "b2917fba6acfcd0bfd59b1293983765ba7e316d7",
+    "name": "conseil_departemental_ardennes",
+    "title": "Conseil départemental - Ardennes",
+    "url": "https://lannuaire.service-public.fr/grand-est/ardennes/cg-08105-01",
+    "metadata": {
+      "email": "conseil-departemental-ardennes@cd08.fr",
+      "telephone": "03 24 59 60 60",
+      "url": "http://www.cd08.fr"
+    }
+  },
+  {
+    "id": "66ba4c6c2b7e95b510d8c5513a9784a658e51707",
+    "name": "conseil_departemental_ariege",
+    "title": "Conseil départemental - Ariège",
+    "url": "https://lannuaire.service-public.fr/occitanie/ariege/cg-09122-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 61 02 09 09",
+      "url": "http://www.ariege.fr/"
+    }
+  },
+  {
+    "id": "173cb49ad2bca102cc6acbcfc56df1ca70c5e72f",
+    "name": "conseil_departemental_aube",
+    "title": "Conseil départemental - Aube",
+    "url": "https://lannuaire.service-public.fr/grand-est/aube/cg-10387-01",
+    "metadata": {
+      "email": "departement@aube.fr",
+      "telephone": "03 25 42 50 50",
+      "url": "http://www.aube.fr/"
+    }
+  },
+  {
+    "id": "e6b06da0db734999506871f47f3210a101e35fb7",
+    "name": "conseil_departemental_aude",
+    "title": "Conseil départemental - Aude",
+    "url": "https://lannuaire.service-public.fr/occitanie/aude/cg-11069-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 68 11 68 11",
+      "url": "https://www.aude.fr/"
+    }
+  },
+  {
+    "id": "c7c5a30ea7bfcab2b77c0f9c77eb0112752947cc",
+    "name": "conseil_departemental_aveyron",
+    "title": "Conseil départemental - Aveyron",
+    "url": "https://lannuaire.service-public.fr/occitanie/aveyron/cg-12202-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 65 75 80 00",
+      "url": "https://aveyron.fr/"
+    }
+  },
+  {
+    "id": "cc80d80fc525d2b8483522b80259ed0d2b2f3f80",
+    "name": "conseil_departemental_bas_rhin",
+    "title": "Conseil départemental - Bas-Rhin",
+    "url": "https://lannuaire.service-public.fr/grand-est/bas-rhin/cg-67482-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 88 76 67 67",
+      "url": "http://www.bas-rhin.fr"
+    }
+  },
+  {
+    "id": "a7f211df3273133f36ca9654fe70840d9f92a65a",
+    "name": "conseil_departemental_bouches_du_rhone",
+    "title": "Conseil départemental - Bouches-du-Rhône",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/cg-13203-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 13 31 13 13",
+      "url": "https://www.departement13.fr/"
+    }
+  },
+  {
+    "id": "5caaf928dcf96d17e92aa1b9caf37d30677e275c",
+    "name": "conseil_departemental_calvados",
+    "title": "Conseil départemental - Calvados",
+    "url": "https://lannuaire.service-public.fr/normandie/calvados/cg-14118-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 31 57 14 14",
+      "url": "https://www.calvados.fr/accueil.html"
+    }
+  },
+  {
+    "id": "17cc9478065c496b6345817ee830142f0db8ebec",
+    "name": "conseil_departemental_cantal",
+    "title": "Conseil départemental - Cantal",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/cantal/cg-15014-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 71 46 20 20",
+      "url": "http://www.cantal.fr"
+    }
+  },
+  {
+    "id": "3b6cebe816d3d4d3bd4d3ff0dffa7c435104e48b",
+    "name": "conseil_departemental_charente",
+    "title": "Conseil départemental - Charente",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/charente/cg-16015-01",
+    "metadata": {
+      "email": "contact@lacharente.fr",
+      "telephone": "05 16 09 50 00",
+      "url": "https://www.lacharente.fr/"
+    }
+  },
+  {
+    "id": "fe5eaf85dd475bf07d1edbd44b46b40892eef3b7",
+    "name": "conseil_departemental_charente_maritime",
+    "title": "Conseil départemental - Charente-Maritime",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/charente-maritime/cg-17300-01",
+    "metadata": {
+      "email": "info@charente-maritime.fr",
+      "telephone": "05 46 31 70 00",
+      "url": "https://la.charente-maritime.fr/"
+    }
+  },
+  {
+    "id": "e4e5c0db63da9f57900dfa7aff37bfa1075ad7e1",
+    "name": "conseil_departemental_cher",
+    "title": "Conseil départemental - Cher",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/cher/cg-18033-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 48 27 80 00",
+      "url": "http://www.departement18.fr/"
+    }
+  },
+  {
+    "id": "9f4f4f5cd4d615c70142b428d674ef777a562df7",
+    "name": "conseil_departemental_correze",
+    "title": "Conseil départemental - Corrèze",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/correze/cg-19272-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 55 93 70 00",
+      "url": "http://www.correze.fr"
+    }
+  },
+  {
+    "id": "0b1a2b8b0f4ff1bf303960870a60f00854b6209e",
+    "name": "conseil_departemental_cote_d_or",
+    "title": "Conseil départemental - Côte-d'Or",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/cote-d-or/cg-21231-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 80 63 66 00",
+      "url": "http://www.cotedor.fr/cms"
+    }
+  },
+  {
+    "id": "2183470ce4ac08b534df4fb55ba70b4aa6b38fcd",
+    "name": "conseil_departemental_cotes_d_armor",
+    "title": "Conseil départemental - Côtes-d'Armor",
+    "url": "https://lannuaire.service-public.fr/bretagne/cotes-d-armor/cg-22278-01",
+    "metadata": {
+      "email": "contact@cotesdarmor.fr",
+      "telephone": "02 96 62 62 22",
+      "url": "http://cotesdarmor.fr"
+    }
+  },
+  {
+    "id": "171d9e148300608606d79c1b0c85a01e7699e8aa",
+    "name": "conseil_departemental_creuse",
+    "title": "Conseil départemental - Creuse",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/creuse/cg-23096-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 44 30 23 23",
+      "url": "http://www.creuse.fr"
+    }
+  },
+  {
+    "id": "f19f990ae7eb9d3ced31e844e2d0b63e4afcf2bc",
+    "name": "conseil_departemental_deux_sevres",
+    "title": "Conseil départemental - Deux-Sèvres",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/deux-sevres/cg-79191-01",
+    "metadata": {
+      "email": "contact@deux-sevres.com",
+      "telephone": "05 49 06 79 79",
+      "url": "http://www.deux-sevres.com"
+    }
+  },
+  {
+    "id": "2faca9fbc4e5eee0d12092501800ad05bb990ead",
+    "name": "conseil_departemental_dordogne",
+    "title": "Conseil départemental - Dordogne",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/dordogne/cg-24322-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 53 02 20 20",
+      "url": "https://www.dordogne.fr"
+    }
+  },
+  {
+    "id": "42d49fc83585f4cdc5fe95dcbad3f52b2c6a93c4",
+    "name": "conseil_departemental_doubs",
+    "title": "Conseil départemental - Doubs",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/doubs/cg-25056-01",
+    "metadata": {
+      "email": "info@doubs.fr",
+      "telephone": "03 81 25 81 25",
+      "url": "http://www.doubs.fr"
+    }
+  },
+  {
+    "id": "f68c31a1d58fd059e14ed72bc04a4b70a0405210",
+    "name": "conseil_departemental_drome",
+    "title": "Conseil départemental - Drôme",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/drome/cg-26362-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 75 79 26 26",
+      "url": "http://www.ladrome.fr"
+    }
+  },
+  {
+    "id": "19d3c68057b7a4c218d468ddf920c015191e4a31",
+    "name": "conseil_departemental_essonne",
+    "title": "Conseil départemental - Essonne",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/essonne/cg-91228-01",
+    "metadata": {
+      "email": "",
+      "telephone": "01 60 91 91 91",
+      "url": "http://www.essonne.fr"
+    }
+  },
+  {
+    "id": "42966d2524feecbf30f23c4589adef02e107138a",
+    "name": "conseil_departemental_eure",
+    "title": "Conseil départemental - Eure",
+    "url": "https://lannuaire.service-public.fr/normandie/eure/cg-27229-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 32 31 50 50",
+      "url": "https://eureennormandie.fr/"
+    }
+  },
+  {
+    "id": "0522827acabad4f17e67d984e6161a5b718466d3",
+    "name": "conseil_departemental_eure_et_loir",
+    "title": "Conseil départemental - Eure-et-Loir",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/eure-et-loir/cg-28085-01",
+    "metadata": {
+      "email": "accueil@eurelien.fr",
+      "telephone": "02 37 20 10 10",
+      "url": "http://www.eurelien.fr"
+    }
+  },
+  {
+    "id": "36b42de3f2ed70541e44293790cee232dffadfee",
+    "name": "conseil_departemental_finistere",
+    "title": "Conseil départemental - Finistère",
+    "url": "https://lannuaire.service-public.fr/bretagne/finistere/cg-29232-01",
+    "metadata": {
+      "email": "contact@finistere.fr",
+      "telephone": "02 98 76 20 20",
+      "url": "http://www.cg29.fr"
+    }
+  },
+  {
+    "id": "c2a5405ce92c922ab4b5607728f7f730057f863d",
+    "name": "conseil_departemental_gard",
+    "title": "Conseil départemental - Gard",
+    "url": "https://lannuaire.service-public.fr/occitanie/gard/cg-30189-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 66 76 76 76",
+      "url": "http://www.gard.fr"
+    }
+  },
+  {
+    "id": "300ba0b4d1db48147f830260d961f0296756d7d2",
+    "name": "conseil_departemental_gers",
+    "title": "Conseil départemental - Gers",
+    "url": "https://lannuaire.service-public.fr/occitanie/gers/cg-32013-01",
+    "metadata": {
+      "email": "departement-du-gers@gers.fr",
+      "telephone": "05 62 67 40 40",
+      "url": "http://www.gers.fr"
+    }
+  },
+  {
+    "id": "d567aa8d5b79792bd3ab72b780fe15533775ca35",
+    "name": "conseil_departemental_gironde",
+    "title": "Conseil départemental - Gironde",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/gironde/cg-33063-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 56 99 33 33",
+      "url": "http://www.gironde.fr"
+    }
+  },
+  {
+    "id": "6d710bfdb53e800d10c98a2f7cfe639d6928ca19",
+    "name": "conseil_departemental_guadeloupe",
+    "title": "Conseil départemental - Guadeloupe",
+    "url": "https://lannuaire.service-public.fr/guadeloupe/guadeloupe/cg-97105-01",
+    "metadata": {
+      "email": "info@cg971.fr",
+      "telephone": "+590 5 90 99 77 77",
+      "url": "http://www.cg971.fr"
+    }
+  },
+  {
+    "id": "692d9b6767228bb6649ac85abab60fcebe102f1c",
+    "name": "conseil_departemental_haute_garonne",
+    "title": "Conseil départemental - Haute-Garonne",
+    "url": "https://lannuaire.service-public.fr/occitanie/haute-garonne/cg-31555-01",
+    "metadata": {
+      "email": "contact@cg31.fr",
+      "telephone": "05 34 33 32 31",
+      "url": "http://www.haute-garonne.fr"
+    }
+  },
+  {
+    "id": "c51a0588c6645cfb3538018ea4b9db9df2f47ae9",
+    "name": "conseil_departemental_haute_loire",
+    "title": "Conseil départemental - Haute-Loire",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/haute-loire/cg-43157-01",
+    "metadata": {
+      "email": "conseilgeneral@cg43.fr",
+      "telephone": "04 71 07 43 43",
+      "url": "http://www.cg43.fr"
+    }
+  },
+  {
+    "id": "a09a1fe2c4da9ea7517cc3f789890a29131569a4",
+    "name": "conseil_departemental_haute_marne",
+    "title": "Conseil départemental - Haute-Marne",
+    "url": "https://lannuaire.service-public.fr/grand-est/haute-marne/cg-52121-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 25 32 88 88",
+      "url": "http://www.haute-marne.fr"
+    }
+  },
+  {
+    "id": "c873a38cecc7c4297381db8465cb8385d5821d72",
+    "name": "conseil_departemental_hautes_alpes",
+    "title": "Conseil départemental - Hautes-Alpes",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/hautes-alpes/cg-05061-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 92 40 38 00",
+      "url": "http://www.hautes-alpes.fr"
+    }
+  },
+  {
+    "id": "0e0737b3440720e56926c6b5c753872683abac35",
+    "name": "conseil_departemental_haute_saone",
+    "title": "Conseil départemental - Haute-Saône",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/haute-saone/cg-70550-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 84 95 70 70",
+      "url": "http://www.cg70.fr"
+    }
+  },
+  {
+    "id": "a5ef88336fe9f225080c287856b6a1f58963f2d5",
+    "name": "conseil_departemental_haute_savoie",
+    "title": "Conseil départemental - Haute-Savoie",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/haute-savoie/cg-74010-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 50 33 50 02",
+      "url": "http://www.hautesavoie.fr"
+    }
+  },
+  {
+    "id": "0453bb2e3068799cef0638e264628ab64a2f363b",
+    "name": "conseil_departemental_hautes_pyrenees",
+    "title": "Conseil départemental - Hautes-Pyrénées",
+    "url": "https://lannuaire.service-public.fr/occitanie/hautes-pyrenees/cg-65440-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 62 56 78 65",
+      "url": "http://www.cg65.fr"
+    }
+  },
+  {
+    "id": "0d5d9ec9c1de6cc0ad89b19d83f6099d7655a799",
+    "name": "conseil_departemental_haute_vienne",
+    "title": "Conseil départemental - Haute-Vienne",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/haute-vienne/cg-87085-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 55 45 10 10",
+      "url": "http://www.haute-vienne.fr/conseil-departemental.html"
+    }
+  },
+  {
+    "id": "832aad31f9892e8b860a32bcf56feb7f13285532",
+    "name": "conseil_departemental_haut_rhin",
+    "title": "Conseil départemental - Haut-Rhin",
+    "url": "https://lannuaire.service-public.fr/grand-est/haut-rhin/cg-68066-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 89 30 68 68",
+      "url": "https://www.haut-rhin.fr/"
+    }
+  },
+  {
+    "id": "4b369e8e260c937fb9dfedccfc11154ef2303847",
+    "name": "conseil_departemental_hauts_de_seine",
+    "title": "Conseil départemental - Hauts-de-Seine",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/hauts-de-seine/cg-92050-01",
+    "metadata": {
+      "email": "",
+      "telephone": "0 806 00 00 92 (Service gratuit + prix appel)",
+      "url": "http://www.hauts-de-seine.fr"
+    }
+  },
+  {
+    "id": "99a8f79a38c9cb2de1854d43fef295e17db8db34",
+    "name": "conseil_departemental_herault",
+    "title": "Conseil départemental - Hérault",
+    "url": "https://lannuaire.service-public.fr/occitanie/herault/cg-34172-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 67 67 67 67",
+      "url": "http://www.herault.fr"
+    }
+  },
+  {
+    "id": "dea2343231663a3a8ac94528ceaa8186b8f8ccce",
+    "name": "conseil_departemental_ille_et_vilaine",
+    "title": "Conseil départemental - Ille-et-Vilaine",
+    "url": "https://lannuaire.service-public.fr/bretagne/ille-et-vilaine/cg-35238-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 99 02 35 35",
+      "url": "http://www.ille-et-vilaine.fr"
+    }
+  },
+  {
+    "id": "4163cd72b5a49d9d3eefc63e37349427b78d9e2a",
+    "name": "conseil_departemental_indre",
+    "title": "Conseil départemental - Indre",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/indre/cg-36044-01",
+    "metadata": {
+      "email": "contact@indre.fr",
+      "telephone": "02 54 27 34 36",
+      "url": "http://www.indre.fr"
+    }
+  },
+  {
+    "id": "8d57f43893a7a06ae4ec524285c9364271393fdc",
+    "name": "conseil_departemental_indre_et_loire",
+    "title": "Conseil départemental - Indre-et-Loire",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/indre-et-loire/cg-37261-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 47 31 47 31",
+      "url": "http://www.cg37.fr"
+    }
+  },
+  {
+    "id": "7f55edbed085face1e177b1a01d80e6b3927c3eb",
+    "name": "conseil_departemental_isere",
+    "title": "Conseil départemental - Isère",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/isere/cg-38185-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 76 00 38 38",
+      "url": "https://www.isere.fr"
+    }
+  },
+  {
+    "id": "ef839756c500fcbd8d4a73dc698a0d639f507722",
+    "name": "conseil_departemental_jura",
+    "title": "Conseil départemental - Jura",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/jura/cg-39300-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 84 87 33 00",
+      "url": "http://www.cg39.fr"
+    }
+  },
+  {
+    "id": "09a3f1beb6c973e449dc39c78dfde5993954e396",
+    "name": "conseil_departemental_landes",
+    "title": "Conseil départemental - Landes",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/landes/cg-40192-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 58 05 40 40",
+      "url": "http://www.landes.fr"
+    }
+  },
+  {
+    "id": "dc631d4b4bdf0862d84d1d473fd3b6eb7774ded5",
+    "name": "conseil_departemental_loire",
+    "title": "Conseil départemental - Loire",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/loire/cg-42218-01",
+    "metadata": {
+      "email": "info@cg42.fr",
+      "telephone": "04 77 48 42 42",
+      "url": "http://www.loire.fr"
+    }
+  },
+  {
+    "id": "053f3359a382bb85dd564078fb14e469ac8b2cb5",
+    "name": "conseil_departemental_loire_atlantique",
+    "title": "Conseil départemental - Loire-Atlantique",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/loire-atlantique/cg-44109-01",
+    "metadata": {
+      "email": "accueil.hotel-departement@loire-atlantique.fr",
+      "telephone": "02 40 99 10 00",
+      "url": "http://www.loire-atlantique.fr"
+    }
+  },
+  {
+    "id": "e7903c3cb88ecc7d50620f5eb25b2a14def7aabe",
+    "name": "conseil_departemental_loiret",
+    "title": "Conseil départemental - Loiret",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/loiret/cg-45234-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 38 25 45 45",
+      "url": "http://www.loiret.fr"
+    }
+  },
+  {
+    "id": "b3dde1ef8540d8e12fd8028d7a69efff6ea0de96",
+    "name": "conseil_departemental_loir_et_cher",
+    "title": "Conseil départemental - Loir-et-Cher",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/loir-et-cher/cg-41018-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 54 58 41 41",
+      "url": "http://www.le-loir-et-cher.fr"
+    }
+  },
+  {
+    "id": "dad73d5109f7b8f32a7bc77706e6103b1d9248c4",
+    "name": "conseil_departemental_lot",
+    "title": "Conseil départemental - Lot",
+    "url": "https://lannuaire.service-public.fr/occitanie/lot/cg-46042-01",
+    "metadata": {
+      "email": "communication@lot.fr",
+      "telephone": "05 65 53 40 00",
+      "url": "http://www.lot.fr"
+    }
+  },
+  {
+    "id": "3b378d3d466c362330b3ada014110fd35e1807ab",
+    "name": "conseil_departemental_lot_et_garonne",
+    "title": "Conseil départemental - Lot-et-Garonne",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/lot-et-garonne/cg-47001-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 53 69 40 00",
+      "url": "http://www.cg47.fr"
+    }
+  },
+  {
+    "id": "30f8729d2a6225885427f60996ce6a4aac61f1ac",
+    "name": "conseil_departemental_lozere",
+    "title": "Conseil départemental - Lozère",
+    "url": "https://lannuaire.service-public.fr/occitanie/lozere/cg-48095-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 66 49 66 66",
+      "url": "http://www.lozere.fr"
+    }
+  },
+  {
+    "id": "bc12af985bfe75d0d77c858aa982bf170ad2a068",
+    "name": "conseil_departemental_maine_et_loire",
+    "title": "Conseil départemental - Maine-et-Loire",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/maine-et-loire/cg-49007-01",
+    "metadata": {
+      "email": "info@maine-et-loire.fr",
+      "telephone": "02 41 81 49 49",
+      "url": "https://www.maine-et-loire.fr/"
+    }
+  },
+  {
+    "id": "be3a2260fd160c0fe729e7db156f238e95700575",
+    "name": "conseil_departemental_manche",
+    "title": "Conseil départemental - Manche",
+    "url": "https://lannuaire.service-public.fr/normandie/manche/cg-50502-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 33 05 55 50",
+      "url": "http://www.manche.fr"
+    }
+  },
+  {
+    "id": "b9f79eee9762e47d80a2c04091cb50ca421f8a3b",
+    "name": "conseil_departemental_marne",
+    "title": "Conseil départemental - Marne",
+    "url": "https://lannuaire.service-public.fr/grand-est/marne/cg-51108-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 26 69 51 51",
+      "url": "http://www.marne.fr"
+    }
+  },
+  {
+    "id": "151e41693d0a5edf892accdef166a36b9f8a62db",
+    "name": "conseil_departemental_mayenne",
+    "title": "Conseil départemental - Mayenne",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/mayenne/cg-53130-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 43 66 53 53",
+      "url": "http://www.lamayenne.fr"
+    }
+  },
+  {
+    "id": "411ce8f96b89b629a0be7b03e90681b802f76287",
+    "name": "conseil_departemental_mayotte",
+    "title": "Conseil départemental - Mayotte",
+    "url": "https://lannuaire.service-public.fr/mayotte/mayotte/cg-97611-01",
+    "metadata": {
+      "email": "",
+      "telephone": "+269 2 69 66 10 00",
+      "url": "http://www.cg976.fr"
+    }
+  },
+  {
+    "id": "fada3b746d292bcfda333a43c48e94c411204161",
+    "name": "conseil_departemental_meurthe_et_moselle",
+    "title": "Conseil départemental - Meurthe-et-Moselle",
+    "url": "https://lannuaire.service-public.fr/grand-est/meurthe-et-moselle/cg-54395-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 83 94 54 54",
+      "url": "http://www.meurthe-et-moselle.fr/"
+    }
+  },
+  {
+    "id": "6efd30c994d9d96ffc19737510914128660ac04e",
+    "name": "conseil_departemental_meuse",
+    "title": "Conseil départemental - Meuse",
+    "url": "https://lannuaire.service-public.fr/grand-est/meuse/cg-55029-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 29 45 77 55",
+      "url": "http://www.meuse.fr"
+    }
+  },
+  {
+    "id": "040aa00e232b450bf1cad8660d37776470cc0c66",
+    "name": "conseil_departemental_morbihan",
+    "title": "Conseil départemental - Morbihan",
+    "url": "https://lannuaire.service-public.fr/bretagne/morbihan/cg-56260-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 97 54 80 00",
+      "url": "http://www.morbihan.fr"
+    }
+  },
+  {
+    "id": "deaac227b06844890f98d0e2d9c16e90f2f359c8",
+    "name": "conseil_departemental_moselle",
+    "title": "Conseil départemental - Moselle",
+    "url": "https://lannuaire.service-public.fr/grand-est/moselle/cg-57463-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 87 37 57 57",
+      "url": "http://www.cg57.fr"
+    }
+  },
+  {
+    "id": "c9aed6bf354c63986fab05ea1de9c6c55fba0d74",
+    "name": "conseil_departemental_nievre",
+    "title": "Conseil départemental - Nièvre",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/nievre/cg-58194-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 86 60 67 00",
+      "url": "http://nievre.fr/"
+    }
+  },
+  {
+    "id": "3df179b7d5dd38cb12d07da04740acde51e93ed4",
+    "name": "conseil_departemental_nord",
+    "title": "Conseil départemental - Nord",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/nord/cg-59350-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 59 73 59 59",
+      "url": "https://lenord.fr"
+    }
+  },
+  {
+    "id": "5444954aabf102efbeb27b097348bffb5446813f",
+    "name": "conseil_departemental_oise",
+    "title": "Conseil départemental - Oise",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/oise/cg-60057-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 44 06 60 60",
+      "url": "http://www.oise.fr"
+    }
+  },
+  {
+    "id": "414764c6fb1ae8940eefeaad895e8647dba2071a",
+    "name": "conseil_departemental_orne",
+    "title": "Conseil départemental - Orne",
+    "url": "https://lannuaire.service-public.fr/normandie/orne/cg-61001-01",
+    "metadata": {
+      "email": "contact@orne.fr",
+      "telephone": "02 33 81 60 00",
+      "url": "http://www.orne.fr"
+    }
+  },
+  {
+    "id": "24c6042abb3aea6c6d119fd35ff519badd7cd1f6",
+    "name": "conseil_departemental_pas_de_calais",
+    "title": "Conseil départemental - Pas-de-Calais",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/pas-de-calais/cg-62041-01",
+    "metadata": {
+      "email": "presidence.secretariat@pasdecalais.fr",
+      "telephone": "03 21 21 62 62",
+      "url": "http://www.cg62.fr"
+    }
+  },
+  {
+    "id": "78dae0762643a5b082f3959a87735454b8e91ab4",
+    "name": "conseil_departemental_puy_de_dome",
+    "title": "Conseil départemental - Puy-de-Dôme",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/puy-de-dome/cg-63113-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 73 42 20 20",
+      "url": "http://www.puydedome.fr"
+    }
+  },
+  {
+    "id": "aa542a70bbadb1c147e733e45306e8412e15d78a",
+    "name": "conseil_departemental_pyrenees_atlantiques",
+    "title": "Conseil départemental - Pyrénées-Atlantiques",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/pyrenees-atlantiques/cg-64445-01",
+    "metadata": {
+      "email": "contact@le64.fr",
+      "telephone": "05 59 11 46 64",
+      "url": "http://www.le64.fr"
+    }
+  },
+  {
+    "id": "e62aca6590d3c036067f1bfd8142c01915ed6dc5",
+    "name": "conseil_departemental_pyrenees_orientales",
+    "title": "Conseil départemental - Pyrénées-Orientales",
+    "url": "https://lannuaire.service-public.fr/occitanie/pyrenees-orientales/cg-66136-01",
+    "metadata": {
+      "email": "cg66@cg66.fr",
+      "telephone": "04 68 85 85 85",
+      "url": "http://www.cg66.fr"
+    }
+  },
+  {
+    "id": "0c74af1a5ac19c33aeec5469009e51ba458cc575",
+    "name": "conseil_departemental_reunion",
+    "title": "Conseil départemental - Réunion",
+    "url": "https://lannuaire.service-public.fr/la-reunion/reunion/cg-97411-01",
+    "metadata": {
+      "email": "",
+      "telephone": "+262 2 62 90 30 30",
+      "url": "http://www.cg974.fr"
+    }
+  },
+  {
+    "id": "a174ce2ae3a2cc66d7180658efd3f584a988699e",
+    "name": "conseil_departemental_rhone",
+    "title": "Conseil départemental - Rhône",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/rhone/cg-69383-01",
+    "metadata": {
+      "email": "",
+      "telephone": "08 00 86 98 69 (Numéro vert : service et appel gratuits)",
+      "url": "https://www.rhone.fr/"
+    }
+  },
+  {
+    "id": "8ce017a43c3eef3fb8c2d2cd1b2e15ef7ae5762f",
+    "name": "conseil_departemental_saone_et_loire",
+    "title": "Conseil départemental - Saône-et-Loire",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/saone-et-loire/cg-71270-01",
+    "metadata": {
+      "email": "contact@cg71.fr",
+      "telephone": "03 85 39 66 00",
+      "url": "http://www.saoneetloire71.fr"
+    }
+  },
+  {
+    "id": "f3bff3c103a9a24d7d0b9b22e826092ed1943500",
+    "name": "conseil_departemental_sarthe",
+    "title": "Conseil départemental - Sarthe",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/sarthe/cg-72181-01",
+    "metadata": {
+      "email": "contact@sarthe.fr",
+      "telephone": "02 43 54 72 72",
+      "url": "http://www.cg72.fr"
+    }
+  },
+  {
+    "id": "87fd807ca1d29226b3215bfb5e243080d62ab3ad",
+    "name": "conseil_departemental_savoie",
+    "title": "Conseil départemental - Savoie",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/savoie/cg-73065-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 79 96 73 73",
+      "url": "http://www.cg73.fr"
+    }
+  },
+  {
+    "id": "a067b68b49ee0eebd9bc04b1bc257c6941689d91",
+    "name": "conseil_departemental_seine_et_marne",
+    "title": "Conseil départemental - Seine-et-Marne",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/seine-et-marne/cg-77288-01",
+    "metadata": {
+      "email": "",
+      "telephone": "01 64 14 77 77",
+      "url": "http://www.seine-et-marne.fr"
+    }
+  },
+  {
+    "id": "9a9b229ca3a6b5cd3702cc33446551e72ceadbea",
+    "name": "conseil_departemental_seine_maritime",
+    "title": "Conseil départemental - Seine-Maritime",
+    "url": "https://lannuaire.service-public.fr/normandie/seine-maritime/cg-76540-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 35 03 55 55",
+      "url": "https://www.seinemaritime.fr/"
+    }
+  },
+  {
+    "id": "efec64f9f170554db76552ec35943da2036fd025",
+    "name": "conseil_departemental_seine_saint_denis",
+    "title": "Conseil départemental - Seine-Saint-Denis",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/seine-saint-denis/cg-93008-01",
+    "metadata": {
+      "email": "",
+      "telephone": "01 43 93 93 93",
+      "url": "https://seinesaintdenis.fr/"
+    }
+  },
+  {
+    "id": "f677b71b09640f68c1cdd08e70a9e5fef5a98f8d",
+    "name": "conseil_departemental_somme",
+    "title": "Conseil départemental - Somme",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/somme/cg-80021-01",
+    "metadata": {
+      "email": "contact@somme.fr",
+      "telephone": "03 22 71 80 80",
+      "url": "http://www.somme.fr"
+    }
+  },
+  {
+    "id": "693802b0626b406281d2574a74ded1acf203ec6c",
+    "name": "conseil_departemental_tarn",
+    "title": "Conseil départemental - Tarn",
+    "url": "https://lannuaire.service-public.fr/occitanie/tarn/cg-81004-01",
+    "metadata": {
+      "email": "contact@tarn.fr.",
+      "telephone": "05 63 45 64 64",
+      "url": "http://www.tarn.fr"
+    }
+  },
+  {
+    "id": "097c63c4a4a0638d221bba14897f4b57b2b69f2d",
+    "name": "conseil_departemental_tarn_et_garonne",
+    "title": "Conseil départemental - Tarn-et-Garonne",
+    "url": "https://lannuaire.service-public.fr/occitanie/tarn-et-garonne/cg-82121-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 63 91 82 00",
+      "url": "http://www.ledepartement.fr"
+    }
+  },
+  {
+    "id": "e51b491dee8aa0b7f805e9a48aa5c256ffa4e143",
+    "name": "conseil_departemental_territoire_de_belfort",
+    "title": "Conseil départemental - Territoire de Belfort",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/territoire-de-belfort/cg-90010-01",
+    "metadata": {
+      "email": "conseil.general@cg90.fr",
+      "telephone": "03 84 90 90 90",
+      "url": "http://www.cg90.fr"
+    }
+  },
+  {
+    "id": "2bba60313f18a721fddc778a393c61cf75ef89ef",
+    "name": "conseil_departemental_val_de_marne",
+    "title": "Conseil départemental - Val-de-Marne",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/val-de-marne/cg-94028-01",
+    "metadata": {
+      "email": "",
+      "telephone": "3994",
+      "url": "http://www.valdemarne.fr/"
+    }
+  },
+  {
+    "id": "682edaffd476deef9f7f7fcb8c22b7070d1a65a1",
+    "name": "conseil_departemental_val_d_oise",
+    "title": "Conseil départemental - Val-d’Oise",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/val-d-oise/cg-95127-01",
+    "metadata": {
+      "email": "",
+      "telephone": "01 34 25 30 30",
+      "url": "http://www.valdoise.fr"
+    }
+  },
+  {
+    "id": "bff08b0236c7d52c8d01d9145e333ddabd8eb97a",
+    "name": "conseil_departemental_var",
+    "title": "Conseil départemental - Var",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/var/cg-83137-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 83 95 00 00",
+      "url": "https://www.var.fr/"
+    }
+  },
+  {
+    "id": "b4f2e27cd64509329ed9889a89fae30c00984fee",
+    "name": "conseil_departemental_vaucluse",
+    "title": "Conseil départemental - Vaucluse",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/vaucluse/cg-84007-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 90 16 15 00",
+      "url": "http://www.vaucluse.fr"
+    }
+  },
+  {
+    "id": "34bf4a67be119264b2a13e9f5ff7e134c6042168",
+    "name": "conseil_departemental_vendee",
+    "title": "Conseil départemental - Vendée",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/vendee/cg-85191-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 28 85 85 85",
+      "url": "http://www.vendee.fr"
+    }
+  },
+  {
+    "id": "a48dfc145fbc2303f496e926b53e1a68cb4be02b",
+    "name": "conseil_departemental_vienne",
+    "title": "Conseil départemental - Vienne",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/vienne/cg-86194-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 49 55 66 00",
+      "url": "http://www.cg86.fr"
+    }
+  },
+  {
+    "id": "420157d0ec8a0ce7eace1e21e8ffb340e32fd725",
+    "name": "conseil_departemental_vosges",
+    "title": "Conseil départemental - Vosges",
+    "url": "https://lannuaire.service-public.fr/grand-est/vosges/cg-88160-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 29 29 88 88",
+      "url": "http://www.vosges.fr"
+    }
+  },
+  {
+    "id": "69d3dd5fffdfa84e9d50891894e8d0373cc680b6",
+    "name": "conseil_departemental_yonne",
+    "title": "Conseil départemental - Yonne",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/yonne/cg-89024-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 86 72 89 89",
+      "url": "http://www.lyonne.com"
+    }
+  },
+  {
+    "id": "996e98d6d36d89354acfda732e0c4374930214d0",
+    "name": "conseil_departemental_yvelines",
+    "title": "Conseil départemental - Yvelines",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/yvelines/cg-78646-01",
+    "metadata": {
+      "email": "",
+      "telephone": "01 39 07 78 78",
+      "url": "http://www.yvelines.fr"
+    }
+  },
+  {
+    "id": "e5e82f6d285f84cdeb9cc1974be4b2dccf016808",
+    "name": "conseil_de_paris",
+    "title": "Conseil de Paris",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/paris/cg-75104-01",
+    "metadata": {
+      "email": "",
+      "telephone": "01 42 76 39 75",
+      "url": "http://www.paris.fr"
+    }
+  },
+  {
+    "id": "1b4f7cf9fad1e4b433e82d00bb7593295b8f1693",
+    "name": "conseil_territorial_de_saint_martin",
+    "title": "Conseil territorial de Saint-Martin",
+    "url": "https://lannuaire.service-public.fr/collectivites-d-outre-mer/saint-martin/cg-97801-1",
+    "metadata": {
+      "email": "",
+      "telephone": "+590 5 90 87 50 04",
+      "url": "http://www.com-saint-martin.fr"
+    }
+  },
+  {
+    "id": "d5a5261a574a31733e081050109cc7e707e150a7",
+    "name": "conseil_territorial_saint_pierre_et_miquelon",
+    "title": "Conseil territorial - Saint-Pierre-et-Miquelon",
+    "url": "https://lannuaire.service-public.fr/collectivites-d-outre-mer/saint-pierre-et-miquelon/cg-97502-01",
+    "metadata": {
+      "email": "cgspm@wanadoo.fr",
+      "telephone": "+508 41 01 02",
+      "url": "http://www.spm-ct975.fr/"
+    }
+  },
+  {
+    "id": "b5f2a2ffbf148a614226e781b3f826c9b10d125d",
+    "name": "gouvernement_de_la_polynesie_francaise",
+    "title": "Gouvernement de la Polynésie française",
+    "url": "https://lannuaire.service-public.fr/collectivites-d-outre-mer/polynesie-francaise/cg-98735-01",
+    "metadata": {
+      "email": "capr@presidence.pf",
+      "telephone": "+689 40 47 20 00",
+      "url": "https://www.presidence.pf/https://www.service-public.pf/"
+    }
+  },
+  {
+    "id": "2dfd3e02a9747a296cc909665d1738e584fb1ec2",
+    "name": "gouvernement_de_nouvelle_caledonie",
+    "title": "Gouvernement de Nouvelle-Calédonie",
+    "url": "https://lannuaire.service-public.fr/collectivites-d-outre-mer/nouvelle-caledonie/cg-98818-01",
+    "metadata": {
+      "email": "cellule.communication@gouv.nc",
+      "telephone": "+687 24 65 65",
+      "url": "http://www.gouv.nc"
+    }
+  },
+  {
+    "id": "8cfb67c6a35aee1762852c7a75f7a7beb2a286ba",
+    "name": "metropole_de_lyon_rhone",
+    "title": "Métropole de Lyon - Rhône",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/rhone/cg-69383-02",
+    "metadata": {
+      "email": "",
+      "telephone": "04 78 63 40 40",
+      "url": "https://www.grandlyon.com"
+    }
+  }
+]

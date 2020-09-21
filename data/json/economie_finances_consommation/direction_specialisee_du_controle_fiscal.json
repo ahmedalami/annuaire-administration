@@ -1,0 +1,98 @@
+[
+  {
+    "id": "63234336f9720a9cc711ff10824f37bfbb97f37f",
+    "alternateName": "DIRCOFI",
+    "name": "direction_specialisee_du_controle_fiscal_dircofi_centre_est",
+    "title": "Direction spécialisée du contrôle fiscal (DIRCOFI) - Centre-Est",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/rhone/dcf-69383-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 81 18 32 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "b5917de74b4fcbb824700e6a250600b757adb95f",
+    "alternateName": "DIRCOFI",
+    "name": "direction_specialisee_du_controle_fiscal_dircofi_centre_ouest",
+    "title": "Direction spécialisée du contrôle fiscal (DIRCOFI) - Centre-Ouest",
+    "url": "https://lannuaire.service-public.fr/bretagne/ille-et-vilaine/dcf-35238-01",
+    "metadata": {
+      "email": "dircofi-centre-ouest@dgfip.finances.gouv.fr",
+      "telephone": "02 23 44 82 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "24993fd8b92ba0969f1e245909d2ee1719dc13fe",
+    "alternateName": "DIRCOFI",
+    "name": "direction_specialisee_du_controle_fiscal_dircofi_est",
+    "title": "Direction spécialisée du contrôle fiscal (DIRCOFI) - Est",
+    "url": "https://lannuaire.service-public.fr/grand-est/meurthe-et-moselle/dcf-54395-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 83 90 83 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "eb6267a4ad91d69072759d050e9e4fd619d98dc6",
+    "alternateName": "DIRCOFI",
+    "name": "direction_specialisee_du_controle_fiscal_dircofi_ile_de_france",
+    "title": "Direction spécialisée du contrôle fiscal (DIRCOFI) - Île-de-France",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/seine-saint-denis/dcf-93066-01",
+    "metadata": {
+      "email": "",
+      "telephone": "01 55 93 50 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "641a3c37f076aeabc3e691ccad3c0712652d7621",
+    "alternateName": "DIRCOFI",
+    "name": "direction_specialisee_du_controle_fiscal_dircofi_nord",
+    "title": "Direction spécialisée du contrôle fiscal (DIRCOFI) - Nord",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/nord/dcf-59350-01",
+    "metadata": {
+      "email": "dircofi-nord@dgi.finances.gouv.fr",
+      "telephone": "03 20 15 42 50",
+      "url": ""
+    }
+  },
+  {
+    "id": "3b3baf5ecb40e52bd99cae4878a06ed3c3ef5130",
+    "alternateName": "DIRCOFI",
+    "name": "direction_specialisee_du_controle_fiscal_dircofi_sud_est_et_outre_mer",
+    "title": "Direction spécialisée du contrôle fiscal (DIRCOFI) - Sud-Est et Outre-mer",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/dcf-13203-01",
+    "metadata": {
+      "email": "dircofi-sud-est @dgfip.finances.gouv.fr",
+      "telephone": "04 91 13 82 02",
+      "url": "https://www.economie.gouv.fr/dgfip"
+    }
+  },
+  {
+    "id": "6176a4e108ad964f64ffa4f5a7163610c9752ddc",
+    "alternateName": "DIRCOFI",
+    "name": "direction_specialisee_du_controle_fiscal_dircofi_sud_ouest",
+    "title": "Direction spécialisée du contrôle fiscal (DIRCOFI) - Sud-Ouest",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/gironde/dcf-33063-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 57 81 02 02",
+      "url": ""
+    }
+  },
+  {
+    "id": "ec8f257fdad3d0440288d47702b3770ab3e7d79c",
+    "alternateName": "DIRCOFI",
+    "name": "direction_specialisee_du_controle_fiscal_dircofi_sud_pyrenees",
+    "title": "Direction spécialisée du contrôle fiscal (DIRCOFI) - Sud-Pyrénées",
+    "url": "https://lannuaire.service-public.fr/occitanie/haute-garonne/dcf-31555-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 61 10 66 00",
+      "url": ""
+    }
+  }
+]

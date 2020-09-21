@@ -1,0 +1,1177 @@
+[
+  {
+    "id": "69bd212b9456c1280ca006fff93745731e819861",
+    "alternateName": "DSDEN",
+    "name": "direction_des_services_departementaux_de_l_education_nationale_dsden_ain",
+    "title": "Direction des services départementaux de l'Éducation nationale (DSDEN) - Ain",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/ain/inspection_academique-01053-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 74 45 58 40",
+      "url": "http://www.ac-lyon.fr/dsden01"
+    }
+  },
+  {
+    "id": "3c4028aea3527a035b33ec8e408507e7289cb3f5",
+    "alternateName": "DSDEN",
+    "name": "direction_des_services_departementaux_de_l_education_nationale_dsden_aisne",
+    "title": "Direction des services départementaux de l'Éducation nationale  (DSDEN) - Aisne",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/aisne/inspection_academique-02408-01",
+    "metadata": {
+      "email": "dsden02@ac-amiens.fr",
+      "telephone": "03 23 26 22 00",
+      "url": "http://www.ac-amiens.fr"
+    }
+  },
+  {
+    "id": "0e1f3da90353527a6ce6f1d14930509ff09b9071",
+    "alternateName": "DSDEN",
+    "name": "direction_des_services_departementaux_de_l_education_nationale_dsden_allier",
+    "title": "Direction des services départementaux de l'Éducation nationale (DSDEN) - Allier",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/allier/inspection_academique-03321-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 70 48 02 00",
+      "url": "http://www.ac-clermont.fr/dsden03/"
+    }
+  },
+  {
+    "id": "1004e74d17b09d8d89407a2e1c14c28e1927b244",
+    "alternateName": "DSDEN",
+    "name": "direction_des_services_departementaux_de_l_education_nationale_dsden_alpes_de_haute_provence",
+    "title": "Direction des services départementaux de l'Éducation nationale  (DSDEN) - Alpes-de-Haute-Provence",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/alpes-de-haute-provence/inspection_academique-04070-01",
+    "metadata": {
+      "email": "ce.ia04@ac-aix-marseille.fr",
+      "telephone": "04 92 36 68 50",
+      "url": "http://www.ia04.ac-aix-marseille.fr"
+    }
+  },
+  {
+    "id": "0c8eae824c2eea494d20862bf1166e8804e54b51",
+    "alternateName": "DSDEN",
+    "name": "direction_des_services_departementaux_de_l_education_nationale_dsden_alpes_maritimes",
+    "title": "Direction des services départementaux de l'Éducation nationale (DSDEN) - Alpes-Maritimes",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/alpes-maritimes/inspection_academique-06088-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 93 72 63 00",
+      "url": "http://www.ac-nice.fr/ia06"
+    }
+  },
+  {
+    "id": "36ba5d4ca007121d466562ba2f58f1d92c85113f",
+    "alternateName": "DSDEN",
+    "name": "direction_des_services_departementaux_de_l_education_nationale_dsden_ardeche",
+    "title": "Direction des services départementaux de l'Éducation nationale  (DSDEN) - Ardèche",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/ardeche/inspection_academique-07186-01",
+    "metadata": {
+      "email": "ce.dsden07@ac-grenoble.fr",
+      "telephone": "04 75 66 93 00",
+      "url": "http://www.ac-grenoble.fr/dsden07"
+    }
+  },
+  {
+    "id": "66d58e31fcd5271824a0715c002c4fa98f5b90f1",
+    "alternateName": "DSDEN",
+    "name": "direction_des_services_departementaux_de_l_education_nationale_dsden_ardennes",
+    "title": "Direction des services départementaux de l'Éducation nationale (DSDEN) - Ardennes",
+    "url": "https://lannuaire.service-public.fr/grand-est/ardennes/inspection_academique-08105-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 24 59 71 50",
+      "url": "http://www.ac-reims.fr/dsden08"
+    }
+  },
+  {
+    "id": "332f45872f2f94fb04ab447a8e67d583cbc52dca",
+    "alternateName": "DSDEN",
+    "name": "direction_des_services_departementaux_de_l_education_nationale_dsden_ariege",
+    "title": "Direction des services départementaux de l'Éducation nationale  (DSDEN) - Ariège",
+    "url": "https://lannuaire.service-public.fr/occitanie/ariege/inspection_academique-09122-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 67 76 52 09",
+      "url": "http://web.ac-toulouse.fr/web/dsden-ariege/"
+    }
+  },
+  {
+    "id": "1637e5460ff5c923a15a1fec10419e3d8a1c0ea0",
+    "alternateName": "DSDEN",
+    "name": "direction_des_services_departementaux_de_l_education_nationale_dsden_aube",
+    "title": "Direction des services départementaux de l'Éducation nationale (DSDEN) - Aube",
+    "url": "https://lannuaire.service-public.fr/grand-est/aube/inspection_academique-10387-01",
+    "metadata": {
+      "email": "ia10@ac-reims.fr",
+      "telephone": "03 25 76 22 22",
+      "url": "http://www.ac-reims.fr/dsden10"
+    }
+  },
+  {
+    "id": "e606bf58e0f9451a423bcd4e2190ba6fd89fb62a",
+    "alternateName": "DSDEN",
+    "name": "direction_des_services_departementaux_de_l_education_nationale_dsden_aude",
+    "title": "Direction des services départementaux de l'Éducation nationale (DSDEN) - Aude",
+    "url": "https://lannuaire.service-public.fr/occitanie/aude/inspection_academique-11069-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 68 11 57 57",
+      "url": "http://www.ac-montpellier.fr/dsden11"
+    }
+  },
+  {
+    "id": "8847d8b3e32f166027740160d9658f435a1fc930",
+    "alternateName": "DSDEN",
+    "name": "direction_des_services_departementaux_de_l_education_nationale_dsden_aveyron",
+    "title": "Direction des services départementaux de l'Éducation nationale  (DSDEN) - Aveyron",
+    "url": "https://lannuaire.service-public.fr/occitanie/aveyron/inspection_academique-12202-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 67 76 54 12",
+      "url": "http://web.ac-toulouse.fr/web/dsden-aveyron/"
+    }
+  },
+  {
+    "id": "e65d057a6b478aca59120e00ff250e8821718085",
+    "alternateName": "DSDEN",
+    "name": "direction_des_services_departementaux_de_l_education_nationale_dsden_bas_rhin",
+    "title": "Direction des services départementaux de l'Éducation nationale  (DSDEN) - Bas-Rhin",
+    "url": "https://lannuaire.service-public.fr/grand-est/bas-rhin/inspection_academique-67482-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 88 45 92 92",
+      "url": "http://www.ac-strasbourg.fr"
+    }
+  },
+  {
+    "id": "28c74e45cffad2e743347f102b9400419c9518f9",
+    "alternateName": "DSDEN",
+    "name": "direction_des_services_departementaux_de_l_education_nationale_dsden_bouches_du_rhone",
+    "title": "Direction des services départementaux de l'Éducation nationale (DSDEN) - Bouches-du-Rhône",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/inspection_academique-13201-01",
+    "metadata": {
+      "email": "ce.ia13@ac-aix-marseille.fr",
+      "telephone": "04 91 99 66 66",
+      "url": "http://www.ac-aix-marseille.fr/dsden13/pid32156/accueil.html"
+    }
+  },
+  {
+    "id": "9fb5ab4a8b3452e45c52313a45c3384745404514",
+    "alternateName": "DSDEN",
+    "name": "direction_des_services_departementaux_de_l_education_nationale_dsden_calvados",
+    "title": "Direction des services départementaux de l'Éducation nationale  (DSDEN) - Calvados",
+    "url": "https://lannuaire.service-public.fr/normandie/calvados/inspection_academique-14327-01",
+    "metadata": {
+      "email": "ce.dsden14@ac-caen.fr",
+      "telephone": "02 31 45 95 00",
+      "url": "https://www.ac-caen.fr/dsden14/"
+    }
+  },
+  {
+    "id": "5b3290ac1dabd26605bab212bdb7e4de185def47",
+    "alternateName": "DSDEN",
+    "name": "direction_des_services_departementaux_de_l_education_nationale_dsden_cantal",
+    "title": "Direction des services départementaux de l'Éducation nationale (DSDEN) - Cantal",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/cantal/inspection_academique-15014-01",
+    "metadata": {
+      "email": "ia15@ac-clermont.fr",
+      "telephone": "04 71 43 44 00",
+      "url": "http://www.ac-clermont.fr/dsden15/"
+    }
+  },
+  {
+    "id": "325ffd57e7f0152a353bf9a905ad0b9bf9afc05c",
+    "alternateName": "DSDEN",
+    "name": "direction_des_services_departementaux_de_l_education_nationale_dsden_charente",
+    "title": "Direction des services départementaux de l'Éducation nationale (DSDEN) - Charente",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/charente/inspection_academique-16015-01",
+    "metadata": {
+      "email": "dasen16@ac-poitiers.fr",
+      "telephone": "05 17 84 01 30",
+      "url": "http://www.ac-poitiers.fr"
+    }
+  },
+  {
+    "id": "39f84d8f586cda1ccbd8e7ad5c5bc31c4dce5ab2",
+    "alternateName": "DSDEN",
+    "name": "direction_des_services_departementaux_de_l_education_nationale_dsden_charente_maritime",
+    "title": "Direction des services départementaux de l'Éducation nationale  (DSDEN) - Charente-Maritime",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/charente-maritime/inspection_academique-17300-01",
+    "metadata": {
+      "email": "sg.dsden17@ac-poitiers.fr",
+      "telephone": "05 16 52 68 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "ecca4a11f7a38818325a0f41cecec3075f92aa2f",
+    "alternateName": "DSDEN",
+    "name": "direction_des_services_departementaux_de_l_education_nationale_dsden_cher",
+    "title": "Direction des services départementaux de l'Éducation nationale (DSDEN) - Cher",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/cher/inspection_academique-18033-01",
+    "metadata": {
+      "email": "ce.ia18@ac-orleans-tours.fr",
+      "telephone": "02 36 08 20 00",
+      "url": "https://www.ac-orleans-tours.fr/dsden18/"
+    }
+  },
+  {
+    "id": "1265cd9fcffab8a80e84e2389aea4ddb61f81cfa",
+    "alternateName": "DSDEN",
+    "name": "direction_des_services_departementaux_de_l_education_nationale_dsden_correze",
+    "title": "Direction des services départementaux de l'Éducation nationale (DSDEN) - Corrèze",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/correze/inspection_academique-19272-01",
+    "metadata": {
+      "email": "ce.ia19@ac-limoges.fr",
+      "telephone": "05 87 01 20 82",
+      "url": "http://www.ac-limoges.fr/ia19"
+    }
+  },
+  {
+    "id": "2602f3d8fcfee8ae57b54dcae77f40203da48e66",
+    "alternateName": "DSDEN",
+    "name": "direction_des_services_departementaux_de_l_education_nationale_dsden_corse_du_sud",
+    "title": "Direction des services départementaux de l'Éducation nationale  (DSDEN) - Corse-du-Sud",
+    "url": "https://lannuaire.service-public.fr/corse/corse-du-sud/inspection_academique-2A004-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 95 51 59 51",
+      "url": "http://web.ac-corse.fr/ia2a"
+    }
+  },
+  {
+    "id": "8e6779cb705d41f520ae036ac62bc071a3c749f0",
+    "alternateName": "DSDEN",
+    "name": "direction_des_services_departementaux_de_l_education_nationale_dsden_cote_d_or",
+    "title": "Direction des services départementaux de l'Éducation nationale (DSDEN) - Côte-d'Or",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/cote-d-or/inspection_academique-21231-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 45 62 75 00",
+      "url": "http://www.ac-dijon.fr/dsden21"
+    }
+  },
+  {
+    "id": "eb4de42c6e88ee3a7308823d7b33b33131c193e2",
+    "alternateName": "DSDEN",
+    "name": "direction_des_services_departementaux_de_l_education_nationale_dsden_cotes_d_armor",
+    "title": "Direction des services départementaux de l'Éducation nationale (DSDEN) - Côtes-d'Armor",
+    "url": "https://lannuaire.service-public.fr/bretagne/cotes-d-armor/inspection_academique-22278-01",
+    "metadata": {
+      "email": "ce.ia22@ac-rennes.fr",
+      "telephone": "02 96 75 90 90",
+      "url": "http://www.ia22.ac-rennes.fr"
+    }
+  },
+  {
+    "id": "d4bcbab681fb9af597ed923c952a8a8f6f5738da",
+    "alternateName": "DSDEN",
+    "name": "direction_des_services_departementaux_de_l_education_nationale_dsden_creuse",
+    "title": "Direction des services départementaux de l'Éducation nationale (DSDEN) - Creuse",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/creuse/inspection_academique-23096-01",
+    "metadata": {
+      "email": "ce.ia23@ac-limoges.fr",
+      "telephone": "05 87 86 61 23",
+      "url": "http://www.ac-limoges.fr/dsden23"
+    }
+  },
+  {
+    "id": "5e9ab1e4c0207a157d11f772a41f4e4a861164e9",
+    "alternateName": "DSDEN",
+    "name": "direction_des_services_departementaux_de_l_education_nationale_dsden_deux_sevres",
+    "title": "Direction des services départementaux de l'Éducation nationale (DSDEN) - Deux-Sèvres",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/deux-sevres/inspection_academique-79191-01",
+    "metadata": {
+      "email": "sg.dsden79@ac-poitiers.fr",
+      "telephone": "05 17 84 02 30",
+      "url": "http://www.ac-poitiers.fr/"
+    }
+  },
+  {
+    "id": "81c0964d1956aa506dd62267bf5892697372f4e9",
+    "alternateName": "DSDEN",
+    "name": "direction_des_services_departementaux_de_l_education_nationale_dsden_dordogne",
+    "title": "Direction des services départementaux de l'Éducation nationale  (DSDEN) - Dordogne",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/dordogne/inspection_academique-24322-01",
+    "metadata": {
+      "email": "ce.ia24@ac-bordeaux.fr",
+      "telephone": "05 53 02 84 84",
+      "url": "http://www.ac-bordeaux.fr/ia24"
+    }
+  },
+  {
+    "id": "db550f86fb9de8127d6a7361334a39b0f211f24a",
+    "alternateName": "DSDEN",
+    "name": "direction_des_services_departementaux_de_l_education_nationale_dsden_doubs",
+    "title": "Direction des services départementaux de l'Éducation nationale  (DSDEN) - Doubs",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/doubs/inspection_academique-25056-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 81 65 48 50",
+      "url": "http://www.ac-besancon.fr/spip.php?rubrique116"
+    }
+  },
+  {
+    "id": "8a2410ef0dae56f26429fa0f731217be510a9b23",
+    "alternateName": "DSDEN",
+    "name": "direction_des_services_departementaux_de_l_education_nationale_dsden_drome",
+    "title": "Direction des services départementaux de l'Éducation nationale (DSDEN) - Drôme",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/drome/inspection_academique-26362-01",
+    "metadata": {
+      "email": "ce.dsden26@ac-grenoble.fr",
+      "telephone": "04 75 82 35 00",
+      "url": "http://ia26.ac-grenoble.fr"
+    }
+  },
+  {
+    "id": "32e4897b2305ccc28f7d1e68c87a55fe096ca26c",
+    "alternateName": "DSDEN",
+    "name": "direction_des_services_departementaux_de_l_education_nationale_dsden_essonne",
+    "title": "Direction des services départementaux de l'Éducation nationale (DSDEN) - Essonne",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/essonne/inspection_academique-91228-01",
+    "metadata": {
+      "email": "ce.ia91@ac-versailles.fr",
+      "telephone": "01 69 47 84 84",
+      "url": "http://www.ac-versailles.fr/dsden91/pid35394/presentation.html?dmenu=1&dsmenu=1"
+    }
+  },
+  {
+    "id": "46d1c441c07f8bf820c25b2cec9e6351396ea7c3",
+    "alternateName": "DSDEN",
+    "name": "direction_des_services_departementaux_de_l_education_nationale_dsden_eure",
+    "title": "Direction des services départementaux de l'Éducation nationale (DSDEN) - Eure",
+    "url": "https://lannuaire.service-public.fr/normandie/eure/inspection_academique-27229-01",
+    "metadata": {
+      "email": "ce.ia27@ac-rouen.fr",
+      "telephone": "02 32 29 64 00",
+      "url": "http://www.ia27.ac-rouen.fr"
+    }
+  },
+  {
+    "id": "bfe0109b11a0ddf921615daee37b5d7ba5b89ada",
+    "alternateName": "DSDEN",
+    "name": "direction_des_services_departementaux_de_l_education_nationale_dsden_eure_et_loir",
+    "title": "Direction des services départementaux de l'Éducation nationale  (DSDEN) - Eure-et-Loir",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/eure-et-loir/inspection_academique-28085-01",
+    "metadata": {
+      "email": "ce.ia28@ac-orleans-tours.fr",
+      "telephone": "02 36 15 11 00",
+      "url": "https://www.ac-orleans-tours.fr/dsden28/"
+    }
+  },
+  {
+    "id": "c528a84bcf538e2d22d5e33ea37d2d898acc332b",
+    "alternateName": "DSDEN",
+    "name": "direction_des_services_departementaux_de_l_education_nationale_dsden_finistere",
+    "title": "Direction des services départementaux de l'Éducation nationale (DSDEN) - Finistère",
+    "url": "https://lannuaire.service-public.fr/bretagne/finistere/inspection_academique-29232-01",
+    "metadata": {
+      "email": "ce.ia29@ac-rennes.fr",
+      "telephone": "02 98 98 98 98",
+      "url": "http://www.ia29.ac-rennes.fr"
+    }
+  },
+  {
+    "id": "592e651f87bcc993cb9892c09a661985c88747b9",
+    "alternateName": "DSDEN",
+    "name": "direction_des_services_departementaux_de_l_education_nationale_dsden_gard",
+    "title": "Direction des services départementaux de l'Éducation nationale  (DSDEN) - Gard",
+    "url": "https://lannuaire.service-public.fr/occitanie/gard/inspection_academique-30189-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 66 62 86 00",
+      "url": "http://www.ac-montpellier.fr/dsden30/pid32588/accueil.html"
+    }
+  },
+  {
+    "id": "0cb12ba3ea8ddd3c5015825e62d932fb5138ecdc",
+    "alternateName": "DSDEN",
+    "name": "direction_des_services_departementaux_de_l_education_nationale_dsden_gers",
+    "title": "Direction des services départementaux de l'Éducation nationale  (DSDEN) - Gers",
+    "url": "https://lannuaire.service-public.fr/occitanie/gers/inspection_academique-32013-01",
+    "metadata": {
+      "email": "ia32@ac-toulouse.fr",
+      "telephone": "05 67 76 51 32",
+      "url": "https://web.ac-toulouse.fr/web/dsden-gers/"
+    }
+  },
+  {
+    "id": "490d68b47cf0cd0d27f6d64495952b62b2e6fb8c",
+    "alternateName": "DSDEN",
+    "name": "direction_des_services_departementaux_de_l_education_nationale_dsden_gironde",
+    "title": "Direction des services départementaux de l'Éducation nationale (DSDEN) - Gironde",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/gironde/inspection_academique-33063-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 56 56 36 00",
+      "url": "http://www.ac-bordeaux.fr/dsden33/pid31822/accueil.html"
+    }
+  },
+  {
+    "id": "71d004aa0d30a9f9a027dfd96aa7f276e65b3308",
+    "alternateName": "DSDEN",
+    "name": "direction_des_services_departementaux_de_l_education_nationale_dsden_haute_corse",
+    "title": "Direction des services départementaux de l'Éducation nationale (DSDEN) - Haute-Corse",
+    "url": "https://lannuaire.service-public.fr/corse/haute-corse/inspection_academique-2B033-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 95 34 59 59",
+      "url": "https://ia2b.ac-corse.fr/"
+    }
+  },
+  {
+    "id": "62f25de087e20f29398ac4209df987dc557e0753",
+    "alternateName": "DSDEN",
+    "name": "direction_des_services_departementaux_de_l_education_nationale_dsden_haute_garonne",
+    "title": "Direction des services départementaux de l'Éducation nationale  (DSDEN) - Haute-Garonne",
+    "url": "https://lannuaire.service-public.fr/occitanie/haute-garonne/inspection_academique-31555-01",
+    "metadata": {
+      "email": "ia31@ac-toulouse.fr",
+      "telephone": "05 36 25 70 00",
+      "url": "http://www.ac-toulouse.fr/dsden31/"
+    }
+  },
+  {
+    "id": "1af6627572a2111fee880a1d74b4a8f62de3a721",
+    "alternateName": "DSDEN",
+    "name": "direction_des_services_departementaux_de_l_education_nationale_dsden_haute_loire",
+    "title": "Direction des services départementaux de l'Éducation nationale (DSDEN) - Haute-Loire",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/haute-loire/inspection_academique-43157-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 71 04 57 57",
+      "url": "http://www.ac-clermont.fr/dsden43/"
+    }
+  },
+  {
+    "id": "5a88913b33dffdb9be827e64928289734896e7ed",
+    "alternateName": "DSDEN",
+    "name": "direction_des_services_departementaux_de_l_education_nationale_dsden_haute_marne",
+    "title": "Direction des services départementaux de l'Éducation nationale  (DSDEN) - Haute-Marne",
+    "url": "https://lannuaire.service-public.fr/grand-est/haute-marne/inspection_academique-52121-01",
+    "metadata": {
+      "email": "dsden52-cabinet@ac-reims.fr",
+      "telephone": "03 25 30 51 51",
+      "url": "http://www.ac-reims.fr/dsden52"
+    }
+  },
+  {
+    "id": "eea679f373c24ab80d9b97a9fb1df12a51e301e3",
+    "alternateName": "DSDEN",
+    "name": "direction_des_services_departementaux_de_l_education_nationale_dsden_hautes_alpes",
+    "title": "Direction des services départementaux de l'Éducation nationale (DSDEN) - Hautes-Alpes",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/hautes-alpes/inspection_academique-05061-01",
+    "metadata": {
+      "email": "ce.ia05@ac-aix-marseille.fr",
+      "telephone": "04 92 56 57 57",
+      "url": "http://www.ia05.ac-aix-marseille.fr"
+    }
+  },
+  {
+    "id": "1703b6b1dffdb9c07c241f3b3f42df48d159de45",
+    "alternateName": "DSDEN",
+    "name": "direction_des_services_departementaux_de_l_education_nationale_dsden_haute_saone",
+    "title": "Direction des services départementaux de l'Éducation nationale (DSDEN) - Haute-Saône",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/haute-saone/inspection_academique-70550-01",
+    "metadata": {
+      "email": "ce.dsden70@ac-besancon.fr",
+      "telephone": "03 84 78 63 00",
+      "url": "http://ia70.ac-besancon.fr"
+    }
+  },
+  {
+    "id": "96b3593272de6cce6656aeda6435bfec363953fd",
+    "alternateName": "DSDEN",
+    "name": "direction_des_services_departementaux_de_l_education_nationale_dsden_haute_savoie",
+    "title": "Direction des services départementaux de l'Éducation nationale (DSDEN) - Haute-Savoie",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/haute-savoie/inspection_academique-74010-01",
+    "metadata": {
+      "email": "ce.dsden74@ac-grenoble.fr",
+      "telephone": "04 50 88 41 58",
+      "url": "http://www.ac-grenoble.fr/ia74/spip/"
+    }
+  },
+  {
+    "id": "7e5b22368228f88f320f719436fb765f71f5a7f9",
+    "alternateName": "DSDEN",
+    "name": "direction_des_services_departementaux_de_l_education_nationale_dsden_hautes_pyrenees",
+    "title": "Direction des services départementaux de l'Éducation nationale  (DSDEN) - Hautes-Pyrénées",
+    "url": "https://lannuaire.service-public.fr/occitanie/hautes-pyrenees/inspection_academique-65440-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 67 76 56 65",
+      "url": "http://web.ac-toulouse.fr/web/dsden-hautes-pyrenees/"
+    }
+  },
+  {
+    "id": "3918fccb15bb6efe34de6d9b63cf0b9dfa936e5a",
+    "alternateName": "DSDEN",
+    "name": "direction_des_services_departementaux_de_l_education_nationale_dsden_haute_vienne",
+    "title": "Direction des services départementaux de l'Éducation nationale  (DSDEN) - Haute-Vienne",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/haute-vienne/inspection_academique-87085-01",
+    "metadata": {
+      "email": "ce.ia87@ac-limoges.fr",
+      "telephone": "05 55 11 40 40",
+      "url": "http://www.ac-limoges.fr/ia87"
+    }
+  },
+  {
+    "id": "2837f105be3159b0da9d134df9108b40e70a0002",
+    "alternateName": "DSDEN",
+    "name": "direction_des_services_departementaux_de_l_education_nationale_dsden_haut_rhin",
+    "title": "Direction des services départementaux de l'Éducation nationale (DSDEN) - Haut-Rhin",
+    "url": "https://lannuaire.service-public.fr/grand-est/haut-rhin/inspection_academique-68066-01",
+    "metadata": {
+      "email": "ce.ia68@ac-strasbourg.fr",
+      "telephone": "03 89 21 56 56",
+      "url": "https://www.ac-strasbourg.fr/dsden68/"
+    }
+  },
+  {
+    "id": "ed862b6a43ff94c528ff070bacda9365e30ccbe9",
+    "alternateName": "DSDEN",
+    "name": "direction_des_services_departementaux_de_l_education_nationale_dsden_hauts_de_seine",
+    "title": "Direction des services départementaux de l'Éducation nationale (DSDEN) - Hauts-de-Seine",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/hauts-de-seine/inspection_academique-92050-01",
+    "metadata": {
+      "email": "ce.ia92@ac-versailles.fr",
+      "telephone": "01 71 14 29 29",
+      "url": "http://www.ac-versailles.fr/dsden92/pid35439/accueil.html"
+    }
+  },
+  {
+    "id": "dad48962a545b5ceae7bc332fae432000ebd9e44",
+    "alternateName": "DSDEN",
+    "name": "direction_des_services_departementaux_de_l_education_nationale_dsden_herault",
+    "title": "Direction des services départementaux de l'Éducation nationale  (DSDEN) - Hérault",
+    "url": "https://lannuaire.service-public.fr/occitanie/herault/inspection_academique-34172-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 67 91 47 00",
+      "url": "http://www.ac-montpellier.fr/dsden34/pid32324/accueil.html?dmenu=1"
+    }
+  },
+  {
+    "id": "3caa118827065b18378a05bf54b43a3632a5e18e",
+    "alternateName": "DSDEN",
+    "name": "direction_des_services_departementaux_de_l_education_nationale_dsden_ille_et_vilaine",
+    "title": "Direction des services départementaux de l'Éducation nationale (DSDEN) - Ille-et-Vilaine",
+    "url": "https://lannuaire.service-public.fr/bretagne/ille-et-vilaine/inspection_academique-35238-01",
+    "metadata": {
+      "email": "ce.dsden35@ac-rennes.fr",
+      "telephone": "02 99 25 10 20",
+      "url": "http://www.ac-rennes.fr/DSDEN35/pid36115/presentation-dsden.html"
+    }
+  },
+  {
+    "id": "143ce10835d99b0ebd9c1d6147c96e9df4896494",
+    "alternateName": "DSDEN",
+    "name": "direction_des_services_departementaux_de_l_education_nationale_dsden_indre",
+    "title": "Direction des services départementaux de l'Éducation nationale (DSDEN) - Indre",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/indre/inspection_academique-36044-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 54 60 57 00",
+      "url": "https://www.ac-orleans-tours.fr/dsden36/"
+    }
+  },
+  {
+    "id": "2f9fb349f17a2eef5e1850fe7e543df61f420f30",
+    "alternateName": "DSDEN",
+    "name": "direction_des_services_departementaux_de_l_education_nationale_dsden_indre_et_loire",
+    "title": "Direction des services départementaux de l'Éducation nationale (DSDEN) - Indre-et-Loire",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/indre-et-loire/inspection_academique-37261-01",
+    "metadata": {
+      "email": "ce.ia37@ac-orleans-tours.fr",
+      "telephone": "02 47 60 77 60",
+      "url": "https://www.ac-orleans-tours.fr/dsden37/"
+    }
+  },
+  {
+    "id": "745850818dff1e9d2af2441bd74371e7b9bffce0",
+    "alternateName": "DSDEN",
+    "name": "direction_des_services_departementaux_de_l_education_nationale_dsden_isere",
+    "title": "Direction des services départementaux de l'Éducation nationale  (DSDEN) - Isère",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/isere/inspection_academique-38185-01",
+    "metadata": {
+      "email": "ce.dsden38@ac-grenoble.fr",
+      "telephone": "04 76 74 79 79",
+      "url": "http://www.ac-grenoble.fr/ia38/siteiaspip/"
+    }
+  },
+  {
+    "id": "dd0edf7ce8cc2dd62bfb81f43a1018b8d3d3165c",
+    "alternateName": "DSDEN",
+    "name": "direction_des_services_departementaux_de_l_education_nationale_dsden_jura",
+    "title": "Direction des services départementaux de l'Éducation nationale  (DSDEN) - Jura",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/jura/inspection_academique-39300-01",
+    "metadata": {
+      "email": "ce.dsden39@ac-besancon.fr",
+      "telephone": "03 84 87 27 27",
+      "url": "http://ia39.ac-besancon.fr"
+    }
+  },
+  {
+    "id": "cc906485c40ed3f475284c27b2439cd69da50d65",
+    "alternateName": "DSDEN",
+    "name": "direction_des_services_departementaux_de_l_education_nationale_dsden_landes",
+    "title": "Direction des services départementaux de l'Éducation nationale  (DSDEN) - Landes",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/landes/inspection_academique-40192-01",
+    "metadata": {
+      "email": "ce.ia40@ac-bordeaux.fr",
+      "telephone": "05 58 05 66 66",
+      "url": "http://landes.ac-bordeaux.fr"
+    }
+  },
+  {
+    "id": "8ec53719ec00dbe4e1785b351d2f7f0b3c07d8d8",
+    "alternateName": "DSDEN",
+    "name": "direction_des_services_departementaux_de_l_education_nationale_dsden_la_reunion",
+    "title": "Direction des services départementaux de l'Éducation nationale  (DSDEN) - La Réunion",
+    "url": "https://lannuaire.service-public.fr/la-reunion/reunion/inspection_academique-97411-01",
+    "metadata": {
+      "email": "",
+      "telephone": "+262 2 62 48 10 10",
+      "url": "http://www.ac-reunion.fr"
+    }
+  },
+  {
+    "id": "f62f64995c7f828a8e612333e17c9e18bb53e9e1",
+    "alternateName": "DSDEN",
+    "name": "direction_des_services_departementaux_de_l_education_nationale_dsden_loire",
+    "title": "Direction des services départementaux de l'Éducation nationale (DSDEN) - Loire",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/loire/inspection_academique-42218-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 77 81 41 00",
+      "url": "http://www.ac-lyon.fr/dsden42/pid33519/accueil.html"
+    }
+  },
+  {
+    "id": "d9fffaff1c5e6a058cf1616be26f9ab8d0c0f3ec",
+    "alternateName": "DSDEN",
+    "name": "direction_des_services_departementaux_de_l_education_nationale_dsden_loire_atlantique",
+    "title": "Direction des services départementaux de l'Éducation nationale (DSDEN) - Loire-Atlantique",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/loire-atlantique/inspection_academique-44109-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 51 81 74 74",
+      "url": "http://www.ia44.ac-nantes.fr"
+    }
+  },
+  {
+    "id": "7370653baae59a629647620a1eea040711b58f59",
+    "alternateName": "DSDEN",
+    "name": "direction_des_services_departementaux_de_l_education_nationale_dsden_loiret",
+    "title": "Direction des services départementaux de l'Éducation nationale (DSDEN) - Loiret",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/loiret/inspection_academique-45234-01",
+    "metadata": {
+      "email": "ce.ia45@ac-orleans-tours.fr",
+      "telephone": "02 38 24 29 00",
+      "url": "https://www.ac-orleans-tours.fr/dsden45/"
+    }
+  },
+  {
+    "id": "8b1efa3447abcb4923c13b42580e649d1d985040",
+    "alternateName": "DSDEN",
+    "name": "direction_des_services_departementaux_de_l_education_nationale_dsden_loir_et_cher",
+    "title": "Direction des services départementaux de l'Éducation nationale  (DSDEN) - Loir-et-Cher",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/loir-et-cher/inspection_academique-41018-01",
+    "metadata": {
+      "email": "ce.ia41@ac-orleans-tours.fr",
+      "telephone": "02 34 03 90 20",
+      "url": "https://www.ac-orleans-tours.fr/dsden41/"
+    }
+  },
+  {
+    "id": "0c801ae5eab52a9a284123ec0b6a0aa80f56bb64",
+    "alternateName": "DSDEN",
+    "name": "direction_des_services_departementaux_de_l_education_nationale_dsden_lot",
+    "title": "Direction des services départementaux de l'Éducation nationale  (DSDEN) - Lot",
+    "url": "https://lannuaire.service-public.fr/occitanie/lot/inspection_academique-46042-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 67 76 55 46",
+      "url": "http://www.ac-toulouse.fr/"
+    }
+  },
+  {
+    "id": "fc3276f878e60b284c75f4c6893c237a2e49cd49",
+    "alternateName": "DSDEN",
+    "name": "direction_des_services_departementaux_de_l_education_nationale_dsden_lot_et_garonne",
+    "title": "Direction des services départementaux de l'Éducation nationale (DSDEN) - Lot-et-Garonne",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/lot-et-garonne/inspection_academique-47001-01",
+    "metadata": {
+      "email": "ce.ia47@ac-bordeaux.fr",
+      "telephone": "05 53 67 70 00",
+      "url": "http://www.ac-bordeaux.fr/dsden47/pid32517/accueil.html"
+    }
+  },
+  {
+    "id": "b79eb4826256417f8b09309f975842379ddd0bcb",
+    "alternateName": "DSDEN",
+    "name": "direction_des_services_departementaux_de_l_education_nationale_dsden_lozere",
+    "title": "Direction des services départementaux de l'Éducation nationale (DSDEN) - Lozère",
+    "url": "https://lannuaire.service-public.fr/occitanie/lozere/inspection_academique-48095-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 66 49 51 00",
+      "url": "http://www.ac-montpellier.fr/dsden48/pid32331/accueil.html"
+    }
+  },
+  {
+    "id": "4b148d33fee3c3c117fcf6991e3729848551fbef",
+    "alternateName": "DSDEN",
+    "name": "direction_des_services_departementaux_de_l_education_nationale_dsden_maine_et_loire",
+    "title": "Direction des services départementaux de l'Éducation nationale (DSDEN) - Maine-et-Loire",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/maine-et-loire/inspection_academique-49007-01",
+    "metadata": {
+      "email": "dsden49@ac-nantes.fr",
+      "telephone": "02 41 74 35 35",
+      "url": "http://www.ia49.ac-nantes.fr"
+    }
+  },
+  {
+    "id": "7d0937eafe691513ff11ed4e96992910e9f85887",
+    "alternateName": "DSDEN",
+    "name": "direction_des_services_departementaux_de_l_education_nationale_dsden_manche",
+    "title": "Direction des services départementaux de l'Éducation nationale  (DSDEN) - Manche",
+    "url": "https://lannuaire.service-public.fr/normandie/manche/inspection_academique-50502-01",
+    "metadata": {
+      "email": "ce.dsden50@ac-caen.fr",
+      "telephone": "02 33 06 92 00",
+      "url": "https://www.ac-caen.fr/dsden50/"
+    }
+  },
+  {
+    "id": "b6af0b7c8d00e3f377bc87f9e7b5724ff119f221",
+    "alternateName": "DSDEN",
+    "name": "direction_des_services_departementaux_de_l_education_nationale_dsden_marne",
+    "title": "Direction des services départementaux de l'Éducation nationale (DSDEN) - Marne",
+    "url": "https://lannuaire.service-public.fr/grand-est/marne/inspection_academique-51108-01",
+    "metadata": {
+      "email": "ce.sgdsden51@ac-reims.fr",
+      "telephone": "03 26 68 61 26",
+      "url": "http://www.ac-reims.fr/dsden51"
+    }
+  },
+  {
+    "id": "aaf1f2a8f9b7a4500bae431fb46719027fb060b1",
+    "alternateName": "DSDEN",
+    "name": "direction_des_services_departementaux_de_l_education_nationale_dsden_mayenne",
+    "title": "Direction des services départementaux de l'Éducation nationale (DSDEN) - Mayenne",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/mayenne/inspection_academique-53130-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 43 59 92 00",
+      "url": "http://www.ia53.ac-nantes.fr"
+    }
+  },
+  {
+    "id": "da72aa15f41b8e1ad308c696d2f0ef8ab30deb9c",
+    "alternateName": "DSDEN",
+    "name": "direction_des_services_departementaux_de_l_education_nationale_dsden_meurthe_et_moselle",
+    "title": "Direction des services départementaux de l'Éducation nationale (DSDEN) - Meurthe-et-Moselle",
+    "url": "https://lannuaire.service-public.fr/grand-est/meurthe-et-moselle/inspection_academique-54395-01",
+    "metadata": {
+      "email": "ce.ia54-secretariat-general@ac-nancy-metz.fr",
+      "telephone": "03 83 93 56 00",
+      "url": "http://dsden54.ac-nancy-metz.fr"
+    }
+  },
+  {
+    "id": "719b77ceecfef7de439e39119ff4f43f2144c3d7",
+    "alternateName": "DSDEN",
+    "name": "direction_des_services_departementaux_de_l_education_nationale_dsden_meuse",
+    "title": "Direction des services départementaux de l'Éducation nationale  (DSDEN) - Meuse",
+    "url": "https://lannuaire.service-public.fr/grand-est/meuse/inspection_academique-55029-01",
+    "metadata": {
+      "email": "ce.ia55@ac-nancy-metz.fr",
+      "telephone": "03 29 76 63 63",
+      "url": "http://dsden55.ac-nancy-metz.fr"
+    }
+  },
+  {
+    "id": "076af526f2610705e51ae34cf30ca6d0542bd36e",
+    "alternateName": "DSDEN",
+    "name": "direction_des_services_departementaux_de_l_education_nationale_dsden_morbihan",
+    "title": "Direction des services départementaux de l'Éducation nationale  (DSDEN) - Morbihan",
+    "url": "https://lannuaire.service-public.fr/bretagne/morbihan/inspection_academique-56260-01",
+    "metadata": {
+      "email": "ce.ia56@ac-rennes.fr",
+      "telephone": "02 97 01 86 00",
+      "url": "http://www.ia56.ac-rennes.fr"
+    }
+  },
+  {
+    "id": "6501b456492944b352ce4ceaf10834b90925b50a",
+    "alternateName": "DSDEN",
+    "name": "direction_des_services_departementaux_de_l_education_nationale_dsden_moselle",
+    "title": "Direction des services départementaux de l'Éducation nationale (DSDEN) - Moselle",
+    "url": "https://lannuaire.service-public.fr/grand-est/moselle/inspection_academique-57463-01",
+    "metadata": {
+      "email": "ce.dsden57@ac-nancy-metz.fr",
+      "telephone": "03 87 38 63 63",
+      "url": "http://dsden57.ac-nancy-metz.fr"
+    }
+  },
+  {
+    "id": "b704f090a8ff205304ebda96470d8d12345d9215",
+    "alternateName": "DSDEN",
+    "name": "direction_des_services_departementaux_de_l_education_nationale_dsden_nievre",
+    "title": "Direction des services départementaux de l'Éducation nationale  (DSDEN) - Nièvre",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/nievre/inspection_academique-58194-01",
+    "metadata": {
+      "email": "ia58@ac-dijon.fr",
+      "telephone": "03 86 21 70 10",
+      "url": "http://www.ac-dijon.fr/dsden58"
+    }
+  },
+  {
+    "id": "b928bf162b7c4a213c899235a22cfd8a4e70ea60",
+    "alternateName": "DSDEN",
+    "name": "direction_des_services_departementaux_de_l_education_nationale_dsden_nord",
+    "title": "Direction des services départementaux de l'Éducation nationale (DSDEN) - Nord",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/nord/inspection_academique-59350-01",
+    "metadata": {
+      "email": "ia59.webmaster@ac-lille.fr",
+      "telephone": "03 20 62 30 03",
+      "url": "http://www1.ac-lille.fr/cid90932/presentation-de-la-dsden-du-nord.html?dmenu=1&dsmenu=1"
+    }
+  },
+  {
+    "id": "58574c673a6a0f6920ce9c9d4d9c7ee7129120f3",
+    "alternateName": "DSDEN",
+    "name": "direction_des_services_departementaux_de_l_education_nationale_dsden_oise",
+    "title": "Direction des services départementaux de l'Éducation nationale (DSDEN) - Oise",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/oise/inspection_academique-60057-01",
+    "metadata": {
+      "email": "ce.dsden60@ac-amiens.fr",
+      "telephone": "03 44 06 45 00",
+      "url": "http://www.ac-amiens.fr/dsden60/"
+    }
+  },
+  {
+    "id": "5a551c299032a9bf7f6ce6a0070f320bb35273db",
+    "alternateName": "DSDEN",
+    "name": "direction_des_services_departementaux_de_l_education_nationale_dsden_orne",
+    "title": "Direction des services départementaux de l'Éducation nationale (DSDEN) - Orne",
+    "url": "https://lannuaire.service-public.fr/normandie/orne/inspection_academique-61001-01",
+    "metadata": {
+      "email": "ce.dsden61@ac-caen.fr",
+      "telephone": "02 33 32 50 50",
+      "url": "https://www.ac-caen.fr/dsden61/"
+    }
+  },
+  {
+    "id": "97b4c017694d1e6db42f34cd959078054b44fe58",
+    "alternateName": "DSDEN",
+    "name": "direction_des_services_departementaux_de_l_education_nationale_dsden_paris",
+    "title": "Direction des services départementaux de l'Éducation nationale  (DSDEN) - Paris",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/paris/inspection_academique-75120-01",
+    "metadata": {
+      "email": "ce.rectorat@ac-paris.fr",
+      "telephone": "01 44 62 40 40",
+      "url": "http://www.ac-paris.fr"
+    }
+  },
+  {
+    "id": "dbc0e369e87fb152633c0b6a1d39f75d3abae556",
+    "alternateName": "DSDEN",
+    "name": "direction_des_services_departementaux_de_l_education_nationale_dsden_pas_de_calais",
+    "title": "Direction des services départementaux de l'Éducation nationale (DSDEN) - Pas-de-Calais",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/pas-de-calais/inspection_academique-62041-01",
+    "metadata": {
+      "email": "ce.ia62@ac-lille.fr",
+      "telephone": "03 21 23 31 31",
+      "url": "http://www.ac-lille.fr/dsden62"
+    }
+  },
+  {
+    "id": "55148a318224b2c021c464970215c408a849d409",
+    "alternateName": "DSDEN",
+    "name": "direction_des_services_departementaux_de_l_education_nationale_dsden_puy_de_dome",
+    "title": "Direction des services départementaux de l'Éducation nationale (DSDEN) - Puy-de-Dôme",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/puy-de-dome/inspection_academique-63113-01",
+    "metadata": {
+      "email": "ia63@ac-clermont.fr",
+      "telephone": "04 73 60 99 00",
+      "url": "http://www.ac-clermont.fr/dsden63/"
+    }
+  },
+  {
+    "id": "f93447126317fc27347b00c7fed4e08f2443b168",
+    "alternateName": "DSDEN",
+    "name": "direction_des_services_departementaux_de_l_education_nationale_dsden_pyrenees_atlantiques",
+    "title": "Direction des services départementaux de l'Éducation nationale (DSDEN) - Pyrénées-Atlantiques",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/pyrenees-atlantiques/inspection_academique-64445-01",
+    "metadata": {
+      "email": "ce.ia64@ac-bordeaux.fr",
+      "telephone": "05 59 82 22 00",
+      "url": "http://www.ac-bordeaux.fr/dsden64/pid32555/accueil.html?dmenu=1"
+    }
+  },
+  {
+    "id": "0cc56e68d596cd285f5fa73ed33e237c1e1f4ca5",
+    "alternateName": "DSDEN",
+    "name": "direction_des_services_departementaux_de_l_education_nationale_dsden_pyrenees_orientales",
+    "title": "Direction des services départementaux de l'Éducation nationale (DSDEN) - Pyrénées-Orientales",
+    "url": "https://lannuaire.service-public.fr/occitanie/pyrenees-orientales/inspection_academique-66136-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 68 66 28 00",
+      "url": "http://ia66.ac-montpellier.fr"
+    }
+  },
+  {
+    "id": "cdf6f2dbedec5f7cd82a1dc8bc4c29841f5b8505",
+    "alternateName": "DSDEN",
+    "name": "direction_des_services_departementaux_de_l_education_nationale_dsden_rhone",
+    "title": "Direction des services départementaux de l'Éducation nationale  (DSDEN) - Rhône",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/rhone/inspection_academique-69387-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 72 80 67 67",
+      "url": "http://www.ac-lyon.fr/dsden69"
+    }
+  },
+  {
+    "id": "d2705fd0df46704985cc3a21d1b3b114417528ae",
+    "alternateName": "DSDEN",
+    "name": "direction_des_services_departementaux_de_l_education_nationale_dsden_saone_et_loire",
+    "title": "Direction des services départementaux de l'Éducation nationale (DSDEN) - Saône-et-Loire",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/saone-et-loire/inspection_academique-71270-01",
+    "metadata": {
+      "email": "ce.dsden71@ac-dijon.fr",
+      "telephone": "03 85 22 55 00",
+      "url": "http://www.ac-dijon.fr/dsden71"
+    }
+  },
+  {
+    "id": "9e3ace7ebc6ed3e529617af5fca92fa1f5df71f3",
+    "alternateName": "DSDEN",
+    "name": "direction_des_services_departementaux_de_l_education_nationale_dsden_sarthe",
+    "title": "Direction des services départementaux de l'Éducation nationale (DSDEN) - Sarthe",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/sarthe/inspection_academique-72181-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 43 61 58 00",
+      "url": "http://www.dsden72.ac-nantes.fr"
+    }
+  },
+  {
+    "id": "ad3738fe3b9b0f28c402b2164067b50d89b53e4a",
+    "alternateName": "DSDEN",
+    "name": "direction_des_services_departementaux_de_l_education_nationale_dsden_savoie",
+    "title": "Direction des services départementaux de l'Éducation nationale  (DSDEN) - Savoie",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/savoie/inspection_academique-73065-01",
+    "metadata": {
+      "email": "ce.dsden73@ac-grenoble.fr",
+      "telephone": "04 79 69 16 36",
+      "url": "http://www.ac-grenoble.fr/ia73/spip/"
+    }
+  },
+  {
+    "id": "2f8dc23936b9a70f6aeea18cba51894b6928c19d",
+    "alternateName": "DSDEN",
+    "name": "direction_des_services_departementaux_de_l_education_nationale_dsden_seine_et_marne",
+    "title": "Direction des services départementaux de l'Éducation nationale (DSDEN) - Seine-et-Marne",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/seine-et-marne/inspection_academique-77288-01",
+    "metadata": {
+      "email": "",
+      "telephone": "01 64 41 30 00",
+      "url": "http://www.ia77.ac-creteil.fr"
+    }
+  },
+  {
+    "id": "ea7aadc26145cafa92eb713b689f92a97703fc12",
+    "alternateName": "DSDEN",
+    "name": "direction_des_services_departementaux_de_l_education_nationale_dsden_seine_maritime",
+    "title": "Direction des services départementaux de l'Éducation nationale (DSDEN) - Seine-Maritime",
+    "url": "https://lannuaire.service-public.fr/normandie/seine-maritime/inspection_academique-76540-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 32 08 98 00",
+      "url": "http://www.ia76.ac-rouen.fr"
+    }
+  },
+  {
+    "id": "cc9aa39e6984e0ad9f7cc0017580b66607a381ad",
+    "alternateName": "DSDEN",
+    "name": "direction_des_services_departementaux_de_l_education_nationale_dsden_seine_saint_denis",
+    "title": "Direction des services départementaux de l'Éducation nationale (DSDEN) - Seine-Saint-Denis",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/seine-saint-denis/inspection_academique-93008-01",
+    "metadata": {
+      "email": "ce.dsden93@ac-creteil.fr",
+      "telephone": "01 43 93 70 50",
+      "url": "http://www.dsden93.ac-creteil.fr"
+    }
+  },
+  {
+    "id": "f45921df51974ba4457ac6c2a408a39958289720",
+    "alternateName": "DSDEN",
+    "name": "direction_des_services_departementaux_de_l_education_nationale_dsden_somme",
+    "title": "Direction des services départementaux de l'Éducation nationale (DSDEN) - Somme",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/somme/inspection_academique-80021-01",
+    "metadata": {
+      "email": "ce.dsden80@ac-amiens.fr",
+      "telephone": "03 22 82 38 23",
+      "url": "http://www.ac-amiens.fr/dsden80/"
+    }
+  },
+  {
+    "id": "3731196a75aef0972e2c4d022bad1a3c135bf12e",
+    "alternateName": "DSDEN",
+    "name": "direction_des_services_departementaux_de_l_education_nationale_dsden_tarn",
+    "title": "Direction des services départementaux de l'Éducation nationale  (DSDEN) - Tarn",
+    "url": "https://lannuaire.service-public.fr/occitanie/tarn/inspection_academique-81004-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 67 76 57 81",
+      "url": "http://web.ac-toulouse.fr/web/dsden-tarn/"
+    }
+  },
+  {
+    "id": "4aa8dac7a74cc67b6f07c4cff8e46b9bf260493b",
+    "alternateName": "DSDEN",
+    "name": "direction_des_services_departementaux_de_l_education_nationale_dsden_tarn_et_garonne",
+    "title": "Direction des services départementaux de l'Éducation nationale (DSDEN) - Tarn-et-Garonne",
+    "url": "https://lannuaire.service-public.fr/occitanie/tarn-et-garonne/inspection_academique-82121-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 36 25 71 82",
+      "url": "http://web.ac-toulouse.fr/web/dsden-tarn-et-garonne/"
+    }
+  },
+  {
+    "id": "1dc5a0a737496cc1bb769781b50db41ad154620b",
+    "alternateName": "DSDEN",
+    "name": "direction_des_services_departementaux_de_l_education_nationale_dsden_territoire_de_belfort",
+    "title": "Direction des services départementaux de l'Éducation nationale  (DSDEN) - Territoire de Belfort",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/territoire-de-belfort/inspection_academique-90010-01",
+    "metadata": {
+      "email": "ce.dsden90@ac-besancon.fr",
+      "telephone": "03 84 46 66 00",
+      "url": "http://www.ac-besancon.fr"
+    }
+  },
+  {
+    "id": "1e82a097179edc7c5bc1b298ec072661b3823dec",
+    "alternateName": "DSDEN",
+    "name": "direction_des_services_departementaux_de_l_education_nationale_dsden_val_d_oise",
+    "title": "Direction des services départementaux de l'Éducation nationale  (DSDEN) - Val-d'Oise",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/val-d-oise/inspection_academique-95476-01",
+    "metadata": {
+      "email": "",
+      "telephone": "01 79 81 22 22",
+      "url": "http://www.ac-versailles.fr/dsden95/pid35392/accueil.html?dmenu=1&dsmenu=0"
+    }
+  },
+  {
+    "id": "b00625bdc761b3e71d4e4d7ff9f28b8dd674327d",
+    "alternateName": "DSDEN",
+    "name": "direction_des_services_departementaux_de_l_education_nationale_dsden_val_de_marne",
+    "title": "Direction des services départementaux de l'Éducation nationale  (DSDEN) - Val-de-Marne",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/val-de-marne/inspection_academique-94028-01",
+    "metadata": {
+      "email": "",
+      "telephone": "01 45 17 60 00",
+      "url": "http://www.ia94.ac-creteil.fr"
+    }
+  },
+  {
+    "id": "41876d45bc92a38d7926b6b3cbaf80550dbecda9",
+    "alternateName": "DSDEN",
+    "name": "direction_des_services_departementaux_de_l_education_nationale_dsden_var",
+    "title": "Direction des services départementaux de l'Éducation nationale (DSDEN) - Var",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/var/inspection_academique-83137-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 94 09 55 00",
+      "url": "http://www.ac-nice.fr/ia83"
+    }
+  },
+  {
+    "id": "0ce07d994f9b3526f528517f5b6cee7e6c477081",
+    "alternateName": "DSDEN",
+    "name": "direction_des_services_departementaux_de_l_education_nationale_dsden_vaucluse",
+    "title": "Direction des services départementaux de l'Éducation nationale (DSDEN) - Vaucluse",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/vaucluse/inspection_academique-84007-01",
+    "metadata": {
+      "email": "ce.ia84@ac-aix-marseille.fr",
+      "telephone": "04 90 27 76 00",
+      "url": "http://www.ia84.ac-aix-marseille.fr"
+    }
+  },
+  {
+    "id": "0ce432b561b82eda8961c254f0e5467a5b767ac6",
+    "alternateName": "DSDEN",
+    "name": "direction_des_services_departementaux_de_l_education_nationale_dsden_vendee",
+    "title": "Direction des services départementaux de l'Éducation nationale (DSDEN) - Vendée",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/vendee/inspection_academique-85191-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 51 45 72 00",
+      "url": "http://www.ia85.ac-nantes.fr"
+    }
+  },
+  {
+    "id": "10ab66e2d16da66b7a872174c2d478604759c934",
+    "alternateName": "DSDEN",
+    "name": "direction_des_services_departementaux_de_l_education_nationale_dsden_vienne",
+    "title": "Direction des services départementaux de l'Éducation nationale  (DSDEN) - Vienne",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/vienne/inspection_academique-86194-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 16 52 66 00",
+      "url": "http://www.ac-poitiers.fr/pid36542/dsden-vienne.html"
+    }
+  },
+  {
+    "id": "5b6f84191aa4ecfcbfa802dc28e5c3084f6536cb",
+    "alternateName": "DSDEN",
+    "name": "direction_des_services_departementaux_de_l_education_nationale_dsden_vosges",
+    "title": "Direction des services départementaux de l'Éducation nationale (DSDEN) - Vosges",
+    "url": "https://lannuaire.service-public.fr/grand-est/vosges/inspection_academique-88160-01",
+    "metadata": {
+      "email": "ce.ia88@ac-nancy-metz.fr",
+      "telephone": "03 29 64 80 80",
+      "url": "http://dsden88.ac-nancy-metz.fr"
+    }
+  },
+  {
+    "id": "5934bf9a18d7da1418eade9e19c4b202616e5014",
+    "alternateName": "DSDEN",
+    "name": "direction_des_services_departementaux_de_l_education_nationale_dsden_yonne",
+    "title": "Direction des services départementaux de l'Éducation nationale  (DSDEN) - Yonne",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/yonne/inspection_academique-89024-01",
+    "metadata": {
+      "email": "ia89@ac-dijon.fr",
+      "telephone": "03 86 72 20 00",
+      "url": "http://ia89.ac-dijon.fr"
+    }
+  },
+  {
+    "id": "43c53fd3696f4f04fc11ec313e28ab8483b23d4a",
+    "alternateName": "DSDEN",
+    "name": "direction_des_services_departementaux_de_l_education_nationale_dsden_yvelines",
+    "title": "Direction des services départementaux de l'Éducation nationale  (DSDEN) - Yvelines",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/yvelines/inspection_academique-78297-01",
+    "metadata": {
+      "email": "",
+      "telephone": "01 39 23 60 00",
+      "url": "http://www.ac-versailles.fr/pid35229/accueil.html"
+    }
+  },
+  {
+    "id": "4c7d7ffc750eedd5186c23edd9fa7b2775a6d87f",
+    "name": "service_de_l_education_nationale_saint_pierre_et_miquelon",
+    "title": "Service de l'Éducation nationale - Saint-Pierre-et-Miquelon",
+    "url": "https://lannuaire.service-public.fr/collectivites-d-outre-mer/saint-pierre-et-miquelon/inspection_academique-97502-01",
+    "metadata": {
+      "email": "sg@ac-spm.fr",
+      "telephone": "+508 41 04 60",
+      "url": "http://www.ac-spm.fr"
+    }
+  }
+]

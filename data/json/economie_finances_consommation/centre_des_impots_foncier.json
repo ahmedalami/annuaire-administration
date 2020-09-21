@@ -1,0 +1,1921 @@
+[
+  {
+    "id": "e67ed5762eb519d9e83774c66e4cbe696cc9fb97",
+    "name": "cellule_fonciere_mutualisee",
+    "title": "Cellule foncière mutualisée",
+    "url": "https://lannuaire.service-public.fr/normandie/seine-maritime/centre_impots_fonciers-76351-01",
+    "metadata": {
+      "email": "cfm.le-havre@dgfip.finances.gouv.fr",
+      "telephone": "02 35 19 22 07",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "2069ce2500265be482a656ff5ed5fb7976f76270",
+    "name": "cellule_fonciere_mutualisee_bressuire_thouars",
+    "title": "Cellule foncière mutualisée Bressuire-Thouars",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/deux-sevres/centre_impots_fonciers-79049-01",
+    "metadata": {
+      "email": "sip.bressuire@dgfip.finances.gouv.fr",
+      "telephone": "05 49 81 58 12",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "9a22dea22dc938ac5d257d28c2dc73c526d19253",
+    "name": "cellule_fonciere_mutualisee_niort_melle_saint_maixent",
+    "title": "Cellule foncière mutualisée Niort-Melle-Saint Maixent",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/deux-sevres/centre_impots_fonciers-79191-01",
+    "metadata": {
+      "email": "sip.niort@dgfip.finances.gouv.fr",
+      "telephone": "05 49 09 98 66",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "6b9617ab75746adb41f7abae6422fb73b33d5cb4",
+    "name": "cellule_fonciere_mutualisee_service_des_impots_des_particuliers",
+    "title": "Cellule foncière mutualisée - Service des impôts des particuliers",
+    "url": "https://lannuaire.service-public.fr/normandie/seine-maritime/centre_impots_fonciers-76217-01",
+    "metadata": {
+      "email": "cfm.dieppe@dgfip.finances.gouv.fr",
+      "telephone": "02 32 14 05 67",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "be460628798d561457d7304e9a8a98b2f0e1c8ea",
+    "name": "cellule_fonciere_de_parthenay",
+    "title": "Cellule foncière de Parthenay",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/deux-sevres/centre_impots_fonciers-79202-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 49 95 74 80",
+      "url": "http://www.cadastre.gouv.fr"
+    }
+  },
+  {
+    "id": "675b78ee32e69c2260cdc106fcbf878b3db298cf",
+    "name": "centre_des_finances_publiques_d_antibes",
+    "title": "Centre des finances publiques d'Antibes",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/alpes-maritimes/centre_impots_fonciers-06004-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 92 93 77 77",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "d98b3ab3e49872ab96105cdc6798024fd8700293",
+    "name": "centre_des_finances_publiques_de_bethune",
+    "title": "Centre des finances publiques de Béthune",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/pas-de-calais/centre_impots_fonciers-62119-01",
+    "metadata": {
+      "email": "sip.bethune@dgfip.finances.gouv.fr",
+      "telephone": "03 21 63 10 10",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "474002cda9258c7a0f08475f0e3d1919cd8a88ed",
+    "name": "centre_des_finances_publiques_de_challans",
+    "title": "Centre des finances publiques de Challans",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/vendee/centre_impots_fonciers-85047-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 51 49 54 00",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "7f691a3689bcaab7935381659c07f31ff838d6e3",
+    "name": "centre_des_impots_foncier_d_agen",
+    "title": "Centre des impôts foncier d'Agen",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/lot-et-garonne/centre_impots_fonciers-47001-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 53 69 19 19",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "0bb947fb1f097cc7906dbf0309d0cf2db65f42a2",
+    "name": "centre_des_impots_foncier_d_aix_en_provence",
+    "title": "Centre des impôts foncier d'Aix-en-Provence",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/centre_impots_fonciers-13001-02",
+    "metadata": {
+      "email": "",
+      "telephone": "04 42 37 54 00",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "27f62b8018996dc9f8950a898e13850afed18b75",
+    "name": "centre_des_impots_foncier_d_ajaccio",
+    "title": "Centre des impôts foncier d'Ajaccio",
+    "url": "https://lannuaire.service-public.fr/corse/corse-du-sud/centre_impots_fonciers-2A004-01",
+    "metadata": {
+      "email": "",
+      "telephone": "0811 36 36 00",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "0c69e49d5d4f6dd486486c21234da5308afab4a9",
+    "name": "centre_des_impots_foncier_d_ales",
+    "title": "Centre des impôts foncier d'Alès",
+    "url": "https://lannuaire.service-public.fr/occitanie/gard/centre_impots_fonciers-30294-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 66 78 45 45",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "c5e35451cb0e1ad3504024790c02021ca6b32150",
+    "name": "centre_des_impots_foncier_d_altkirch",
+    "title": "Centre des impôts foncier d'Altkirch",
+    "url": "https://lannuaire.service-public.fr/grand-est/haut-rhin/centre_impots_fonciers-68004-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 89 08 90 73",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "759c9aa0fa30ecd0c8a9a59834a31e32b0aed65f",
+    "name": "centre_des_impots_foncier_d_amiens",
+    "title": "Centre des impôts foncier d'Amiens",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/somme/centre_impots_fonciers-80021-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 22 46 83 83",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "a58cd1082a7b58abda66f6007e220d11f3658c0c",
+    "name": "centre_des_impots_foncier_d_angouleme",
+    "title": "Centre des impôts foncier d'Angoulême",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/charente/centre_impots_fonciers-16374-01",
+    "metadata": {
+      "email": "sip.angouleme@dgfip.finances.gouv.fr",
+      "telephone": "05 45 97 57 00",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "6d0604c5a4d65692f244bc0e6766b39afb401828",
+    "name": "centre_des_impots_foncier_d_annecy",
+    "title": "Centre des impôts foncier d'Annecy",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/haute-savoie/centre_impots_fonciers-74010-01",
+    "metadata": {
+      "email": "cdif.annecy@dgfip.finances.gouv.fr",
+      "telephone": "04 50 88 40 43",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "c1252b8aee7fa8cca672280e653bfa2b900685c5",
+    "name": "centre_des_impots_foncier_d_arras",
+    "title": "Centre des impôts foncier d'Arras",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/pas-de-calais/centre_impots_fonciers-62041-01",
+    "metadata": {
+      "email": "sip.arras@dgfip.finances.gouv.fr",
+      "telephone": "03 21 24 68 68",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "5d7d34860a620da5207c740f7fa00c7f1e230497",
+    "name": "centre_des_impots_foncier_d_auch",
+    "title": "Centre des impôts foncier d'Auch",
+    "url": "https://lannuaire.service-public.fr/occitanie/gers/centre_impots_fonciers-32013-01",
+    "metadata": {
+      "email": "cdif.auch@dgfip.finances.gouv.fr",
+      "telephone": "05 62 61 50 50",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "13ee09e7d73acefcd91761084620e56737bffef7",
+    "name": "centre_des_impots_foncier_d_aurillac",
+    "title": "Centre des impôts foncier d'Aurillac",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/cantal/centre_impots_fonciers-15014-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 71 43 44 45",
+      "url": "http://www.minefi.gouv.fr"
+    }
+  },
+  {
+    "id": "00b6618420700a321644f5ef379555b2a81eddc5",
+    "name": "centre_des_impots_foncier_d_autun",
+    "title": "Centre des impôts foncier d'Autun",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/saone-et-loire/centre_impots_fonciers-71014-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 85 86 40 00",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "944821377c5a0bcbfc645bc735d7eb06a596bf67",
+    "name": "centre_des_impots_foncier_d_auxerre",
+    "title": "Centre des impôts foncier d'Auxerre",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/yonne/centre_impots_fonciers-89024-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 86 72 50 00",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "88635e961a84ea0f163d93a2c7cdaa9f4e7eab39",
+    "name": "centre_des_impots_foncier_d_avranches",
+    "title": "Centre des impôts foncier d'Avranches",
+    "url": "https://lannuaire.service-public.fr/normandie/manche/centre_impots_fonciers-50025-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 33 89 10 00",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "3e3455e3d788e3f15ba7042a86c478db232b8b58",
+    "name": "centre_des_impots_foncier_de_bar_le_duc",
+    "title": "Centre des impôts foncier de Bar-le-Duc",
+    "url": "https://lannuaire.service-public.fr/grand-est/meuse/centre_impots_fonciers-55029-01",
+    "metadata": {
+      "email": "sip.bar-le-duc@dgfip.finance.gouv.fr",
+      "telephone": "03 29 79 48 55",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "a1d86c472a0982e3d6fe19bed909011bf79e148a",
+    "name": "centre_des_impots_foncier_de_basse_terre",
+    "title": "Centre des impôts foncier de Basse-Terre",
+    "url": "https://lannuaire.service-public.fr/guadeloupe/guadeloupe/centre_impots_fonciers-97105-01",
+    "metadata": {
+      "email": "",
+      "telephone": "+590 590 99 47 00",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "5bcb97003705c1d20426b05789efd4a61b16d2e0",
+    "name": "centre_des_impots_foncier_de_bastia",
+    "title": "Centre des impôts foncier de Bastia",
+    "url": "https://lannuaire.service-public.fr/corse/haute-corse/centre_impots_fonciers-2B033-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 95 32 94 52",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "c8db38c8a0e903f20f748dbd3e2e8dfea105d3c0",
+    "name": "centre_des_impots_foncier_de_bayeux",
+    "title": "Centre des impôts foncier de Bayeux",
+    "url": "https://lannuaire.service-public.fr/normandie/calvados/centre_impots_fonciers-14047-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 31 51 44 40",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "a8e2a5c4ce79f2da4a5f0d9673e961f06952eb80",
+    "name": "centre_des_impots_foncier_de_bayonne",
+    "title": "Centre des impôts foncier de Bayonne",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/pyrenees-atlantiques/centre_impots_fonciers-64102-01",
+    "metadata": {
+      "email": "cdif.bayonne@dgfip.finances.gouv.fr",
+      "telephone": "05 59 44 66 54",
+      "url": "http://www.cadastre.gouv.fr"
+    }
+  },
+  {
+    "id": "af6afe992f636f2566abbbf2e4389198294c713e",
+    "name": "centre_des_impots_foncier_de_beauvais",
+    "title": "Centre des impôts foncier de Beauvais",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/oise/centre_impots_fonciers-60057-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 44 79 54 54",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "9d6e91acb9ebafe984ab3a088abd1dac0f18fe47",
+    "name": "centre_des_impots_foncier_de_belfort",
+    "title": "Centre des impôts foncier de Belfort",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/territoire-de-belfort/centre_impots_fonciers-90010-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 84 58 80 02",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "4115e667ebcf67a2798aa04231e9caeeb459e717",
+    "name": "centre_des_impots_foncier_de_bellac",
+    "title": "Centre des impôts foncier de Bellac",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/haute-vienne/centre_impots_fonciers-87011-01",
+    "metadata": {
+      "email": "sip.bellac@dgfip.finances.gouv.fr",
+      "telephone": "05 55 60 93 20",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "827ce3592fa89cb8165e2c0c90aa86be71fdae57",
+    "name": "centre_des_impots_foncier_de_besancon",
+    "title": "Centre des impôts foncier de Besançon",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/doubs/centre_impots_fonciers-25056-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 81 47 24 00",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "1224f87a9ce86651bf48643db115ab74a7a8b686",
+    "name": "centre_des_impots_foncier_de_beziers",
+    "title": "Centre des impôts foncier de Béziers",
+    "url": "https://lannuaire.service-public.fr/occitanie/herault/centre_impots_fonciers-34032-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 67 35 69 45",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "f15a2d85815657b856ac6a4835a4178011b9e9a4",
+    "name": "centre_des_impots_foncier_de_blois",
+    "title": "Centre des impôts foncier de Blois",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/loir-et-cher/centre_impots_fonciers-41018-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 54 55 70 37",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "59bc7199db8d998ee8ee6875a5704c048ece379b",
+    "name": "centre_des_impots_foncier_de_bonneville",
+    "title": "Centre des impôts foncier de Bonneville",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/haute-savoie/centre_impots_fonciers-74042-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 50 97 19 01",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "e5f3d89e173f3cc5b3756aec2746e94b04149fb6",
+    "name": "centre_des_impots_foncier_de_bordeaux",
+    "title": "Centre des impôts foncier de Bordeaux",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/gironde/centre_impots_fonciers-33063-03",
+    "metadata": {
+      "email": "",
+      "telephone": "05 56 24 81 43",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "790b6f8ab51f42cb7b998bc2cbc94e3f5e18ce6e",
+    "name": "centre_des_impots_foncier_de_bordeaux_1",
+    "title": "Centre des impôts foncier  de Bordeaux 1",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/gironde/centre_impots_fonciers-33063-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 56 24 80 58",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "3381a954f0570115d3fcd6def653f46153f1abe3",
+    "name": "centre_des_impots_foncier_de_bordeaux_2",
+    "title": "Centre des impôts foncier de Bordeaux 2",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/gironde/centre_impots_fonciers-33063-02",
+    "metadata": {
+      "email": "",
+      "telephone": "05 56 24 81 43",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "77aebfc9104907a05cda9cdf3acdcef0612ed928",
+    "name": "centre_des_impots_foncier_de_bourg_en_bresse",
+    "title": "Centre des impôts foncier de Bourg-en-Bresse",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/ain/centre_impots_fonciers-01053-01",
+    "metadata": {
+      "email": "cdif.bourg-en-bresse@dgfip.finances.gouv.fr",
+      "telephone": "04 74 45 77 00",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "19c043c0320058458eddf71b15ff2487f4df1a9a",
+    "name": "centre_des_impots_foncier_de_bourges",
+    "title": "Centre des impôts foncier de Bourges",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/cher/centre_impots_fonciers-18033-01",
+    "metadata": {
+      "email": "cdif.bourges@dgfip.finances.gouv.fr",
+      "telephone": "02 48 27 18 30",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "f49a2c108eb29f5e67aa29510b417e419e003c75",
+    "name": "centre_des_impots_foncier_de_brest",
+    "title": "Centre des impôts foncier de Brest",
+    "url": "https://lannuaire.service-public.fr/bretagne/finistere/centre_impots_fonciers-29019-01",
+    "metadata": {
+      "email": "cdif.brest@dgfip.finances.gouv.fr",
+      "telephone": "02 98 80 89 31",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "bd7c0b6276dc2253e954225cc708a14bc2181268",
+    "name": "centre_des_impots_foncier_de_brive_la_gaillarde",
+    "title": "Centre des impôts foncier de Brive-la-Gaillarde",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/correze/centre_impots_fonciers-19031-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 55 18 31 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "55307127f26d6ccf0c9abfbd70d9806c426b1ea6",
+    "name": "centre_des_impots_foncier_de_caen",
+    "title": "Centre des impôts foncier de Caen",
+    "url": "https://lannuaire.service-public.fr/normandie/calvados/centre_impots_fonciers-14118-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 31 39 74 00",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "f06fb6fd15303acc66ea23fc14fe9e84a008d990",
+    "name": "centre_des_impots_foncier_de_carcassonne",
+    "title": "Centre des impôts foncier de Carcassonne",
+    "url": "https://lannuaire.service-public.fr/occitanie/aude/centre_impots_fonciers-11069-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 68 77 43 73",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "b8bb844f1b08f8ff7bb217fe08012c377fa53b43",
+    "name": "centre_des_impots_foncier_de_castres",
+    "title": "Centre des impôts foncier de Castres",
+    "url": "https://lannuaire.service-public.fr/occitanie/tarn/centre_impots_fonciers-81065-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 63 62 52 00",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "99e0f57366eb8691e4db68873b729e9e0c1f7248",
+    "name": "centre_des_impots_foncier_de_cergy_pontoise_vexin",
+    "title": "Centre des impôts foncier de Cergy-Pontoise Vexin",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/val-d-oise/centre_impots_fonciers-95127-01",
+    "metadata": {
+      "email": "",
+      "telephone": "01 30 75 72 52",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "20c3892dbd1eeb69cce7f2ce6c27846f835b7d88",
+    "name": "centre_des_impots_foncier_de_chalons_en_champagne",
+    "title": "Centre des impôts foncier de Châlons-en-Champagne",
+    "url": "https://lannuaire.service-public.fr/grand-est/marne/centre_impots_fonciers-51108-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 26 68 60 36",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "8c3ee3fd619a8adcdf6e9057a1d4179bef06076c",
+    "name": "centre_des_impots_foncier_de_chalon_sur_saone",
+    "title": "Centre des impôts foncier de Chalon-sur-Saône",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/saone-et-loire/centre_impots_fonciers-71076-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 85 41 71 71",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "9088739ad9d538b98499bd5743d1b2861817fb29",
+    "name": "centre_des_impots_foncier_de_chambery",
+    "title": "Centre des impôts foncier de Chambéry",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/savoie/centre_impots_fonciers-73029-01",
+    "metadata": {
+      "email": "cdif.chambery@dgfip.finances.gouv.fr",
+      "telephone": "04 79 96 43 21",
+      "url": "http://www.cadastre.gouv.fr"
+    }
+  },
+  {
+    "id": "c291e88fd6a77c5bd512f7707062e04192288d33",
+    "name": "centre_des_impots_foncier_de_charleville_mezieres",
+    "title": "Centre des impôts foncier de Charleville-Mézières",
+    "url": "https://lannuaire.service-public.fr/grand-est/ardennes/centre_impots_fonciers-08105-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 24 56 60 54",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "ac7c1c583151d76ae3d1a11073a28c719fcb6fd7",
+    "name": "centre_des_impots_foncier_de_charolles",
+    "title": "Centre des impôts foncier de Charolles",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/saone-et-loire/centre_impots_fonciers-71106-01",
+    "metadata": {
+      "email": "sip-sie.charolles@dgfip.finances.gouv.fr",
+      "telephone": "03 85 88 29 36",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "add5eee61c9ee1cd557d3463345a2f92d71eae3e",
+    "name": "centre_des_impots_foncier_de_chateauroux",
+    "title": "Centre des impôts foncier de Châteauroux",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/indre/centre_impots_fonciers-36044-01",
+    "metadata": {
+      "email": "cdif.chateauroux@dgfip.finances.gouv.fr",
+      "telephone": "02 54 53 16 89",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "f13eba2317517485a606938ee35e0a2b49f4050f",
+    "name": "centre_des_impots_foncier_de_chaumont",
+    "title": "Centre des impôts foncier de Chaumont",
+    "url": "https://lannuaire.service-public.fr/grand-est/haute-marne/centre_impots_fonciers-52121-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 25 30 52 52",
+      "url": "http://www.cadastre.gouv.fr"
+    }
+  },
+  {
+    "id": "539989ca3d3043e72d3e4cbe69ecd5808b3a752d",
+    "name": "centre_des_impots_foncier_de_cherbourg_en_cotentin",
+    "title": "Centre des impôts foncier de Cherbourg-en-Cotentin",
+    "url": "https://lannuaire.service-public.fr/normandie/manche/centre_impots_fonciers-50129-01",
+    "metadata": {
+      "email": "sip.cherbourg@dgfip.finances.gouv.fr",
+      "telephone": "02 33 01 62 00",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "b5298df3aa2ed92dcf8772717141c2de0935f079",
+    "name": "centre_des_impots_foncier_de_clermont_ferrand",
+    "title": "Centre des impôts foncier de Clermont-Ferrand",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/puy-de-dome/centre_impots_fonciers-63113-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 73 43 21 54",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "cdf502ff2fd6a55d7b7e21a885dff1764446644b",
+    "name": "centre_des_impots_foncier_de_colmar",
+    "title": "Centre des impôts foncier de Colmar",
+    "url": "https://lannuaire.service-public.fr/grand-est/haut-rhin/centre_impots_fonciers-68066-01",
+    "metadata": {
+      "email": "cdif.colmar@dgfip.finances.gouv.fr",
+      "telephone": "03 89 24 81 03",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "ed1026d4407ef82cc3aceff5a8ce0a937b1a6067",
+    "name": "centre_des_impots_foncier_de_colomiers",
+    "title": "Centre des impôts foncier de Colomiers",
+    "url": "https://lannuaire.service-public.fr/occitanie/haute-garonne/centre_impots_fonciers-31149-01",
+    "metadata": {
+      "email": "cdif.colomiers@dgfip.finances.gouv.fr",
+      "telephone": "05 62 74 23 50",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "74d831378a229f9a69e1a0d3c065dfe66f7f0ba0",
+    "name": "centre_des_impots_foncier_de_corbeil_essonnes",
+    "title": "Centre des impôts foncier de Corbeil-Essonnes",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/essonne/centre_impots_fonciers-91174-01",
+    "metadata": {
+      "email": "",
+      "telephone": "01 60 90 51 00",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "f64ec247a7cfddb4f34c164b76140418cfe3cccf",
+    "name": "centre_des_impots_foncier_de_coutances",
+    "title": "Centre des impôts foncier de Coutances",
+    "url": "https://lannuaire.service-public.fr/normandie/manche/centre_impots_fonciers-50147-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 33 76 66 00",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "64e317ceed3b6610f2fa814a1941967a7f2b0c82",
+    "name": "centre_des_impots_foncier_de_creteil",
+    "title": "Centre des impôts foncier de Créteil",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/val-de-marne/centre_impots_fonciers-94028-01",
+    "metadata": {
+      "email": "cdif.creteil@dgfip.finances.gouv.fr",
+      "telephone": "01 43 99 36 36",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "dab43bee5e2e3b5cde767e8d3cb13a20c21dcbf8",
+    "name": "centre_des_impots_foncier_de_dax",
+    "title": "Centre des impôts foncier de Dax",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/landes/centre_impots_fonciers-40088-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 58 56 63 63",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "6e923022166aa8b678b74cb972f38c8a605ba141",
+    "name": "centre_des_impots_foncier_dd_nord_isere",
+    "title": "Centre des impôts foncier dd Nord Isère",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/isere/centre_impots_fonciers-38544-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 74 31 12 32",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "c142ddd399930c9193362395d62745ebcebb97a2",
+    "name": "centre_des_impots_foncier_de_digne_les_bains",
+    "title": "Centre des impôts foncier de Digne-les-Bains",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/alpes-de-haute-provence/centre_impots_fonciers-04070-01",
+    "metadata": {
+      "email": "sdif04@dgfip.finances.gouv.fr",
+      "telephone": "04 92 30 84 66",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "d4ad4a1a631295f540946dbd58b56734697443c4",
+    "name": "centre_des_impots_foncier_de_dinan",
+    "title": "Centre des impôts foncier de Dinan",
+    "url": "https://lannuaire.service-public.fr/bretagne/cotes-d-armor/centre_impots_fonciers-22050-01",
+    "metadata": {
+      "email": "cdif.dinan@dgfip.finances.gouv.fr",
+      "telephone": "02 96 87 61 00",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "62c3289f171c73d01b8cb951ca4ae8330b08b81e",
+    "name": "centre_des_impots_foncier_de_douai",
+    "title": "Centre des impôts foncier de Douai",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/nord/centre_impots_fonciers-59178-01",
+    "metadata": {
+      "email": "",
+      "telephone": "0811 70 99 07",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "9c571c61965b95e109ecf865548bbe99a66aef6b",
+    "name": "centre_des_impots_foncier_de_draguignan",
+    "title": "Centre des impôts foncier de Draguignan",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/var/centre_impots_fonciers-83050-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 94 60 49 33",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "b86bc024280e3a736681496e824fca70d64a3396",
+    "name": "centre_des_impots_foncier_de_dunkerque",
+    "title": "Centre des impôts foncier de Dunkerque",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/nord/centre_impots_fonciers-59183-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 28 22 66 66",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "cb338ddd6217634a7b6a3f9e35596ce14e9cf1f5",
+    "name": "centre_des_impots_foncier_d_epinal",
+    "title": "Centre des impôts foncier d'Épinal",
+    "url": "https://lannuaire.service-public.fr/grand-est/vosges/centre_impots_fonciers-88160-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 29 69 22 95",
+      "url": "http://cadastre.gouv.fr"
+    }
+  },
+  {
+    "id": "6bbebe453386a43a1c98e46c4ef3261558c315ca",
+    "name": "centre_des_impots_foncier_d_ermont_vallee_de_montmorency",
+    "title": "Centre des impôts foncier d'Ermont - Vallée de Montmorency",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/val-d-oise/centre_impots_fonciers-95219-01",
+    "metadata": {
+      "email": "",
+      "telephone": "01 30 72 82 00",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "5e0036d47d35c13d17d5b41b094bd36de470d4cf",
+    "name": "centre_des_impots_foncier_d_evreux",
+    "title": "Centre des impôts foncier d'Évreux",
+    "url": "https://lannuaire.service-public.fr/normandie/eure/centre_impots_fonciers-27229-01",
+    "metadata": {
+      "email": "cdif.evreux@dgfip.finances.gouv.fr",
+      "telephone": "02 32 23 31 00",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "ec49fd00ad8e3613c3e03f18127d84e9d1cb3aaf",
+    "name": "centre_des_impots_foncier_de_foix",
+    "title": "Centre des impôts foncier de Foix",
+    "url": "https://lannuaire.service-public.fr/occitanie/ariege/centre_impots_fonciers-09122-01",
+    "metadata": {
+      "email": "sdif.ariege@dgfip.finances.gouv.fr",
+      "telephone": "05 61 02 33 34",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "fb1aabb21cd3bd2d1761510e259970a3c8d1ae0f",
+    "name": "centre_des_impots_foncier_de_fontenay_le_comte",
+    "title": "Centre des impôts foncier de Fontenay-le-Comte",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/vendee/centre_impots_fonciers-85092-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 51 50 30 10",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "395f6e5b766140c76502cb903df77d176f3d871d",
+    "name": "centre_des_impots_foncier_de_fort_de_france",
+    "title": "Centre des impôts foncier de Fort-de-France",
+    "url": "https://lannuaire.service-public.fr/martinique/martinique/centre_impots_fonciers-97209-01",
+    "metadata": {
+      "email": "",
+      "telephone": "+596 5 96 59 55 00",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "e00044d5133514ddb4f188b2219706eaf7d626fd",
+    "name": "centre_des_impots_foncier_de_grasse",
+    "title": "Centre des impôts foncier de Grasse",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/alpes-maritimes/centre_impots_fonciers-06069-01",
+    "metadata": {
+      "email": "",
+      "telephone": "08 11 36 96 09",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "8e5179be950e9184de27248051d8d46a7d895884",
+    "name": "centre_des_impots_foncier_de_gray",
+    "title": "Centre des impôts foncier de Gray",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/haute-saone/centre_impots_fonciers-70279-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 84 64 78 00",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "e2334d10f53ae3f03f31ba5aea81d6320b2040ef",
+    "name": "centre_des_impots_foncier_de_gueret",
+    "title": "Centre des impôts foncier de Guéret",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/creuse/centre_impots_fonciers-23096-01",
+    "metadata": {
+      "email": "cdif.gueret@dgfip.finances.gouv.fr",
+      "telephone": "05 55 51 63 23",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "f6391cf20ab9f47d7e0f0fcc6e953ee55a4b8bb6",
+    "name": "centre_des_impots_foncier_de_guingamp",
+    "title": "Centre des impôts foncier de Guingamp",
+    "url": "https://lannuaire.service-public.fr/bretagne/cotes-d-armor/centre_impots_fonciers-22070-01",
+    "metadata": {
+      "email": "cdif.guingamp@dgfip.finances.gouv.fr",
+      "telephone": "02 96 13 55 55",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "6d7a4b6182395c3c014279902becad44cd29eb38",
+    "name": "centre_des_impots_foncier_d_hazebrouck",
+    "title": "Centre des impôts foncier d'Hazebrouck",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/nord/centre_impots_fonciers-59295-01",
+    "metadata": {
+      "email": "",
+      "telephone": "0811 70 99 07",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "d5371fa65b8fe0e97ffd0caa0c2559d40be99431",
+    "name": "centre_des_impots_foncier_de_la_fleche",
+    "title": "Centre des impôts foncier de La Flèche",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/sarthe/centre_impots_fonciers-72154-01",
+    "metadata": {
+      "email": "sip.la-fleche@dgfip.finances.gouv.fr",
+      "telephone": "02 43 48 54 10",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "17a70188f70c403264d13da75f69a4f1a4952d8e",
+    "name": "centre_des_impots_foncier_de_la_reole",
+    "title": "Centre des impôts foncier de La Réole",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/gironde/centre_impots_fonciers-33352-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 56 61 59 60",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "3698f8dd8c12afea3bb7696a3af7383de59cb9cb",
+    "name": "centre_des_impots_foncier_de_la_rochelle",
+    "title": "Centre des impôts foncier de La Rochelle",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/charente-maritime/centre_impots_fonciers-17300-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 46 27 61 00",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "70a34d19fd2e029bd9dd5937c7d0001beb24cbe9",
+    "name": "centre_des_impots_foncier_de_la_roche_sur_yon",
+    "title": "Centre des impôts foncier de La Roche-sur-Yon",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/vendee/centre_impots_fonciers-85191-01",
+    "metadata": {
+      "email": "cdif.la-roche-sur-yon@dgfip.finances.gouv.fr",
+      "telephone": "02 51 45 11 70",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "5d7def87632bf9d41bcf5a36e6163e6b2cb6d94d",
+    "name": "centre_des_impots_foncier_de_laval",
+    "title": "Centre des impôts foncier de Laval",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/mayenne/centre_impots_fonciers-53130-01",
+    "metadata": {
+      "email": "cdif.laval@dgfip.finances.gouv.fr",
+      "telephone": "02 43 49 77 17",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "01536da81c2528a7c33afb810f451b6e021b6a9b",
+    "name": "centre_des_impots_foncier_de_lille_1",
+    "title": "Centre des impôts foncier de Lille 1",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/nord/centre_impots_fonciers-59350-01",
+    "metadata": {
+      "email": "",
+      "telephone": "0811 70 99 07",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "f414c66bd5e53642835da05a0bbc62921e32679a",
+    "name": "centre_des_impots_foncier_de_lille_2",
+    "title": "Centre des impôts foncier de Lille 2",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/nord/centre_impots_fonciers-59350-02",
+    "metadata": {
+      "email": "",
+      "telephone": "08 11 70 99 07",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "140ff7e2560fb2ac3c7f1751cce7d0d276c575dd",
+    "name": "centre_des_impots_foncier_de_lons_le_saunier",
+    "title": "Centre des impôts foncier de Lons-le-Saunier",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/jura/centre_impots_fonciers-39300-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 84 43 46 00",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "25b9d9ead4fbf0d561edb174fa19c8080a9fe09e",
+    "name": "centre_des_impots_foncier_de_loudeac",
+    "title": "Centre des impôts foncier de Loudéac",
+    "url": "https://lannuaire.service-public.fr/bretagne/cotes-d-armor/centre_impots_fonciers-22136-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 96 66 16 60",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "5929b2036b475fd2bd6de55877bbee5c5b727c2b",
+    "name": "centre_des_impots_foncier_de_louhans",
+    "title": "Centre des impôts foncier de Louhans",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/saone-et-loire/centre_impots_fonciers-71263-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 85 76 47 47",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "7b5bfdf092d46d46c09fcc043a7464a03088d407",
+    "name": "centre_des_impots_foncier_de_macon",
+    "title": "Centre des impôts foncier de Mâcon",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/saone-et-loire/centre_impots_fonciers-71270-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 85 22 53 03",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "9daad3b08899f16097fad26eb7ab51b12e035688",
+    "name": "centre_des_impots_foncier_de_mamers",
+    "title": "Centre des impôts foncier de Mamers",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/sarthe/centre_impots_fonciers-72180-01",
+    "metadata": {
+      "email": "fip.mamers@dgfip.finances.gouv.fr",
+      "telephone": "02 43 31 45 45",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "b43b3fa4cd3a696adab6878df9a2a32c7e2f29ef",
+    "name": "centre_des_impots_foncier_de_mamoudzou",
+    "title": "Centre des impôts foncier de Mamoudzou",
+    "url": "https://lannuaire.service-public.fr/mayotte/mayotte/centre_impots_fonciers-97611-01",
+    "metadata": {
+      "email": "",
+      "telephone": "+269 269 61 81 10",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "4d5a21e232da0fa7d974bccffa64267a75c426f9",
+    "name": "centre_des_impots_foncier_du_mans",
+    "title": "Centre des impôts foncier du Mans",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/sarthe/centre_impots_fonciers-72181-01",
+    "metadata": {
+      "email": "cdif.le-mans@dgfip.finances.gouv.fr",
+      "telephone": "02 43 83 81 30",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "69f79dc2e7a3146b6e511c270e900ccca18f3c71",
+    "name": "centre_des_impots_foncier_de_marseille_nord",
+    "title": "Centre des impôts foncier de Marseille - Nord",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/centre_impots_fonciers-13208-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 91 23 61 68",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "b6c23ff93477cdea0ffbeb3f6bbe5de034c858d2",
+    "name": "centre_des_impots_foncier_de_marseille_sud",
+    "title": "Centre des impôts foncier de Marseille - Sud",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/centre_impots_fonciers-13208-02",
+    "metadata": {
+      "email": "",
+      "telephone": "04 91 23 61 83",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "fd1e1bf69fe2966bf03a2fbce75cd6215e88fc1f",
+    "name": "centre_des_impots_foncier_de_meaux",
+    "title": "Centre des impôts foncier de Meaux",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/seine-et-marne/centre_impots_fonciers-77284-01",
+    "metadata": {
+      "email": "",
+      "telephone": "01 64 35 32 40",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "ac2b52fe6fef672df0e7c598fed1ac7317ecfbae",
+    "name": "centre_des_impots_foncier_de_metz",
+    "title": "Centre des impôts foncier de Metz",
+    "url": "https://lannuaire.service-public.fr/grand-est/moselle/centre_impots_fonciers-57463-01",
+    "metadata": {
+      "email": "ptgc.moselle@dgfip.finances.gouv.fr",
+      "telephone": "03 87 55 81 45",
+      "url": "https://www.cadastre.gouv.fr"
+    }
+  },
+  {
+    "id": "15ab1032ec75c3f9863a33e3a58421b94729ecb6",
+    "name": "centre_des_impots_foncier_de_millau",
+    "title": "Centre des impôts foncier de Millau",
+    "url": "https://lannuaire.service-public.fr/occitanie/aveyron/centre_impots_fonciers-12145-01",
+    "metadata": {
+      "email": "cdif.millau@dgfip.finances.gouv.fr",
+      "telephone": "05 65 59 20 00",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "4e994ede859aa4153cec0f05e5ba6568f85e2cb2",
+    "name": "centre_des_impots_foncier_de_montargis",
+    "title": "Centre des impôts foncier de Montargis",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/loiret/centre_impots_fonciers-45208-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 38 28 19 00",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "6897723a63572d7369e8aaec26eb5234df9d7fec",
+    "name": "centre_des_impots_foncier_de_montauban",
+    "title": "Centre des impôts foncier de Montauban",
+    "url": "https://lannuaire.service-public.fr/occitanie/tarn-et-garonne/centre_impots_fonciers-82121-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 63 21 57 77",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "fdb160f84fce99098c3c157948fa1182c7931680",
+    "name": "centre_des_impots_foncier_de_montbeliard",
+    "title": "Centre des impôts foncier de Montbéliard",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/doubs/centre_impots_fonciers-25388-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 81 32 62 00",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "d808567c16df203068e4992280eea459e87051dc",
+    "name": "centre_des_impots_foncier_de_mont_de_marsan",
+    "title": "Centre des impôts foncier de Mont-de-Marsan",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/landes/centre_impots_fonciers-40192-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 58 06 61 61",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "930de5c33b4a97b16bb5fdd1e9f5e7bf32778713",
+    "name": "centre_des_impots_foncier_de_montlucon",
+    "title": "Centre des impôts foncier de Montluçon",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/allier/centre_impots_fonciers-03185-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 70 08 22 00",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "a4b974a62f8a7656a08bf5962ff1e83d4cf0b5f9",
+    "name": "centre_des_impots_foncier_de_montpellier",
+    "title": "Centre des impôts foncier de Montpellier",
+    "url": "https://lannuaire.service-public.fr/occitanie/herault/centre_impots_fonciers-34172-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 67 22 61 00",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "7f10b768be2396aa587f29a3acc4d2b1e5a0e5d6",
+    "name": "centre_des_impots_foncier_de_montreuil",
+    "title": "Centre des impôts foncier de Montreuil",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/pas-de-calais/centre_impots_fonciers-62588-01",
+    "metadata": {
+      "email": "sip.montreuil-sur-mer@dgfip.finances.gouv.fr",
+      "telephone": "03 21 90 10 00",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "71c8d7ee6866fe8d24e643dd2c3412705927e5f8",
+    "name": "centre_des_impots_foncier_de_moulins",
+    "title": "Centre des impôts foncier de Moulins",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/allier/centre_impots_fonciers-03321-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 70 48 29 00",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "0014ca9b3bafb1cb909fe59d243bb4203aa8a52d",
+    "name": "centre_des_impots_foncier_de_moutiers",
+    "title": "Centre des impôts foncier de Moûtiers",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/savoie/centre_impots_fonciers-73181-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 79 22 85 30",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "33712d3e7e884ac3de33286165a5a6125550f245",
+    "name": "centre_des_impots_foncier_de_mulhouse",
+    "title": "Centre des impôts foncier de Mulhouse",
+    "url": "https://lannuaire.service-public.fr/grand-est/haut-rhin/centre_impots_fonciers-68224-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 89 33 32 14",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "3284de0e21f6f078feb86a44810aaf90fd715135",
+    "name": "centre_des_impots_foncier_de_muret",
+    "title": "Centre des impôts foncier de Muret",
+    "url": "https://lannuaire.service-public.fr/occitanie/haute-garonne/centre_impots_fonciers-31395-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 62 23 12 40",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "ddef4c5bd1000ee45299e77f2288108ed048b1a9",
+    "name": "centre_des_impots_foncier_de_nancy",
+    "title": "Centre des impôts foncier de Nancy",
+    "url": "https://lannuaire.service-public.fr/grand-est/meurthe-et-moselle/centre_impots_fonciers-54395-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 83 85 46 46",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "3a54bf23a9d0d6385f057c4063c3014bd9d6598c",
+    "name": "centre_des_impots_foncier_de_nanterre",
+    "title": "Centre des impôts foncier de Nanterre",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/hauts-de-seine/centre_impots_fonciers-92050-01",
+    "metadata": {
+      "email": "",
+      "telephone": "01 41 37 84 50",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "5ed532d7f73a667e44fefada2cf6cfd37fb43198",
+    "name": "centre_des_impots_foncier_de_nantua",
+    "title": "Centre des impôts foncier de Nantua",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/ain/centre_impots_fonciers-01269-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 74 75 97 30",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "671a15c1642aff5f2bce81b0aa5026ceb4b98922",
+    "name": "centre_des_impots_foncier_de_nevers",
+    "title": "Centre des impôts foncier de Nevers",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/nievre/centre_impots_fonciers-58194-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 86 68 49 49",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "7a0a029ad5d4d58edb57dc6d957da14cb837059a",
+    "name": "centre_des_impots_foncier_de_nice",
+    "title": "Centre des impôts foncier de Nice",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/alpes-maritimes/centre_impots_fonciers-06088-01",
+    "metadata": {
+      "email": "",
+      "telephone": "08 11 36 96 09",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "981914971d26a680407902df9b2fb9676e1e5d00",
+    "name": "centre_des_impots_foncier_de_nimes",
+    "title": "Centre des impôts foncier de Nîmes",
+    "url": "https://lannuaire.service-public.fr/occitanie/gard/centre_impots_fonciers-30189-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 66 87 60 60",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "8006826e2c9b695cbe907dc94cad22c9856bc952",
+    "alternateName": "pour les arrondissements 8e, 11e, 12e, 17e, 18e, 19e, 20e",
+    "name": "centre_des_impots_foncier_de_paris_1",
+    "title": "Centre des impôts foncier de Paris 1",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/paris/centre_impots_fonciers-75056-01",
+    "metadata": {
+      "email": "cdif.paris1@dgfip.finances.gouv.fr",
+      "telephone": "01 53 27 45 77",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "2cd4977e053d0655b01e88a3761240dba17701a5",
+    "alternateName": "pour les arrondissements 1er, 2e, 3e, 4e, 5e, 6e, 7e, 9e, 10e, 13e, 14e, 15e, 16e",
+    "name": "centre_des_impots_foncier_de_paris_2",
+    "title": "Centre des impôts foncier de Paris 2",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/paris/centre_impots_fonciers-75056-02",
+    "metadata": {
+      "email": "cdif.paris2@dgfip.finances.gouv.fr",
+      "telephone": "01 53 27 45 69",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "23b731bcaca6c55b15f989055779a0ac79de07cd",
+    "name": "centre_des_impots_foncier_de_pau",
+    "title": "Centre des impôts foncier de Pau",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/pyrenees-atlantiques/centre_impots_fonciers-64445-01",
+    "metadata": {
+      "email": "cdif.pau@dgfip.finances.gouv.fr",
+      "telephone": "05 59 98 68 78",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "2cc85d807450214a3a96cd390257a3d055b4b999",
+    "name": "centre_des_impots_foncier_de_perigueux",
+    "title": "Centre des impôts foncier de Périgueux",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/dordogne/centre_impots_fonciers-24322-01",
+    "metadata": {
+      "email": "cdif.perigueux@dgfip.finances.gouv.fr",
+      "telephone": "05 53 03 14 80",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "97304b6c867f11ac13b463f8ffe13935092a3fc4",
+    "name": "centre_des_impots_foncier_de_perpignan",
+    "title": "Centre des impôts foncier de Perpignan",
+    "url": "https://lannuaire.service-public.fr/occitanie/pyrenees-orientales/centre_impots_fonciers-66136-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 68 66 41 41",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "7a1e60ccb7a86a4e7717728c4fe6b98abd117ae0",
+    "name": "centre_des_impots_foncier_de_poitiers",
+    "title": "Centre des impôts foncier de Poitiers",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/vienne/centre_impots_fonciers-86194-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 49 38 24 00",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "cc490029ffc98f0e3d6890b8318e630708f70187",
+    "name": "centre_des_impots_foncier_de_pont_l_eveque",
+    "title": "Centre des impôts foncier de Pont-l'Évèque",
+    "url": "https://lannuaire.service-public.fr/normandie/calvados/centre_impots_fonciers-14514-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 31 65 66 00",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "a84e847d0c0bf2f619a1cf214c1db316e4fcc436",
+    "name": "centre_des_impots_foncier_de_pornic",
+    "title": "Centre des impôts foncier de Pornic",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/loire-atlantique/centre_impots_fonciers-44131-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 40 64 05 05",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "f4ebdde6f28deee80d0c626faaa8393bfec4b108",
+    "name": "centre_des_impots_foncier_de_privas",
+    "title": "Centre des impôts foncier de Privas",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/ardeche/centre_impots_fonciers-07186-01",
+    "metadata": {
+      "email": "cdif.privas@dgfip.finances.gouv.fr",
+      "telephone": "04 75 66 12 16",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "b97364840b20f8024c080a72c3ff626d14f5ede9",
+    "name": "centre_des_impots_foncier_du_puy_en_velay",
+    "title": "Centre des impôts foncier du Puy-en-Velay",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/haute-loire/centre_impots_fonciers-43157-01",
+    "metadata": {
+      "email": "cdif.le-puy@dgfip.finances.gouv.fr",
+      "telephone": "04 71 09 83 38",
+      "url": "http://www.cadastre.gouv.fr"
+    }
+  },
+  {
+    "id": "640438ca04061b2b09e3abedc005424b1b680c09",
+    "name": "centre_des_impots_foncier_de_quimper",
+    "title": "Centre des impôts foncier de Quimper",
+    "url": "https://lannuaire.service-public.fr/bretagne/finistere/centre_impots_fonciers-29232-01",
+    "metadata": {
+      "email": "cdif.quimper@dgfip.finances.gouv.fr",
+      "telephone": "02 98 10 33 50",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "4d06bc9ae00b4556b4cf40d4e3ecc980c5536fd6",
+    "name": "centre_des_impots_foncier_de_reims",
+    "title": "Centre des impôts foncier de Reims",
+    "url": "https://lannuaire.service-public.fr/grand-est/marne/centre_impots_fonciers-51454-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 26 87 90 19",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "b15746d1793f9a2c88c7315190b756b52edeecf9",
+    "name": "centre_des_impots_foncier_de_rodez",
+    "title": "Centre des impôts foncier de Rodez",
+    "url": "https://lannuaire.service-public.fr/occitanie/aveyron/centre_impots_fonciers-12202-01",
+    "metadata": {
+      "email": "cdif.rodez@dgfip.finances.gouv.fr",
+      "telephone": "05 65 77 85 45",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "82a5e8c51614e243902b480a385710efd6dea247",
+    "name": "centre_des_impots_foncier_de_romorantin_lanthenay",
+    "title": "Centre des impôts foncier de Romorantin-Lanthenay",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/loir-et-cher/centre_impots_fonciers-41194-01",
+    "metadata": {
+      "email": "cdir.blois@dgfip.finances.gouv.fr",
+      "telephone": "02 54 95 35 07",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "4c594d37b6d6a6a1a9d238ec7c1e68c1c274bbd1",
+    "name": "centre_des_impots_foncier_de_rouen_1",
+    "title": "Centre des impôts foncier de Rouen 1",
+    "url": "https://lannuaire.service-public.fr/normandie/seine-maritime/centre_impots_fonciers-76540-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 32 18 92 92",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "195c0b5fa88756710317600fe43c48faa2674674",
+    "name": "centre_des_impots_foncier_de_rouen_2",
+    "title": "Centre des impôts foncier de Rouen 2",
+    "url": "https://lannuaire.service-public.fr/normandie/seine-maritime/centre_impots_fonciers-76540-02",
+    "metadata": {
+      "email": "",
+      "telephone": "02 32 18 92 92",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "41bdbb9b4bb33bdb6318de2d6c3095c0a08f6683",
+    "name": "centre_des_impots_foncier_des_sables_d_olonne",
+    "title": "Centre des impôts foncier des Sables-d'Olonne",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/vendee/centre_impots_fonciers-85194-01",
+    "metadata": {
+      "email": "cdif.les-sables-dolonne@dgfip.finances.gouv.fr",
+      "telephone": "02 51 21 76 76",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "1fc91463de6acc2c7b9818a4f59a52efe16e0acf",
+    "name": "centre_des_impots_foncier_de_saint_brieuc",
+    "title": "Centre des impôts foncier de Saint-Brieuc",
+    "url": "https://lannuaire.service-public.fr/bretagne/cotes-d-armor/centre_impots_fonciers-22278-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 96 01 42 42",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "a301b4ce1f11d3268b458f354cd66d6919b35446",
+    "name": "centre_des_impots_foncier_de_saint_denis",
+    "title": "Centre des impôts foncier de Saint-Denis",
+    "url": "https://lannuaire.service-public.fr/la-reunion/reunion/centre_impots_fonciers-97411-01",
+    "metadata": {
+      "email": "",
+      "telephone": "+262 2 62 48 68 40",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "e9f397612575c94473b8dad129c9f5898cc954b5",
+    "name": "centre_des_impots_foncier_de_saint_dizier",
+    "title": "Centre des impôts foncier de Saint-Dizier",
+    "url": "https://lannuaire.service-public.fr/grand-est/haute-marne/centre_impots_fonciers-52448-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 25 96 98 00",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "8caa412041ad60594ea3c4e46acd120958856f9a",
+    "name": "centre_des_impots_foncier_de_saint_gaudens",
+    "title": "Centre des impôts foncier de Saint-Gaudens",
+    "url": "https://lannuaire.service-public.fr/occitanie/haute-garonne/centre_impots_fonciers-31483-01",
+    "metadata": {
+      "email": "cdif.saint-gaudens@dgfip.finances.gouv.fr",
+      "telephone": "05 61 94 85 30",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "7dad0de89838333ef76b65caa9f76559fb950ec6",
+    "name": "centre_des_impots_foncier_de_saint_jean_de_maurienne",
+    "title": "Centre des impôts foncier de Saint-Jean-de-Maurienne",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/savoie/centre_impots_fonciers-73248-01",
+    "metadata": {
+      "email": "cdif.st-jmaurienne-albertville@dgfip.finances.gouv.fr",
+      "telephone": "04 79 83 25 74",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "815c355037086592056048c89b563c76d487440e",
+    "name": "centre_des_impots_foncier_de_saint_lo",
+    "title": "Centre des impôts foncier de Saint-Lô",
+    "url": "https://lannuaire.service-public.fr/normandie/manche/centre_impots_fonciers-50502-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 33 77 51 00",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "78d398a45fc0d86a9863b32c1091ba485c3f68a4",
+    "name": "centre_des_impots_foncier_de_saint_malo",
+    "title": "Centre des impôts foncier de Saint-Malo",
+    "url": "https://lannuaire.service-public.fr/bretagne/ille-et-vilaine/centre_impots_fonciers-35288-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 99 20 80 99",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "fd11485aa88672d4b616a0baa8e7020203386c13",
+    "name": "centre_des_impots_foncier_de_saint_nazaire",
+    "title": "Centre des impôts foncier de Saint-Nazaire",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/loire-atlantique/centre_impots_fonciers-44184-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 40 00 10 10",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "d2f26a2baf2c31aba3f3b5d4175a429798621a1e",
+    "name": "centre_des_impots_foncier_de_saint_omer",
+    "title": "Centre des impôts foncier de Saint-Omer",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/pas-de-calais/centre_impots_fonciers-62525-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 21 98 76 76",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "3266756e370b595ba406487137826692e20678ce",
+    "name": "centre_des_impots_foncier_de_saint_pierre",
+    "title": "Centre des impôts foncier de Saint-Pierre",
+    "url": "https://lannuaire.service-public.fr/la-reunion/reunion/centre_impots_fonciers-97416-01",
+    "metadata": {
+      "email": "",
+      "telephone": "+262 2 62 35 98 00",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "adf964f5e51a5a03097df70e42da06f12be690a7",
+    "name": "centre_des_impots_foncier_de_saint_pol_sur_ternoise",
+    "title": "Centre des impôts foncier de Saint-Pol-sur-Ternoise",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/pas-de-calais/centre_impots_fonciers-62767-01",
+    "metadata": {
+      "email": "sip-sie.saint-pol-sur-ternoise@dgfip.finances.gouv.fr",
+      "telephone": "03 21 47 44 00",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "a2d3d0a9b58a77d56f64aaca6b5a55a2b458e456",
+    "name": "centre_des_impots_foncier_de_sancerre",
+    "title": "Centre des impôts foncier de Sancerre",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/cher/centre_impots_fonciers-18241-01",
+    "metadata": {
+      "email": "sip-sie.sancerre@dgfip.finances.gouv.fr",
+      "telephone": "02 48 54 00 84",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "58d8033e3ca8e262122cb50cd8e4e2b20915d8b1",
+    "name": "centre_des_impots_foncier_de_sens",
+    "title": "Centre des impôts foncier de Sens",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/yonne/centre_impots_fonciers-89387-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 86 95 54 00",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "9b1da19842eff6380491b983b1f41f88aab48c2a",
+    "name": "centre_des_impots_foncier_du_sud_isere",
+    "title": "Centre des impôts foncier du Sud Isère",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/isere/centre_impots_fonciers-38185-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 76 39 39 76",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "a41f471466e063dd00f87dc97e0b6041db54ce00",
+    "name": "centre_des_impots_foncier_de_tarascon",
+    "title": "Centre des impôts foncier de Tarascon",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/centre_impots_fonciers-13108-01",
+    "metadata": {
+      "email": "cdif.tarascon@dgfip.finances.gouv.fr",
+      "telephone": "04 90 99 12 00",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "44664400e9e7bbeadcbe967f1acd060c62368cdd",
+    "name": "centre_des_impots_foncier_de_tarbes",
+    "title": "Centre des impôts foncier de Tarbes",
+    "url": "https://lannuaire.service-public.fr/occitanie/hautes-pyrenees/centre_impots_fonciers-65440-01",
+    "metadata": {
+      "email": "sdif.hautes-pyrenees@dgfip.finances.gouv.fr",
+      "telephone": "05 62 44 40 40",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "a3bea793f6b1003f0643f650fb872ecc130230be",
+    "name": "centre_des_impots_foncier_de_toulon",
+    "title": "Centre des impôts foncier de Toulon",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/var/centre_impots_fonciers-83137-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 94 03 95 00",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "609b88147af16506f1d4fb209460da7a4e85df0d",
+    "name": "centre_des_impots_foncier_de_toulouse",
+    "title": "Centre des impôts foncier de Toulouse",
+    "url": "https://lannuaire.service-public.fr/occitanie/haute-garonne/centre_impots_fonciers-31555-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 34 31 11 11",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "e55408bbf77ef1bb0e91360ec57bae5cfd97274c",
+    "name": "centre_des_impots_foncier_de_trevoux",
+    "title": "Centre des impôts foncier de Trévoux",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/ain/centre_impots_fonciers-01427-01",
+    "metadata": {
+      "email": "cdif.trevoux@dgfip.finances.gouv.fr",
+      "telephone": "04 74 00 94 56",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "225d4fc432dd3f29131ea953683187ba151a9671",
+    "name": "centre_des_impots_foncier_de_troyes",
+    "title": "Centre des impôts foncier de Troyes",
+    "url": "https://lannuaire.service-public.fr/grand-est/aube/centre_impots_fonciers-10387-01",
+    "metadata": {
+      "email": "sip.troyes-cellule.fonciere@dgfip.finances.gouv.fr",
+      "telephone": "03 25 41 69 89",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "dfd4b047289a00d176e1fc824e3ff0d34c1fb31d",
+    "alternateName": "PTGC",
+    "name": "centre_des_impots_foncier_de_tulle_pole_de_topographie_et_de_gestion_cadastrale_ptgc",
+    "title": "Centre des impôts foncier de Tulle - Pôle de topographie et de gestion cadastrale (PTGC)",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/correze/centre_impots_fonciers-19272-01",
+    "metadata": {
+      "email": "ptgc.190.tulle@dgfip.finances.gouv.fr",
+      "telephone": "05 55 21 80 90",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "9f646e30f997ac5856b7272512c45e7b5d4d171e",
+    "name": "centre_des_impots_foncier_de_valence",
+    "title": "Centre des impôts foncier de Valence",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/drome/centre_impots_fonciers-26362-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 75 79 50 22",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "ccaf603334de0cb617cfd06fd599e6500393c28f",
+    "name": "centre_des_impots_foncier_de_valognes",
+    "title": "Centre des impôts foncier de Valognes",
+    "url": "https://lannuaire.service-public.fr/normandie/manche/centre_impots_fonciers-50615-01",
+    "metadata": {
+      "email": "sip-sie.valognes@dgfip.finances.gouv.fr",
+      "telephone": "02 33 21 61 00",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "3b85a70beb6aa4b8d36f0373419b8c12b53fa6a6",
+    "name": "centre_des_impots_foncier_de_vannes",
+    "title": "Centre des impôts foncier de Vannes",
+    "url": "https://lannuaire.service-public.fr/bretagne/morbihan/centre_impots_fonciers-56260-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 97 01 50 50",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "f5916b0cc47629b22b09098896e6ecbf7e0a81e2",
+    "name": "centre_des_impots_foncier_de_vendome",
+    "title": "Centre des impôts foncier de Vendôme",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/loir-et-cher/centre_impots_fonciers-41269-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 54 23 15 01",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "e63e4060dbbb88a1e9ee2adb4bd3892f0fc3bc28",
+    "name": "centre_des_impots_foncier_de_versailles",
+    "title": "Centre des impôts foncier de Versailles",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/yvelines/centre_impots_fonciers-78646-01",
+    "metadata": {
+      "email": "",
+      "telephone": "01 30 97 43 00",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "82ba9b4ee57712a80bead9e8e7be6d6296aaa58a",
+    "name": "centre_des_impots_foncier_de_vesoul",
+    "title": "Centre des impôts foncier de Vesoul",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/haute-saone/centre_impots_fonciers-70550-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 84 68 26 30",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "8139bcb231893fb8faa8918acc970fabe675baa8",
+    "name": "centre_des_impots_foncier_de_vichy",
+    "title": "Centre des impôts foncier de Vichy",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/allier/centre_impots_fonciers-03095-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 70 30 85 00",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "8664af028ebdc6446cd9adab19e4f0562a808b4a",
+    "name": "centre_des_impots_foncier_de_vire",
+    "title": "Centre des impôts foncier de Vire",
+    "url": "https://lannuaire.service-public.fr/normandie/calvados/centre_impots_fonciers-14762-01",
+    "metadata": {
+      "email": "sip-sie.vire@dgfip.finances.gouv.fr",
+      "telephone": "02 31 66 42 20",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "7cec63a71325066ae569a4638606d8d476be7ca2",
+    "alternateName": "PTGC",
+    "name": "pole_de_topographie_et_de_gestion_cadastrale_ptgc_mende",
+    "title": "Pôle de topographie et de gestion cadastrale (PTGC) - Mende",
+    "url": "https://lannuaire.service-public.fr/occitanie/lozere/centre_impots_fonciers-48095-01",
+    "metadata": {
+      "email": "cdif.mende@finances.gouv.fr",
+      "telephone": "04 66 65 77 91",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "05cee30c330c0feb44f2ed41a10de592c50771c4",
+    "name": "pole_topographique_et_de_gestion_cadastrale_antenne_de_sarrebourg",
+    "title": "Pôle topographique et de gestion cadastrale - antenne de Sarrebourg",
+    "url": "https://lannuaire.service-public.fr/grand-est/moselle/centre_impots_fonciers-57630-01",
+    "metadata": {
+      "email": "ptgc.moselle@dgfip.finances.gouv.fr",
+      "telephone": "03 87 23 49 50",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "95e98958cefeb1bfa409ffb2a9392f2a2f36f4f8",
+    "name": "service_du_cadastre_de_cayenne",
+    "title": "Service du cadastre de Cayenne",
+    "url": "https://lannuaire.service-public.fr/guyane/guyane/centre_impots_fonciers-97302-01",
+    "metadata": {
+      "email": "cdif.cayenne@dgfip.finances.gouv.fr",
+      "telephone": "+594 5 94 28 99 00",
+      "url": "http://www.guyane.gouv.fr"
+    }
+  },
+  {
+    "id": "031806ad32fc7979863627c42c2891b756bfaa5b",
+    "name": "service_departemental_des_impots_foncier",
+    "title": "Service Départemental des Impôts Foncier",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/aisne/centre_impots_fonciers-02408-01",
+    "metadata": {
+      "email": "sdif.laon@dgfip.finances.gouv.fr",
+      "telephone": "03 23 26 28 60",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "6ee7e3d456f97e264d24df6e65595b1af78a110d",
+    "alternateName": "SDIF",
+    "name": "service_departemental_des_impots_foncier",
+    "title": "Service départemental des impôts foncier",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/cote-d-or/centre_impots_fonciers-21231-01",
+    "metadata": {
+      "email": "sdif.dijon@dgfip.finances.gouv.fr",
+      "telephone": "03 80 28 65 65",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "58e11101ea7cb79b433d9fa0de297d998bab86dd",
+    "name": "service_departemental_des_impots_foncier_antenne_d_orange",
+    "title": "Service Départemental des impôts foncier - Antenne d'Orange",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/vaucluse/centre_impots_fonciers-84087-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 90 51 29 21",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "6e6cbc92763c649f22aa94b102497cb606148eb9",
+    "name": "service_departemental_des_impots_foncier_de_chartres",
+    "title": "Service départemental des impôts foncier de Chartres",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/eure-et-loir/centre_impots_fonciers-28085-01",
+    "metadata": {
+      "email": "sdif.eure-et-loir@dgfip.finances.gouv.fr",
+      "telephone": "02 37 18 70 83",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "067f3b5c9e2571f8116be28092aa9a6ebe1160fc",
+    "name": "service_departemental_des_impots_foncier_de_lyon",
+    "title": "Service départemental des impôts foncier de Lyon",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/rhone/centre_impots_fonciers-69383-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 78 63 33 00",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "4c67c9803451964621b45aff73b5e1b6cbbb1a71",
+    "name": "service_departemental_des_impots_foncier_du_maine_et_loire_cholet",
+    "title": "Service départemental des impôts foncier du Maine-et-Loire - Cholet",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/maine-et-loire/centre_impots_fonciers-49099-01",
+    "metadata": {
+      "email": "sdif49.cholet@dgfip.finances.gouv.fr",
+      "telephone": "02 41 49 58 28",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "57cf50cbf8974b02eb6d65e75bb91ac6935d7c10",
+    "name": "service_departemental_des_impots_foncier_du_maine_et_loire_saumur",
+    "title": "Service départemental des impôts foncier du Maine-et-Loire - Saumur",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/maine-et-loire/centre_impots_fonciers-49328-01",
+    "metadata": {
+      "email": "sdif49.saumur@dgfip.finances.gouv.fr",
+      "telephone": "02 41 83 57 00",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "9cf339caa0deab4e568ddd09d2624771e58749ba",
+    "name": "service_departemental_des_impots_foncier_de_seine_saint_denis",
+    "title": "Service départemental des impôts foncier de Seine-Saint-Denis",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/seine-saint-denis/centre_impots_fonciers-93008-01",
+    "metadata": {
+      "email": "",
+      "telephone": "01 49 15 52 00",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "6863dd21789c21a1f92d15024919241934da65ff",
+    "name": "service_departemental_des_impots_fonciers_du_maine_et_loire_angers",
+    "title": "Service départemental des impôts fonciers du Maine-et-Loire - Angers",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/maine-et-loire/centre_impots_fonciers-49007-01",
+    "metadata": {
+      "email": "sdif49.angers@dgfip.finances.gouv.fr",
+      "telephone": "02 41 74 53 40",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "016ebaed4f0257dea2ced71f6689e4f80613f357",
+    "name": "service_departemental_des_impots_fonciers_de_tours",
+    "title": "Service départemental des impôts fonciers de Tours",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/indre-et-loire/centre_impots_fonciers-37261-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 4721 71 62",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "e82851ee0e8ad57e4ead637164e7fad38a3a2b00",
+    "name": "service_departemental_des_impots_fonciers_du_vaucluse",
+    "title": "Service départemental des impôts fonciers du Vaucluse",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/vaucluse/centre_impots_fonciers-84007-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 90 27 71 91",
+      "url": "http://www.impots.gouv.fr"
+    }
+  },
+  {
+    "id": "bcf884f6ad9c2209100e7e9051dfea3c4f1eb343",
+    "name": "service_des_impots_foncier_de_limoges",
+    "title": "Service des impôts foncier de Limoges",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/haute-vienne/centre_impots_fonciers-87085-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 55 45 59 00",
+      "url": "http://www.impots.gouv.fr"
+    }
+  }
+]

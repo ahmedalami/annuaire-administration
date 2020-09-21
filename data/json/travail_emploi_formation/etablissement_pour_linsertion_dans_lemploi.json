@@ -1,0 +1,230 @@
+[
+  {
+    "id": "0c406d3c35de278890563033bce90daf9d3b725b",
+    "alternateName": "EPIDE",
+    "name": "etablissement_pour_linsertion_dans_lemploi_epide_centre_d_alencon_pour_les_departements_14_50_61_72",
+    "title": "Etablissement pour l'insertion dans l'emploi (EPIDE) - Centre d'Alençon (pour les départements 14, 50, 61, 72)",
+    "url": "https://lannuaire.service-public.fr/normandie/orne/epide-61001-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 33 81 46 20",
+      "url": "https://www.epide.fr/a-propos-de-lepide/nos-centres/detail-centre/centre/alencon/"
+    }
+  },
+  {
+    "id": "e8357a6b56471faa35a429528822f050b806de86",
+    "alternateName": "EPIDE",
+    "name": "etablissement_pour_linsertion_dans_lemploi_epide_centre_de_belfort_pour_les_departements_25_39_68_70_90",
+    "title": "Etablissement pour l'insertion dans l'emploi (EPIDE) - Centre de Belfort (pour les départements 25, 39, 68, 70, 90)",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/territoire-de-belfort/epide-90010-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 84 90 13 40",
+      "url": "https://www.epide.fr/a-propos-de-lepide/nos-centres/detail-centre/centre/belfort"
+    }
+  },
+  {
+    "id": "e8b72b8482c8901ae5111cf3015d0b90b1f10224",
+    "alternateName": "EPIDE",
+    "name": "etablissement_pour_linsertion_dans_lemploi_epide_centre_de_bordeaux_pour_les_departements_16_17_19_23_24_33_40_47_64_87",
+    "title": "Etablissement pour l'insertion dans l'emploi (EPIDE) - Centre de Bordeaux (pour les départements 16, 17, 19, 23, 24, 33, 40, 47, 64, 87 )",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/gironde/epide-33063-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 56 17 54 83",
+      "url": "https://www.epide.fr/a-propos-de-lepide/nos-centres/detail-centre/centre/bordeaux"
+    }
+  },
+  {
+    "id": "240e0e0be245e3570baa2f0a121bc43706c44335",
+    "alternateName": "EPIDE",
+    "name": "etablissement_pour_linsertion_dans_lemploi_epide_centre_de_bourges_osmoy_pour_les_departements_03_18_36_37_41_45",
+    "title": "Etablissement pour l'insertion dans l'emploi (EPIDE) - Centre de Bourges-Osmoy (pour les départements 03, 18, 36, 37, 41, 45,)",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/cher/epide-18174-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 48 48 03 10",
+      "url": "https://www.epide.fr/a-propos-de-lepide/nos-centres/detail-centre/centre/bourges-osmoy"
+    }
+  },
+  {
+    "id": "e173fc75c51535b2917eb1d80572fa7fe50d4901",
+    "alternateName": "EPIDE",
+    "name": "etablissement_pour_linsertion_dans_lemploi_epide_centre_de_bretigny_sur_orge_pour_les_departements_75_91_92_94",
+    "title": "Etablissement pour l'insertion dans l'emploi (EPIDE) - Centre de Brétigny-sur-Orge (pour les départements 75, 91, 92, 94,)",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/essonne/epide-91103-01",
+    "metadata": {
+      "email": "",
+      "telephone": "01 75 59 20 00",
+      "url": "https://www.epide.fr/a-propos-de-lepide/nos-centres/detail-centre/centre/bretigny-sur-orge"
+    }
+  },
+  {
+    "id": "5dd633bdbf7b97f9388cca3f1ea8b9de3e29c87c",
+    "alternateName": "EPIDE",
+    "name": "etablissement_pour_linsertion_dans_lemploi_epide_centre_de_cambrai_pour_le_departement_59",
+    "title": "Etablissement pour l'insertion dans l'emploi (EPIDE) - Centre de Cambrai (pour le département 59)",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/nord/epide-59122-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 27 74 29 60",
+      "url": "https://www.epide.fr/a-propos-de-lepide/nos-centres/detail-centre/centre/cambrai"
+    }
+  },
+  {
+    "id": "32ca33f4fe8b97fc78d49628653e1ae12868f766",
+    "alternateName": "EPIDE",
+    "name": "etablissement_pour_linsertion_dans_lemploi_epide_centre_de_combree_pour_les_departements_44_49_53_79_85_86",
+    "title": "Etablissement pour l'insertion dans l'emploi (EPIDE) - Centre de Combrée (pour les départements 44, 49, 53, 79, 85, 86)",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/maine-et-loire/epide-49248-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 41 94 94 14",
+      "url": "https://www.epide.fr/a-propos-de-lepide/nos-centres/detail-centre/centre/combree"
+    }
+  },
+  {
+    "id": "d5407519bb63ae19115a01ecc273eadbbf38d2a7",
+    "alternateName": "EPIDE",
+    "name": "etablissement_pour_linsertion_dans_lemploi_epide_centre_de_doullens_pour_les_departements_62_80",
+    "title": "Etablissement pour l'insertion dans l'emploi (EPIDE) - Centre de Doullens (pour les départements 62, 80)",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/somme/epide-80253-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 22 77 82 00",
+      "url": "https://www.epide.fr/a-propos-de-lepide/nos-centres/detail-centre/centre/doullens"
+    }
+  },
+  {
+    "id": "c59d4faa23da672c502510ad25dc8debf3029c9d",
+    "alternateName": "EPIDE",
+    "name": "etablissement_pour_linsertion_dans_lemploi_epide_centre_de_langres_pour_les_departements_10_52_54_55_88",
+    "title": "Etablissement pour l'insertion dans l'emploi (EPIDE) - Centre de Langres (pour les départements 10, 52, 54, 55, 88)",
+    "url": "https://lannuaire.service-public.fr/grand-est/haute-marne/epide-52269-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 25 90 52 20",
+      "url": "https://www.epide.fr/a-propos-de-lepide/nos-centres/detail-centre/centre/langres"
+    }
+  },
+  {
+    "id": "03218ad14c35648b0ddd855799a25e8d7daa46c1",
+    "alternateName": "EPIDE",
+    "name": "etablissement_pour_linsertion_dans_lemploi_epide_centre_de_lanrodec_pour_les_departements_22_29_35_56_88",
+    "title": "Etablissement pour l'insertion dans l'emploi (EPIDE) - Centre de Lanrodec (pour les départements 22, 29, 35, 56, 88)",
+    "url": "https://lannuaire.service-public.fr/bretagne/cotes-d-armor/epide-22116-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 96 32 67 10",
+      "url": "https://www.epide.fr/a-propos-de-lepide/nos-centres/detail-centre/centre/lanrodec"
+    }
+  },
+  {
+    "id": "7a321c4662990038342e3d92048c578d9b480d01",
+    "alternateName": "EPIDE",
+    "name": "etablissement_pour_linsertion_dans_lemploi_epide_centre_de_lyon_pour_les_departements_01_07_15_26_38_42_43_63_69_73_74",
+    "title": "Etablissement pour l'insertion dans l'emploi (EPIDE) - Centre de Lyon (pour les départements 01, 07, 15, 26, 38, 42, 43, 63, 69, 73, 74)",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/rhone/epide-69282-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 27 02 21 60",
+      "url": "04"
+    }
+  },
+  {
+    "id": "a5fa9d50aa113a489b81af01bf7495c1c921a98d",
+    "alternateName": "EPIDE",
+    "name": "etablissement_pour_linsertion_dans_lemploi_epide_centre_de_marigny_les_compiegne_pour_les_departements_60_95_35_56_88",
+    "title": "Etablissement pour l'insertion dans l'emploi (EPIDE) - Centre de Marigny-lès-compiègne (pour les départements 60, 95, 35, 56, 88)",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/oise/epide-60382-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 44 83 68 00",
+      "url": "https://www.epide.fr/a-propos-de-lepide/nos-centres/detail-centre/centre/margny-les-compiegne"
+    }
+  },
+  {
+    "id": "d48bc4f89f63a69f33bb02a6bd1c12fdb4952acf",
+    "alternateName": "EPIDE",
+    "name": "etablissement_pour_linsertion_dans_lemploi_epide_centre_de_marseille_pour_les_departements_04_05_06_13_83_84",
+    "title": "Etablissement pour l'insertion dans l'emploi (EPIDE) - Centre de Marseille (pour les départements 04, 05, 06, 13, 83, 84)",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/epide-13055-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 95 06 25 70",
+      "url": "https://www.epide.fr/a-propos-de-lepide/nos-centres/detail-centre/centre/marseille"
+    }
+  },
+  {
+    "id": "381e823d321b09a7cde239d4f5b3d32c454f7acf",
+    "alternateName": "EPIDE",
+    "name": "etablissement_pour_linsertion_dans_lemploi_epide_centre_de_montry_pour_les_departements_75_77_93_94",
+    "title": "Etablissement pour l'insertion dans l'emploi (EPIDE) - Centre de Montry (pour les départements 75, 77, 93, 94,)",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/seine-et-marne/epide-77315-01",
+    "metadata": {
+      "email": "",
+      "telephone": "01 60 42 17 17",
+      "url": "https://www.epide.fr/a-propos-de-lepide/nos-centres/detail-centre/centre/montry"
+    }
+  },
+  {
+    "id": "c688cc4e5f5076ad5d2fe2bb0316c0aa45ae7a2e",
+    "alternateName": "EPIDE",
+    "name": "etablissement_pour_linsertion_dans_lemploi_epide_centre_de_saint_quentin_pour_les_departements_02_08_51",
+    "title": "Etablissement pour l'insertion dans l'emploi (EPIDE) - Centre de Saint-Quentin (pour les départements 02, 08, 51)",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/aisne/epide-02691-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 23 51 40 00",
+      "url": "https://www.epide.fr/a-propos-de-lepide/nos-centres/detail-centre/centre/saint-quentin"
+    }
+  },
+  {
+    "id": "21061033ee113ff6a5745823aebceaa785dcd32b",
+    "alternateName": "EPIDE",
+    "name": "etablissement_pour_linsertion_dans_lemploi_epide_centre_de_strasbourg_pour_les_departements_57_67_colmar",
+    "title": "Etablissement pour l'insertion dans l'emploi (EPIDE) - Centre de Strasbourg (pour les départements 57, 67, Colmar)",
+    "url": "https://lannuaire.service-public.fr/grand-est/bas-rhin/epide-67482-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 90 41 01 60",
+      "url": "https://www.epide.fr/a-propos-de-lepide/nos-centres/detail-centre/centre/strasbourg"
+    }
+  },
+  {
+    "id": "93315a93e72118eef9fbfb72f08d820d7d3d88b4",
+    "alternateName": "EPIDE",
+    "name": "etablissement_pour_linsertion_dans_lemploi_epide_centre_de_toulouse_pour_les_departements_09_11_12_30_31_32_34_46_65_66_81_82",
+    "title": "Etablissement pour l'insertion dans l'emploi (EPIDE) - Centre de toulouse (pour les départements 09, 11, 12, 30, 31, 32, 34, 46, 65, 66, 81, 82)",
+    "url": "https://lannuaire.service-public.fr/occitanie/haute-garonne/epide-31555-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 81 60 89 89",
+      "url": "https://www.epide.fr/a-propos-de-lepide/nos-centres/detail-centre/centre/toulouse"
+    }
+  },
+  {
+    "id": "04ac627dcec7e2d3e28d0bc864f995447d146bae",
+    "alternateName": "EPIDE",
+    "name": "etablissement_pour_linsertion_dans_lemploi_epide_centre_de_val_de_reuil_pour_les_departements_27_28_76_78",
+    "title": "Etablissement pour l'insertion dans l'emploi (EPIDE) - Centre de Val-de-Reuil (pour les départements 27, 28, 76, 78)",
+    "url": "https://lannuaire.service-public.fr/normandie/eure/epide-27701-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 32 09 41 20",
+      "url": "https://www.epide.fr/a-propos-de-lepide/nos-centres/detail-centre/centre/val-de-reuil"
+    }
+  },
+  {
+    "id": "86193839d472aea47246bc5c560e5d94be409fb4",
+    "alternateName": "EPIDE",
+    "name": "etablissement_pour_linsertion_dans_lemploi_epide_centre_de_velet_pour_les_departements_21_58_71_89",
+    "title": "Etablissement pour l'insertion dans l'emploi (EPIDE) - Centre de Velet (pour les départements 21, 58, 71, 89)",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/saone-et-loire/epide-71192-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 85 54 21 40",
+      "url": "https://www.epide.fr/a-propos-de-lepide/nos-centres/detail-centre/centre/velet"
+    }
+  }
+]

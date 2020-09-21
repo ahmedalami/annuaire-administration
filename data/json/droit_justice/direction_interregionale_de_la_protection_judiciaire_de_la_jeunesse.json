@@ -1,0 +1,110 @@
+[
+  {
+    "id": "8be3417361b092b034ed200c35a7b450e0fdd963",
+    "alternateName": "DIRPJJ",
+    "name": "direction_interregionale_de_la_protection_judiciaire_de_la_jeunesse_dirpjj_centre_est",
+    "title": "Direction interrégionale de la protection judiciaire de la jeunesse (DIRPJJ) - Centre Est",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/rhone/drpjj-69383-01",
+    "metadata": {
+      "email": "dirpjj-centre-est@justice.fr",
+      "telephone": "04 72 33 06 40",
+      "url": ""
+    }
+  },
+  {
+    "id": "22f57c28867b38b78cb62dcbb68141b31c011b74",
+    "alternateName": "DIRPJJ",
+    "name": "direction_interregionale_de_la_protection_judiciaire_de_la_jeunesse_dirpjj_grand_centre",
+    "title": "Direction interrégionale de la protection judiciaire de la jeunesse (DIRPJJ) - Grand Centre",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/cote-d-or/drpjj-21231-01",
+    "metadata": {
+      "email": "dirpjj-grand-centre@justice.fr",
+      "telephone": "03 45 21 86 1403 45 21 86 16",
+      "url": ""
+    }
+  },
+  {
+    "id": "be5e295142039092c5c62a88496a2b7ff9764569",
+    "alternateName": "DIRPJJ",
+    "name": "direction_interregionale_de_la_protection_judiciaire_de_la_jeunesse_dirpjj_grand_est",
+    "title": "Direction interrégionale de la protection judiciaire de la jeunesse (DIRPJJ) - Grand Est",
+    "url": "https://lannuaire.service-public.fr/grand-est/meurthe-et-moselle/drpjj-54395-01",
+    "metadata": {
+      "email": "dirpjj-grand-est@justice.fr",
+      "telephone": "03 83 40 01 85",
+      "url": ""
+    }
+  },
+  {
+    "id": "538aaf059bbf8a4b0b5258b7df69e0447f187a6b",
+    "alternateName": "DIRPJJ",
+    "name": "direction_interregionale_de_la_protection_judiciaire_de_la_jeunesse_dirpjj_grand_nord",
+    "title": "Direction interrégionale de la protection judiciaire de la jeunesse (DIRPJJ) - Grand Nord",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/nord/drpjj-59350-01",
+    "metadata": {
+      "email": "dirpjj-grand-nord@justice.fr",
+      "telephone": "03 20 21 83 50",
+      "url": ""
+    }
+  },
+  {
+    "id": "6307db2f73db2d8fadc56006d2c6d4c4f3bb6683",
+    "alternateName": "DIRPJJ",
+    "name": "direction_interregionale_de_la_protection_judiciaire_de_la_jeunesse_dirpjj_grand_ouest",
+    "title": "Direction interrégionale de la protection judiciaire de la jeunesse (DIRPJJ) - Grand Ouest",
+    "url": "https://lannuaire.service-public.fr/bretagne/ille-et-vilaine/drpjj-35238-01",
+    "metadata": {
+      "email": "dirpjj-grand-ouest@justice.fr",
+      "telephone": "02 99 87 95 10",
+      "url": ""
+    }
+  },
+  {
+    "id": "9d29a50446c333057d8b38e1b4e87d2fc7525077",
+    "alternateName": "DIRPJJ",
+    "name": "direction_interregionale_de_la_protection_judiciaire_de_la_jeunesse_dirpjj_ile_de_france_et_outre_mer",
+    "title": "Direction interrégionale de la protection judiciaire de la jeunesse (DIRPJJ) - Île-de-France et Outre-Mer",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/paris/drpjj-75115-01",
+    "metadata": {
+      "email": "dirpjj-idf-om@justice.fr",
+      "telephone": "01 49 29 28 60",
+      "url": ""
+    }
+  },
+  {
+    "id": "316affe3403a9b950de92e459a3e6737c7211079",
+    "alternateName": "DIRPJJ",
+    "name": "direction_interregionale_de_la_protection_judiciaire_de_la_jeunesse_dirpjj_sud",
+    "title": "Direction interrégionale de la protection judiciaire de la jeunesse (DIRPJJ) - Sud",
+    "url": "https://lannuaire.service-public.fr/occitanie/haute-garonne/drpjj-31254-01",
+    "metadata": {
+      "email": "dirpjj-sud@justice.fr",
+      "telephone": "05 61 00 79 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "304660dc1a0fa3f86fcbf88f8722b74c65676e2d",
+    "alternateName": "DIRPJJ",
+    "name": "direction_interregionale_de_la_protection_judiciaire_de_la_jeunesse_dirpjj_sud_est",
+    "title": "Direction interrégionale de la protection judiciaire de la jeunesse (DIRPJJ) - Sud Est",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/drpjj-13208-01",
+    "metadata": {
+      "email": "dirpjj-sud-est@justice.fr",
+      "telephone": "04 96 20 63 40",
+      "url": ""
+    }
+  },
+  {
+    "id": "607dce62a5962e43aa1bf3c8f22fb0935fca8d69",
+    "alternateName": "DIRPJJ",
+    "name": "direction_interregionale_de_la_protection_judiciaire_de_la_jeunesse_dirpjj_sud_ouest",
+    "title": "Direction interrégionale de la protection judiciaire de la jeunesse (DIRPJJ) - Sud Ouest",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/gironde/drpjj-33063-01",
+    "metadata": {
+      "email": "dirpjj-sud-ouest@justice.fr",
+      "telephone": "05 56 79 14 49",
+      "url": ""
+    }
+  }
+]

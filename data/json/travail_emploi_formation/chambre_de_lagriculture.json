@@ -1,0 +1,1267 @@
+[
+  {
+    "id": "c4b4990eb92699ef346131b1ccdbba56b30cb8c5",
+    "name": "chambre_dagriculture_ain",
+    "title": "Chambre d'agriculture - Ain",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/ain/chambre_agriculture-01053-01",
+    "metadata": {
+      "email": "accueil@ain.chambagri.fr",
+      "telephone": "04 74 45 47 43",
+      "url": "http://www.ain.chambres-agriculture.fr"
+    }
+  },
+  {
+    "id": "a9680acf0bfad6823003fc89b67859d0c4323993",
+    "name": "chambre_dagriculture_aisne",
+    "title": "Chambre d'agriculture - Aisne",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/aisne/chambre_agriculture-02408-01",
+    "metadata": {
+      "email": "communication@ma02.org",
+      "telephone": "03 23 22 50 50",
+      "url": "http://www.agri02.com"
+    }
+  },
+  {
+    "id": "70199e2f478459f0d697ee8e59310516f3cefda0",
+    "name": "chambre_dagriculture_allier",
+    "title": "Chambre d'agriculture - Allier",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/allier/chambre_agriculture-03190-01",
+    "metadata": {
+      "email": "cda.03@allier.chambagri.fr",
+      "telephone": "04 70 48 42 42",
+      "url": "http://www.allier.chambre-agriculture.fr"
+    }
+  },
+  {
+    "id": "cfaec0c0b389cd6ec928baa229bf58a112f0ba8d",
+    "name": "chambre_dagriculture_alpes_de_haute_provence",
+    "title": "Chambre d'agriculture - Alpes-de-Haute-Provence",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/alpes-de-haute-provence/chambre_agriculture-04070-01",
+    "metadata": {
+      "email": "accueil@ahp.chambagri.fr",
+      "telephone": "04 92 30 57 57",
+      "url": "http://www.ahp.chambagri.fr"
+    }
+  },
+  {
+    "id": "a1118ce3d625855d0d2d50343377717646800da0",
+    "name": "chambre_dagriculture_alpes_maritimes",
+    "title": "Chambre d'agriculture - Alpes-Maritimes",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/alpes-maritimes/chambre_agriculture-06088-01",
+    "metadata": {
+      "email": "ca06@alpes-maritimes.chambagri.fr",
+      "telephone": "04 93 18 45 00",
+      "url": "http://www.chambre-agriculture06.fr"
+    }
+  },
+  {
+    "id": "248e75b4cc05529bcdd4467c100bf9d3f735bec7",
+    "name": "chambre_dagriculture_alsace",
+    "title": "Chambre d'agriculture - Alsace",
+    "url": "https://lannuaire.service-public.fr/grand-est/bas-rhin/chambre_agriculture-67447-01",
+    "metadata": {
+      "email": "direction@alsace.chambagri.fr",
+      "telephone": "03 88 19 17 17",
+      "url": "http://www.alsace.chambagri.fr"
+    }
+  },
+  {
+    "id": "209b6961974031a3b29b323de7f7567cfac5898e",
+    "name": "chambre_dagriculture_ardeche",
+    "title": "Chambre d'agriculture - Ardèche",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/ardeche/chambre_agriculture-07186-01",
+    "metadata": {
+      "email": "contact@ardeche.chambagri.fr",
+      "telephone": "04 75 20 28 00",
+      "url": "https://www.ardeche.chambre-agriculture.fr"
+    }
+  },
+  {
+    "id": "180745d115ccf9aee71795c275dfebe44a30c903",
+    "name": "chambre_dagriculture_ardennes",
+    "title": "Chambre d'agriculture - Ardennes",
+    "url": "https://lannuaire.service-public.fr/grand-est/ardennes/chambre_agriculture-08105-01",
+    "metadata": {
+      "email": "cda.08@ardennes.chambagri.fr",
+      "telephone": "03 24 56 89 40",
+      "url": "http://www.ardennes.chambagri.fr"
+    }
+  },
+  {
+    "id": "e367144f606354f608932f096b1a911d12336352",
+    "name": "chambre_dagriculture_ariege",
+    "title": "Chambre d'agriculture - Ariège",
+    "url": "https://lannuaire.service-public.fr/occitanie/ariege/chambre_agriculture-09122-01",
+    "metadata": {
+      "email": "accueil@ariege.chambagri.fr",
+      "telephone": "05 61 02 14 00",
+      "url": "http://www.ariege.chambagri.fr"
+    }
+  },
+  {
+    "id": "f01793be3133291203b9330fc180e30a1db1e57f",
+    "name": "chambre_dagriculture_aube",
+    "title": "Chambre d'agriculture - Aube",
+    "url": "https://lannuaire.service-public.fr/grand-est/aube/chambre_agriculture-10387-01",
+    "metadata": {
+      "email": "contact@aube.chambagri.fr",
+      "telephone": "03 25 43 72 72",
+      "url": "http://www.aube.chambagri.fr"
+    }
+  },
+  {
+    "id": "ae8c6554ee4e051f88af19532a37a5d53e2e423e",
+    "name": "chambre_dagriculture_aude",
+    "title": "Chambre d'agriculture - Aude",
+    "url": "https://lannuaire.service-public.fr/occitanie/aude/chambre_agriculture-11069-01",
+    "metadata": {
+      "email": "services.generaux@aude.chambagri.fr",
+      "telephone": "04 68 11 79 79",
+      "url": "http://www.aude.chambagri.fr"
+    }
+  },
+  {
+    "id": "931cf13b48a23b5e9e37156d798072b61767c890",
+    "name": "chambre_dagriculture_aveyron",
+    "title": "Chambre d'agriculture - Aveyron",
+    "url": "https://lannuaire.service-public.fr/occitanie/aveyron/chambre_agriculture-12202-01",
+    "metadata": {
+      "email": "accueil@aveyron.chambagri.fr",
+      "telephone": "05 65 73 77 00",
+      "url": "http://www.aveyron.chambre-agriculture.fr"
+    }
+  },
+  {
+    "id": "3f14dc714715fd114a0096bc4c7898b688a64d1f",
+    "name": "chambre_dagriculture_bouches_du_rhone",
+    "title": "Chambre d'agriculture - Bouches-du-Rhône",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/chambre_agriculture-13001-01",
+    "metadata": {
+      "email": "accueil@bouches-du-rhone.chambagri.fr",
+      "telephone": "04 42 23 06 11",
+      "url": "https://paca.chambres-agriculture.fr/la-chambre-dagriculture-des-bouches-du-rhone"
+    }
+  },
+  {
+    "id": "d0670514f9c9e3cb367d6aebf2628fd0e8eca004",
+    "name": "chambre_dagriculture_calvados",
+    "title": "Chambre d'agriculture - Calvados",
+    "url": "https://lannuaire.service-public.fr/normandie/calvados/chambre_agriculture-14118-01",
+    "metadata": {
+      "email": "chambre@calvados.chambagri.fr",
+      "telephone": "02 31 70 25 25",
+      "url": "http://www.chambre-agriculture-14.fr"
+    }
+  },
+  {
+    "id": "a74ae0f918595f2e16eb9cfeca47412f08f7b64c",
+    "name": "chambre_dagriculture_cantal",
+    "title": "Chambre d'agriculture - Cantal",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/cantal/chambre_agriculture-15014-01",
+    "metadata": {
+      "email": "ca.cantal@cantal.chambagri.fr",
+      "telephone": "04 71 45 55 00",
+      "url": "http://www.cantal.chambagri.fr"
+    }
+  },
+  {
+    "id": "4c1908546f60d48923bde5d6bd81b0d035e006e0",
+    "name": "chambre_dagriculture_charente",
+    "title": "Chambre d'agriculture - Charente",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/charente/chambre_agriculture-16015-01",
+    "metadata": {
+      "email": "accueil@charente.chambagri.fr",
+      "telephone": "05 45 24 49 49",
+      "url": "http://www.charente.chambagri.fr"
+    }
+  },
+  {
+    "id": "5306c7da350196c0fb30129a4c99e40126c364c7",
+    "name": "chambre_dagriculture_charente_maritime",
+    "title": "Chambre d'agriculture - Charente-Maritime",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/charente-maritime/chambre_agriculture-17300-01",
+    "metadata": {
+      "email": "accueil@charente-maritime.chambagri.fr",
+      "telephone": "05 46 50 45 00",
+      "url": "http://www.charente-maritime.chambagri.fr"
+    }
+  },
+  {
+    "id": "7e0d0d47064514d46b0235bc759375204e4be324",
+    "name": "chambre_dagriculture_cher",
+    "title": "Chambre d'agriculture - Cher",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/cher/chambre_agriculture-18205-01",
+    "metadata": {
+      "email": "accueil@cher.chambagri.fr",
+      "telephone": "02 48 23 04 00",
+      "url": "http://www.cher.chambagri.fr"
+    }
+  },
+  {
+    "id": "6b3d29a45780a32c22b0b49411ddac154df9e429",
+    "name": "chambre_dagriculture_correze",
+    "title": "Chambre d'agriculture - Corrèze",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/correze/chambre_agriculture-19272-01",
+    "metadata": {
+      "email": "a.brette@correze.chambagri.fr",
+      "telephone": "05 55 21 55 21",
+      "url": "http://www.correze.chambre-agriculture.fr"
+    }
+  },
+  {
+    "id": "77b836bf7e0dd787c878f80062e74509b1db2bab",
+    "name": "chambre_dagriculture_corse_du_sud",
+    "title": "Chambre d'agriculture - Corse-du-Sud",
+    "url": "https://lannuaire.service-public.fr/corse/corse-du-sud/chambre_agriculture-2A004-01",
+    "metadata": {
+      "email": "direction@corse-du-sud.chambagri.fr",
+      "telephone": "04 95 29 26 00",
+      "url": "http://www.corse.chambres-agriculture.fr"
+    }
+  },
+  {
+    "id": "47fd8f209f97fc95d48b78ea98bb355d6159c920",
+    "name": "chambre_dagriculture_cote_d_or",
+    "title": "Chambre d'agriculture - Côte-d'Or",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/cote-d-or/chambre_agriculture-21231-01",
+    "metadata": {
+      "email": "accueil@cote-dor.chambagri.fr",
+      "telephone": "03 80 68 66 00",
+      "url": "http://www.cote-dor.chambagri.fr"
+    }
+  },
+  {
+    "id": "06f7826149d18243b3b98d51665ee7d608345112",
+    "name": "chambre_dagriculture_cotes_d_armor",
+    "title": "Chambre d'agriculture - Côtes-d’Armor",
+    "url": "https://lannuaire.service-public.fr/bretagne/cotes-d-armor/chambre_agriculture-22187-01",
+    "metadata": {
+      "email": "cda22@cotes-d-armor.chambagri.fr",
+      "telephone": "02 96 79 22 22",
+      "url": "http://www.agriculteurs22.com"
+    }
+  },
+  {
+    "id": "4f696495a1734911ff7a266c4e3a60b58779d61d",
+    "name": "chambre_dagriculture_creuse",
+    "title": "Chambre d'agriculture - Creuse",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/creuse/chambre_agriculture-23096-01",
+    "metadata": {
+      "email": "accueil@creuse.chambagri.fr",
+      "telephone": "05 55 61 50 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "8077e65f025cf4cc7b1bbd5d479f6ff192a7d4c0",
+    "name": "chambre_dagriculture_deux_sevres",
+    "title": "Chambre d'agriculture - Deux-Sèvres",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/deux-sevres/chambre_agriculture-79216-01",
+    "metadata": {
+      "email": "accueil@deux-sevres.chambagri.fr",
+      "telephone": "05 49 77 15 15",
+      "url": "http://www.deux-sevres.chambagri.fr"
+    }
+  },
+  {
+    "id": "e2e031c853aad194a512c31850aa8a9ccb4cec48",
+    "name": "chambre_dagriculture_dordogne",
+    "title": "Chambre d'agriculture - Dordogne",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/dordogne/chambre_agriculture-24138-01",
+    "metadata": {
+      "email": "accueil@dordogne.chambagri.fr",
+      "telephone": "05 53 35 88 88",
+      "url": "http://www.dordogne.chambagri.fr"
+    }
+  },
+  {
+    "id": "a22eb4c6a058f6d4e4acdf914a43f1545c40aaac",
+    "name": "chambre_dagriculture_doubs",
+    "title": "Chambre d'agriculture - Doubs",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/doubs/chambre_agriculture-25056-01",
+    "metadata": {
+      "email": "chambagri.cda-25@agridoubs.com",
+      "telephone": "03 81 65 52 52",
+      "url": "http://www.franche-comte.chambagri.fr"
+    }
+  },
+  {
+    "id": "618a9bda59a9565a2a23079a668c2a6da9f80d0b",
+    "name": "chambre_dagriculture_drome",
+    "title": "Chambre d'agriculture - Drôme",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/drome/chambre_agriculture-26362-01",
+    "metadata": {
+      "email": "accueil@drome.chambagri.fr",
+      "telephone": "04 75 82 40 00",
+      "url": "http://www.synagri.com"
+    }
+  },
+  {
+    "id": "11099d19c211ea5d98fcedea9d7c575519bd779d",
+    "name": "chambre_dagriculture_eure",
+    "title": "Chambre d'agriculture - Eure",
+    "url": "https://lannuaire.service-public.fr/normandie/eure/chambre_agriculture-27229-01",
+    "metadata": {
+      "email": "accueil@eure.chambagri.fr",
+      "telephone": "02 32 78 80 00",
+      "url": "http://www.eure.chambagri.fr"
+    }
+  },
+  {
+    "id": "461592e7afaa841aec9eee97bcd40590a6464a3c",
+    "name": "chambre_dagriculture_eure_et_loir",
+    "title": "Chambre d'agriculture - Eure-et-Loir",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/eure-et-loir/chambre_agriculture-28085-01",
+    "metadata": {
+      "email": "accueil@eure-et-loir.chambagri.fr",
+      "telephone": "02 37 24 45 45",
+      "url": "http://www.eure-et-loir.chambagri.fr"
+    }
+  },
+  {
+    "id": "00209afef77343b23dc99959655c68f7cfc5995d",
+    "name": "chambre_dagriculture_finistere",
+    "title": "Chambre d'agriculture - Finistère",
+    "url": "https://lannuaire.service-public.fr/bretagne/finistere/chambre_agriculture-29232-01",
+    "metadata": {
+      "email": "accueil@bretagne.chambagri.fr",
+      "telephone": "02 98 52 49 49",
+      "url": "http://www.synagri.com"
+    }
+  },
+  {
+    "id": "96ba6a7b9bb15a2a2053df29cad46d78deac2e88",
+    "name": "chambre_dagriculture_gard",
+    "title": "Chambre d'agriculture - Gard",
+    "url": "https://lannuaire.service-public.fr/occitanie/gard/chambre_agriculture-30189-01",
+    "metadata": {
+      "email": "accueil@gard.chambagri.fr",
+      "telephone": "04 66 04 50 60",
+      "url": "http://www.gard.chambre-agriculture.fr"
+    }
+  },
+  {
+    "id": "74b078b42ed65f60a38c1b48c72692a4468b6330",
+    "name": "chambre_dagriculture_gers",
+    "title": "Chambre d'agriculture - Gers",
+    "url": "https://lannuaire.service-public.fr/occitanie/gers/chambre_agriculture-32013-01",
+    "metadata": {
+      "email": "ca32@gers.chambagri.fr",
+      "telephone": "05 62 61 77 77",
+      "url": "http://www.gers.chambre-agriculture.fr"
+    }
+  },
+  {
+    "id": "fa7b5f5fa02f61d8cf7d9606c87b8edff73398f6",
+    "name": "chambre_dagriculture_gironde",
+    "title": "Chambre d'agriculture - Gironde",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/gironde/chambre_agriculture-33063-01",
+    "metadata": {
+      "email": "accueil@gironde.chambagri.fr",
+      "telephone": "05 56 79 64 00",
+      "url": "http://www.gironde.chambagri.fr"
+    }
+  },
+  {
+    "id": "15c321265f4891bce3183c3af5b796bdf2108ef7",
+    "name": "chambre_dagriculture_guadeloupe",
+    "title": "Chambre d'agriculture - Guadeloupe",
+    "url": "https://lannuaire.service-public.fr/guadeloupe/guadeloupe/chambre_agriculture-97103-01",
+    "metadata": {
+      "email": "cda_direction@guadeloupe.chambagri.fr",
+      "telephone": "+590 5 90 25 17 17",
+      "url": "https://guadeloupe.chambre-agriculture.fr"
+    }
+  },
+  {
+    "id": "8920f089719d7e52f7ad0435f3b3d0b730c88774",
+    "name": "chambre_dagriculture_guyane",
+    "title": "Chambre d'agriculture - Guyane",
+    "url": "https://lannuaire.service-public.fr/guyane/guyane/chambre_agriculture-97302-01",
+    "metadata": {
+      "email": "chambre.agriculture@guyane.chambagri.fr",
+      "telephone": "+594 5 94 29 61 95",
+      "url": ""
+    }
+  },
+  {
+    "id": "53d1f7ce0815c7c7db1c1458be2ab661bb19ec7b",
+    "name": "chambre_dagriculture_haute_corse",
+    "title": "Chambre d'agriculture - Haute-Corse",
+    "url": "https://lannuaire.service-public.fr/corse/haute-corse/chambre_agriculture-2B033-01",
+    "metadata": {
+      "email": "cda2b@haute-corse.chambagri.fr",
+      "telephone": "04 95 32 84 40",
+      "url": "https://www.corse.chambres-agriculture.fr"
+    }
+  },
+  {
+    "id": "7617066cd470f6e93567fcf8042cfdbad4a445c1",
+    "name": "chambre_dagriculture_haute_garonne",
+    "title": "Chambre d'agriculture - Haute-Garonne",
+    "url": "https://lannuaire.service-public.fr/occitanie/haute-garonne/chambre_agriculture-31555-01",
+    "metadata": {
+      "email": "accueil@haute-garonne.chambagri.fr",
+      "telephone": "05 61 10 42 50",
+      "url": "http://www.hautegaronne.chambre-agriculture.fr"
+    }
+  },
+  {
+    "id": "8fd4add3d6a8e759bcc4e8fa4095c4d3e228e7cc",
+    "name": "chambre_dagriculture_haute_loire",
+    "title": "Chambre d'agriculture - Haute-Loire",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/haute-loire/chambre_agriculture-43157-01",
+    "metadata": {
+      "email": "cda43@haute-loire.chambagri.fr",
+      "telephone": "04 71 07 21 00",
+      "url": "http://www.haute-loire.chambagri.fr"
+    }
+  },
+  {
+    "id": "2dee34482b69aa041cc61ce7ba165c9a7deeb7cb",
+    "name": "chambre_dagriculture_haute_marne",
+    "title": "Chambre d'agriculture - Haute-Marne",
+    "url": "https://lannuaire.service-public.fr/grand-est/haute-marne/chambre_agriculture-52121-01",
+    "metadata": {
+      "email": "accueil@haute-marne.chambagri.fr",
+      "telephone": "03 25 35 00 60",
+      "url": "http://www.haute-marne.chambre-agriculture.fr"
+    }
+  },
+  {
+    "id": "a4a52b6ed27b423a0fae6fc1702d9e25919f5475",
+    "name": "chambre_dagriculture_hautes_alpes",
+    "title": "Chambre d'agriculture - Hautes-Alpes",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/hautes-alpes/chambre_agriculture-05061-01",
+    "metadata": {
+      "email": "chambre05@hautes-alpes.chambagri.fr",
+      "telephone": "04 92 52 53 00",
+      "url": "http://www.hautes-alpes.chambagri.fr"
+    }
+  },
+  {
+    "id": "567445859f641309d20bea02e8ff58372f77bd0e",
+    "name": "chambre_dagriculture_haute_saone",
+    "title": "Chambre d'agriculture - Haute-Saône",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/haute-saone/chambre_agriculture-70550-01",
+    "metadata": {
+      "email": "accueil@haute-saone.chambagri.fr",
+      "telephone": "03 84 77 14 40",
+      "url": "https://www.bourgognefranchecomte.chambres-agriculture.fr"
+    }
+  },
+  {
+    "id": "cd8841208d641cb9e40e8dfd0a67c3c2bb7b206f",
+    "name": "chambre_dagriculture_haute_savoie",
+    "title": "Chambre d'agriculture - Haute-Savoie",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/haute-savoie/chambre_agriculture-74010-01",
+    "metadata": {
+      "email": "contact@smb.chambagri.fr",
+      "telephone": "04 50 88 18 01",
+      "url": "http://www.services.savoiemontblanc.chambagri.fr"
+    }
+  },
+  {
+    "id": "e0ab97db93ad2a0adc767b3591dc92840273d961",
+    "name": "chambre_dagriculture_hautes_pyrenees",
+    "title": "Chambre d'agriculture - Hautes-Pyrénées",
+    "url": "https://lannuaire.service-public.fr/occitanie/hautes-pyrenees/chambre_agriculture-65440-01",
+    "metadata": {
+      "email": "accueil@hautes-pyrenees.chambagri.fr",
+      "telephone": "05 62 34 66 74",
+      "url": "http://www.hapy.chambre-agriculture.fr"
+    }
+  },
+  {
+    "id": "9b4e8139ea458af44e4c9cdca2e0d2f366a9bd95",
+    "name": "chambre_dagriculture_haute_vienne",
+    "title": "Chambre d'agriculture - Haute-Vienne",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/haute-vienne/chambre_agriculture-87085-01",
+    "metadata": {
+      "email": "accueil@haute-vienne.chambagri.fr",
+      "telephone": "05 87 50 40 00",
+      "url": "http://www.haute-vienne.chambre.agriculture.fr"
+    }
+  },
+  {
+    "id": "262371350c0da450170057197cb512d848f9e9c2",
+    "name": "chambre_dagriculture_haut_rhin",
+    "title": "Chambre d'agriculture - Haut-Rhin",
+    "url": "https://lannuaire.service-public.fr/grand-est/haut-rhin/chambre_agriculture-68295-01",
+    "metadata": {
+      "email": "direction@alsace.chambagri.fr",
+      "telephone": "03 89 20 97 00",
+      "url": "http://www.alsace.chambagri.fr"
+    }
+  },
+  {
+    "id": "3b2f8c206192ecfc7603c9ac7ea64a56a547584f",
+    "name": "chambre_dagriculture_herault",
+    "title": "Chambre d'agriculture - Hérault",
+    "url": "https://lannuaire.service-public.fr/occitanie/herault/chambre_agriculture-34129-01",
+    "metadata": {
+      "email": "contact@herault.chambagri.fr",
+      "telephone": "04 67 20 88 00",
+      "url": "http://www.herault.chambagri.fr"
+    }
+  },
+  {
+    "id": "e24f138e43ca4a98d3d9bad4c1ea62c36c0396a1",
+    "name": "chambre_dagriculture_ille_et_vilaine",
+    "title": "Chambre d'agriculture - Ille-et-Vilaine",
+    "url": "https://lannuaire.service-public.fr/bretagne/ille-et-vilaine/chambre_agriculture-35238-01",
+    "metadata": {
+      "email": "contact@ille-et-vilaine.chambagri.fr",
+      "telephone": "02 23 48 23 23",
+      "url": "http://www.synagri.com"
+    }
+  },
+  {
+    "id": "28e4661490c7b9a2a43a3d1b92e78bcf87f7d07a",
+    "name": "chambre_dagriculture_indre",
+    "title": "Chambre d'agriculture - Indre",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/indre/chambre_agriculture-36044-01",
+    "metadata": {
+      "email": "direction@indre.chambagri.fr",
+      "telephone": "02 54 61 61 61",
+      "url": "http://www.indre.chambagri.fr"
+    }
+  },
+  {
+    "id": "6e7450ecdb78eb8f9f4e7e95a22461d299be3000",
+    "name": "chambre_dagriculture_indre_et_loire",
+    "title": "Chambre d'agriculture - Indre-et-Loire",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/indre-et-loire/chambre_agriculture-37050-01",
+    "metadata": {
+      "email": "accueil@cda37.fr",
+      "telephone": "02 47 48 37 37",
+      "url": "http://www.cda37.fr"
+    }
+  },
+  {
+    "id": "51aac4ac84cf3edc99e916ac9e802a7b91aa3092",
+    "name": "chambre_dagriculture_isere",
+    "title": "Chambre d'agriculture - Isère",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/isere/chambre_agriculture-38185-01",
+    "metadata": {
+      "email": "accueil@isere.chambagri.fr",
+      "telephone": "04 76 20 68 68",
+      "url": "http://www.isere.chambres-agriculture.fr"
+    }
+  },
+  {
+    "id": "b790a9658fe9535e3ad593e60af73cab01b72967",
+    "name": "chambre_dagriculture_jura",
+    "title": "Chambre d'agriculture - Jura",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/jura/chambre_agriculture-39300-01",
+    "metadata": {
+      "email": "accueil@jura.chambagri.fr",
+      "telephone": "03 84 35 14 14",
+      "url": "http://www.bourgognefranchecomte.chambres-agriculture.fr"
+    }
+  },
+  {
+    "id": "d260b5a2d939e10e6719036cfa5ec8716e91d088",
+    "name": "chambre_dagriculture_landes",
+    "title": "Chambre d'agriculture - Landes",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/landes/chambre_agriculture-40192-01",
+    "metadata": {
+      "email": "accueil@landes.chambagri.fr",
+      "telephone": "05 58 85 45 45",
+      "url": "http://www.landes.chambagri.fr"
+    }
+  },
+  {
+    "id": "43a81bba64cb237dffd0b61eb23584810306b98d",
+    "name": "chambre_dagriculture_la_reunion",
+    "title": "Chambre d'agriculture - La Réunion",
+    "url": "https://lannuaire.service-public.fr/la-reunion/reunion/chambre_agriculture-97411-01",
+    "metadata": {
+      "email": "president@reunion.chambagri.fr",
+      "telephone": "+262 2 62 94 25 94",
+      "url": "http://www.reunion.chambagri.fr"
+    }
+  },
+  {
+    "id": "07b22cf8c5c6ee2982589aad6cfb4f413824acd0",
+    "name": "chambre_dagriculture_loire",
+    "title": "Chambre d'agriculture - Loire",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/loire/chambre_agriculture-42275-01",
+    "metadata": {
+      "email": "cda42@loire.chambagri.fr",
+      "telephone": "04 77 92 12 12",
+      "url": "http://www.loire.chambre-agriculture.fr"
+    }
+  },
+  {
+    "id": "e6a0add3ab496204a5b40de842c04276b7ed1de7",
+    "name": "chambre_dagriculture_loire_atlantique",
+    "title": "Chambre d'agriculture - Loire-Atlantique",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/loire-atlantique/chambre_agriculture-44109-01",
+    "metadata": {
+      "email": "accueil@loire-atlantique.chambagri.fr",
+      "telephone": "02 53 46 60 00",
+      "url": "http://pays-de-la-loire.chambres-agriculture.fr"
+    }
+  },
+  {
+    "id": "35a515cb96534311190a027e024fec3d8262df4b",
+    "name": "chambre_dagriculture_loiret",
+    "title": "Chambre d'agriculture - Loiret",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/loiret/chambre_agriculture-45234-01",
+    "metadata": {
+      "email": "accueil@loiret.chambagri.fr",
+      "telephone": "02 38 71 90 10",
+      "url": "http://www.loiret.chambagri.fr"
+    }
+  },
+  {
+    "id": "b0bf718363ab66e66cddede27b06d25716950bec",
+    "name": "chambre_dagriculture_loir_et_cher",
+    "title": "Chambre d'agriculture - Loir-et-Cher",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/loir-et-cher/chambre_agriculture-41018-01",
+    "metadata": {
+      "email": "accueil@loir-et-cher.chambagri.fr",
+      "telephone": "02 54 55 20 00",
+      "url": "http://www.centre-valdeloire.chambres-agriculture.fr"
+    }
+  },
+  {
+    "id": "27f5d5bbe247211c48fd5b7ce3d1c9dc876ee70a",
+    "name": "chambre_dagriculture_lot",
+    "title": "Chambre d'agriculture - Lot",
+    "url": "https://lannuaire.service-public.fr/occitanie/lot/chambre_agriculture-46042-01",
+    "metadata": {
+      "email": "accueil@lot.chambagri.fr",
+      "telephone": "05 65 23 22 21",
+      "url": "http://www.lot.chambre-agriculture.fr"
+    }
+  },
+  {
+    "id": "f66ce4eddc8caf00dbd6f50b11f1eefc00788468",
+    "name": "chambre_dagriculture_lot_et_garonne",
+    "title": "Chambre d'agriculture - Lot-et-Garonne",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/lot-et-garonne/chambre_agriculture-47001-01",
+    "metadata": {
+      "email": "accueil@ca47.fr",
+      "telephone": "05 53 77 83 83",
+      "url": "http://www.ca47.fr"
+    }
+  },
+  {
+    "id": "e0b2f738964589136b28da952be19f0897254527",
+    "name": "chambre_dagriculture_lozere",
+    "title": "Chambre d'agriculture - Lozère",
+    "url": "https://lannuaire.service-public.fr/occitanie/lozere/chambre_agriculture-48095-01",
+    "metadata": {
+      "email": "accueil@lozere.chambagri.fr",
+      "telephone": "04 66 65 62 00",
+      "url": "https://lozere.chambre-agriculture.fr"
+    }
+  },
+  {
+    "id": "d2b801a97804aa357cb9a7f103c585d0380bd090",
+    "name": "chambre_dagriculture_manche",
+    "title": "Chambre d'agriculture - Manche",
+    "url": "https://lannuaire.service-public.fr/normandie/manche/chambre_agriculture-50502-01",
+    "metadata": {
+      "email": "accueil@manche.chambagri.fr",
+      "telephone": "02 33 06 48 48",
+      "url": "http://www.manche.chambagri.fr"
+    }
+  },
+  {
+    "id": "d285ce791646c31f44f90bc48e9946e76a467ab1",
+    "name": "chambre_dagriculture_marne",
+    "title": "Chambre d'agriculture - Marne",
+    "url": "https://lannuaire.service-public.fr/grand-est/marne/chambre_agriculture-51108-01",
+    "metadata": {
+      "email": "accueil-chalons@marne.chambagri.fr",
+      "telephone": "03 26 64 08 13",
+      "url": "http://www.marne.chambre-agriculture.fr"
+    }
+  },
+  {
+    "id": "8a3b75b22c08813410036cc19f11243d05ec42f2",
+    "name": "chambre_dagriculture_martinique",
+    "title": "Chambre d'agriculture - Martinique",
+    "url": "https://lannuaire.service-public.fr/martinique/martinique/chambre_agriculture-97213-01",
+    "metadata": {
+      "email": "ca972@martinique.chambagri.fr",
+      "telephone": "+596 5 96 51 75 75",
+      "url": "http://www.chambagri.martinique.fr"
+    }
+  },
+  {
+    "id": "d1cbbdb52a1dd143fc45908fa7f54110316f2013",
+    "name": "chambre_dagriculture_mayenne",
+    "title": "Chambre d'agriculture - Mayenne",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/mayenne/chambre_agriculture-53130-01",
+    "metadata": {
+      "email": "accueil@mayenne.chambagri.fr",
+      "telephone": "02 43 67 37 00",
+      "url": "http://www.mayenne.chambagri.fr"
+    }
+  },
+  {
+    "id": "0baf4d9151c95c8438d832c64914daa2a4034003",
+    "name": "chambre_dagriculture_meurthe_et_moselle",
+    "title": "Chambre d'agriculture - Meurthe-et-Moselle",
+    "url": "https://lannuaire.service-public.fr/grand-est/meurthe-et-moselle/chambre_agriculture-54304-01",
+    "metadata": {
+      "email": "accueil@meurthe-et-moselle.chambagri.fr",
+      "telephone": "03 83 93 34 10",
+      "url": "http://www.meurthe-et-moselle.chambre-agriculture.fr"
+    }
+  },
+  {
+    "id": "91688f7fa521632f3de840f24805fe57019dc922",
+    "name": "chambre_dagriculture_meuse",
+    "title": "Chambre d'agriculture - Meuse",
+    "url": "https://lannuaire.service-public.fr/grand-est/meuse/chambre_agriculture-55029-01",
+    "metadata": {
+      "email": "accueil@meuse.chambagri.fr",
+      "telephone": "03 29 83 30 30",
+      "url": "http://www.meuse.chambre-agriculture.fr"
+    }
+  },
+  {
+    "id": "7460964a931eab5e187c24800cb5e9cd8bbb5758",
+    "name": "chambre_dagriculture_morbihan",
+    "title": "Chambre d'agriculture - Morbihan",
+    "url": "https://lannuaire.service-public.fr/bretagne/morbihan/chambre_agriculture-56260-01",
+    "metadata": {
+      "email": "agriculteurs56@morbihan.chambagri.fr",
+      "telephone": "02 97 46 22 00",
+      "url": "http://www.agriculteurs56.com"
+    }
+  },
+  {
+    "id": "e143e4483ba095e28ea62008e01c59096ea82973",
+    "name": "chambre_dagriculture_moselle",
+    "title": "Chambre d'agriculture - Moselle",
+    "url": "https://lannuaire.service-public.fr/grand-est/moselle/chambre_agriculture-57463-01",
+    "metadata": {
+      "email": "accueil@moselle.chambagri.fr",
+      "telephone": "03 87 66 12 30",
+      "url": "http://www.moselle.chambagri.fr"
+    }
+  },
+  {
+    "id": "70d35b9d569bc478199cb87e4774d3631e48069b",
+    "name": "chambre_dagriculture_nievre",
+    "title": "Chambre d'agriculture - Nièvre",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/nievre/chambre_agriculture-58194-01",
+    "metadata": {
+      "email": "accueil@nievre.chambagri.fr",
+      "telephone": "03 86 93 40 00",
+      "url": "http://www.nievre.chambagri.fr"
+    }
+  },
+  {
+    "id": "d6833bc61ea8b75870ec5b5e94d6c243cd7282bc",
+    "name": "chambre_dagriculture_nord_pas_de_calais",
+    "title": "Chambre d'agriculture - Nord-Pas-de-Calais",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/nord/chambre_agriculture-59350-01",
+    "metadata": {
+      "email": "ch.agri-region@agriculture-npdc.fr",
+      "telephone": "03 20 88 67 00",
+      "url": "http://www.agriculture-npdc.fr"
+    }
+  },
+  {
+    "id": "1d08f7d7bda96f581b0260aa2025d8d83d49ee34",
+    "name": "chambre_dagriculture_nouvelle_caledonie",
+    "title": "Chambre d'agriculture - Nouvelle Calédonie",
+    "url": "https://lannuaire.service-public.fr/collectivites-d-outre-mer/nouvelle-caledonie/chambre_agriculture-98818-01",
+    "metadata": {
+      "email": "accueil@canc.nc",
+      "telephone": "(687) 24 31 60",
+      "url": "https://nouvelle-caledonie.chambre-agriculture.fr/"
+    }
+  },
+  {
+    "id": "afd661211a338a88b48c8543fa1330f1637588c2",
+    "name": "chambre_dagriculture_oise",
+    "title": "Chambre d'agriculture - Oise",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/oise/chambre_agriculture-60057-01",
+    "metadata": {
+      "email": "accueil@oise.chambagri.fr",
+      "telephone": "03 44 11 44 11",
+      "url": "http://www.agri60.fr"
+    }
+  },
+  {
+    "id": "6e496a86e3b992c2a1329671e8995611270d3895",
+    "name": "chambre_dagriculture_orne",
+    "title": "Chambre d'agriculture - Orne",
+    "url": "https://lannuaire.service-public.fr/normandie/orne/chambre_agriculture-61001-01",
+    "metadata": {
+      "email": "accueil@orne.chambagri.fr",
+      "telephone": "02 33 31 48 00",
+      "url": "http://www.chambre-agriculture-61.fr"
+    }
+  },
+  {
+    "id": "efd4be7ad8b40b6f375df9e2c74887e698d0791b",
+    "name": "chambre_dagriculture_pas_de_calais",
+    "title": "Chambre d'agriculture - Pas-de-Calais",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/pas-de-calais/chambre_agriculture-62753-01",
+    "metadata": {
+      "email": "region@agriculture-npdc.fr",
+      "telephone": "03 21 60 57 57",
+      "url": "http://www.nord-pas-de-calais.chambre-agriculture.fr"
+    }
+  },
+  {
+    "id": "568d6d1446f199de968866578ca80657707ff356",
+    "name": "chambre_dagriculture_pays_de_la_loire",
+    "title": "Chambre d'agriculture - Pays-de-la-Loire",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/maine-et-loire/chambre_agriculture-49007-01",
+    "metadata": {
+      "email": "accueil@pl.chambagri.fr",
+      "telephone": "02 41 18 60 00",
+      "url": "http://www.pays-de-la-loire.chambres-agriculture.fr"
+    }
+  },
+  {
+    "id": "805cccc6be826868912513979a8dc5658b365aba",
+    "name": "chambre_dagriculture_puy_de_dome",
+    "title": "Chambre d'agriculture - Puy-de-Dôme",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/puy-de-dome/chambre_agriculture-63014-01",
+    "metadata": {
+      "email": "contact@puy-de-dome.chambagri.fr",
+      "telephone": "04 73 44 45 46",
+      "url": "http://www.chambre-agri63.com"
+    }
+  },
+  {
+    "id": "3f278a2693aa1b8b47b481aff63f751c74e9ca82",
+    "name": "chambre_dagriculture_pyrenees_atlantiques",
+    "title": "Chambre d'agriculture - Pyrénées-Atlantiques",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/pyrenees-atlantiques/chambre_agriculture-64445-01",
+    "metadata": {
+      "email": "accueil@pa.chambagri.fr",
+      "telephone": "05 59 80 70 00",
+      "url": "http://www.pa.chambagri.fr"
+    }
+  },
+  {
+    "id": "46b1edbf94a3c3f0a7bc8f962e80526ce4875270",
+    "name": "chambre_dagriculture_pyrenees_orientales",
+    "title": "Chambre d'agriculture - Pyrénées-Orientales",
+    "url": "https://lannuaire.service-public.fr/occitanie/pyrenees-orientales/chambre_agriculture-66136-01",
+    "metadata": {
+      "email": "accueil@pyrenees-orientales.chambagri.fr",
+      "telephone": "04 68 35 74 00",
+      "url": "http://www.pyrenees-orientales.chambagri.fr"
+    }
+  },
+  {
+    "id": "a345cf764faa8cc7c42668c81cc83b93be39e6ba",
+    "name": "chambre_dagriculture_region_ile_de_france",
+    "title": "Chambre d'agriculture - Région Île-de-France",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/paris/chambre_agriculture-75108-01",
+    "metadata": {
+      "email": "accueil@idf.chambagri.fr",
+      "telephone": "01 39 23 42 00",
+      "url": "https://idf.chambre-agriculture.fr/"
+    }
+  },
+  {
+    "id": "48e84164ec1a4249e011fa5750eff16629f88e6c",
+    "name": "chambre_dagriculture_rhone",
+    "title": "Chambre d'agriculture - Rhône",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/rhone/chambre_agriculture-69250-01",
+    "metadata": {
+      "email": "martine.richard@rhone.chambagri.fr",
+      "telephone": "04 78 19 61 10",
+      "url": "http://rhone.synagri.com"
+    }
+  },
+  {
+    "id": "3e6cc743dfb5aac20fc53be3d0bafc5bf64a0841",
+    "name": "chambre_dagriculture_saone_et_loire",
+    "title": "Chambre d'agriculture - Saône-et-Loire",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/saone-et-loire/chambre_agriculture-71270-01",
+    "metadata": {
+      "email": "accueil@sl.chambagri.fr",
+      "telephone": "03 85 29 55 00",
+      "url": "http://www.sl.chambagri.fr"
+    }
+  },
+  {
+    "id": "8a89487212c4dbfd342dd11b603e017d3c947db4",
+    "name": "chambre_dagriculture_sarthe",
+    "title": "Chambre d'agriculture - Sarthe",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/sarthe/chambre_agriculture-72181-01",
+    "metadata": {
+      "email": "accueil@sarthe.chambagri.fr",
+      "telephone": "02 43 29 24 24",
+      "url": "http://www.agri72.fr"
+    }
+  },
+  {
+    "id": "d12103feacdfff9503c3d5f1d6e98853152cee99",
+    "name": "chambre_dagriculture_savoie",
+    "title": "Chambre d'agriculture - Savoie",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/savoie/chambre_agriculture-73225-01",
+    "metadata": {
+      "email": "contact@smb.chambagri.fr",
+      "telephone": "04 79 33 43 36",
+      "url": "http://www.services.casmb.fr"
+    }
+  },
+  {
+    "id": "816811eb5a800ea737a5e0e8f74f6f3a85c673e3",
+    "name": "chambre_dagriculture_seine_maritime",
+    "title": "Chambre d'agriculture - Seine-Maritime",
+    "url": "https://lannuaire.service-public.fr/normandie/seine-maritime/chambre_agriculture-76108-01",
+    "metadata": {
+      "email": "chambre.agriculture@normandie.chambagri.fr",
+      "telephone": "02 35 59 47 47",
+      "url": "http://www.chambre-agriculture-76.fr"
+    }
+  },
+  {
+    "id": "8441d754d10f947d4970404c55f7583c6b651848",
+    "name": "chambre_dagriculture_somme",
+    "title": "Chambre d'agriculture - Somme",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/somme/chambre_agriculture-80021-01",
+    "metadata": {
+      "email": "accueil@somme.chambagri.fr",
+      "telephone": "03 22 33 69 00",
+      "url": "https://www.hautsdefrance.chambres-agriculture.fr"
+    }
+  },
+  {
+    "id": "40b87a12b15c4c9b7f55a040fc4f46770079dee8",
+    "name": "chambre_dagriculture_tarn",
+    "title": "Chambre d'agriculture - Tarn",
+    "url": "https://lannuaire.service-public.fr/occitanie/tarn/chambre_agriculture-81004-01",
+    "metadata": {
+      "email": "accueil@tarn.chambagri.fr",
+      "telephone": "05 63 48 83 83",
+      "url": "http://www.tarn.chambagri.fr"
+    }
+  },
+  {
+    "id": "dfab2cf4f709806568b490b29e9100855b97078a",
+    "name": "chambre_dagriculture_tarn_et_garonne",
+    "title": "Chambre d'agriculture - Tarn-et-Garonne",
+    "url": "https://lannuaire.service-public.fr/occitanie/tarn-et-garonne/chambre_agriculture-82121-01",
+    "metadata": {
+      "email": "accueil82@agri82.fr",
+      "telephone": "05 63 63 30 25",
+      "url": "http://www.agri82.chambre-agriculture.fr"
+    }
+  },
+  {
+    "id": "08b5ccdf48fbc29a7928ad08bf30d0cf024655ad",
+    "name": "chambre_dagriculture_territoire_de_belfort",
+    "title": "Chambre d'agriculture - Territoire de Belfort",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/territoire-de-belfort/chambre_agriculture-90010-01",
+    "metadata": {
+      "email": "accueil@territoire-de-belfort.chambagri.fr",
+      "telephone": "03 84 46 61 50",
+      "url": "http://www.franche-comte.chambagri.fr"
+    }
+  },
+  {
+    "id": "745247cb762068dd19c08749ec7609d5782c14e7",
+    "name": "chambre_dagriculture_var",
+    "title": "Chambre d'agriculture - Var",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/var/chambre_agriculture-83050-01",
+    "metadata": {
+      "email": "contact@var.chambagri.fr",
+      "telephone": "04 94 50 54 50",
+      "url": "http://www.chambre-agriculture83.fr"
+    }
+  },
+  {
+    "id": "d0699d56136382440db4d8603f70239cba04d583",
+    "name": "chambre_dagriculture_vaucluse",
+    "title": "Chambre d'agriculture - Vaucluse",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/vaucluse/chambre_agriculture-84007-01",
+    "metadata": {
+      "email": "brigitte.fournier@vaucluse.chambagri.fr",
+      "telephone": "04 90 23 65 39",
+      "url": "http://www.chambre-agriculture84.fr"
+    }
+  },
+  {
+    "id": "3abad6d02576189156af2a49c76e947c20a54946",
+    "name": "chambre_dagriculture_vendee",
+    "title": "Chambre d'agriculture - Vendée",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/vendee/chambre_agriculture-85191-01",
+    "metadata": {
+      "email": "accueil@vendee.chambagri.fr",
+      "telephone": "02 51 36 82 22",
+      "url": "http://www.agri85.fr"
+    }
+  },
+  {
+    "id": "b0327533f6c24b27268746354536ac84e8c5ef08",
+    "name": "chambre_dagriculture_vienne",
+    "title": "Chambre d'agriculture - Vienne",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/vienne/chambre_agriculture-86157-01",
+    "metadata": {
+      "email": "accueil@vienne.chambagri.fr",
+      "telephone": "05 49 44 74 74",
+      "url": "http://www.vienne.chambagri.fr"
+    }
+  },
+  {
+    "id": "62a77979a2fdf7dda6e601bac3499e071717b641",
+    "name": "chambre_dagriculture_vosges",
+    "title": "Chambre d'agriculture - Vosges",
+    "url": "https://lannuaire.service-public.fr/grand-est/vosges/chambre_agriculture-88160-01",
+    "metadata": {
+      "email": "contact@vosges.chambagri.fr",
+      "telephone": "03 29 29 23 23",
+      "url": "http://www.vosges.chambre-agriculture.fr"
+    }
+  },
+  {
+    "id": "0f1aaa03ff3b891c6ef592b42259a9dea8ccb310",
+    "name": "chambre_dagriculture_yonne",
+    "title": "Chambre d'agriculture - Yonne",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/yonne/chambre_agriculture-89024-01",
+    "metadata": {
+      "email": "accueil@yonne.chambagri.fr",
+      "telephone": "03 86 94 22 22",
+      "url": "http://www.yonne.chambagri.fr"
+    }
+  },
+  {
+    "id": "4995aea8c63eb021c2d0150683db1c31d0f46801",
+    "name": "chambre_de_lagriculture_de_la_peche_et_de_laquaculture_mayotte",
+    "title": "Chambre de l'agriculture de la pêche et de l'aquaculture - Mayotte",
+    "url": "https://lannuaire.service-public.fr/mayotte/mayotte/chambre_agriculture-97611-01",
+    "metadata": {
+      "email": "capam@mayotte.chambagri.fr",
+      "telephone": "02 69 61 68 65",
+      "url": "https://chambres-agriculture.fr"
+    }
+  },
+  {
+    "id": "a2432875c868a6cad2cc99e8e6fb7d590c79983f",
+    "name": "chambre_regionale_dagriculture_auvergne_rhone_alpes_site_d_aubiere",
+    "title": "Chambre régionale d'agriculture Auvergne-Rhône-Alpes - Site d'Aubière",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/puy-de-dome/chambre_agriculture-63014-02",
+    "metadata": {
+      "email": "accueil@aura.chambagri.fr",
+      "telephone": "04 73 28 78 30",
+      "url": "https://aura.chambres-agriculture.fr/"
+    }
+  },
+  {
+    "id": "1caf63676be1b8c8866807dacd935ee8c599fafd",
+    "name": "chambre_regionale_dagriculture_auvergne_rhone_alpes_site_de_lyon",
+    "title": "Chambre régionale d'agriculture Auvergne-Rhône-Alpes - Site de Lyon",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/rhone/chambre_agriculture-69123-02",
+    "metadata": {
+      "email": "accueil@aura.chambagri.fr",
+      "telephone": "04 72 72 49 10",
+      "url": "https://aura.chambres-agriculture.fr/"
+    }
+  },
+  {
+    "id": "de5fd80e611b4fb340ae879ae355225092d45841",
+    "name": "chambre_regionale_dagriculture_bourgogne_franche_comte_site_breteniere",
+    "title": "Chambre régionale d'agriculture Bourgogne-Franche-Comté - Site Bretenière",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/cote-d-or/chambre_agriculture-21106-02",
+    "metadata": {
+      "email": "accueil@bourgogne.chambagri.fr",
+      "telephone": "03 80 48 43 00",
+      "url": "http://www.bourgogne.chambagri.fr/"
+    }
+  },
+  {
+    "id": "fa94e1424ca39b615b91e101a8a6359a6fbe0259",
+    "name": "chambre_regionale_dagriculture_bourgogne_franche_comte_site_valparc_valentin",
+    "title": "Chambre régionale d'agriculture Bourgogne-Franche-Comté - Site Valparc Valentin",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/doubs/chambre_agriculture-25212-02",
+    "metadata": {
+      "email": "accueil@bfc.chambagri.fr",
+      "telephone": "03 81 54 71 71",
+      "url": "https://bourgognefranchecomte.chambres-agriculture.fr/"
+    }
+  },
+  {
+    "id": "2ecc111d749befd885eab891a1eb216ab3247c28",
+    "name": "chambre_regionale_dagriculture_bretagne",
+    "title": "Chambre régionale d'agriculture Bretagne",
+    "url": "https://lannuaire.service-public.fr/bretagne/ille-et-vilaine/chambre_agriculture-35238-02",
+    "metadata": {
+      "email": "accueil@bretagne.chambagri.fr",
+      "telephone": "02 23 48 23 23",
+      "url": "http://www.bretagne.synagri.com/"
+    }
+  },
+  {
+    "id": "2163c44cb74e47ebcb9ab8a803c8efe1fd639f6c",
+    "name": "chambre_regionale_dagriculture_centre_val_de_loire",
+    "title": "Chambre régionale d'agriculture Centre-Val de Loire",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/loiret/chambre_agriculture-45234-02",
+    "metadata": {
+      "email": "accueil@centre.chambagri.fr",
+      "telephone": "02 38 71 91 10",
+      "url": "https://centre-valdeloire.chambres-agriculture.fr/"
+    }
+  },
+  {
+    "id": "6ce2a70790d777c74cb47c35e6fe89e4c4987121",
+    "name": "chambre_regionale_dagriculture_corse",
+    "title": "Chambre régionale d'agriculture Corse",
+    "url": "https://lannuaire.service-public.fr/corse/corse-du-sud/chambre_agriculture-2B033-02",
+    "metadata": {
+      "email": "cra@corse.chambagri.fr",
+      "telephone": "04 95 32 84 40",
+      "url": "https://corse.chambres-agriculture.fr/"
+    }
+  },
+  {
+    "id": "20d33fd85adf3306b44458e2a6749079cb30ca29",
+    "name": "chambre_regionale_dagriculture_grand_est_site_de_champagne_ardenne",
+    "title": "Chambre régionale d'agriculture Grand Est - Site de Champagne-Ardenne",
+    "url": "https://lannuaire.service-public.fr/grand-est/marne/chambre_agriculture-51108-02",
+    "metadata": {
+      "email": "contact@champagrica.fr",
+      "telephone": "03 26 65 18 52",
+      "url": "http://www.grandest.chambre-agriculture.fr"
+    }
+  },
+  {
+    "id": "3fd27cd49ffbdfb22fff0c1c54d4d94faba6c245",
+    "name": "chambre_regionale_dagriculture_grand_est_site_de_l_alsace",
+    "title": "Chambre régionale d'agriculture Grand Est - Site de L'Alsace",
+    "url": "https://lannuaire.service-public.fr/grand-est/bas-rhin/chambre_agriculture-67482-02",
+    "metadata": {
+      "email": "direction@alsace.chambagri.fr",
+      "telephone": "03 88 19 17 17",
+      "url": "http://www.grandest.chambre-agriculture.fr"
+    }
+  },
+  {
+    "id": "ba67885e385a4f452357ef1641293a9bd0ebcbf8",
+    "name": "chambre_regionale_dagriculture_grand_est_site_de_lorraine",
+    "title": "Chambre régionale d'agriculture Grand Est - Site de Lorraine",
+    "url": "https://lannuaire.service-public.fr/grand-est/meurthe-et-moselle/chambre_agriculture-54304-02",
+    "metadata": {
+      "email": "accueil@lorraine.chambagri.fr",
+      "telephone": "03 83 96 80 60",
+      "url": "http://www.grandest.chambre-agriculture.fr"
+    }
+  },
+  {
+    "id": "1b5819a6e7c666ed6d6a57c3f01c1066e11689fc",
+    "name": "chambre_regionale_dagriculture_hauts_de_france",
+    "title": "Chambre régionale d'agriculture Hauts-de-France",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/nord/chambre_agriculture-59350-02",
+    "metadata": {
+      "email": "",
+      "telephone": "03 22 33 69 00",
+      "url": "https://hautsdefrance.chambres-agriculture.fr"
+    }
+  },
+  {
+    "id": "2958f3138ae3899d0599c49fbff50a2620bde5ea",
+    "name": "chambre_regionale_dagriculture_ile_de_france",
+    "title": "Chambre régionale d'agriculture Ile-de-France",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/yvelines/chambre_agriculture-78158-02",
+    "metadata": {
+      "email": "accueil@ile-de-france.chambagri.fr",
+      "telephone": "01 39 23 42 00",
+      "url": "http://www.ile-de-france.chambagri.fr/"
+    }
+  },
+  {
+    "id": "71498973d4bcd75071087a86294abf8dcf2e850e",
+    "name": "chambre_regionale_dagriculture_normandie",
+    "title": "Chambre régionale d'agriculture Normandie",
+    "url": "https://lannuaire.service-public.fr/normandie/calvados/chambre_agriculture-14118-02",
+    "metadata": {
+      "email": "accueil@normandie.chambagri.fr",
+      "telephone": "02 31 47 22 47",
+      "url": "https://normandie.chambres-agriculture.fr/"
+    }
+  },
+  {
+    "id": "9b8f39fd37b1d4a192bbd41623de2126955ae180",
+    "name": "chambre_regionale_dagriculture_nouvelle_aquitaine_site_de_bordeaux",
+    "title": "Chambre régionale d'agriculture Nouvelle-Aquitaine - Site de Bordeaux",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/gironde/chambre_agriculture-33063-02",
+    "metadata": {
+      "email": "accueil@na.chambagri.fr",
+      "telephone": "05 56 01 33 33",
+      "url": "https://nouvelle-aquitaine.chambres-agriculture.fr/"
+    }
+  },
+  {
+    "id": "8d8c9839e6d1f069cde84064e32ad7a02b435ff0",
+    "name": "chambre_regionale_dagriculture_nouvelle_aquitaine_site_de_limoges",
+    "title": "Chambre régionale d'agriculture Nouvelle-Aquitaine - Site de Limoges",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/haute-vienne/chambre_agriculture-87085-02",
+    "metadata": {
+      "email": "accueil@na.chambagri.fr",
+      "telephone": "05 55 10 37 90",
+      "url": "https://nouvelle-aquitaine.chambres-agriculture.fr/"
+    }
+  },
+  {
+    "id": "7278947574295f6ee0da06d1db2bff3479cbed38",
+    "name": "chambre_regionale_dagriculture_nouvelle_aquitaine_site_de_mignaloux_beauvoir",
+    "title": "Chambre régionale d'agriculture Nouvelle-Aquitaine - Site de Mignaloux-Beauvoir",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/vienne/chambre_agriculture-86157-02",
+    "metadata": {
+      "email": "accueil@na.chambagri.fr",
+      "telephone": "05 49 44 74 74",
+      "url": "https://nouvelle-aquitaine.chambres-agriculture.fr/"
+    }
+  },
+  {
+    "id": "b493c4d66c0ea9121ad18959b09fb88318036d36",
+    "name": "chambre_regionale_dagriculture_occitanie_site_d_auzeville",
+    "title": "Chambre régionale d'agriculture Occitanie - Site d'Auzeville",
+    "url": "https://lannuaire.service-public.fr/occitanie/haute-garonne/chambre_agriculture-31113-02",
+    "metadata": {
+      "email": "accueil@occitanie.chambagri.fr",
+      "telephone": "05 61 75 26 00",
+      "url": "https://occitanie.chambre-agriculture.fr/"
+    }
+  },
+  {
+    "id": "3a627c6db773dd987d97ef233d025013bf81b327",
+    "name": "chambre_regionale_dagriculture_occitanie_site_de_lattes",
+    "title": "Chambre régionale d'agriculture Occitanie - Site de Lattes",
+    "url": "https://lannuaire.service-public.fr/occitanie/herault/chambre_agriculture-34129-02",
+    "metadata": {
+      "email": "accueil@occitanie.chambagri.fr",
+      "telephone": "04 67 20 88 63",
+      "url": "https://occitanie.chambre-agriculture.fr/"
+    }
+  },
+  {
+    "id": "09081da8234af58db9b972b1d0ede054afae219a",
+    "name": "chambre_regionale_dagriculture_pays_de_la_loire",
+    "title": "Chambre régionale d'agriculture Pays de la Loire",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/maine-et-loire/chambre_agriculture-49007-02",
+    "metadata": {
+      "email": "accueil@pl.chambagri.fr",
+      "telephone": "02 41 18 60 00",
+      "url": "https://pays-de-la-loire.chambres-agriculture.fr/"
+    }
+  },
+  {
+    "id": "9307287f109b95f774e82cf1adbe34e26cd03308",
+    "name": "chambre_regionale_dagriculture_provence_alpes_cote_d_azur",
+    "title": "Chambre régionale d'agriculture Provence-Alpes-Côte d'Azur",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/chambre_agriculture-13001-02",
+    "metadata": {
+      "email": "contact@paca.chambagri.fr",
+      "telephone": "04 42 17 15 00",
+      "url": "https://paca.chambres-agriculture.fr/"
+    }
+  }
+]

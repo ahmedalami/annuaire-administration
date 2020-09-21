@@ -1,0 +1,167 @@
+[
+  {
+    "id": "1a10ed15fb1340a5eef43ee7f297b7dedd4b6560",
+    "name": "cour_criminelle_departementale_des_ardennes",
+    "title": "Cour Criminelle départementale des Ardennes",
+    "url": "https://lannuaire.service-public.fr/grand-est/ardennes/ccd-08105-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 24 57 69 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "704a8d31ad773913418243c0a3dc13416f7a4a4f",
+    "name": "cour_criminelle_departementale_du_calvados",
+    "title": "Cour Criminelle départementale du Calvados",
+    "url": "https://lannuaire.service-public.fr/normandie/calvados/ccd-14118-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 31 30 70 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "6b4a9a83bb09f4a7a7bef898bb1f289ffb0bfec1",
+    "name": "cour_criminelle_departementale_du_cher",
+    "title": "Cour Criminelle départementale du Cher",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/cher/ccd-18033-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 48 68 34 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "eb2446a7e5c403fdac4e7d6986b6b9a62930c2ee",
+    "name": "cour_criminelle_departementale_de_guadeloupe",
+    "title": "Cour Criminelle départementale de Guadeloupe",
+    "url": "https://lannuaire.service-public.fr/guadeloupe/guadeloupe/ccd-97105-01",
+    "metadata": {
+      "email": "",
+      "telephone": "0(590)806336",
+      "url": ""
+    }
+  },
+  {
+    "id": "3224a4ce6ad764a0ebe62f44944b1cb520cbf294",
+    "name": "cour_criminelle_departementale_de_guyane",
+    "title": "Cour Criminelle départementale de Guyane",
+    "url": "https://lannuaire.service-public.fr/guyane/guyane/ccd-97302-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 94 27 48 48",
+      "url": ""
+    }
+  },
+  {
+    "id": "da660095ef051f55c0286345c1d63f9c01841664",
+    "name": "cour_criminelle_departementale_de_l_herault",
+    "title": "Cour Criminelle départementale de l'Hérault",
+    "url": "https://lannuaire.service-public.fr/occitanie/herault/ccd-34172-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 34 08 80 80",
+      "url": ""
+    }
+  },
+  {
+    "id": "a896a84d68023b09377243d5273d6fe04ce2432e",
+    "name": "cour_criminelle_departementale_de_l_isere",
+    "title": "Cour Criminelle départementale de l'Isère",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/isere/ccd-38185-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 38 21 21 21",
+      "url": ""
+    }
+  },
+  {
+    "id": "fe086dd77687645d62429564884d251c605acf5d",
+    "name": "cour_criminelle_departementale_de_la_haute_garonne",
+    "title": "Cour Criminelle départementale de la Haute-Garonne",
+    "url": "https://lannuaire.service-public.fr/occitanie/haute-garonne/ccd-31555-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 61 33 74 74",
+      "url": ""
+    }
+  },
+  {
+    "id": "d59653523c11323d55b6a2efc5a34b466e7db52a",
+    "name": "cour_criminelle_departementale_de_la_loire_atlantique",
+    "title": "Cour Criminelle départementale de la Loire-Atlantique",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/loire-atlantique/ccd-44109-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 51 17 95 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "e0bf714ffedd877990675e7782e4bbac7ebd2f9b",
+    "name": "cour_criminelle_departementale_de_la_moselle",
+    "title": "Cour Criminelle départementale de la Moselle",
+    "url": "https://lannuaire.service-public.fr/grand-est/moselle/ccd-57463-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 87 56 76 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "44a739cd5697ce23f6482eedf232c0ff162d1915",
+    "name": "cour_criminelle_departementale_de_la_reunion",
+    "title": "Cour Criminelle départementale de la Réunion",
+    "url": "https://lannuaire.service-public.fr/la-reunion/reunion/ccd-97411-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 62 40 58 58",
+      "url": ""
+    }
+  },
+  {
+    "id": "048196e17b9e87df82c1173c96ed988f5a4c4417",
+    "name": "cour_criminelle_departementale_de_la_seine_maritime",
+    "title": "Cour Criminelle départementale de la Seine-Maritime",
+    "url": "https://lannuaire.service-public.fr/normandie/seine-maritime/ccd-76540-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 35 52 87 52",
+      "url": ""
+    }
+  },
+  {
+    "id": "6b0e3ebe5f9aa8b67dbda9cf6370a7e7c0ec0635",
+    "name": "cour_criminelle_departementale_des_pyrenees_atlantiques",
+    "title": "Cour Criminelle départementale des Pyrénées-Atlantiques",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/pyrenees-atlantiques/ccd-64445-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 59 82 47 15",
+      "url": ""
+    }
+  },
+  {
+    "id": "b0cac10fb0524928075b5f961d162cc240ad90e8",
+    "name": "cour_criminelle_departementale_du_val_d_oise",
+    "title": "Cour Criminelle départementale du Val-d'Oise",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/val-d-oise/ccd-95500-01",
+    "metadata": {
+      "email": "",
+      "telephone": "01 72 58 70 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "5fa865539807fb5c0f231ce341dd8395ac8a6c50",
+    "name": "cour_criminelle_departementale_des_yvelines",
+    "title": "Cour Criminelle départementale des Yvelines",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/yvelines/ccd-78646-01",
+    "metadata": {
+      "email": "",
+      "telephone": "01 39 49 68 88",
+      "url": ""
+    }
+  }
+]

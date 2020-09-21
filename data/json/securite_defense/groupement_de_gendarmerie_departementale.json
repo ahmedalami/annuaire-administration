@@ -1,0 +1,1081 @@
+[
+  {
+    "id": "816df36dea19dd103bea0d04c57642767f20886e",
+    "name": "groupement_de_gendarmerie_departementale_ain",
+    "title": "Groupement de gendarmerie départementale - Ain",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/ain/gendarmerie_departementale-01053-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 74 45 97 00",
+      "url": "https://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "85a06bb85373924e6652344c9854fb78ed052fb8",
+    "name": "groupement_de_gendarmerie_departementale_aisne",
+    "title": "Groupement de gendarmerie départementale - Aisne",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/aisne/gendarmerie_departementale-02408-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 23 22 53 53",
+      "url": "https://www.gendarmerie.interieur.gouv.fr/"
+    }
+  },
+  {
+    "id": "f611a858a52158435e2b92dffababa386b833fd6",
+    "name": "groupement_de_gendarmerie_departementale_allier",
+    "title": "Groupement de gendarmerie départementale - Allier",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/allier/gendarmerie_departementale-03190-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 70 35 57 00",
+      "url": "https://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "0e25245e7393782e2fbe23981fc890199d250f36",
+    "name": "groupement_de_gendarmerie_departementale_alpes_de_haute_provence",
+    "title": "Groupement de gendarmerie départementale - Alpes-de-Haute-Provence",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/alpes-de-haute-provence/gendarmerie_departementale-04070-01",
+    "metadata": {
+      "email": "ggd04@gendarmerie.interieur.gouv.fr",
+      "telephone": "04 92 30 11 00",
+      "url": "https://www.gendarmerie.interieur.gouv.fr/"
+    }
+  },
+  {
+    "id": "957084fecde1fd7dfcdc22c3e82072cc48b655bb",
+    "name": "groupement_de_gendarmerie_departementale_alpes_maritimes",
+    "title": "Groupement de gendarmerie départementale - Alpes-Maritimes",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/alpes-maritimes/gendarmerie_departementale-06088-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 93 18 42 30",
+      "url": "https://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "aaa1e3110cc35eba5dae5f77d76cbb733b8b2366",
+    "name": "groupement_de_gendarmerie_departementale_ardeche",
+    "title": "Groupement de gendarmerie départementale - Ardèche",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/ardeche/gendarmerie_departementale-07186-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 75 20 91 00",
+      "url": "https://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "9108e6d056fdb9e39e758341d56682746fd1565e",
+    "name": "groupement_de_gendarmerie_departementale_ardennes",
+    "title": "Groupement de gendarmerie départementale - Ardennes",
+    "url": "https://lannuaire.service-public.fr/grand-est/ardennes/gendarmerie_departementale-08105-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 24 58 67 00",
+      "url": "https://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "b04965c6bdc73ac4f57b400487484caeea7010b0",
+    "name": "groupement_de_gendarmerie_departementale_ariege",
+    "title": "Groupement de gendarmerie départementale - Ariège",
+    "url": "https://lannuaire.service-public.fr/occitanie/ariege/gendarmerie_departementale-09122-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 61 02 17 00",
+      "url": "https://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "972075d597b0b29bddd115c60aa5987c9d442675",
+    "name": "groupement_de_gendarmerie_departementale_aube",
+    "title": "Groupement de gendarmerie départementale - Aube",
+    "url": "https://lannuaire.service-public.fr/grand-est/aube/gendarmerie_departementale-10387-01",
+    "metadata": {
+      "email": "ggd10@gendarmerie.interieur.gouv.fr",
+      "telephone": "03 25 75 75 75",
+      "url": "https://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "dc8be5ddfa755cd14a73d4fd06ad989e918344cb",
+    "name": "groupement_de_gendarmerie_departementale_aude",
+    "title": "Groupement de gendarmerie départementale - Aude",
+    "url": "https://lannuaire.service-public.fr/occitanie/aude/gendarmerie_departementale-11069-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 68 11 50 00",
+      "url": "https://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "9032e06b541717e84a18e502d5e574920051b9ba",
+    "name": "groupement_de_gendarmerie_departementale_aveyron",
+    "title": "Groupement de gendarmerie départementale - Aveyron",
+    "url": "https://lannuaire.service-public.fr/occitanie/aveyron/gendarmerie_departementale-12202-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 65 73 70 00",
+      "url": "https://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "9f8d6afd2d9ee1cad29adc83e1c60bb55335f08a",
+    "name": "groupement_de_gendarmerie_departementale_bas_rhin",
+    "title": "Groupement de gendarmerie départementale - Bas-Rhin",
+    "url": "https://lannuaire.service-public.fr/grand-est/bas-rhin/gendarmerie_departementale-67482-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 88 37 52 99",
+      "url": "https://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "5d6c2049fa3c4f80dc0105cf74290471585e96a6",
+    "name": "groupement_de_gendarmerie_departementale_bouches_du_rhone",
+    "title": "Groupement de gendarmerie départementale - Bouches-du-Rhône",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/gendarmerie_departementale-13210-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 96 20 77 77",
+      "url": "https://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "73b0d31b81382cf3e84fba7cd689679c4a21b597",
+    "name": "groupement_de_gendarmerie_departementale_calvados",
+    "title": "Groupement de gendarmerie départementale - Calvados",
+    "url": "https://lannuaire.service-public.fr/normandie/calvados/gendarmerie_departementale-14118-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 31 35 92 00",
+      "url": "https://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "e44516afe2e9a8b06cb3f6a59a2d2564275a91b4",
+    "name": "groupement_de_gendarmerie_departementale_cantal",
+    "title": "Groupement de gendarmerie départementale - Cantal",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/cantal/gendarmerie_departementale-15014-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 71 45 54 00",
+      "url": "https://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "9af7abcad6c15b1325335a2a768918b00aefba62",
+    "name": "groupement_de_gendarmerie_departementale_charente",
+    "title": "Groupement de gendarmerie départementale - Charente",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/charente/gendarmerie_departementale-16015-01",
+    "metadata": {
+      "email": "ggd16@gendarmerie.interieur.gouv.fr",
+      "telephone": "05 45 37 50 00",
+      "url": "https://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "8aa4c92250aecf420b8e60061c42b804e433afae",
+    "name": "groupement_de_gendarmerie_departementale_charente_maritime",
+    "title": "Groupement de gendarmerie départementale - Charente-Maritime",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/charente-maritime/gendarmerie_departementale-17300-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 46 00 50 99",
+      "url": "https://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "3e59ff33deda32962d33b92a8a3c96bb02b6997c",
+    "name": "groupement_de_gendarmerie_departementale_cher",
+    "title": "Groupement de gendarmerie départementale - Cher",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/cher/gendarmerie_departementale-18033-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 48 55 85 00",
+      "url": "https://www.gendarmerie.interieur.gouv.fr/"
+    }
+  },
+  {
+    "id": "2ebb45add7c74490b4ad173452dfb932d1c06fa1",
+    "name": "groupement_de_gendarmerie_departementale_correze",
+    "title": "Groupement de gendarmerie départementale - Corrèze",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/correze/gendarmerie_departementale-19272-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 55 21 50 50",
+      "url": "https://www.gendarmerie.interieur.gouv.fr/"
+    }
+  },
+  {
+    "id": "e727c1f53e2a01b89344d2d6cf16d73fa4ed05af",
+    "name": "groupement_de_gendarmerie_departementale_corse_du_sud",
+    "title": "Groupement de gendarmerie départementale - Corse-du-sud",
+    "url": "https://lannuaire.service-public.fr/corse/corse-du-sud/gendarmerie_departementale-2A004-01",
+    "metadata": {
+      "email": "",
+      "telephone": "",
+      "url": "https://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "10f80aff7cecc5ee736f89687680844b10cb12b2",
+    "name": "groupement_de_gendarmerie_departementale_cote_d_or",
+    "title": "Groupement de gendarmerie départementale - Côte-d'Or",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/cote-d-or/gendarmerie_departementale-21231-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 80 70 67 99",
+      "url": "https://www.gendarmerie.interieur.gouv.fr/"
+    }
+  },
+  {
+    "id": "30b0b8f58963406586077d732fa28c8a734b2ae4",
+    "name": "groupement_de_gendarmerie_departementale_cotes_d_armor",
+    "title": "Groupement de gendarmerie départementale - Côtes-d'Armor",
+    "url": "https://lannuaire.service-public.fr/bretagne/cotes-d-armor/gendarmerie_departementale-22278-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 96 01 50 00",
+      "url": "https://www.gendarmerie.interieur.gouv.fr/"
+    }
+  },
+  {
+    "id": "9635b60c1240ad7fe0954e1b8af43a3473273b40",
+    "name": "groupement_de_gendarmerie_departementale_creuse",
+    "title": "Groupement de gendarmerie départementale - Creuse",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/creuse/gendarmerie_departementale-23096-01",
+    "metadata": {
+      "email": "ggd23@gendarmerie.interieur.gouv.fr",
+      "telephone": "05 55 51 50 00",
+      "url": "https://www.gendarmerie.interieur.gouv.fr/"
+    }
+  },
+  {
+    "id": "c8149432a6bab0d47fda791ae2bfa2803604504f",
+    "name": "groupement_de_gendarmerie_departementale_deux_sevres",
+    "title": "Groupement de gendarmerie départementale - Deux-Sèvres",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/deux-sevres/gendarmerie_departementale-79191-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 49 28 63 00",
+      "url": "https://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "ea357149faaedd61a48b0f95721670d79bb68cf0",
+    "name": "groupement_de_gendarmerie_departementale_dordogne",
+    "title": "Groupement de gendarmerie départementale - Dordogne",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/dordogne/gendarmerie_departementale-24322-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 53 02 71 00",
+      "url": "https://www.gendarmerie.interieur.gouv.fr/"
+    }
+  },
+  {
+    "id": "f3c46d968aeb46a119e4b719d10a3a88546206c5",
+    "name": "groupement_de_gendarmerie_departementale_doubs",
+    "title": "Groupement de gendarmerie départementale - Doubs",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/doubs/gendarmerie_departementale-25056-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 81 40 50 47",
+      "url": "https://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "d14f7f8487349c2e91acf2649537d5d08af96038",
+    "name": "groupement_de_gendarmerie_departementale_drome",
+    "title": "Groupement de gendarmerie départementale - Drôme",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/drome/gendarmerie_departementale-26362-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 75 82 52 00",
+      "url": "https://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "2d9e0c58c1323376702c8356808b47c7787b9f82",
+    "name": "groupement_de_gendarmerie_departementale_essonne",
+    "title": "Groupement de gendarmerie départementale - Essonne",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/essonne/gendarmerie_departementale-91228-01",
+    "metadata": {
+      "email": "ggd91@gendarmerie.interieur.gouv.fr",
+      "telephone": "01 60 79 65 00",
+      "url": "https://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "7e1163e6755b45593f58412c752088ba80faf0a7",
+    "name": "groupement_de_gendarmerie_departementale_eure",
+    "title": "Groupement de gendarmerie départementale - Eure",
+    "url": "https://lannuaire.service-public.fr/normandie/eure/gendarmerie_departementale-27229-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 32 29 57 05",
+      "url": "https://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "416d69e0eb19c12b0fc1dbbad68225677afaf80b",
+    "name": "groupement_de_gendarmerie_departementale_eure_et_loir",
+    "title": "Groupement de gendarmerie départementale - Eure-et-Loir",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/eure-et-loir/gendarmerie_departementale-28218-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 37 91 70 00",
+      "url": "https://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "4c6b81361770f2eca84ab9e6b40a30edc953aded",
+    "name": "groupement_de_gendarmerie_departementale_finistere",
+    "title": "Groupement de gendarmerie départementale - Finistère",
+    "url": "https://lannuaire.service-public.fr/bretagne/finistere/gendarmerie_departementale-29232-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 98 55 80 80",
+      "url": "https://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "f2e196c60e87b49bb80fc0196e8d3bbd7862e8b0",
+    "name": "groupement_de_gendarmerie_departementale_gard",
+    "title": "Groupement de gendarmerie départementale - Gard",
+    "url": "https://lannuaire.service-public.fr/occitanie/gard/gendarmerie_departementale-30189-01",
+    "metadata": {
+      "email": "ggd30@gendarmerie.interieur.gouv.fr",
+      "telephone": "04 66 38 50 00",
+      "url": "https://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "b435a3433c097a6be1c90a82dd45d2e0c82a0d0b",
+    "name": "groupement_de_gendarmerie_departementale_gers",
+    "title": "Groupement de gendarmerie départementale - Gers",
+    "url": "https://lannuaire.service-public.fr/occitanie/gers/gendarmerie_departementale-32013-01",
+    "metadata": {
+      "email": "",
+      "telephone": "",
+      "url": "https://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "1fe9b568f8b3e94e7496f5c405f91640999b21d4",
+    "name": "groupement_de_gendarmerie_departementale_gironde",
+    "title": "Groupement de gendarmerie départementale - Gironde",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/gironde/gendarmerie_departementale-33063-01",
+    "metadata": {
+      "email": "ggd33@gendarmerie.interieur.gouv.fr",
+      "telephone": "05 56 90 47 00",
+      "url": "https://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "a93c60af243f7e062362c8c5d7463b54a37dfb36",
+    "name": "groupement_de_gendarmerie_departementale_guadeloupe",
+    "title": "Groupement de gendarmerie départementale - Guadeloupe",
+    "url": "https://lannuaire.service-public.fr/guadeloupe/guadeloupe/gendarmerie_departementale-97124-01",
+    "metadata": {
+      "email": "",
+      "telephone": "",
+      "url": "https://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "0bcb33318f2781b1f1e147010f6f6bd0fc305805",
+    "name": "groupement_de_gendarmerie_departementale_guyane",
+    "title": "Groupement de gendarmerie départementale - Guyane",
+    "url": "https://lannuaire.service-public.fr/guyane/guyane/gendarmerie_departementale-97302-01",
+    "metadata": {
+      "email": "",
+      "telephone": "0594 29 28 00",
+      "url": "https://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "782966e4613cb70f487a613fde79fd25736d7dad",
+    "name": "groupement_de_gendarmerie_departementale_haute_corse",
+    "title": "Groupement de gendarmerie départementale - Haute-Corse",
+    "url": "https://lannuaire.service-public.fr/corse/haute-corse/gendarmerie_departementale-2B033-01",
+    "metadata": {
+      "email": "http://www.haute-corse.gouv.fr/par-service-r290.html?service=948",
+      "telephone": "04 95 54 50 22",
+      "url": "https://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "8118f76a40273dbc7c8551f2f3d2027ef6af0be0",
+    "name": "groupement_de_gendarmerie_departementale_haute_garonne",
+    "title": "Groupement de gendarmerie départementale - Haute-Garonne",
+    "url": "https://lannuaire.service-public.fr/occitanie/haute-garonne/gendarmerie_departementale-31555-01",
+    "metadata": {
+      "email": "",
+      "telephone": "",
+      "url": "https://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "8c1d7fcb4c84a146d488f8396677aee08cec3c32",
+    "name": "groupement_de_gendarmerie_departementale_haute_loire",
+    "title": "Groupement de gendarmerie départementale - Haute-Loire",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/haute-loire/gendarmerie_departementale-43157-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 71 04 52 00",
+      "url": "https://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "292abf99df0143f42a1dba2b9690238f3aeb069b",
+    "name": "groupement_de_gendarmerie_departementale_haute_marne",
+    "title": "Groupement de gendarmerie départementale - Haute-Marne",
+    "url": "https://lannuaire.service-public.fr/grand-est/haute-marne/gendarmerie_departementale-52121-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 25 30 50 00",
+      "url": "https://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "94a0ef3eb72bdb810cdeae51cb669e4c885b41b9",
+    "name": "groupement_de_gendarmerie_departementale_hautes_alpes",
+    "title": "Groupement de gendarmerie départementale - Hautes-Alpes",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/hautes-alpes/gendarmerie_departementale-05061-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 92 40 65 00",
+      "url": "https://www.gendarmerie.interieur.gouv.fr/"
+    }
+  },
+  {
+    "id": "fec7b568676e1a5c3040c23d9c0f96a2032b24bf",
+    "name": "groupement_de_gendarmerie_departementale_haute_saone",
+    "title": "Groupement de gendarmerie départementale - Haute-Saône",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/haute-saone/gendarmerie_departementale-70550-01",
+    "metadata": {
+      "email": "ggd70@gendarmerie.interieur.gouv.fr",
+      "telephone": "03 84 96 72 00",
+      "url": "https://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "3b5bc233d064c61d254fc43575c2e4d9eed210e4",
+    "name": "groupement_de_gendarmerie_departementale_haute_savoie",
+    "title": "Groupement de gendarmerie départementale - Haute-Savoie",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/haute-savoie/gendarmerie_departementale-74010-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 50 09 47 72",
+      "url": "https://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "364a6bcba2da1a80c5cb219324d0090c11154f40",
+    "name": "groupement_de_gendarmerie_departementale_hautes_pyrenees",
+    "title": "Groupement de gendarmerie départementale - Hautes-Pyrénées",
+    "url": "https://lannuaire.service-public.fr/occitanie/hautes-pyrenees/gendarmerie_departementale-65440-01",
+    "metadata": {
+      "email": "ggd65@gendarmerie.interieur.gouv.fr",
+      "telephone": "05 62 44 55 00",
+      "url": "https://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "d9f9b1f27af8318f5f154dd29848237a1bd8baa5",
+    "name": "groupement_de_gendarmerie_departementale_haute_vienne",
+    "title": "Groupement de gendarmerie départementale - Haute-Vienne",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/haute-vienne/gendarmerie_departementale-87085-01",
+    "metadata": {
+      "email": "ggd87@gendarmerie.interieur.gouv.fr",
+      "telephone": "05 55 04 50 50",
+      "url": "https://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "55f9969cf2dea83ff710993927ee5f6b6d2d017d",
+    "name": "groupement_de_gendarmerie_departementale_haut_rhin",
+    "title": "Groupement de gendarmerie départementale - Haut-Rhin",
+    "url": "https://lannuaire.service-public.fr/grand-est/haut-rhin/gendarmerie_departementale-68066-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 89 21 51 99",
+      "url": "https://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "0f31fdeab2878c1870be2c7748dc105db3b83cc7",
+    "name": "groupement_de_gendarmerie_departementale_herault",
+    "title": "Groupement de gendarmerie départementale - Hérault",
+    "url": "https://lannuaire.service-public.fr/occitanie/herault/gendarmerie_departementale-34172-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 99 53 55 00",
+      "url": "https://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "9cdb8ec40aa3a1e0af73f604683abbdcb68f7201",
+    "name": "groupement_de_gendarmerie_departementale_ille_et_vilaine",
+    "title": "Groupement de gendarmerie départementale - Ille-et-Vilaine",
+    "url": "https://lannuaire.service-public.fr/bretagne/ille-et-vilaine/gendarmerie_departementale-35238-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 99 32 52 00",
+      "url": "https://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "bc5ab34608e776894119f34c1c0cb106ff7b4676",
+    "name": "groupement_de_gendarmerie_departementale_indre",
+    "title": "Groupement de gendarmerie départementale -  Indre",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/indre/gendarmerie_departementale-36044-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 54 29 59 00",
+      "url": "https://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "1da4c7926175503f684932d32ebb26a762e74c5e",
+    "name": "groupement_de_gendarmerie_departementale_indre_et_loire",
+    "title": "Groupement de gendarmerie départementale - Indre-et-Loire",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/indre-et-loire/gendarmerie_departementale-37261-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 47 31 37 37",
+      "url": "https://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "36b5b3d84c2f99ac4a846625c9ff4ebc9d7b643a",
+    "name": "groupement_de_gendarmerie_departementale_isere",
+    "title": "Groupement de gendarmerie départementale - Isère",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/isere/gendarmerie_departementale-38185-01",
+    "metadata": {
+      "email": "cgd.grenoble@gendarmerie.interieur.gouv.fr",
+      "telephone": "04 76 20 38 87",
+      "url": "https://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "eb75d0d73d2c2548d020b778fbbb5b24e95485bb",
+    "name": "groupement_de_gendarmerie_departementale_jura",
+    "title": "Groupement de gendarmerie départementale - Jura",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/jura/gendarmerie_departementale-39300-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 84 35 86 00",
+      "url": "https://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "cb3bb421e76d076d181397c55e083ca1292afafb",
+    "name": "groupement_de_gendarmerie_departementale_landes",
+    "title": "Groupement de gendarmerie départementale - Landes",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/landes/gendarmerie_departementale-40192-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 58 06 56 00",
+      "url": "https://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "dc8f8662a7ab42c4100199b79dbbb8249b7276f0",
+    "name": "groupement_de_gendarmerie_departementale_la_reunion",
+    "title": "Groupement de gendarmerie départementale - La Réunion",
+    "url": "https://lannuaire.service-public.fr/la-reunion/reunion/gendarmerie_departementale-97411-01",
+    "metadata": {
+      "email": "",
+      "telephone": "262 2 62 93 76 41",
+      "url": "https://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "4ad9a995fded9b87b8bc7063c0280053105d637d",
+    "name": "groupement_de_gendarmerie_departementale_loire",
+    "title": "Groupement de gendarmerie départementale - Loire",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/loire/gendarmerie_departementale-42218-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 77 91 63 22",
+      "url": "https://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "90897d4e4a9dd1175ff72f646ee1ae4fd45156e7",
+    "name": "groupement_de_gendarmerie_departementale_loire_atlantique",
+    "title": "Groupement de gendarmerie départementale - Loire-Atlantique",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/loire-atlantique/gendarmerie_departementale-44109-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 28 08 85 70",
+      "url": "https://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "b6f12518fe1a044ecf37faf88d9448f3734d2fe6",
+    "name": "groupement_de_gendarmerie_departementale_loiret",
+    "title": "Groupement de gendarmerie départementale - Loiret",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/loiret/gendarmerie_departementale-45234-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 38 52 50 00",
+      "url": "https://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "cf5077c29637845bbc5aff7e4f375e50fa9a1d72",
+    "name": "groupement_de_gendarmerie_departementale_loir_et_cher",
+    "title": "Groupement de gendarmerie départementale - Loir-et-Cher",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/loir-et-cher/gendarmerie_departementale-41018-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 54 55 14 00",
+      "url": "https://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "a2934054e90a7086b22f46153b7a4929a6ed9364",
+    "name": "groupement_de_gendarmerie_departementale_lot",
+    "title": "Groupement de gendarmerie départementale - Lot",
+    "url": "https://lannuaire.service-public.fr/occitanie/lot/gendarmerie_departementale-46042-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 65 23 55 00",
+      "url": "https://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "6761e3007ebad25ad8370a6913408e18aa1e64ce",
+    "name": "groupement_de_gendarmerie_departementale_lot_et_garonne",
+    "title": "Groupement de gendarmerie départementale - Lot-et-Garonne",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/lot-et-garonne/gendarmerie_departementale-47001-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 53 69 30 00",
+      "url": "https://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "0a19649d275c8034d4eb35b8c7e53d1bd747f0d0",
+    "name": "groupement_de_gendarmerie_departementale_lozere",
+    "title": "Groupement de gendarmerie départementale - Lozère",
+    "url": "https://lannuaire.service-public.fr/occitanie/lozere/gendarmerie_departementale-48095-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 66 49 54 00",
+      "url": "https://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "c7f01f0aa9895709f392ac864efa249b86d46a75",
+    "name": "groupement_de_gendarmerie_departementale_maine_et_loire",
+    "title": "Groupement de gendarmerie départementale - Maine-et-Loire",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/maine-et-loire/gendarmerie_departementale-49007-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 41 22 94 00",
+      "url": "https://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "262978475a8ea1f69c3af032ef19734a077c2b16",
+    "name": "groupement_de_gendarmerie_departementale_manche",
+    "title": "Groupement de gendarmerie départementale - Manche",
+    "url": "https://lannuaire.service-public.fr/normandie/manche/gendarmerie_departementale-50502-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02.33.75.50.00",
+      "url": "https://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "24c0ee7aa564e9590a03358ee4ffba5794cfe449",
+    "name": "groupement_de_gendarmerie_departementale_marne",
+    "title": "Groupement de gendarmerie départementale - Marne",
+    "url": "https://lannuaire.service-public.fr/grand-est/marne/gendarmerie_departementale-51108-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 26 68 63 00",
+      "url": "https://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "4933d88f6bd3ab3fbed4657dd3ecfc3d67b81bff",
+    "name": "groupement_de_gendarmerie_departementale_martinique",
+    "title": "Groupement de gendarmerie départementale - Martinique",
+    "url": "https://lannuaire.service-public.fr/martinique/martinique/gendarmerie_departementale-97209-01",
+    "metadata": {
+      "email": "",
+      "telephone": "",
+      "url": "https://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "6802f9a9388ef6db53ea3fc7501a4ab93e5bfc5a",
+    "name": "groupement_de_gendarmerie_departementale_mayenne",
+    "title": "Groupement de gendarmerie départementale - Mayenne",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/mayenne/gendarmerie_departementale-53130-01",
+    "metadata": {
+      "email": "ggd53@gendarmerie.interieur.gouv.fr",
+      "telephone": "02 43 59 57 10",
+      "url": "https://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "9c9ef2b3418905f6942b9de2c8e9fc817082ff77",
+    "name": "groupement_de_gendarmerie_departementale_mayotte",
+    "title": "Groupement de gendarmerie départementale - Mayotte",
+    "url": "https://lannuaire.service-public.fr/mayotte/mayotte/gendarmerie_departementale-97615-01",
+    "metadata": {
+      "email": "",
+      "telephone": "",
+      "url": "https://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "40565a060f43b13210f0fa42e8808341e750b78d",
+    "name": "groupement_de_gendarmerie_departementale_meurthe_et_moselle",
+    "title": "Groupement de gendarmerie départementale - Meurthe-et-Moselle",
+    "url": "https://lannuaire.service-public.fr/grand-est/meurthe-et-moselle/gendarmerie_departementale-54395-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 83 92 57 00",
+      "url": "https://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "e20fad16e237c5018f36c8ba1660d801e235fcc0",
+    "name": "groupement_de_gendarmerie_departementale_meuse",
+    "title": "Groupement de gendarmerie départementale - Meuse",
+    "url": "https://lannuaire.service-public.fr/grand-est/meuse/gendarmerie_departementale-55029-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 29 79 68 69",
+      "url": "https://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "9509df305848aedbd0720f41582c01da8d452d06",
+    "name": "groupement_de_gendarmerie_departementale_morbihan",
+    "title": "Groupement de gendarmerie départementale - Morbihan",
+    "url": "https://lannuaire.service-public.fr/bretagne/morbihan/gendarmerie_departementale-56260-01",
+    "metadata": {
+      "email": "ggd56@gendarmerie.interieur.gouv.fr",
+      "telephone": "02 97 54 75 00",
+      "url": "https://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "2923be51d0f3251912ef9d107941550601ce2a7e",
+    "name": "groupement_de_gendarmerie_departementale_moselle",
+    "title": "Groupement de gendarmerie départementale - Moselle",
+    "url": "https://lannuaire.service-public.fr/grand-est/moselle/gendarmerie_departementale-57463-01",
+    "metadata": {
+      "email": "ggd57@gendarmerie.interieur.gouv.fr",
+      "telephone": "03 87 56 69 41",
+      "url": "https://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "c3970179dc24ff787676388f4c625f4efa3be5e7",
+    "name": "groupement_de_gendarmerie_departementale_nievre",
+    "title": "Groupement de gendarmerie départementale - Nièvre",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/nievre/gendarmerie_departementale-58194-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 86 71 73 00",
+      "url": "https://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "30dc25cd2853d4f033a89e2203748429f3a6f1e7",
+    "name": "groupement_de_gendarmerie_departementale_nord",
+    "title": "Groupement de gendarmerie départementale - Nord",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/nord/gendarmerie_departementale-59009-01",
+    "metadata": {
+      "email": "",
+      "telephone": "",
+      "url": "https://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "b9fb78beab58424fddb72ccf0d11c083c51aee06",
+    "name": "groupement_de_gendarmerie_departementale_oise",
+    "title": "Groupement de gendarmerie départementale - Oise",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/oise/gendarmerie_departementale-60057-01",
+    "metadata": {
+      "email": "ggd60@gendarmerie.interieur.gouv.fr",
+      "telephone": "03 44 06 17 07",
+      "url": "https://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "12d76505959eec6b35cc941b0b03706dd96881fd",
+    "name": "groupement_de_gendarmerie_departementale_orne",
+    "title": "Groupement de gendarmerie départementale - Orne",
+    "url": "https://lannuaire.service-public.fr/normandie/orne/gendarmerie_departementale-61001-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 33 32 70 00",
+      "url": "https://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "c4646268f468d61375efbca6e8061ef9c845ee6e",
+    "name": "groupement_de_gendarmerie_departementale_pas_de_calais",
+    "title": "Groupement de gendarmerie départementale - Pas-de-Calais",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/pas-de-calais/gendarmerie_departementale-62041-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 21 50 10 17",
+      "url": "https://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "afe23753d27eb274db1859c436c19c5fbf669b30",
+    "name": "groupement_de_gendarmerie_departementale_puy_de_dome",
+    "title": "Groupement de gendarmerie départementale - Puy-de-Dôme",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/puy-de-dome/gendarmerie_departementale-63113-01",
+    "metadata": {
+      "email": "ggd63@wanadoo.fr",
+      "telephone": "04 73 41 39 99",
+      "url": "https://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "6c9e6341decc79cb387449f3ebfc57a617ddda8f",
+    "name": "groupement_de_gendarmerie_departementale_pyrenees_atlantiques",
+    "title": "Groupement de gendarmerie départementale - Pyrénées-Atlantiques",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/pyrenees-atlantiques/gendarmerie_departementale-64445-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 59 82 40 00",
+      "url": "https://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "e4e0be38de114a5fa1e6607b67f2b66ef33f446e",
+    "name": "groupement_de_gendarmerie_departementale_pyrenees_orientales",
+    "title": "Groupement de gendarmerie départementale - Pyrénées-Orientales",
+    "url": "https://lannuaire.service-public.fr/occitanie/pyrenees-orientales/gendarmerie_departementale-66136-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 68 66 44 00",
+      "url": "https://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "09f08cf28a28a2a9a6487b10ce8aa828edb6df2f",
+    "name": "groupement_de_gendarmerie_departementale_rhone",
+    "title": "Groupement de gendarmerie départementale - Rhône",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/rhone/gendarmerie_departementale-69382-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 78 79 77 00",
+      "url": "https://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "bcd1961999d6a07b8e5ae6eab4b53e7692d5d0a2",
+    "name": "groupement_de_gendarmerie_departementale_saone_et_loire",
+    "title": "Groupement de gendarmerie départementale - Saône-et-Loire",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/saone-et-loire/gendarmerie_departementale-71270-01",
+    "metadata": {
+      "email": "ggd71@gendarmerie.interieur.gouv.fr",
+      "telephone": "03 85 29 59 00",
+      "url": "https://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "b6f071c93a41f0e87e6f90bfbd42545efced84fe",
+    "name": "groupement_de_gendarmerie_departementale_sarthe",
+    "title": "Groupement de gendarmerie départementale - Sarthe",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/sarthe/gendarmerie_departementale-72181-01",
+    "metadata": {
+      "email": "ggd72@gendarmerie.interieur.gouv.fr",
+      "telephone": "02 43 78 55 00",
+      "url": "https://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "d420eed327f5c340d169e8abaf71f4d56abae854",
+    "name": "groupement_de_gendarmerie_departementale_savoie",
+    "title": "Groupement de gendarmerie départementale - Savoie",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/savoie/gendarmerie_departementale-73065-01",
+    "metadata": {
+      "email": "ggd73@gendarmerie.interieur.gouv.fr",
+      "telephone": "04 79 71 82 00",
+      "url": "https://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "0c27a295be96f23c94eb5e694b2a6840eea999fb",
+    "name": "groupement_de_gendarmerie_departementale_seine_et_marne",
+    "title": "Groupement de gendarmerie départementale - Seine-et-Marne",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/seine-et-marne/gendarmerie_departementale-77288-01",
+    "metadata": {
+      "email": "",
+      "telephone": "01 64 71 71 00",
+      "url": "https://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "675bee11c220b0a0826421a05af45a1085ed6ac9",
+    "name": "groupement_de_gendarmerie_departementale_seine_maritime",
+    "title": "Groupement de gendarmerie départementale - Seine-Maritime",
+    "url": "https://lannuaire.service-public.fr/normandie/seine-maritime/gendarmerie_departementale-76540-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 35 14 42 42",
+      "url": "https://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "878204d1a4abd41729563251ba6a2780a0132d1d",
+    "name": "groupement_de_gendarmerie_departementale_somme",
+    "title": "Groupement de gendarmerie départementale - Somme",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/somme/gendarmerie_departementale-80021-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 22 53 68 00",
+      "url": "https://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "93e7f121f49d272b8049a393ac015817fb260f8b",
+    "name": "groupement_de_gendarmerie_departementale_tarn",
+    "title": "Groupement de gendarmerie départementale - Tarn",
+    "url": "https://lannuaire.service-public.fr/occitanie/tarn/gendarmerie_departementale-81004-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 63 49 50 00",
+      "url": "https://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "158ae129d833cd749883e5e6ad9c3b1167c7fd04",
+    "name": "groupement_de_gendarmerie_departementale_tarn_et_garonne",
+    "title": "Groupement de gendarmerie départementale - Tarn-et-Garonne",
+    "url": "https://lannuaire.service-public.fr/occitanie/tarn-et-garonne/gendarmerie_departementale-82121-01",
+    "metadata": {
+      "email": "ggd82@gendarmerie.interieur.gouv.fr",
+      "telephone": "05 63 22 52 00",
+      "url": "https://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "4717204f8f20a32843fe94f46d57071cbfe6bf58",
+    "name": "groupement_de_gendarmerie_departementale_territoire_de_belfort",
+    "title": "Groupement de gendarmerie départementale - Territoire de Belfort",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/territoire-de-belfort/gendarmerie_departementale-90010-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 84 57 63 00",
+      "url": "https://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "26346aab0d32feff0f2dfae43b97e4ab41994fcc",
+    "name": "groupement_de_gendarmerie_departementale_val_d_oise",
+    "title": "Groupement de gendarmerie départementale - Val d'Oise",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/val-d-oise/gendarmerie_departementale-95500-01",
+    "metadata": {
+      "email": "",
+      "telephone": "01 30 75 56 00",
+      "url": "https://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "9df0b3bdaa2f894cc685d61ef277be082f1d1b8a",
+    "name": "groupement_de_gendarmerie_departementale_var",
+    "title": "Groupement de gendarmerie départementale - Var",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/var/gendarmerie_departementale-83144-01",
+    "metadata": {
+      "email": "ggd83@gendarmerie.interieur.gouv.fr",
+      "telephone": "04 94 46 73 00",
+      "url": "https://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "8953dda3d812cb9e96fe786794f552a174028db8",
+    "name": "groupement_de_gendarmerie_departementale_vaucluse",
+    "title": "Groupement de gendarmerie départementale - Vaucluse",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/vaucluse/gendarmerie_departementale-84007-01",
+    "metadata": {
+      "email": "ggd84@gendarmerie.interieur.gouv.fr",
+      "telephone": "04 90 80 50 00",
+      "url": "https://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "85faf4f318452153b9bd5041a49544aa8be948fe",
+    "name": "groupement_de_gendarmerie_departementale_vendee",
+    "title": "Groupement de gendarmerie départementale - Vendée",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/vendee/gendarmerie_departementale-85191-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 51 45 19 00",
+      "url": "https://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "344f5a8f62e9ba52cc794cee8db032f404542d27",
+    "name": "groupement_de_gendarmerie_departementale_vienne",
+    "title": "Groupement de gendarmerie départementale - Vienne",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/vienne/gendarmerie_departementale-86194-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 49 00 57 22",
+      "url": "https://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "d46a9e8565bc11e56fc8af89b9a053f467a564e7",
+    "name": "groupement_de_gendarmerie_departementale_vosges",
+    "title": "Groupement de gendarmerie départementale - Vosges",
+    "url": "https://lannuaire.service-public.fr/grand-est/vosges/gendarmerie_departementale-88160-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 29 33 17 17",
+      "url": "https://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "ade7bb5b6630c63068daa5044ab228cfd37e0d21",
+    "name": "groupement_de_gendarmerie_departementale_yonne",
+    "title": "Groupement de gendarmerie départementale - Yonne",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/yonne/gendarmerie_departementale-89024-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 86 49 53 00",
+      "url": "https://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "53a1d6f0f9d8dd8439fb1e8ebad147b885de2575",
+    "name": "groupement_de_gendarmerie_departementale_yvelines",
+    "title": "Groupement de gendarmerie départementale - Yvelines",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/yvelines/gendarmerie_departementale-78646-01",
+    "metadata": {
+      "email": "",
+      "telephone": "01 39 67 50 00",
+      "url": "https://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "91e06e418546d590bf29b9bca13488e5b757d926",
+    "alternateName": "pour les départements 75, 92, 93, 94",
+    "name": "groupement_de_gendarmerie_interdepartementale_paris_pour_les_departements_75_92_93_94",
+    "title": "Groupement de gendarmerie interdépartementale - Paris (pour les départements 75, 92, 93, 94)",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/paris/gendarmerie_departementale-75116-01",
+    "metadata": {
+      "email": "",
+      "telephone": "01 58 80 33 80",
+      "url": "https://www.gendarmerie.interieur.gouv.fr"
+    }
+  }
+]

@@ -1,0 +1,1984 @@
+[
+  {
+    "id": "c43e88f8e26be5ea57db4f606185d063f051e552",
+    "name": "brigade_de_gendarmerie_abbeville",
+    "title": "Brigade de gendarmerie - Abbeville",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/somme/gendarmerie-80001-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "03 22 24 29 90",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "1e3f7151ed12dcf90efb80df7e003d16d90b6893",
+    "name": "brigade_de_gendarmerie_ablis",
+    "title": "Brigade de gendarmerie - Ablis",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/yvelines/gendarmerie-78003-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "01 30 59 10 19",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "ae443c4b49021edbdb67528fbe3a83524acd932f",
+    "name": "brigade_de_gendarmerie_abondance",
+    "title": "Brigade de gendarmerie - Abondance",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/haute-savoie/gendarmerie-74001-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "04 50 73 01 02",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "235aea3e7771666f5ffce29057e5eb1262d37e83",
+    "name": "brigade_de_gendarmerie_acheux_en_amienois",
+    "title": "Brigade de gendarmerie - Acheux-en-Amiénois",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/somme/gendarmerie-80003-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "03 22 76 72 17",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "b8508c2a927a55d6005e246ed548f921e1c9fb7e",
+    "name": "brigade_de_gendarmerie_agen",
+    "title": "Brigade de gendarmerie - Agen",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/lot-et-garonne/gendarmerie-47001-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "05 53 69 30 39",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "072a0b9f595537cbc2b9501d416c13e5a7e7faa0",
+    "name": "brigade_de_gendarmerie_agon_coutainville",
+    "title": "Brigade de gendarmerie - Agon-Coutainville",
+    "url": "https://lannuaire.service-public.fr/normandie/manche/gendarmerie-50003-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "02 33 76 54 20",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "c0365510b562daaf067792f0fab5f9e21ab91a14",
+    "name": "brigade_de_gendarmerie_ahun",
+    "title": "Brigade de gendarmerie - Ahun",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/creuse/gendarmerie-23001-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "05 55 62 40 05",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "27031eb35f04d583e88fa55419baa203105a8f68",
+    "name": "brigade_de_gendarmerie_aignan",
+    "title": "Brigade de gendarmerie - Aignan",
+    "url": "https://lannuaire.service-public.fr/occitanie/gers/gendarmerie-32001-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "05 62 03 76 00",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "5daca8944c52830cc0179cdcf3eed0ddb21aa5b5",
+    "name": "brigade_de_gendarmerie_aignay_le_duc",
+    "title": "Brigade de gendarmerie - Aignay-le-Duc",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/cote-d-or/gendarmerie-21004-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "03 80 93 81 17",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "d8902f43e0588cdcb9d7a9294afb16d36501886e",
+    "name": "brigade_de_gendarmerie_aigre",
+    "title": "Brigade de gendarmerie - Aigre",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/charente/gendarmerie-16005-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "05 45 21 10 12",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "227a2e4e033cc5b798be4874a99a62692eea1ebe",
+    "name": "brigade_de_gendarmerie_aigrefeuille_d_aunis",
+    "title": "Brigade de gendarmerie - Aigrefeuille-d'Aunis",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/charente-maritime/gendarmerie-17003-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "05 46 35 50 08",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "969b4ac27ef2f9757a9ab8ce8bbfa4dcc0af5233",
+    "name": "brigade_de_gendarmerie_aigrefeuille_sur_maine",
+    "title": "Brigade de gendarmerie - Aigrefeuille-sur-Maine",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/loire-atlantique/gendarmerie-44002-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "02 40 06 60 18",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "ff7b1089360615cad60c9d94357dac73ddde4695",
+    "name": "brigade_de_gendarmerie_aiguebelle",
+    "title": "Brigade de gendarmerie - Aiguebelle",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/savoie/gendarmerie-73002-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "04 79 36 20 17",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "cdeebe9b2bd1b8748bdf3c64db94a8107a26561e",
+    "name": "brigade_de_gendarmerie_aigueperse",
+    "title": "Brigade de gendarmerie - Aigueperse",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/puy-de-dome/gendarmerie-63001-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "04 73 63 60 12",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "0cb3bda613265f8a0fa5e4b98c3f8f4033acd3ea",
+    "name": "brigade_de_gendarmerie_aigues_mortes",
+    "title": "Brigade de gendarmerie - Aigues-Mortes",
+    "url": "https://lannuaire.service-public.fr/occitanie/gard/gendarmerie-30003-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "04 66 53 67 13",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "cc05d65b1f1fc9d14b90ab6d73cecd9bd2436fbf",
+    "name": "brigade_de_gendarmerie_aiguillon",
+    "title": "Brigade de gendarmerie - Aiguillon",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/lot-et-garonne/gendarmerie-47004-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "05 53 84 89 15",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "d61a4973a15e14de6dbbbb34f5a9dea9b959592f",
+    "name": "brigade_de_gendarmerie_aigurande",
+    "title": "Brigade de gendarmerie - Aigurande",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/indre/gendarmerie-36001-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "02 54 06 23 40",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "f240e20e2122ce934f93a34f4e48d8f8da572e23",
+    "name": "brigade_de_gendarmerie_ailly_le_haut_clocher",
+    "title": "Brigade de gendarmerie - Ailly-le-Haut-Clocher",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/somme/gendarmerie-80009-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "03 22 19 33 17",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "800e362ae60b2e9e5bfad574b6975496450128d0",
+    "name": "brigade_de_gendarmerie_ailly_sur_noye",
+    "title": "Brigade de gendarmerie - Ailly-sur-Noye",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/somme/gendarmerie-80010-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "03 22 42 47 17",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "c3b4139ad86dc58ddde37479a2fc53e58e1ee1c2",
+    "name": "brigade_de_gendarmerie_aimargues",
+    "title": "Brigade de gendarmerie - Aimargues",
+    "url": "https://lannuaire.service-public.fr/occitanie/gard/gendarmerie-30006-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "04 66 88 00 15",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "49c450d111fcdfed733f89505f1970de378b139e",
+    "name": "brigade_de_gendarmerie_aime_la_plagne",
+    "title": "Brigade de gendarmerie - Aime-la-Plagne",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/savoie/gendarmerie-73006-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "04 79 55 61 17",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "b289dd645999492b6c27cf44b786b26e3d1defc9",
+    "name": "brigade_de_gendarmerie_airaines",
+    "title": "Brigade de gendarmerie - Airaines",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/somme/gendarmerie-80013-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "03 22 29 67 17",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "03aa3760fa4a24077f44ac6c1c692e1fa9738abc",
+    "name": "brigade_de_gendarmerie_aire_sur_l_adour",
+    "title": "Brigade de gendarmerie - Aire-sur-l'Adour",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/landes/gendarmerie-40001-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "05 58 71 34 95",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "de583d961d04d49f0ff9cf10576984ef09e0b0a6",
+    "name": "brigade_de_gendarmerie_aire_sur_la_lys",
+    "title": "Brigade de gendarmerie - Aire-sur-la-Lys",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/pas-de-calais/gendarmerie-62014-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "03 21 39 00 17",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "5b4957b263d7273edce9e5575fff609419aa1e9f",
+    "name": "brigade_de_gendarmerie_airvault",
+    "title": "Brigade de gendarmerie - Airvault",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/deux-sevres/gendarmerie-79005-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "05 49 64 70 07",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "9668cc8a2a374ca0390228266a234f81670c55f6",
+    "name": "brigade_de_gendarmerie_aix_en_provence",
+    "title": "Brigade de gendarmerie - Aix-en-Provence",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/gendarmerie-13001-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "04 42 26 31 96",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "36f076e226ce3fb43c171d58dea74d25e2936a0e",
+    "name": "brigade_de_gendarmerie_aixe_sur_vienne",
+    "title": "Brigade de gendarmerie - Aixe-sur-Vienne",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/haute-vienne/gendarmerie-87001-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "05 55 70 13 58",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "bd187f991911a85627cd44104fa69a6b64c10448",
+    "name": "brigade_de_gendarmerie_aix_les_bains",
+    "title": "Brigade de gendarmerie - Aix-les-Bains",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/savoie/gendarmerie-73008-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "04 79 61 15 00",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "b2690257e2b01749a9785a41619f91b382b14879",
+    "name": "brigade_de_gendarmerie_aix_villemaur_palis",
+    "title": "Brigade de gendarmerie - Aix-Villemaur-Palis",
+    "url": "https://lannuaire.service-public.fr/grand-est/aube/gendarmerie-10003-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "03 25 46 70 14",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "d30fcd5a3edc98a92077c330043942e7724c94df",
+    "name": "brigade_de_gendarmerie_alban",
+    "title": "Brigade de gendarmerie - Alban",
+    "url": "https://lannuaire.service-public.fr/occitanie/tarn/gendarmerie-81003-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "05 63 79 21 15",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "cabb3b6a4dd9adb0bb6bb78001867dcdef757220",
+    "name": "brigade_de_gendarmerie_albert",
+    "title": "Brigade de gendarmerie - Albert",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/somme/gendarmerie-80016-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "03 22 64 13 17",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "b0e67a994e97a1573b4a56379e0e4cbc05b4f313",
+    "name": "brigade_de_gendarmerie_albertville",
+    "title": "Brigade de gendarmerie - Albertville",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/savoie/gendarmerie-73011-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "04 79 32 00 17",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "50f73042b544d8d21dc5e124b2a80bb210aff936",
+    "name": "brigade_de_gendarmerie_albestroff",
+    "title": "Brigade de gendarmerie - Albestroff",
+    "url": "https://lannuaire.service-public.fr/grand-est/moselle/gendarmerie-57011-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "03 87 01 60 61",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "2d30658f44fc846c7199a2b81d9df24fa88e9520",
+    "name": "brigade_de_gendarmerie_albi",
+    "title": "Brigade de gendarmerie - Albi",
+    "url": "https://lannuaire.service-public.fr/occitanie/tarn/gendarmerie-81004-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "05 63 49 50 36",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "e9f53b8a23f04c5167e0156538565d99d0ac6958",
+    "name": "brigade_de_gendarmerie_alby_sur_cheran",
+    "title": "Brigade de gendarmerie - Alby-sur-Chéran",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/haute-savoie/gendarmerie-74002-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "04 50 68 10 02",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "81b208b53b55b4f5375f43e9ab26202360a808f5",
+    "name": "brigade_de_gendarmerie_alencon",
+    "title": "Brigade de gendarmerie - Alençon",
+    "url": "https://lannuaire.service-public.fr/normandie/orne/gendarmerie-61001-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "02 33 32 70 00",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "d83d030f1d3415002f90fe446232f0e33ba6de8a",
+    "name": "brigade_de_gendarmerie_aleria",
+    "title": "Brigade de gendarmerie - Aléria",
+    "url": "https://lannuaire.service-public.fr/corse/haute-corse/gendarmerie-2B009-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "04 95 57 00 17",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "3f4c21848e5dcbbe36a47635cacacbdf4665dc62",
+    "name": "brigade_de_gendarmerie_allaire",
+    "title": "Brigade de gendarmerie - Allaire",
+    "url": "https://lannuaire.service-public.fr/bretagne/morbihan/gendarmerie-56001-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "02 99 71 91 01",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "1ae90725b43e0c1399feae392dff56d9b9328809",
+    "name": "brigade_de_gendarmerie_allanche",
+    "title": "Brigade de gendarmerie - Allanche",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/cantal/gendarmerie-15001-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "04 71 20 41 80",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "94d3bdba1473d23897bcff83284431c98ff64569",
+    "name": "brigade_de_gendarmerie_allassac",
+    "title": "Brigade de gendarmerie - Allassac",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/correze/gendarmerie-19005-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "05 55 84 90 17",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "10a04390abcbc36155480ab23c9cec8125cc64bd",
+    "name": "brigade_de_gendarmerie_allegre",
+    "title": "Brigade de gendarmerie - Allègre",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/haute-loire/gendarmerie-43003-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "04 71 00 70 65",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "37272f0b40dac814c889021f30b3e16ce71264f5",
+    "name": "brigade_de_gendarmerie_allevard",
+    "title": "Brigade de gendarmerie - Allevard",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/isere/gendarmerie-38006-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "04 76 97 50 14",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "c1ddb638663a8b622fdcb74151bb6438ef4c6c39",
+    "name": "brigade_de_gendarmerie_allonnes",
+    "title": "Brigade de gendarmerie - Allonnes",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/maine-et-loire/gendarmerie-49002-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "02 41 52 00 05",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "4f56d761b20dd97fc95a9336ae04b3cd529be4d0",
+    "name": "brigade_de_gendarmerie_altkirch",
+    "title": "Brigade de gendarmerie - Altkirch",
+    "url": "https://lannuaire.service-public.fr/grand-est/haut-rhin/gendarmerie-68004-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "03 89 40 96 39",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "75d41c3d67c86cefaca42063b8af6e162666b3ff",
+    "name": "brigade_de_gendarmerie_alzonne",
+    "title": "Brigade de gendarmerie - Alzonne",
+    "url": "https://lannuaire.service-public.fr/occitanie/aude/gendarmerie-11009-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "04 68 76 00 17",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "5368ce19b3ce726306afa511c171a0f1040a1dfb",
+    "name": "brigade_de_gendarmerie_amancey",
+    "title": "Brigade de gendarmerie - Amancey",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/doubs/gendarmerie-25015-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "03 81 86 60 60",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "937bc9c9c788169bd66eca718aa6505562f4ba36",
+    "name": "brigade_de_gendarmerie_amanvillers",
+    "title": "Brigade de gendarmerie - Amanvillers",
+    "url": "https://lannuaire.service-public.fr/grand-est/moselle/gendarmerie-57017-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "03 87 53 42 47",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "b934d5107a6933d90c2eea28855d1a6b0064536a",
+    "name": "brigade_de_gendarmerie_ambares_et_lagrave",
+    "title": "Brigade de gendarmerie - Ambarès-et-Lagrave",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/gironde/gendarmerie-33003-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "05 57 77 32 10",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "c2b0b4ecf0c0176d25bbf93c4aed22d6b3b1a577",
+    "name": "brigade_de_gendarmerie_ambazac",
+    "title": "Brigade de gendarmerie - Ambazac",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/haute-vienne/gendarmerie-87002-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "05 55 56 60 16",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "6c5c5099166ac959d9dbdbb0ad7e9b03f459ba33",
+    "name": "brigade_de_gendarmerie_amberieu_en_bugey",
+    "title": "Brigade de gendarmerie - Ambérieu-en-Bugey",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/ain/gendarmerie-01004-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "04 74 38 00 35",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "ed23724e9d4347359a78a6831007f99240e84ee8",
+    "name": "brigade_de_gendarmerie_ambert",
+    "title": "Brigade de gendarmerie - Ambert",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/puy-de-dome/gendarmerie-63003-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "04 73 82 00 29",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "8bb9e0a9731041aad9f982f1aefc89931e7548d9",
+    "name": "brigade_de_gendarmerie_amboise",
+    "title": "Brigade de gendarmerie - Amboise",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/indre-et-loire/gendarmerie-37003-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "02 47 30 63 70",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "2512dbd5418c2aa576adceb00b497e9c4d6a6589",
+    "name": "brigade_de_gendarmerie_ambrieres_les_vallees",
+    "title": "Brigade de gendarmerie - Ambrières-les-Vallées",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/mayenne/gendarmerie-53003-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "02 43 04 95 98",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "8ca8d7b1d2f21bca629edaeb15c7e54b302ccbcd",
+    "name": "brigade_de_gendarmerie_amfreville_saint_amand",
+    "title": "Brigade de gendarmerie - Amfreville-saint-amand",
+    "url": "https://lannuaire.service-public.fr/normandie/eure/gendarmerie-27011-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "02 32 35 30 17",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "5ff68041abccdbf7b4f1902c583a27efa2687d01",
+    "name": "brigade_de_gendarmerie_amou",
+    "title": "Brigade de gendarmerie - Amou",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/landes/gendarmerie-40002-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "05 58 89 29 45",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "374ec23acf3cb5cf018727e413b88932f8d45436",
+    "name": "brigade_de_gendarmerie_amplepuis",
+    "title": "Brigade de gendarmerie - Amplepuis",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/rhone/gendarmerie-69006-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "04 74 89 30 36",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "366e01eacb11b95dac3d5d242d69a3a7efc4f303",
+    "name": "brigade_de_gendarmerie_ampuis",
+    "title": "Brigade de gendarmerie - Ampuis",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/rhone/gendarmerie-69007-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "04 74 56 10 26",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "0e0e0946b9511cecc0c53d9f62b8e455c0d9aeae",
+    "name": "brigade_de_gendarmerie_ancenis",
+    "title": "Brigade de gendarmerie - Ancenis",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/loire-atlantique/gendarmerie-44003-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "02 40 83 00 17",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "7b69e72201de8009b229ba1422b054cf0686f9f3",
+    "name": "brigade_de_gendarmerie_ancerville",
+    "title": "Brigade de gendarmerie - Ancerville",
+    "url": "https://lannuaire.service-public.fr/grand-est/meuse/gendarmerie-55010-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "03 29 75 30 04",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "3a096eba5bd592ec27c49a146ea494364acf79e4",
+    "name": "brigade_de_gendarmerie_ancy_le_franc",
+    "title": "Brigade de gendarmerie - Ancy-le-Franc",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/yonne/gendarmerie-89005-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "03 86 75 13 17",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "d9397b4145f3ff142677856e02baf207ae107fd6",
+    "name": "brigade_de_gendarmerie_andance",
+    "title": "Brigade de gendarmerie - Andance",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/ardeche/gendarmerie-07009-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "04 75 34 21 44",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "f7a54a88ddc2048a748e8ed315277e453ccad9a5",
+    "name": "brigade_de_gendarmerie_andelot_blancheville",
+    "title": "Brigade de gendarmerie - Andelot-Blancheville",
+    "url": "https://lannuaire.service-public.fr/grand-est/haute-marne/gendarmerie-52008-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "03 25 01 30 12",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "f0a813ab935c257187fa54939a855428a39ed018",
+    "name": "brigade_de_gendarmerie_andernos_les_bains",
+    "title": "Brigade de gendarmerie - Andernos-les-Bains",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/gironde/gendarmerie-33005-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "05 57 76 08 90",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "d72c8410225d6f72c256bb78e4c5e5f180ecb12d",
+    "name": "brigade_de_gendarmerie_andouille",
+    "title": "Brigade de gendarmerie - Andouillé",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/mayenne/gendarmerie-53005-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "02 43 26 18 10",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "ddad785d162ccb5b990e859f016812c80c6d0d0e",
+    "name": "brigade_de_gendarmerie_andrezieux_boutheon",
+    "title": "Brigade de gendarmerie - Andrézieux-Bouthéon",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/loire/gendarmerie-42005-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "04 77 55 02 52",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "e8b7454538a4aaae439394d010155158c303b113",
+    "name": "brigade_de_gendarmerie_anduze",
+    "title": "Brigade de gendarmerie - Anduze",
+    "url": "https://lannuaire.service-public.fr/occitanie/gard/gendarmerie-30010-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "04 66 61 70 40",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "087dab096de3592ae2a9c58b36baf767d2444d17",
+    "name": "brigade_de_gendarmerie_anet",
+    "title": "Brigade de gendarmerie - Anet",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/eure-et-loir/gendarmerie-28007-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "02 37 62 59 90",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "f7ac50c096d0f7ec32f45e585f0d098443ee71d4",
+    "name": "brigade_de_gendarmerie_angers",
+    "title": "Brigade de gendarmerie - Angers",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/maine-et-loire/gendarmerie-49007-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "02 41 22 94 40",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "c793d11f39f436fd431a1d2aece4c6aec3099066",
+    "name": "brigade_de_gendarmerie_angerville",
+    "title": "Brigade de gendarmerie - Angerville",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/essonne/gendarmerie-91016-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "01 64 95 20 22",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "d026a84e476759d210e5ee718662d72136a344a5",
+    "name": "brigade_de_gendarmerie_anglure",
+    "title": "Brigade de gendarmerie - Anglure",
+    "url": "https://lannuaire.service-public.fr/grand-est/marne/gendarmerie-51009-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "03 26 42 70 04",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "3629d3c3eb0122072f4c812c8324bec2cf9ba381",
+    "name": "brigade_de_gendarmerie_angouleme",
+    "title": "Brigade de gendarmerie - Angoulême",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/charente/gendarmerie-16015-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "05 45 37 50 00",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "ca5b4fe99c1dadcb4aa7e11c7dccfb2d5eadb33d",
+    "name": "brigade_de_gendarmerie_angoulins",
+    "title": "Brigade de gendarmerie - Angoulins",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/charente-maritime/gendarmerie-17010-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "05 46 56 21 13",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "e65e6061451e4334f93dc4caa6fe27ae47cfe8e6",
+    "name": "brigade_de_gendarmerie_aniane",
+    "title": "Brigade de gendarmerie - Aniane",
+    "url": "https://lannuaire.service-public.fr/occitanie/herault/gendarmerie-34010-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "04 67 57 70 20",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "c2d1a15c04789b514b634a4e8c48b7249e36bd7b",
+    "name": "brigade_de_gendarmerie_anizy_le_chateau",
+    "title": "Brigade de gendarmerie - Anizy-le-Château",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/aisne/gendarmerie-02018-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "03 23 80 09 17",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "7fa8d5b10141ce24326a7df1611dadb6c5eaf8f3",
+    "name": "brigade_de_gendarmerie_annecy_le_vieux",
+    "title": "Brigade de gendarmerie - Annecy-le-Vieux",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/haute-savoie/gendarmerie-74010-02",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "04 50 23 02 23",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "474c4fab81bfc4d21bb414f8cb7df490278a0a12",
+    "name": "brigade_de_gendarmerie_annecy_meythet",
+    "title": "Brigade de gendarmerie - Annecy-Meythet",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/haute-savoie/gendarmerie-74010-03",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "04 50 24 52 40",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "645feab569dce1fd8c37ae73d4e81562b7f7a8c0",
+    "name": "brigade_de_gendarmerie_annecy_seynod",
+    "title": "Brigade de gendarmerie - Annecy-Seynod",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/haute-savoie/gendarmerie-74010-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "04 50 69 13 35",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "dbaf20666fbae805c196a173e87dc98aae0ab374",
+    "name": "brigade_de_gendarmerie_annoeullin",
+    "title": "Brigade de gendarmerie - Annoeullin",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/nord/gendarmerie-59011-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "03 20 85 56 76",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "ceec7416c7271d86f23db341a24e2965bee89af5",
+    "name": "brigade_de_gendarmerie_annonay",
+    "title": "Brigade de gendarmerie - Annonay",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/ardeche/gendarmerie-07010-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "04 75 33 50 42",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "591cb665adbe40f7d7334a4982cb2630ea7b8adf",
+    "name": "brigade_de_gendarmerie_annot",
+    "title": "Brigade de gendarmerie - Annot",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/alpes-de-haute-provence/gendarmerie-04008-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "04 92 83 20 05",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "09b9426369a2d8ea43908b748ed1732bec21b413",
+    "name": "brigade_de_gendarmerie_anse",
+    "title": "Brigade de gendarmerie - Anse",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/rhone/gendarmerie-69009-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "04 74 67 02 17",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "4124f9a99b4fbb5db489a23a6914b719fc3b841a",
+    "name": "brigade_de_gendarmerie_antraigues_sur_volane",
+    "title": "Brigade de gendarmerie - Antraigues-sur-Volane",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/ardeche/gendarmerie-07011-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "04 75 38 70 83",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "d367d882424794243a095c480c72bf528f1de5ae",
+    "name": "brigade_de_gendarmerie_apatou",
+    "title": "Brigade de gendarmerie - Apatou",
+    "url": "https://lannuaire.service-public.fr/guyane/guyane/gendarmerie-97360-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "+594 34 90 46",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "108dd69cf129fe16f682db1eaef2e53517952dc9",
+    "name": "brigade_de_gendarmerie_apt",
+    "title": "Brigade de gendarmerie - Apt",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/vaucluse/gendarmerie-84003-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "04 90 74 00 17",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "d9729a926b3ffa9f566f453fd65c6d39d84c993e",
+    "name": "brigade_de_gendarmerie_aramits",
+    "title": "Brigade de gendarmerie - Aramits",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/pyrenees-atlantiques/gendarmerie-64029-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "05 59 34 63 89",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "24553b69361e131d60f8ca327e4a9306e3dc860b",
+    "name": "brigade_de_gendarmerie_aramon",
+    "title": "Brigade de gendarmerie - Aramon",
+    "url": "https://lannuaire.service-public.fr/occitanie/gard/gendarmerie-30012-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "04 66 57 03 53",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "fa2278475d8c1033fcf150cdd8c5cee4be9ec97e",
+    "name": "brigade_de_gendarmerie_arbois",
+    "title": "Brigade de gendarmerie - Arbois",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/jura/gendarmerie-39013-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "03 84 66 14 25",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "80c4bdf4620f375c3e67df6af86dac11d47c3ad2",
+    "name": "brigade_de_gendarmerie_arc_en_barrois",
+    "title": "Brigade de gendarmerie - Arc-en-Barrois",
+    "url": "https://lannuaire.service-public.fr/grand-est/haute-marne/gendarmerie-52017-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "03 25 02 50 12",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "b087e94bc5ff0c95ef13f1f2d05ce5c41cd550e5",
+    "name": "brigade_de_gendarmerie_archiac",
+    "title": "Brigade de gendarmerie - Archiac",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/charente-maritime/gendarmerie-17016-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "05 46 49 10 05",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "d8d02d1f3759852f8129278441a0185f50651b07",
+    "name": "brigade_de_gendarmerie_arcis_sur_aube",
+    "title": "Brigade de gendarmerie - Arcis-sur-Aube",
+    "url": "https://lannuaire.service-public.fr/grand-est/aube/gendarmerie-10006-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "03 25 37 87 96",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "4ab9f0c42673a657ecd1fbbe7532eac92af5a254",
+    "name": "brigade_de_gendarmerie_arc_sur_tille",
+    "title": "Brigade de gendarmerie - Arc-sur-Tille",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/cote-d-or/gendarmerie-21021-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "03 80 37 01 23",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "f8c990affcdc20c4095c8bb8464d5077e553e1f5",
+    "name": "brigade_de_gendarmerie_ardentes",
+    "title": "Brigade de gendarmerie - Ardentes",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/indre/gendarmerie-36005-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "02 54 36 57 70",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "84418420c80cbc1802b542bf8efdc42a1f386236",
+    "name": "brigade_de_gendarmerie_ardes",
+    "title": "Brigade de gendarmerie - Ardes",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/puy-de-dome/gendarmerie-63009-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "04 73 71 80 05",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "c98a4fe287e5cd1deba93d613da6362742fafe9c",
+    "name": "brigade_de_gendarmerie_ardres",
+    "title": "Brigade de gendarmerie - Ardres",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/pas-de-calais/gendarmerie-62038-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "03 21 82 17 17",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "e42730ac704db9b8c9f87d88bc86fbfd0692c8c1",
+    "name": "brigade_de_gendarmerie_ares",
+    "title": "Brigade de gendarmerie - Arès",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/gironde/gendarmerie-33011-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "05 57 17 06 90",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "983284b8ef174fb4959da0d484adab3f3436ad3b",
+    "name": "brigade_de_gendarmerie_argeles_gazost",
+    "title": "Brigade de gendarmerie - Argelès-Gazost",
+    "url": "https://lannuaire.service-public.fr/occitanie/hautes-pyrenees/gendarmerie-65025-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "05 62 90 41 30",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "c30ab913de3799900a05cd8178fbb688d079bf74",
+    "name": "brigade_de_gendarmerie_argeles_sur_mer",
+    "title": "Brigade de gendarmerie - Argelès-sur-Mer",
+    "url": "https://lannuaire.service-public.fr/occitanie/pyrenees-orientales/gendarmerie-66008-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "04 68 81 03 96",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "00384b0f3d1078ecd520b43644126c9c1c79aa63",
+    "name": "brigade_de_gendarmerie_argences_en_aubrac",
+    "title": "Brigade de gendarmerie - Argences en Aubrac",
+    "url": "https://lannuaire.service-public.fr/occitanie/aveyron/gendarmerie-12223-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "05 65 66 41 01",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "df637215aceca81aee520998a6f83692ed933657",
+    "name": "brigade_de_gendarmerie_argentan",
+    "title": "Brigade de gendarmerie - Argentan",
+    "url": "https://lannuaire.service-public.fr/normandie/orne/gendarmerie-61006-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "02 33 12 49 00",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "053e4f01d4946cd2336a258df4cc52967ed6f550",
+    "name": "brigade_de_gendarmerie_argentat_sur_dordogne",
+    "title": "Brigade de gendarmerie - Argentat-sur-Dordogne",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/correze/gendarmerie-19010-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "05 55 28 00 13",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "93a8634216f61a6864f57c503c2274ece8f4207e",
+    "name": "brigade_de_gendarmerie_argentonnay",
+    "title": "Brigade de gendarmerie - Argentonnay",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/deux-sevres/gendarmerie-79013-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "05 49 65 70 05",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "a4ada5ebad402030dad0caa7bee8f089aeefa4b2",
+    "name": "brigade_de_gendarmerie_argenton_sur_creuse",
+    "title": "Brigade de gendarmerie - Argenton-sur-Creuse",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/indre/gendarmerie-36006-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "02 54 01 46 90",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "d66031e39a6fca450383ec43ff068201d104ff48",
+    "name": "brigade_de_gendarmerie_argentre",
+    "title": "Brigade de gendarmerie - Argentré",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/mayenne/gendarmerie-53007-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "02 43 37 30 04",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "98ebd1395e6fd0240627a570f8f9c9f4b5db8561",
+    "name": "brigade_de_gendarmerie_argentre_du_plessis",
+    "title": "Brigade de gendarmerie - Argentré-du-Plessis",
+    "url": "https://lannuaire.service-public.fr/bretagne/ille-et-vilaine/gendarmerie-35006-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "02 99 96 61 07",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "f6668ef64cac33d057f36dd0479449cbacad1ddd",
+    "name": "brigade_de_gendarmerie_argent_sur_sauldre",
+    "title": "Brigade de gendarmerie - Argent-sur-Sauldre",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/cher/gendarmerie-18011-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "02 48 81 54 45",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "d25dea3df8fc9b5c8ccdb47ac0f6482a6dcb542e",
+    "name": "brigade_de_gendarmerie_arinthod",
+    "title": "Brigade de gendarmerie - Arinthod",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/jura/gendarmerie-39016-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "03 84 44 93 24",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "c62d0dbea960a9ae4dc38ba78bdbea17f9802b81",
+    "name": "brigade_de_gendarmerie_arlanc",
+    "title": "Brigade de gendarmerie - Arlanc",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/puy-de-dome/gendarmerie-63010-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "04 73 95 02 39",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "b21d58150d2ff2a9c3a580c7036453e73d03b120",
+    "name": "brigade_de_gendarmerie_arles",
+    "title": "Brigade de gendarmerie - Arles",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/gendarmerie-13004-02",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "04 90 52 50 60",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "ad003b46600ea2e8d0f6796e13f24a75144d497a",
+    "name": "brigade_de_gendarmerie_arles_salin_de_giraud",
+    "title": "Brigade de gendarmerie - Arles-Salin-de-Giraud",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/gendarmerie-13004-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "04 42 86 82 11",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "44e8de9d1d49e3c28e5b50ba64b783de49b417dc",
+    "name": "brigade_de_gendarmerie_arles_sur_tech",
+    "title": "Brigade de gendarmerie - Arles-sur-Tech",
+    "url": "https://lannuaire.service-public.fr/occitanie/pyrenees-orientales/gendarmerie-66009-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "04 68 39 10 04",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "382d6e8c4b5232245f3e1c5e98fcdf7f31e6df23",
+    "name": "brigade_de_gendarmerie_arleux",
+    "title": "Brigade de gendarmerie - Arleux",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/nord/gendarmerie-59015-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "03 27 89 52 62",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "4a61070f20a80b839cd3d1c39974148977609bbb",
+    "name": "brigade_de_gendarmerie_arnay_le_duc",
+    "title": "Brigade de gendarmerie - Arnay-le-Duc",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/cote-d-or/gendarmerie-21023-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "03 80 90 11 17",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "ea505f7c17036bf9f1dde5559a0afc95030c539d",
+    "name": "brigade_de_gendarmerie_arreau",
+    "title": "Brigade de gendarmerie - Arreau",
+    "url": "https://lannuaire.service-public.fr/occitanie/hautes-pyrenees/gendarmerie-65031-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "05 62 98 60 07",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "2051f4328a4ea932f1c6cff08da7d346ece30849",
+    "name": "brigade_de_gendarmerie_ars_sur_moselle",
+    "title": "Brigade de gendarmerie - Ars-sur-Moselle",
+    "url": "https://lannuaire.service-public.fr/grand-est/moselle/gendarmerie-57032-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "03 87 60 63 93",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "aa7f2c1f787fd254fbb76ff9b0899adb33596851",
+    "name": "brigade_de_gendarmerie_artenay",
+    "title": "Brigade de gendarmerie - Artenay",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/loiret/gendarmerie-45008-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "02 38 80 59 04",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "adcc5972267c873a58a722f918f2fa80b3a620fc",
+    "name": "brigade_de_gendarmerie_arthez_de_bearn",
+    "title": "Brigade de gendarmerie - Arthez-de-Béarn",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/pyrenees-atlantiques/gendarmerie-64057-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "05 59 67 45 68",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "5d0e046558584da47263227adc0c3074bf15a654",
+    "name": "brigade_de_gendarmerie_artix",
+    "title": "Brigade de gendarmerie - Artix",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/pyrenees-atlantiques/gendarmerie-64061-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "05 59 53 97 67",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "4da72ef2e6a0ad779b832c593c0e9af8a21ebbf3",
+    "name": "brigade_de_gendarmerie_arudy",
+    "title": "Brigade de gendarmerie - Arudy",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/pyrenees-atlantiques/gendarmerie-64062-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "05 59 05 95 45",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "a3cbfd34d9345133e14e4cb635c3e36900848f7f",
+    "name": "brigade_de_gendarmerie_arue",
+    "title": "Brigade de gendarmerie - Arue",
+    "url": "https://lannuaire.service-public.fr/collectivites-d-outre-mer/polynesie-francaise/gendarmerie-98712-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "+689 40 50 73 05",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "53060a6c978a02ae8d27ebba922f496010792391",
+    "name": "brigade_de_gendarmerie_arzacq_arraziguet",
+    "title": "Brigade de gendarmerie - Arzacq-Arraziguet",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/pyrenees-atlantiques/gendarmerie-64063-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "05 59 04 47 40",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "6a0e9f2782e47c12ef582b1b88d690a0be0ef331",
+    "name": "brigade_de_gendarmerie_asfeld",
+    "title": "Brigade de gendarmerie - Asfeld",
+    "url": "https://lannuaire.service-public.fr/grand-est/ardennes/gendarmerie-08024-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "03 24 72 94 22",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "51983caf0ca75d6e318f8c59852d3c702b78e4a5",
+    "name": "brigade_de_gendarmerie_asnieres_sur_oise",
+    "title": "Brigade de gendarmerie - Asnières-sur-Oise",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/val-d-oise/gendarmerie-95026-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "01 34 31 20 80",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "a7710be5d399b320b9a173c06d90a2a8e9548df1",
+    "name": "brigade_de_gendarmerie_aspet",
+    "title": "Brigade de gendarmerie - Aspet",
+    "url": "https://lannuaire.service-public.fr/occitanie/haute-garonne/gendarmerie-31020-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "05 61 88 40 17",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "797f28eedd4fdf439ce318f9c2d1e045e4c3a584",
+    "name": "brigade_de_gendarmerie_aspres_sur_buech",
+    "title": "Brigade de gendarmerie - Aspres-sur-Buëch",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/hautes-alpes/gendarmerie-05010-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "04 92 58 60 19",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "02f9238201955fac144e7e682bc12a15f1860417",
+    "name": "brigade_de_gendarmerie_astaffort",
+    "title": "Brigade de gendarmerie - Astaffort",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/lot-et-garonne/gendarmerie-47015-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "05 53 68 42 25",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "fe6ce2e77f5ed140bc021991477b9ab47f3c42a8",
+    "name": "brigade_de_gendarmerie_athis_val_de_rouvre",
+    "title": "Brigade de gendarmerie - Athis-val-de-rouvre",
+    "url": "https://lannuaire.service-public.fr/normandie/orne/gendarmerie-61007-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "02 33 62 81 80",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "1ae7472c5ff717c270a26e60feec4a8ee08660d2",
+    "alternateName": "60",
+    "name": "brigade_de_gendarmerie_attichy_60",
+    "title": "Brigade de gendarmerie - Attichy (60)",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/oise/gendarmerie-60025-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "03 44 42 75 17",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "eacd8433f3077685a848de05152fc5d05aba02cd",
+    "alternateName": "08",
+    "name": "brigade_de_gendarmerie_attigny_08",
+    "title": "Brigade de gendarmerie - Attigny (08)",
+    "url": "https://lannuaire.service-public.fr/grand-est/ardennes/gendarmerie-08025-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "03 24 71 20 85",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "91e2fa817476244c1c545d95000af24a0929b6ab",
+    "name": "brigade_de_gendarmerie_aubagne",
+    "title": "Brigade de gendarmerie - Aubagne",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/gendarmerie-13005-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "04 42 82 90 17",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "7f17f6e35c1e2d8a69ac3f2022968c6313c1d97d",
+    "name": "brigade_de_gendarmerie_aubenas",
+    "title": "Brigade de gendarmerie - Aubenas",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/ardeche/gendarmerie-07019-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "04 75 35 03 68",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "29b07e80702276f15f939ffd2db986fa7dc3a8cf",
+    "name": "brigade_de_gendarmerie_auberive",
+    "title": "Brigade de gendarmerie - Auberive",
+    "url": "https://lannuaire.service-public.fr/grand-est/haute-marne/gendarmerie-52023-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "03 25 84 20 08",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "2d2b6014bf0ef5b1b79fffe831985f46f5642fd8",
+    "name": "brigade_de_gendarmerie_aubigne_racan",
+    "title": "Brigade de gendarmerie - Aubigné-Racan",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/sarthe/gendarmerie-72013-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "02 43 46 20 57",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "b1b03e637b69f083bf802a9b4618ad0e2cfe6c42",
+    "name": "brigade_de_gendarmerie_aubigny_en_artois",
+    "title": "Brigade de gendarmerie - Aubigny-en-Artois",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/pas-de-calais/gendarmerie-62045-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "03 21 22 00 17",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "e23fa1be4bd3cb1d2fe3fe53d05daabe9feca241",
+    "name": "brigade_de_gendarmerie_aubigny_sur_nere",
+    "title": "Brigade de gendarmerie - Aubigny-sur-Nère",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/cher/gendarmerie-18015-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "02 48 81 54 30",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "72f7a8c35f4a56c7c834eb61b89c143531b24e0b",
+    "name": "brigade_de_gendarmerie_aubusson",
+    "title": "Brigade de gendarmerie - Aubusson",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/creuse/gendarmerie-23008-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "05 55 66 10 67",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "b18d799fe659e710f4ea92407dbdebbef28b84f6",
+    "name": "brigade_de_gendarmerie_auch",
+    "title": "Brigade de gendarmerie - Auch",
+    "url": "https://lannuaire.service-public.fr/occitanie/gers/gendarmerie-32013-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "05 62 60 50 00",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "20391ddf0f7eb9d9ed4db6a1615900ae3b771f0a",
+    "name": "brigade_de_gendarmerie_audierne",
+    "title": "Brigade de gendarmerie - Audierne",
+    "url": "https://lannuaire.service-public.fr/bretagne/finistere/gendarmerie-29003-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "02 98 70 04 38",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "2cecc8854b3061a395b667fd4a73b6057d6959e2",
+    "name": "brigade_de_gendarmerie_audruicq",
+    "title": "Brigade de gendarmerie - Audruicq",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/pas-de-calais/gendarmerie-62057-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "03 21 82 30 17",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "e043e718c2d0b24051894594ece5b1e9eb86ed3c",
+    "name": "brigade_de_gendarmerie_audun_le_roman",
+    "title": "Brigade de gendarmerie - Audun-le-Roman",
+    "url": "https://lannuaire.service-public.fr/grand-est/meurthe-et-moselle/gendarmerie-54029-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "03 82 21 60 24",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "fcb348513e949382f7095e5923218573a9685b0c",
+    "name": "brigade_de_gendarmerie_audun_le_tiche",
+    "title": "Brigade de gendarmerie - Audun-le-Tiche",
+    "url": "https://lannuaire.service-public.fr/grand-est/moselle/gendarmerie-57038-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "03 82 59 48 30",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "d2af9763825e74ff2399c3a2b214751f6b5dd813",
+    "name": "brigade_de_gendarmerie_aulnay",
+    "title": "Brigade de gendarmerie - Aulnay",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/charente-maritime/gendarmerie-17024-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "05 46 33 10 01",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "ba05342428592ec5587ab9b5b192ce2b96c5540c",
+    "name": "brigade_de_gendarmerie_aumale",
+    "title": "Brigade de gendarmerie - Aumale",
+    "url": "https://lannuaire.service-public.fr/normandie/seine-maritime/gendarmerie-76035-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "02 35 93 40 17",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "a966e76d1384aae028ae18fde20211552f3ff708",
+    "name": "brigade_de_gendarmerie_aumetz",
+    "title": "Brigade de gendarmerie - Aumetz",
+    "url": "https://lannuaire.service-public.fr/grand-est/moselle/gendarmerie-57041-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "03 82 59 61 50",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "b50df380923ad687c1c7e4681fbd746227010e84",
+    "name": "brigade_de_gendarmerie_auneau_bleury_saint_symphorien",
+    "title": "Brigade de gendarmerie - Auneau-Bleury-Saint-Symphorien",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/eure-et-loir/gendarmerie-28015-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "02 37 31 70 19",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "b52649da2bc4c08de6a539ebb8f05e7582181474",
+    "name": "brigade_de_gendarmerie_auneuil",
+    "title": "Brigade de gendarmerie - Auneuil",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/oise/gendarmerie-60029-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "03 44 47 59 17",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "7ca6253df1afa64e06fe02e4225808b76dc64c0d",
+    "name": "brigade_de_gendarmerie_aups",
+    "title": "Brigade de gendarmerie - Aups",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/var/gendarmerie-83007-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "04 98 10 21 95",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "98e078fc4e24cea522a6c0a5a73a53dfb7ff8d06",
+    "name": "brigade_de_gendarmerie_auray",
+    "title": "Brigade de gendarmerie - Auray",
+    "url": "https://lannuaire.service-public.fr/bretagne/morbihan/gendarmerie-56007-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "02 97 24 17 17",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "f161fa4e1329919f277bacd19f7b8fc53a7a82c8",
+    "name": "brigade_de_gendarmerie_aurec_sur_loire",
+    "title": "Brigade de gendarmerie - Aurec-sur-Loire",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/haute-loire/gendarmerie-43012-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "04 77 35 40 56",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "a4ddcba3d3d7a32eacc40ea1d80327a97fa929d8",
+    "name": "brigade_de_gendarmerie_aurignac",
+    "title": "Brigade de gendarmerie - Aurignac",
+    "url": "https://lannuaire.service-public.fr/occitanie/haute-garonne/gendarmerie-31028-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "05 61 98 90 17",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "ab92ef126b431e0ecbd57a2f271efa57a7239390",
+    "name": "brigade_de_gendarmerie_aurillac",
+    "title": "Brigade de gendarmerie - Aurillac",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/cantal/gendarmerie-15014-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "04 71 45 54 00",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "2c8407bc3b3d6ccf943a8d9c668964094587f9de",
+    "name": "brigade_de_gendarmerie_auros",
+    "title": "Brigade de gendarmerie - Auros",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/gironde/gendarmerie-33021-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "05 56 65 51 51",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "0eaf10845266bd52fff8c2adaa9d81389e3022ad",
+    "name": "brigade_de_gendarmerie_auterive",
+    "title": "Brigade de gendarmerie - Auterive",
+    "url": "https://lannuaire.service-public.fr/occitanie/haute-garonne/gendarmerie-31033-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "05 61 50 94 00",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "1ea8f8f5cd175f57797fdef88454f9700d33cb5b",
+    "name": "brigade_de_gendarmerie_authon_du_perche",
+    "title": "Brigade de gendarmerie - Authon-du-Perche",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/eure-et-loir/gendarmerie-28018-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "02 37 49 94 10",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "f9b80846f824054302a016c8d7d165017f0f7866",
+    "name": "brigade_de_gendarmerie_autun",
+    "title": "Brigade de gendarmerie - Autun",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/saone-et-loire/gendarmerie-71014-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "03 85 86 03 80",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "2f5f713f885f917219fcdb9d164ed68f58058ad6",
+    "name": "brigade_de_gendarmerie_auvers_sur_oise",
+    "title": "Brigade de gendarmerie - Auvers-sur-Oise",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/val-d-oise/gendarmerie-95039-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "01 30 36 70 17",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "fe1ea6cfa74db21b87f4d085d5783ff58bdcbb74",
+    "name": "brigade_de_gendarmerie_auvillar",
+    "title": "Brigade de gendarmerie - Auvillar",
+    "url": "https://lannuaire.service-public.fr/occitanie/tarn-et-garonne/gendarmerie-82008-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "05 63 29 90 61",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "03ca3e4c1173f184559ee9d9475e1c3bb6b46381",
+    "name": "brigade_de_gendarmerie_auxerre",
+    "title": "Brigade de gendarmerie - Auxerre",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/yonne/gendarmerie-89024-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "03 86 49 53 00",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "d9b3b5a94f0dea638c7927639db157b5f3a146a1",
+    "name": "brigade_de_gendarmerie_auxi_le_chateau",
+    "title": "Brigade de gendarmerie - Auxi-le-Château",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/pas-de-calais/gendarmerie-62060-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "03 21 04 00 17",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "debd9342047637e6d3164c8372f1ca53da128ec1",
+    "name": "brigade_de_gendarmerie_auxonne",
+    "title": "Brigade de gendarmerie - Auxonne",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/cote-d-or/gendarmerie-21038-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "03 80 27 03 60",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "432ec27da8eb77acf299d2440411c6113e5b3781",
+    "name": "brigade_de_gendarmerie_auzances",
+    "title": "Brigade de gendarmerie - Auzances",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/creuse/gendarmerie-23013-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "05 55 67 00 07",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "5b68159790cc6c7476969e8a28f2e7ea14002c7f",
+    "name": "brigade_de_gendarmerie_avallon",
+    "title": "Brigade de gendarmerie - Avallon",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/yonne/gendarmerie-89025-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "03 86 31 09 50",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "cf73df9c8c04ae7b0de4275376da45dfa1c7d683",
+    "name": "brigade_de_gendarmerie_avesnes_le_comte",
+    "title": "Brigade de gendarmerie - Avesnes-le-Comte",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/pas-de-calais/gendarmerie-62063-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "03 21 48 40 17",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "dec282a3ede4cb7c82551c6ce734cc3037b6788a",
+    "name": "brigade_de_gendarmerie_avesnes_les_aubert",
+    "title": "Brigade de gendarmerie - Avesnes-les-Aubert",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/nord/gendarmerie-59037-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "03 27 37 20 22",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "4e2a473adc0b18ca3190dee0b24e058abe1a4815",
+    "name": "brigade_de_gendarmerie_avesnes_sur_helpe",
+    "title": "Brigade de gendarmerie - Avesnes-sur-Helpe",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/nord/gendarmerie-59036-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "03 27 61 14 40",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "c082a2fc71e64810c32dd5d352ea9c264a549b40",
+    "name": "brigade_de_gendarmerie_avize",
+    "title": "Brigade de gendarmerie - Avize",
+    "url": "https://lannuaire.service-public.fr/grand-est/marne/gendarmerie-51029-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "03 26 57 52 17",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "2a28ab5bee0012393c46257793fe6b5c25b57918",
+    "name": "brigade_de_gendarmerie_avranches",
+    "title": "Brigade de gendarmerie - Avranches",
+    "url": "https://lannuaire.service-public.fr/normandie/manche/gendarmerie-50025-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "02 33 89 26 30",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "d651507c910e15c0718bbd0191c6b7733bda083f",
+    "name": "brigade_de_gendarmerie_axat",
+    "title": "Brigade de gendarmerie - Axat",
+    "url": "https://lannuaire.service-public.fr/occitanie/aude/gendarmerie-11021-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "04 68 20 50 17",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "daf63317b5e0a868c0a29b5ec9ca8f18aaa989a4",
+    "name": "brigade_de_gendarmerie_ax_les_thermes",
+    "title": "Brigade de gendarmerie - Ax-les-Thermes",
+    "url": "https://lannuaire.service-public.fr/occitanie/ariege/gendarmerie-09032-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "05 61 64 20 17",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "a6d12c7b01b1ad2b34ad4341876ee4384e7dcab6",
+    "name": "brigade_de_gendarmerie_ay_champagne",
+    "title": "Brigade de gendarmerie - Ay-Champagne",
+    "url": "https://lannuaire.service-public.fr/grand-est/marne/gendarmerie-51030-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "03 26 55 45 22",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "3ba2617352f886893d507dd964e3b530c97763c0",
+    "name": "brigade_de_gendarmerie_azay_le_rideau",
+    "title": "Brigade de gendarmerie - Azay-le-Rideau",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/indre-et-loire/gendarmerie-37014-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "02 47 45 63 00",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "b177942fd1cb533f82adc356b7ee52af85e88c52",
+    "name": "brigade_de_gendarmerie_baccarat",
+    "title": "Brigade de gendarmerie - Baccarat",
+    "url": "https://lannuaire.service-public.fr/grand-est/meurthe-et-moselle/gendarmerie-54039-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "03 83 75 34 82",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "915f16fb6a9dbb28d504d95668ba6d8463ebfd1e",
+    "name": "brigade_de_gendarmerie_bacqueville_en_caux",
+    "title": "Brigade de gendarmerie - Bacqueville-en-Caux",
+    "url": "https://lannuaire.service-public.fr/normandie/seine-maritime/gendarmerie-76051-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "02 35 83 20 03",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "597ac94a33147aa7962b171e8b6083319da695e3",
+    "name": "brigade_de_gendarmerie_badonviller",
+    "title": "Brigade de gendarmerie - Badonviller",
+    "url": "https://lannuaire.service-public.fr/grand-est/meurthe-et-moselle/gendarmerie-54040-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "03 83 42 10 07",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "e1ba6e385875a64c658bd03fba5d25d87cc1ffa0",
+    "name": "brigade_de_gendarmerie_bagneres_de_bigorre",
+    "title": "Brigade de gendarmerie - Bagnères-de-Bigorre",
+    "url": "https://lannuaire.service-public.fr/occitanie/hautes-pyrenees/gendarmerie-65059-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "05 62 95 60 10",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "998b3124580bdfa4d56941862bdd61847042385f",
+    "name": "brigade_de_gendarmerie_bagneres_de_luchon",
+    "title": "Brigade de gendarmerie - Bagnères-de-Luchon",
+    "url": "https://lannuaire.service-public.fr/occitanie/haute-garonne/gendarmerie-31042-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "05 61 79 00 17",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "3546b3ed64343688b8a687a7ac0fbfc340bd06eb",
+    "name": "brigade_de_gendarmerie_bagnoles_de_l_orne_normandie",
+    "title": "Brigade de gendarmerie - Bagnoles-de-l'Orne-Normandie",
+    "url": "https://lannuaire.service-public.fr/normandie/orne/gendarmerie-61483-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "02 33 14 09 10",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "723c48f06b29bc874c8c55e5154cb9e1c242d933",
+    "name": "brigade_de_gendarmerie_baie_mahault",
+    "title": "Brigade de gendarmerie - Baie-Mahault",
+    "url": "https://lannuaire.service-public.fr/guadeloupe/guadeloupe/gendarmerie-97103-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "+590 41 14 20",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "0f8987e9a7b5a43a2b48fa0f6a040449d7c205db",
+    "name": "brigade_de_gendarmerie_baignes_sainte_radegonde",
+    "title": "Brigade de gendarmerie - Baignes-Sainte-Radegonde",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/charente/gendarmerie-16025-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "05 45 78 40 03",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "db357db0cfc53d47891ea939526a095ebf442ea1",
+    "name": "brigade_de_gendarmerie_bailleul",
+    "title": "Brigade de gendarmerie - Bailleul",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/nord/gendarmerie-59043-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "03 28 49 00 72",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  },
+  {
+    "id": "c304f8db65d1d1905073c1ff350431a525f7e06c",
+    "name": "brigade_de_gendarmerie_bain_de_bretagne",
+    "title": "Brigade de gendarmerie - Bain-de-Bretagne",
+    "url": "https://lannuaire.service-public.fr/bretagne/ille-et-vilaine/gendarmerie-35012-01",
+    "metadata": {
+      "email": "https://www.contacterlagendarmerie.fr",
+      "telephone": "02 99 43 70 13",
+      "url": "http://www.gendarmerie.interieur.gouv.fr"
+    }
+  }
+]

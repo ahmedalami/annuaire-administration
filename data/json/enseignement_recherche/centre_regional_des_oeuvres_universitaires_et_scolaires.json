@@ -1,0 +1,758 @@
+[
+  {
+    "id": "77398ba01456df0ad264135f8125cfa81241d626",
+    "alternateName": "CLOUS",
+    "name": "centre_local_des_oeuvres_universitaires_et_scolaires_clous_agen",
+    "title": "Centre local des œuvres universitaires et scolaires (CLOUS) - Agen",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/lot-et-garonne/crous-47031-01",
+    "metadata": {
+      "email": "ru-rapierre.agen@crous-bordeaux.fr",
+      "telephone": "05 53 98 92 96",
+      "url": "http://www.crous-bordeaux.fr"
+    }
+  },
+  {
+    "id": "1eb745cf867cfd8c64d907e655cad5bd88b36b27",
+    "alternateName": "CLOUS",
+    "name": "centre_local_des_oeuvres_universitaires_et_scolaires_clous_angers_maine_et_loire",
+    "title": "Centre local des oeuvres universitaires et scolaires (CLOUS) - Angers- Maine-et-Loire",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/maine-et-loire/crous-49007-01",
+    "metadata": {
+      "email": "http://www.crous-nantes.fr/cnous/nous-contacter",
+      "telephone": "02 41 25 45 80",
+      "url": "http://www.crous-nantes.fr"
+    }
+  },
+  {
+    "id": "c00cfa62a730479f2e5c04c67b740c3e85fd0c76",
+    "alternateName": "CLOUS",
+    "name": "centre_local_des_oeuvres_universitaires_et_scolaires_clous_angouleme",
+    "title": "Centre local des œuvres universitaires et scolaires (CLOUS) - Angoulême",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/charente/crous-16113-01",
+    "metadata": {
+      "email": "restaurant.breuty@crous-poitiers.fr",
+      "telephone": "05 45 25 51 51",
+      "url": "http://www.crous-poitiers.fr"
+    }
+  },
+  {
+    "id": "69df4a2475aecb11af8de5582ac93654fab4acc1",
+    "alternateName": "CLOUS",
+    "name": "centre_local_des_oeuvres_universitaires_et_scolaires_clous_annecy",
+    "title": "Centre local des œuvres universitaires et scolaires (CLOUS) - Annecy",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/haute-savoie/crous-74010-01",
+    "metadata": {
+      "email": "marie-agnes.millet@crous-grenoble.fr",
+      "telephone": "04 50 19 12 32",
+      "url": "http://www.crous-grenoble.fr"
+    }
+  },
+  {
+    "id": "ee586d9eab97148d6f1a7ec6661c658c321de102",
+    "alternateName": "CLOUS",
+    "name": "centre_local_des_oeuvres_universitaires_et_scolaires_clous_arras",
+    "title": "Centre local des œuvres universitaires et scolaires (CLOUS) - Arras",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/pas-de-calais/crous-62041-01",
+    "metadata": {
+      "email": "antenne.arras@crous-lille.fr",
+      "telephone": "03 21 50 81 82",
+      "url": "http://www.crous-lille.fr"
+    }
+  },
+  {
+    "id": "cbc162c9459a2a4a98ef31b7c20e64fc9ea307f4",
+    "alternateName": "CLOUS",
+    "name": "centre_local_des_oeuvres_universitaires_et_scolaires_clous_boulogne_sur_mer",
+    "title": "Centre local des œuvres universitaires et scolaires (CLOUS) - Boulogne-sur-Mer",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/pas-de-calais/crous-62160-01",
+    "metadata": {
+      "email": "antenne.boulognes@crous-lille.fr",
+      "telephone": "03 59 61 70 20",
+      "url": "http://www.crous-lille.fr"
+    }
+  },
+  {
+    "id": "47b830c927941b3d8e1752232e325a8c4608cf77",
+    "alternateName": "CLOUS",
+    "name": "centre_local_des_oeuvres_universitaires_et_scolaires_clous_brest",
+    "title": "Centre local des œuvres universitaires et scolaires (CLOUS) - Brest",
+    "url": "https://lannuaire.service-public.fr/bretagne/finistere/crous-29019-01",
+    "metadata": {
+      "email": "clous@crous-rennes.fr",
+      "telephone": "02 98 03 38 78",
+      "url": "http://www.crous-rennes.fr"
+    }
+  },
+  {
+    "id": "529aa2f06e401cf9f451f344e8a8323f08399961",
+    "alternateName": "CLOUS",
+    "name": "centre_local_des_oeuvres_universitaires_et_scolaires_clous_brive_la_gaillarde",
+    "title": "Centre local des œuvres universitaires et scolaires (CLOUS) - Brive-la-Gaillarde",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/correze/crous-19031-01",
+    "metadata": {
+      "email": "sandrine.charpentier@crous-limoges.fr",
+      "telephone": "05 55 87 07 17",
+      "url": "http://www.crous-limoges.fr"
+    }
+  },
+  {
+    "id": "51dc212597df27b190c3e1be07f55ff577bd2d75",
+    "alternateName": "CLOUS",
+    "name": "centre_local_des_oeuvres_universitaires_et_scolaires_clous_cayenne",
+    "title": "Centre local des œuvres universitaires et scolaires (CLOUS) - Cayenne",
+    "url": "https://lannuaire.service-public.fr/guyane/guyane/crous-97302-01",
+    "metadata": {
+      "email": "",
+      "telephone": "+594 5 94 37 85 00",
+      "url": "http://www.crous-antillesguyane.fr"
+    }
+  },
+  {
+    "id": "344af1e75520695ba1384b5ac57ad44ff89f352b",
+    "alternateName": "CLOUS",
+    "name": "centre_local_des_oeuvres_universitaires_et_scolaires_clous_chalons_en_champagne",
+    "title": "Centre local des œuvres universitaires et scolaires (CLOUS) - Châlons-en-Champagne",
+    "url": "https://lannuaire.service-public.fr/grand-est/marne/crous-51108-01",
+    "metadata": {
+      "email": "antenne-chalons@crous-reims.fr",
+      "telephone": "03 26 65 06 26",
+      "url": "http://www.crous-reims.fr"
+    }
+  },
+  {
+    "id": "e1238f33fb892fcc1ee637f5a22bbd3df500059b",
+    "alternateName": "CLOUS",
+    "name": "centre_local_des_oeuvres_universitaires_et_scolaires_clous_chambery",
+    "title": "Centre local des œuvres universitaires et scolaires (CLOUS) - Chambéry",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/savoie/crous-73137-01",
+    "metadata": {
+      "email": "residence.jacob@crous-grenoble.fr",
+      "telephone": "04 79 69 57 45",
+      "url": "http://www.crous-grenoble.fr"
+    }
+  },
+  {
+    "id": "659b2a783d3c94212273ae7b4bd63e93e07c3da1",
+    "alternateName": "CLOUS",
+    "name": "centre_local_des_oeuvres_universitaires_et_scolaires_clous_dunkerque",
+    "title": "Centre local des œuvres universitaires et scolaires (CLOUS) - Dunkerque",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/nord/crous-59183-01",
+    "metadata": {
+      "email": "restaurant.dunkerque@crous-lille.fr",
+      "telephone": "03 28 66 28 26",
+      "url": "http://www.crous-lille.fr"
+    }
+  },
+  {
+    "id": "fde4a08e095f00a2660db0ec86cc0f483be1c00f",
+    "alternateName": "CLOUS",
+    "name": "centre_local_des_oeuvres_universitaires_et_scolaires_clous_guyane",
+    "title": "Centre local des oeuvres universitaires et scolaires (CLOUS) - Guyane",
+    "url": "https://lannuaire.service-public.fr/guyane/guyane/crous-97304-01",
+    "metadata": {
+      "email": "",
+      "telephone": "+594 5 94 32 58 00",
+      "url": "http://www.crous-antillesguyane.fr"
+    }
+  },
+  {
+    "id": "c752fa6d324d3a084a1e6e993c6b566b99099657",
+    "alternateName": "CLOUS",
+    "name": "centre_local_des_oeuvres_universitaires_et_scolaires_clous_la_rochelle",
+    "title": "Centre local des œuvres universitaires et scolaires (CLOUS) - La Rochelle",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/charente-maritime/crous-17300-01",
+    "metadata": {
+      "email": "logement.larochelle@crous-poitiers.fr",
+      "telephone": "05 46 28 21 30",
+      "url": "http://www.crous-poitiers.fr"
+    }
+  },
+  {
+    "id": "097704dd081f67c21309f1d76e1e8ed6afdaf309",
+    "alternateName": "CLOUS",
+    "name": "centre_local_des_oeuvres_universitaires_et_scolaires_clous_la_roche_sur_yon",
+    "title": "Centre local des œuvres universitaires et scolaires (CLOUS) - La Roche-sur-Yon",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/vendee/crous-85191-01",
+    "metadata": {
+      "email": "heb.simbrandiere@crous-nantes.fr",
+      "telephone": "02 51 31 64 46",
+      "url": "http://www.crous-nantes.fr"
+    }
+  },
+  {
+    "id": "7f466c07ffa8345208765fe026aad4fd3be97785",
+    "alternateName": "CLOUS",
+    "name": "centre_local_des_oeuvres_universitaires_et_scolaires_clous_laval",
+    "title": "Centre local des œuvres universitaires et scolaires (CLOUS) - Laval",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/mayenne/crous-53130-01",
+    "metadata": {
+      "email": "heb.dormerie@crous-nantes.fr",
+      "telephone": "02 43 49 25 85",
+      "url": "http://www.crous-nantes.fr"
+    }
+  },
+  {
+    "id": "d2621fd72b804a1ffb41de13a07ded7978ba0fb1",
+    "alternateName": "CLOUS",
+    "name": "centre_local_des_oeuvres_universitaires_et_scolaires_clous_le_bourget_du_lac",
+    "title": "Centre local des œuvres universitaires et scolaires (CLOUS) - Le Bourget-du-Lac",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/savoie/crous-73051-01",
+    "metadata": {
+      "email": "residence.lebourget@crous-grenoble.fr",
+      "telephone": "04 79 25 23 83",
+      "url": "http://www.crous-grenoble.fr"
+    }
+  },
+  {
+    "id": "b7e0caf5e04cfb7bbde5d2594beea401aadce20c",
+    "alternateName": "CLOUS",
+    "name": "centre_local_des_oeuvres_universitaires_et_scolaires_clous_le_havre",
+    "title": "Centre local des œuvres universitaires et scolaires (CLOUS) - Le Havre",
+    "url": "https://lannuaire.service-public.fr/normandie/seine-maritime/crous-76351-01",
+    "metadata": {
+      "email": "antenne-lehavre@crous-normandie.fr",
+      "telephone": "02 35 19 74 74",
+      "url": "http://www.crous-normandie.fr"
+    }
+  },
+  {
+    "id": "c015f4631110659f09a672ae7654da3e7b7297bf",
+    "alternateName": "CLOUS",
+    "name": "centre_local_des_oeuvres_universitaires_et_scolaires_clous_lorient",
+    "title": "Centre local des œuvres universitaires et scolaires (CLOUS) - Lorient",
+    "url": "https://lannuaire.service-public.fr/bretagne/morbihan/crous-56121-01",
+    "metadata": {
+      "email": "ant.lorient@crous-rennes.fr",
+      "telephone": "02 97 87 17 57",
+      "url": "http://www.crous-rennes.fr"
+    }
+  },
+  {
+    "id": "e3d8a79a93f163f7cf2e8ef6c7fc98a4536fa829",
+    "alternateName": "CLOUS",
+    "name": "centre_local_des_oeuvres_universitaires_et_scolaires_clous_metz",
+    "title": "Centre local des œuvres universitaires et scolaires (CLOUS) - Metz",
+    "url": "https://lannuaire.service-public.fr/grand-est/moselle/crous-57463-01",
+    "metadata": {
+      "email": "clous@crous-nancy-metz.fr",
+      "telephone": "09 69 39 19 19",
+      "url": "http://www.crous-nancy-metz.fr"
+    }
+  },
+  {
+    "id": "a62909b3de570b61804a6f6f94fa574de577d3a9",
+    "alternateName": "CLOUS",
+    "name": "centre_local_des_oeuvres_universitaires_et_scolaires_clous_mulhouse",
+    "title": "Centre local des œuvres universitaires et scolaires (CLOUS) - Mulhouse",
+    "url": "https://lannuaire.service-public.fr/grand-est/haut-rhin/crous-68224-01",
+    "metadata": {
+      "email": "hebergements.mulhouse@crous-strasbourg.fr",
+      "telephone": "03 89 55 72 20",
+      "url": "http://www.crous-strasbourg.fr"
+    }
+  },
+  {
+    "id": "a2e65d5305c077121e63ac3ef98c3a1ee65b71c4",
+    "alternateName": "CLOUS",
+    "name": "centre_local_des_oeuvres_universitaires_et_scolaires_clous_pau",
+    "title": "Centre local des œuvres universitaires et scolaires (CLOUS) - Pau",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/pyrenees-atlantiques/crous-64445-01",
+    "metadata": {
+      "email": "accueil.clous-pau@crous-bordeaux.fr",
+      "telephone": "05 59 30 89 00",
+      "url": "http://www.crous-bordeaux.fr"
+    }
+  },
+  {
+    "id": "bec5bd49dcca11ec7bee002e442def26a2846b45",
+    "alternateName": "CLOUS",
+    "name": "centre_local_des_oeuvres_universitaires_et_scolaires_clous_perpignan",
+    "title": "Centre local des œuvres universitaires et scolaires (CLOUS) - Perpignan",
+    "url": "https://lannuaire.service-public.fr/occitanie/pyrenees-orientales/crous-66136-01",
+    "metadata": {
+      "email": "clous.perpignan@crous-montpellier.fr",
+      "telephone": "04 68 50 99 25",
+      "url": "http://www.crous-montpellier.fr"
+    }
+  },
+  {
+    "id": "30a3a8adecafa28efdb89e797cb1517c7e46e4ad",
+    "alternateName": "CLOUS",
+    "name": "centre_local_des_oeuvres_universitaires_et_scolaires_clous_quimper",
+    "title": "Centre local des œuvres universitaires et scolaires (CLOUS) - Quimper",
+    "url": "https://lannuaire.service-public.fr/bretagne/finistere/crous-29232-01",
+    "metadata": {
+      "email": "ant.quimper@crous-rennes.fr",
+      "telephone": "02 98 90 61 18",
+      "url": "http://www.crous-rennes.fr"
+    }
+  },
+  {
+    "id": "b8270eeafa5a8a829adf5bddfd97c2ff8f8c625e",
+    "alternateName": "CLOUS",
+    "name": "centre_local_des_oeuvres_universitaires_et_scolaires_clous_roubaix",
+    "title": "Centre local des œuvres universitaires et scolaires (CLOUS) - Roubaix",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/nord/crous-59512-01",
+    "metadata": {
+      "email": "antenne.roubaix@crous-lille.fr",
+      "telephone": "03 20 73 54 31",
+      "url": "http://www.crous-lille.fr"
+    }
+  },
+  {
+    "id": "7dc12b725048e0504e12ad95d7410ef455be0b62",
+    "alternateName": "CLOUS",
+    "name": "centre_local_des_oeuvres_universitaires_et_scolaires_clous_saint_brieuc",
+    "title": "Centre local des œuvres universitaires et scolaires (CLOUS) - Saint-Brieuc",
+    "url": "https://lannuaire.service-public.fr/bretagne/cotes-d-armor/crous-22278-01",
+    "metadata": {
+      "email": "ant.stbrieuc@crous-rennes.fr",
+      "telephone": "02 96 52 12 78",
+      "url": "http://www.crous-rennes.fr"
+    }
+  },
+  {
+    "id": "7dd40721918b9bf3bdad74b49d2ce052a27bbe1c",
+    "alternateName": "CLOUS",
+    "name": "centre_local_des_oeuvres_universitaires_et_scolaires_clous_saint_etienne",
+    "title": "Centre local des œuvres universitaires et scolaires (CLOUS) - Saint-Étienne",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/loire/crous-42218-01",
+    "metadata": {
+      "email": "logclous@crous-lyon.fr",
+      "telephone": "04 77 81 85 50",
+      "url": "http://www.crous-lyon.fr"
+    }
+  },
+  {
+    "id": "002a700db8ccbc68c89ffa7ec928126a8426f722",
+    "alternateName": "CLOUS",
+    "name": "centre_local_des_oeuvres_universitaires_et_scolaires_clous_saint_malo",
+    "title": "Centre local des œuvres universitaires et scolaires (CLOUS) - Saint-Malo",
+    "url": "https://lannuaire.service-public.fr/bretagne/ille-et-vilaine/crous-35288-01",
+    "metadata": {
+      "email": "ru.stmalo@crous-rennes.fr",
+      "telephone": "02 23 18 11 40",
+      "url": "http://www.crous-rennes.fr"
+    }
+  },
+  {
+    "id": "682bb4011d598147ced0583ae55074c276a220fd",
+    "alternateName": "CLOUS",
+    "name": "centre_local_des_oeuvres_universitaires_et_scolaires_clous_saint_nazaire",
+    "title": "Centre local des œuvres universitaires et scolaires (CLOUS) - Saint-Nazaire",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/loire-atlantique/crous-44184-01",
+    "metadata": {
+      "email": "heb.alex@crous-nantes.fr",
+      "telephone": "02 40 70 24 96",
+      "url": "http://www.crous-nantes.fr"
+    }
+  },
+  {
+    "id": "ea4efebf5287c0eee641897fd9707fa9091b2c98",
+    "alternateName": "CLOUS",
+    "name": "centre_local_des_oeuvres_universitaires_et_scolaires_clous_schoelcher",
+    "title": "Centre local des œuvres universitaires et scolaires (CLOUS) - Schœlcher",
+    "url": "https://lannuaire.service-public.fr/martinique/martinique/crous-97229-01",
+    "metadata": {
+      "email": "cite-schœlcher@crous-antillesguyane.fr",
+      "telephone": "0596 96 61 36 73",
+      "url": "http://www.crous-antillesguyane.fr"
+    }
+  },
+  {
+    "id": "e3140e2b80ae27b4430478237cde0be27532ade2",
+    "alternateName": "CLOUS",
+    "name": "centre_local_des_oeuvres_universitaires_et_scolaires_clous_toulon_la_garde",
+    "title": "Centre local des œuvres universitaires et scolaires (CLOUS) - Toulon - La Garde",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/var/crous-83062-01",
+    "metadata": {
+      "email": "var@crous-nice.fr",
+      "telephone": "04 94 08 83 00",
+      "url": "http://www.crous-nice.fr"
+    }
+  },
+  {
+    "id": "ff208510e3aa3719a0311045369e5372e0d5529c",
+    "alternateName": "CLOUS",
+    "name": "centre_local_des_oeuvres_universitaires_et_scolaires_clous_tours",
+    "title": "Centre local des œuvres universitaires et scolaires (CLOUS) - Tours",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/indre-et-loire/crous-37261-01",
+    "metadata": {
+      "email": "accueil-clous@crous-orleans-tours.fr",
+      "telephone": "02 47 60 90 39",
+      "url": "http://www.crous-orleans-tours.fr"
+    }
+  },
+  {
+    "id": "55022c981b16ee643e6d2e74b7fdca7af56ec246",
+    "alternateName": "CLOUS",
+    "name": "centre_local_des_oeuvres_universitaires_et_scolaires_clous_troyes",
+    "title": "Centre local des œuvres universitaires et scolaires (CLOUS) - Troyes",
+    "url": "https://lannuaire.service-public.fr/grand-est/aube/crous-10387-01",
+    "metadata": {
+      "email": "antenne-troyes@crous-reims.fr",
+      "telephone": "03 25 40 06 24",
+      "url": "http://www.crous-reims.fr"
+    }
+  },
+  {
+    "id": "3ecae6b5b9cdb7443062f346017f51dee5c5553e",
+    "alternateName": "CLOUS",
+    "name": "centre_local_des_oeuvres_universitaires_et_scolaires_clous_valenciennes",
+    "title": "Centre local des œuvres universitaires et scolaires (CLOUS) - Valenciennes",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/nord/crous-59606-01",
+    "metadata": {
+      "email": "residence.mousseron@crous-lille.fr",
+      "telephone": "03 27 28 39 60",
+      "url": "http://www.crous-lille.fr"
+    }
+  },
+  {
+    "id": "24c6ec98b69ffdfa58370d3840fe2e04f277f63d",
+    "alternateName": "CLOUS",
+    "name": "centre_local_des_oeuvres_universitaires_et_scolaires_clous_villeneuve_d_ascq",
+    "title": "Centre local des œuvres universitaires et scolaires (CLOUS) - Villeneuve-d'Ascq",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/nord/crous-59009-02",
+    "metadata": {
+      "email": "antenne.lille1@crous-lille.fr",
+      "telephone": "03 20 05 13 82",
+      "url": "http://www.crous-lille.fr"
+    }
+  },
+  {
+    "id": "6d7165c0780966a1f725cc977fbef49d220199e2",
+    "alternateName": "CROUS",
+    "name": "centre_regional_des_oeuvres_universitaires_et_scolaires_crous_aix_marseille_avignon",
+    "title": "Centre régional des œuvres universitaires et scolaires (CROUS) - Aix-Marseille-Avignon",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/crous-13001-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 42 16 13 13",
+      "url": "http://www.crous-aix-marseille.fr"
+    }
+  },
+  {
+    "id": "2be93a8cc282cebe909e8cc74f5b880a0fb2dedd",
+    "alternateName": "CROUS",
+    "name": "centre_regional_des_oeuvres_universitaires_et_scolaires_crous_amiens",
+    "title": "Centre régional des œuvres universitaires et scolaires (CROUS) - Amiens",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/somme/crous-80021-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 22 71 24 00",
+      "url": "http://www.crous-amiens.fr"
+    }
+  },
+  {
+    "id": "7726afe5e004ede1570395ddb2d92a8854c6f026",
+    "alternateName": "CROUS",
+    "name": "centre_regional_des_oeuvres_universitaires_et_scolaires_crous_antilles_guyane",
+    "title": "Centre régional des œuvres universitaires et scolaires (CROUS) - Antilles-Guyane",
+    "url": "https://lannuaire.service-public.fr/guadeloupe/guadeloupe/crous-97120-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 90 89 46 60",
+      "url": "http://www.crous-antillesguyane.fr/"
+    }
+  },
+  {
+    "id": "616c4055f3bbf751efb7ee4bdfcfb612e2cadf97",
+    "alternateName": "CROUS",
+    "name": "centre_regional_des_oeuvres_universitaires_et_scolaires_crous_bordeaux",
+    "title": "Centre régional des œuvres universitaires et scolaires (CROUS) - Bordeaux",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/gironde/crous-33063-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 56 33 92 17",
+      "url": "http://www.crous-bordeaux.fr"
+    }
+  },
+  {
+    "id": "5cac68b07ead4526aa5de681189d8a3f2a50fe9b",
+    "alternateName": "CROUS",
+    "name": "centre_regional_des_oeuvres_universitaires_et_scolaires_crous_de_bourgogne_franche_comte_pole_de_dijon",
+    "title": "Centre régional des œuvres universitaires et scolaires (CROUS) de Bourgogne-Franche-Comté - Pôle de Dijon",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/cote-d-or/crous-21231-01",
+    "metadata": {
+      "email": "Contact",
+      "telephone": "03 45 34 84 00",
+      "url": "http://www.crous-dijon.fr"
+    }
+  },
+  {
+    "id": "918825b5ce82bae7253ba62ed8ae4152223d4eb8",
+    "alternateName": "CROUS",
+    "name": "centre_regional_des_oeuvres_universitaires_et_scolaires_crous_de_bourgogne_franche_comte_siege_de_besancon",
+    "title": "Centre régional des œuvres universitaires et scolaires (CROUS) de Bourgogne-Franche-Comté - Siège de Besançon",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/doubs/crous-25056-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 81 48 46 62",
+      "url": "http://www.crous-besancon.fr"
+    }
+  },
+  {
+    "id": "3fea2cefd2691eb08067a970a04fe1d2bfcf3925",
+    "alternateName": "CROUS",
+    "name": "centre_regional_des_oeuvres_universitaires_et_scolaires_crous_clermont_ferrand",
+    "title": "Centre régional des œuvres universitaires et scolaires (CROUS) - Clermont-Ferrand",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/puy-de-dome/crous-63113-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 73 34 44 00",
+      "url": "http://www.crous-clermont.fr"
+    }
+  },
+  {
+    "id": "f5ad042673f35457f1786047c08a37e273b4e8bb",
+    "alternateName": "CROUS",
+    "name": "centre_regional_des_oeuvres_universitaires_et_scolaires_crous_corse",
+    "title": "Centre régional des œuvres universitaires et scolaires (CROUS) - Corse",
+    "url": "https://lannuaire.service-public.fr/corse/haute-corse/crous-2B096-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 95 45 30 00",
+      "url": "http://www.crous-corse.fr"
+    }
+  },
+  {
+    "id": "4d309c1dab0d2355284f24c735617edd4a109626",
+    "alternateName": "CROUS",
+    "name": "centre_regional_des_oeuvres_universitaires_et_scolaires_crous_creteil",
+    "title": "Centre régional des œuvres universitaires et scolaires (CROUS) - Créteil",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/val-de-marne/crous-94028-01",
+    "metadata": {
+      "email": "",
+      "telephone": "01 45 17 06 60",
+      "url": "http://www.crous-creteil.fr/"
+    }
+  },
+  {
+    "id": "d243ff05acacd70a2327cbf62a9218db7b07bfb3",
+    "alternateName": "CROUS",
+    "name": "centre_regional_des_oeuvres_universitaires_et_scolaires_crous_grenoble",
+    "title": "Centre régional des œuvres universitaires et scolaires (CROUS) - Grenoble",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/isere/crous-38185-01",
+    "metadata": {
+      "email": "",
+      "telephone": "09 70 15 00 96",
+      "url": "http://www.crous-grenoble.fr"
+    }
+  },
+  {
+    "id": "3e7d586fe5e95a22c633e67232c06b13351f84c1",
+    "alternateName": "CROUS",
+    "name": "centre_regional_des_oeuvres_universitaires_et_scolaires_crous_la_reunion",
+    "title": "Centre régional des œuvres universitaires et scolaires (CROUS) - La Réunion",
+    "url": "https://lannuaire.service-public.fr/la-reunion/reunion/crous-97411-01",
+    "metadata": {
+      "email": "Contact",
+      "telephone": "02 62 48 32 32",
+      "url": "http://www.crous-reunion.fr"
+    }
+  },
+  {
+    "id": "fc553f0b6a355c0f0a3777c66e81bf43ad93be7e",
+    "alternateName": "CROUS",
+    "name": "centre_regional_des_oeuvres_universitaires_et_scolaires_crous_lille",
+    "title": "Centre régional des œuvres universitaires et scolaires (CROUS) - Lille",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/nord/crous-59350-01",
+    "metadata": {
+      "email": "crous@crous-lille.fr",
+      "telephone": "03 20 88 66 00",
+      "url": "http://www.crous-lille.fr"
+    }
+  },
+  {
+    "id": "5502a2954a1b91c389599f9fd46e6178960c9e5e",
+    "alternateName": "CROUS",
+    "name": "centre_regional_des_oeuvres_universitaires_et_scolaires_crous_limoges",
+    "title": "Centre régional des œuvres universitaires et scolaires (CROUS) - Limoges",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/haute-vienne/crous-87085-01",
+    "metadata": {
+      "email": "contact@crous-limoges.fr",
+      "telephone": "05 55 43 17 00",
+      "url": "http://www.crous-limoges.fr"
+    }
+  },
+  {
+    "id": "b76909ca612a635fa3e5dbb33f8901046dae7cf9",
+    "alternateName": "CROUS",
+    "name": "centre_regional_des_oeuvres_universitaires_et_scolaires_crous_lorraine",
+    "title": "Centre régional des œuvres universitaires et scolaires (CROUS) - Lorraine",
+    "url": "https://lannuaire.service-public.fr/grand-est/meurthe-et-moselle/crous-54395-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 83 91 88 00",
+      "url": "http://www.crous-nancy-metz.fr"
+    }
+  },
+  {
+    "id": "a31d6231043c98fce5fe8738ef7061374f3c6146",
+    "alternateName": "CROUS",
+    "name": "centre_regional_des_oeuvres_universitaires_et_scolaires_crous_lyon",
+    "title": "Centre régional des œuvres universitaires et scolaires (CROUS) - Lyon",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/rhone/crous-69387-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 72 80 17 70",
+      "url": "http://www.crous-lyon.fr"
+    }
+  },
+  {
+    "id": "494e9d5a4b4056dc7b79dfbf46cb35ca243181d2",
+    "alternateName": "CROUS",
+    "name": "centre_regional_des_oeuvres_universitaires_et_scolaires_crous_montpellier",
+    "title": "Centre régional des œuvres universitaires et scolaires (CROUS) - Montpellier",
+    "url": "https://lannuaire.service-public.fr/occitanie/herault/crous-34172-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 67 41 50 00",
+      "url": "http://www.crous-montpellier.fr"
+    }
+  },
+  {
+    "id": "42bd0db7f6ee9c962f0bbfef70e94f113c5fd75e",
+    "alternateName": "CROUS",
+    "name": "centre_regional_des_oeuvres_universitaires_et_scolaires_crous_nantes",
+    "title": "Centre régional des œuvres universitaires et scolaires (CROUS) - Nantes",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/loire-atlantique/crous-44109-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 30 06 02 44",
+      "url": "http://www.crous-nantes.fr"
+    }
+  },
+  {
+    "id": "0d250d8b55e8baac664d062c27e43c0dcfe1f21b",
+    "alternateName": "CROUS",
+    "name": "centre_regional_des_oeuvres_universitaires_et_scolaires_crous_nice_toulon",
+    "title": "Centre régional des œuvres universitaires et scolaires (CROUS) - Nice-Toulon",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/alpes-maritimes/crous-06088-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 92 15 50 50",
+      "url": "http://www.crous-nice.fr"
+    }
+  },
+  {
+    "id": "af25216808165a5a37e05feb68335c2e55fad45c",
+    "alternateName": "CROUS",
+    "name": "centre_regional_des_oeuvres_universitaires_et_scolaires_crous_de_normandie_pole_de_caen",
+    "title": "Centre régional des œuvres universitaires et scolaires (CROUS) de Normandie - Pôle de Caen",
+    "url": "https://lannuaire.service-public.fr/normandie/calvados/crous-14118-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 30 08 02 14",
+      "url": "http://www.crous-normandie.fr/"
+    }
+  },
+  {
+    "id": "798b62ea87d9d49b4d0710effff3499c74351b0a",
+    "alternateName": "CROUS",
+    "name": "centre_regional_des_oeuvres_universitaires_et_scolaires_crous_de_normandie_siege_de_rouen",
+    "title": "Centre régional des œuvres universitaires et scolaires (CROUS) de Normandie - Siège de Rouen",
+    "url": "https://lannuaire.service-public.fr/normandie/seine-maritime/crous-76540-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 30 06 02 76",
+      "url": "http://www.crous-normandie.fr/"
+    }
+  },
+  {
+    "id": "deeefb0e8a4ca724d5b2bef100f3629c85c2102d",
+    "alternateName": "CROUS",
+    "name": "centre_regional_des_oeuvres_universitaires_et_scolaires_crous_orleans_tours",
+    "title": "Centre régional des œuvres universitaires et scolaires (CROUS) - Orléans-Tours",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/loiret/crous-45234-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 38 22 61 71",
+      "url": "http://www.crous-orleans-tours.fr"
+    }
+  },
+  {
+    "id": "0376791f62d8493a345266b33f42d45f416c3345",
+    "alternateName": "CROUS",
+    "name": "centre_regional_des_oeuvres_universitaires_et_scolaires_crous_paris",
+    "title": "Centre régional des œuvres universitaires et scolaires (CROUS) - Paris",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/paris/crous-75105-01",
+    "metadata": {
+      "email": "",
+      "telephone": "01 40 51 36 00",
+      "url": "http://www.crous-paris.fr"
+    }
+  },
+  {
+    "id": "c9b201e5ca0a7dbe8bb5b52dc6bb32838b34f78f",
+    "alternateName": "CROUS",
+    "name": "centre_regional_des_oeuvres_universitaires_et_scolaires_crous_poitiers",
+    "title": "Centre régional des œuvres universitaires et scolaires (CROUS) - Poitiers",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/vienne/crous-86194-01",
+    "metadata": {
+      "email": "secretariat.direction@crous-poitiers.fr",
+      "telephone": "05 49 60 88 00",
+      "url": "http://www.crous-poitiers.fr"
+    }
+  },
+  {
+    "id": "22fc7d2885350e3aa83912df73844205c879d179",
+    "alternateName": "CROUS",
+    "name": "centre_regional_des_oeuvres_universitaires_et_scolaires_crous_reims",
+    "title": "Centre régional des œuvres universitaires et scolaires (CROUS) - Reims",
+    "url": "https://lannuaire.service-public.fr/grand-est/marne/crous-51454-01",
+    "metadata": {
+      "email": "",
+      "telephone": "09 69 39 19 19",
+      "url": "http://www.crous-reims.fr"
+    }
+  },
+  {
+    "id": "add7167b6659dd3a3ea8841222d35709abf63e67",
+    "alternateName": "CROUS",
+    "name": "centre_regional_des_oeuvres_universitaires_et_scolaires_crous_rennes",
+    "title": "Centre régional des œuvres universitaires et scolaires (CROUS) - Rennes",
+    "url": "https://lannuaire.service-public.fr/bretagne/ille-et-vilaine/crous-35238-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 30 30 09 30",
+      "url": "http://www.crous-rennes.fr"
+    }
+  },
+  {
+    "id": "3761374421a91ba39cfd58f571fba6a6bd14ec3c",
+    "alternateName": "CROUS",
+    "name": "centre_regional_des_oeuvres_universitaires_et_scolaires_crous_strasbourg",
+    "title": "Centre régional des œuvres universitaires et scolaires (CROUS) - Strasbourg",
+    "url": "https://lannuaire.service-public.fr/grand-est/bas-rhin/crous-67482-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 88 21 28 00",
+      "url": "http://www.crous-strasbourg.fr"
+    }
+  },
+  {
+    "id": "72564a14012994fe27ad9200e75000015a742208",
+    "alternateName": "CROUS",
+    "name": "centre_regional_des_oeuvres_universitaires_et_scolaires_crous_toulouse",
+    "title": "Centre régional des œuvres universitaires et scolaires (CROUS) - Toulouse",
+    "url": "https://lannuaire.service-public.fr/occitanie/haute-garonne/crous-31555-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 61 12 54 00",
+      "url": "http://www.crous-toulouse.fr"
+    }
+  },
+  {
+    "id": "f676bf09f74af8db0e2ca241420e7acb617da1b7",
+    "alternateName": "CROUS",
+    "name": "centre_regional_des_oeuvres_universitaires_et_scolaires_crous_versailles",
+    "title": "Centre régional des œuvres universitaires et scolaires (CROUS) - Versailles",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/yvelines/crous-78646-01",
+    "metadata": {
+      "email": "communication@crous-versailles.fr",
+      "telephone": "01 40 51 62 00",
+      "url": "http://www.crous-versailles.fr"
+    }
+  }
+]

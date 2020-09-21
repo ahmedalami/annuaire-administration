@@ -1,0 +1,541 @@
+[
+  {
+    "id": "c6db2be0de55865c8bde49367c8ee6dd355293d5",
+    "name": "ddcspp_service_de_la_jeunesse_des_sports_et_de_la_vie_associative",
+    "title": "DDCSPP - Service de la jeunesse, des sports et de la vie associative",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/territoire-de-belfort/ddcspp-90010-01",
+    "metadata": {
+      "email": "ddcspp@territoire-de-belfort.gouv.fr",
+      "telephone": "03 84 21 98 50",
+      "url": ""
+    }
+  },
+  {
+    "id": "b2afa210e8dc090b933c669ac225fd31ee310b30",
+    "alternateName": "DDCSPP",
+    "name": "direction_departementale_de_la_cohesion_sociale_et_de_la_protection_de_la_population_ddcspp_ariege",
+    "title": "Direction Départementale de la Cohésion Sociale et de la Protection de la Population (DDCSPP) - Ariège",
+    "url": "https://lannuaire.service-public.fr/occitanie/ariege/ddcspp-09122-01",
+    "metadata": {
+      "email": "ddcspp@ariege.gouv.fr",
+      "telephone": "05 61 02 43 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "665340455346a689e4eff8ac5bbcae178554efce",
+    "alternateName": "DDCSPP",
+    "name": "direction_departementale_de_la_cohesion_sociale_et_de_la_protection_de_la_population_ddcspp_aube",
+    "title": "Direction Départementale de la Cohésion Sociale et de la Protection de la Population (DDCSPP) - Aube",
+    "url": "https://lannuaire.service-public.fr/grand-est/aube/ddcspp-10387-01",
+    "metadata": {
+      "email": "ddcspp@aube.gouv.fr",
+      "telephone": "03 25 80 33 33",
+      "url": ""
+    }
+  },
+  {
+    "id": "cc7f47c2c697597c361cc69b3376e33acc91a521",
+    "alternateName": "DDCSP",
+    "name": "direction_departementale_de_la_cohesion_sociale_et_de_la_protection_des_populations_ddcsp_dordogne",
+    "title": "Direction Départementale de la Cohésion Sociale et de la Protection des Populations (DDCSP) - Dordogne",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/dordogne/ddcspp-24322-01",
+    "metadata": {
+      "email": "ddcspp-directeur@dordogne.gouv.fr",
+      "telephone": "05 53 03 65 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "7676948a7426c93cc2e5300644348c0440b06029",
+    "alternateName": "DDCSPP",
+    "name": "direction_departementale_de_la_cohesion_sociale_et_de_la_protection_des_populations_ddcspp_allier",
+    "title": "Direction départementale de la cohésion sociale et de la protection des populations (DDCSPP) - Allier",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/allier/ddcspp-03321-01",
+    "metadata": {
+      "email": "ddcspp@allier.gouv.fr",
+      "telephone": "04 70 48 35 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "ae87f5998bf8e08a2e10fe796494b18d3001497c",
+    "alternateName": "DDCSPP",
+    "name": "direction_departementale_de_la_cohesion_sociale_et_de_la_protection_des_populations_ddcspp_des_alpes_de_haute_provence",
+    "title": "Direction départementale de la cohésion sociale et de la protection des populations (DDCSPP) des Alpes-de-Haute-Provence",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/alpes-de-haute-provence/ddcspp-04070-01",
+    "metadata": {
+      "email": "ddcspp@alpes-de-haute-provence.gouv.fr",
+      "telephone": "04 92 30 37 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "b361673ec617d6e7e92d21582c4f7cdcc89f3c42",
+    "alternateName": "DDCSPP",
+    "name": "direction_departementale_de_la_cohesion_sociale_et_de_la_protection_des_populations",
+    "title": "Direction départementale de la cohésion sociale et de la protection des populations",
+    "url": "https://lannuaire.service-public.fr/grand-est/ardennes/ddcspp-08105-01",
+    "metadata": {
+      "email": "ddcspp@ardennes.gouv.fr",
+      "telephone": "03 10 07 34 00",
+      "url": "http://www.ardennes.gouv.fr/"
+    }
+  },
+  {
+    "id": "56a51ce227e69e8a4ef44a548e547e49f811f6c3",
+    "alternateName": "DDCSPP",
+    "name": "direction_departementale_de_la_cohesion_sociale_et_de_la_protection_des_populations_ddcspp_aveyron",
+    "title": "Direction départementale de la cohésion sociale et de la protection des populations (DDCSPP) - Aveyron",
+    "url": "https://lannuaire.service-public.fr/occitanie/aveyron/ddcspp-12202-01",
+    "metadata": {
+      "email": "ddcspp@aveyron.gouv.fr",
+      "telephone": "05 65 73 52 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "b361673ec617d6e7e92d21582c4f7cdcc89f3c42",
+    "alternateName": "DDCSPP",
+    "name": "direction_departementale_de_la_cohesion_sociale_et_de_la_protection_des_populations",
+    "title": "Direction départementale de la cohésion sociale et de la protection des populations",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/cantal/ddcspp-15014-01",
+    "metadata": {
+      "email": "ddsv15@santé.gouv.fr",
+      "telephone": "04 63 27 32 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "d22648aaf2330fc52020134bcf7f52b10d540580",
+    "alternateName": "DDCSPP",
+    "name": "direction_departementale_de_la_cohesion_sociale_et_de_la_protection_des_populations_ddcspp_charente",
+    "title": "Direction départementale de la cohésion sociale et de la protection des populations (DDCSPP) - Charente",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/charente/ddcspp-16015-01",
+    "metadata": {
+      "email": "ddcspp@charente.gouv.fr",
+      "telephone": "05 16 16 62 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "9debbc29b58f8c36db024f042b873dd7cb2558de",
+    "alternateName": "DDCSPP",
+    "name": "direction_departementale_de_la_cohesion_sociale_et_de_la_protection_des_populations_ddcspp_cher",
+    "title": "Direction départementale de la cohésion sociale et de la protection des populations (DDCSPP) - Cher",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/cher/ddcspp-18033-01",
+    "metadata": {
+      "email": "ddcspp@cher.gouv.fr",
+      "telephone": "02 48 67 36 95",
+      "url": "http://www.cher.gouv.fr"
+    }
+  },
+  {
+    "id": "cbbe1661a3555dae2ee9a48e08d36397ba9639be",
+    "alternateName": "DDCSPP",
+    "name": "direction_departementale_de_la_cohesion_sociale_et_de_la_protection_des_populations_ddcspp_de_corse_du_sud",
+    "title": "Direction départementale de la cohésion sociale et de la protection des populations (DDCSPP) de Corse-du-Sud",
+    "url": "https://lannuaire.service-public.fr/corse/corse-du-sud/ddcspp-2A004-01",
+    "metadata": {
+      "email": "ddcspp@corse-du-sud.gouv.fr",
+      "telephone": "04 95 50 39 40",
+      "url": ""
+    }
+  },
+  {
+    "id": "f0c50ef8515c0bb51bca296fa7aa3285836868dd",
+    "alternateName": "DDCSPP",
+    "name": "direction_departementale_la_cohesion_sociale_et_de_la_protection_des_populations_ddcspp_deux_sevres",
+    "title": "Direction départementale la cohésion sociale et de la protection des populations (DDCSPP) - Deux-Sèvres",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/deux-sevres/ddcspp-79191-01",
+    "metadata": {
+      "email": "ddcspp@deux-sevres.gouv.fr",
+      "telephone": "05 49 17 27 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "495f8627a092af347d6289dde68c8912b34bce4f",
+    "alternateName": "DDCSPP",
+    "name": "direction_departementale_de_la_cohesion_sociale_et_de_la_protection_des_populations_ddcspp_doubs",
+    "title": "Direction départementale de la cohésion sociale et de la protection des populations (DDCSPP) - Doubs",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/doubs/ddcspp-25056-01",
+    "metadata": {
+      "email": "ddcspp@doubs.gouv.fr",
+      "telephone": "03 81 60 74 60",
+      "url": ""
+    }
+  },
+  {
+    "id": "655c1c8b585d18e5aebbd31a453f24aa77ae4dd8",
+    "alternateName": "DDCSPP",
+    "name": "direction_departementale_de_la_cohesion_sociale_et_de_la_protection_des_populations_ddcspp_eure_et_loir",
+    "title": "Direction départementale de la cohésion sociale et de la protection des populations (DDCSPP) - Eure-et-Loir",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/eure-et-loir/ddcspp-28085-01",
+    "metadata": {
+      "email": "dd028@jeunesse-sports.gouv.frddcspp@eure-et-loir.gouv.fr",
+      "telephone": "02 37 20 51 70",
+      "url": ""
+    }
+  },
+  {
+    "id": "b361673ec617d6e7e92d21582c4f7cdcc89f3c42",
+    "alternateName": "DDCSPP",
+    "name": "direction_departementale_de_la_cohesion_sociale_et_de_la_protection_des_populations",
+    "title": "Direction départementale de la cohésion sociale et de la protection des populations",
+    "url": "https://lannuaire.service-public.fr/occitanie/gers/ddcspp-32013-01",
+    "metadata": {
+      "email": "ddcspp@gers.gouv.fr",
+      "telephone": "05 81 67 22 03",
+      "url": "http://www.gers.gouv.fr"
+    }
+  },
+  {
+    "id": "8781677eede2b9642d8f82c6f8e8220820610252",
+    "alternateName": "DDCSPP",
+    "name": "direction_departementale_de_la_cohesion_sociale_et_de_la_protection_des_populations_ddcspp_de_haute_loire",
+    "title": "Direction départementale de la cohésion sociale et de la protection des populations (DDCSPP) de Haute-Loire",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/haute-loire/ddcspp-43157-01",
+    "metadata": {
+      "email": "ddcspp@haute-loire.gouv.fr",
+      "telephone": "04 71 05 32 30",
+      "url": ""
+    }
+  },
+  {
+    "id": "de6ff570e7222dae2cb38e8246afc83a3012ffbb",
+    "alternateName": "DDCSPP",
+    "name": "direction_departementale_de_la_cohesion_sociale_et_de_la_protection_des_populations_ddcspp_des_hautes_alpes",
+    "title": "Direction départementale de la cohésion sociale et de la protection des populations (DDCSPP) des Hautes-Alpes",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/hautes-alpes/ddcspp-05061-01",
+    "metadata": {
+      "email": "ddcspp@hautes-alpes.gouv.fr",
+      "telephone": "04 92 22 22 30",
+      "url": ""
+    }
+  },
+  {
+    "id": "62a55ed973cc7c2613d3b746a08282cd8e27ae45",
+    "alternateName": "DDCSPP",
+    "name": "direction_departementale_de_la_cohesion_sociale_et_de_la_protection_des_populations_ddcspp_de_haute_saone_vesoul",
+    "title": "Direction départementale de la cohésion sociale et de la protection des populations (DDCSPP) de Haute-Saône - Vesoul",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/haute-saone/ddcspp-70550-01",
+    "metadata": {
+      "email": "ddcspp70@haute-saone.gouv.fr",
+      "telephone": "03 84 96 17 18",
+      "url": ""
+    }
+  },
+  {
+    "id": "cf37937149b34c98ab95f37fa1eba0ba5731a361",
+    "alternateName": "DDCSPP",
+    "name": "direction_departementale_de_la_cohesion_sociale_et_de_la_protection_des_populations_ddcspp_des_hautes_pyrenees",
+    "title": "Direction départementale de la cohésion sociale et de la protection des populations (DDCSPP) des Hautes-Pyrénées",
+    "url": "https://lannuaire.service-public.fr/occitanie/hautes-pyrenees/ddcspp-65440-01",
+    "metadata": {
+      "email": "ddcspp@hautes-pyrenees.gouv.fr",
+      "telephone": "05 62 46 42 00",
+      "url": "http://www.hautes-pyrenees.pref.gouv.fr"
+    }
+  },
+  {
+    "id": "936323bb731aa330216bfd4a3e890eacba4acaa9",
+    "alternateName": "DDCSPP",
+    "name": "direction_departementale_de_la_cohesion_sociale_et_de_la_protection_des_populations_ddcspp_du_haut_rhin",
+    "title": "Direction départementale de la cohésion sociale et de la protection des populations (DDCSPP) du Haut-Rhin",
+    "url": "https://lannuaire.service-public.fr/grand-est/haut-rhin/ddcspp-68066-01",
+    "metadata": {
+      "email": "ddcspp@haut-rhin.gouv.fr",
+      "telephone": "03 89 24 82 00",
+      "url": "http://www.haut-rhin.gouv.fr"
+    }
+  },
+  {
+    "id": "0d8ab9a732dbee1773186f01caf77396cb680da8",
+    "alternateName": "DDCSPP",
+    "name": "direction_departementale_de_la_cohesion_sociale_et_de_la_protection_des_populations_ddcspp_d_ille_et_vilaine",
+    "title": "Direction départementale de la cohésion sociale et de la protection des populations (DDCSPP) d'Ille-et-Vilaine",
+    "url": "https://lannuaire.service-public.fr/bretagne/ille-et-vilaine/ddcspp-35238-01",
+    "metadata": {
+      "email": "ddcspp@ille-et-vilaine.gouv.fr",
+      "telephone": "02 99 59 89 00",
+      "url": "http://www.bretagne.gouv.fr"
+    }
+  },
+  {
+    "id": "318868d9a3773c2c5fcaaca20a68a7c837c93049",
+    "alternateName": "DDCSPP",
+    "name": "direction_departementale_de_la_cohesion_sociale_et_de_la_protection_des_populations_ddcspp_indre",
+    "title": "Direction départementale de la cohésion sociale et de la protection des populations (DDCSPP) - Indre",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/indre/ddcspp-36044-01",
+    "metadata": {
+      "email": "ddcspp@indre.gouv.fr",
+      "telephone": "02 54 53 45 00",
+      "url": "https://www.indre.gouv.fr/index.php/Services-de-l-Etat/Sante-cohesion-sociale-et-protection-des-populations/Direction-Departementale-de-la-Cohesion-Sociale-et-de-la-Protection-des-Populations"
+    }
+  },
+  {
+    "id": "b361673ec617d6e7e92d21582c4f7cdcc89f3c42",
+    "alternateName": "DDCSPP",
+    "name": "direction_departementale_de_la_cohesion_sociale_et_de_la_protection_des_populations",
+    "title": "Direction départementale de la cohésion sociale et de la protection des populations",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/jura/ddcspp-39300-01",
+    "metadata": {
+      "email": "ddcspp@jura.gouv.fr",
+      "telephone": "03 45 42 19 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "b361673ec617d6e7e92d21582c4f7cdcc89f3c42",
+    "alternateName": "DDCSPP",
+    "name": "direction_departementale_de_la_cohesion_sociale_et_de_la_protection_des_populations",
+    "title": "Direction départementale de la cohésion sociale et de la protection des populations",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/ardeche/ddcspp-07186-01",
+    "metadata": {
+      "email": "ddcspp@ardeche.gouv.fr",
+      "telephone": "04 75 66 53 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "b361673ec617d6e7e92d21582c4f7cdcc89f3c42",
+    "alternateName": "DDCSPP",
+    "name": "direction_departementale_de_la_cohesion_sociale_et_de_la_protection_des_populations",
+    "title": "Direction départementale de la cohésion sociale et de la protection des populations",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/correze/ddcspp-19272-01",
+    "metadata": {
+      "email": "ddcspp@correze.gouv.fr",
+      "telephone": "05 55 21 80 00",
+      "url": "http://www.correze.pref.gouv.fr"
+    }
+  },
+  {
+    "id": "b361673ec617d6e7e92d21582c4f7cdcc89f3c42",
+    "alternateName": "DDCSPP",
+    "name": "direction_departementale_de_la_cohesion_sociale_et_de_la_protection_des_populations",
+    "title": "Direction départementale de la cohésion sociale et de la protection des populations",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/creuse/ddcspp-23096-01",
+    "metadata": {
+      "email": "ddcspp@creuse.gouv.fr",
+      "telephone": "05 55 51 59 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "d6bd0296472bdd152dcbc7b2f452ed593e2f1e7e",
+    "alternateName": "DDCSPP",
+    "name": "direction_departementale_de_la_cohesion_sociale_et_de_la_protection_des_populations_ddcspp_de_la_haute_corse",
+    "title": "Direction départementale de la cohésion sociale et de la protection des populations (DDCSPP) de la Haute-Corse",
+    "url": "https://lannuaire.service-public.fr/corse/haute-corse/ddcspp-2B033-01",
+    "metadata": {
+      "email": "ddcspp@haute-corse.gouv.fr",
+      "telephone": "04 95 58 50 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "5e98be07ff9f45ca632df182d2cdff3d97c21992",
+    "alternateName": "DDCSPP",
+    "name": "direction_departementale_de_la_cohesion_sociale_et_de_la_protection_des_populations_ddcspp_de_la_haute_marne",
+    "title": "Direction départementale de la cohésion sociale et de la protection des populations (DDCSPP) de la Haute-Marne",
+    "url": "https://lannuaire.service-public.fr/grand-est/haute-marne/ddcspp-52121-01",
+    "metadata": {
+      "email": "ddcspp-directeur@haute-marne.gouv.fr",
+      "telephone": "03 52 09 56 04",
+      "url": ""
+    }
+  },
+  {
+    "id": "1cf417f4291fb4cb9a05eb126d3b8625d9aea01c",
+    "alternateName": "DDCSPP",
+    "name": "direction_departementale_de_la_cohesion_sociale_et_de_la_protection_des_populations_ddcspp_de_la_haute_vienne",
+    "title": "Direction départementale de la cohésion sociale et de la protection des populations (DDCSPP) de la Haute-Vienne",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/haute-vienne/ddcspp-87085-01",
+    "metadata": {
+      "email": "ddcspp@haute-vienne.gouv.fr",
+      "telephone": "05 19 76 12 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "b361673ec617d6e7e92d21582c4f7cdcc89f3c42",
+    "alternateName": "DDCSPP",
+    "name": "direction_departementale_de_la_cohesion_sociale_et_de_la_protection_des_populations",
+    "title": "Direction départementale de la cohésion sociale et de la protection des populations",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/landes/ddcspp-40192-01",
+    "metadata": {
+      "email": "ddcspp@landes.gouv.fr",
+      "telephone": "05 58 05 76 30",
+      "url": ""
+    }
+  },
+  {
+    "id": "b361673ec617d6e7e92d21582c4f7cdcc89f3c42",
+    "alternateName": "DDCSPP",
+    "name": "direction_departementale_de_la_cohesion_sociale_et_de_la_protection_des_populations",
+    "title": "Direction départementale de la cohésion sociale et de la protection des populations",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/nievre/ddcspp-58194-01",
+    "metadata": {
+      "email": "ddcspp@nievre.gouv.fr",
+      "telephone": "03 58 07 20 30",
+      "url": ""
+    }
+  },
+  {
+    "id": "b361673ec617d6e7e92d21582c4f7cdcc89f3c42",
+    "alternateName": "DDCSPP",
+    "name": "direction_departementale_de_la_cohesion_sociale_et_de_la_protection_des_populations",
+    "title": "Direction départementale de la cohésion sociale et de la protection des populations",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/savoie/ddcspp-73065-01",
+    "metadata": {
+      "email": "ddcspp@savoie.gouv.fr",
+      "telephone": "04 79 33 15 18",
+      "url": ""
+    }
+  },
+  {
+    "id": "b361673ec617d6e7e92d21582c4f7cdcc89f3c42",
+    "alternateName": "DDCSPP",
+    "name": "direction_departementale_de_la_cohesion_sociale_et_de_la_protection_des_populations",
+    "title": "Direction départementale de la cohésion sociale et de la protection des populations",
+    "url": "https://lannuaire.service-public.fr/occitanie/lot/ddcspp-46042-01",
+    "metadata": {
+      "email": "ddcspp@lot.gouv.fr",
+      "telephone": "05 65 20 56 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "c39d9064158e7e51d17aef65124352fcbe47cdb4",
+    "alternateName": "DDCSPP",
+    "name": "direction_departementale_de_la_cohesion_sociale_et_de_la_protection_des_populations_ddcspp_du_lot_et_garonne",
+    "title": "Direction départementale de la cohésion sociale et de la protection des populations (DDCSPP) du Lot-et-Garonne",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/lot-et-garonne/ddcspp-47001-01",
+    "metadata": {
+      "email": "ddcspp@lot-et-garonne.gouv.fr",
+      "telephone": "05 53 98 66 66",
+      "url": "http://www.lot-et-garonne.gouv.fr"
+    }
+  },
+  {
+    "id": "6d0634723f90c05a64b5e485691f4f7e0d4b81b0",
+    "alternateName": "DDCSPP",
+    "name": "direction_departementale_de_la_cohesion_sociale_et_de_la_protection_des_populations_ddcspp_lozere",
+    "title": "Direction départementale de la cohésion sociale et de la protection des populations (DDCSPP) - Lozère",
+    "url": "https://lannuaire.service-public.fr/occitanie/lozere/ddcspp-48095-01",
+    "metadata": {
+      "email": "ddcspp@lozere.gouv.fr",
+      "telephone": "04 30 11 10 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "d35fc51cd160443324d1e7431ae41497b3eb6447",
+    "alternateName": "DDCSPP",
+    "name": "direction_departementale_de_la_cohesion_sociale_et_de_la_protection_des_populations_ddcspp_marne",
+    "title": "Direction départementale de la cohésion sociale et de la protection des populations (DDCSPP) - Marne",
+    "url": "https://lannuaire.service-public.fr/grand-est/marne/ddcspp-51108-01",
+    "metadata": {
+      "email": "ddcspp@marne.gouv.fr",
+      "telephone": "03 26 66 78 78",
+      "url": "http://www.marne.gouv.fr"
+    }
+  },
+  {
+    "id": "b361673ec617d6e7e92d21582c4f7cdcc89f3c42",
+    "alternateName": "DDCSPP",
+    "name": "direction_departementale_de_la_cohesion_sociale_et_de_la_protection_des_populations",
+    "title": "Direction départementale de la cohésion sociale et de la protection des populations",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/mayenne/ddcspp-53130-01",
+    "metadata": {
+      "email": "ddcspp@mayenne.gouv.fr",
+      "telephone": "02 43 67 27 30",
+      "url": ""
+    }
+  },
+  {
+    "id": "5c7332f3351ccfbe8f45a0f16f857d1e2b9217c9",
+    "alternateName": "DDCSPP",
+    "name": "direction_departementale_de_la_cohesion_sociale_et_de_la_protection_des_populations_ddcspp_meuse",
+    "title": "Direction Départementale de la Cohésion Sociale et de la Protection des Populations (DDCSPP) - Meuse",
+    "url": "https://lannuaire.service-public.fr/grand-est/meuse/ddcspp-55029-01",
+    "metadata": {
+      "email": "ddcspp@meuse.gouv.fr",
+      "telephone": "03 29 77 42 00",
+      "url": "http://meuse.gouv.fr/Services-de-l-Etat/Cohesion-sociale-consommation-alimentation-commerce-sante-et-protection-animale/La-Direction-Departementale-de-la-Cohesion-Sociale-et-de-la-Protection-des-Populations"
+    }
+  },
+  {
+    "id": "b361673ec617d6e7e92d21582c4f7cdcc89f3c42",
+    "alternateName": "DDCSPP",
+    "name": "direction_departementale_de_la_cohesion_sociale_et_de_la_protection_des_populations",
+    "title": "Direction départementale de la cohésion sociale et de la protection des populations",
+    "url": "https://lannuaire.service-public.fr/occitanie/tarn/ddcspp-81004-01",
+    "metadata": {
+      "email": "ddcspp@tarn.gouv.fr",
+      "telephone": "05 81 27 50 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "1cfd8c2f258efffaf5bc023c31150a401ee8216e",
+    "alternateName": "DDCSPP",
+    "name": "direction_departementale_de_la_cohesion_sociale_et_de_la_protection_des_populations_ddcspp_de_tarn_et_garonne",
+    "title": "Direction départementale de la cohésion sociale et de la protection des populations (DDCSPP) de Tarn-et-Garonne",
+    "url": "https://lannuaire.service-public.fr/occitanie/tarn-et-garonne/ddcspp-82121-01",
+    "metadata": {
+      "email": "ddcspp@tarn-et-garonne.gouv.fr",
+      "telephone": "05 63 21 18 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "b361673ec617d6e7e92d21582c4f7cdcc89f3c42",
+    "alternateName": "DDCSPP",
+    "name": "direction_departementale_de_la_cohesion_sociale_et_de_la_protection_des_populations",
+    "title": "Direction départementale de la cohésion sociale et de la protection des populations",
+    "url": "https://lannuaire.service-public.fr/grand-est/vosges/ddcspp-88160-01",
+    "metadata": {
+      "email": "ddcspp@vosges.gouv.fr",
+      "telephone": "03 29 68 48 48",
+      "url": ""
+    }
+  },
+  {
+    "id": "921bb70d514b2df34856a8c0bad4f042133e69f1",
+    "alternateName": "DDCSPP",
+    "name": "direction_departementale_de_la_cohesion_sociale_et_de_la_protection_des_populations_ddcspp_yonne",
+    "title": "Direction départementale de la Cohésion Sociale et de la Protection des Populations (DDCSPP) - Yonne",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/yonne/ddcspp-89024-01",
+    "metadata": {
+      "email": "ddcspp@yonne.gouv.fr",
+      "telephone": "03 86 72 69 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "3f48f27ee79b047f29f9e56b8a00d5ba47887f77",
+    "alternateName": "DDSCPP",
+    "name": "direction_departementale_de_la_cohesion_sociale_et_de_la_protection_des_populations_ddscpp_loir_et_cher",
+    "title": "Direction Départementale de la Cohésion Sociale et de la Protection des Populations (DDSCPP) - Loir-et-Cher",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/loir-et-cher/ddcspp-41018-01",
+    "metadata": {
+      "email": "ddcspp@loir-et-cher.gouv.fr",
+      "telephone": "0254704141",
+      "url": "http://www.loir-et-cher.gouv.fr"
+    }
+  },
+  {
+    "id": "b359d9dba7ce3a2904ca9b20ca42bae63348e170",
+    "alternateName": "DDCSPP",
+    "name": "direction_departementale_de_la_cohesion_sociale_et_de_protection_des_populations_ddcspp_aude",
+    "title": "Direction départementale de la cohésion sociale et de protection des populations (DDCSPP) - Aude",
+    "url": "https://lannuaire.service-public.fr/occitanie/aude/ddcspp-11069-01",
+    "metadata": {
+      "email": "ddcspp@aude.gouv.fr",
+      "telephone": "04 34 42 91 00",
+      "url": "http://www.aude.gouv.fr/direction-departementale-de-la-cohesion-sociale-et-a96.html"
+    }
+  }
+]

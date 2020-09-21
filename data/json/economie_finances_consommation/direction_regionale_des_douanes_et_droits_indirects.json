@@ -1,0 +1,552 @@
+[
+  {
+    "id": "1872a538db0c567f81f77b57e3f0b77a97105e22",
+    "name": "direction_interregionale_des_douanes_antilles_guyane",
+    "title": "Direction interrégionale des douanes - Antilles-Guyane",
+    "url": "https://lannuaire.service-public.fr/martinique/martinique/drddi-97209-01",
+    "metadata": {
+      "email": "dr-martinique@douane.finances.gouv.fr",
+      "telephone": "+596 5 96 70 72 72",
+      "url": ""
+    }
+  },
+  {
+    "id": "c7cef910e2e4e4d0a151dbb63f35a4710ee941ac",
+    "name": "direction_interregionale_des_douanes_auvergne_rhone_alpes",
+    "title": "Direction interrégionale des douanes - Auvergne-Rhône-Alpes",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/rhone/drddi-69123-01",
+    "metadata": {
+      "email": "ids@douane.finances.gouv.frdr-lyon@douane.finances.gouv.fr",
+      "telephone": "09 70 27 27 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "b3c407d37104d0d53244606c75fa9572985b1d5e",
+    "name": "direction_interregionale_des_douanes_bourgogne_franche_comte_centre_val_de_loire",
+    "title": "Direction interrégionale des douanes - Bourgogne-Franche-Comté - Centre-Val de Loire",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/cote-d-or/drddi-21231-01",
+    "metadata": {
+      "email": "di-dijon@douane.finances.gouv.frids@douane.finances.gouv.fr",
+      "telephone": "09 70 27 63 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "073cad739fb83669f697611f2e6b3db402060727",
+    "name": "direction_interregionale_des_douanes_bretagne_pays_de_la_loire",
+    "title": "Direction interrégionale des douanes - Bretagne - Pays de la Loire",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/loire-atlantique/drddi-44109-01",
+    "metadata": {
+      "email": "di-nantes@douane.finances.gouv.frids@douane.finances.gouv.fr",
+      "telephone": "09 70 27 51 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "ce65c67f8edef43da252a20ca14d679ddc7342b8",
+    "name": "direction_interregionale_des_douanes_grand_est",
+    "title": "Direction interrégionale des douanes - Grand Est",
+    "url": "https://lannuaire.service-public.fr/grand-est/moselle/drddi-57463-01",
+    "metadata": {
+      "email": "di-metz@douane.finances.gouv.fr",
+      "telephone": "09 70 27 74 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "4a80ced7f95a95aa87809dcbb4e900edbbc51df9",
+    "name": "direction_interregionale_des_douanes_hauts_de_france",
+    "title": "Direction interrégionale des douanes - Hauts-de-France",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/nord/drddi-59350-01",
+    "metadata": {
+      "email": "di-lille@douane.finances.gouv.frids@douane.finances.gouv.fr",
+      "telephone": "09 70 27 10 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "9d8df9a34126b8944a2624674f00d5b2577634dc",
+    "name": "direction_interregionale_des_douanes_ile_de_france",
+    "title": "Direction interrégionale des douanes - Ile-de-France",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/paris/drddi-75110-01",
+    "metadata": {
+      "email": "di-ile-de-france@douane.finances.gouv.fr",
+      "telephone": "09 70 27 16 00",
+      "url": "http://www.douane.gouv.fr"
+    }
+  },
+  {
+    "id": "3a7ca21bfe0725fc5cf7f6abaf16e15dabf53b1b",
+    "name": "direction_interregionale_des_douanes_normandie",
+    "title": "Direction interrégionale des douanes - Normandie",
+    "url": "https://lannuaire.service-public.fr/normandie/seine-maritime/drddi-76540-02",
+    "metadata": {
+      "email": "dr-rouen@douane.finances.gouv.fr",
+      "telephone": "09 70 27 38 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "8c9952bd8c61800e76258450593ccaa91a70ddc5",
+    "name": "direction_interregionale_des_douanes_nouvelle_aquitaine",
+    "title": "Direction interrégionale des douanes - Nouvelle-Aquitaine",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/gironde/drddi-33063-01",
+    "metadata": {
+      "email": "di-bordeaux@douane.finances.gouv.fr",
+      "telephone": "09 70 27 55 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "8e2b1041e1ff47bd18168582927202440ef38c7e",
+    "name": "direction_interregionale_des_douanes_occitanie",
+    "title": "Direction interrégionale des douanes - Occitanie",
+    "url": "https://lannuaire.service-public.fr/occitanie/herault/drddi-34172-01",
+    "metadata": {
+      "email": "di-montpellier@douane.finances.gouv.fr",
+      "telephone": "09 70 27 69 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "2c1d65a97ddd951db5227fadf8657eb213dd985d",
+    "name": "direction_interregionale_des_douanes_paris_aeroports",
+    "title": "Direction interrégionale des douanes - Paris-Aéroports",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/val-d-oise/drddi-95527-02",
+    "metadata": {
+      "email": "di-roissy@douane.finances.gouv.fr",
+      "telephone": "01 48 62 35 43",
+      "url": "http://www.douane.gouv.fr"
+    }
+  },
+  {
+    "id": "2c1d65a97ddd951db5227fadf8657eb213dd985d",
+    "name": "direction_interregionale_des_douanes_paris_aeroports",
+    "title": "Direction interrégionale des douanes - Paris-Aéroports",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/val-d-oise/drddi-95527-01",
+    "metadata": {
+      "email": "di-roissy@douane.finances.gouv.fr",
+      "telephone": "01 48 62 35 43",
+      "url": ""
+    }
+  },
+  {
+    "id": "be76a1bf0cfd40799333d68bf4d22b59ba0b4701",
+    "name": "direction_interregionale_des_douanes_provence_alpes_cote_d_azur_corse",
+    "title": "Direction interrégionale des douanes - Provence-Alpes-Côte d'Azur - Corse",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/drddi-13055-01",
+    "metadata": {
+      "email": "di-marseille@douane.finances.gouv.fr",
+      "telephone": "09 70 27 83 09",
+      "url": "http://www.douane.gouv.fr"
+    }
+  },
+  {
+    "id": "be76a1bf0cfd40799333d68bf4d22b59ba0b4701",
+    "name": "direction_interregionale_des_douanes_provence_alpes_cote_d_azur_corse",
+    "title": "Direction interrégionale des douanes - Provence-Alpes-Côte d'Azur - Corse",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/drddi-13201-02",
+    "metadata": {
+      "email": "di-marseille@douane.finances.gouv.fr",
+      "telephone": "09 70 27 83 09",
+      "url": ""
+    }
+  },
+  {
+    "id": "58141dcba24528eb9ec314fb0bee4161de5ae839",
+    "name": "direction_regionale_des_douanes_aix_en_provence",
+    "title": "Direction régionale des douanes - Aix-en-Provence",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/drddi-13001-01",
+    "metadata": {
+      "email": "dr-provence@douane.finances.gouv.frids@douane.finances.gouv.fr",
+      "telephone": "09 70 27 91 09",
+      "url": "https://www.douane.gouv.fr"
+    }
+  },
+  {
+    "id": "18d1db49ea2a7a16e1e180ca991ab4ac0371dfa9",
+    "name": "direction_regionale_des_douanes_amiens",
+    "title": "Direction régionale des douanes - Amiens",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/somme/drddi-80021-01",
+    "metadata": {
+      "email": "ids@douane.finances.gouv.frdr-picardie@douane.finances.gouv.fr",
+      "telephone": "09 70 27 11 00",
+      "url": "https://www.douane.gouv.fr"
+    }
+  },
+  {
+    "id": "05040678c40df2393ad759dff31d44c462f4941b",
+    "name": "direction_regionale_des_douanes_annecy",
+    "title": "Direction régionale des douanes - Annecy",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/haute-savoie/drddi-74010-01",
+    "metadata": {
+      "email": "dr-leman@douane.finances.gouv.frids@douane.finances.gouv.fr",
+      "telephone": "09 70 27 30 34",
+      "url": "https://www.douane.gouv.fr"
+    }
+  },
+  {
+    "id": "1c5b2579843e425a52f28dba8d8aed5c69b233b8",
+    "name": "direction_regionale_des_douanes_bayonne",
+    "title": "Direction régionale des douanes - Bayonne",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/pyrenees-atlantiques/drddi-64102-01",
+    "metadata": {
+      "email": "dr-bayonne@douane.finances.gouv.frids@douane.finances.gouv.fr",
+      "telephone": "09 70 27 58 30",
+      "url": "https://www.douane.gouv.fr"
+    }
+  },
+  {
+    "id": "f0f95bb763a87e8e1d76a8ced914dc20bb962c1a",
+    "name": "direction_regionale_des_douanes_besancon",
+    "title": "Direction régionale des douanes - Besançon",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/doubs/drddi-25056-01",
+    "metadata": {
+      "email": "dr-franche-comte@douane.finances.gouv.frids@douane.finances.gouv.fr",
+      "telephone": "09 70 27 66 00",
+      "url": "https://www.douane.gouv.fr"
+    }
+  },
+  {
+    "id": "026913dcb0b3cf995b4c7d704d4454a334138eda",
+    "name": "direction_regionale_des_douanes_bretagne",
+    "title": "Direction régionale des douanes - Bretagne",
+    "url": "https://lannuaire.service-public.fr/bretagne/ille-et-vilaine/drddi-35238-01",
+    "metadata": {
+      "email": "dr-bretagne@douane.finances.gouv.frids@douane.finances.gouv.fr",
+      "telephone": "09 70 27 51 39",
+      "url": "https://www.douane.gouv.fr"
+    }
+  },
+  {
+    "id": "eebbd0bba7c201815e5ab34207e71747b38f6c03",
+    "name": "direction_regionale_des_douanes_caen",
+    "title": "Direction régionale des douanes - Caen",
+    "url": "https://lannuaire.service-public.fr/normandie/calvados/drddi-14118-01",
+    "metadata": {
+      "email": "dr-basse-normandie@douane.finances.gouv.frids@douane.finances.gouv.fr",
+      "telephone": "09 70 27 45 00",
+      "url": "https://www.douane.gouv.fr"
+    }
+  },
+  {
+    "id": "82907fc8045f0661be666ebf8df844d6b45d10ff",
+    "name": "direction_regionale_des_douanes_centre_val_de_loire",
+    "title": "Direction régionale des douanes - Centre-Val de Loire",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/loiret/drddi-45234-01",
+    "metadata": {
+      "email": "ids@douane.finances.gouv.frdr-centre@douane.finances.gouv.fr",
+      "telephone": "09 70 27 65 00",
+      "url": "https://www.douane.gouv.fr"
+    }
+  },
+  {
+    "id": "545eb0369fb2e7fad585a3ae962b184e69c7fd5a",
+    "name": "direction_regionale_des_douanes_chambery",
+    "title": "Direction régionale des douanes - Chambéry",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/savoie/drddi-73065-01",
+    "metadata": {
+      "email": "dr-chambery@douane.finances.gouv.frids@douane.finances.gouv.fr",
+      "telephone": "09 70 27 34 36",
+      "url": "https://www.douane.gouv.fr"
+    }
+  },
+  {
+    "id": "88945cbd7cf0256c46c1e8392423918a8c837943",
+    "name": "direction_regionale_des_douanes_clermont_ferrand",
+    "title": "Direction régionale des douanes - Clermont-Ferrand",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/puy-de-dome/drddi-63113-01",
+    "metadata": {
+      "email": "dr-auvergne@douane.finances.gouv.frids@douane.finances.gouv.fr",
+      "telephone": "09 70 27 32 59",
+      "url": "https://www.douane.gouv.fr"
+    }
+  },
+  {
+    "id": "91874fbdc9fd6cc77ae8f5e0f9d320fbb769f5df",
+    "name": "direction_regionale_des_douanes_corse",
+    "title": "Direction régionale des douanes - Corse",
+    "url": "https://lannuaire.service-public.fr/corse/corse-du-sud/drddi-2A004-01",
+    "metadata": {
+      "email": "dr-corse@douane.finances.gouv.frids@douane.finances.gouv.fr",
+      "telephone": "09 70 27 89 03",
+      "url": "https://www.douane.gouv.fr"
+    }
+  },
+  {
+    "id": "060de2ccde65c8732c5e1fc180fe20e421da05b2",
+    "name": "direction_regionale_des_douanes_dunkerque",
+    "title": "Direction régionale des douanes - Dunkerque",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/nord/drddi-59183-01",
+    "metadata": {
+      "email": "dr-dunkerque@douane.finances.gouv.frids@douane.finances.gouv.fr",
+      "telephone": "09 70 27 07 00",
+      "url": "https://www.douane.gouv.fr"
+    }
+  },
+  {
+    "id": "937d47a68728819cc6a1b4b1f8c7b668414a85d8",
+    "name": "direction_regionale_des_douanes_guadeloupe",
+    "title": "Direction régionale des douanes - Guadeloupe",
+    "url": "https://lannuaire.service-public.fr/guadeloupe/guadeloupe/drddi-97105-01",
+    "metadata": {
+      "email": "dr-guadeloupe@douane.finances.gouv.frids@douane.finances.gouv.fr",
+      "telephone": "+590 5 90 99 45 30",
+      "url": "https://www.douane.gouv.fr"
+    }
+  },
+  {
+    "id": "818ded5eb2c6d0f7baff19b1933b0f6e66fd00d5",
+    "name": "direction_regionale_des_douanes_guyane",
+    "title": "Direction régionale des douanes - Guyane",
+    "url": "https://lannuaire.service-public.fr/guyane/guyane/drddi-97302-01",
+    "metadata": {
+      "email": "dr-guyane@douane.finances.gouv.frids@douane.finances.gouv.fr",
+      "telephone": "+594 5 94 29 74 74",
+      "url": "https://www.douane.gouv.fr"
+    }
+  },
+  {
+    "id": "35d35d1ccd7bd0dcdb1f4a5fe3c8663289685421",
+    "name": "direction_regionale_des_douanes_la_reunion",
+    "title": "Direction régionale des douanes - La Réunion",
+    "url": "https://lannuaire.service-public.fr/la-reunion/reunion/drddi-97411-01",
+    "metadata": {
+      "email": "dr-reunion@douane.finances.gouv.frids@douane.finances.gouv.fr",
+      "telephone": "+262 2 62 90 81 00",
+      "url": "https://www.douane.gouv.fr"
+    }
+  },
+  {
+    "id": "accd0598ae1eec806efe51f70ea7ce4f37752e8a",
+    "name": "direction_regionale_des_douanes_le_havre",
+    "title": "Direction régionale des douanes - Le Havre",
+    "url": "https://lannuaire.service-public.fr/normandie/seine-maritime/drddi-76351-01",
+    "metadata": {
+      "email": "dr-le-havre@douane.finances.gouv.frids@douane.finances.gouv.fr",
+      "telephone": "09 70 27 41 00",
+      "url": "https://www.douane.gouv.fr"
+    }
+  },
+  {
+    "id": "1a14e8dc6e60340fc129a1dd349703840ce33bee",
+    "name": "direction_regionale_des_douanes_lille",
+    "title": "Direction régionale des douanes - Lille",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/nord/drddi-59350-02",
+    "metadata": {
+      "email": "dr-lille@douanes.finances.gouv.frids@douane.finances.gouv.fr",
+      "telephone": "09 70 27 10 00",
+      "url": "https://www.douane.gouv.fr"
+    }
+  },
+  {
+    "id": "5d11e48fa8c1d74372589887434eb1b531e23489",
+    "name": "direction_regionale_des_douanes_marseille",
+    "title": "Direction régionale des douanes - Marseille",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/drddi-13201-01",
+    "metadata": {
+      "email": "dr-marseille@douane.finances.gouv.frids@douane.finances.gouv.fr",
+      "telephone": "09 70 27 83 09",
+      "url": "https://www.douane.gouv.fr"
+    }
+  },
+  {
+    "id": "72af44149c4201d9f2693292ad46806fb5321792",
+    "name": "direction_regionale_des_douanes_mayotte",
+    "title": "Direction régionale des douanes - Mayotte",
+    "url": "https://lannuaire.service-public.fr/mayotte/mayotte/drddi-97611-01",
+    "metadata": {
+      "email": "douane.mayotte@douane.finances.gouv.frids@douane.finances.gouv.fr",
+      "telephone": "+269 2 69 61 42 22",
+      "url": "https://www.douane.gouv.fr"
+    }
+  },
+  {
+    "id": "a731b809ad3e59848fe9b6b7898736f3d04263d7",
+    "name": "direction_regionale_des_douanes_mulhouse",
+    "title": "Direction régionale des douanes - Mulhouse",
+    "url": "https://lannuaire.service-public.fr/grand-est/haut-rhin/drddi-68224-01",
+    "metadata": {
+      "email": "dr-mulhouse@douane.finances.gouv.frids@douane.finances.gouv.fr",
+      "telephone": "09 70 27 78 00",
+      "url": "https://www.douane.gouv.fr"
+    }
+  },
+  {
+    "id": "4a81da13a83c3e6623c638b8305fc3db799f272f",
+    "name": "direction_regionale_des_douanes_nancy",
+    "title": "Direction régionale des douanes - Nancy",
+    "url": "https://lannuaire.service-public.fr/grand-est/meurthe-et-moselle/drddi-54395-01",
+    "metadata": {
+      "email": "dr-lorraine@douane.finances.gouv.frids@douane.finances.gouv.fr",
+      "telephone": "09 70 27 75 00",
+      "url": "https://www.douane.gouv.fr"
+    }
+  },
+  {
+    "id": "dd17eebd999a75b6dc98c6fc1520f9da30dadd9c",
+    "name": "direction_regionale_des_douanes_nice",
+    "title": "Direction régionale des douanes - Nice",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/alpes-maritimes/drddi-06088-01",
+    "metadata": {
+      "email": "dr-nice@douane.finances.gouv.frids@douane.finances.gouv.fr",
+      "telephone": "09 70 27 87 05",
+      "url": "https://www.douane.gouv.fr"
+    }
+  },
+  {
+    "id": "d5c9737c480f86d444fc448cba9de9990d77b60f",
+    "name": "direction_regionale_des_douanes_nouvelle_caledonie",
+    "title": "Direction régionale des douanes - Nouvelle-Calédonie",
+    "url": "https://lannuaire.service-public.fr/collectivites-d-outre-mer/nouvelle-caledonie/drddi-98818-01",
+    "metadata": {
+      "email": "douanes.nc@offratel.ncids@douane.finances.gouv.fr",
+      "telephone": "+687 26 53 00",
+      "url": "https://www.douane.gouv.fr"
+    }
+  },
+  {
+    "id": "ee2ab6810e734b23530d08939709db6d5d6340f9",
+    "name": "direction_regionale_des_douanes_orly",
+    "title": "Direction régionale des douanes - Orly",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/val-de-marne/drddi-94054-01",
+    "metadata": {
+      "email": "dr-orly@douane.finances.gouv.frids@douane.finances.gouv.fr",
+      "telephone": "01 49 75 84 00",
+      "url": "https://www.douane.gouv.fr"
+    }
+  },
+  {
+    "id": "970dd2a352cf1ae9b8e5b5fe470b410ea4d8b295",
+    "name": "direction_regionale_des_douanes_paris",
+    "title": "Direction régionale des douanes - Paris",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/paris/drddi-75110-02",
+    "metadata": {
+      "email": "dr-paris@douane.finances.gouv.frids@douane.finances.gouv.fr",
+      "telephone": "09 70 27 18 96",
+      "url": "https://www.douane.gouv.fr"
+    }
+  },
+  {
+    "id": "93f780888aaae78f0fd1c96b31a0feaf9f8f133a",
+    "name": "direction_regionale_des_douanes_paris_est",
+    "title": "Direction régionale des douanes - Paris-Est",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/seine-et-marne/drddi-77468-01",
+    "metadata": {
+      "email": "dr-paris-est@douane.finances.gouv.frids@douane.finances.gouv.fr",
+      "telephone": "09 70 27 21 20",
+      "url": "https://www.douane.gouv.fr"
+    }
+  },
+  {
+    "id": "c8ba301258368a6e77a221077f0b276a1c1c05f6",
+    "name": "direction_regionale_des_douanes_paris_ouest",
+    "title": "Direction régionale des douanes - Paris-Ouest",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/yvelines/drddi-78551-01",
+    "metadata": {
+      "email": "dr-paris-ouest@douane.finances.gouv.frids@douane.finances.gouv.fr",
+      "telephone": "09 70 27 23 45",
+      "url": "https://www.douane.gouv.fr"
+    }
+  },
+  {
+    "id": "2a5b417caf938525ec521f0c0f4449c0a0d91295",
+    "name": "direction_regionale_des_douanes_perpignan",
+    "title": "Direction régionale des douanes - Perpignan",
+    "url": "https://lannuaire.service-public.fr/occitanie/pyrenees-orientales/drddi-66136-01",
+    "metadata": {
+      "email": "dr-perpignan@douane.finances.gouv.frids@douane.finances.gouv.fr",
+      "telephone": "09 70 27 71 60",
+      "url": "https://www.douane.gouv.fr"
+    }
+  },
+  {
+    "id": "b2b8d220b71b931018a90564110750682b0840e9",
+    "name": "direction_regionale_des_douanes_poitiers",
+    "title": "Direction régionale des douanes - Poitiers",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/vienne/drddi-86194-01",
+    "metadata": {
+      "email": "dr-poitiers@douane.finances.gouv.frids@douane.finances.gouv.fr",
+      "telephone": "09 70 27 51 62",
+      "url": "https://www.douane.gouv.fr"
+    }
+  },
+  {
+    "id": "b47d13ebf8e10623b7113dea7dcf94a657976f84",
+    "name": "direction_regionale_des_douanes_polynesie_francaise",
+    "title": "Direction régionale des douanes - Polynésie française",
+    "url": "https://lannuaire.service-public.fr/collectivites-d-outre-mer/polynesie-francaise/drddi-98735-01",
+    "metadata": {
+      "email": "dr-polynesie@douane.finances.gouv.fr",
+      "telephone": "+689 40 50 55 50",
+      "url": "http://www.polynesie-francaise.pref.gouv.fr/Les-services-de-l-Etat/Securite/Douanes"
+    }
+  },
+  {
+    "id": "804823cf4a986a92deb44054f652dca20e49a5ad",
+    "name": "direction_regionale_des_douanes_reims",
+    "title": "Direction régionale des douanes - Reims",
+    "url": "https://lannuaire.service-public.fr/grand-est/marne/drddi-51454-01",
+    "metadata": {
+      "email": "dr-champagne-ardenne@douane.finances.gouv.frids@douane.finances.gouv.fr",
+      "telephone": "09 70 27 80 00",
+      "url": "https://www.douane.gouv.fr"
+    }
+  },
+  {
+    "id": "fa35f3cd8b372fb2018f3c0c715ebf4fc340679c",
+    "name": "direction_regionale_des_douanes_rouen",
+    "title": "Direction régionale des douanes - Rouen",
+    "url": "https://lannuaire.service-public.fr/normandie/seine-maritime/drddi-76540-01",
+    "metadata": {
+      "email": "dr-rouen@douane.finances.gouv.frids@douane.finances.gouv.fr",
+      "telephone": "09 70 27 38 00",
+      "url": "https://www.douane.gouv.fr"
+    }
+  },
+  {
+    "id": "597bdb5dce2fb0f7bf3de889e82f9010611cc435",
+    "name": "direction_regionale_des_douanes_strasbourg",
+    "title": "Direction régionale des douanes - Strasbourg",
+    "url": "https://lannuaire.service-public.fr/grand-est/bas-rhin/drddi-67482-01",
+    "metadata": {
+      "email": "dr-strasbourg@douane.finances.gouv.frids@douane.finances.gouv.fr",
+      "telephone": "09 70 27 77 00",
+      "url": "https://www.douane.gouv.fr"
+    }
+  },
+  {
+    "id": "c08b00c09e0c14c64cc2e377693f4eb4acd4a4cf",
+    "name": "direction_regionale_des_douanes_toulouse",
+    "title": "Direction régionale des douanes - Toulouse",
+    "url": "https://lannuaire.service-public.fr/occitanie/haute-garonne/drddi-31555-01",
+    "metadata": {
+      "email": "dr-midi-pyrenees@douane.finances.gouv.frids@douane.finances.gouv.fr",
+      "telephone": "09 70 27 60 00",
+      "url": "https://www.douane.gouv.fr"
+    }
+  },
+  {
+    "id": "008d20be0c7d59182ed978431ea28e906e62fb00",
+    "name": "service_des_douanes_et_contributions_diverses_wallis_et_futuna",
+    "title": "Service des douanes et contributions diverses - Wallis-et-Futuna",
+    "url": "https://lannuaire.service-public.fr/collectivites-d-outre-mer/wallis-et-futuna/drddi-98613-01",
+    "metadata": {
+      "email": "douanes.wallis@mail.wfids@douane.finances.gouv.fr",
+      "telephone": "+681 72 14 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "fbca5ef34c952210b3151e5a93ff23ba8be23518",
+    "name": "service_des_douanes_saint_pierre_et_miquelon",
+    "title": "Service des douanes - Saint-Pierre-et-Miquelon",
+    "url": "https://lannuaire.service-public.fr/collectivites-d-outre-mer/saint-pierre-et-miquelon/drddi-97502-01",
+    "metadata": {
+      "email": "dr-saint-pierre-et-miquelon@finances.gouv.frids@douane.finances.gouv.fr",
+      "telephone": "+508 41 17 40",
+      "url": ""
+    }
+  }
+]

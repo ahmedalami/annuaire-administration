@@ -1,0 +1,2052 @@
+[
+  {
+    "id": "2f80874b81828abccaf1ef91a2801c7e10fbeeb9",
+    "name": "greta_21_agence_commerciale_de_dijon",
+    "title": "Greta 21 - Agence commerciale de Dijon",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/cote-d-or/greta-21231-02",
+    "metadata": {
+      "email": "agencecom.greta21@ac-dijon.fr",
+      "telephone": "03 80 54 38 43",
+      "url": "http://bourgogne.greta.ac-dijon.fr/"
+    }
+  },
+  {
+    "id": "311a56a017d3313d08b2d24411f4c88c9c1a5e6f",
+    "name": "greta_21_siege_social",
+    "title": "Greta 21 - Siège Social",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/cote-d-or/greta-21231-01",
+    "metadata": {
+      "email": "ce.greta21@ac-dijon.fr",
+      "telephone": "03 80 54 38 43",
+      "url": "http://www.bourgogne.greta.fr"
+    }
+  },
+  {
+    "id": "38693c9937f89a5cdf1e5f3e8da27f15a562b7b9",
+    "name": "greta_58_antenne_de_cosne_cours_sur_loire",
+    "title": "Greta 58 - Antenne de Cosne-Cours-sur-Loire",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/nievre/greta-58086-01",
+    "metadata": {
+      "email": "ce.greta.nevers@ac-dijon.fr",
+      "telephone": "03 86 26 75 75",
+      "url": "http://www.bourgogne.greta.fr"
+    }
+  },
+  {
+    "id": "8aa436bc90077596c16b0d01532cd3b35227d211",
+    "name": "greta_71_sud_bourgogne_antenne_d_autun",
+    "title": "Greta 71 - Sud Bourgogne - Antenne d'Autun",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/saone-et-loire/greta-71014-01",
+    "metadata": {
+      "email": "greta71.contact@ac-dijon.fr",
+      "telephone": "03 85 86 51 64",
+      "url": "http://www.bourgogne.greta.fr"
+    }
+  },
+  {
+    "id": "c7c402628cc73de7c0d83b5fe4b684e21bbe447e",
+    "name": "greta_71_sud_bourgogne_antenne_de_digoin",
+    "title": "Greta 71 - Sud-Bourgogne - Antenne de Digoin",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/saone-et-loire/greta-71176-01",
+    "metadata": {
+      "email": "greta71.contact@ac-dijon.fr",
+      "telephone": "03 85 53 77 10",
+      "url": "http://www.bourgogne.greta.fr"
+    }
+  },
+  {
+    "id": "55fd62b4a08cc2044605a014919b93a07f722de3",
+    "name": "greta_71_sud_bourgogne_antenne_de_la_ccm_montceau",
+    "title": "Greta 71 - Sud-Bourgogne - Antenne de la CCM Montceau",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/saone-et-loire/greta-71306-01",
+    "metadata": {
+      "email": "greta71sudbourgogne@ac-dijon.fr",
+      "telephone": "03 85 57 05 46",
+      "url": "http://www.bourgogne.greta.fr"
+    }
+  },
+  {
+    "id": "1afedc2080050ea8b1813308d48f8d4ba155df3c",
+    "name": "greta_71_sud_bourgogne_antenne_macon",
+    "title": "Greta 71 - Sud Bourgogne - Antenne Mâcon",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/saone-et-loire/greta-71270-01",
+    "metadata": {
+      "email": "greta71.contact@ac-dijon.fr",
+      "telephone": "03 85 39 53 53",
+      "url": "http://www.bourgogne.greta.fr"
+    }
+  },
+  {
+    "id": "7ff1ffb35db95fc8f1e33c278399c13ba4786b71",
+    "name": "greta_89_antenne_d_avallon",
+    "title": "Greta 89 - Antenne d'Avallon",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/yonne/greta-89025-01",
+    "metadata": {
+      "email": "ce.greta.avallon@ac-dijon.fr",
+      "telephone": "03 86 34 18 66",
+      "url": "http://bourgogne.greta.ac-dijon.fr"
+    }
+  },
+  {
+    "id": "c900e965b071e1677b0b8de38e32c6ad98084d3a",
+    "name": "greta_89_siege_d_auxerre",
+    "title": "Greta 89 - Siège d'Auxerre",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/yonne/greta-89024-01",
+    "metadata": {
+      "email": "ce.greta.auxerre@ac-dijon.fr",
+      "telephone": "03 86 72 10 40",
+      "url": "http://www.bourgogne.greta.fr"
+    }
+  },
+  {
+    "id": "5f34c85a7527e51c366a18d906619620641aa49e",
+    "name": "greta_92_sud",
+    "title": "Greta 92 - Sud",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/hauts-de-seine/greta-92012-01",
+    "metadata": {
+      "email": "greta.sud.92@ac-versailles.fr",
+      "telephone": "01 46 99 92 92",
+      "url": "http://www.greta.ac-versailles.fr"
+    }
+  },
+  {
+    "id": "0af492fd7dae1bb3fe3909a30947ee36eb5bb112",
+    "name": "greta_ain",
+    "title": "Greta - Ain",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/ain/greta-01283-01",
+    "metadata": {
+      "email": "greta.ain@ac-lyon.fr",
+      "telephone": "04 74 32 15 90",
+      "url": "https://www1.ac-lyon.fr/greta/ain"
+    }
+  },
+  {
+    "id": "6b86c31bd7d40e5008ce04879830d2eb3afebcbf",
+    "name": "greta_aisne",
+    "title": "Greta - Aisne",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/aisne/greta-02691-01",
+    "metadata": {
+      "email": "greta.aisne@ac-amiens.fr",
+      "telephone": "03 23 08 44 20",
+      "url": "http://www.greta-sqc.fr"
+    }
+  },
+  {
+    "id": "fea514b1571b170b381c8c8530f4767e52126646",
+    "name": "greta_alfortville",
+    "title": "Greta - Alfortville",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/val-de-marne/greta-94002-01",
+    "metadata": {
+      "email": "gefen.formation@orange.fr",
+      "telephone": "01 43 53 52 30",
+      "url": "http://www.GMTI94.greta-formation.fr"
+    }
+  },
+  {
+    "id": "f405613dadc32b07946f42377c74eba69c27580e",
+    "name": "greta_alpes_provence",
+    "title": "Greta - Alpes-Provence",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/hautes-alpes/greta-05061-01",
+    "metadata": {
+      "email": "greta.alpes-provence@ac-aix-marseille.fr",
+      "telephone": "04 92 52 55 70",
+      "url": "http://www.gretanet.com"
+    }
+  },
+  {
+    "id": "9bddb024c2b3ee0df991d31d2a508e1dc706fe3e",
+    "name": "greta_anjou",
+    "title": "Greta - Anjou",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/maine-et-loire/greta-49007-01",
+    "metadata": {
+      "email": "greta.anjou@ac-nantes.fr",
+      "telephone": "02 41 24 11 11",
+      "url": "http://www.greta-paysdelaloire.fr"
+    }
+  },
+  {
+    "id": "e44d2b072a240ac3feea142297f96228f6d67cb4",
+    "name": "greta_ardennes",
+    "title": "Greta - Ardennes",
+    "url": "https://lannuaire.service-public.fr/grand-est/ardennes/greta-08105-01",
+    "metadata": {
+      "email": "direction@ardennes.greta.fr",
+      "telephone": "03 24 59 75 75",
+      "url": "http://moodgreta.eu/Site_GIP_FC/index.php/greta/greta-ardennes"
+    }
+  },
+  {
+    "id": "495df85ebf2afeffc990108c8ccb2d5cc9677168",
+    "name": "greta_arve_faucigny_siege_de_bonneville",
+    "title": "Greta - Arve Faucigny - Siège de Bonneville",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/haute-savoie/greta-74042-01",
+    "metadata": {
+      "email": "gretaaf@ac-grenoble.fr",
+      "telephone": "04 50 25 15 15",
+      "url": "http://www.arvefaucigny-greta.fr"
+    }
+  },
+  {
+    "id": "0bf5c89fdc7eafa543195dbe9ba5b72110f23cac",
+    "name": "greta_aude",
+    "title": "Greta - Aude",
+    "url": "https://lannuaire.service-public.fr/occitanie/aude/greta-11069-01",
+    "metadata": {
+      "email": "greta.carcas@orange.fr",
+      "telephone": "04 68 25 00 19",
+      "url": "http://www.gretalr.com"
+    }
+  },
+  {
+    "id": "0bf5c89fdc7eafa543195dbe9ba5b72110f23cac",
+    "name": "greta_aude",
+    "title": "Greta - Aude",
+    "url": "https://lannuaire.service-public.fr/occitanie/aude/greta-11262-01",
+    "metadata": {
+      "email": "greta-narbonne@ac-montpellier.fr",
+      "telephone": "04 68 32 84 09",
+      "url": "http://www.gretalr.com"
+    }
+  },
+  {
+    "id": "7eed727ca32ad27525634e1c45232805622c7481",
+    "name": "greta_aude_site_de_castelnaudary",
+    "title": "Greta - Aude - Site de Castelnaudary",
+    "url": "https://lannuaire.service-public.fr/occitanie/aude/greta-11076-01",
+    "metadata": {
+      "email": "castelnaudary@greta-aude.fr",
+      "telephone": "04 68 23 64 70",
+      "url": "http://www.greta-castelnaudary.com"
+    }
+  },
+  {
+    "id": "9313a2bcae6970c89edf44ada5738f3779af5481",
+    "name": "greta_bar_le_duc",
+    "title": "Greta - Bar-le-Duc",
+    "url": "https://lannuaire.service-public.fr/grand-est/meuse/greta-55029-01",
+    "metadata": {
+      "email": "greta-lorraine-ouest@ac-nancy-metz.fr",
+      "telephone": "03 29 76 24 76",
+      "url": "http://www.greta-lorraine.fr"
+    }
+  },
+  {
+    "id": "ed80c86c2f33f9605f77ce544f8aab92bf3113b9",
+    "name": "greta_bassin_dore_allier",
+    "title": "Greta - Bassin-Dore - Allier",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/allier/greta-03095-01",
+    "metadata": {
+      "email": "greta-doreallier@ac-clermont.fr",
+      "telephone": "04 70 31 44 55",
+      "url": "http://www.greta-doreallier.fr"
+    }
+  },
+  {
+    "id": "ecfaa5a4a8f5dd3bd35951cff12b3ff0855586c7",
+    "name": "greta_beaune",
+    "title": "Greta - Beaune",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/cote-d-or/greta-21054-01",
+    "metadata": {
+      "email": "agencecom@ac-dijon.fr",
+      "telephone": "03 80 24 83 24",
+      "url": "http://www.bourgogne.greta.fr"
+    }
+  },
+  {
+    "id": "4b14764906e50790a41128af59f28f95a0cf1726",
+    "name": "greta_berry",
+    "title": "Greta - Berry",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/indre/greta-36044-01",
+    "metadata": {
+      "email": "gretaberry@ac-orleans-tours.fr",
+      "telephone": "02 54 08 20 80",
+      "url": "http://www.greta36.fr"
+    }
+  },
+  {
+    "id": "4b14764906e50790a41128af59f28f95a0cf1726",
+    "name": "greta_berry",
+    "title": "Greta - Berry",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/cher/greta-18033-01",
+    "metadata": {
+      "email": "greta-cher@ac-orleans-tours.fr",
+      "telephone": "02 48 20 45 94",
+      "url": "http://www.greta-cher.fr"
+    }
+  },
+  {
+    "id": "6f77fdf49f22492686fff8ac23dc36454e5a7782",
+    "name": "greta_besancon",
+    "title": "Greta - Besançon",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/doubs/greta-25056-01",
+    "metadata": {
+      "email": "greta.besancon@ac-besancon.fr",
+      "telephone": "03 81 88 25 94",
+      "url": "http://www.greta-besancon.com"
+    }
+  },
+  {
+    "id": "a99c6374a068fc00527858a17230533a2d8bd180",
+    "name": "greta_bourbonnais_combraille",
+    "title": "Greta - Bourbonnais-Combraille",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/allier/greta-03185-01",
+    "metadata": {
+      "email": "greta.bc@ac-clermont.fr",
+      "telephone": "04 70 08 32 60",
+      "url": "http://www.greta.ac-clermont.fr"
+    }
+  },
+  {
+    "id": "c888817aaa767553849503a1473e56ad1f498cb6",
+    "name": "greta_bretagne_occidentale",
+    "title": "Greta - Bretagne-Occidentale",
+    "url": "https://lannuaire.service-public.fr/bretagne/finistere/greta-29232-01",
+    "metadata": {
+      "email": "greta.bretagneoccidentale@ac-rennes.fr",
+      "telephone": "02 98 90 15 18",
+      "url": "http://greta-bretagne.ac-rennes.fr/portail/web/greta-de-bretagne-occidentale/quimper"
+    }
+  },
+  {
+    "id": "8441f43498fd3997cb30381da38d432af436064f",
+    "name": "greta_bretagne_sud",
+    "title": "Greta - Bretagne Sud",
+    "url": "https://lannuaire.service-public.fr/bretagne/morbihan/greta-56121-01",
+    "metadata": {
+      "email": "greta.bretagnesud@ac-rennes.fr",
+      "telephone": "02 97 87 15 60",
+      "url": "http://www.greta-bretagne.ac-rennes.fr"
+    }
+  },
+  {
+    "id": "636185051cd2ec66e5a2d2133dab06e42e421b92",
+    "name": "greta_calvados",
+    "title": "Greta - Calvados",
+    "url": "https://lannuaire.service-public.fr/normandie/calvados/greta-14118-01",
+    "metadata": {
+      "email": "greta.calvados@ac-caen.fr",
+      "telephone": "02 31 70 30 70",
+      "url": "https://greta-academiedecaen.ac-caen.fr"
+    }
+  },
+  {
+    "id": "fc8578b5c61efd58512d239c9602e754d262e0bc",
+    "name": "greta_centre_alsace",
+    "title": "Greta - Centre-Alsace",
+    "url": "https://lannuaire.service-public.fr/grand-est/haut-rhin/greta-68066-01",
+    "metadata": {
+      "email": "greta@greta-colmar.fr",
+      "telephone": "03 89 22 92 22",
+      "url": "http://www.greta-colmar.fr"
+    }
+  },
+  {
+    "id": "9c0863dc7b0cfc109e7c0291117f7c4dd2fd2080",
+    "name": "greta_centre_est_guyane",
+    "title": "Greta - Centre-Est-Guyane",
+    "url": "https://lannuaire.service-public.fr/guyane/guyane/greta-97302-01",
+    "metadata": {
+      "email": "gretace@ac-guyane.fr",
+      "telephone": "+594 5 94 35 11 68",
+      "url": "https://greta.ins.ac-guyane.fr"
+    }
+  },
+  {
+    "id": "a67cb880bf5c9dc5cc2cc7f76d01834c0b67da35",
+    "name": "greta_chaumont_sud_champagne",
+    "title": "Greta - Chaumont - Sud-Champagne",
+    "url": "https://lannuaire.service-public.fr/grand-est/haute-marne/greta-52121-01",
+    "metadata": {
+      "email": "contact@gretasudchampagne.com",
+      "telephone": "03 25 32 24 82",
+      "url": "http://moodgreta.eu/Site_GIP_FC/index.php/greta/greta-sud-champagne/sud-champagne-accueil"
+    }
+  },
+  {
+    "id": "7a61233a7cb6bd1f11c5da46e457b94f9c4259a9",
+    "name": "greta_choletais",
+    "title": "Greta - Choletais",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/maine-et-loire/greta-49099-01",
+    "metadata": {
+      "email": "greta.cholet@ac-nantes.fr",
+      "telephone": "02 41 49 06 50",
+      "url": "http://www.greta-paysdelaloire.fr"
+    }
+  },
+  {
+    "id": "8eb542168f48d4fff5b41da5ecbc1a4d0b16d930",
+    "name": "greta_clermont_ferrand",
+    "title": "Greta - Clermont-Ferrand",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/puy-de-dome/greta-63113-01",
+    "metadata": {
+      "email": "greta-clermont-ferrand@ac-clermont.fr",
+      "telephone": "04 73 26 35 06",
+      "url": "http://www.greta-auvergne.com"
+    }
+  },
+  {
+    "id": "8a6d76e4d42c66b3fc99791b3e3a51b9dc99f822",
+    "name": "greta_corse_du_sud",
+    "title": "Greta - Corse-du-Sud",
+    "url": "https://lannuaire.service-public.fr/corse/corse-du-sud/greta-2A004-01",
+    "metadata": {
+      "email": "greta2a@ac-corse.fr",
+      "telephone": "04 95 29 68 78",
+      "url": "http://www.ac-corse.fr/greta"
+    }
+  },
+  {
+    "id": "b319d148b530895b6e734eb9bfe8dbf95a62d34d",
+    "name": "greta_cote_dazur",
+    "title": "Greta - Côte d'azur",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/alpes-maritimes/greta-06088-01",
+    "metadata": {
+      "email": "greta-cotedazur@ac-nice.fr",
+      "telephone": "04 92 29 40 80",
+      "url": "http://www.greta.ac-nice.fr"
+    }
+  },
+  {
+    "id": "310f65dd72cd2ae1594c4e751f775e29717b3dfc",
+    "name": "greta_cotes_d_armor",
+    "title": "Greta - Côtes-d'Armor",
+    "url": "https://lannuaire.service-public.fr/bretagne/cotes-d-armor/greta-22278-01",
+    "metadata": {
+      "email": "greta.cotesarmor@ac-rennes.fr",
+      "telephone": "02 96 61 48 54",
+      "url": "http://www.gretacotesarmor.fr"
+    }
+  },
+  {
+    "id": "d91784219993bd0d92d18119a28715807c9e9e48",
+    "name": "greta_creation_du_design_et_des_metiers_dart",
+    "title": "Greta - Création du design et des métiers d'art",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/paris/greta-75110-01",
+    "metadata": {
+      "email": "",
+      "telephone": "01 44 08 87 77",
+      "url": "http://www.cdma.greta.fr"
+    }
+  },
+  {
+    "id": "3cc29c65411a08c28812c123166bc9f8e70c29f6",
+    "name": "greta_deux_vallees",
+    "title": "Greta - Deux Vallées",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/nord/greta-59249-01",
+    "metadata": {
+      "email": "greta.2vallees@ac-lille.fr",
+      "telephone": "03 27 56 42 83",
+      "url": "http://www.greta-deuxvallees.fr"
+    }
+  },
+  {
+    "id": "f8789098da37288f6b194fb0dae4ab628b3e90fb",
+    "name": "greta_dracenie",
+    "title": "Greta - Dracénie",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/var/greta-83072-01",
+    "metadata": {
+      "email": "greta.dracenie-lorgues@ac-nice.fr",
+      "telephone": "04 94 60 33 40",
+      "url": "http://www.greta-dracenie.com"
+    }
+  },
+  {
+    "id": "2ef6caed97dfba6f77cd28634eabd8eeb22c8cca",
+    "name": "greta_egletons",
+    "title": "Greta - Égletons",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/correze/greta-19073-01",
+    "metadata": {
+      "email": "ce.gretadulimousin.egletons@ac-limoges.fr",
+      "telephone": "05 55 93 00 33",
+      "url": "http://greta-du-limousin.fr"
+    }
+  },
+  {
+    "id": "24760eadbe01e42f7dfb8465dd443e5f411d9ed5",
+    "name": "greta_d_elbeuf_vallee_de_la_seine",
+    "title": "Greta d'Elbeuf Vallée de la Seine",
+    "url": "https://lannuaire.service-public.fr/normandie/seine-maritime/greta-76231-01",
+    "metadata": {
+      "email": "contact.greta.elbeuf@ac-rouen.fr",
+      "telephone": "02 32 96 94 94",
+      "url": "http://greta.ac-rouen.fr/greta-elbeuf-vallee-de-seine"
+    }
+  },
+  {
+    "id": "37ed16042c2a8268b2fda4a63cd234df9b6eceb9",
+    "name": "greta_essonne",
+    "title": "Greta - Essonne",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/essonne/greta-91174-01",
+    "metadata": {
+      "email": "greta.essonne@ac-versailles.fr",
+      "telephone": "01 64 90 91 91",
+      "url": "http://www.greta-essonne.fr"
+    }
+  },
+  {
+    "id": "37ed16042c2a8268b2fda4a63cd234df9b6eceb9",
+    "name": "greta_essonne",
+    "title": "Greta - Essonne",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/essonne/greta-91377-01",
+    "metadata": {
+      "email": "accueil.massy@greta-essonne.fr",
+      "telephone": "01 64 90 91 91",
+      "url": "http://www.greta-essonne.fr"
+    }
+  },
+  {
+    "id": "1a82cb6fbd59db596ff2cdf0c2063a064c17c761",
+    "name": "greta_est_aquitaine",
+    "title": "Greta - Est-Aquitaine",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/dordogne/greta-24322-01",
+    "metadata": {
+      "email": "perigueux@greta-est-aquitaine.com",
+      "telephone": "05 53 02 17 69",
+      "url": "https://www.greta-aquitaine.frgreta-est-aquitaine"
+    }
+  },
+  {
+    "id": "1a82cb6fbd59db596ff2cdf0c2063a064c17c761",
+    "name": "greta_est_aquitaine",
+    "title": "Greta - Est-Aquitaine",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/lot-et-garonne/greta-47157-01",
+    "metadata": {
+      "email": "contact@greta-est-aquitaine.com",
+      "telephone": "05 53 76 02 54",
+      "url": "http://www.greta-aquitaine.com"
+    }
+  },
+  {
+    "id": "6d2c132c5fa8672ee1e345d0f4833cc1098796df",
+    "name": "greta_est_bretagne",
+    "title": "Greta - Est-Bretagne",
+    "url": "https://lannuaire.service-public.fr/bretagne/ille-et-vilaine/greta-35238-01",
+    "metadata": {
+      "email": "greta.accueil@ac-rennes.fr",
+      "telephone": "02 99 22 63 64",
+      "url": "http://www.greta-bretagne.ac-rennes.fr"
+    }
+  },
+  {
+    "id": "477e56c1c44ed8dbf7f89450da1eae39e5094362",
+    "name": "greta_eure",
+    "title": "Greta - Eure",
+    "url": "https://lannuaire.service-public.fr/normandie/eure/greta-27229-01",
+    "metadata": {
+      "email": "secretariat-general.greta.eure@ac-rouen.fr",
+      "telephone": "02 32 38 81 70",
+      "url": "http://greta.ac-rouen.fr"
+    }
+  },
+  {
+    "id": "7017b7031e1184aa1ccd13badaaa861e47047df3",
+    "name": "greta_eure_et_loir",
+    "title": "Greta - Eure-et-Loir",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/eure-et-loir/greta-28085-01",
+    "metadata": {
+      "email": "acceuil-greta28@ac-orleans-tours.fr",
+      "telephone": "02 37 18 78 35",
+      "url": "http://www.greta28.fr"
+    }
+  },
+  {
+    "id": "2c9075cb8fa16df8dcf70732460610869a005a89",
+    "name": "greta_formation_70",
+    "title": "Greta - Formation 70",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/haute-saone/greta-70550-01",
+    "metadata": {
+      "email": "greta.formation.70@ac-besancon.fr",
+      "telephone": "03 84 76 07 46",
+      "url": "http://www.greta.ac-besancon.fr"
+    }
+  },
+  {
+    "id": "e164d2a06d41714d37c954ac7387fbc9fb6d9e20",
+    "name": "greta_gard",
+    "title": "Greta - Gard",
+    "url": "https://lannuaire.service-public.fr/occitanie/gard/greta-30007-01",
+    "metadata": {
+      "email": "greta-nimes@ac-montpellier.fr",
+      "telephone": "04 66 04 24 50",
+      "url": "http://www.greta-gard.com"
+    }
+  },
+  {
+    "id": "e164d2a06d41714d37c954ac7387fbc9fb6d9e20",
+    "name": "greta_gard",
+    "title": "Greta - Gard",
+    "url": "https://lannuaire.service-public.fr/occitanie/gard/greta-30028-01",
+    "metadata": {
+      "email": "greta-bagnols@ac-montpellier.fr",
+      "telephone": "04 66 04 24 50",
+      "url": "http://www.gretalr.com"
+    }
+  },
+  {
+    "id": "d6b469dcbd82029e8bfa756397e28ea2aa5f4abb",
+    "name": "greta_gpi_2_d",
+    "title": "Greta - GPI2D",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/paris/greta-75115-01",
+    "metadata": {
+      "email": "contact@gpi2d.greta.fr",
+      "telephone": "01 40 64 13 80",
+      "url": "http://www.gpi2d.greta.fr"
+    }
+  },
+  {
+    "id": "94acd41b64331f67ef1ac34daaf3e7b229130827",
+    "name": "greta_grand_amienois",
+    "title": "Greta - Grand-Amiénois",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/somme/greta-80021-01",
+    "metadata": {
+      "email": "greta.ga@ac-amiens.fr",
+      "telephone": "03 22 33 23 90",
+      "url": "http://www.gretaamiens.com"
+    }
+  },
+  {
+    "id": "72cde1701dde85f445da686f5681672d5312194a",
+    "name": "greta_grand_artois",
+    "title": "Greta - Grand-Artois",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/pas-de-calais/greta-62041-01",
+    "metadata": {
+      "email": "greta.grand-artois@ac-lille.fr",
+      "telephone": "03 59 61 20 01",
+      "url": "http://www.greta-npdc.fr"
+    }
+  },
+  {
+    "id": "f5fec6531548ef51a65f44af9b354ee49cbb5558",
+    "name": "greta_grande_terre",
+    "title": "Greta - Grande-Terre",
+    "url": "https://lannuaire.service-public.fr/guadeloupe/guadeloupe/greta-97101-01",
+    "metadata": {
+      "email": "contact@gretagrandeterre.fr",
+      "telephone": "+590 5 90 83 43 28",
+      "url": "https://www.gretagrandeterre.fr/#Accueil.A"
+    }
+  },
+  {
+    "id": "a913436b63c725fa1939b0b275c037ed5d0a5694",
+    "name": "greta_grand_hainaut",
+    "title": "Greta - Grand-Hainaut",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/nord/greta-59178-01",
+    "metadata": {
+      "email": "greta.grand-hainaut@ac-lille.fr",
+      "telephone": "09 77 40 18 70",
+      "url": "http://www.greta-npdc.fr"
+    }
+  },
+  {
+    "id": "93a24dc42ee6823e0c88383c39188d46fdd1cd37",
+    "name": "greta_grand_littoral",
+    "title": "Greta - Grand Littoral",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/pas-de-calais/greta-62525-01",
+    "metadata": {
+      "email": "escstomerggl@ac-lille.fr",
+      "telephone": "03 21 12 94 00",
+      "url": "http://www.greta-npdc.fr"
+    }
+  },
+  {
+    "id": "93a24dc42ee6823e0c88383c39188d46fdd1cd37",
+    "name": "greta_grand_littoral",
+    "title": "Greta - Grand Littoral",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/nord/greta-59183-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 28 58 77 27",
+      "url": "http://www.greta-npdc.fr"
+    }
+  },
+  {
+    "id": "761e814898b390596e2731ada3e6138a02225384",
+    "name": "greta_grand_littoral",
+    "title": "Greta - Grand-Littoral",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/pas-de-calais/greta-62193-01",
+    "metadata": {
+      "email": "greta.grand-littoral@ac-lille.fr",
+      "telephone": "03 21 46 12 10",
+      "url": "http://www.greta-npdc.fr"
+    }
+  },
+  {
+    "id": "761e814898b390596e2731ada3e6138a02225384",
+    "name": "greta_grand_littoral",
+    "title": "Greta - Grand-Littoral",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/nord/greta-59017-01",
+    "metadata": {
+      "email": "greta.flandre-lys@ac-lille.fr",
+      "telephone": "03 20 44 04 89",
+      "url": "http://www.greta-npdc.fr"
+    }
+  },
+  {
+    "id": "b04b4e5d6981bbb45a895375b310bd9f31f2e0f4",
+    "name": "greta_grenoble",
+    "title": "Greta - Grenoble",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/isere/greta-38185-01",
+    "metadata": {
+      "email": "gretadegrenoble@ac-grenoble.fr",
+      "telephone": "04 76 33 27 40",
+      "url": "http://www.greta-grenoble.com"
+    }
+  },
+  {
+    "id": "9968df184ea30ea92321c07cfc6778a228d28aea",
+    "name": "greta_haut_doubs",
+    "title": "Greta - Haut-Doubs",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/doubs/greta-25462-01",
+    "metadata": {
+      "email": "gretahd.pontarlier@ac-besancon.fr",
+      "telephone": "03 81 39 35 31",
+      "url": "http://www.greta.ac-besancon.fr"
+    }
+  },
+  {
+    "id": "1cac0db238690e761294bfa9a0843214f08cbe9f",
+    "name": "greta_haute_corse",
+    "title": "Greta - Haute-Corse",
+    "url": "https://lannuaire.service-public.fr/corse/haute-corse/greta-2B033-01",
+    "metadata": {
+      "email": "greta2b@ac-corse.fr",
+      "telephone": "04 95 54 53 30",
+      "url": "http://www.ac-corse.fr"
+    }
+  },
+  {
+    "id": "594f35ce7ebfaedbea28f3a75867ef472599f1e2",
+    "name": "greta_hauts_de_seine",
+    "title": "Greta - Hauts-de-Seine",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/hauts-de-seine/greta-92024-01",
+    "metadata": {
+      "email": "contact@greta-92.fr",
+      "telephone": "01 46 99 92 92",
+      "url": "http://www.greta-92.fr"
+    }
+  },
+  {
+    "id": "142ca645e3904629f185564ad34cacbe6872935d",
+    "name": "greta_herault_ouest",
+    "title": "Greta - Hérault - Ouest",
+    "url": "https://lannuaire.service-public.fr/occitanie/herault/greta-34028-01",
+    "metadata": {
+      "email": "greta-bedarieux@ac-montpellier.fr",
+      "telephone": "04 67 95 16 46",
+      "url": "https://gretamediterranee.fr"
+    }
+  },
+  {
+    "id": "142ca645e3904629f185564ad34cacbe6872935d",
+    "name": "greta_herault_ouest",
+    "title": "Greta - Hérault - Ouest",
+    "url": "https://lannuaire.service-public.fr/occitanie/herault/greta-34032-01",
+    "metadata": {
+      "email": "greta-beziers@ac-montpellier.fr",
+      "telephone": "04 67 30 43 00",
+      "url": "https://gretamediterranee.fr"
+    }
+  },
+  {
+    "id": "e49e12d954c33b423e9b85daa2132191c7b645d5",
+    "name": "greta_herault_ouest_site_de_clermont_l_herault",
+    "title": "Greta - Hérault - Ouest - Site de Clermont-l'Hérault",
+    "url": "https://lannuaire.service-public.fr/occitanie/herault/greta-34079-01",
+    "metadata": {
+      "email": "greta-salagou@ac-montpellier.fr",
+      "telephone": "04 67 88 43 88",
+      "url": "http://www.gretamediterranee.fr"
+    }
+  },
+  {
+    "id": "dda59670e92e3f32068ce4dd8334e641505fcab0",
+    "name": "greta_interprovincial_de_nouvelle_caledonie",
+    "title": "Greta interprovincial de Nouvelle-Calédonie",
+    "url": "https://lannuaire.service-public.fr/collectivites-d-outre-mer/nouvelle-caledonie/greta-98818-01",
+    "metadata": {
+      "email": "greta.noumea@ac-noumea.nc",
+      "telephone": "(687) 41 50 39",
+      "url": "http://www.greta.nc"
+    }
+  },
+  {
+    "id": "f795ebfe6fbede1becf676e1a5ceb21db61bc574",
+    "name": "greta_jura_siege_de_lons_le_saunier",
+    "title": "Greta - Jura - Siège de Lons-le-Saunier",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/jura/greta-39300-01",
+    "metadata": {
+      "email": "greta.jura@ac-besancon.fr",
+      "telephone": "03 84 86 90 00",
+      "url": "http://www.greta.ac-besancon.fr"
+    }
+  },
+  {
+    "id": "399631fb4b68647b36056df8c66f57880e845d43",
+    "name": "greta_jura_site_de_lons",
+    "title": "Greta - Jura Site de Lons",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/jura/greta-39198-01",
+    "metadata": {
+      "email": "greta.jura@ac-besancon.fr",
+      "telephone": "03 84 86 90 00",
+      "url": "http://www.greta.ac-besancon.fr"
+    }
+  },
+  {
+    "id": "123293ad0e2956462a05b363f2a98ea881a08646",
+    "alternateName": "Leman-Annecy-Chablais",
+    "name": "greta_lac_leman_annecy_chablais",
+    "title": "Greta - Lac (Leman-Annecy-Chablais)",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/haute-savoie/greta-74012-01",
+    "metadata": {
+      "email": "greta.lac@ac-grenoble.fr",
+      "telephone": "04 50 43 91 81",
+      "url": "http://www.greta-lac.com"
+    }
+  },
+  {
+    "id": "e84b73dad4244c673c80d60629619dfd21316225",
+    "name": "greta_de_laon",
+    "title": "Greta de Laon",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/aisne/greta-02408-01",
+    "metadata": {
+      "email": "greta.glt@ac-amiens.fr",
+      "telephone": "03 23 20 45 84",
+      "url": "http://www.greta.ac-amiens.fr"
+    }
+  },
+  {
+    "id": "f7bcf62c69e0f55efc9c8b1dabc6f2749e1220a9",
+    "name": "greta_la_reunion",
+    "title": "Greta - La Réunion",
+    "url": "https://lannuaire.service-public.fr/la-reunion/reunion/greta-97411-02",
+    "metadata": {
+      "email": "greta.reunion@ac-reunion.fr",
+      "telephone": "+262 2 62 92 26 00",
+      "url": "http://www.ftlvreunion.fr"
+    }
+  },
+  {
+    "id": "04f23105572dca10423d664f8f45a957e42b0d15",
+    "name": "greta_la_rochelle",
+    "title": "Greta - La Rochelle",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/charente-maritime/greta-17300-01",
+    "metadata": {
+      "email": "greta.agence-larochelle@ac-poitiers.fr",
+      "telephone": "05 46 50 51 79",
+      "url": "http://www.greta-poitou-charentes.fr"
+    }
+  },
+  {
+    "id": "7d3a1b30b7318a3c1118beae53599821b42791dd",
+    "name": "greta_le_boulou",
+    "title": "Greta - Le Boulou",
+    "url": "https://lannuaire.service-public.fr/occitanie/pyrenees-orientales/greta-66024-01",
+    "metadata": {
+      "email": "greta-ceret@ac-montpellier.fr",
+      "telephone": "04 68 39 00 14",
+      "url": "http://www.gretalr.com"
+    }
+  },
+  {
+    "id": "08bb48e0e5840dba7634d2ccd6461a83defb120f",
+    "name": "greta_lille_metropole",
+    "title": "Greta - Lille-Métropole",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/nord/greta-59350-01",
+    "metadata": {
+      "email": "greta.lille-metropole@ac-lille.fr",
+      "telephone": "03 20 74 67 10",
+      "url": "http://www.greta-lillemetropole.fr"
+    }
+  },
+  {
+    "id": "a985a2e7637cdd58b9f991f4271e4b71bdb2468d",
+    "name": "greta_limousin",
+    "title": "Greta - Limousin",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/haute-vienne/greta-87085-01",
+    "metadata": {
+      "email": "ce.gretadulimousin@ac-limoges.fr",
+      "telephone": "05 55 12 31 31",
+      "url": "http://www.greta-du-limousin.fr"
+    }
+  },
+  {
+    "id": "af887dbdfb88120fc3959d54e0af54e253684ed3",
+    "name": "greta_limousin_agence_de_gueret",
+    "title": "Greta - Limousin - Agence de Guéret",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/creuse/greta-23096-01",
+    "metadata": {
+      "email": "ce.gretadulimousin.gueret@ac-limoges.fr",
+      "telephone": "05 55 51 34 80",
+      "url": "http://www.ac-limoges.fr"
+    }
+  },
+  {
+    "id": "67d13a0964b580082b2868e79a9157c621b51aa5",
+    "name": "greta_limousin_agence_territoriale_de_brive",
+    "title": "Greta - Limousin - Agence territoriale de Brive",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/correze/greta-19031-01",
+    "metadata": {
+      "email": "ce.gretadulimousin.brive@ac-limoges.fr",
+      "telephone": "05 55 88 25 76",
+      "url": "http://www.ac-limoges.fr"
+    }
+  },
+  {
+    "id": "8cb25d0e004fb00d5d134f9faad00ce6629a0b5f",
+    "name": "greta_livradois_forez",
+    "title": "Greta - Livradois-Forez",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/puy-de-dome/greta-63003-01",
+    "metadata": {
+      "email": "greta.livradois@ac-clermont.fr",
+      "telephone": "04 73 82 31 71",
+      "url": "http://www.greta-auvergne.com"
+    }
+  },
+  {
+    "id": "ff30af8d898d95745b2e12fa11be08604b0fff22",
+    "name": "greta_loire",
+    "title": "Greta - Loire",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/loire/greta-42218-01",
+    "metadata": {
+      "email": "greta.loire@ac-lyon.fr",
+      "telephone": "04 77 32 48 02",
+      "url": "https://www1.ac-lyon.fr/greta/loire"
+    }
+  },
+  {
+    "id": "82d12d92f374e44715bd71b1637163a00814c26e",
+    "name": "greta_loire_antenne_de_roanne",
+    "title": "Greta - Loire - Antenne de Roanne",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/loire/greta-42187-01",
+    "metadata": {
+      "email": "greta-roannais@ac-lyon.fr",
+      "telephone": "04 77 32 48 02",
+      "url": "https://www1.ac-lyon.fr/greta/loire"
+    }
+  },
+  {
+    "id": "233d0401b59e4b40fe00b40b7ff1d546af698397",
+    "name": "greta_loire_atlantique",
+    "title": "Greta - Loire-Atlantique",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/loire-atlantique/greta-44109-01",
+    "metadata": {
+      "email": "greta.loire-atlantique@ac-nantes.fr",
+      "telephone": "02 40 14 56 56",
+      "url": "http://www.greta-paysdelaloire.fr"
+    }
+  },
+  {
+    "id": "233d0401b59e4b40fe00b40b7ff1d546af698397",
+    "name": "greta_loire_atlantique",
+    "title": "Greta - Loire-Atlantique",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/loire-atlantique/greta-44109-02",
+    "metadata": {
+      "email": "greta.loire-atlantique@ac-nantes.fr",
+      "telephone": "02 40 14 56 56",
+      "url": "http://www.gretapaysdelaloire.fr"
+    }
+  },
+  {
+    "id": "233d0401b59e4b40fe00b40b7ff1d546af698397",
+    "name": "greta_loire_atlantique",
+    "title": "Greta - Loire-Atlantique",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/loire-atlantique/greta-44162-01",
+    "metadata": {
+      "email": "greta.loire-atlantique@ac-nantes.fr",
+      "telephone": "02 40 92 99 99",
+      "url": "http://www.greta-paysdelaloire.fr"
+    }
+  },
+  {
+    "id": "233d0401b59e4b40fe00b40b7ff1d546af698397",
+    "name": "greta_loire_atlantique",
+    "title": "Greta - Loire-Atlantique",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/loire-atlantique/greta-44184-01",
+    "metadata": {
+      "email": "greta.loire-atlantique@ac-nantes.fr",
+      "telephone": "02 40 70 02 50",
+      "url": "http://www.greta-paysdelaloire.fr"
+    }
+  },
+  {
+    "id": "c01707028207096143cbacb827dbfcdcff81db1e",
+    "name": "greta_loiret",
+    "title": "Greta - Loiret",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/loiret/greta-45234-01",
+    "metadata": {
+      "email": "gretaloiret@ac-orleans-tours.fr",
+      "telephone": "02 38 49 12 12",
+      "url": "http://www.greta45.fr"
+    }
+  },
+  {
+    "id": "8a52f2fadfc1f63060dcafdb2c9e43c6f8348cea",
+    "name": "greta_lorraine_centre_nancy",
+    "title": "Greta - Lorraine Centre - Nancy",
+    "url": "https://lannuaire.service-public.fr/grand-est/meurthe-et-moselle/greta-54395-01",
+    "metadata": {
+      "email": "greta-lorraine-centre@ac-nancy-metz.fr",
+      "telephone": "03 83 30 87 00",
+      "url": "http://www.greta-lorraine-centre.fr"
+    }
+  },
+  {
+    "id": "03bc189683f50e9f7fddc8aab8c5cdf4c0f93333",
+    "name": "greta_lorraine_est",
+    "title": "Greta - Lorraine Est",
+    "url": "https://lannuaire.service-public.fr/grand-est/moselle/greta-57631-01",
+    "metadata": {
+      "email": "greta-lorraine-est@ac-nancy-metz.fr",
+      "telephone": "03 87 98 96 00",
+      "url": "https://www.greta-lorraine-est.fr"
+    }
+  },
+  {
+    "id": "48eff03a321766309644d39d29f096fcd0fc448d",
+    "name": "greta_lorraine_nord",
+    "title": "Greta - Lorraine-Nord",
+    "url": "https://lannuaire.service-public.fr/grand-est/moselle/greta-57463-01",
+    "metadata": {
+      "email": "greta-lorraine-nord@ac-nancy-metz.fr",
+      "telephone": "03 87 76 40 31",
+      "url": "http://www.greta-lorraine.fr"
+    }
+  },
+  {
+    "id": "ba0329a2bdbfc6c7f7989a81f20c179faa9b6c71",
+    "name": "greta_lorraine_sud",
+    "title": "Greta - Lorraine - Sud",
+    "url": "https://lannuaire.service-public.fr/grand-est/vosges/greta-88160-01",
+    "metadata": {
+      "email": "greta.lorraine.sud@ac-nancy-metz.fr",
+      "telephone": "03 29 69 51 00",
+      "url": "http://www.ac-nancy-metz.fr"
+    }
+  },
+  {
+    "id": "bf8bfbc2ae21803d608dcb89da93696371155e17",
+    "name": "greta_lozere",
+    "title": "Greta - Lozère",
+    "url": "https://lannuaire.service-public.fr/occitanie/lozere/greta-48095-01",
+    "metadata": {
+      "email": "greta-lozere@ac-montpellier.fr",
+      "telephone": "04 66 65 25 24",
+      "url": "https://gretamediterranee.fr"
+    }
+  },
+  {
+    "id": "ef74ad950405495089b2fdb237ff9aa1d718e207",
+    "name": "greta_lyon_metropole",
+    "title": "Greta - Lyon Métropole",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/rhone/greta-69388-01",
+    "metadata": {
+      "email": "contact.greta.lyonmetropole@ac-lyon.fr",
+      "telephone": "04 78 78 84 84",
+      "url": "https://www1.ac-lyon.frgreta/lyon-metropole"
+    }
+  },
+  {
+    "id": "d488ea7384274503320c99930f5e5a3ae171e123",
+    "name": "greta_maine",
+    "title": "Greta - Maine",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/sarthe/greta-72132-01",
+    "metadata": {
+      "email": "greta.maine@ac-nantes.fr",
+      "telephone": "02 43 93 12 53",
+      "url": "http://www.greta-paysdelaloire.fr"
+    }
+  },
+  {
+    "id": "d488ea7384274503320c99930f5e5a3ae171e123",
+    "name": "greta_maine",
+    "title": "Greta - Maine",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/mayenne/greta-53130-01",
+    "metadata": {
+      "email": "greta.maine@ac-nantes.fr",
+      "telephone": "02 43 66 87 23",
+      "url": "http://www.greta-paysdelaloire.fr"
+    }
+  },
+  {
+    "id": "bb43976f0cdae5db39a3082f04758bfc28d36105",
+    "name": "greta_maine_antenne_du_mans",
+    "title": "Greta - Maine - Antenne du Mans",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/sarthe/greta-72181-02",
+    "metadata": {
+      "email": "greta.maine@ac-nantes.fr",
+      "telephone": "02 43 84 04 50",
+      "url": "http://www.greta-paysdelaloire.fr"
+    }
+  },
+  {
+    "id": "9270298c2e59467479c633323b156f2d9f0b5800",
+    "name": "greta_manche",
+    "title": "Greta - Manche",
+    "url": "https://lannuaire.service-public.fr/normandie/manche/greta-50129-01",
+    "metadata": {
+      "email": "greta.cherbourg@ac-caen.fr",
+      "telephone": "02 33 88 60 40",
+      "url": "https://greta-academiedecaen.ac-caen.fr"
+    }
+  },
+  {
+    "id": "9270298c2e59467479c633323b156f2d9f0b5800",
+    "name": "greta_manche",
+    "title": "Greta - Manche",
+    "url": "https://lannuaire.service-public.fr/normandie/manche/greta-50502-01",
+    "metadata": {
+      "email": "greta.manche@ac-caen.fr",
+      "telephone": "02 33 05 62 39",
+      "url": "http://www.greta-manche-formation.fr"
+    }
+  },
+  {
+    "id": "b1cf1f3c27ebcbc3155389c79ffa9be78109f9f5",
+    "name": "greta_marne",
+    "title": "Greta - Marne",
+    "url": "https://lannuaire.service-public.fr/grand-est/marne/greta-51454-01",
+    "metadata": {
+      "email": "contact@gretamarne.com",
+      "telephone": "03 26 84 55 40",
+      "url": "http://www.gretamarne.com"
+    }
+  },
+  {
+    "id": "91b121fff83a04d813ad6cb5c19f4c987707ceda",
+    "name": "greta_marne_chalons_en_champagne",
+    "title": "Greta - Marne - Chalons-en-champagne",
+    "url": "https://lannuaire.service-public.fr/grand-est/marne/greta-51108-01",
+    "metadata": {
+      "email": "centre.chalons@gretamarne.com",
+      "telephone": "03 26 65 07 66",
+      "url": "http://www.gretamarne.com"
+    }
+  },
+  {
+    "id": "30c96032d95687755e2ac9a79e027db777ff2034",
+    "name": "greta_marseille_littoral",
+    "title": "Greta - Marseille Littoral",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/greta-13215-01",
+    "metadata": {
+      "email": "greta.marseille.littoral@ac-aix-marseille.fr",
+      "telephone": "04 91 09 69 25",
+      "url": "http://www.gretanet.com"
+    }
+  },
+  {
+    "id": "308807c24873f9186374c18d952b05fc8be03a8d",
+    "name": "greta_marseille_mediterranee",
+    "title": "Greta - Marseille-Méditerranée",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/greta-13210-01",
+    "metadata": {
+      "email": "gmm@ac-aix-marseille.fr",
+      "telephone": "04 91 96 35 30",
+      "url": "http://www.gretanet.com"
+    }
+  },
+  {
+    "id": "308807c24873f9186374c18d952b05fc8be03a8d",
+    "name": "greta_marseille_mediterranee",
+    "title": "Greta - Marseille-Méditerranée",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/greta-13213-01",
+    "metadata": {
+      "email": "gmm@ac-aix-marseille.fr",
+      "telephone": "04 91 96 35 30",
+      "url": "http://www.gretanet.com"
+    }
+  },
+  {
+    "id": "a9929c8806d17bc3ba7d9c12327ece97d3b3e696",
+    "name": "greta_martinique",
+    "title": "Greta - Martinique",
+    "url": "https://lannuaire.service-public.fr/martinique/martinique/greta-97213-01",
+    "metadata": {
+      "email": "contact@greta-centre.com",
+      "telephone": "+596 5 96 50 45 75",
+      "url": "http://gretamartinique.fr"
+    }
+  },
+  {
+    "id": "cc1b830be20b106d1bbb4b8c95d5116d51490551",
+    "name": "greta_mayotte",
+    "title": "Greta Mayotte",
+    "url": "https://lannuaire.service-public.fr/mayotte/mayotte/greta-97611-01",
+    "metadata": {
+      "email": "greta@ac-mayotte.fr",
+      "telephone": "+269 2 69 61 08 03",
+      "url": "https://greta.ac-mayotte.fr/"
+    }
+  },
+  {
+    "id": "6a1fc6dd0731d84dbb450d07e1c3b80d83a6a555",
+    "name": "greta_metehor",
+    "title": "Greta - Metehor",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/paris/greta-75117-01",
+    "metadata": {
+      "email": "info@gretametehor.com",
+      "telephone": "01 44 85 85 40",
+      "url": "http://www.gretametehor.com"
+    }
+  },
+  {
+    "id": "cada6980cef5948a62e84a9b025f7a0b499b59c2",
+    "name": "greta_metiers_et_des_techniques_economiques_94",
+    "title": "Greta - Métiers et des techniques économiques 94",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/val-de-marne/greta-94017-01",
+    "metadata": {
+      "email": "gmte94@gmte94.org",
+      "telephone": "01 45 16 19 19",
+      "url": "http://www.forpro-creteil.org"
+    }
+  },
+  {
+    "id": "fb8b951b0e74da200ef63c5ef8e6636a92e74aca",
+    "name": "greta_metiers_et_techniques_industrielles",
+    "title": "Greta - Métiers et techniques industrielles",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/seine-et-marne/greta-77288-01",
+    "metadata": {
+      "email": "greta.mti77.melunhugo@forpro-creteil.org",
+      "telephone": "01 64 10 29 50",
+      "url": "http://www.forpro-creteil.org/formation/greta/gmti77"
+    }
+  },
+  {
+    "id": "fb8b951b0e74da200ef63c5ef8e6636a92e74aca",
+    "name": "greta_metiers_et_techniques_industrielles",
+    "title": "Greta - Métiers et techniques industrielles",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/val-de-marne/greta-94071-01",
+    "metadata": {
+      "email": "gmti94.sucy@forpro-creteil.org",
+      "telephone": "01 56 74 14 60",
+      "url": "http://www.forpro-creteil.org"
+    }
+  },
+  {
+    "id": "fb8b951b0e74da200ef63c5ef8e6636a92e74aca",
+    "name": "greta_metiers_et_techniques_industrielles",
+    "title": "Greta - Métiers et techniques industrielles",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/seine-saint-denis/greta-93001-01",
+    "metadata": {
+      "email": "gmti93@forpro-creteil.org",
+      "telephone": "01 49 37 92 55",
+      "url": "http://www.greta-mti93-formation.fr"
+    }
+  },
+  {
+    "id": "fe6276481eaa596bf3150ac6a9dcf56cfc119bd2",
+    "name": "greta_metiers_et_techniques_industrielles_77",
+    "title": "Greta - Métiers et techniques industrielles-77",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/seine-et-marne/greta-77284-01",
+    "metadata": {
+      "email": "gmti77@forpro-creteil.org",
+      "telephone": "01 60 23 44 77",
+      "url": "http://www.gmti77.greta-formation.fr"
+    }
+  },
+  {
+    "id": "80988bb06a3c7e584a6b2852f40332113a7457e8",
+    "name": "greta_metiers_de_la_sante_et_du_social",
+    "title": "Greta - Métiers de la santé et du social",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/paris/greta-75114-01",
+    "metadata": {
+      "email": "contact-cpen@greta-m2s.fr",
+      "telephone": "01 48 51 19 40",
+      "url": "http://www.greta-m2s.fr"
+    }
+  },
+  {
+    "id": "80988bb06a3c7e584a6b2852f40332113a7457e8",
+    "name": "greta_metiers_de_la_sante_et_du_social",
+    "title": "Greta - Métiers de la santé et du social",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/paris/greta-75118-02",
+    "metadata": {
+      "email": "contact-rabelais@greta-m2s.fr",
+      "telephone": "01 44 92 33 00",
+      "url": "http://www.greta-m2s.fr"
+    }
+  },
+  {
+    "id": "a7af5735e414dc371efd87008c910a096213c2e9",
+    "name": "greta_metiers_techniques_economiques",
+    "title": "Greta - Métiers techniques économiques",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/seine-saint-denis/greta-93050-01",
+    "metadata": {
+      "email": "gmte93@ac-creteil.fr",
+      "telephone": "01 49 44 42 70",
+      "url": "http://www.forpro-creteil.org"
+    }
+  },
+  {
+    "id": "9c86f0daae5f2b2344636225d7a0decbe026bcf3",
+    "name": "greta_metiers_techniques_et_economiques",
+    "title": "Greta - Métiers techniques et économiques",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/seine-et-marne/greta-77337-01",
+    "metadata": {
+      "email": "",
+      "telephone": "01 60 05 14 46",
+      "url": "http://www.gmte77.greta-formation.fr"
+    }
+  },
+  {
+    "id": "53f4319c827ae27932250bbc7f57fd927bea7a77",
+    "name": "greta_midi_pyrenees_centre",
+    "title": "Greta - Midi-Pyrénées Centre",
+    "url": "https://lannuaire.service-public.fr/occitanie/haute-garonne/greta-31555-03",
+    "metadata": {
+      "email": "accueil.toulouse@mongreta.fr",
+      "telephone": "05 61 77 26 77",
+      "url": "http://maforpro.ac-toulouse.fr"
+    }
+  },
+  {
+    "id": "00bbf1f6d71750a6131bd32f377d3f728cccc688",
+    "name": "greta_midi_pyrenees_centre",
+    "title": "Greta - Midi-Pyrénées - Centre",
+    "url": "https://lannuaire.service-public.fr/occitanie/haute-garonne/greta-31555-02",
+    "metadata": {
+      "email": "accueil.toulouse@mongreta.fr",
+      "telephone": "05 61 77 26 77",
+      "url": "http://maforpro.ac-toulouse.fr"
+    }
+  },
+  {
+    "id": "16f48d195fb9f077f5ee7d9952521125e2a1af95",
+    "name": "greta_midi_pyrenees_nord",
+    "title": "Greta - Midi-pyrénées - Nord",
+    "url": "https://lannuaire.service-public.fr/occitanie/aveyron/greta-12202-01",
+    "metadata": {
+      "email": "greta-mpnord@ac-toulouse.fr",
+      "telephone": "05 65 67 17 92",
+      "url": "http://www.greta-mpyn.fr"
+    }
+  },
+  {
+    "id": "06f1f9762cd13c3be160cc4f51cc2ac426ca5ac1",
+    "name": "greta_midi_pyrenees_nord",
+    "title": "Greta - Midi-Pyrénées - Nord",
+    "url": "https://lannuaire.service-public.fr/occitanie/lot/greta-46042-01",
+    "metadata": {
+      "email": "gmpn-cahors@ac-toulouse.fr",
+      "telephone": "05 65 35 43 91",
+      "url": "http://www.greta-mpyn.fr"
+    }
+  },
+  {
+    "id": "06f1f9762cd13c3be160cc4f51cc2ac426ca5ac1",
+    "name": "greta_midi_pyrenees_nord",
+    "title": "Greta - Midi-Pyrénées - Nord",
+    "url": "https://lannuaire.service-public.fr/occitanie/tarn/greta-81004-01",
+    "metadata": {
+      "email": "gmpn-albi@ac-toulouse.fr",
+      "telephone": "05 63 48 13 70",
+      "url": "http://maforpro.ac-toulouse.fr"
+    }
+  },
+  {
+    "id": "38af01c7d8adf35015ee6f457e1121ce7c1a78a2",
+    "name": "greta_midi_pyrenees_nord_agence_de_millau",
+    "title": "Greta - Midi-Pyrénées - Nord - Agence de Millau",
+    "url": "https://lannuaire.service-public.fr/occitanie/aveyron/greta-12145-01",
+    "metadata": {
+      "email": "accueil-millau@mongreta.fr",
+      "telephone": "05 65 61 46 00",
+      "url": "http://www.greta-mpyn.fr"
+    }
+  },
+  {
+    "id": "7bb62167cdf0147a805fda134f3ecb4586c3d597",
+    "name": "greta_midi_pyrenees_ouest",
+    "title": "Greta - Midi-Pyrénées - Ouest",
+    "url": "https://lannuaire.service-public.fr/occitanie/tarn-et-garonne/greta-82121-01",
+    "metadata": {
+      "email": "agence.montauban@mongreta.fr",
+      "telephone": "05 63 91 64 50",
+      "url": "http://maforpro.ac-toulouse.fr"
+    }
+  },
+  {
+    "id": "dd38dc5c390ef4434ca410aeecf00d6b362021ff",
+    "name": "greta_midi_pyrenees_ouest",
+    "title": "Greta - Midi-Pyrénées-Ouest",
+    "url": "https://lannuaire.service-public.fr/occitanie/gers/greta-32013-01",
+    "metadata": {
+      "email": "greta.mpouest@mongreta.fr",
+      "telephone": "05 42 54 00 00",
+      "url": "http://maforpro.ac-toulouse.fr"
+    }
+  },
+  {
+    "id": "934696d79e766582a3877c8f9c900c43eb9340e7",
+    "name": "greta_midi_pyrenees_sud",
+    "title": "Greta - Midi-Pyrénées - Sud",
+    "url": "https://lannuaire.service-public.fr/occitanie/ariege/greta-09122-01",
+    "metadata": {
+      "email": "agence.foix@mongreta.fr",
+      "telephone": "05 61 02 89 89",
+      "url": "http://maforpro.ac-toulouse.fr"
+    }
+  },
+  {
+    "id": "0d9ac30d04225a10e8d09b567acfb807378b5beb",
+    "name": "greta_midi_pyrenees_sud",
+    "title": "Greta - Midi-Pyrénées-Sud",
+    "url": "https://lannuaire.service-public.fr/occitanie/haute-garonne/greta-31483-01",
+    "metadata": {
+      "email": "agence.saint-gaudens@mongreta.fr",
+      "telephone": "05 62 00 95 70",
+      "url": "http://www.reseau-greta.ac-toulouse.fr"
+    }
+  },
+  {
+    "id": "0d9ac30d04225a10e8d09b567acfb807378b5beb",
+    "name": "greta_midi_pyrenees_sud",
+    "title": "Greta - Midi-Pyrénées-Sud",
+    "url": "https://lannuaire.service-public.fr/occitanie/hautes-pyrenees/greta-65440-01",
+    "metadata": {
+      "email": "agence.tarbes@mongreta.fr",
+      "telephone": "05 62 53 14 14",
+      "url": "http://maforpro.ac-toulouse.fr"
+    }
+  },
+  {
+    "id": "0181dfc2db05c7811db5d56126b9b006d3b0345f",
+    "name": "greta_de_montbard",
+    "title": "Greta de Montbard",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/cote-d-or/greta-21425-01",
+    "metadata": {
+      "email": "agencecom.greta21@ac-dijon.fr",
+      "telephone": "03 80 89 90 30",
+      "url": "http://www.bourgogne.greta.ac-dijon.fr"
+    }
+  },
+  {
+    "id": "19cab54766bfc7401dd25ede2ff1ee932a3d4aab",
+    "name": "greta_montpellier_littoral",
+    "title": "Greta - Montpellier Littoral",
+    "url": "https://lannuaire.service-public.fr/occitanie/herault/greta-34172-02",
+    "metadata": {
+      "email": "greta-montpellier@ac-montpellier.fr",
+      "telephone": "04 67 20 36 00",
+      "url": "http://www.gretalr.com"
+    }
+  },
+  {
+    "id": "7754fee5d7a8cdf850f265155a8a57033a69c143",
+    "name": "greta_montpellier_littoral_site_de_sete",
+    "title": "Greta - Montpellier Littoral - Site de Sète",
+    "url": "https://lannuaire.service-public.fr/occitanie/herault/greta-34301-01",
+    "metadata": {
+      "email": "greta-sete@ac-montpellier.fr",
+      "telephone": "04 67 51 24 25",
+      "url": "http://www.gretalr.com"
+    }
+  },
+  {
+    "id": "283970fe7879f66d8c1455fbc695061883e11b22",
+    "name": "greta_monts_du_cantal",
+    "title": "Greta - Monts du Cantal",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/cantal/greta-15014-01",
+    "metadata": {
+      "email": "greta.monts-cantal@ac-clermont.fr",
+      "telephone": "04 71 45 49 50",
+      "url": "http://www.greta-auvergne.com"
+    }
+  },
+  {
+    "id": "6840f1e69f85bd5c2bb99d57b1009ec030472b82",
+    "name": "greta_nevers",
+    "title": "Greta - Nevers",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/nievre/greta-58194-01",
+    "metadata": {
+      "email": "ce.greta.nevers@ac-dijon.fr",
+      "telephone": "03 86 59 74 59",
+      "url": "http://www.bourgogne.greta.fr"
+    }
+  },
+  {
+    "id": "38103d2fb708db2e518d1bbe578ffcad4757ab2b",
+    "name": "greta_nimes",
+    "title": "Greta - Nîmes",
+    "url": "https://lannuaire.service-public.fr/occitanie/gard/greta-30189-01",
+    "metadata": {
+      "email": "greta-nimes@ac-montpellier.fr",
+      "telephone": "04 66 04 24 50",
+      "url": "http://www.gretamediterranee.fr"
+    }
+  },
+  {
+    "id": "9e659673079f5080aa4f41e9918dd09856e24394",
+    "name": "greta_noisy_le_grand",
+    "title": "Greta - Noisy-le-Grand",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/seine-saint-denis/greta-93051-01",
+    "metadata": {
+      "email": "gmpe93.noisylegrand@forpro-creteil.org",
+      "telephone": "01 43 05 14 14",
+      "url": "http://www.forpro-creteil.org"
+    }
+  },
+  {
+    "id": "21f3d0757e946daac40f42835eecc2dab1180a67",
+    "name": "greta_nord_allier",
+    "title": "Greta - Nord-Allier",
+    "url": "https://lannuaire.service-public.fr/occitanie/herault/greta-34172-01",
+    "metadata": {
+      "email": "greta-nord-allier@ac-clermont.fr",
+      "telephone": "04 70 46 99 00",
+      "url": "http://greta.ac-clermont.fr"
+    }
+  },
+  {
+    "id": "0d0c27ff45c70fdbc0545f37412d9c83cff4bd6e",
+    "name": "greta_nord_alsace",
+    "title": "Greta - Nord-Alsace",
+    "url": "https://lannuaire.service-public.fr/grand-est/bas-rhin/greta-67180-01",
+    "metadata": {
+      "email": "gna@greta-nord-alsace.com",
+      "telephone": "03 88 06 16 66",
+      "url": "https://www.greta-alsace.fr/structure/greta-nord-alsace"
+    }
+  },
+  {
+    "id": "223fa3a92d63345c77660d27ac6cc4c7d2bebc02",
+    "name": "greta_nord_aquitaine",
+    "title": "Greta - Nord-Aquitaine",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/gironde/greta-33063-01",
+    "metadata": {
+      "email": "contact@greta-nord-aquitaine.fr",
+      "telephone": "05 56 56 04 04",
+      "url": "http://www.greta-nord-aquitaine.fr"
+    }
+  },
+  {
+    "id": "99ab4ba4e58231dc6a9c9b51d5105dabfa7021f7",
+    "name": "greta_nord_franche_comte",
+    "title": "Greta - Nord-Franche-Comté",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/doubs/greta-25388-01",
+    "metadata": {
+      "email": "greta.nfc@ac-besancon.fr",
+      "telephone": "03 81 99 17 00",
+      "url": "http://www.greta.ac-besancon.fr"
+    }
+  },
+  {
+    "id": "d9cfc48881baddffdf2e137c3bc3d24b7dc2d5d5",
+    "name": "greta_nord_isere",
+    "title": "Greta - Nord-Isère",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/isere/greta-38053-01",
+    "metadata": {
+      "email": "gretanisere@ac-grenoble.fr",
+      "telephone": "04 74 28 04 86",
+      "url": "http://www.gretani.com"
+    }
+  },
+  {
+    "id": "20682ca94766c0374eb5d5672e4178d174e1d226",
+    "name": "greta_nouvelle_aquitaine",
+    "title": "Greta - Nouvelle-Aquitaine",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/deux-sevres/greta-79202-01",
+    "metadata": {
+      "email": "commercial.greta.agence-thouars@ac-poitiers.fr",
+      "telephone": "05 49  94 67 06",
+      "url": "http://www.greta-poitou-charentes.fr"
+    }
+  },
+  {
+    "id": "6c07b111a24091fba5fecf94778ad7445fce45b5",
+    "name": "greta_oise",
+    "title": "Greta - Oise",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/oise/greta-60057-02",
+    "metadata": {
+      "email": "greta.oise@ac-amiens.fr",
+      "telephone": "03 44 74 31 44",
+      "url": "https://greta-oise.fr"
+    }
+  },
+  {
+    "id": "a26f72f070a10742b53836570b4eb30eea433b03",
+    "name": "greta_oise_agence_territoriale_de_compiegne",
+    "title": "Greta - Oise - Agence territoriale de Compiègne",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/oise/greta-60159-01",
+    "metadata": {
+      "email": "greta.oise@ac-amiens.fr",
+      "telephone": "03 44 86 90 06",
+      "url": "https://greta-oise.fr/"
+    }
+  },
+  {
+    "id": "4473543009d45711390884e60a0e1a6c489ea7f8",
+    "name": "greta_oise_centrale",
+    "title": "Greta - Oise Centrale",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/oise/greta-60463-01",
+    "metadata": {
+      "email": "greta.oc@ac-amiens.fr",
+      "telephone": "03 44 74 31 44",
+      "url": "https://greta-oise.fr/"
+    }
+  },
+  {
+    "id": "2e98d6bc0c48e858225d0f0587a7edd7a86071db",
+    "name": "greta_ouest_13",
+    "title": "Greta - Ouest 13",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/greta-13047-01",
+    "metadata": {
+      "email": "greta.ouest-berre@ac-aix-marseille.fr",
+      "telephone": "04 42 41 19 60",
+      "url": "http://www.gretanet.com"
+    }
+  },
+  {
+    "id": "d9fe278e29f0a3ccb3303af1739612171b341dd9",
+    "name": "greta_poitou_charentes",
+    "title": "Greta - Poitou-Charentes",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/vienne/greta-86194-01",
+    "metadata": {
+      "email": "greta.poitou-charentes@ac-poitiers.fr",
+      "telephone": "05 49 38 10 89",
+      "url": "http://www.greta-poitou-charentes.fr"
+    }
+  },
+  {
+    "id": "c79f11f305851073d50fd06317acead25ab6238d",
+    "name": "greta_poitou_charentes_angouleme",
+    "title": "Greta - Poitou-Charentes - Angoulême",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/charente/greta-16015-01",
+    "metadata": {
+      "email": "commercial.greta.agence-angouleme@ac-poitiers.fr",
+      "telephone": "05 45 67 57 22",
+      "url": "http://www.greta-poitou-charentes.fr"
+    }
+  },
+  {
+    "id": "7b19bfd87548a11ccef9b472f0e699daa0f68be8",
+    "name": "greta_pole_batiment",
+    "title": "Greta - Pôle bâtiment",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/nord/greta-59350-02",
+    "metadata": {
+      "email": "fclomme@gmail.com",
+      "telephone": "03 20 92 78 70",
+      "url": "http://www.greta-npdc.fr"
+    }
+  },
+  {
+    "id": "4ee3c717732e8ea8497d6dc69e2164a0fe8a9e3d",
+    "name": "greta_provence",
+    "title": "Greta - Provence",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/greta-13001-01",
+    "metadata": {
+      "email": "greta.provence@ac-aix-marseille.fr",
+      "telephone": "04 42 21 52 77",
+      "url": "http://www.gretanet.com"
+    }
+  },
+  {
+    "id": "58fac4549433feb8bf711432de6baa56573bfadd",
+    "name": "greta_provence_arbois",
+    "title": "Greta - Provence-Arbois",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/greta-13117-01",
+    "metadata": {
+      "email": "greta.provence-arbois@ac-aix-marseille.fr",
+      "telephone": "04 42 21 52 77",
+      "url": "http://www.gretanet.com"
+    }
+  },
+  {
+    "id": "85453dc085f1fc693454b59319668bd0aa6b889f",
+    "name": "greta_puy_en_velay",
+    "title": "Greta - Puy-en-Velay",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/haute-loire/greta-43157-01",
+    "metadata": {
+      "email": "greta@velay.greta.fr",
+      "telephone": "04 71 09 80 20",
+      "url": "http://www.velay.greta.fr"
+    }
+  },
+  {
+    "id": "06c1cab480d16e5d02fcbe4a8895dc1f649ef03c",
+    "name": "greta_pyrenees_orientales_perpignan",
+    "title": "Greta - Pyrénées-Orientales - Perpignan",
+    "url": "https://lannuaire.service-public.fr/occitanie/pyrenees-orientales/greta-66136-01",
+    "metadata": {
+      "email": "greta-perpignan@ac-montpellier.fr",
+      "telephone": "04 68 52 70 23",
+      "url": "http://www.gretalr.com"
+    }
+  },
+  {
+    "id": "fe78c7c386f04ec6d42f7d83c2ee94d6198915ae",
+    "name": "greta_region_havraise",
+    "title": "Greta - Région Havraise",
+    "url": "https://lannuaire.service-public.fr/normandie/seine-maritime/greta-76341-01",
+    "metadata": {
+      "email": "greta.region-havraise@ac-rouen.fr",
+      "telephone": "02 35 51 06 51",
+      "url": "http://www.greta.ac-rouen.fr"
+    }
+  },
+  {
+    "id": "fc1363f9e0527b04d469517bdaac966dfd9d046a",
+    "name": "greta_rhone",
+    "title": "Greta - Rhône",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/rhone/greta-69264-01",
+    "metadata": {
+      "email": "https://www1.ac-lyon.fr/greta/contact",
+      "telephone": "04 74 02 30 16",
+      "url": "https://www1.ac-lyon.fr/greta/"
+    }
+  },
+  {
+    "id": "864257c742995977f77ece75f827adc02379e290",
+    "name": "greta_riom_volvic",
+    "title": "Greta - Riom-Volvic",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/puy-de-dome/greta-63300-01",
+    "metadata": {
+      "email": "greta.riom.volvic@ac-clermont.fr",
+      "telephone": "04 73 38 62 40",
+      "url": "http://www.greta-auvergne.com"
+    }
+  },
+  {
+    "id": "72cc9a85cd927629863da7417a14642fdca728c4",
+    "name": "greta_rouen",
+    "title": "Greta - Rouen",
+    "url": "https://lannuaire.service-public.fr/normandie/seine-maritime/greta-76217-01",
+    "metadata": {
+      "email": "greta.dieppe-cbb@ac-rouen.fr",
+      "telephone": "02 35 06 56 00",
+      "url": "http://www.greta.ac-rouen.fr"
+    }
+  },
+  {
+    "id": "72cc9a85cd927629863da7417a14642fdca728c4",
+    "name": "greta_rouen",
+    "title": "Greta - Rouen",
+    "url": "https://lannuaire.service-public.fr/normandie/seine-maritime/greta-76451-01",
+    "metadata": {
+      "email": "greta.rouen@ac-rouen.fr",
+      "telephone": "02 32 82 89 89",
+      "url": "http://www.trouvermaformation.fr/detail_fiche.jsp?type=ofs&id=2523947"
+    }
+  },
+  {
+    "id": "c3fcceafa54b569fb041c20ba182f2d93ef466a2",
+    "name": "greta_saint_die",
+    "title": "Greta - Saint-Dié",
+    "url": "https://lannuaire.service-public.fr/grand-est/vosges/greta-88413-01",
+    "metadata": {
+      "email": "greta-lorraine-sud@ac-nancy-metz.fr",
+      "telephone": "03 29 55 32 73",
+      "url": "https://www.greta-lorraine.fr"
+    }
+  },
+  {
+    "id": "9caa12614ac22b92f22568f9ee0ab86462735275",
+    "name": "greta_saintonge",
+    "title": "Greta - Saintonge",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/charente-maritime/greta-17283-01",
+    "metadata": {
+      "email": "greta.agence-pons@ac-poitiers.fr",
+      "telephone": "05 46 91 33 77",
+      "url": "http://www.ftlv.ac-poitiers.fr"
+    }
+  },
+  {
+    "id": "68bcbde1d5baef05863f07c8b0c0bc740bd0ae7d",
+    "name": "greta_savoie",
+    "title": "Greta - Savoie",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/savoie/greta-73031-01",
+    "metadata": {
+      "email": "gretaca@ac-grenoble.fr",
+      "telephone": "04 79 60 25 25",
+      "url": "http://www.gretasavoie.com"
+    }
+  },
+  {
+    "id": "3c6499932aecb0be33129b4e0d46b3d0e74c925a",
+    "name": "greta_sens",
+    "title": "Greta - Sens",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/yonne/greta-89387-01",
+    "metadata": {
+      "email": "ce.greta.sens@ac-dijon.fr",
+      "telephone": "03 86 65 87 30",
+      "url": "http://www.bourgogne.greta.ac-dijon.fr"
+    }
+  },
+  {
+    "id": "39b6a1b9f93b8d31e0be4a076adcc771c85a50e4",
+    "name": "greta_site_lons_le_saunier",
+    "title": "Greta - Site Lons - le - Saunier",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/jura/greta-39368-01",
+    "metadata": {
+      "email": "greta.jura@ac-besancon.fr",
+      "telephone": "03 84 86 90 00",
+      "url": "http://www.greta.ac-besancon.fr"
+    }
+  },
+  {
+    "id": "0200b3019bd3656b93d4c081e7535d049b1d3b93",
+    "name": "greta_somme",
+    "title": "Greta - Somme",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/somme/greta-80620-01",
+    "metadata": {
+      "email": "greta.somme@ac-amiens.fr",
+      "telephone": "03 22 33 23 90",
+      "url": "http://www.greta.ac-amiens.frsomme"
+    }
+  },
+  {
+    "id": "86c0245545b8df3748812c22f443d322f7d359ae",
+    "name": "greta_somme_antenne_d_abbeville",
+    "title": "Greta - Somme - Antenne d'Abbeville",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/somme/greta-80001-01",
+    "metadata": {
+      "email": "greta.somme@ac-amiens.fr",
+      "telephone": "03 22 25 41 01",
+      "url": "http://www.greta.ac-amiens.fr"
+    }
+  },
+  {
+    "id": "e60d8354462568d4d8a4708f38c56be65fd82a15",
+    "name": "greta_strasbourg_europe",
+    "title": "Greta - Strasbourg-Europe",
+    "url": "https://lannuaire.service-public.fr/grand-est/bas-rhin/greta-67482-01",
+    "metadata": {
+      "email": "gse@strasbourg.greta.fr",
+      "telephone": "03 88 40 77 00",
+      "url": "http://www.greta-alsace.fr"
+    }
+  },
+  {
+    "id": "edf1b1642e97d1bd8ee4067f5fe2e544adaa046c",
+    "name": "greta_sud_aisne",
+    "title": "Greta - Sud-Aisne",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/aisne/greta-02722-01",
+    "metadata": {
+      "email": "greta.sda@ac-amiens.fr",
+      "telephone": "03 23 75 35 70",
+      "url": "http://www.greta-sudaisne.fr"
+    }
+  },
+  {
+    "id": "70aaf1ceae573ce2a686e7afc845903719c9e568",
+    "name": "greta_sud_alsace",
+    "title": "Greta - Sud-Alsace",
+    "url": "https://lannuaire.service-public.fr/grand-est/haut-rhin/greta-68224-01",
+    "metadata": {
+      "email": "ce.0681771f@ac-strasbourg.fr",
+      "telephone": "03 89 43 16 17",
+      "url": "http://www.greta-alsace.fr"
+    }
+  },
+  {
+    "id": "4c75fa3d3e2d93cbd5d869555ef86b11a4726d5b",
+    "name": "greta_sud_aquitaine",
+    "title": "Greta - Sud-Aquitaine",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/pyrenees-atlantiques/greta-64102-01",
+    "metadata": {
+      "email": "agence.bayonne@greta-sud-aquitaine.fr",
+      "telephone": "05 59 52 25 25",
+      "url": "http://www.greta-sud-aquitaine.fr"
+    }
+  },
+  {
+    "id": "4c75fa3d3e2d93cbd5d869555ef86b11a4726d5b",
+    "name": "greta_sud_aquitaine",
+    "title": "Greta - Sud-Aquitaine",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/pyrenees-atlantiques/greta-64445-01",
+    "metadata": {
+      "email": "agence.pau@greta-sud-aquitaine.fr",
+      "telephone": "05 59 84 15 07",
+      "url": "http://www.greta-sud-aquitaine.fr"
+    }
+  },
+  {
+    "id": "4c75fa3d3e2d93cbd5d869555ef86b11a4726d5b",
+    "name": "greta_sud_aquitaine",
+    "title": "Greta - Sud-Aquitaine",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/landes/greta-40088-01",
+    "metadata": {
+      "email": "agence.dax@greta-sud-aquitaine.fr",
+      "telephone": "05 58 90 96 96",
+      "url": "http://www.greta-sud-aquitaine.fr"
+    }
+  },
+  {
+    "id": "e708e7f0087d1275db42d4611426ca330c8a3fd8",
+    "name": "greta_sud_bourgogne",
+    "title": "Greta - Sud-Bourgogne",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/saone-et-loire/greta-71076-01",
+    "metadata": {
+      "email": "greta71.contact@ac-dijon.fr",
+      "telephone": "03 85 45 82 45",
+      "url": "http://bourgogne.greta.ac-dijon.fr"
+    }
+  },
+  {
+    "id": "4c631ef970fb06d6ecd801a3656b208435347c3a",
+    "name": "greta_sud_champagne",
+    "title": "Greta - Sud-Champagne",
+    "url": "https://lannuaire.service-public.fr/grand-est/aube/greta-10387-01",
+    "metadata": {
+      "email": "contact@gretasudchampagne.com",
+      "telephone": "03 25 71 23 80",
+      "url": "http://moodgreta.eu/Site_GIP_FC/index.php/greta/greta-sud-champagne"
+    }
+  },
+  {
+    "id": "889c62b6e7ffc3ed91f24b449ddb2f69c66603df",
+    "alternateName": "Flers",
+    "name": "greta_sud_normandie_flers",
+    "title": "Greta - Sud-Normandie (Flers)",
+    "url": "https://lannuaire.service-public.fr/normandie/orne/greta-61169-01",
+    "metadata": {
+      "email": "greta.sud-normandie@ac-caen.fr",
+      "telephone": "02 33 98 48 50",
+      "url": "http://www.trouvermaformation.fr/detail_fiche.jsp?type=ofs&id=2519835"
+    }
+  },
+  {
+    "id": "aa51cf9d1bf262718c032c8b8ad1aeb473052404",
+    "name": "greta_tertiaire_paris_centre",
+    "title": "Greta - Tertiaire - Paris Centre",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/paris/greta-75103-01",
+    "metadata": {
+      "email": "infos.turgot@greta-tpc.fr",
+      "telephone": "01 53 01 93 40",
+      "url": "http://www.greta-tpc.fr/TPC_Accueil.php"
+    }
+  },
+  {
+    "id": "1fc37aaa9282e2c19984311ebdb2b744fe05ec13",
+    "alternateName": "Nice",
+    "name": "greta_tourisme_hotellerie_nice",
+    "title": "Greta - Tourisme Hôtellerie (Nice)",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/alpes-maritimes/greta-06088-02",
+    "metadata": {
+      "email": "greta.tourismehotellerie@ac-nice.fr",
+      "telephone": "04 93 72 77 80",
+      "url": "http://www.legreta.com"
+    }
+  },
+  {
+    "id": "fe09bcfa66cc703c743c8f6722793273c232729f",
+    "alternateName": "Issoire",
+    "name": "greta_val_d_allier_issoire",
+    "title": "Greta - Val d'Allier (Issoire)",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/puy-de-dome/greta-63178-01",
+    "metadata": {
+      "email": "gretavalallier@ac-clermont.fr",
+      "telephone": "04 73 55 09 92",
+      "url": "http://www.greta-auvergne.com"
+    }
+  },
+  {
+    "id": "9fb00e611143c8c60868211424b1f1544aa111c7",
+    "name": "greta_val_d_oise",
+    "title": "Greta - Val-d'Oise",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/val-d-oise/greta-95476-01",
+    "metadata": {
+      "email": "contact@greta-95.fr",
+      "telephone": "01 34 48 59 00",
+      "url": "http://www.greta-95.fr"
+    }
+  },
+  {
+    "id": "e038289b1b10999439c8181991d31231fa9129e3",
+    "name": "greta_val_doise_cite_de_goussainville",
+    "title": "Greta - Val-d'oise - cite de goussainville",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/val-d-oise/greta-95280-01",
+    "metadata": {
+      "email": "",
+      "telephone": "01 39 33 82 10",
+      "url": "http://www.greta-95.fr/3-nous-contacter"
+    }
+  },
+  {
+    "id": "49b90c25ea3c8b2b61f50d97de46d7e490adfe73",
+    "name": "greta_val_de_loire",
+    "title": "Greta - Val-de-Loire",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/loir-et-cher/greta-41018-01",
+    "metadata": {
+      "email": "contact@greta-vdl.fr",
+      "telephone": "02 54 55 15 15",
+      "url": "http://www.greta-vdl.fr"
+    }
+  },
+  {
+    "id": "59c6d272bdcb0231048422f2d35276fc48274f77",
+    "name": "greta_val_de_loire",
+    "title": "Greta - Val de Loire",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/indre-et-loire/greta-37261-01",
+    "metadata": {
+      "email": "contact@greta-vdl.fr",
+      "telephone": "02 47 21 00 01",
+      "url": "http://www.greta-vdl.fr"
+    }
+  },
+  {
+    "id": "2254b3ea61aba0de0a8cd5492c8739c813193ff8",
+    "name": "greta_du_var",
+    "title": "Greta - du Var",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/var/greta-83126-01",
+    "metadata": {
+      "email": "greta.var-langevin@ac-nice.fr",
+      "telephone": "04 94 11 17 00",
+      "url": "http://www.legreta.com"
+    }
+  },
+  {
+    "id": "3cf64f685be25307e4d29b7decec533b091dd0ec",
+    "name": "greta_vaucluse",
+    "title": "Greta - Vaucluse",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/vaucluse/greta-84007-01",
+    "metadata": {
+      "email": "com.agence@greta84.fr",
+      "telephone": "09 69 39 44 84",
+      "url": "http://www.gretanet.com"
+    }
+  },
+  {
+    "id": "4c7172ce5d43eeb24e0aa8d777d0d03c001adb47",
+    "name": "greta_vendee",
+    "title": "Greta - Vendée",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/vendee/greta-85191-01",
+    "metadata": {
+      "email": "greta.vendee@ac-nantes.fr",
+      "telephone": "02 51 47 38 38",
+      "url": "http://www.greta-paysdelaloire.fr"
+    }
+  },
+  {
+    "id": "0f2b6799f8297d21d0bfd2588e7d2a2574f88194",
+    "name": "greta_viva_5_valence",
+    "title": "Greta - Viva 5 - Valence",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/drome/greta-26362-01",
+    "metadata": {
+      "email": "contact.viva5@greta-viva5.org",
+      "telephone": "04 75 82 37 90",
+      "url": "http://greta-viva5.org"
+    }
+  },
+  {
+    "id": "7c12a229b513e465b7774b9739c136c6fd58b46f",
+    "name": "greta_vivarais_provence",
+    "title": "Greta - Vivarais-Provence",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/sarthe/greta-72181-01",
+    "metadata": {
+      "email": "contact.gvp@ac-grenoble.fr",
+      "telephone": "04 75 93 03 03",
+      "url": "http://www.gretaformation.fr"
+    }
+  },
+  {
+    "id": "2605a7a36d5ad9613b96fa01d1482d359ec92b70",
+    "name": "greta_yvelines",
+    "title": "Greta - Yvelines",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/yvelines/greta-78490-01",
+    "metadata": {
+      "email": "contact@greta-yvelines.fr",
+      "telephone": "01 30 85 78 78",
+      "url": "http://www.greta-yvelines.fr/4-accueil"
+    }
+  }
+]

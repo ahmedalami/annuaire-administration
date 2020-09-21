@@ -1,0 +1,2162 @@
+[
+  {
+    "id": "f4bb2bff6cc81ca3c40de3046effd36080e8a79f",
+    "alternateName": "PMI",
+    "name": "centre_de_protection_maternelle_et_infantile_pmi_agde",
+    "title": "Centre de protection maternelle et infantile (PMI) - Agde",
+    "url": "https://lannuaire.service-public.fr/occitanie/herault/pmi-34003-01",
+    "metadata": {
+      "email": "adss13@herault.fr",
+      "telephone": "04 67 67 83 30",
+      "url": "http://www.herault.fr"
+    }
+  },
+  {
+    "id": "7c6ac8c0da14ab974196d58c45497827ae602346",
+    "alternateName": "PMI",
+    "name": "centre_de_protection_maternelle_et_infantile_pmi_agen_louis_lavelle",
+    "title": "Centre de protection maternelle et infantile (PMI) - Agen - Louis-Lavelle",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/lot-et-garonne/pmi-47001-03",
+    "metadata": {
+      "email": "",
+      "telephone": "05 53 98 62 30",
+      "url": "http://www.lotetgaronne.fr"
+    }
+  },
+  {
+    "id": "3d15e590ac6a81eaa6e9baf568ba9296b9e6ffda",
+    "alternateName": "PMI",
+    "name": "centre_de_protection_maternelle_et_infantile_pmi_agen_louis_vivent",
+    "title": "Centre de protection maternelle et infantile (PMI) - Agen - Louis-Vivent",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/lot-et-garonne/pmi-47001-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 53 69 40 41",
+      "url": "http://www.lot-et-garonne.fr"
+    }
+  },
+  {
+    "id": "548e89784a27d2b6fd3291a5f60e2a62decba1d4",
+    "alternateName": "PMI",
+    "name": "centre_de_protection_maternelle_et_infantile_pmi_agen_marechal_leclerc",
+    "title": "Centre de protection maternelle et infantile (PMI) - Agen - Maréchal-Leclerc",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/lot-et-garonne/pmi-47001-04",
+    "metadata": {
+      "email": "cecile.subra@lotetgaronne.fr",
+      "telephone": "05 53 69 40 87",
+      "url": "http://www.lotetgaronne.fr"
+    }
+  },
+  {
+    "id": "456983541833bbb87eb813f41bbd8604747d9e50",
+    "alternateName": "PMI",
+    "name": "centre_de_protection_maternelle_et_infantile_pmi_agen_place_de_quartier",
+    "title": "Centre de protection maternelle et infantile (PMI) - Agen - Place-de-Quartier",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/lot-et-garonne/pmi-47001-02",
+    "metadata": {
+      "email": "",
+      "telephone": "05 53 77 09 20",
+      "url": "http://www.lot-et-garonne.fr"
+    }
+  },
+  {
+    "id": "687534413870d550a0e4b9b4a846b5039da99908",
+    "alternateName": "PMI",
+    "name": "centre_de_protection_maternelle_et_infantile_pmi_aix_en_provence",
+    "title": "Centre de protection maternelle et infantile (PMI) - Aix-en-Provence",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/pmi-13001-02",
+    "metadata": {
+      "email": "marielaure.fino@departement13.fr",
+      "telephone": "04 13 31 84 11",
+      "url": "http://www.departement13.fr"
+    }
+  },
+  {
+    "id": "bca2832c1e5a03c48bfd3d8b40904a378e7b0709",
+    "alternateName": "PMI",
+    "name": "centre_de_protection_maternelle_et_infantile_pmi_ajaccio",
+    "title": "Centre de protection maternelle et infantile (PMI) - Ajaccio",
+    "url": "https://lannuaire.service-public.fr/corse/corse-du-sud/pmi-2A004-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 95 29 14 11",
+      "url": ""
+    }
+  },
+  {
+    "id": "a63aa849eeedc8f36b7919020f380a8b282f8cf3",
+    "alternateName": "PMI",
+    "name": "centre_de_protection_maternelle_et_infantile_pmi_albertville",
+    "title": "Centre de protection maternelle et infantile (PMI) - Albertville",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/savoie/pmi-73011-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 79 89 57 05",
+      "url": "http://www.savoie.fr"
+    }
+  },
+  {
+    "id": "bdee04edf9adf3b343fb1fd7d4b872b6cb9aa4a4",
+    "alternateName": "PMI",
+    "name": "centre_de_protection_maternelle_et_infantile_pmi_albi_bonaparte",
+    "title": "Centre de protection maternelle et infantile (PMI) - Albi - Bonaparte",
+    "url": "https://lannuaire.service-public.fr/occitanie/tarn/pmi-81004-02",
+    "metadata": {
+      "email": "pmi-albigeois-ds@tarn.fr",
+      "telephone": "05 63 77 31 15",
+      "url": "http://www.tarn.fr"
+    }
+  },
+  {
+    "id": "1cd624211b658ed06e454a6ea5556864ff77e211",
+    "alternateName": "PMI",
+    "name": "centre_de_protection_maternelle_et_infantile_pmi_albi_charles_portal",
+    "title": "Centre de protection maternelle et infantile (PMI) - Albi - Charles-Portal",
+    "url": "https://lannuaire.service-public.fr/occitanie/tarn/pmi-81004-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 63 48 17 20",
+      "url": "http://www.tarn.fr"
+    }
+  },
+  {
+    "id": "c69afd56bce7eb0e43d903dbf08ac2d8fc5851db",
+    "alternateName": "PMI",
+    "name": "centre_de_protection_maternelle_et_infantile_pmi_albi_gabriel_compayre",
+    "title": "Centre de protection maternelle et infantile (PMI) - Albi - Gabriel-Compayre",
+    "url": "https://lannuaire.service-public.fr/occitanie/tarn/pmi-81004-03",
+    "metadata": {
+      "email": "pmi-ds@tarn.fr",
+      "telephone": "05 63 49 02 24",
+      "url": "http://www.tarn.fr"
+    }
+  },
+  {
+    "id": "ad06eaf9abd51633e2fb7762d272a1cab97da020",
+    "alternateName": "PMI",
+    "name": "centre_de_protection_maternelle_et_infantile_pmi_alencon_bonnem",
+    "title": "Centre de protection maternelle et infantile (PMI) - Alençon - Bonnem",
+    "url": "https://lannuaire.service-public.fr/normandie/orne/pmi-61001-04",
+    "metadata": {
+      "email": "",
+      "telephone": "02 33 32 11 56",
+      "url": ""
+    }
+  },
+  {
+    "id": "eaba88b82e71f08654bb5f18bf88d7c46c710d29",
+    "alternateName": "PMI",
+    "name": "centre_de_protection_maternelle_et_infantile_pmi_alencon_claude_bernard",
+    "title": "Centre de protection maternelle et infantile (PMI) - Alençon - Claude-Bernard",
+    "url": "https://lannuaire.service-public.fr/normandie/orne/pmi-61001-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 33 29 31 29",
+      "url": ""
+    }
+  },
+  {
+    "id": "173885f1ae017d85377f230dd842bf43dd579003",
+    "alternateName": "PMI",
+    "name": "centre_de_protection_maternelle_et_infantile_pmi_alencon_la_paix",
+    "title": "Centre de protection maternelle et infantile (PMI) - Alençon - La Paix",
+    "url": "https://lannuaire.service-public.fr/normandie/orne/pmi-61001-03",
+    "metadata": {
+      "email": "",
+      "telephone": "02 33 31 04 31",
+      "url": "http://www.orne.fr"
+    }
+  },
+  {
+    "id": "45befa15e2d644282f963a13bf52c503cf64e912",
+    "alternateName": "PMI",
+    "name": "centre_de_protection_maternelle_et_infantile_pmi_alencon_senatorerie",
+    "title": "Centre de protection maternelle et infantile (PMI) - Alençon - Sénatorerie",
+    "url": "https://lannuaire.service-public.fr/normandie/orne/pmi-61001-02",
+    "metadata": {
+      "email": "",
+      "telephone": "02 33 26 98 55",
+      "url": "http://www.orne.fr"
+    }
+  },
+  {
+    "id": "607707f2d75ca7fea8261deb79d118d41e72ed5e",
+    "alternateName": "PMI",
+    "name": "centre_de_protection_maternelle_et_infantile_pmi_alfortville_alembert",
+    "title": "Centre de protection maternelle et infantile (PMI) - Alfortville - Alembert",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/val-de-marne/pmi-94002-01",
+    "metadata": {
+      "email": "pmi-alem.alfortville@valdemarne.fr",
+      "telephone": "01 43 75 54 82",
+      "url": ""
+    }
+  },
+  {
+    "id": "650c90f9d8205820d5e10139b9fbd8d948bcd66a",
+    "alternateName": "PMI",
+    "name": "centre_de_protection_maternelle_et_infantile_pmi_alfortville_micolon",
+    "title": "Centre de protection maternelle et infantile (PMI) - Alfortville - Micolon",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/val-de-marne/pmi-94002-02",
+    "metadata": {
+      "email": "pmi-mico.alfortville@valdemarne.fr",
+      "telephone": "01 43 76 84 69",
+      "url": ""
+    }
+  },
+  {
+    "id": "0abe69116210bf3b4b6a5ef0336661ba522c897c",
+    "alternateName": "PMI",
+    "name": "centre_de_protection_maternelle_et_infantile_pmi_amberieu_en_bugey",
+    "title": "Centre de protection maternelle et infantile (PMI) - Ambérieu-en-Bugey",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/ain/pmi-01004-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 74 34 06 55",
+      "url": "http://www.ain.fr"
+    }
+  },
+  {
+    "id": "81a2994bdfbcf52f9cb8a75cce72288f88c1b91a",
+    "alternateName": "PMI",
+    "name": "centre_de_protection_maternelle_et_infantile_pmi_ambert",
+    "title": "Centre de protection maternelle et infantile (PMI) - Ambert",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/puy-de-dome/pmi-63003-01",
+    "metadata": {
+      "email": "correspondance-ambert@puy-de-dome.fr",
+      "telephone": "04 73 82 55 20",
+      "url": "http://www.puy-de-dome.fr"
+    }
+  },
+  {
+    "id": "7b18e19cc5a44a4120fe2889cdcab06aecc85584",
+    "alternateName": "PMI",
+    "name": "centre_de_protection_maternelle_et_infantile_pmi_amboise",
+    "title": "Centre de protection maternelle et infantile (PMI) - Amboise",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/indre-et-loire/pmi-37003-01",
+    "metadata": {
+      "email": "vbreussim@departement-touraine.fr",
+      "telephone": "02 47 30 64 00",
+      "url": "http://www.departement-touraine.fr"
+    }
+  },
+  {
+    "id": "f6d39bc08c1f1343f6868544557a52d3c6c085ee",
+    "alternateName": "PMI",
+    "name": "centre_de_protection_maternelle_et_infantile_pmi_amfreville_la_mi_voie",
+    "title": "Centre de protection maternelle et infantile (PMI) - Amfreville-la-Mi-Voie",
+    "url": "https://lannuaire.service-public.fr/normandie/seine-maritime/pmi-76005-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 35 23 71 35",
+      "url": "https://www.seinemaritime.fr/nos-actions/sante-social/enfance-et-famille/autour-de-bebe-et-du-jeune-enfant/protection-maternelle-et-infantile.html"
+    }
+  },
+  {
+    "id": "f9071473392b64f4e9ed765e73ec6bcb189ea166",
+    "alternateName": "PMI",
+    "name": "centre_de_protection_maternelle_et_infantile_pmi_amplepuis",
+    "title": "Centre de protection maternelle et infantile (PMI) - Amplepuis",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/rhone/pmi-69006-01",
+    "metadata": {
+      "email": "01ut.amplepuis@rhone.fr",
+      "telephone": "04 74 89 09 09",
+      "url": "http://www.rhone.fr"
+    }
+  },
+  {
+    "id": "449ab09b1bbe04752e62a72a47c63dfaf757ea31",
+    "alternateName": "PMI",
+    "name": "centre_de_protection_maternelle_et_infantile_pmi_angers_abel_boutin_desvignes",
+    "title": "Centre de protection maternelle et infantile (PMI) - Angers - Abel-Boutin-Desvignes",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/maine-et-loire/pmi-49246-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 41 79 75 10",
+      "url": "http://www.maine-et-loire.fr"
+    }
+  },
+  {
+    "id": "9f9ea24280230d3e14daaa999abd2c7a6eb5f1a9",
+    "alternateName": "PMI",
+    "name": "centre_de_protection_maternelle_et_infantile_pmi_angers_amiral_nouvel_de_la_fleche",
+    "title": "Centre de protection maternelle et infantile (PMI) - Angers - Amiral-Nouvel-de-la-Flèche",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/maine-et-loire/pmi-49015-01",
+    "metadata": {
+      "email": "aio.cour.nord@maine-et-loire.fr",
+      "telephone": "02 41 96 97 20",
+      "url": ""
+    }
+  },
+  {
+    "id": "3e43cc429270808bae64a5ffc5908f9648182751",
+    "alternateName": "PMI",
+    "name": "centre_de_protection_maternelle_et_infantile_pmi_angers_europe",
+    "title": "Centre de protection maternelle et infantile (PMI) - Angers - Europe",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/maine-et-loire/pmi-49007-02",
+    "metadata": {
+      "email": "pmi.angersest@maine-et-loire.fr",
+      "telephone": "02 41 27 55 00",
+      "url": "http://www.maine-et-loire.fr"
+    }
+  },
+  {
+    "id": "984bf63d643ba5b9f74a0d0b7ad675375c987cb5",
+    "alternateName": "PMI",
+    "name": "centre_de_protection_maternelle_et_infantile_pmi_angers_pasteur",
+    "title": "Centre de protection maternelle et infantile (PMI) - Angers - Pasteur",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/maine-et-loire/pmi-49007-01",
+    "metadata": {
+      "email": "pmi@maine-et-loire.fr",
+      "telephone": "02 41 31 31 10",
+      "url": ""
+    }
+  },
+  {
+    "id": "a1f59a3eb87bbf40e5150b299296f95cf6267d80",
+    "alternateName": "PMI",
+    "name": "centre_de_protection_maternelle_et_infantile_pmi_angers_robert_d_arbrissel",
+    "title": "Centre de protection maternelle et infantile (PMI) - Angers - Robert-d'Arbrissel",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/maine-et-loire/pmi-49007-04",
+    "metadata": {
+      "email": "",
+      "telephone": "02 41 68 65 00",
+      "url": "http://www.maine-et-loire.fr"
+    }
+  },
+  {
+    "id": "b0a6e67ae861e366d13bf26f55c4295f5d3bd70c",
+    "alternateName": "PMI",
+    "name": "centre_de_protection_maternelle_et_infantile_pmi_anglet",
+    "title": "Centre de protection maternelle et infantile (PMI) - Anglet",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/pyrenees-atlantiques/pmi-64024-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 59 52 30 50",
+      "url": "http://www.le64.fr"
+    }
+  },
+  {
+    "id": "3efdb2ef9cbf5df940ef5f89edfebbcff02037c5",
+    "alternateName": "PMI",
+    "name": "centre_de_protection_maternelle_et_infantile_pmi_annecy_fins_nord",
+    "title": "Centre de protection maternelle et infantile (PMI) - Annecy - Fins-Nord",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/haute-savoie/pmi-74010-02",
+    "metadata": {
+      "email": "",
+      "telephone": "04 50 66 65 41",
+      "url": "http://www.cg74.fr"
+    }
+  },
+  {
+    "id": "f610aa3958309167d71cd55127418fde5ee1dad1",
+    "alternateName": "PMI",
+    "name": "centre_de_protection_maternelle_et_infantile_pmi_annecy_lucien_boschetti",
+    "title": "Centre de protection maternelle et infantile (PMI) - Annecy - Lucien-Boschetti",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/haute-savoie/pmi-74010-03",
+    "metadata": {
+      "email": "pms-annecybalmettes@hautesavoie.fr",
+      "telephone": "04 50 33 23 24",
+      "url": "http://www.cg74.fr"
+    }
+  },
+  {
+    "id": "f1b55065c4d5798b09d0ea10c1411f8629652303",
+    "alternateName": "PMI",
+    "name": "centre_de_protection_maternelle_et_infantile_pmi_annonay",
+    "title": "Centre de protection maternelle et infantile (PMI) - Annonay",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/ardeche/pmi-07010-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 75 32 42 01",
+      "url": "http://www.ardeche.fr"
+    }
+  },
+  {
+    "id": "019510233e2aeb22feb6141dd2a5fbdb2d63ab7d",
+    "alternateName": "PMI",
+    "name": "centre_de_protection_maternelle_et_infantile_pmi_anse",
+    "title": "Centre de protection maternelle et infantile (PMI) - Anse",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/rhone/pmi-69009-01",
+    "metadata": {
+      "email": "mdr.anse@rhone.fr",
+      "telephone": "04 74 09 95 80",
+      "url": "http://www.rhone.fr"
+    }
+  },
+  {
+    "id": "e6082e861c9f1dfdcf6ba4944726808aa4086069",
+    "alternateName": "PMI",
+    "name": "centre_de_protection_maternelle_et_infantile_pmi_antony_mediterranee",
+    "title": "Centre de protection maternelle et infantile (PMI) - Antony - Méditerranée",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/hauts-de-seine/pmi-92002-01",
+    "metadata": {
+      "email": "apmi@hauts-de-seine.fr",
+      "telephone": "01 46 66 57 08",
+      "url": "http://www.hauts-de-seine.fr"
+    }
+  },
+  {
+    "id": "d23ffc48bd950ecc30be38c318b42d1d52554430",
+    "alternateName": "PMI",
+    "name": "centre_de_protection_maternelle_et_infantile_pmi_antony_prosper_legoute",
+    "title": "Centre de protection maternelle et infantile (PMI) - Antony - Prosper-Legouté",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/hauts-de-seine/pmi-92002-04",
+    "metadata": {
+      "email": "apmi2@cg92.fr",
+      "telephone": "177701360",
+      "url": "http://www.hauts-de-seine.net"
+    }
+  },
+  {
+    "id": "76f49ef3656e3a0d3575f5ae99dc8e36368bffc0",
+    "alternateName": "PMI",
+    "name": "centre_de_protection_maternelle_et_infantile_pmi_apt",
+    "title": "Centre de protection maternelle et infantile (PMI) - Apt",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/vaucluse/pmi-84003-01",
+    "metadata": {
+      "email": "cmsapt@vaucluse.fr",
+      "telephone": "04 90 74 76 00",
+      "url": "http://www.vaucluse.fr"
+    }
+  },
+  {
+    "id": "11da3db886294799b372fd3d89e062163fc4a772",
+    "alternateName": "PMI",
+    "name": "centre_de_protection_maternelle_et_infantile_pmi_arbresle",
+    "title": "Centre de protection maternelle et infantile (PMI) - Arbresle",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/rhone/pmi-69010-01",
+    "metadata": {
+      "email": "mdr.arbresle@rhone.fr",
+      "telephone": "04 74 72 08 40",
+      "url": "http://www.rhone.fr"
+    }
+  },
+  {
+    "id": "766bc1b15d0fcd18d63f6d49d172dfb04acd60d0",
+    "alternateName": "PMI",
+    "name": "centre_de_protection_maternelle_et_infantile_pmi_arc_les_gray",
+    "title": "Centre de protection maternelle et infantile (PMI) - Arc-les-Gray",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/haute-saone/pmi-70026-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 84 65 26 33",
+      "url": "http://www.cg70.fr"
+    }
+  },
+  {
+    "id": "eb4e608037b0fc9f3eaee49a73f5bdb06fa66132",
+    "alternateName": "PMI",
+    "name": "centre_de_protection_maternelle_et_infantile_pmi_argences",
+    "title": "Centre de protection maternelle et infantile (PMI) - Argences",
+    "url": "https://lannuaire.service-public.fr/normandie/calvados/pmi-14020-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 31 23 03 13",
+      "url": "http://www.calvados.fr"
+    }
+  },
+  {
+    "id": "19379503f99838de6dc3b3483c27eb09d684801e",
+    "alternateName": "PMI",
+    "name": "centre_de_protection_maternelle_et_infantile_pmi_argenteuil_bretons",
+    "title": "Centre de protection maternelle et infantile (PMI) - Argenteuil - Bretons",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/val-d-oise/pmi-95018-03",
+    "metadata": {
+      "email": "",
+      "telephone": "01 34 33 55 40",
+      "url": "http://www.valdoise.fr"
+    }
+  },
+  {
+    "id": "dce60813e744f375579d6607fbd72a00fe0cb6c2",
+    "alternateName": "PMI",
+    "name": "centre_de_protection_maternelle_et_infantile_pmi_argenteuil_commune_de_paris",
+    "title": "Centre de protection maternelle et infantile (PMI) - Argenteuil - Commune-de-Paris",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/val-d-oise/pmi-95018-05",
+    "metadata": {
+      "email": "",
+      "telephone": "01 34 33 55 20",
+      "url": "http://www.valdoise.fr"
+    }
+  },
+  {
+    "id": "a47a0d0ec7b4b211f3ff89cdc60f0c2169df68a5",
+    "alternateName": "PMI",
+    "name": "centre_de_protection_maternelle_et_infantile_pmi_argenteuil_jean_jaures",
+    "title": "Centre de protection maternelle et infantile (PMI) - Argenteuil - Jean-Jaurès",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/val-d-oise/pmi-95018-01",
+    "metadata": {
+      "email": "pmi.argenteuilsantodumont@valdoise.fr",
+      "telephone": "01 34 33 54 10",
+      "url": "http://www.valdoise.fr"
+    }
+  },
+  {
+    "id": "42dcc74de3949fc023550a70869c698771fc093b",
+    "alternateName": "PMI",
+    "name": "centre_de_protection_maternelle_et_infantile_pmi_argenteuil_salvador_allende",
+    "title": "Centre de protection maternelle et infantile (PMI) - Argenteuil - Salvador-Allende",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/val-d-oise/pmi-95018-04",
+    "metadata": {
+      "email": "",
+      "telephone": "01 34 33 55 40",
+      "url": "http://www.valdoise.fr"
+    }
+  },
+  {
+    "id": "0d521244b55f75d740aa6ca881b2362643523f02",
+    "alternateName": "PMI",
+    "name": "centre_de_protection_maternelle_et_infantile_pmi_arles",
+    "title": "Centre de protection maternelle et infantile (PMI) - Arles",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/pmi-13004-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 13 31 78 63",
+      "url": "http://www.departement13.fr"
+    }
+  },
+  {
+    "id": "0d0963345418c0fa4482ed3eec326fbce709825f",
+    "alternateName": "PMI",
+    "name": "centre_de_protection_maternelle_et_infantile_pmi_armentieres",
+    "title": "Centre de protection maternelle et infantile (PMI) - Armentières",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/nord/pmi-59017-01",
+    "metadata": {
+      "email": "utpas-armentires@lenord.fr",
+      "telephone": "03 59 73 97 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "6252eb41ce0a6184d2d670917bd682addcfa1a15",
+    "alternateName": "PMI",
+    "name": "centre_de_protection_maternelle_et_infantile_pmi_arpajon",
+    "title": "Centre de protection maternelle et infantile (PMI) - Arpajon",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/essonne/pmi-91021-01",
+    "metadata": {
+      "email": "",
+      "telephone": "01 64 90 36 11",
+      "url": ""
+    }
+  },
+  {
+    "id": "f1f8595a14b4f6c54685f69a7739aff688dede1b",
+    "alternateName": "PMI",
+    "name": "centre_de_protection_maternelle_et_infantile_pmi_arques",
+    "title": "Centre de protection maternelle et infantile (PMI) - Arques",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/pas-de-calais/pmi-62040-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 21 38 11 25",
+      "url": "http://www.pasdecalais.fr"
+    }
+  },
+  {
+    "id": "5c0d564e205bdef8816aede6cec8fb5243bfe802",
+    "alternateName": "PMI",
+    "name": "centre_de_protection_maternelle_et_infantile_pmi_arques_la_bataille",
+    "title": "Centre de protection maternelle et infantile (PMI) - Arques-la-Bataille",
+    "url": "https://lannuaire.service-public.fr/normandie/seine-maritime/pmi-76026-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 35 85 01 94",
+      "url": "http://www.seinemaritime.net"
+    }
+  },
+  {
+    "id": "879c5ffb2b4aeb8413300393cbc4e233a5a2bbd1",
+    "alternateName": "PMI",
+    "name": "centre_de_protection_maternelle_et_infantile_pmi_arras_chanteclair",
+    "title": "Centre de protection maternelle et infantile (PMI) - Arras - Chanteclair",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/pas-de-calais/pmi-62764-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 21 15 21 00",
+      "url": "http://www.cd62.fr"
+    }
+  },
+  {
+    "id": "152dc77a4aab765c1d0a78af42193d3357929e4b",
+    "alternateName": "PMI",
+    "name": "centre_de_protection_maternelle_et_infantile_pmi_asnieres_sur_seine_argenteuil",
+    "title": "Centre de protection maternelle et infantile (PMI) - Asnières-sur-Seine - Argenteuil",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/hauts-de-seine/pmi-92004-04",
+    "metadata": {
+      "email": "pmialma@hauts-de-seine.fr",
+      "telephone": "08 06 00 00 92",
+      "url": "http://www.hauts-de-seine.fr"
+    }
+  },
+  {
+    "id": "81cb42ce8c0eba106b231845aa8e96f761059605",
+    "alternateName": "PMI",
+    "name": "centre_de_protection_maternelle_et_infantile_pmi_asnieres_sur_seine_gresillons",
+    "title": "Centre de protection maternelle et infantile (PMI) - Asnières-sur-Seine - Grésillons",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/hauts-de-seine/pmi-92004-01",
+    "metadata": {
+      "email": "",
+      "telephone": "08 06 00 00 92",
+      "url": "http://www.hauts-de-seine.net"
+    }
+  },
+  {
+    "id": "2d10ae17d03d9a2f6af66b5098228a9c5a085160",
+    "alternateName": "PMI",
+    "name": "centre_de_protection_maternelle_et_infantile_pmi_asnieres_sur_seine_marceau_delorme",
+    "title": "Centre de protection maternelle et infantile (PMI) - Asnières-sur-Seine - Marceau-Delorme",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/hauts-de-seine/pmi-92004-02",
+    "metadata": {
+      "email": "dpmi2@hauts-de-seine.fr",
+      "telephone": "01 47 90 71 93",
+      "url": "http://www.hauts-de-seine.fr"
+    }
+  },
+  {
+    "id": "b505f0744078c4b9bd6ff9214f90d11533fa38c4",
+    "alternateName": "PMI",
+    "name": "centre_de_protection_maternelle_et_infantile_pmi_asnieres_sur_seine_mourinoux",
+    "title": "Centre de protection maternelle et infantile (PMI) - Asnières-sur-Seine - Mourinoux",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/hauts-de-seine/pmi-92004-03",
+    "metadata": {
+      "email": "apmi4@hauts-de-seine.fr",
+      "telephone": "01 47 98 51 08",
+      "url": "http://www.hauts-de-seine.net"
+    }
+  },
+  {
+    "id": "83aea95ed3e306f3b0a17c7176c03fc3e74728f8",
+    "alternateName": "PMI",
+    "name": "centre_de_protection_maternelle_et_infantile_pmi_athis_mons_ozonville",
+    "title": "Centre de protection maternelle et infantile (PMI) - Athis-Mons - Ozonville",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/essonne/pmi-91027-01",
+    "metadata": {
+      "email": "",
+      "telephone": "01 60 48 26 19",
+      "url": ""
+    }
+  },
+  {
+    "id": "5dc6d278841b973fe233d0a25f6252b29cbccba5",
+    "alternateName": "PMI",
+    "name": "centre_de_protection_maternelle_et_infantile_pmi_athis_mons_picardeaux",
+    "title": "Centre de protection maternelle et infantile (PMI) - Athis-Mons - Picardeaux",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/essonne/pmi-91027-02",
+    "metadata": {
+      "email": "",
+      "telephone": "01 69 38 22 21",
+      "url": "http://www.essonne.fr"
+    }
+  },
+  {
+    "id": "ae126756626e1f4a226348651bafb1ef71befac1",
+    "alternateName": "PMI",
+    "name": "centre_de_protection_maternelle_et_infantile_pmi_aubagne",
+    "title": "Centre de protection maternelle et infantile (PMI) - Aubagne",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/pmi-13005-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 13 31 06 15",
+      "url": "http://www.departement13.fr"
+    }
+  },
+  {
+    "id": "5efbefbad158aff9e16b0a6c3201efd0782380d6",
+    "alternateName": "PMI",
+    "name": "centre_de_protection_maternelle_et_infantile_pmi_aubenas",
+    "title": "Centre de protection maternelle et infantile (PMI) - Aubenas",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/ardeche/pmi-07019-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 75 87 87 33",
+      "url": "http://www.ardeche.fr"
+    }
+  },
+  {
+    "id": "eefbc14835439eeeaa4fecc9d3d3579477b1478d",
+    "alternateName": "PMI",
+    "name": "centre_de_protection_maternelle_et_infantile_pmi_aubervilliers",
+    "title": "Centre de protection maternelle et infantile (PMI) - Aubervilliers",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/seine-saint-denis/pmi-93001-01",
+    "metadata": {
+      "email": "",
+      "telephone": "01 71 29 53 70",
+      "url": "http://www.cg93.fr"
+    }
+  },
+  {
+    "id": "681fedd2a1ab6cbc516ac26e8a95454d82ae32b2",
+    "alternateName": "PMI",
+    "name": "centre_de_protection_maternelle_et_infantile_pmi_aubusson",
+    "title": "Centre de protection maternelle et infantile (PMI) - Aubusson",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/creuse/pmi-23008-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 55 67 72 00",
+      "url": "http://creuse.fr"
+    }
+  },
+  {
+    "id": "5f6baa303a69b7f5b8bfa2350a18f9949a36348c",
+    "alternateName": "PMI",
+    "name": "centre_de_protection_maternelle_et_infantile_pmi_aucamville",
+    "title": "Centre de protection maternelle et infantile (PMI) - Aucamville",
+    "url": "https://lannuaire.service-public.fr/occitanie/haute-garonne/pmi-31022-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 61 37 51 00",
+      "url": "http://www.haute-garonne.fr"
+    }
+  },
+  {
+    "id": "29626d46e4f3a6d2bcb50dd5053a71e3f8eff6d8",
+    "alternateName": "PMI",
+    "name": "centre_de_protection_maternelle_et_infantile_pmi_auch",
+    "title": "Centre de protection maternelle et infantile (PMI) - Auch",
+    "url": "https://lannuaire.service-public.fr/occitanie/gers/pmi-32013-01",
+    "metadata": {
+      "email": "pmi@gers.fr",
+      "telephone": "05 81 32 35 61",
+      "url": "http://www.cg32.fr"
+    }
+  },
+  {
+    "id": "a6d12f1f52b928d441629bc414a893813f0cb64f",
+    "alternateName": "PMI",
+    "name": "centre_de_protection_maternelle_et_infantile_pmi_audierne",
+    "title": "Centre de protection maternelle et infantile (PMI) - Audierne",
+    "url": "https://lannuaire.service-public.fr/bretagne/finistere/pmi-29003-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 98 92 01 93",
+      "url": ""
+    }
+  },
+  {
+    "id": "098e3b6c7d85e8ed4a2c293581496253a40e2a96",
+    "alternateName": "PMI",
+    "name": "centre_de_protection_maternelle_et_infantile_pmi_aulnoye_aymeries",
+    "title": "Centre de protection maternelle et infantile (PMI) - Aulnoye-Aymeries",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/nord/pmi-59033-01",
+    "metadata": {
+      "email": "utpasaulnoyelequesnoy@lenord.fr",
+      "telephone": "03 59 73 17 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "e9994d252d0d406f9a0351572db036f45d6e30bc",
+    "alternateName": "PMI",
+    "name": "centre_de_protection_maternelle_et_infantile_pmi_aumale",
+    "title": "Centre de protection maternelle et infantile (PMI) - Aumale",
+    "url": "https://lannuaire.service-public.fr/normandie/seine-maritime/pmi-76035-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 35 93 43 40",
+      "url": "http://www.seinemaritime.net"
+    }
+  },
+  {
+    "id": "38e1ae58a229c9e0d0f82d6d339b785118377db4",
+    "alternateName": "PMI",
+    "name": "centre_de_protection_maternelle_et_infantile_pmi_aunay_sur_odon",
+    "title": "Centre de protection maternelle et infantile (PMI) - Aunay-sur-Odon",
+    "url": "https://lannuaire.service-public.fr/normandie/calvados/pmi-14027-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 31 77 62 41",
+      "url": "http://www.calvados.fr"
+    }
+  },
+  {
+    "id": "f3581509901417bc9733e11066d6d9275748117e",
+    "alternateName": "PMI",
+    "name": "centre_de_protection_maternelle_et_infantile_pmi_aurec_sur_loire",
+    "title": "Centre de protection maternelle et infantile (PMI) - Aurec-sur-Loire",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/haute-loire/pmi-43012-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 77 35 40 93",
+      "url": "http://www.hauteloire.fr"
+    }
+  },
+  {
+    "id": "fdbf545e9159aa1c0c046a43bbe83e8b76fdc8d9",
+    "alternateName": "PMI",
+    "name": "centre_de_protection_maternelle_et_infantile_pmi_aurillac",
+    "title": "Centre de protection maternelle et infantile (PMI) - Aurillac",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/cantal/pmi-15014-01",
+    "metadata": {
+      "email": "vsouquiere@cantal.fr",
+      "telephone": "04 71 46 20 47",
+      "url": "http://www.cg15.fr"
+    }
+  },
+  {
+    "id": "126b53773b35f17c1da3823aa402c83e924ceaed",
+    "alternateName": "PMI",
+    "name": "centre_de_protection_maternelle_et_infantile_pmi_autun",
+    "title": "Centre de protection maternelle et infantile (PMI) - Autun",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/saone-et-loire/pmi-71014-01",
+    "metadata": {
+      "email": "mds.autun@saoneetloire71.fr",
+      "telephone": "03 85 86 54 44",
+      "url": "http://www.cg71.fr"
+    }
+  },
+  {
+    "id": "128bd45ee6d21e30fd878a260ec2fd0e7b56f5c7",
+    "alternateName": "PMI",
+    "name": "centre_de_protection_maternelle_et_infantile_pmi_auvers_sur_oise",
+    "title": "Centre de protection maternelle et infantile (PMI) - Auvers-sur-Oise",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/val-d-oise/pmi-95039-01",
+    "metadata": {
+      "email": "",
+      "telephone": "01 30 36 83 04",
+      "url": "http://www.valdoise.fr"
+    }
+  },
+  {
+    "id": "0bde08dc3ecee56c7fd8e149fc00fe428c6adf0d",
+    "alternateName": "PMI",
+    "name": "centre_de_protection_maternelle_et_infantile_pmi_auxerre",
+    "title": "Centre de protection maternelle et infantile (PMI) - Auxerre",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/yonne/pmi-89024-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 86 72 88 55",
+      "url": "http://www.lyonne.com"
+    }
+  },
+  {
+    "id": "3583e3763810cf86c682276aec846e41865ae169",
+    "alternateName": "PMI",
+    "name": "centre_de_protection_maternelle_et_infantile_pmi_avesnes_sur_helpe",
+    "title": "Centre de protection maternelle et infantile (PMI) - Avesnes-sur-Helpe",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/nord/pmi-59036-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 27 61 77 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "0e699da592cd823a159da42b1157deeedfbf52e7",
+    "alternateName": "PMI",
+    "name": "centre_de_protection_maternelle_et_infantile_pmi_avignon_anne_d_autriche",
+    "title": "Centre de protection maternelle et infantile (PMI) - Avignon - Anne-d'Autriche",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/vaucluse/pmi-84007-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 90 81 49 40",
+      "url": "http://www.vaucluse.fr"
+    }
+  },
+  {
+    "id": "cf47622040a1a34915c847651031c2a371e6862f",
+    "alternateName": "PMI",
+    "name": "centre_de_protection_maternelle_et_infantile_pmi_avignon_monclar",
+    "title": "Centre de protection maternelle et infantile (PMI) - Avignon - Monclar",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/vaucluse/pmi-84007-03",
+    "metadata": {
+      "email": "edes.avignonouest.pmi@vaucluse.fr",
+      "telephone": "04 90 13 80 20",
+      "url": "http://www.vaucluse.fr"
+    }
+  },
+  {
+    "id": "caf7db6a9bd033882558e22ebae1706dee8af8ab",
+    "alternateName": "PMI",
+    "name": "centre_de_protection_maternelle_et_infantile_pmi_avignon_montfavet",
+    "title": "Centre de protection maternelle et infantile (PMI) - Avignon - Montfavet",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/vaucluse/pmi-84007-02",
+    "metadata": {
+      "email": "",
+      "telephone": "04 32 74 61 00",
+      "url": "http://www.vaucluse.fr"
+    }
+  },
+  {
+    "id": "219f48caea3658bcf53549e9e04dc2420e6985b4",
+    "alternateName": "PMI",
+    "name": "centre_de_protection_maternelle_et_infantile_pmi_avion",
+    "title": "Centre de protection maternelle et infantile (PMI) - Avion",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/pas-de-calais/pmi-62065-01",
+    "metadata": {
+      "email": "dupont.annick@pasdecalais.fr",
+      "telephone": "03 21 13 61 30",
+      "url": ""
+    }
+  },
+  {
+    "id": "a2388fbbae62bf7af73544f09a8e3ce1b9b88f50",
+    "alternateName": "PMI",
+    "name": "centre_de_protection_maternelle_et_infantile_pmi_avranches",
+    "title": "Centre de protection maternelle et infantile (PMI) - Avranches",
+    "url": "https://lannuaire.service-public.fr/normandie/manche/pmi-50025-01",
+    "metadata": {
+      "email": "cms-avranches@manche.fr",
+      "telephone": "02 33 89 27 60",
+      "url": "http://www.manche.fr"
+    }
+  },
+  {
+    "id": "5ec821b351084b623b883d9627fb2d2abf48113f",
+    "alternateName": "PMI",
+    "name": "centre_de_protection_maternelle_et_infantile_pmi_bacqueville_en_caux",
+    "title": "Centre de protection maternelle et infantile (PMI) - Bacqueville-en-Caux",
+    "url": "https://lannuaire.service-public.fr/normandie/seine-maritime/pmi-76051-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 35 83 20 80",
+      "url": "http://www.seinemaritime.net"
+    }
+  },
+  {
+    "id": "5a1b157b4cb91166649e36fd930bb1beb5b0cb36",
+    "alternateName": "PMI",
+    "name": "centre_de_protection_maternelle_et_infantile_pmi_bagneres_de_bigorre",
+    "title": "Centre de protection maternelle et infantile (PMI) - Bagnères-de-Bigorre",
+    "url": "https://lannuaire.service-public.fr/occitanie/hautes-pyrenees/pmi-65059-01",
+    "metadata": {
+      "email": "mds.hautadour@ha-py.fr",
+      "telephone": "05 62 95 23 21",
+      "url": "http://www.hautespyrenees.fr"
+    }
+  },
+  {
+    "id": "f6be382e681719a928e7b878268d8c4587895ca1",
+    "alternateName": "PMI",
+    "name": "centre_de_protection_maternelle_et_infantile_pmi_bagneux_gabriel_peri",
+    "title": "Centre de protection maternelle et infantile (PMI) - Bagneux - Gabriel-Péri",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/hauts-de-seine/pmi-92007-01",
+    "metadata": {
+      "email": "bpmi@hauts-de-seine.fr",
+      "telephone": "08 06 00 00 92",
+      "url": "http://www.hauts-de-seine.fr"
+    }
+  },
+  {
+    "id": "2011d4ca2a7a01e22d9506ca9046e530a2afe13b",
+    "alternateName": "PMI",
+    "name": "centre_de_protection_maternelle_et_infantile_pmi_bagneux_jean_marin_naudin",
+    "title": "Centre de protection maternelle et infantile (PMI) - Bagneux - Jean-Marin-Naudin",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/hauts-de-seine/pmi-92007-02",
+    "metadata": {
+      "email": "",
+      "telephone": "01 47 35 64 16",
+      "url": "http://www.hauts-de-seine.net"
+    }
+  },
+  {
+    "id": "99d61d8b4cd5d2aa95b358f197519cd67740ec6b",
+    "alternateName": "PMI",
+    "name": "centre_de_protection_maternelle_et_infantile_pmi_bagneux_rosiers",
+    "title": "Centre de protection maternelle et infantile (PMI) - Bagneux - Rosiers",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/hauts-de-seine/pmi-92007-03",
+    "metadata": {
+      "email": "",
+      "telephone": "01 45 36 44 10",
+      "url": "http://www.hauts-de-seine.net"
+    }
+  },
+  {
+    "id": "4247aa68fa9753b7e1cfa7ddf8238a165e87e955",
+    "alternateName": "PMI",
+    "name": "centre_de_protection_maternelle_et_infantile_pmi_balma",
+    "title": "Centre de protection maternelle et infantile (PMI) - Balma",
+    "url": "https://lannuaire.service-public.fr/occitanie/haute-garonne/pmi-31044-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 61 24 92 20",
+      "url": "http://www.haute-garonne.fr"
+    }
+  },
+  {
+    "id": "1e24892aa414d49536f46671b4c3e607f1fcf07c",
+    "alternateName": "PMI",
+    "name": "centre_de_protection_maternelle_et_infantile_pmi_bapaume",
+    "title": "Centre de protection maternelle et infantile (PMI) - Bapaume",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/pas-de-calais/pmi-62080-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 21 50 58 30",
+      "url": "http://www.pasdecalais.fr"
+    }
+  },
+  {
+    "id": "791555b06ce5f32c34924c6d6300ec7ab7d7d8a5",
+    "alternateName": "PMI",
+    "name": "centre_de_protection_maternelle_et_infantile_pmi_bar_le_duc",
+    "title": "Centre de protection maternelle et infantile (PMI) - Bar-le-Duc",
+    "url": "https://lannuaire.service-public.fr/grand-est/meuse/pmi-55029-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 29 77 40 45",
+      "url": "http://www.meuse.fr"
+    }
+  },
+  {
+    "id": "aba4ad27eb0ec773379b2c4212060f693ac66b5d",
+    "alternateName": "PMI",
+    "name": "centre_de_protection_maternelle_et_infantile_pmi_basse_pointe",
+    "title": "Centre de protection maternelle et infantile (PMI) - Basse-Pointe",
+    "url": "https://lannuaire.service-public.fr/martinique/martinique/pmi-97203-01",
+    "metadata": {
+      "email": "",
+      "telephone": "+596 5 96 78 53 22",
+      "url": ""
+    }
+  },
+  {
+    "id": "fcbebca19646058134a4bc688c86b71872eb797d",
+    "alternateName": "PMI",
+    "name": "centre_de_protection_maternelle_et_infantile_pmi_bastia",
+    "title": "Centre de protection maternelle et infantile (PMI) - Bastia",
+    "url": "https://lannuaire.service-public.fr/corse/haute-corse/pmi-2B033-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 95 55 06 60",
+      "url": "http://www.haute-corse.fr"
+    }
+  },
+  {
+    "id": "4247a0627ec1320a11ffd301e32e0b42dadbab43",
+    "alternateName": "PMI",
+    "name": "centre_de_protection_maternelle_et_infantile_pmi_bauge_en_anjou",
+    "title": "Centre de protection maternelle et infantile (PMI) - Baugé-en-Anjou",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/maine-et-loire/pmi-49018-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 41 53 02 30",
+      "url": "http://www.maine-et-loire.fr"
+    }
+  },
+  {
+    "id": "c705096f14c2630c88e5d7954e576bb41d7b4f02",
+    "alternateName": "PMI",
+    "name": "centre_de_protection_maternelle_et_infantile_pmi_baume_les_dames",
+    "title": "Centre de protection maternelle et infantile (PMI) - Baume-les-Dames",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/doubs/pmi-25047-01",
+    "metadata": {
+      "email": "cms.BaumeLesDames@doubs.fr",
+      "telephone": "03 81 84 48 70",
+      "url": "http://www.doubs.fr"
+    }
+  },
+  {
+    "id": "5c8c768c25665b75b8e29308e965d0773e9504a6",
+    "alternateName": "PMI",
+    "name": "centre_de_protection_maternelle_et_infantile_pmi_bayeux",
+    "title": "Centre de protection maternelle et infantile (PMI) - Bayeux",
+    "url": "https://lannuaire.service-public.fr/normandie/calvados/pmi-14047-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 31 51 38 00",
+      "url": "https://www.calvados.fr/accueil.html"
+    }
+  },
+  {
+    "id": "f660f33e9da21b8ee77c4e33a874e66c567d4ca4",
+    "alternateName": "PMI",
+    "name": "centre_de_protection_maternelle_et_infantile_pmi_bayonne",
+    "title": "Centre de protection maternelle et infantile (PMI) - Bayonne",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/pyrenees-atlantiques/pmi-64102-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 59 50 62 62",
+      "url": ""
+    }
+  },
+  {
+    "id": "5a620e29b3ae39fb932ade29e0badbf5f050fb48",
+    "alternateName": "PMI",
+    "name": "centre_de_protection_maternelle_et_infantile_pmi_beauchamp",
+    "title": "Centre de protection maternelle et infantile (PMI) - Beauchamp",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/val-d-oise/pmi-95051-01",
+    "metadata": {
+      "email": "",
+      "telephone": "01 34 33 53 60",
+      "url": "http://www.valdoise.fr"
+    }
+  },
+  {
+    "id": "a3d628990b4f9dbd892b6baf137684159844ac5a",
+    "alternateName": "PMI",
+    "name": "centre_de_protection_maternelle_et_infantile_pmi_beaucourt",
+    "title": "Centre de protection maternelle et infantile (PMI) - Beaucourt",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/territoire-de-belfort/pmi-90009-01",
+    "metadata": {
+      "email": "pas.sud-territoire@territoiredebelfort.fr",
+      "telephone": "03 84 56 92 26",
+      "url": "http://www.territoiredebelfort.fr"
+    }
+  },
+  {
+    "id": "2c7ea83fc76787c4b7ef364a7db353031d52327b",
+    "alternateName": "PMI",
+    "name": "centre_de_protection_maternelle_et_infantile_pmi_beaujeu",
+    "title": "Centre de protection maternelle et infantile (PMI) - Beaujeu",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/rhone/pmi-69018-01",
+    "metadata": {
+      "email": "mdr.beaujeu@rhône.fr",
+      "telephone": "04 74 69 51 63",
+      "url": "http://www.rhone.fr"
+    }
+  },
+  {
+    "id": "743e34c8d2d80d04bf97491cc43961e1c8e22b4f",
+    "alternateName": "PMI",
+    "name": "centre_de_protection_maternelle_et_infantile_pmi_beaupreau",
+    "title": "Centre de protection maternelle et infantile (PMI) - Beaupréau",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/maine-et-loire/pmi-49023-01",
+    "metadata": {
+      "email": "",
+      "telephone": "241497610",
+      "url": "http://www.cg49.fr"
+    }
+  },
+  {
+    "id": "4181673c3a0a76502a60d19e3d690bd002fd0db8",
+    "alternateName": "PMI",
+    "name": "centre_de_protection_maternelle_et_infantile_pmi_beauvais",
+    "title": "Centre de protection maternelle et infantile (PMI) - Beauvais",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/oise/pmi-60057-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 44 10 77 00",
+      "url": "http://www.oise.fr"
+    }
+  },
+  {
+    "id": "0c974a80480a19b39c540815d8d68ab2a9211c5c",
+    "alternateName": "PMI",
+    "name": "centre_de_protection_maternelle_et_infantile_pmi_belfort_la_laurencie",
+    "title": "Centre de protection maternelle et infantile (PMI) - Belfort - La Laurencie",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/territoire-de-belfort/pmi-90010-03",
+    "metadata": {
+      "email": "",
+      "telephone": "03 84 28 20 84",
+      "url": "http://www.cg90.fr"
+    }
+  },
+  {
+    "id": "196b69f220df68762121c7a3d0d86dfb371b4e8a",
+    "alternateName": "PMI",
+    "name": "centre_de_protection_maternelle_et_infantile_pmi_belfort_lavoir",
+    "title": "Centre de protection maternelle et infantile (PMI) - Belfort - Lavoir",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/territoire-de-belfort/pmi-90010-02",
+    "metadata": {
+      "email": "pas.jean-jaures@territoiredebelfort.fr",
+      "telephone": "03 84 46 61 60",
+      "url": "http://www.cg90.fr"
+    }
+  },
+  {
+    "id": "edc7c0362657fefee19c7dc7973ab3351b88ee75",
+    "alternateName": "PMI",
+    "name": "centre_de_protection_maternelle_et_infantile_pmi_bellac",
+    "title": "Centre de protection maternelle et infantile (PMI) - Bellac",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/haute-vienne/pmi-87011-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 55 68 15 87",
+      "url": "http://www.cg87.fr"
+    }
+  },
+  {
+    "id": "d3ea9589055a6426639e81f79cd0360086b39ea1",
+    "alternateName": "PMI",
+    "name": "centre_de_protection_maternelle_et_infantile_pmi_belleville",
+    "title": "Centre de protection maternelle et infantile (PMI) - Belleville",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/rhone/pmi-69019-01",
+    "metadata": {
+      "email": "mdr.belleville@rhone.fr",
+      "telephone": "04 74 06 19 90",
+      "url": "http://www.rhone.fr"
+    }
+  },
+  {
+    "id": "bff447fddff524860747bfb9739a960bf1603158",
+    "alternateName": "PMI",
+    "name": "centre_de_protection_maternelle_et_infantile_pmi_belley",
+    "title": "Centre de protection maternelle et infantile (PMI) - Belley",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/ain/pmi-01034-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 79 81 34 27",
+      "url": "http://www.ain.fr"
+    }
+  },
+  {
+    "id": "361821f3cf5243bc7d771acd70c9b3cc0173daa4",
+    "alternateName": "PMI",
+    "name": "centre_de_protection_maternelle_et_infantile_pmi_beny_bocage",
+    "title": "Centre de protection maternelle et infantile (PMI) - Bény-Bocage",
+    "url": "https://lannuaire.service-public.fr/normandie/calvados/pmi-14061-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 31 68 69 79",
+      "url": "http://www.calvados.fr"
+    }
+  },
+  {
+    "id": "9e50d702c8c1ad785433358b5ca845fc6bce5b46",
+    "alternateName": "PMI",
+    "name": "centre_de_protection_maternelle_et_infantile_pmi_bergerac",
+    "title": "Centre de protection maternelle et infantile (PMI) - Bergerac",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/dordogne/pmi-24037-01",
+    "metadata": {
+      "email": "cg24.ut.berg-est@dordogne.fr",
+      "telephone": "05 53 02 04 70",
+      "url": "http://www.cg24.fr"
+    }
+  },
+  {
+    "id": "917553d180c881fc7c71a64356ec2fad4197094f",
+    "alternateName": "PMI",
+    "name": "centre_de_protection_maternelle_et_infantile_pmi_bernay",
+    "title": "Centre de protection maternelle et infantile (PMI) - Bernay",
+    "url": "https://lannuaire.service-public.fr/normandie/eure/pmi-27056-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 32 43 26 18",
+      "url": "http://www.eureenligne.fr"
+    }
+  },
+  {
+    "id": "c83bfdb61167c683f68293fdad9cc99faa5530b3",
+    "alternateName": "PMI",
+    "name": "centre_de_protection_maternelle_et_infantile_pmi_besancon",
+    "title": "Centre de protection maternelle et infantile (PMI) - Besançon",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/doubs/pmi-25056-01",
+    "metadata": {
+      "email": "def@doubs.fr",
+      "telephone": "03 81 25 86 31",
+      "url": "http://www.doubs.fr"
+    }
+  },
+  {
+    "id": "d68b690a3731ce8ad547f6e487ae414fee58b184",
+    "alternateName": "PMI",
+    "name": "centre_de_protection_maternelle_et_infantile_pmi_bessancourt",
+    "title": "Centre de protection maternelle et infantile (PMI) - Bessancourt",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/val-d-oise/pmi-95060-01",
+    "metadata": {
+      "email": "",
+      "telephone": "01 30 40 83 97",
+      "url": "http://www.valdoise.fr"
+    }
+  },
+  {
+    "id": "29b3bd94f5cb409a421ee8056560fcbbd54d0f09",
+    "alternateName": "PMI",
+    "name": "centre_de_protection_maternelle_et_infantile_pmi_bethune",
+    "title": "Centre de protection maternelle et infantile (PMI) - Béthune",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/pas-de-calais/pmi-62119-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 21 01 62 62",
+      "url": "http://www.cg62.fr"
+    }
+  },
+  {
+    "id": "b5f829e1323cf43782af7d50352b732f3042cadc",
+    "alternateName": "PMI",
+    "name": "centre_de_protection_maternelle_et_infantile_pmi_beziers_albert_1_er",
+    "title": "Centre de protection maternelle et infantile (PMI) - Béziers - Albert-1er",
+    "url": "https://lannuaire.service-public.fr/occitanie/herault/pmi-34032-02",
+    "metadata": {
+      "email": "",
+      "telephone": "04 67 67 55 60",
+      "url": "http://www.herault.fr"
+    }
+  },
+  {
+    "id": "eecfcfb120ea980421d97dd59f6a4058fe76c6df",
+    "alternateName": "PMI",
+    "name": "centre_de_protection_maternelle_et_infantile_pmi_beziers_jules_cadenat",
+    "title": "Centre de protection maternelle et infantile (PMI) - Béziers - Jules-Cadenat",
+    "url": "https://lannuaire.service-public.fr/occitanie/herault/pmi-34032-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 67 67 53 20",
+      "url": "http://www.cg34.fr"
+    }
+  },
+  {
+    "id": "01b0daef075b8078b9985ac65914fbb90dceee21",
+    "alternateName": "PMI",
+    "name": "centre_de_protection_maternelle_et_infantile_pmi_biarritz",
+    "title": "Centre de protection maternelle et infantile (PMI) - Biarritz",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/pyrenees-atlantiques/pmi-64122-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 59 01 61 61",
+      "url": "http://www.le64.fr"
+    }
+  },
+  {
+    "id": "d919eea015d25c02a7735228dc36616a385b9b5a",
+    "alternateName": "PMI",
+    "name": "centre_de_protection_maternelle_et_infantile_pmi_bihorel",
+    "title": "Centre de protection maternelle et infantile (PMI) - Bihorel",
+    "url": "https://lannuaire.service-public.fr/normandie/seine-maritime/pmi-76108-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 35 59 98 76",
+      "url": "http://www.seinemaritime.net"
+    }
+  },
+  {
+    "id": "c950c373e5afe44414c044492eb1ae086230f4c3",
+    "alternateName": "PMI",
+    "name": "centre_de_protection_maternelle_et_infantile_pmi_billere",
+    "title": "Centre de protection maternelle et infantile (PMI) - Billère",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/pyrenees-atlantiques/pmi-64129-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 59 72 03 03",
+      "url": "http://www.le64.fr"
+    }
+  },
+  {
+    "id": "6c03967c164fdc0d96336c6af9b9f8b1c60dfd81",
+    "alternateName": "PMI",
+    "name": "centre_de_protection_maternelle_et_infantile_pmi_blagnac",
+    "title": "Centre de protection maternelle et infantile (PMI) - Blagnac",
+    "url": "https://lannuaire.service-public.fr/occitanie/haute-garonne/pmi-31069-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 61 71 03 50",
+      "url": "http://www.haute-garonne.fr"
+    }
+  },
+  {
+    "id": "21bd6aee50f9889987226d898eb121074873a6d6",
+    "alternateName": "PMI",
+    "name": "centre_de_protection_maternelle_et_infantile_pmi_blanc",
+    "title": "Centre de protection maternelle et infantile (PMI) - Blanc",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/indre/pmi-36018-01",
+    "metadata": {
+      "email": "dpds-cas-leblanc@indre.fr",
+      "telephone": "02 54 28 35 20",
+      "url": ""
+    }
+  },
+  {
+    "id": "eeb258884f4d1df9228f08bb9abe31334284634a",
+    "alternateName": "PMI",
+    "name": "centre_de_protection_maternelle_et_infantile_pmi_blanc_mesnil",
+    "title": "Centre de protection maternelle et infantile (PMI) - Blanc-Mesnil",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/seine-saint-denis/pmi-93007-01",
+    "metadata": {
+      "email": "nkingue@cg93.fr",
+      "telephone": "171294804",
+      "url": "http://www.cg93.fr"
+    }
+  },
+  {
+    "id": "b958bc6b1441c0ee5abe16084d0cdefbf05a604a",
+    "alternateName": "PMI",
+    "name": "centre_de_protection_maternelle_et_infantile_pmi_blangy_sur_bresle",
+    "title": "Centre de protection maternelle et infantile (PMI) - Blangy-sur-Bresle",
+    "url": "https://lannuaire.service-public.fr/normandie/seine-maritime/pmi-76101-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 35 93 53 53",
+      "url": "http://www.seinemaritime.net"
+    }
+  },
+  {
+    "id": "2620a934e1ce9acc4584950d211772168028d91a",
+    "alternateName": "PMI",
+    "name": "centre_de_protection_maternelle_et_infantile_pmi_blois",
+    "title": "Centre de protection maternelle et infantile (PMI) - Blois",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/loir-et-cher/pmi-41018-01",
+    "metadata": {
+      "email": "contact@cg41.fr",
+      "telephone": "02 54 58 41 41",
+      "url": "http://www.le-loir-et-cher.fr"
+    }
+  },
+  {
+    "id": "b2ed41bfdda2941a13cea45fe8bd169eb87f01be",
+    "alternateName": "PMI",
+    "name": "centre_de_protection_maternelle_et_infantile_pmi_bobigny_marcel_cachin",
+    "title": "Centre de protection maternelle et infantile (PMI) - Bobigny - Marcel-Cachin",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/seine-saint-denis/pmi-93008-01",
+    "metadata": {
+      "email": "",
+      "telephone": "01 71 29 54 93",
+      "url": ""
+    }
+  },
+  {
+    "id": "55e6a484f0c213f11f6683e6304756eefe06eb61",
+    "alternateName": "PMI",
+    "name": "centre_de_protection_maternelle_et_infantile_pmi_bobigny_oslo",
+    "title": "Centre de protection maternelle et infantile (PMI) - Bobigny - Oslo",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/seine-saint-denis/pmi-93008-02",
+    "metadata": {
+      "email": "cagomis@cg.fr",
+      "telephone": "01 71 29 54 55",
+      "url": "http://www.cg93.fr"
+    }
+  },
+  {
+    "id": "6a28c76640dadfbc1863746ad12377d161978dc6",
+    "alternateName": "PMI",
+    "name": "centre_de_protection_maternelle_et_infantile_pmi_bogny_sur_meuse",
+    "title": "Centre de protection maternelle et infantile (PMI) - Bogny-sur-Meuse",
+    "url": "https://lannuaire.service-public.fr/grand-est/ardennes/pmi-08081-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 24 32 04 72",
+      "url": "http://www.cd08.fr"
+    }
+  },
+  {
+    "id": "0198dca41474d6174a76e8f2ea84cd08657c74fd",
+    "alternateName": "PMI",
+    "name": "centre_de_protection_maternelle_et_infantile_pmi_bois_colombes",
+    "title": "Centre de protection maternelle et infantile (PMI) - Bois-Colombes",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/hauts-de-seine/pmi-92009-01",
+    "metadata": {
+      "email": "bpmi2@hauts-de-seine.fr",
+      "telephone": "01 56 05 82 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "92c5152651a6e07f2d768131149d5d0438607777",
+    "alternateName": "PMI",
+    "name": "centre_de_protection_maternelle_et_infantile_pmi_bois_d_oingt",
+    "title": "Centre de protection maternelle et infantile (PMI) - Bois-d'Oingt",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/rhone/pmi-69024-01",
+    "metadata": {
+      "email": "mdr.bois-oingt@rhone.fr",
+      "telephone": "04 74 71 60 16",
+      "url": "http://www.rhone.fr"
+    }
+  },
+  {
+    "id": "4fac901ddd2502313958568c4da6af58f86b3b9b",
+    "alternateName": "PMI",
+    "name": "centre_de_protection_maternelle_et_infantile_pmi_boissy_saint_leger",
+    "title": "Centre de protection maternelle et infantile (PMI) - Boissy-Saint-Léger",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/val-de-marne/pmi-94004-01",
+    "metadata": {
+      "email": "",
+      "telephone": "01 56 71 41 49",
+      "url": ""
+    }
+  },
+  {
+    "id": "d3eccb999ad9231f55f8ce92a1cc52a29e832811",
+    "alternateName": "PMI",
+    "name": "centre_de_protection_maternelle_et_infantile_pmi_bolbec",
+    "title": "Centre de protection maternelle et infantile (PMI) - Bolbec",
+    "url": "https://lannuaire.service-public.fr/normandie/seine-maritime/pmi-76114-02",
+    "metadata": {
+      "email": "",
+      "telephone": "02 35 31 55 80",
+      "url": "http://www.seinemaritime.net"
+    }
+  },
+  {
+    "id": "39be5e76cae4952b50631a0e5ff9179d16b6437e",
+    "alternateName": "PMI",
+    "name": "centre_de_protection_maternelle_et_infantile_pmi_bollene",
+    "title": "Centre de protection maternelle et infantile (PMI) - Bollène",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/vaucluse/pmi-84019-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 90 30 11 34",
+      "url": "http://www.vaucluse.fr"
+    }
+  },
+  {
+    "id": "2f8efe1aa8165b92c50dcdcaba8b1f3b3f3a68d2",
+    "alternateName": "PMI",
+    "name": "centre_de_protection_maternelle_et_infantile_pmi_bondy_leon_blum",
+    "title": "Centre de protection maternelle et infantile (PMI) - Bondy - Léon-Blum",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/seine-saint-denis/pmi-93010-01",
+    "metadata": {
+      "email": "",
+      "telephone": "01 71 29 59 81",
+      "url": "http://www.cg93.fr"
+    }
+  },
+  {
+    "id": "9e28fde7f1375509f6657b4d43611faf009a107d",
+    "alternateName": "PMI",
+    "name": "centre_de_protection_maternelle_et_infantile_pmi_bondy_verdun",
+    "title": "Centre de protection maternelle et infantile (PMI) - Bondy - Verdun",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/seine-saint-denis/pmi-93010-02",
+    "metadata": {
+      "email": "",
+      "telephone": "01 71 29 54 07",
+      "url": "http://www.cg93.fr"
+    }
+  },
+  {
+    "id": "719527cbdc309a5cc40ff0b0bc113b880fbcc92d",
+    "alternateName": "PMI",
+    "name": "centre_de_protection_maternelle_et_infantile_pmi_bonneuil_sur_marne",
+    "title": "Centre de protection maternelle et infantile (PMI) - Bonneuil-sur-Marne",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/val-de-marne/pmi-94011-01",
+    "metadata": {
+      "email": "",
+      "telephone": "01 43 39 74 03",
+      "url": ""
+    }
+  },
+  {
+    "id": "2415424309f4915c3651473ecc71fc10cb3e43ea",
+    "alternateName": "PMI",
+    "name": "centre_de_protection_maternelle_et_infantile_pmi_bouloc",
+    "title": "Centre de protection maternelle et infantile (PMI) - Bouloc",
+    "url": "https://lannuaire.service-public.fr/occitanie/haute-garonne/pmi-31079-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 34 27 94 94",
+      "url": "http://www.haute-garonne.fr"
+    }
+  },
+  {
+    "id": "cbc945fb8a8b84e5e6b9a58fd7cf5eb62ed7ddf3",
+    "alternateName": "PMI",
+    "name": "centre_de_protection_maternelle_et_infantile_pmi_boulogne_billancourt",
+    "title": "Centre de protection maternelle et infantile (PMI) - Boulogne-Billancourt",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/hauts-de-seine/pmi-92012-02",
+    "metadata": {
+      "email": "",
+      "telephone": "01 46 04 78 47",
+      "url": "http://www.hauts-de-seine.net"
+    }
+  },
+  {
+    "id": "1203d8aa347311f32e666a362e00fb070cf671b4",
+    "alternateName": "PMI",
+    "name": "centre_de_protection_maternelle_et_infantile_pmi_boulogne_sur_mer",
+    "title": "Centre de protection maternelle et infantile (PMI) - Boulogne-sur-Mer",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/pas-de-calais/pmi-62160-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 21 99 15 40",
+      "url": "http://www.pasdecalais.fr"
+    }
+  },
+  {
+    "id": "d19d495db80b4415d52b5fc94299d299ec80aa7e",
+    "alternateName": "PMI",
+    "name": "centre_de_protection_maternelle_et_infantile_pmi_bourbon_lancy",
+    "title": "Centre de protection maternelle et infantile (PMI) - Bourbon-Lancy",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/saone-et-loire/pmi-71047-01",
+    "metadata": {
+      "email": "mds.bourbonlancy@saoneetloire71.fr",
+      "telephone": "03 85 89 04 97",
+      "url": "http://www.cg71.fr"
+    }
+  },
+  {
+    "id": "002664c677e86a5ee6f1c3fcf0a486513c73d324",
+    "alternateName": "PMI",
+    "name": "centre_de_protection_maternelle_et_infantile_pmi_bourg_de_peage",
+    "title": "Centre de protection maternelle et infantile (PMI) - Bourg-de-Péage",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/drome/pmi-26057-01",
+    "metadata": {
+      "email": "cms.bourgdepeage@ladrome.fr",
+      "telephone": "04 75 70 88 30",
+      "url": "http://www.drome.fr"
+    }
+  },
+  {
+    "id": "f2fd87ce7764795e5ce0ae9a84760c7c40911016",
+    "alternateName": "PMI",
+    "name": "centre_de_protection_maternelle_et_infantile_pmi_bourg_en_bresse",
+    "title": "Centre de protection maternelle et infantile (PMI) - Bourg-en-Bresse",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/ain/pmi-01053-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 74 32 32 70",
+      "url": "http://www.ain.fr"
+    }
+  },
+  {
+    "id": "1034ee36e25271a46f080ca6d2922d7577536c19",
+    "alternateName": "PMI",
+    "name": "centre_de_protection_maternelle_et_infantile_pmi_bourges",
+    "title": "Centre de protection maternelle et infantile (PMI) - Bourges",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/cher/pmi-18033-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 48 55 82 00",
+      "url": "http://www.conseildepartemental18.fr"
+    }
+  },
+  {
+    "id": "f3c5dd36c4aa1769b7e9c77c4268f488f7737632",
+    "alternateName": "PMI",
+    "name": "centre_de_protection_maternelle_et_infantile_pmi_bourg_la_reine",
+    "title": "Centre de protection maternelle et infantile (PMI) - Bourg-la-Reine",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/hauts-de-seine/pmi-92014-01",
+    "metadata": {
+      "email": "rpmi@hauts-de-seine.fr",
+      "telephone": "01 77 92 19 10",
+      "url": "http://www.hauts-de-seine.net"
+    }
+  },
+  {
+    "id": "ccbc2905b117587492d2d57aaca45e861a895eed",
+    "alternateName": "PMI",
+    "name": "centre_de_protection_maternelle_et_infantile_pmi_bourg_les_valence",
+    "title": "Centre de protection maternelle et infantile (PMI) - Bourg-lès-Valence",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/drome/pmi-26058-01",
+    "metadata": {
+      "email": "cms.bourglesvalence@ladrome.fr",
+      "telephone": "04 75 78 16 50",
+      "url": "http://www.drome.fr"
+    }
+  },
+  {
+    "id": "46c3f99860a37154caa7e369f05c9232c47bb493",
+    "alternateName": "PMI",
+    "name": "centre_de_protection_maternelle_et_infantile_pmi_bourguebus",
+    "title": "Centre de protection maternelle et infantile (PMI) - Bourguébus",
+    "url": "https://lannuaire.service-public.fr/normandie/calvados/pmi-14092-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 31 23 11 95",
+      "url": "http://www.calvados.fr"
+    }
+  },
+  {
+    "id": "7b5e66bcbf64eed879d1b0d79a692107dbb0c162",
+    "alternateName": "PMI",
+    "name": "centre_de_protection_maternelle_et_infantile_pmi_brassac_les_mines",
+    "title": "Centre de protection maternelle et infantile (PMI) - Brassac-les-Mines",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/puy-de-dome/pmi-63050-01",
+    "metadata": {
+      "email": "sec-sancyvaldallier@puy-de-dome.fr",
+      "telephone": "04 73 42 21 31",
+      "url": ""
+    }
+  },
+  {
+    "id": "ebd07d540372ed009009b63668ab3f4c18cab9a0",
+    "alternateName": "PMI",
+    "name": "centre_de_protection_maternelle_et_infantile_pmi_bressuire",
+    "title": "Centre de protection maternelle et infantile (PMI) - Bressuire",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/deux-sevres/pmi-79049-01",
+    "metadata": {
+      "email": "ams-bressuirais@deux-sevres.fr",
+      "telephone": "05 49 65 05 07",
+      "url": "http://www.deux-sevres.fr"
+    }
+  },
+  {
+    "id": "ae63a917dd50e14439ce0f4efcd8acf129c5361e",
+    "alternateName": "PMI",
+    "name": "centre_de_protection_maternelle_et_infantile_pmi_brest_bellevue",
+    "title": "Centre de protection maternelle et infantile (PMI) - Brest - Bellevue",
+    "url": "https://lannuaire.service-public.fr/bretagne/finistere/pmi-29019-02",
+    "metadata": {
+      "email": "",
+      "telephone": "02 98 47 08 09",
+      "url": "http://www.finistere.fr"
+    }
+  },
+  {
+    "id": "5685ec2cc69133a72e3f051a26fb4cc267d99347",
+    "alternateName": "PMI",
+    "name": "centre_de_protection_maternelle_et_infantile_pmi_brest_pen_ar_pave",
+    "title": "Centre de protection maternelle et infantile (PMI) - Brest - Pen-Ar-Pave",
+    "url": "https://lannuaire.service-public.fr/bretagne/finistere/pmi-29019-07",
+    "metadata": {
+      "email": "cdas_lambezellec@finistere.fr",
+      "telephone": "02 98 03 39 52",
+      "url": "http://www.finistere.fr"
+    }
+  },
+  {
+    "id": "4b915807f90e36e26893515220808c31f30090e8",
+    "alternateName": "PMI",
+    "name": "centre_de_protection_maternelle_et_infantile_pmi_brest_professeur_chretien",
+    "title": "Centre de protection maternelle et infantile (PMI) - Brest - Professeur-Chrétien",
+    "url": "https://lannuaire.service-public.fr/bretagne/finistere/pmi-29019-08",
+    "metadata": {
+      "email": "",
+      "telephone": "02 98 02 18 56",
+      "url": ""
+    }
+  },
+  {
+    "id": "0e04876c2105ce15194f81de07ce918fef751230",
+    "alternateName": "PMI",
+    "name": "centre_de_protection_maternelle_et_infantile_pmi_brest_queliverzan",
+    "title": "Centre de protection maternelle et infantile (PMI) - Brest - Quéliverzan",
+    "url": "https://lannuaire.service-public.fr/bretagne/finistere/pmi-29019-10",
+    "metadata": {
+      "email": "",
+      "telephone": "02 98 45 98 67",
+      "url": ""
+    }
+  },
+  {
+    "id": "6b0c83b3da673e7156f922e283a9900ceafe2925",
+    "alternateName": "PMI",
+    "name": "centre_de_protection_maternelle_et_infantile_pmi_brest_rive_droite",
+    "title": "Centre de protection maternelle et infantile (PMI) - Brest - Rive-Droite",
+    "url": "https://lannuaire.service-public.fr/bretagne/finistere/pmi-29019-12",
+    "metadata": {
+      "email": "",
+      "telephone": "02 98 45 16 54",
+      "url": "http://www.finistere.fr"
+    }
+  },
+  {
+    "id": "3b2655e2d39f6e5441409e3ae6eaf860d2179ebe",
+    "alternateName": "PMI",
+    "name": "centre_de_protection_maternelle_et_infantile_pmi_bretigny_sur_orge",
+    "title": "Centre de protection maternelle et infantile (PMI) - Brétigny-sur-Orge",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/essonne/pmi-91103-01",
+    "metadata": {
+      "email": "pmibretigny@essonne.fr",
+      "telephone": "01 60 84 47 75",
+      "url": "http://www.essonne.fr"
+    }
+  },
+  {
+    "id": "4add651fa5970681e52bece8755b49d5e987912b",
+    "alternateName": "PMI",
+    "name": "centre_de_protection_maternelle_et_infantile_pmi_bretteville_sur_laize",
+    "title": "Centre de protection maternelle et infantile (PMI) - Bretteville-sur-Laize",
+    "url": "https://lannuaire.service-public.fr/normandie/calvados/pmi-14100-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 31 41 64 72",
+      "url": "http://www.calvados.fr"
+    }
+  },
+  {
+    "id": "45b91fcc27569436000fdc947f66b71e27c78ef5",
+    "alternateName": "PMI",
+    "name": "centre_de_protection_maternelle_et_infantile_pmi_breuillet",
+    "title": "Centre de protection maternelle et infantile (PMI) - Breuillet",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/essonne/pmi-91105-01",
+    "metadata": {
+      "email": "",
+      "telephone": "01 64 58 58 52",
+      "url": "http://www.cd-essonne.fr"
+    }
+  },
+  {
+    "id": "d310b349e52404595edb41a31519d3597a328dc4",
+    "alternateName": "PMI",
+    "name": "centre_de_protection_maternelle_et_infantile_pmi_briec",
+    "title": "Centre de protection maternelle et infantile (PMI) - Briec",
+    "url": "https://lannuaire.service-public.fr/bretagne/finistere/pmi-29020-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 98 76 25 00",
+      "url": "http://www.finistere.fr"
+    }
+  },
+  {
+    "id": "3fef51bbd4ac21b2fe03a503989cdfc350d68af7",
+    "alternateName": "PMI",
+    "name": "centre_de_protection_maternelle_et_infantile_pmi_brioude",
+    "title": "Centre de protection maternelle et infantile (PMI) - Brioude",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/haute-loire/pmi-43040-01",
+    "metadata": {
+      "email": "territoiredelafayette@hauteloire.fr",
+      "telephone": "04 71 50 34 55",
+      "url": ""
+    }
+  },
+  {
+    "id": "1e8cb891b02dffdbfdfdf92c5f638e80c5b52333",
+    "alternateName": "PMI",
+    "name": "centre_de_protection_maternelle_et_infantile_pmi_bruay_la_buissiere",
+    "title": "Centre de protection maternelle et infantile (PMI) - Bruay-la-Buissière",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/pas-de-calais/pmi-62178-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 91 80 05 10",
+      "url": "http://www.pasdecalais.fr"
+    }
+  },
+  {
+    "id": "2650b7d564a172ab41edddf8e9730f5e20d2adc7",
+    "alternateName": "PMI",
+    "name": "centre_de_protection_maternelle_et_infantile_pmi_brunoy",
+    "title": "Centre de protection maternelle et infantile (PMI) - Brunoy",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/essonne/pmi-91114-02",
+    "metadata": {
+      "email": "",
+      "telephone": "01 69 43 75 04",
+      "url": ""
+    }
+  },
+  {
+    "id": "a7eaecda0aa2b48466e258cb3a7927d5e3b326f9",
+    "alternateName": "PMI",
+    "name": "centre_de_protection_maternelle_et_infantile_pmi_bry_sur_marne",
+    "title": "Centre de protection maternelle et infantile (PMI) - Bry-sur-Marne",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/val-de-marne/pmi-94015-01",
+    "metadata": {
+      "email": "pmi-ferr.bry@valdemarne.fr",
+      "telephone": "01 48 81 01 20",
+      "url": "http://www.valdemarne.fr"
+    }
+  },
+  {
+    "id": "aedabe6637946751e1bb7496c868ada53c965a33",
+    "alternateName": "PMI",
+    "name": "centre_de_protection_maternelle_et_infantile_pmi_buchy",
+    "title": "Centre de protection maternelle et infantile (PMI) - Buchy",
+    "url": "https://lannuaire.service-public.fr/normandie/seine-maritime/pmi-76146-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 35 34 31 06",
+      "url": "http://www.seinemaritime.net"
+    }
+  },
+  {
+    "id": "7a45b65bdf090e83ca7e576df469e8558404ed32",
+    "alternateName": "PMI",
+    "name": "centre_de_protection_maternelle_et_infantile_pmi_buis_les_baronnies",
+    "title": "Centre de protection maternelle et infantile (PMI) - Buis-les-Baronnies",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/drome/pmi-26063-01",
+    "metadata": {
+      "email": "cms.buislesbaronnies@ladrome.fr",
+      "telephone": "04 75 28 12 18",
+      "url": "http://www.drome.fr"
+    }
+  },
+  {
+    "id": "4f2728b81c7c84a77791b7b211ad8e0e6272986f",
+    "alternateName": "PMI",
+    "name": "centre_de_protection_maternelle_et_infantile_pmi_bully_les_mines",
+    "title": "Centre de protection maternelle et infantile (PMI) - Bully-les-Mines",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/pas-de-calais/pmi-62186-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 21 45 67 45",
+      "url": ""
+    }
+  },
+  {
+    "id": "cd701738cd9c60047798c76df690d661da9492b0",
+    "alternateName": "PMI",
+    "name": "centre_de_protection_maternelle_et_infantile_pmi_cabourg",
+    "title": "Centre de protection maternelle et infantile (PMI) - Cabourg",
+    "url": "https://lannuaire.service-public.fr/normandie/calvados/pmi-14117-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 31 91 17 95",
+      "url": "http://www.calvados.fr"
+    }
+  },
+  {
+    "id": "878ec0d0f87c741aa04f86a113ae77b7fd31099e",
+    "alternateName": "PMI",
+    "name": "centre_de_protection_maternelle_et_infantile_pmi_caillebotte",
+    "title": "Centre de protection maternelle et infantile (PMI) - Caillebotte",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/paris/pmi-75120-02",
+    "metadata": {
+      "email": "",
+      "telephone": "01 84 82 18 17",
+      "url": "https://www.paris.fr/pages/sante-de-l-enfant-2298"
+    }
+  },
+  {
+    "id": "6bd708ff5a1d18f4394ad5b9b6c07df1a1a73f63",
+    "alternateName": "PMI",
+    "name": "centre_de_protection_maternelle_et_infantile_pmi_calais_11_novembre",
+    "title": "Centre de protection maternelle et infantile (PMI) - Calais - 11-novembre",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/pas-de-calais/pmi-62193-02",
+    "metadata": {
+      "email": "",
+      "telephone": "03 21 85 41 26",
+      "url": "http://www.pasdecalais.fr"
+    }
+  },
+  {
+    "id": "dcc365cf65dbbb1b36fd609f039d9a156e4394b7",
+    "alternateName": "PMI",
+    "name": "centre_de_protection_maternelle_et_infantile_pmi_calais_gaillard",
+    "title": "Centre de protection maternelle et infantile (PMI) - Calais - Gaillard",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/pas-de-calais/pmi-62193-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 21 00 02 00",
+      "url": "http://www.pasdecalais.fr"
+    }
+  },
+  {
+    "id": "ec6c2b305b2a072d4d34aa800eaa84bda30e8357",
+    "alternateName": "PMI",
+    "name": "centre_de_protection_maternelle_et_infantile_pmi_caluire_et_cuire",
+    "title": "Centre de protection maternelle et infantile (PMI) - Caluire-et-Cuire",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/rhone/pmi-69034-01",
+    "metadata": {
+      "email": "mdm.caluire@grandlyon.com",
+      "telephone": "04 78 98 90 80",
+      "url": "https://www.rhone.fr"
+    }
+  },
+  {
+    "id": "ea030c8890e683fc1f4a812c0755330b3273295b",
+    "alternateName": "PMI",
+    "name": "centre_de_protection_maternelle_et_infantile_pmi_cambrai",
+    "title": "Centre de protection maternelle et infantile (PMI) - Cambrai",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/nord/pmi-59122-01",
+    "metadata": {
+      "email": "utpas-cambraimarcoing@lenord.fr",
+      "telephone": "03 59 73 37 00",
+      "url": "http://www.lenord.fr"
+    }
+  },
+  {
+    "id": "9aec4fbed7da77fa0472cee590d8cbffb45ff505",
+    "alternateName": "PMI",
+    "name": "centre_de_protection_maternelle_et_infantile_pmi_canteleu",
+    "title": "Centre de protection maternelle et infantile (PMI) - Canteleu",
+    "url": "https://lannuaire.service-public.fr/normandie/seine-maritime/pmi-76157-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 35 36 04 54",
+      "url": "http://www.seinemaritime.net"
+    }
+  },
+  {
+    "id": "39643ce630feb3b5253f65fcfae7c373d13a9d18",
+    "alternateName": "PMI",
+    "name": "centre_de_protection_maternelle_et_infantile_pmi_cany_barville",
+    "title": "Centre de protection maternelle et infantile (PMI) - Cany-Barville",
+    "url": "https://lannuaire.service-public.fr/normandie/seine-maritime/pmi-76159-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 35 97 83 41",
+      "url": "http://www.seinemaritime.net"
+    }
+  },
+  {
+    "id": "388a5adf7e5e3faa960cd39d5ac6dedd1227e483",
+    "alternateName": "PMI",
+    "name": "centre_de_protection_maternelle_et_infantile_pmi_capestang",
+    "title": "Centre de protection maternelle et infantile (PMI) - Capestang",
+    "url": "https://lannuaire.service-public.fr/occitanie/herault/pmi-34052-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 67 67 35 20",
+      "url": "http://www.cg34.fr"
+    }
+  },
+  {
+    "id": "d394df8647cf2288bb3185ecdc8d6c5a7714692a",
+    "alternateName": "PMI",
+    "name": "centre_de_protection_maternelle_et_infantile_pmi_carbet",
+    "title": "Centre de protection maternelle et infantile (PMI) - Carbet",
+    "url": "https://lannuaire.service-public.fr/martinique/martinique/pmi-97204-01",
+    "metadata": {
+      "email": "",
+      "telephone": "+596 5 96 78 65 68",
+      "url": "http://www.collectivitedemartinique.mq"
+    }
+  },
+  {
+    "id": "6f26ca4906b61e36cdcab054a33b124fbe609a9a",
+    "alternateName": "PMI",
+    "name": "centre_de_protection_maternelle_et_infantile_pmi_carcassonne_palais",
+    "title": "Centre de protection maternelle et infantile (PMI) - Carcassonne - Palais",
+    "url": "https://lannuaire.service-public.fr/occitanie/aude/pmi-11069-01",
+    "metadata": {
+      "email": "cms.carca.centre@aude.fr",
+      "telephone": "04 68 11 52 70",
+      "url": "http://www.aude.fr"
+    }
+  },
+  {
+    "id": "dd43896a17b8c129156114498db88e8c529273d9",
+    "alternateName": "PMI",
+    "name": "centre_de_protection_maternelle_et_infantile_pmi_carcassonne_pierre_curie",
+    "title": "Centre de protection maternelle et infantile (PMI) - Carcassonne - Pierre-Curie",
+    "url": "https://lannuaire.service-public.fr/occitanie/aude/pmi-11069-03",
+    "metadata": {
+      "email": "cms.carca.ouest@aude.fr",
+      "telephone": "04 68 71 11 30",
+      "url": ""
+    }
+  },
+  {
+    "id": "4475f6c40cc0f32db496a66b46d7f854cfc8766f",
+    "alternateName": "PMI",
+    "name": "centre_de_protection_maternelle_et_infantile_pmi_carentan",
+    "title": "Centre de protection maternelle et infantile (PMI) - Carentan",
+    "url": "https://lannuaire.service-public.fr/normandie/manche/pmi-50099-01",
+    "metadata": {
+      "email": "cms-carentan@manche.fr",
+      "telephone": "02 33 71 63 63",
+      "url": "http://www.manche.fr"
+    }
+  },
+  {
+    "id": "fa6cff000c545e209f7c5f03e8b2edfd602daf07",
+    "alternateName": "PMI",
+    "name": "centre_de_protection_maternelle_et_infantile_pmi_carhaix_plouguer",
+    "title": "Centre de protection maternelle et infantile (PMI) - Carhaix-Plouguer",
+    "url": "https://lannuaire.service-public.fr/bretagne/finistere/pmi-29024-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 98 99 31 50",
+      "url": ""
+    }
+  },
+  {
+    "id": "ac818d83668b1d4fe64affe05c495269d17620e5",
+    "alternateName": "PMI",
+    "name": "centre_de_protection_maternelle_et_infantile_pmi_carmaux",
+    "title": "Centre de protection maternelle et infantile (PMI) - Carmaux",
+    "url": "https://lannuaire.service-public.fr/occitanie/tarn/pmi-81060-01",
+    "metadata": {
+      "email": "maison-carmaux-ds@tarn.fr",
+      "telephone": "05 63 80 22 30",
+      "url": "http://www.tarn.fr"
+    }
+  },
+  {
+    "id": "6a92d0b2c0cc4e5e675ef7716fd70adf028ae426",
+    "alternateName": "PMI",
+    "name": "centre_de_protection_maternelle_et_infantile_pmi_carpentras",
+    "title": "Centre de protection maternelle et infantile (PMI) - Carpentras",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/vaucluse/pmi-84031-01",
+    "metadata": {
+      "email": "eds.carpentraslasonne@vaucluse.fr",
+      "telephone": "04 90 63 95 00",
+      "url": "http://www.vaucluse.fr"
+    }
+  },
+  {
+    "id": "1d02095f3dcc4094a5241dd953178678f729a3c6",
+    "alternateName": "PMI",
+    "name": "centre_de_protection_maternelle_et_infantile_pmi_carvin",
+    "title": "Centre de protection maternelle et infantile (PMI) - Carvin",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/pas-de-calais/pmi-62215-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 21 79 58 10",
+      "url": ""
+    }
+  },
+  {
+    "id": "c87d104b6455b892f8bfa833d32f809f210d3896",
+    "alternateName": "PMI",
+    "name": "centre_de_protection_maternelle_et_infantile_pmi_castanet_tolosan",
+    "title": "Centre de protection maternelle et infantile (PMI) - Castanet-Tolosan",
+    "url": "https://lannuaire.service-public.fr/occitanie/haute-garonne/pmi-31113-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 62 71 91 80",
+      "url": "http://www.haute-garonne.fr"
+    }
+  },
+  {
+    "id": "3bf39da86d88055cee72bf3f7c3c00a0d25e93a8",
+    "alternateName": "PMI",
+    "name": "centre_de_protection_maternelle_et_infantile_pmi_castelnaudary",
+    "title": "Centre de protection maternelle et infantile (PMI) - Castelnaudary",
+    "url": "https://lannuaire.service-public.fr/occitanie/aude/pmi-11076-01",
+    "metadata": {
+      "email": "cms.castel@aude.fr",
+      "telephone": "04 68 23 55 82",
+      "url": "http://www.aude.fr"
+    }
+  },
+  {
+    "id": "e755317ed769a1dc7c89d71efedaa636f3a779c3",
+    "alternateName": "PMI",
+    "name": "centre_de_protection_maternelle_et_infantile_pmi_castres_1",
+    "title": "Centre de protection maternelle et infantile (PMI) - Castres 1",
+    "url": "https://lannuaire.service-public.fr/occitanie/tarn/pmi-81065-01",
+    "metadata": {
+      "email": "maison-6castres2-ds@tarn.fr",
+      "telephone": "05 63 62 62 00",
+      "url": "http://www.tarn.fr"
+    }
+  },
+  {
+    "id": "4a06c826a6fd58871c552c6ebb49dcea2bc0638b",
+    "alternateName": "PMI",
+    "name": "centre_de_protection_maternelle_et_infantile_pmi_castres_2",
+    "title": "Centre de protection maternelle et infantile (PMI) - Castres 2",
+    "url": "https://lannuaire.service-public.fr/occitanie/tarn/pmi-81065-02",
+    "metadata": {
+      "email": "maison-castres2-ds@tarn.fr",
+      "telephone": "05 63 62 62 00",
+      "url": "http://www.tarn.fr"
+    }
+  },
+  {
+    "id": "2365d5ced4347da0a7ac20636ff5b4c36e8594ed",
+    "alternateName": "PMI",
+    "name": "centre_de_protection_maternelle_et_infantile_pmi_caudebec_en_caux",
+    "title": "Centre de protection maternelle et infantile (PMI) - Caudebec-en-Caux",
+    "url": "https://lannuaire.service-public.fr/normandie/seine-maritime/pmi-76164-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 35 96 14 26",
+      "url": "http://www.seinemaritime.fr"
+    }
+  },
+  {
+    "id": "7270d54d113308ab947a9d169b6c090fb2688c0d",
+    "alternateName": "PMI",
+    "name": "centre_de_protection_maternelle_et_infantile_pmi_caudebec_les_elbeuf",
+    "title": "Centre de protection maternelle et infantile (PMI) - Caudebec-lès-Elbeuf",
+    "url": "https://lannuaire.service-public.fr/normandie/seine-maritime/pmi-76165-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 35 81 19 30",
+      "url": "http://www.seinemaritime.fr"
+    }
+  },
+  {
+    "id": "04235d3c0dcaecc94692b497c76b9640845f163d",
+    "alternateName": "PMI",
+    "name": "centre_de_protection_maternelle_et_infantile_pmi_caudry",
+    "title": "Centre de protection maternelle et infantile (PMI) - Caudry",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/nord/pmi-59139-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 27 85 54 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "3f93ea307173721ad8aed43af63180a03a457da5",
+    "alternateName": "PMI",
+    "name": "centre_de_protection_maternelle_et_infantile_pmi_caumont_l_evente",
+    "title": "Centre de protection maternelle et infantile (PMI) - Caumont-l'Éventé",
+    "url": "https://lannuaire.service-public.fr/normandie/calvados/pmi-14143-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 31 22 16 52",
+      "url": "http://www.calvados.fr"
+    }
+  },
+  {
+    "id": "ce47513752829dde04a5baa1af7d7a8eaefdf0a1",
+    "alternateName": "PMI",
+    "name": "centre_de_protection_maternelle_et_infantile_pmi_cavaillon",
+    "title": "Centre de protection maternelle et infantile (PMI) - Cavaillon",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/vaucluse/pmi-84035-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 90 06 48 54",
+      "url": "http://www.vaucluse.fr"
+    }
+  }
+]

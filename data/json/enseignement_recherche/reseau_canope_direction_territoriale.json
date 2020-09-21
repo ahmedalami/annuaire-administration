@@ -1,0 +1,134 @@
+[
+  {
+    "id": "4589d5cf7121e04d87651a85c840621464990987",
+    "name": "canope_direction_territoriale_auvergne_rhone_alpes",
+    "title": "Canopé - Direction territoriale - Auvergne Rhône-Alpes",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/isere/canope_dt-38185-01",
+    "metadata": {
+      "email": "christophe.poire@reseau-canope.fr",
+      "telephone": "04 76 74 74 55",
+      "url": "https://www.reseau-canope.fr/nous-trouver/academie/grenoble.html"
+    }
+  },
+  {
+    "id": "c8c944e6e557f455abd6788534d1771d5217de27",
+    "name": "canope_direction_territoriale_bourgogne_franche_comte",
+    "title": "Canopé - Direction territoriale - Bourgogne Franche-Comté",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/cote-d-or/canope_dt-21231-01",
+    "metadata": {
+      "email": "contact.dt-bfc@reseau-canope.fr",
+      "telephone": "03 81 25 02 63",
+      "url": "http://www.cndp.fr/crdp-dijon/"
+    }
+  },
+  {
+    "id": "898de87ae50565c76f9c332f45f57e9d054dede7",
+    "name": "canope_direction_territoriale_bretagne_pays_de_la_loire",
+    "title": "Canopé - Direction territoriale - Bretagne Pays-de-la-Loire",
+    "url": "https://lannuaire.service-public.fr/bretagne/ille-et-vilaine/canope_dt-35238-01",
+    "metadata": {
+      "email": "Direction-bpdl@reseau-canope.fr",
+      "telephone": "02 33 06 80 00",
+      "url": "http://canope.ac-rennes.fr"
+    }
+  },
+  {
+    "id": "6a35d380699c7b985c8a1e2b467d200c2abebf5f",
+    "name": "canope_direction_territoriale_centre_val_de_loire",
+    "title": "Canopé - Direction territoriale - Centre Val-de-Loire",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/loiret/canope_dt-45234-01",
+    "metadata": {
+      "email": "contact.dt-cvl@reseau-canope.fr",
+      "telephone": "02 34 59 73 38",
+      "url": "http://www.reseau-canope.fr"
+    }
+  },
+  {
+    "id": "410057bbcd1e9ceea7aa67ee1fb38eccfac0a8a5",
+    "name": "canope_direction_territoriale_grand_est",
+    "title": "Canopé - Direction territoriale - Grand Est",
+    "url": "https://lannuaire.service-public.fr/grand-est/meurthe-et-moselle/canope_dt-54395-01",
+    "metadata": {
+      "email": "secretariat.direction@canope-alca.fr",
+      "telephone": "03 83 19 11 22",
+      "url": "http://www.cndp.fr/crdp-nancy-metz/direction-territoriale/actualitesnbspagenda.html"
+    }
+  },
+  {
+    "id": "99dc9d3f5e91af0d7330e53c239e7a263d4fd087",
+    "name": "canope_direction_territoriale_hauts_de_france",
+    "title": "Canopé - Direction territoriale - Hauts-de-France",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/nord/canope_dt-59350-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 59 03 12 00",
+      "url": "https://www.reseau-canope.fr/academie-de-lille/atelier-canope-59-lille.html"
+    }
+  },
+  {
+    "id": "4641e39387fe06be369fc9a028808a981091492c",
+    "name": "canope_direction_territoriale_ile_de_france",
+    "title": "Canopé - Direction territoriale - Ile-de-France",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/paris/canope_dt-75056-01",
+    "metadata": {
+      "email": "direction.dt-idf@reseau-canope.fr",
+      "telephone": "01 44 55 62 91",
+      "url": "https://www.reseau-canope.fr/"
+    }
+  },
+  {
+    "id": "06b84724bedd63d9ed7d5a58e01c69320c215240",
+    "name": "canope_direction_territoriale_normandie",
+    "title": "Canopé - Direction territoriale - Normandie",
+    "url": "https://lannuaire.service-public.fr/normandie/calvados/canope_dt-14118-01",
+    "metadata": {
+      "email": "caroline.veltcheff@reseau-canope.fr",
+      "telephone": "02 50 10 15 00",
+      "url": "http://www.cndp.fr/crdp-rouen/index.php/accueildtnormandie"
+    }
+  },
+  {
+    "id": "5a07b8527c64bae87de6296c3410c3caad69ba61",
+    "name": "canope_direction_territoriale_nouvelle_aquitaine",
+    "title": "Canopé - Direction territoriale - Nouvelle Aquitaine",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/vienne/canope_dt-86194-01",
+    "metadata": {
+      "email": "nathalie.depardieu@reseau-canope.fr",
+      "telephone": "05 49 60 67 00",
+      "url": "https://www.reseau-canope.fr/nous-trouver/academie/poitiers.html"
+    }
+  },
+  {
+    "id": "8f26c1511d8c15c2fdb3b8ed6e5d35640cf20e8a",
+    "name": "canope_direction_territoriale_occitanie",
+    "title": "Canopé - Direction territoriale - Occitanie",
+    "url": "https://lannuaire.service-public.fr/occitanie/haute-garonne/canope_dt-31555-01",
+    "metadata": {
+      "email": "contact.dt-oc@reseau-canope.fr",
+      "telephone": "05 61 99 48 48",
+      "url": "https://www.reseau-canope.fr"
+    }
+  },
+  {
+    "id": "959ce919d320dae1347382bc5216f5024e6e9e58",
+    "name": "canope_direction_territoriale_outre_mer",
+    "title": "Canopé - Direction territoriale - Outre-mer",
+    "url": "https://lannuaire.service-public.fr/guadeloupe/guadeloupe/canope_dt-97101-01",
+    "metadata": {
+      "email": "dominique.mounien@ac-guadeloupe.fr",
+      "telephone": "+590 5 90 82 48 33",
+      "url": "http://www.cndp.fr/crdp-guadeloupe"
+    }
+  },
+  {
+    "id": "b80c0530c3c3b8bfde7dede9e511b2f28e99d546",
+    "name": "canope_direction_territoriale_provence_alpes_cote_d_azur",
+    "title": "Canopé - Direction territoriale - Provence-Alpes-Côte d'Azur",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/canope_dt-13201-01",
+    "metadata": {
+      "email": "contact.dt-paca@reseau-canope.fr",
+      "telephone": "04 91 14 13 12",
+      "url": "http://www.cndp.fr/crdp-aix-marseille/dt_paca.html"
+    }
+  }
+]

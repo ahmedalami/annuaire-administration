@@ -1,0 +1,344 @@
+[
+  {
+    "id": "b836b421705747f138373be1b5dd2aad1f053040",
+    "name": "centre_regional_de_pharmacovigilance_amiens",
+    "title": "Centre régional de pharmacovigilance - Amiens",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/somme/crpv-80021-01",
+    "metadata": {
+      "email": "pharmacovigilance@chu-amiens.fr",
+      "telephone": "03 22 08 70 96",
+      "url": "http://www.chu-amiens.fr/professionnels/professionnels-de-sante/centre-regional-de-pharmacovigilance-amiens/https://signalement.social-sante.gouv.fr/psig_ihm_utilisateurs/index.html#/accueil"
+    }
+  },
+  {
+    "id": "180876eb719b6e40a0381de1abe8d0c8daa2e5ff",
+    "name": "centre_regional_de_pharmacovigilance_angers",
+    "title": "Centre régional de pharmacovigilance - Angers",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/maine-et-loire/crpv-49007-01",
+    "metadata": {
+      "email": "pharmacovigilance@chu-angers.fr",
+      "telephone": "02 41 35 45 54",
+      "url": "https://www.chu-angers.fr/offre-de-soins/centre-regional-de-pharmacovigilance-57923.kjsp?sousMenu=ds_presentation_activitehttps://solidarites-sante.gouv.fr/soins-et-maladies/signalement-sante-gouv-fr/"
+    }
+  },
+  {
+    "id": "ca2880e62884b676a121b95f067ac195d8c3797a",
+    "name": "centre_regional_de_pharmacovigilance_besancon",
+    "title": "Centre régional de pharmacovigilance - Besançon",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/doubs/crpv-25056-01",
+    "metadata": {
+      "email": "pharmacovigilance@chu-besancon.fr",
+      "telephone": "03 81 66 84 74",
+      "url": "http://www.pharmacovigilance-fcomte.fr/"
+    }
+  },
+  {
+    "id": "befdcb24c82045903d7f31cbf3843fd15aadd011",
+    "name": "centre_regional_de_pharmacovigilance_bordeaux",
+    "title": "Centre régional de pharmacovigilance - Bordeaux",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/gironde/crpv-33522-01",
+    "metadata": {
+      "email": "pharmacovigilance@u-bordeaux.fr",
+      "telephone": "05 56 98 16 07",
+      "url": "http://www.pharmacologie.u-bordeaux2.fr/fr/pharmacovigilance/index.htmhttps://solidarites-sante.gouv.fr/soins-et-maladies/signalement-sante-gouv-fr/"
+    }
+  },
+  {
+    "id": "a890521877087d7f2ddcb8511764adc0a2a89239",
+    "name": "centre_regional_de_pharmacovigilance_brest",
+    "title": "Centre régional de pharmacovigilance - Brest",
+    "url": "https://lannuaire.service-public.fr/bretagne/finistere/crpv-29019-01",
+    "metadata": {
+      "email": "crpv.brest@chu-brest.fr",
+      "telephone": "02 98 34 79 75",
+      "url": "https://solidarites-sante.gouv.fr/soins-et-maladies/signalement-sante-gouv-fr/https://www.chu-brest.fr"
+    }
+  },
+  {
+    "id": "4211c4932e8f3d927d2af25a2edca083ad55d5d6",
+    "name": "centre_regional_de_pharmacovigilance_caen",
+    "title": "Centre régional de pharmacovigilance - Caen",
+    "url": "https://lannuaire.service-public.fr/normandie/calvados/crpv-14118-01",
+    "metadata": {
+      "email": "pharmacovigilance@chu-caen.fr",
+      "telephone": "02 31 06 46 72",
+      "url": "https://www.chu-caen.fr/pharmacologie.htmlhttps://solidarites-sante.gouv.fr/soins-et-maladies/signalement-sante-gouv-fr/"
+    }
+  },
+  {
+    "id": "67842128e2c89fb85d5b1655bb1532e3952d866a",
+    "name": "centre_regional_de_pharmacovigilance_clermont_ferrand",
+    "title": "Centre régional de pharmacovigilance - Clermont-Ferrand",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/puy-de-dome/crpv-63113-01",
+    "metadata": {
+      "email": "pharmacovigilance@chu-clermontferrand.fr",
+      "telephone": "04 73  75 48 31",
+      "url": "https://www.chu-clermontferrand.fr/internet/default.aspxhttps://solidarites-sante.gouv.fr/soins-et-maladies/signalement-sante-gouv-fr/"
+    }
+  },
+  {
+    "id": "59bf5605836004b72b460217da27aa052256dc48",
+    "name": "centre_regional_de_pharmacovigilance_dijon",
+    "title": "Centre régional de pharmacovigilance - Dijon",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/cote-d-or/crpv-21231-01",
+    "metadata": {
+      "email": "pharmacovigilance@chu-dijon.fr",
+      "telephone": "03 80 29 37 42",
+      "url": "http://www.chu-dijon.fr/frhttps://solidarites-sante.gouv.fr/soins-et-maladies/signalement-sante-gouv-fr/"
+    }
+  },
+  {
+    "id": "aba104d3c9af84fc62c860fb04a49ed3bdfa788d",
+    "name": "centre_regional_de_pharmacovigilance_grenoble",
+    "title": "Centre régional de pharmacovigilance - Grenoble",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/isere/crpv-38185-01",
+    "metadata": {
+      "email": "pharmacovigilance@chu-grenoble.fr",
+      "telephone": "04 76 76 51 45",
+      "url": "http://www.chu-grenoble.fr/https://solidarites-sante.gouv.fr/soins-et-maladies/signalement-sante-gouv-fr/"
+    }
+  },
+  {
+    "id": "f74334259048f659c5e6dfe8b1d2b902d320668d",
+    "name": "centre_regional_de_pharmacovigilance_lille",
+    "title": "Centre régional de pharmacovigilance - Lille",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/nord/crpv-59350-01",
+    "metadata": {
+      "email": "pharmacovigilance@chru-lille.fr",
+      "telephone": "03 20 96 18 18",
+      "url": "http://www.chru-lille.fr/https://solidarites-sante.gouv.fr/soins-et-maladies/signalement-sante-gouv-fr/"
+    }
+  },
+  {
+    "id": "a8a68d0ac5720855bd263f9938f30db8a3a913ba",
+    "name": "centre_regional_de_pharmacovigilance_limoges",
+    "title": "Centre régional de pharmacovigilance - Limoges",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/haute-vienne/crpv-87085-01",
+    "metadata": {
+      "email": "pharmacovigilance@chu-limoges.fr",
+      "telephone": "05 55 05 67 43",
+      "url": "https://solidarites-sante.gouv.fr/soins-et-maladies/signalement-sante-gouv-fr/http://www.pharmacovigilance-limoges.fr/"
+    }
+  },
+  {
+    "id": "f142e3900c32b78add9a5f05c7d426de10cbccdc",
+    "name": "centre_regional_de_pharmacovigilance_lyon",
+    "title": "Centre régional de pharmacovigilance - Lyon",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/rhone/crpv-69123-01",
+    "metadata": {
+      "email": "centre.pharmacovigilance@chu-lyon.fr",
+      "telephone": "04 72 11 69 97",
+      "url": "https://solidarites-sante.gouv.fr/soins-et-maladies/signalement-sante-gouv-fr/"
+    }
+  },
+  {
+    "id": "3d30d87d20f19984b485cb0345925c0edeb5cf4e",
+    "name": "centre_regional_de_pharmacovigilance_marseille",
+    "title": "Centre régional de pharmacovigilance - Marseille",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/crpv-13055-01",
+    "metadata": {
+      "email": "pharmacovigilance@ap-hm.fr",
+      "telephone": "04 91 74 75 60",
+      "url": "http://crpv.ap-hm.frhttps://solidarites-sante.gouv.fr/soins-et-maladies/signalement-sante-gouv-fr/"
+    }
+  },
+  {
+    "id": "e935b2cd447a843d752f9a3dec11652f80fe0f89",
+    "name": "centre_regional_de_pharmacovigilance_montpellier",
+    "title": "Centre régional de pharmacovigilance - Montpellier",
+    "url": "https://lannuaire.service-public.fr/occitanie/herault/crpv-34172-01",
+    "metadata": {
+      "email": "pharmacovigilance@chu-montpellier.fr",
+      "telephone": "04 67 33 67 57",
+      "url": "https://solidarites-sante.gouv.fr/soins-et-maladies/signalement-sante-gouv-fr/http://www.chu-montpellier.fr"
+    }
+  },
+  {
+    "id": "4a63b9093635df8be38335fa26651e50e8a3378c",
+    "name": "centre_regional_de_pharmacovigilance_nancy",
+    "title": "Centre régional de pharmacovigilance - Nancy",
+    "url": "https://lannuaire.service-public.fr/grand-est/meurthe-et-moselle/crpv-54395-01",
+    "metadata": {
+      "email": "crpv@chru-nancy.fr",
+      "telephone": "03 83 65 60 85",
+      "url": "http://crpv.chu-nancy.frhttps://solidarites-sante.gouv.fr/soins-et-maladies/signalement-sante-gouv-fr/"
+    }
+  },
+  {
+    "id": "083f87f3980ccf83551647ce415fd41ab27a3e35",
+    "name": "centre_regional_de_pharmacovigilance_nantes",
+    "title": "Centre régional de pharmacovigilance - Nantes",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/loire-atlantique/crpv-44109-01",
+    "metadata": {
+      "email": "pharmacovigilance@chu-nantes.fr",
+      "telephone": "02 40 08 40 96",
+      "url": "https://solidarites-sante.gouv.fr/soins-et-maladies/signalement-sante-gouv-fr/https://www.chu-nantes.fr/centre-hospitalier-universitaire-de-nantes"
+    }
+  },
+  {
+    "id": "9539a8e082a01e98837d273f5ef47db7e8a0756d",
+    "name": "centre_regional_de_pharmacovigilance_nice",
+    "title": "Centre régional de pharmacovigilance - Nice",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/alpes-maritimes/crpv-06088-01",
+    "metadata": {
+      "email": "pharmacovigilance@chu-nice.fr",
+      "telephone": "04 92 03 47 08",
+      "url": "http://centre-pharmacovigilance-nice.frhttps://solidarites-sante.gouv.fr/soins-et-maladies/signalement-sante-gouv-fr/"
+    }
+  },
+  {
+    "id": "5469f48188842133b999cc5874857f8e2fda24c5",
+    "name": "centre_regional_de_pharmacovigilance_paris_cochin_port_royal",
+    "title": "Centre régional de pharmacovigilance - Paris Cochin - Port Royal",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/paris/crpv-75114-02",
+    "metadata": {
+      "email": "pharmacovigilance.hupc@aphp.fr",
+      "telephone": "01 58 41 34 79",
+      "url": "http://www.pharmacovigilance-iledefrance.frhttps://solidarites-sante.gouv.fr/soins-et-maladies/signalement-sante-gouv-fr/"
+    }
+  },
+  {
+    "id": "6687b9f2ac87528736bc473d55d873f3dee20589",
+    "name": "centre_regional_de_pharmacovigilance_paris_fernand_widal",
+    "title": "Centre régional de pharmacovigilance - Paris Fernand Widal",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/paris/crpv-75110-03",
+    "metadata": {
+      "email": "pharmacovigilance.fwd.lrb@aphp.fr",
+      "telephone": "01 40 05 43 34",
+      "url": "http://www.pharmacovigilance-iledefrance.frhttps://solidarites-sante.gouv.fr/soins-et-maladies/signalement-sante-gouv-fr/"
+    }
+  },
+  {
+    "id": "21b3b46b1c3d0e31fdd30fe4903adc52682b6dcb",
+    "alternateName": "Créteil",
+    "name": "centre_regional_de_pharmacovigilance_paris_henri_mondor_creteil",
+    "title": "Centre régional de pharmacovigilance - Paris Henri Mondor (Créteil)",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/val-de-marne/crpv-94028-01",
+    "metadata": {
+      "email": "hmn-pharmacovigilance@aphp.fr",
+      "telephone": "01 49 81 47 00",
+      "url": "http://www.pharmacovigilance-iledefrance.frhttps://solidarites-sante.gouv.fr/soins-et-maladies/signalement-sante-gouv-fr/"
+    }
+  },
+  {
+    "id": "f65c98ebf8a8af4610a184b6590ef2dc48200940",
+    "name": "centre_regional_de_pharmacovigilance_paris_hopital_europeen_georges_pompidou",
+    "title": "Centre régional de pharmacovigilance - Paris Hôpital Européen Georges Pompidou",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/paris/crpv-75056-01",
+    "metadata": {
+      "email": "crpv.hegp.egp@aphp.fr",
+      "telephone": "01 56 09 39 88",
+      "url": "http://www.pharmacovigilance-iledefrance.frhttps://solidarites-sante.gouv.fr/soins-et-maladies/signalement-sante-gouv-fr/"
+    }
+  },
+  {
+    "id": "168b01d997f1ffa3b912146e692a9db02b91ef82",
+    "name": "centre_regional_de_pharmacovigilance_paris_pitie_salpetriere",
+    "title": "Centre régional de pharmacovigilance -  Paris Pitié Salpétrière",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/paris/crpv-75113-04",
+    "metadata": {
+      "email": "pharmaco.vigilance.psl@aphp.fr",
+      "telephone": "01 42 16 16 79",
+      "url": "http://www.pharmacovigilance-iledefrance.frhttps://solidarites-sante.gouv.fr/soins-et-maladies/signalement-sante-gouv-fr/"
+    }
+  },
+  {
+    "id": "0402a3802e3a13c2c74e0a57a46c678a7a624d57",
+    "name": "centre_regional_de_pharmacovigilance_paris_saint_antoine",
+    "title": "Centre régional de pharmacovigilance -  Paris Saint-Antoine",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/paris/crpv-75113-05",
+    "metadata": {
+      "email": "pharmacovigilance.huep@sat.aphp.fr",
+      "telephone": "01 43 47 54 69",
+      "url": "http://www.pharmacovigilance-iledefrance.frhttps://solidarites-sante.gouv.fr/soins-et-maladies/signalement-sante-gouv-fr/"
+    }
+  },
+  {
+    "id": "5d58c364ce562ed5d01d4b2ff5c5bd075679a379",
+    "name": "centre_regional_de_pharmacovigilance_poitiers",
+    "title": "Centre régional de pharmacovigilance - Poitiers",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/vienne/crpv-86194-01",
+    "metadata": {
+      "email": "pharmaco.clin@chu-poitiers.fr",
+      "telephone": "05 49 44 38 36",
+      "url": "http://www.chu-poitiers.fr/https://solidarites-sante.gouv.fr/soins-et-maladies/signalement-sante-gouv-fr/"
+    }
+  },
+  {
+    "id": "6a03c0be08199dde72ec19c8647cebbea0f1c1fc",
+    "name": "centre_regional_de_pharmacovigilance_reims",
+    "title": "Centre régional de pharmacovigilance - Reims",
+    "url": "https://lannuaire.service-public.fr/grand-est/marne/crpv-51454-01",
+    "metadata": {
+      "email": "pharmacovigilance@chu-reims.fr",
+      "telephone": "03 26 78 77 80",
+      "url": "https://solidarites-sante.gouv.fr/soins-et-maladies/signalement-sante-gouv-fr/https://www.pharmacovigilance-champagneardenne.fr"
+    }
+  },
+  {
+    "id": "ba0e5c3f19fe924ecb18cd4af5eb0d7167037b34",
+    "name": "centre_regional_de_pharmacovigilance_rennes",
+    "title": "Centre régional de pharmacovigilance - Rennes",
+    "url": "https://lannuaire.service-public.fr/bretagne/ille-et-vilaine/crpv-35238-01",
+    "metadata": {
+      "email": "pharmacovigilance@chu-rennes.fr",
+      "telephone": "02 99 28 43 63",
+      "url": "https://solidarites-sante.gouv.fr/soins-et-maladies/signalement-sante-gouv-fr/https://www.chu-rennes.fr/"
+    }
+  },
+  {
+    "id": "6c788ee3e1b0e5d406d37812cbf20d163ed23ddb",
+    "name": "centre_regional_de_pharmacovigilance_rouen",
+    "title": "Centre régional de pharmacovigilance - Rouen",
+    "url": "https://lannuaire.service-public.fr/normandie/seine-maritime/crpv-76540-01",
+    "metadata": {
+      "email": "pharmacovigilance@chu-rouen.fr",
+      "telephone": "02 32 88 90 79",
+      "url": "https://solidarites-sante.gouv.fr/soins-et-maladies/signalement-sante-gouv-fr/https://www.chu-rouen.fr/service/pharmacovigilance/"
+    }
+  },
+  {
+    "id": "0b1e4a4ff8a68fc9be5bb8bd28c7310acec4de8b",
+    "name": "centre_regional_de_pharmacovigilance_saint_etienne",
+    "title": "Centre régional de pharmacovigilance - Saint-Etienne",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/loire/crpv-42218-01",
+    "metadata": {
+      "email": "pharmacovigilance@chu-st-etienne.fr",
+      "telephone": "04 77 12 77 37",
+      "url": "http://www.chu-st-etienne.fr/https://solidarites-sante.gouv.fr/soins-et-maladies/signalement-sante-gouv-fr/"
+    }
+  },
+  {
+    "id": "1f924c2234468b32b628599b886d1b90b37916da",
+    "name": "centre_regional_de_pharmacovigilance_strasbourg",
+    "title": "Centre régional de pharmacovigilance - Strasbourg",
+    "url": "https://lannuaire.service-public.fr/grand-est/bas-rhin/crpv-67482-01",
+    "metadata": {
+      "email": "pharmacovigilance@chru-strasbourg.fr",
+      "telephone": "03 88 11 64 80",
+      "url": "http://www.chru-strasbourg.fr/https://solidarites-sante.gouv.fr/soins-et-maladies/signalement-sante-gouv-fr/"
+    }
+  },
+  {
+    "id": "1c0cedf66162af778dc101398be31480ac2be4d7",
+    "name": "centre_regional_de_pharmacovigilance_toulouse",
+    "title": "Centre régional de pharmacovigilance - Toulouse",
+    "url": "https://lannuaire.service-public.fr/occitanie/haute-garonne/crpv-31555-01",
+    "metadata": {
+      "email": "pharmacovigilance@chu-toulouse.fr",
+      "telephone": "05 61 25 51 12",
+      "url": "http://www.bip31.frhttps://solidarites-sante.gouv.fr/soins-et-maladies/signalement-sante-gouv-fr/"
+    }
+  },
+  {
+    "id": "7d087021f269edbf9aaf12241afc4384cd66c98d",
+    "name": "centre_regional_de_pharmacovigilance_tours",
+    "title": "Centre régional de pharmacovigilance - Tours",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/indre-et-loire/crpv-37261-01",
+    "metadata": {
+      "email": "crpv@chu-tours.fr",
+      "telephone": "02 47 47 37 37",
+      "url": "http://www.pharmacovigilance-tours.frhttps://solidarites-sante.gouv.fr/soins-et-maladies/signalement-sante-gouv-fr/"
+    }
+  }
+]

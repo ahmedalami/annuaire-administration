@@ -1,0 +1,311 @@
+[
+  {
+    "id": "78ce346eaf015bee9b1f6ebdfb1db6a43cf530f3",
+    "name": "centre_de_detention_d_argentan",
+    "title": "Centre de détention d'Argentan",
+    "url": "https://lannuaire.service-public.fr/normandie/orne/centre_detention-61006-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 33 36 35 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "0216960aa4ffe4f82a69579720808e1ab93ea761",
+    "name": "centre_de_detention_de_bapaume",
+    "title": "Centre de détention de Bapaume",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/pas-de-calais/centre_detention-62080-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 21 60 10 10",
+      "url": ""
+    }
+  },
+  {
+    "id": "48ef1b862fd7a56927e03142d427de0938ec7d4a",
+    "name": "centre_de_detention_de_bedenac",
+    "title": "Centre de détention de Bédenac",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/charente-maritime/centre_detention-17038-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 46 04 38 31",
+      "url": ""
+    }
+  },
+  {
+    "id": "f4b2c9ebb07f10998a2f4228ac850095422795b1",
+    "name": "centre_de_detention_de_casabianda_aleria",
+    "title": "Centre de détention de Casabianda-Aléria",
+    "url": "https://lannuaire.service-public.fr/corse/haute-corse/centre_detention-2B009-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 95 57 00 02",
+      "url": ""
+    }
+  },
+  {
+    "id": "a2f6384b1dc65287371e0d7c4388d0d00f60dcd8",
+    "name": "centre_de_detention_de_chateaudun",
+    "title": "Centre de détention de Châteaudun",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/eure-et-loir/centre_detention-28088-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 37 97 55 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "51b5697e2bf33bf9f583dbacfd6d83bb3cae371f",
+    "name": "centre_de_detention_d_ecrouves",
+    "title": "Centre de détention d'Ecrouves",
+    "url": "https://lannuaire.service-public.fr/grand-est/meurthe-et-moselle/centre_detention-54174-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 83 65 85 85",
+      "url": ""
+    }
+  },
+  {
+    "id": "0f887662f3e599af8e889e588144d5a05d062d12",
+    "name": "centre_de_detention_d_eysses_villeneuve_sur_lot",
+    "title": "Centre de détention d'Eysses-Villeneuve-sur-Lot",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/lot-et-garonne/centre_detention-47323-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 53 36 22 22",
+      "url": ""
+    }
+  },
+  {
+    "id": "15e286e9ca343b03f92a9e6ec712090855c9d0ce",
+    "name": "centre_de_detention_de_joux_la_ville",
+    "title": "Centre de détention de Joux-la-Ville",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/yonne/centre_detention-89208-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 86 33 61 06",
+      "url": ""
+    }
+  },
+  {
+    "id": "72fc52216604cd7ab28def1653f32747bcbb0ae5",
+    "name": "centre_de_detention_de_kone",
+    "title": "Centre de détention de Koné",
+    "url": "https://lannuaire.service-public.fr/collectivites-d-outre-mer/nouvelle-caledonie/centre_detention-98811-01",
+    "metadata": {
+      "email": "",
+      "telephone": "",
+      "url": ""
+    }
+  },
+  {
+    "id": "7402aec51b9e8fe577e04af27fe08e0403e15a76",
+    "name": "centre_de_detention_de_mauzac",
+    "title": "Centre de détention de Mauzac",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/dordogne/centre_detention-24260-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 53 73 55 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "0cbbe9f01d4ea51a23b1e8ccdab37bc9550d5a6b",
+    "name": "centre_de_detention_de_melun",
+    "title": "Centre de détention de Melun",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/seine-et-marne/centre_detention-77288-01",
+    "metadata": {
+      "email": "",
+      "telephone": "01 64 10 24 60",
+      "url": ""
+    }
+  },
+  {
+    "id": "fcc59591df01d84901db521ddccb232168d9829f",
+    "name": "centre_de_detention_de_montmedy",
+    "title": "Centre de détention de Montmédy",
+    "url": "https://lannuaire.service-public.fr/grand-est/meuse/centre_detention-55351-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 29 80 17 37",
+      "url": ""
+    }
+  },
+  {
+    "id": "d8ad22a61ce6a5b25e104bde2b48c2c180da656a",
+    "name": "centre_de_detention_de_muret",
+    "title": "Centre de détention de Muret",
+    "url": "https://lannuaire.service-public.fr/occitanie/haute-garonne/centre_detention-31395-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 61 56 67 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "1299b2f712d70232b0f0fd73e365b2f8c47fd970",
+    "name": "centre_de_detention_de_neuvic_sur_l_isle",
+    "title": "Centre de détention de Neuvic-sur-l'Isle",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/dordogne/centre_detention-24309-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 53 80 82 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "ecab4034761a2517c58f12af4003a9f1071805fe",
+    "name": "centre_de_detention_d_oermingen",
+    "title": "Centre de détention d'Oermingen",
+    "url": "https://lannuaire.service-public.fr/grand-est/bas-rhin/centre_detention-67355-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 88 00 59 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "a6e5f28720645bf383696c78d220e88bdffe17c2",
+    "alternateName": "la Réunion",
+    "name": "centre_de_detention_du_port",
+    "title": "Centre de détention du Port",
+    "url": "https://lannuaire.service-public.fr/la-reunion/reunion/centre_detention-97407-01",
+    "metadata": {
+      "email": "",
+      "telephone": "0(262)427212",
+      "url": ""
+    }
+  },
+  {
+    "id": "88388e6698196544d807fd75f8707b70e31fbe19",
+    "name": "centre_de_detention_de_roanne",
+    "title": "Centre de détention de Roanne",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/loire/centre_detention-42187-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 77 23 83 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "f556b37668062ed1aed3f6c9da1c1cbe35b45427",
+    "name": "centre_de_detention_de_saint_mihiel",
+    "title": "Centre de détention de Saint-Mihiel",
+    "url": "https://lannuaire.service-public.fr/grand-est/meuse/centre_detention-55463-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 29 90 32 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "6a9e55a91b1dc00d942c933eeb3440d3599d8a06",
+    "name": "centre_de_detention_de_saint_sulpice_la_pointe",
+    "title": "Centre de détention de Saint-Sulpice-la-Pointe",
+    "url": "https://lannuaire.service-public.fr/occitanie/tarn/centre_detention-81271-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 63 41 81 57",
+      "url": ""
+    }
+  },
+  {
+    "id": "f30646bc632f3e6d47663aa9a674dd325bd2b3ca",
+    "name": "centre_de_detention_de_salon_de_provence",
+    "title": "Centre de détention de Salon-de-Provence",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/centre_detention-13103-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 90 44 61 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "369715f4b65301567b85da783c8174feba553fb5",
+    "name": "centre_de_detention_de_taiohae",
+    "title": "Centre de détention de Taiohae",
+    "url": "https://lannuaire.service-public.fr/collectivites-d-outre-mer/polynesie-francaise/centre_detention-98731-01",
+    "metadata": {
+      "email": "",
+      "telephone": "00(689)920164",
+      "url": ""
+    }
+  },
+  {
+    "id": "72810397011cc380ad08acdf14c5ebb9d91a74a9",
+    "name": "centre_de_detention_de_tarascon",
+    "title": "Centre de détention de Tarascon",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/centre_detention-13108-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 90 99 10 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "c56b3a45f5be980c82b1c349a9e5162e2c36212b",
+    "name": "centre_de_detention_de_tatutu_de_papeari",
+    "title": "Centre de détention de Tatutu de Papéari",
+    "url": "https://lannuaire.service-public.fr/collectivites-d-outre-mer/polynesie-francaise/centre_detention-98752-01",
+    "metadata": {
+      "email": "",
+      "telephone": "",
+      "url": ""
+    }
+  },
+  {
+    "id": "bbe14190d34269aca3ceecc7a8c66db7173f0601",
+    "name": "centre_de_detention_de_toul",
+    "title": "Centre de détention de Toul",
+    "url": "https://lannuaire.service-public.fr/grand-est/meurthe-et-moselle/centre_detention-54528-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 83 65 28 08",
+      "url": ""
+    }
+  },
+  {
+    "id": "4087d98669e18e7cc66abd5f61e0cfb94c2d2357",
+    "name": "centre_de_detention_d_uturoa",
+    "title": "Centre de détention d'Uturoa",
+    "url": "https://lannuaire.service-public.fr/collectivites-d-outre-mer/polynesie-francaise/centre_detention-98758-01",
+    "metadata": {
+      "email": "",
+      "telephone": "00(689)662610",
+      "url": ""
+    }
+  },
+  {
+    "id": "95433d1edf63af0a811376565e8668e97936b720",
+    "name": "centre_de_detention_d_uzerche",
+    "title": "Centre de détention d'Uzerche",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/correze/centre_detention-19276-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 55 73 87 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "015f21b26f4ead7439cf86e6e03bff270977cf67",
+    "name": "centre_de_detention_de_val_de_reuil",
+    "title": "Centre de détention de Val-de-Reuil",
+    "url": "https://lannuaire.service-public.fr/normandie/eure/centre_detention-27701-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 32 63 37 40",
+      "url": ""
+    }
+  },
+  {
+    "id": "cceb09745468f68ba104b2b8fd9516a5f416b689",
+    "name": "centre_de_detention_de_villenauxe_la_grande",
+    "title": "Centre de détention de Villenauxe-la Grande",
+    "url": "https://lannuaire.service-public.fr/grand-est/aube/centre_detention-10420-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 25 21 85 10",
+      "url": ""
+    }
+  }
+]

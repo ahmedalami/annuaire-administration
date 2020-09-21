@@ -1,0 +1,1192 @@
+[
+  {
+    "id": "bf2f200f6e752a5f0b93b25613ebb7848444ab8f",
+    "name": "haut_commissariat_de_la_republique_nouvelle_caledonie",
+    "title": "Haut-commissariat de la République - Nouvelle-Calédonie",
+    "url": "https://lannuaire.service-public.fr/collectivites-d-outre-mer/nouvelle-caledonie/prefecture-98818-01",
+    "metadata": {
+      "email": "",
+      "telephone": "+687 26 63 00",
+      "url": "http://www.nouvelle-caledonie.gouv.fr"
+    }
+  },
+  {
+    "id": "5e2b9787eff58171137a0f3992ab7a61637d9bff",
+    "name": "haut_commissariat_de_la_republique_polynesie_francaise",
+    "title": "Haut-commissariat de la République - Polynésie française",
+    "url": "https://lannuaire.service-public.fr/collectivites-d-outre-mer/polynesie-francaise/prefecture-98735-01",
+    "metadata": {
+      "email": "courrier@polynesie-francaise.pref.gouv.fr",
+      "telephone": "+689 40 46 87 00",
+      "url": "http://www.polynesie-francaise.pref.gouv.fr"
+    }
+  },
+  {
+    "id": "ca6f2eb4b3fa8a21db0d457c9028356dcb8c7ec9",
+    "alternateName": "Administration supérieure",
+    "name": "prefecture_administration_superieure_wallis_et_futuna",
+    "title": "Préfecture (Administration supérieure) - Wallis-et-Futuna",
+    "url": "https://lannuaire.service-public.fr/collectivites-d-outre-mer/wallis-et-futuna/prefecture-98613-01",
+    "metadata": {
+      "email": "webmestre@wallis-et-futuna.pref.gouv.fr",
+      "telephone": "+681 72 27 27",
+      "url": "http://www.wallis-et-futuna.pref.gouv.fr"
+    }
+  },
+  {
+    "id": "960336793cdfa6f5817dc7d35cf844511fa76638",
+    "name": "prefecture_ain",
+    "title": "Préfecture - Ain",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/ain/prefecture-01053-01",
+    "metadata": {
+      "email": "prefecture@ain.gouv.fr",
+      "telephone": "04 74 32 30 00",
+      "url": "http://www.ain.gouv.fr"
+    }
+  },
+  {
+    "id": "b30e57f0f75aedaae9ad206520a8a6ccebc4a2ca",
+    "name": "prefecture_aisne",
+    "title": "Préfecture - Aisne",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/aisne/prefecture-02408-01",
+    "metadata": {
+      "email": "prefecture@aisne.gouv.fr",
+      "telephone": "03 23 21 82 82",
+      "url": "http://www.aisne.gouv.fr"
+    }
+  },
+  {
+    "id": "54122123982a05b2d0daf4c4a8b6de9cbf6d6f80",
+    "name": "prefecture_allier",
+    "title": "Préfecture - Allier",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/allier/prefecture-03190-01",
+    "metadata": {
+      "email": "prefecture@allier.gouv.fr",
+      "telephone": "04 70 48 30 00",
+      "url": "http://www.allier.gouv.fr"
+    }
+  },
+  {
+    "id": "8cdadf82cd5a7a8293e47d2c17520153a771c821",
+    "name": "prefecture_alpes_de_haute_provence",
+    "title": "Préfecture - Alpes de Haute Provence",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/alpes-de-haute-provence/prefecture-04070-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 92 36 72 00",
+      "url": "http://www.alpes-de-haute-provence.gouv.fr"
+    }
+  },
+  {
+    "id": "c27518b95f8d637cc646086aefa2039fe61f8eee",
+    "name": "prefecture_alpes_maritimes",
+    "title": "Préfecture - Alpes-Maritimes",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/alpes-maritimes/prefecture-06088-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 93 72 20 00",
+      "url": "http://www.alpes-maritimes.gouv.fr/"
+    }
+  },
+  {
+    "id": "1c7064a3ada38c076e2255874b63180fa6e556d8",
+    "name": "prefecture_ardeche",
+    "title": "Préfecture - Ardèche",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/ardeche/prefecture-07186-01",
+    "metadata": {
+      "email": "pref-courrier@ardeche.gouv.fr",
+      "telephone": "04 75 66 50 00",
+      "url": "http://www.ardeche.gouv.fr"
+    }
+  },
+  {
+    "id": "e66d42ac80e96f1c6af528df751cc4dc3d5b18f3",
+    "name": "prefecture_ardennes",
+    "title": "Préfecture - Ardennes",
+    "url": "https://lannuaire.service-public.fr/grand-est/ardennes/prefecture-08105-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 24 59 66 00",
+      "url": "http://www.ardennes.gouv.fr"
+    }
+  },
+  {
+    "id": "18ce20ad983f30b01db3db28a63002531c1c99eb",
+    "name": "prefecture_ariege",
+    "title": "Préfecture - Ariège",
+    "url": "https://lannuaire.service-public.fr/occitanie/ariege/prefecture-09122-01",
+    "metadata": {
+      "email": "prefecture@ariege.gouv.fr",
+      "telephone": "05 61 02 10 00",
+      "url": "http://www.ariege.gouv.fr"
+    }
+  },
+  {
+    "id": "538060d7a3dd422104e974516c73aded1fc6bc42",
+    "name": "prefecture_aube",
+    "title": "Préfecture - Aube",
+    "url": "https://lannuaire.service-public.fr/grand-est/aube/prefecture-10387-01",
+    "metadata": {
+      "email": "prefecture@aube.gouv.fr",
+      "telephone": "03 25 42 35 00",
+      "url": "https://www.aube.gouv.fr/"
+    }
+  },
+  {
+    "id": "8f44bc658b547e0adfb5e039a4003e87a87190b8",
+    "name": "prefecture_aude",
+    "title": "Préfecture - Aude",
+    "url": "https://lannuaire.service-public.fr/occitanie/aude/prefecture-11069-01",
+    "metadata": {
+      "email": "pref-courrier@aude.gouv.fr",
+      "telephone": "04 68 10 27 00",
+      "url": "http://www.aude.gouv.fr"
+    }
+  },
+  {
+    "id": "edab78ee1913b7a4b410b573832e2dc066515ff3",
+    "name": "prefecture_aveyron",
+    "title": "Préfecture - Aveyron",
+    "url": "https://lannuaire.service-public.fr/occitanie/aveyron/prefecture-12202-01",
+    "metadata": {
+      "email": "prefecture@aveyron.gouv.fr",
+      "telephone": "05 65 75 71 71",
+      "url": "http://www.aveyron.gouv.fr"
+    }
+  },
+  {
+    "id": "efa54d67f2465fea5d8ccc5bb84c577c866e703c",
+    "name": "prefecture_bas_rhin",
+    "title": "Préfecture - Bas-Rhin",
+    "url": "https://lannuaire.service-public.fr/grand-est/bas-rhin/prefecture-67482-01",
+    "metadata": {
+      "email": "prefecture@bas-rhin.gouv.fr",
+      "telephone": "03 88 21 67 68",
+      "url": "http://www.bas-rhin.gouv.fr"
+    }
+  },
+  {
+    "id": "8db36db8fa089476323795f9cba7b777f1c559f6",
+    "name": "prefecture_bouches_du_rhone",
+    "title": "Préfecture - Bouches-du-Rhône",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/prefecture-13203-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 84 35 40 00",
+      "url": "http://www.bouches-du-rhone.gouv.fr"
+    }
+  },
+  {
+    "id": "34f9d9bba897ffb49c1f3b9d57532781253bc44b",
+    "name": "prefecture_calvados",
+    "title": "Préfecture - Calvados",
+    "url": "https://lannuaire.service-public.fr/normandie/calvados/prefecture-14118-01",
+    "metadata": {
+      "email": "prefecture@calvados.gouv.fr",
+      "telephone": "02 31 30 64 00",
+      "url": "http://www.calvados.gouv.fr"
+    }
+  },
+  {
+    "id": "ab710c5ff9f8e4c115ab386fc63eef944e4ad49e",
+    "name": "prefecture_cantal",
+    "title": "Préfecture - Cantal",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/cantal/prefecture-15014-01",
+    "metadata": {
+      "email": "courrier@cantal.pref.gouv.fr",
+      "telephone": "04 71 46 23 00",
+      "url": "http://www.cantal.gouv.fr"
+    }
+  },
+  {
+    "id": "9981408c117027b0d4ead6d1cbfb4d530bca6180",
+    "name": "prefecture_charente",
+    "title": "Préfecture - Charente",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/charente/prefecture-16015-01",
+    "metadata": {
+      "email": "communication@charente.gouv.fr",
+      "telephone": "05 45 97 61 00",
+      "url": "http://www.charente.gouv.fr"
+    }
+  },
+  {
+    "id": "e7cde4984d1f9ed40c9f277d5b47c357108e3b12",
+    "name": "prefecture_charente_maritime",
+    "title": "Préfecture - Charente-Maritime",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/charente-maritime/prefecture-17300-01",
+    "metadata": {
+      "email": "prefecture@charente-maritime.gouv.fr",
+      "telephone": "05 46 27 43 00",
+      "url": "http://www.charente-maritime.gouv.fr"
+    }
+  },
+  {
+    "id": "92df5d7d3d191a041ca06745d58dd7b4e143d9d9",
+    "name": "prefecture_cher",
+    "title": "Préfecture - Cher",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/cher/prefecture-18033-01",
+    "metadata": {
+      "email": "courrier@cher.pref.gouv.fr",
+      "telephone": "02 48 67 18 18",
+      "url": "http://www.cher.gouv.fr"
+    }
+  },
+  {
+    "id": "07d4adcd44a7a1d4d8f2254e7c630675985c6978",
+    "name": "prefecture_correze",
+    "title": "Préfecture - Corrèze",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/correze/prefecture-19272-01",
+    "metadata": {
+      "email": "prefecture@correze.gouv.fr",
+      "telephone": "05 55 20 55 20",
+      "url": "http://www.correze.gouv.fr"
+    }
+  },
+  {
+    "id": "879ac3ba7e3bf1b7afd46ef9f68b24abab8c5a2f",
+    "name": "prefecture_corse_du_sud",
+    "title": "Préfecture - Corse-du-Sud",
+    "url": "https://lannuaire.service-public.fr/corse/corse-du-sud/prefecture-2A004-01",
+    "metadata": {
+      "email": "prefecture@corse-du-sud.gouv.fr",
+      "telephone": "04 95 11 12 13",
+      "url": "http://www.corse-du-sud.gouv.fr/"
+    }
+  },
+  {
+    "id": "fbfc6411ff59a2c41a0f9297f30422fdc95ffe77",
+    "name": "prefecture_cote_d_or",
+    "title": "Préfecture - Côte-d'Or",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/cote-d-or/prefecture-21231-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 80 44 64 00",
+      "url": "http://www.cote-dor.gouv.fr"
+    }
+  },
+  {
+    "id": "53868d86e13a1c061d9c9f7af57830d4dfb370d6",
+    "name": "prefecture_cotes_d_armor",
+    "title": "Préfecture - Côtes d'Armor",
+    "url": "https://lannuaire.service-public.fr/bretagne/cotes-d-armor/prefecture-22278-01",
+    "metadata": {
+      "email": "prefecture@cotes-darmor.gouv.fr",
+      "telephone": "02 96 62 44 22",
+      "url": "http://www.cotes-darmor.gouv.fr"
+    }
+  },
+  {
+    "id": "33361b2759a8b413dd6e43273978bea59fad1159",
+    "name": "prefecture_creuse",
+    "title": "Préfecture - Creuse",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/creuse/prefecture-23096-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 55 51 59 00",
+      "url": "http://www.creuse.gouv.fr"
+    }
+  },
+  {
+    "id": "aa7fcb1d71af08a1769ec03e1a20c5ca5fddf314",
+    "name": "prefecture_deux_sevres",
+    "title": "Préfecture - Deux Sèvres",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/deux-sevres/prefecture-79191-01",
+    "metadata": {
+      "email": "courrier@deux-sevres.pref.gouv.fr",
+      "telephone": "05 49 08 68 68",
+      "url": "http://www.deux-sevres.gouv.fr"
+    }
+  },
+  {
+    "id": "0b99bab5e61e7287d7499960a8df5be1d5fee6d2",
+    "name": "prefecture_dordogne",
+    "title": "Préfecture - Dordogne",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/dordogne/prefecture-24322-01",
+    "metadata": {
+      "email": "prefecture@dordogne.gouv.fr",
+      "telephone": "05 53 02 24 24",
+      "url": "http://www.dordogne.gouv.fr"
+    }
+  },
+  {
+    "id": "e7284afe7c3111f544a5e5f236dd55fdc40f5eb2",
+    "name": "prefecture_doubs",
+    "title": "Préfecture - Doubs",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/doubs/prefecture-25056-01",
+    "metadata": {
+      "email": "prefecture@doubs.gouv.fr",
+      "telephone": "03 81 25 10 00",
+      "url": "http://www.doubs.gouv.fr"
+    }
+  },
+  {
+    "id": "bfe31bd1ff7efa72b5ea96b39b04e246433e6148",
+    "name": "prefecture_drome",
+    "title": "Préfecture - Drôme",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/drome/prefecture-26362-01",
+    "metadata": {
+      "email": "prefecture@drome.gouv.fr",
+      "telephone": "04 75 79 28 00",
+      "url": "http://www.drome.gouv.fr"
+    }
+  },
+  {
+    "id": "a54af54747c3fb0426cecd3e42673e28b5a5ab59",
+    "name": "prefecture_essonne",
+    "title": "Préfecture - Essonne",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/essonne/prefecture-91228-01",
+    "metadata": {
+      "email": "",
+      "telephone": "01 69 91 91 91",
+      "url": "http://www.essonne.gouv.fr"
+    }
+  },
+  {
+    "id": "fbd9d08e5aa2ef3e51b48cee1ba75b475cf0e6e9",
+    "name": "prefecture_eure",
+    "title": "Préfecture - Eure",
+    "url": "https://lannuaire.service-public.fr/normandie/eure/prefecture-27229-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 32 78 27 27",
+      "url": "http://www.eure.gouv.fr"
+    }
+  },
+  {
+    "id": "d3bff6b9fe2a2a9004ee41825ac09d707e0a454c",
+    "name": "prefecture_eure_et_loir",
+    "title": "Préfecture - Eure et loir",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/eure-et-loir/prefecture-28085-01",
+    "metadata": {
+      "email": "pref-communication@eure-et-loir.gouv.fr",
+      "telephone": "02 37 27 72 00",
+      "url": "http://www.eure-et-loir.gouv.fr"
+    }
+  },
+  {
+    "id": "ebb7e63fe5ea7d060c8bfdccf81a136c12d6cbf4",
+    "name": "prefecture_finistere",
+    "title": "Préfecture - Finistère",
+    "url": "https://lannuaire.service-public.fr/bretagne/finistere/prefecture-29232-01",
+    "metadata": {
+      "email": "prefecture@finistere.gouv.fr",
+      "telephone": "02 98 76 29 29",
+      "url": "http://www.finistere.gouv.fr"
+    }
+  },
+  {
+    "id": "67ac732a61c050dc6f4d2961addb1c11a3d2efcc",
+    "name": "prefecture_gard",
+    "title": "Préfecture - Gard",
+    "url": "https://lannuaire.service-public.fr/occitanie/gard/prefecture-30189-01",
+    "metadata": {
+      "email": "prefecture@gard.gouv.fr",
+      "telephone": "04 66 36 43 90",
+      "url": "http://www.gard.gouv.fr"
+    }
+  },
+  {
+    "id": "9654bc8e191ec82c23be855f90973eade5e606b8",
+    "name": "prefecture_gers",
+    "title": "Préfecture - Gers",
+    "url": "https://lannuaire.service-public.fr/occitanie/gers/prefecture-32013-01",
+    "metadata": {
+      "email": "prefecture@gers.gouv.fr",
+      "telephone": "05 62 61 44 00",
+      "url": "http://www.gers.gouv.fr"
+    }
+  },
+  {
+    "id": "9fa87ce1f207989242c7c6bc6d2dda4e7b9220d3",
+    "name": "prefecture_gironde",
+    "title": "Préfecture - Gironde",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/gironde/prefecture-33063-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 56 90 60 60",
+      "url": "http://www.gironde.gouv.fr"
+    }
+  },
+  {
+    "id": "2e21e80fb40b7b4f3cb73a59ae0d437f6b7e6e9d",
+    "name": "prefecture_guadeloupe",
+    "title": "Préfecture - Guadeloupe",
+    "url": "https://lannuaire.service-public.fr/guadeloupe/guadeloupe/prefecture-97105-01",
+    "metadata": {
+      "email": "",
+      "telephone": "+590 5 90 99 39 00",
+      "url": "http://www.guadeloupe.pref.gouv.fr"
+    }
+  },
+  {
+    "id": "3fee491930a9ecd63eb9c68a70762d63f418eb66",
+    "name": "prefecture_guyane",
+    "title": "Préfecture - Guyane",
+    "url": "https://lannuaire.service-public.fr/guyane/guyane/prefecture-97302-01",
+    "metadata": {
+      "email": "courrier@guyane.pref.gouv.fr",
+      "telephone": "+594 5 94 39 45 00",
+      "url": "http://www.guyane.pref.gouv.fr"
+    }
+  },
+  {
+    "id": "d0eb312e69309ebb683f7d9c8cfe7a2a273d7c60",
+    "name": "prefecture_haute_corse",
+    "title": "Préfecture - Haute-Corse",
+    "url": "https://lannuaire.service-public.fr/corse/haute-corse/prefecture-2B033-01",
+    "metadata": {
+      "email": "prefecture@haute-corse.gouv.fr",
+      "telephone": "04 95 34 50 00",
+      "url": "http://www.haute-corse.gouv.fr"
+    }
+  },
+  {
+    "id": "874c4b0bb870b7df2c3d03cb79e9ec5b97a363fb",
+    "name": "prefecture_haute_garonne",
+    "title": "Préfecture - Haute-Garonne",
+    "url": "https://lannuaire.service-public.fr/occitanie/haute-garonne/prefecture-31555-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 34 45 34 45",
+      "url": "http://www.haute-garonne.gouv.fr"
+    }
+  },
+  {
+    "id": "0a67a1a84ae7229c2d4eee5f6b3d4e9bcf78f25a",
+    "name": "prefecture_haute_loire",
+    "title": "Préfecture - Haute-Loire",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/haute-loire/prefecture-43157-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 71 09 43 43",
+      "url": "http://www.haute-loire.pref.gouv.fr"
+    }
+  },
+  {
+    "id": "46c45a002e40806aee71da430b16ed19f03baace",
+    "name": "prefecture_haute_marne",
+    "title": "Préfecture - Haute-Marne",
+    "url": "https://lannuaire.service-public.fr/grand-est/haute-marne/prefecture-52121-01",
+    "metadata": {
+      "email": "prefecture@haute-marne.gouv.fr",
+      "telephone": "03 25 30 52 52",
+      "url": "http://www.haute-marne.gouv.fr"
+    }
+  },
+  {
+    "id": "3116c8abf7c8662fed0a5094f1ef2271c0949502",
+    "name": "prefecture_hautes_alpes",
+    "title": "Préfecture - Hautes-Alpes",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/hautes-alpes/prefecture-05061-01",
+    "metadata": {
+      "email": "prefecture@hautes-alpes.gouv.fr",
+      "telephone": "04 92 40 48 00",
+      "url": "http://www.hautes-alpes.pref.gouv.fr"
+    }
+  },
+  {
+    "id": "b0492fcab25001ddf5e370fa70bcf23db96f7208",
+    "name": "prefecture_haute_saone",
+    "title": "Préfecture - Haute-Saône",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/haute-saone/prefecture-70550-01",
+    "metadata": {
+      "email": "prefecture@haute-saone.gouv.fr",
+      "telephone": "03 84 77 70 00",
+      "url": "http://www.haute-saone.gouv.fr"
+    }
+  },
+  {
+    "id": "ba9ece058c05013354899106016787f88eadf30f",
+    "name": "prefecture_haute_savoie",
+    "title": "Préfecture - Haute-Savoie",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/haute-savoie/prefecture-74010-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 50 33 60 00",
+      "url": "http://www.haute-savoie.gouv.fr"
+    }
+  },
+  {
+    "id": "15a3c89dec2ad79c4ad8147cf5bb9e3bdfa8222b",
+    "name": "prefecture_hautes_pyrenees",
+    "title": "Préfecture - Hautes-Pyrénées",
+    "url": "https://lannuaire.service-public.fr/occitanie/hautes-pyrenees/prefecture-65440-01",
+    "metadata": {
+      "email": "prefecture@hautes-pyrenees.gouv.fr",
+      "telephone": "05 62 56 65 65",
+      "url": "http://www.hautes-pyrenees.gouv.fr"
+    }
+  },
+  {
+    "id": "d4f01cb95a3ea5cbb8cc2ca5be0a165dc4285be7",
+    "name": "prefecture_haute_vienne",
+    "title": "Préfecture - Haute-Vienne",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/haute-vienne/prefecture-87085-01",
+    "metadata": {
+      "email": "pref-pass87@haute-vienne.gouv.fr",
+      "telephone": "05 55 44 18 00",
+      "url": "http://www.haute-vienne.gouv.fr"
+    }
+  },
+  {
+    "id": "0010147f79d6f890b5662b6aac7b809685e65023",
+    "name": "prefecture_haut_rhin",
+    "title": "Préfecture - Haut-Rhin",
+    "url": "https://lannuaire.service-public.fr/grand-est/haut-rhin/prefecture-68066-01",
+    "metadata": {
+      "email": "pref-courrier@haut-rhin.gouv.fr",
+      "telephone": "03 89 29 20 00",
+      "url": "http://www.haut-rhin.gouv.fr"
+    }
+  },
+  {
+    "id": "23920b72866f4021d767f69517a6eae69d4e05d9",
+    "name": "prefecture_hauts_de_seine",
+    "title": "Préfecture - Hauts-de-Seine",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/hauts-de-seine/prefecture-92050-01",
+    "metadata": {
+      "email": "prefecture@hauts-de-seine.gouv.fr",
+      "telephone": "01 40 97 20 00",
+      "url": "http://www.hauts-de-seine.gouv.fr"
+    }
+  },
+  {
+    "id": "35a63defd90c8183db7a481b9cf724efbe2f74a0",
+    "name": "prefecture_herault",
+    "title": "Préfecture - Hérault",
+    "url": "https://lannuaire.service-public.fr/occitanie/herault/prefecture-34172-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 67 61 61 61",
+      "url": "http://www.herault.gouv.fr"
+    }
+  },
+  {
+    "id": "94b1d017b438be7081d01dc6d660846337312b38",
+    "name": "prefecture_ille_et_vilaine",
+    "title": "Préfecture - Ille-et-Vilaine",
+    "url": "https://lannuaire.service-public.fr/bretagne/ille-et-vilaine/prefecture-35238-01",
+    "metadata": {
+      "email": "prefecture@ille-et-vilaine.gouv.fr",
+      "telephone": "0821803035",
+      "url": "http://www.bretagne.gouv.fr"
+    }
+  },
+  {
+    "id": "4130761685ecaa8cb72b2dcff499f8e00f09a778",
+    "name": "prefecture_indre",
+    "title": "Préfecture - Indre",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/indre/prefecture-36044-01",
+    "metadata": {
+      "email": "prefecture@indre.gouv.fr",
+      "telephone": "02 54 29 50 00",
+      "url": "http://www.indre.gouv.fr"
+    }
+  },
+  {
+    "id": "9e3ae3159602d5f1cb3bcdfc988e8ef65da5d1ed",
+    "name": "prefecture_indre_et_loire",
+    "title": "Préfecture - Indre-et-Loire",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/indre-et-loire/prefecture-37261-01",
+    "metadata": {
+      "email": "prefecture@indre-et-loire.gouv.fr",
+      "telephone": "0247643737",
+      "url": "http://www.indre-et-loire.gouv.fr"
+    }
+  },
+  {
+    "id": "267b4ef7b161f6fec77b6689965bcaf34334f22d",
+    "name": "prefecture_isere",
+    "title": "Préfecture - Isère",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/isere/prefecture-38185-01",
+    "metadata": {
+      "email": "internet@isere.pref.gouv.fr",
+      "telephone": "04 76 60 34 00",
+      "url": "http://www.isere.gouv.fr"
+    }
+  },
+  {
+    "id": "8a40c325d0906c14b179ed12e8c6b4bfbcba32f6",
+    "name": "prefecture_jura",
+    "title": "Préfecture - Jura",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/jura/prefecture-39300-01",
+    "metadata": {
+      "email": "prefecture@jura.gouv.fr",
+      "telephone": "03 84 86 84 00",
+      "url": "http://www.jura.gouv.fr"
+    }
+  },
+  {
+    "id": "751b7e4c5be0cc832c54bea665bb4565711f0ec5",
+    "name": "prefecture_de_la_martinique",
+    "title": "Préfecture de la Martinique",
+    "url": "https://lannuaire.service-public.fr/martinique/martinique/prefecture-97209-01",
+    "metadata": {
+      "email": "contact@martinique.pref.gouv.fr",
+      "telephone": "+596 5 96 39 36 00",
+      "url": "http://www.martinique.pref.gouv.fr"
+    }
+  },
+  {
+    "id": "be0db08eba0632a47df75824711e741896c24d8a",
+    "name": "prefecture_landes",
+    "title": "Préfecture - Landes",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/landes/prefecture-40192-01",
+    "metadata": {
+      "email": "prefecture@landes.gouv.fr",
+      "telephone": "05 58 06 58 06",
+      "url": "http://www.landes.gouv.fr"
+    }
+  },
+  {
+    "id": "aee5ee8995b3fcbf56e177f69d14ede9366d4ee4",
+    "name": "prefecture_de_la_reunion",
+    "title": "Préfecture de La Réunion",
+    "url": "https://lannuaire.service-public.fr/la-reunion/reunion/prefecture-97411-01",
+    "metadata": {
+      "email": "courrier@reunion.pref.gouv.fr",
+      "telephone": "+262 2 62 40 77 77",
+      "url": "http://www.reunion.pref.gouv.fr"
+    }
+  },
+  {
+    "id": "15fc8b0157fc21104a1037d761f38dcdea4d2fbd",
+    "name": "prefecture_loire",
+    "title": "Préfecture - Loire",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/loire/prefecture-42218-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 77 48 48 48",
+      "url": "http://www.loire.gouv.fr"
+    }
+  },
+  {
+    "id": "a896717757dba64003180b07d59e64abe621ce51",
+    "name": "prefecture_loire_atlantique",
+    "title": "Préfecture - Loire-Atlantique",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/loire-atlantique/prefecture-44109-01",
+    "metadata": {
+      "email": "prefecture@loire-atlantique.gouv.fr",
+      "telephone": "02 40 41 20 20",
+      "url": "http://www.loire-atlantique.gouv.fr"
+    }
+  },
+  {
+    "id": "ca4d762636b5f619fcf4e6224288be15875fc1b8",
+    "name": "prefecture_loiret",
+    "title": "Préfecture - Loiret",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/loiret/prefecture-45234-01",
+    "metadata": {
+      "email": "pref-internet@loiret.gouv.fr",
+      "telephone": "02 38 91 45 45",
+      "url": "http://www.loiret.gouv.fr"
+    }
+  },
+  {
+    "id": "d299e81dfdc9e20ba2bfa65bbf5c4d3c95e63368",
+    "name": "prefecture_loir_et_cher",
+    "title": "Préfecture - Loir-et-Cher",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/loir-et-cher/prefecture-41018-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 54 70 41 41",
+      "url": "http://www.loir-et-cher.gouv.fr"
+    }
+  },
+  {
+    "id": "07f39340d26f07a695c5598aac989c4bd8b9209b",
+    "name": "prefecture_lot",
+    "title": "Préfecture - Lot",
+    "url": "https://lannuaire.service-public.fr/occitanie/lot/prefecture-46042-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 65 23 10 00",
+      "url": "http://www.lot.gouv.fr"
+    }
+  },
+  {
+    "id": "56420fc0a1b1f28936e97975cb3367a0d7369537",
+    "name": "prefecture_lot_et_garonne",
+    "title": "Préfecture - Lot-et-Garonne",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/lot-et-garonne/prefecture-47001-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 53 77 60 47",
+      "url": "http://www.lot-et-garonne.gouv.fr"
+    }
+  },
+  {
+    "id": "f54ed5e7c20c3f152227f5244084791c9d31691d",
+    "name": "prefecture_lozere",
+    "title": "Préfecture - Lozère",
+    "url": "https://lannuaire.service-public.fr/occitanie/lozere/prefecture-48095-01",
+    "metadata": {
+      "email": "prefecture@lozere.gouv.fr",
+      "telephone": "04 66 49 60 00",
+      "url": "http://www.lozere.gouv.fr"
+    }
+  },
+  {
+    "id": "dfd827a3926706d446ca1e29215d3eb8d04b20e8",
+    "name": "prefecture_maine_et_loire",
+    "title": "Préfecture - Maine-et-Loire",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/maine-et-loire/prefecture-49007-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 41 81 81 81",
+      "url": "http://www.maine-et-loire.gouv.fr"
+    }
+  },
+  {
+    "id": "98afaf5639cb71e975f0d7ce67ec2f4467f38434",
+    "name": "prefecture_manche",
+    "title": "Préfecture - Manche",
+    "url": "https://lannuaire.service-public.fr/normandie/manche/prefecture-50502-01",
+    "metadata": {
+      "email": "prefecture@manche.gouv.fr",
+      "telephone": "02 33 75 49 50",
+      "url": "http://www.manche.gouv.fr"
+    }
+  },
+  {
+    "id": "e3bdaa0ee93b0d5811ea9cfbbbbcfc95c0e81fe7",
+    "name": "prefecture_marne",
+    "title": "Préfecture - Marne",
+    "url": "https://lannuaire.service-public.fr/grand-est/marne/prefecture-51108-01",
+    "metadata": {
+      "email": "pref-contact@marne.gouv.fr",
+      "telephone": "03 26 26 10 10",
+      "url": "http://www.marne.gouv.fr"
+    }
+  },
+  {
+    "id": "427c8ec28fee8804788f752b30fcbe95070b9a35",
+    "name": "prefecture_mayenne",
+    "title": "Préfecture - Mayenne",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/mayenne/prefecture-53130-01",
+    "metadata": {
+      "email": "pref-communication@mayenne.gouv.fr",
+      "telephone": "02 43 01 50 00",
+      "url": "http://www.mayenne.gouv.fr"
+    }
+  },
+  {
+    "id": "610f7597cdb98ede2fc7d3d521bcb11fe4764e5c",
+    "name": "prefecture_de_mayotte",
+    "title": "Préfecture de mayotte",
+    "url": "https://lannuaire.service-public.fr/mayotte/mayotte/prefecture-97611-01",
+    "metadata": {
+      "email": "accueil@mayotte.pref.gouv.fr",
+      "telephone": "+269 2 69 63 50 00",
+      "url": "http://www.mayotte.pref.gouv.fr"
+    }
+  },
+  {
+    "id": "e3122df3a3f8154bc9733aae7551fe477161cc7c",
+    "name": "prefecture_meurthe_et_moselle",
+    "title": "Préfecture - Meurthe-et-Moselle",
+    "url": "https://lannuaire.service-public.fr/grand-est/meurthe-et-moselle/prefecture-54395-01",
+    "metadata": {
+      "email": "pref-informations@meurthe-et-moselle.gouv.fr",
+      "telephone": "03 83 34 26 26",
+      "url": "http://www.meurthe-et-moselle.gouv.fr"
+    }
+  },
+  {
+    "id": "a7a18697fcbab68baf5edb6b3f06e783161af450",
+    "name": "prefecture_meuse",
+    "title": "Préfecture - Meuse",
+    "url": "https://lannuaire.service-public.fr/grand-est/meuse/prefecture-55029-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 29 77 55 55",
+      "url": "http://www.meuse.gouv.fr"
+    }
+  },
+  {
+    "id": "094252970f8ecbba860a0f2331026284e0ef5c7c",
+    "name": "prefecture_morbihan",
+    "title": "Préfecture - Morbihan",
+    "url": "https://lannuaire.service-public.fr/bretagne/morbihan/prefecture-56260-01",
+    "metadata": {
+      "email": "prefecture@morbihan.gouv.fr",
+      "telephone": "02 97 54 84 00",
+      "url": "http://www.morbihan.gouv.fr"
+    }
+  },
+  {
+    "id": "cc356198b74c48c9eb38fb7bf006466e28ebec5e",
+    "name": "prefecture_moselle",
+    "title": "Préfecture - Moselle",
+    "url": "https://lannuaire.service-public.fr/grand-est/moselle/prefecture-57463-01",
+    "metadata": {
+      "email": "webmestre@moselle.pref.gouv.fr",
+      "telephone": "03 87 34 87 34",
+      "url": "http://www.moselle.gouv.fr"
+    }
+  },
+  {
+    "id": "827d34c47a480256fb64bc9978e75274c8f3a24f",
+    "name": "prefecture_nievre",
+    "title": "Préfecture - Nièvre",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/nievre/prefecture-58194-01",
+    "metadata": {
+      "email": "courrier@nievre.pref.gouv.fr",
+      "telephone": "03 86 60 70 80",
+      "url": "http://www.nievre.gouv.fr"
+    }
+  },
+  {
+    "id": "1925c2fc9ae351ef49ff5f5c33689455afd638e1",
+    "name": "prefecture_du_nord",
+    "title": "Préfecture du Nord",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/nord/prefecture-59350-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 20 30 59 59",
+      "url": "http://www.nord.gouv.fr"
+    }
+  },
+  {
+    "id": "24ec9401fefa54232603b5a03f4a053845953c1b",
+    "name": "prefecture_oise",
+    "title": "Préfecture - Oise",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/oise/prefecture-60057-01",
+    "metadata": {
+      "email": "prefecture@oise.gouv.fr",
+      "telephone": "03 44 06 12 60",
+      "url": "http://www.oise.gouv.fr"
+    }
+  },
+  {
+    "id": "8f0e5f9a67b65ad65c81aac9bb4489b1095ff0d7",
+    "name": "prefecture_orne",
+    "title": "Préfecture - Orne",
+    "url": "https://lannuaire.service-public.fr/normandie/orne/prefecture-61001-01",
+    "metadata": {
+      "email": "pref-communication@orne.gouv.fr",
+      "telephone": "02 33 80 61 61",
+      "url": "http://www.orne.gouv.fr"
+    }
+  },
+  {
+    "id": "98eceb186f916ec0986065a7b5efe6c1ab8ea8fe",
+    "name": "prefecture_paris",
+    "title": "Préfecture - Paris",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/paris/prefecture-75115-01",
+    "metadata": {
+      "email": "",
+      "telephone": "01 82 52 40 00",
+      "url": "http://www.ile-de-france.gouv.fr"
+    }
+  },
+  {
+    "id": "2bccc836b9f15663d85b098c744066f16c4e28c7",
+    "name": "prefecture_du_pas_de_calais",
+    "title": "Préfecture du Pas-de-Calais",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/pas-de-calais/prefecture-62041-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 21 21 20 00",
+      "url": "http://www.pas-de-calais.gouv.fr"
+    }
+  },
+  {
+    "id": "866ed56b4a602012b217ceaa3b719ba91692715d",
+    "name": "prefecture_puy_de_dome",
+    "title": "Préfecture - Puy-de-Dôme",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/puy-de-dome/prefecture-63113-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 73 98 63 63",
+      "url": "http://www.puy-de-dome.gouv.fr/"
+    }
+  },
+  {
+    "id": "1377dc7cf497b61cdbe954b30d652434c7b5954f",
+    "name": "prefecture_pyrenees_atlantiques",
+    "title": "Préfecture - Pyrénées-Atlantiques",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/pyrenees-atlantiques/prefecture-64445-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 59 98 24 24",
+      "url": "http://www.pyrenees-atlantiques.gouv.fr"
+    }
+  },
+  {
+    "id": "296d905b299d090e7a041d489123a40f53f0b733",
+    "name": "prefecture_pyrenees_orientales",
+    "title": "Préfecture - Pyrénées-Orientales",
+    "url": "https://lannuaire.service-public.fr/occitanie/pyrenees-orientales/prefecture-66136-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 68 51 66 66",
+      "url": "http://www.pyrenees-orientales.pref.gouv.fr"
+    }
+  },
+  {
+    "id": "00a212af84c2fe30b97d4eb35408991324f7f00b",
+    "name": "prefecture_rhone",
+    "title": "Préfecture - Rhône",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/rhone/prefecture-69383-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 72 61 61 61 (serveur vocal)",
+      "url": "http://www.rhone.gouv.fr"
+    }
+  },
+  {
+    "id": "316d7d2b942809e8af4fdfd000aa499232c85504",
+    "name": "prefecture_saint_pierre_et_miquelon",
+    "title": "Préfecture - Saint-Pierre-et-Miquelon",
+    "url": "https://lannuaire.service-public.fr/collectivites-d-outre-mer/saint-pierre-et-miquelon/prefecture-97502-01",
+    "metadata": {
+      "email": "courrier@spm.gouv.fr",
+      "telephone": "+508 5 08 41 10 10",
+      "url": "http://www.saint-pierre-et-miquelon.gouv.fr"
+    }
+  },
+  {
+    "id": "dd2220d1b57835c2a1f6937c767d7c6c993543f7",
+    "name": "prefecture_saone_et_loire",
+    "title": "Préfecture - Saône-et-Loire",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/saone-et-loire/prefecture-71270-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 85 21 81 00",
+      "url": "http://www.saone-et-loire.gouv.fr"
+    }
+  },
+  {
+    "id": "9c74847cbdd98dd0a93e59171cf7b05cc6433501",
+    "name": "prefecture_sarthe",
+    "title": "Préfecture - Sarthe",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/sarthe/prefecture-72181-01",
+    "metadata": {
+      "email": "pref-mail@sarthe.gouv.fr",
+      "telephone": "02 43 39 70 00 (informations)02 43 39 72 72 (standard)",
+      "url": "http://www.sarthe.gouv.fr"
+    }
+  },
+  {
+    "id": "7963fadff544c471d5731727fcf07f6861dd689f",
+    "name": "prefecture_savoie",
+    "title": "Préfecture - Savoie",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/savoie/prefecture-73065-01",
+    "metadata": {
+      "email": "prefecture@savoie.gouv.fr",
+      "telephone": "04 79 75 50 00",
+      "url": "http://www.savoie.gouv.fr"
+    }
+  },
+  {
+    "id": "233cf63afde6c1bf25d3ec2ddf5b6a4da96b4913",
+    "name": "prefecture_de_seine_et_marne",
+    "title": "Préfecture de Seine-et-Marne",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/seine-et-marne/prefecture-77288-01",
+    "metadata": {
+      "email": "",
+      "telephone": "01 64 71 77 77",
+      "url": "http://www.seine-et-marne.gouv.fr"
+    }
+  },
+  {
+    "id": "2cb0aad5fe4fc2b9b6f3e475c2a156f10ec3b2b2",
+    "name": "prefecture_seine_maritime",
+    "title": "Préfecture -Seine-Maritime",
+    "url": "https://lannuaire.service-public.fr/normandie/seine-maritime/prefecture-76540-01",
+    "metadata": {
+      "email": "prefecture@seine-maritime.gouv.fr",
+      "telephone": "02 32 76 50 00",
+      "url": "http://www.seine-maritime.gouv.fr"
+    }
+  },
+  {
+    "id": "4bb82d9037b1ec71310de5308493e8bc730b54fa",
+    "name": "prefecture_seine_saint_denis",
+    "title": "Préfecture - Seine-Saint-Denis",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/seine-saint-denis/prefecture-93008-01",
+    "metadata": {
+      "email": "prefecture@seine-saint-denis.gouv.fr",
+      "telephone": "01 41 60 60 60",
+      "url": "http://www.seine-saint-denis.gouv.fr"
+    }
+  },
+  {
+    "id": "a6a309feebcb113e62fe75ec4baff95b12031f8c",
+    "name": "prefecture_somme",
+    "title": "Préfecture - Somme",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/somme/prefecture-80021-01",
+    "metadata": {
+      "email": "pref-courrier@somme.gouv.fr",
+      "telephone": "03 22 97 80 80",
+      "url": "http://www.somme.gouv.fr"
+    }
+  },
+  {
+    "id": "ba800cf300e2822256048caed82ee294af32fd71",
+    "name": "prefecture_tarn",
+    "title": "Préfecture - Tarn",
+    "url": "https://lannuaire.service-public.fr/occitanie/tarn/prefecture-81004-01",
+    "metadata": {
+      "email": "courrier@tarn.pref.gouv.fr",
+      "telephone": "05 63 45 61 61",
+      "url": "http://www.tarn.gouv.fr"
+    }
+  },
+  {
+    "id": "3f3cb463efeeda7516b442dedbc170fed4383e46",
+    "name": "prefecture_tarn_et_garonne",
+    "title": "Préfecture - Tarn-et-Garonne",
+    "url": "https://lannuaire.service-public.fr/occitanie/tarn-et-garonne/prefecture-82121-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 63 22 82 00",
+      "url": "http://www.tarn-et-garonne.gouv.fr"
+    }
+  },
+  {
+    "id": "28cbb4f2c096c2eebfb2fd4cfeba8ca7c6f3e037",
+    "name": "prefecture_du_territoire_de_belfort",
+    "title": "Préfecture du Territoire de Belfort",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/territoire-de-belfort/prefecture-90010-01",
+    "metadata": {
+      "email": "pref-courrier@territoire-de-belfort.gouv.fr",
+      "telephone": "03 84 57 00 07",
+      "url": "http://www.territoire-de-belfort.gouv.fr"
+    }
+  },
+  {
+    "id": "b9ba715b03fef2f7617e8140473be69a9be6c3da",
+    "name": "prefecture_val_d_oise",
+    "title": "Préfecture - Val-d'Oise",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/val-d-oise/prefecture-95127-01",
+    "metadata": {
+      "email": "prefecture@val-doise.gouv.fr",
+      "telephone": "01 34 20 95 95",
+      "url": "http://www.val-doise.gouv.fr"
+    }
+  },
+  {
+    "id": "9ef2af203556cb8289e76b49d7d3276880f587f5",
+    "name": "prefecture_val_de_marne",
+    "title": "Préfecture - Val de Marne",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/val-de-marne/prefecture-94028-01",
+    "metadata": {
+      "email": "prefecture@val-de-marne.gouv.fr",
+      "telephone": "01 49 56 60 00",
+      "url": "http://www.val-de-marne.gouv.fr"
+    }
+  },
+  {
+    "id": "c6e253373dffc1bbc0791dc15d02be8c7c8e5955",
+    "name": "prefecture_var",
+    "title": "Préfecture - Var",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/var/prefecture-83137-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 94 18 83 83",
+      "url": "http://www.var.gouv.fr"
+    }
+  },
+  {
+    "id": "9e0c0e0600dca128e69f892834f69d7555267c40",
+    "name": "prefecture_de_vaucluse",
+    "title": "Préfecture de Vaucluse",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/vaucluse/prefecture-84007-01",
+    "metadata": {
+      "email": "pref-contact@vaucluse.gouv.fr",
+      "telephone": "04 88 17 84 84",
+      "url": "http://www.vaucluse.gouv.fr"
+    }
+  },
+  {
+    "id": "6494e06ba8b72426defa1bf687496223303d06de",
+    "name": "prefecture_vendee",
+    "title": "Préfecture - Vendée",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/vendee/prefecture-85191-01",
+    "metadata": {
+      "email": "prefecture@vendee.gouv.fr",
+      "telephone": "02 51 36 70 85",
+      "url": "http://www.vendee.gouv.fr"
+    }
+  },
+  {
+    "id": "0b9cbb41b2facf06ebcb049cb7904ab68250acca",
+    "name": "prefecture_vienne",
+    "title": "Préfecture - Vienne",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/vienne/prefecture-86194-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 49 55 70 00",
+      "url": "http://www.vienne.gouv.fr"
+    }
+  },
+  {
+    "id": "57b70cbda3a5dd58db4bc2ba3a671971c750c343",
+    "name": "prefecture_vosges",
+    "title": "Préfecture - Vosges",
+    "url": "https://lannuaire.service-public.fr/grand-est/vosges/prefecture-88160-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 29 69 88 88",
+      "url": "http://www.vosges.gouv.fr"
+    }
+  },
+  {
+    "id": "9488253dc831fda2bff38863183d7381557e9dda",
+    "name": "prefecture_yonne",
+    "title": "Préfecture - Yonne",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/yonne/prefecture-89024-01",
+    "metadata": {
+      "email": "prefecture@yonne.gouv.fr",
+      "telephone": "03 86 72 79 89",
+      "url": "http://www.yonne.gouv.fr"
+    }
+  },
+  {
+    "id": "d6a4ab71e461344b484ef8dbc9ee21c66df57666",
+    "name": "prefecture_yvelines",
+    "title": "Préfecture - Yvelines",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/yvelines/prefecture-78646-01",
+    "metadata": {
+      "email": "pref-communication78@yvelines.gouv.fr",
+      "telephone": "01 39 49 78 00",
+      "url": "http://www.yvelines.gouv.fr"
+    }
+  },
+  {
+    "id": "3bd286c21cb3a7ece7086dc49f72afa855c77e92",
+    "name": "representation_de_l_etat_annexe_de_saint_barthelemy",
+    "title": "Représentation de l'État - annexe de Saint-Barthélémy",
+    "url": "https://lannuaire.service-public.fr/collectivites-d-outre-mer/saint-barthelemy/prefecture-97701-01",
+    "metadata": {
+      "email": "prefecturesxm@saint-barth-saint-martin.gouv.fr",
+      "telephone": "+590 5 90 27 64 10",
+      "url": "http://saint-barth-saint-martin.pref.gouv.fr"
+    }
+  },
+  {
+    "id": "c32f6c9a7e4c43fd1a52fc9155c22147624fcc20",
+    "name": "representation_de_l_etat_annexe_de_saint_martin",
+    "title": "Représentation de l'État - annexe de Saint-Martin",
+    "url": "https://lannuaire.service-public.fr/collectivites-d-outre-mer/saint-martin/prefecture-97801-01",
+    "metadata": {
+      "email": "prefecturesxm@saint-barth-saint-martin.gouv.fr",
+      "telephone": "+590 5 90 29 09 21",
+      "url": "http://saint-barth-saint-martin.pref.gouv.fr"
+    }
+  },
+  {
+    "id": "b3fd7a1d030bbb3ea570f3fbe2117d3d2a1a9f92",
+    "alternateName": "TAAF",
+    "name": "terres_australes_et_antarctiques_francaises",
+    "title": "Terres australes et antarctiques françaises",
+    "url": "https://lannuaire.service-public.fr/collectivites-d-outre-mer/terres-australes-et-antarctiques-francaises/prefecture-97416-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 62 96 78 78",
+      "url": "http://www.taaf.fr"
+    }
+  }
+]

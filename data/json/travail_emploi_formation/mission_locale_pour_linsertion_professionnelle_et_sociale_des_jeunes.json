@@ -1,0 +1,2161 @@
+[
+  {
+    "id": "1b1d3cc1c6e497ed58a5a6c70acc26cf9ef2e5d4",
+    "name": "mission_locale_jeunes_miribel_site_de_la_cotiere",
+    "title": "Mission locale jeunes - Miribel - Site de la Côtière",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/ain/mission_locale-01249-01",
+    "metadata": {
+      "email": "agnes.dreyfus-pillon@mljbourg.com",
+      "telephone": "04 72 88 08 88",
+      "url": ""
+    }
+  },
+  {
+    "id": "251ff84d12ae80e4ab89b12851473be7af59a0db",
+    "alternateName": "16-25 ans",
+    "name": "mission_locale_pour_linsertion_professionnelle_et_sociale_des_jeunes_16_25_ans_abbeville",
+    "title": "Mission locale pour l'insertion professionnelle et sociale des jeunes (16-25 ans) - Abbeville",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/somme/mission_locale-80001-01",
+    "metadata": {
+      "email": "accueil@mlpm.org",
+      "telephone": "03 22 20 14 14",
+      "url": "http://www.mlpm.org"
+    }
+  },
+  {
+    "id": "042cc289caa43919827c3fafa0c3c6004284cb1c",
+    "alternateName": "16-25 ans",
+    "name": "mission_locale_pour_linsertion_professionnelle_et_sociale_des_jeunes_16_25_ans_agen",
+    "title": "Mission locale pour l'insertion professionnelle et sociale des jeunes (16-25 ans) - Agen",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/lot-et-garonne/mission_locale-47001-01",
+    "metadata": {
+      "email": "siege@mission-locale-agen.org",
+      "telephone": "05 53 47 23 32",
+      "url": "https://missionlocaleagen.org"
+    }
+  },
+  {
+    "id": "9c401a29443b8e368548ff6424632d9cccb05bc9",
+    "alternateName": "16-25 ans",
+    "name": "mission_locale_pour_linsertion_professionnelle_et_sociale_des_jeunes_16_25_ans_aigues_mortes_petite_camargue",
+    "title": "Mission locale pour l'insertion professionnelle et sociale des jeunes (16-25 ans) - Aigues-Mortes (Petite-Camargue)",
+    "url": "https://lannuaire.service-public.fr/occitanie/gard/mission_locale-30003-01",
+    "metadata": {
+      "email": "mlj.vauvert@mljpc30.fr",
+      "telephone": "04 66 53 61 38",
+      "url": "http://www.mljvauvert.com"
+    }
+  },
+  {
+    "id": "ced009f5bf65270af6f9b07ca6b4798ad8714263",
+    "alternateName": "16-25 ans",
+    "name": "mission_locale_pour_linsertion_professionnelle_et_sociale_des_jeunes_16_25_ans_aiguilles",
+    "title": "Mission locale pour l'insertion professionnelle et sociale des jeunes (16-25 ans) - Aiguilles",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/hautes-alpes/mission_locale-05003-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 92 43 48 09",
+      "url": "http://www.mj-05.org"
+    }
+  },
+  {
+    "id": "f630a8f583033caf0488f75d711d57cfd303e30a",
+    "alternateName": "16-25 ans",
+    "name": "mission_locale_pour_linsertion_professionnelle_et_sociale_des_jeunes_16_25_ans_aix_en_provence",
+    "title": "Mission locale pour l'insertion professionnelle et sociale des jeunes (16-25 ans) - Aix-en-Provence",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/mission_locale-13001-01",
+    "metadata": {
+      "email": "aix@ml-pa.org",
+      "telephone": "04 42 17 04 80",
+      "url": "http://www.ml-pa.org"
+    }
+  },
+  {
+    "id": "e8bcc448084331f0aa575e40a0f34f26026cff79",
+    "alternateName": "16-25 ans",
+    "name": "mission_locale_pour_linsertion_professionnelle_et_sociale_des_jeunes_16_25_ans_aixe_sur_vienne",
+    "title": "Mission locale pour l'insertion professionnelle et sociale des jeunes (16-25 ans) - Aixe-sur-Vienne",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/haute-vienne/mission_locale-87001-01",
+    "metadata": {
+      "email": "mlrurale87@wanadoo.fr",
+      "telephone": "05 55 70 45 74",
+      "url": "http://www.missionlocaleruraledelahautevienne.com"
+    }
+  },
+  {
+    "id": "2330b7a53888f8f443c913e3b326defb65302635",
+    "alternateName": "16-25 ans",
+    "name": "mission_locale_pour_linsertion_professionnelle_et_sociale_des_jeunes_16_25_ans_aix_les_bains",
+    "title": "Mission locale pour l'insertion professionnelle et sociale des jeunes (16-25 ans) - Aix-les-Bains",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/savoie/mission_locale-73008-01",
+    "metadata": {
+      "email": "info@mlj73.fr",
+      "telephone": "04 79 61 54 59",
+      "url": "http://www.mlj73.fr"
+    }
+  },
+  {
+    "id": "88af38f1f261b6fe98060421dc1d313d078b2ef1",
+    "alternateName": "16-25 ans",
+    "name": "mission_locale_pour_linsertion_professionnelle_et_sociale_des_jeunes_16_25_ans_ajaccio",
+    "title": "Mission locale pour l'insertion professionnelle et sociale des jeunes (16-25 ans) - Ajaccio",
+    "url": "https://lannuaire.service-public.fr/corse/corse-du-sud/mission_locale-2A004-01",
+    "metadata": {
+      "email": "secretariat.mlajaccio@ml-corse.corsica",
+      "telephone": "04 95 20 92 38",
+      "url": "http://www.missions-locales-corse.org"
+    }
+  },
+  {
+    "id": "5e7c19a8f4b1dba9d7603311d5db47e1c3a1e8a6",
+    "alternateName": "16-25 ans",
+    "name": "mission_locale_pour_linsertion_professionnelle_et_sociale_des_jeunes_16_25_ans_albertville",
+    "title": "Mission locale pour l'insertion professionnelle et sociale des jeunes (16-25 ans) - Albertville",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/savoie/mission_locale-73011-01",
+    "metadata": {
+      "email": "secretariat@mlj-tarentaise.com",
+      "telephone": "04 79 31 19 19",
+      "url": "http://www.mlj-tarentaise.com"
+    }
+  },
+  {
+    "id": "5e0a1e1954fabd7ff77bbf0254dde686db6a156a",
+    "alternateName": "16-25 ans",
+    "name": "mission_locale_pour_linsertion_professionnelle_et_sociale_des_jeunes_16_25_ans_albi",
+    "title": "Mission locale pour l'insertion professionnelle et sociale des jeunes (16-25 ans) - Albi",
+    "url": "https://lannuaire.service-public.fr/occitanie/tarn/mission_locale-81004-01",
+    "metadata": {
+      "email": "mjtn@mjtn.fr",
+      "telephone": "05 63 47 08 85",
+      "url": "http://www.mjtn.fr"
+    }
+  },
+  {
+    "id": "fea94974804f563a0114b59ad9559bc8fc8f9c2d",
+    "alternateName": "16-25 ans",
+    "name": "mission_locale_pour_linsertion_professionnelle_et_sociale_des_jeunes_16_25_ans_alencon",
+    "title": "Mission locale pour l'insertion professionnelle et sociale des jeunes (16-25 ans) - Alençon",
+    "url": "https://lannuaire.service-public.fr/normandie/orne/mission_locale-61001-01",
+    "metadata": {
+      "email": "accueil@missionlocale-alencon.fr",
+      "telephone": "02 33 32 05 94",
+      "url": "http://www.missionlocale-alencon.fr"
+    }
+  },
+  {
+    "id": "cc37836c0a6233ce9136db0aba9d0ace5e548c53",
+    "alternateName": "16-25 ans",
+    "name": "mission_locale_pour_linsertion_professionnelle_et_sociale_des_jeunes_16_25_ans_ales_pays_cevennes",
+    "title": "Mission locale pour l'insertion professionnelle et sociale des jeunes (16-25 ans) - Alès (Pays-Cévennes)",
+    "url": "https://lannuaire.service-public.fr/occitanie/gard/mission_locale-30007-01",
+    "metadata": {
+      "email": "contact@mljales.com",
+      "telephone": "04 66 56 71 73",
+      "url": "http://mljalespayscevennes.com"
+    }
+  },
+  {
+    "id": "dc97a649112c84974c85e7a8451ce2ff19dfbece",
+    "alternateName": "16-25 ans",
+    "name": "mission_locale_pour_linsertion_professionnelle_et_sociale_des_jeunes_16_25_ans_alfortville",
+    "title": "Mission locale pour l'insertion professionnelle et sociale des jeunes (16-25 ans) - Alfortville",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/val-de-marne/mission_locale-94002-01",
+    "metadata": {
+      "email": "",
+      "telephone": "01 43 53 35 96",
+      "url": "http://www.agglo-plainecentrale94.fr"
+    }
+  },
+  {
+    "id": "bd5e37e6e04ba50e51d46c60f416166957e1016c",
+    "alternateName": "16-25 ans",
+    "name": "mission_locale_pour_linsertion_professionnelle_et_sociale_des_jeunes_16_25_ans_allonnes_val_de_sarthe",
+    "title": "Mission locale pour l'insertion professionnelle et sociale des jeunes (16-25 ans) - Allonnes (Val-de-Sarthe)",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/sarthe/mission_locale-72003-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 43 84 16 60",
+      "url": ""
+    }
+  },
+  {
+    "id": "f6db56a567fa81dac44fa5e510c8ea6adadc3345",
+    "alternateName": "16-25 ans",
+    "name": "mission_locale_pour_linsertion_professionnelle_et_sociale_des_jeunes_16_25_ans_altkirch",
+    "title": "Mission locale pour l'insertion professionnelle et sociale des jeunes (16-25 ans) - Altkirch",
+    "url": "https://lannuaire.service-public.fr/grand-est/haut-rhin/mission_locale-68004-01",
+    "metadata": {
+      "email": "accueil@mls3f.fr",
+      "telephone": "03 89 08 96 71",
+      "url": "http://www.mls3f.fr"
+    }
+  },
+  {
+    "id": "0f5fb24cd6d76dc8fccee1ae44a1571558adc084",
+    "alternateName": "16-25 ans",
+    "name": "mission_locale_pour_linsertion_professionnelle_et_sociale_des_jeunes_16_25_ans_amberieu_en_bugey",
+    "title": "Mission locale pour l'insertion professionnelle et sociale des jeunes (16-25 ans) - Ambérieu-en-Bugey",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/ain/mission_locale-01004-01",
+    "metadata": {
+      "email": "mlj.amberieux@mljbp1.fr",
+      "telephone": "04 74 34 61 22",
+      "url": "http://www.mljbpa.fr"
+    }
+  },
+  {
+    "id": "4607efc296d169f60bad1177e1b254303448861f",
+    "alternateName": "16-25 ans",
+    "name": "mission_locale_pour_linsertion_professionnelle_et_sociale_des_jeunes_16_25_ans_ambert_livradois_forez",
+    "title": "Mission locale pour l'insertion professionnelle et sociale des jeunes (16-25 ans) - Ambert (Livradois-Forez)",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/puy-de-dome/mission_locale-63003-01",
+    "metadata": {
+      "email": "missionlocaleambert@outlook.com",
+      "telephone": "04 73 82 05 88",
+      "url": "http://www.missionlocaleambert.com"
+    }
+  },
+  {
+    "id": "a3a67cd6d8ff038eb58fb77850ecc5f0b0caa773",
+    "alternateName": "16-25 ans",
+    "name": "mission_locale_pour_linsertion_professionnelle_et_sociale_des_jeunes_16_25_ans_amboise",
+    "title": "Mission locale pour l'insertion professionnelle et sociale des jeunes (16-25 ans) - Amboise",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/indre-et-loire/mission_locale-37003-01",
+    "metadata": {
+      "email": "contact@mlloiretouraine.org",
+      "telephone": "02 47 30 41 64",
+      "url": ""
+    }
+  },
+  {
+    "id": "a6c69f21b307ebb0aa18afafa48137b7de4a4767",
+    "alternateName": "16-25 ans",
+    "name": "mission_locale_pour_linsertion_professionnelle_et_sociale_des_jeunes_16_25_ans_amiens",
+    "title": "Mission locale pour l'insertion professionnelle et sociale des jeunes (16-25 ans) - Amiens",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/somme/mission_locale-80021-01",
+    "metadata": {
+      "email": "mlife.grandamienois@mlifega.fr",
+      "telephone": "03 22 50 04 50",
+      "url": "http://www.mlifega.fr"
+    }
+  },
+  {
+    "id": "78d6bed62dd46cd2161eb08d63a2bd047695b58f",
+    "alternateName": "16-25 ans",
+    "name": "mission_locale_pour_linsertion_professionnelle_et_sociale_des_jeunes_16_25_ans_amplepuis",
+    "title": "Mission locale pour l'insertion professionnelle et sociale des jeunes (16-25 ans) - Amplepuis",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/rhone/mission_locale-69006-01",
+    "metadata": {
+      "email": "",
+      "telephone": "07 74 05 00 30",
+      "url": "http://www.missionlocale.org"
+    }
+  },
+  {
+    "id": "43fcafe964f126d1aaf975c5bf1e1d79d6f4381e",
+    "alternateName": "16-25 ans",
+    "name": "mission_locale_pour_linsertion_professionnelle_et_sociale_des_jeunes_16_25_ans_ancenis",
+    "title": "Mission locale pour l'insertion professionnelle et sociale des jeunes (16-25 ans) - Ancenis",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/loire-atlantique/mission_locale-44003-01",
+    "metadata": {
+      "email": "accueil@mlpaysancenis.fr",
+      "telephone": "02 40 96 44 30",
+      "url": "http://www.missionlocalepaysancenis.fr"
+    }
+  },
+  {
+    "id": "e699ff3c9acd7a0cf057fcaaf1709519e21bd2b3",
+    "alternateName": "16-25 ans",
+    "name": "mission_locale_pour_linsertion_professionnelle_et_sociale_des_jeunes_16_25_ans_andrezieux_boutheon",
+    "title": "Mission locale pour l'insertion professionnelle et sociale des jeunes (16-25 ans) - Andrézieux-Bouthéon",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/loire/mission_locale-42005-01",
+    "metadata": {
+      "email": "contactab@mlforez.fr",
+      "telephone": "04 77 36 69 18",
+      "url": "https://www.mission-locale.fr/annuaire/agence/mission-locale-dandrezieux-boutheon"
+    }
+  },
+  {
+    "id": "7a70c4db91b83adf65e8f93fb5fa70d54e01940e",
+    "alternateName": "16-25 ans",
+    "name": "mission_locale_pour_linsertion_professionnelle_et_sociale_des_jeunes_16_25_ans_angers",
+    "title": "Mission locale pour l'insertion professionnelle et sociale des jeunes (16-25 ans) - Angers",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/maine-et-loire/mission_locale-49007-01",
+    "metadata": {
+      "email": "mlangevine@mla49.org",
+      "telephone": "02 41 24 16 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "0937a0d0275d69f44e826bfe11d4e819290d1970",
+    "alternateName": "16-25 ans",
+    "name": "mission_locale_pour_linsertion_professionnelle_et_sociale_des_jeunes_16_25_ans_anglet",
+    "title": "Mission locale pour l'insertion professionnelle et sociale des jeunes (16-25 ans) - Anglet",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/pyrenees-atlantiques/mission_locale-64024-01",
+    "metadata": {
+      "email": "contact@missionlocale-paysbasque.org",
+      "telephone": "05 59 59 82 60",
+      "url": "http://www.missionlocale-paysbasque.org"
+    }
+  },
+  {
+    "id": "6b967562116488df9f8412f68299059d6eac4221",
+    "alternateName": "16-25 ans",
+    "name": "mission_locale_pour_linsertion_professionnelle_et_sociale_des_jeunes_16_25_ans_angouleme",
+    "title": "Mission locale pour l'insertion professionnelle et sociale des jeunes (16-25 ans) - Angoulême",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/charente/mission_locale-16015-01",
+    "metadata": {
+      "email": "mlangouleme@mlangouleme.org",
+      "telephone": "05 45 90 15 30",
+      "url": "http://www.mlangouleme.org"
+    }
+  },
+  {
+    "id": "c759d20d563457503fce12e10ead93e88835cdcf",
+    "alternateName": "16-25 ans",
+    "name": "mission_locale_pour_linsertion_professionnelle_et_sociale_des_jeunes_16_25_ans_annecy",
+    "title": "Mission locale pour l'insertion professionnelle et sociale des jeunes (16-25 ans) - Annecy",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/haute-savoie/mission_locale-74010-01",
+    "metadata": {
+      "email": "info@mljba.fr",
+      "telephone": "04 50 51 39 22",
+      "url": "http://www.mljba.fr"
+    }
+  },
+  {
+    "id": "2d292491d2e9b1633fc589e1de75a7991f78a2ff",
+    "alternateName": "16-25 ans",
+    "name": "mission_locale_pour_linsertion_professionnelle_et_sociale_des_jeunes_16_25_ans_annemasse",
+    "title": "Mission locale pour l'insertion professionnelle et sociale des jeunes (16-25 ans) - Annemasse",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/haute-savoie/mission_locale-74012-01",
+    "metadata": {
+      "email": "accueil.annemasse@mlgenevois.org",
+      "telephone": "04 50 95 20 50",
+      "url": "http://mlgenevois.org"
+    }
+  },
+  {
+    "id": "9bf19256bd8e7baa5a177f0bdaad1f43dde2451a",
+    "alternateName": "16-25 ans",
+    "name": "mission_locale_pour_linsertion_professionnelle_et_sociale_des_jeunes_16_25_ans_annonay_nord_ardeche",
+    "title": "Mission locale pour l'insertion professionnelle et sociale des jeunes (16-25 ans) - Annonay (Nord-Ardèche)",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/ardeche/mission_locale-07010-01",
+    "metadata": {
+      "email": "contact07@mlna.fr",
+      "telephone": "04 75 67 05 07",
+      "url": ""
+    }
+  },
+  {
+    "id": "49d29cfe73c6f13d2d0895053c1af6f2b7df3d42",
+    "alternateName": "16-25 ans",
+    "name": "mission_locale_pour_linsertion_professionnelle_et_sociale_des_jeunes_16_25_ans_antibes",
+    "title": "Mission locale pour l'insertion professionnelle et sociale des jeunes (16-25 ans) - Antibes",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/alpes-maritimes/mission_locale-06004-01",
+    "metadata": {
+      "email": "mission.locale@mlantipolis.com",
+      "telephone": "04 92 91 79 79",
+      "url": ""
+    }
+  },
+  {
+    "id": "d3660d45d0ab504229333b2ee4ac442df09f7959",
+    "alternateName": "16-25 ans",
+    "name": "mission_locale_pour_linsertion_professionnelle_et_sociale_des_jeunes_16_25_ans_antony",
+    "title": "Mission locale pour l'insertion professionnelle et sociale des jeunes (16-25 ans) - Antony",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/hauts-de-seine/mission_locale-92019-01",
+    "metadata": {
+      "email": "gip-emploie@valleesud.fr",
+      "telephone": "01 55 59 44 95",
+      "url": "http://www.valleesud.fr"
+    }
+  },
+  {
+    "id": "1735717546055de515dd021f9a7e19fa07bfd8f0",
+    "alternateName": "16-25 ans",
+    "name": "mission_locale_pour_linsertion_professionnelle_et_sociale_des_jeunes_16_25_ans_apt_luberon_pays_des_sorgues_monts_de_vaucluse",
+    "title": "Mission locale pour l'insertion professionnelle et sociale des jeunes (16-25 ans) - Apt (Lubéron-Pays-des-Sorgues-Monts-de-Vaucluse)",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/vaucluse/mission_locale-84003-01",
+    "metadata": {
+      "email": "accueilapt@mlluberon.fr",
+      "telephone": "04 90 04 79 72",
+      "url": ""
+    }
+  },
+  {
+    "id": "2230a8d3a63c0ff4221aff3d1015c434facd5ae9",
+    "alternateName": "16-25 ans",
+    "name": "mission_locale_pour_linsertion_professionnelle_et_sociale_des_jeunes_16_25_ans_arc_les_gray",
+    "title": "Mission locale pour l'insertion professionnelle et sociale des jeunes (16-25 ans) - Arc-les-Gray",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/haute-saone/mission_locale-70026-01",
+    "metadata": {
+      "email": "milobassingraygois@milobfc.fr",
+      "telephone": "03 84 64 88 38",
+      "url": ""
+    }
+  },
+  {
+    "id": "5fbb4d6e5a27ccdb164359860d617ea6a6c5cb8d",
+    "alternateName": "16-25 ans",
+    "name": "mission_locale_pour_linsertion_professionnelle_et_sociale_des_jeunes_16_25_ans_argeles_gazost",
+    "title": "Mission locale pour l'insertion professionnelle et sociale des jeunes (16-25 ans) - Argelès-Gazost",
+    "url": "https://lannuaire.service-public.fr/occitanie/hautes-pyrenees/mission_locale-65025-01",
+    "metadata": {
+      "email": "mission.locale@ml65.org",
+      "telephone": "05 62979336",
+      "url": "http://www.mlmidipy.org"
+    }
+  },
+  {
+    "id": "d9aca636ee527c62076ae25dcf007f9cbb1edef2",
+    "alternateName": "16-25 ans",
+    "name": "mission_locale_pour_linsertion_professionnelle_et_sociale_des_jeunes_16_25_ans_argentan",
+    "title": "Mission locale pour l'insertion professionnelle et sociale des jeunes (16-25 ans) - Argentan",
+    "url": "https://lannuaire.service-public.fr/normandie/orne/mission_locale-61006-01",
+    "metadata": {
+      "email": "jf.dorso@missionlocale-argentan.fr",
+      "telephone": "02 33 36 18 52",
+      "url": "http://www.missionlocale-argentan.fr"
+    }
+  },
+  {
+    "id": "5dc256420e0dcb1548ce783b0f3b24e236483a20",
+    "alternateName": "16-25 ans",
+    "name": "mission_locale_pour_linsertion_professionnelle_et_sociale_des_jeunes_16_25_ans_argenteuil_bezons",
+    "title": "Mission locale pour l'insertion professionnelle et sociale des jeunes (16-25 ans) - Argenteuil-Bezons",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/val-d-oise/mission_locale-95018-01",
+    "metadata": {
+      "email": "direction@mlab-mlidf.org",
+      "telephone": "01 34 11 40 00",
+      "url": "http://mlab-mlidf.org"
+    }
+  },
+  {
+    "id": "9d7768eda1f194ac4a2e716dc3b1df2a4c509814",
+    "alternateName": "16-25 ans",
+    "name": "mission_locale_pour_linsertion_professionnelle_et_sociale_des_jeunes_16_25_ans_argenton_sur_creuse",
+    "title": "Mission locale pour l'insertion professionnelle et sociale des jeunes (16-25 ans) - Argenton-sur-Creuse",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/indre/mission_locale-36006-01",
+    "metadata": {
+      "email": "ml.indre.sud@orange.fr",
+      "telephone": "02 54 24 06 50",
+      "url": ""
+    }
+  },
+  {
+    "id": "7c2e770154b7b7d98959edd3d4a317593cb4a916",
+    "alternateName": "16-25 ans",
+    "name": "mission_locale_pour_linsertion_professionnelle_et_sociale_des_jeunes_16_25_ans_arles",
+    "title": "Mission locale pour l'insertion professionnelle et sociale des jeunes (16-25 ans) - Arles",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/mission_locale-13004-01",
+    "metadata": {
+      "email": "siege@mldelta.fr",
+      "telephone": "04 90 18 43 20",
+      "url": "http://www.cnml.gouv.fr"
+    }
+  },
+  {
+    "id": "b1e15a8a42e0a142972aca5dbc7f5def49d4005b",
+    "alternateName": "16-25 ans",
+    "name": "mission_locale_pour_linsertion_professionnelle_et_sociale_des_jeunes_16_25_ans_armentieres_vallee_de_la_lys",
+    "title": "Mission locale pour l'insertion professionnelle et sociale des jeunes (16-25 ans) - Armentières-Vallée-de-la-Lys",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/nord/mission_locale-59017-01",
+    "metadata": {
+      "email": "mlarmentieres-valleedelalys@nordnet.fr",
+      "telephone": "03 20 10 92 20",
+      "url": "http://www.cnml.gouv.fr"
+    }
+  },
+  {
+    "id": "fea32c9d0449a382d1ecce846665a4aab104d8f4",
+    "alternateName": "16-25 ans",
+    "name": "mission_locale_pour_linsertion_professionnelle_et_sociale_des_jeunes_16_25_ans_arnay_le_duc",
+    "title": "Mission locale pour l'insertion professionnelle et sociale des jeunes (16-25 ans) - Arnay-le-Duc",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/cote-d-or/mission_locale-21023-01",
+    "metadata": {
+      "email": "nasser.hamraoui@milobfc.fr",
+      "telephone": "03 80 90 05 15",
+      "url": "http://www.missionlocalebeaune.com"
+    }
+  },
+  {
+    "id": "4cb0fe9a9c95dccf7480aa633e28efb304b76c6a",
+    "alternateName": "16-25 ans",
+    "name": "mission_locale_pour_linsertion_professionnelle_et_sociale_des_jeunes_16_25_ans_arras",
+    "title": "Mission locale pour l'insertion professionnelle et sociale des jeunes (16-25 ans) - Arras",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/pas-de-calais/mission_locale-62041-01",
+    "metadata": {
+      "email": "mlpa@mlpa.fr",
+      "telephone": "03 21 71 83 93",
+      "url": "http://www.mlpa.fr"
+    }
+  },
+  {
+    "id": "a0118e51d14ee125e131b843078a86a2b8102d7e",
+    "alternateName": "16-25 ans",
+    "name": "mission_locale_pour_linsertion_professionnelle_et_sociale_des_jeunes_16_25_ans_aspres_sur_buech",
+    "title": "Mission locale pour l'insertion professionnelle et sociale des jeunes (16-25 ans) - Aspres-sur-Buëch",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/hautes-alpes/mission_locale-05010-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 92 58 79 62",
+      "url": ""
+    }
+  },
+  {
+    "id": "ed9834901e1a9d3a8bbfdf2dba4b416102cf8b4f",
+    "alternateName": "16-25 ans",
+    "name": "mission_locale_pour_linsertion_professionnelle_et_sociale_des_jeunes_16_25_ans_aubagne",
+    "title": "Mission locale pour l'insertion professionnelle et sociale des jeunes (16-25 ans) - Aubagne",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/mission_locale-13005-01",
+    "metadata": {
+      "email": "contact@missionlocaleaubagne.org",
+      "telephone": "04 42 62 83 30",
+      "url": "http://www.missionlocaleaubagne.org"
+    }
+  },
+  {
+    "id": "a930ec6185305f154c41fcbe635b7ff07caa32ce",
+    "alternateName": "16-25 ans",
+    "name": "mission_locale_pour_linsertion_professionnelle_et_sociale_des_jeunes_16_25_ans_aubenas_ardeche_meridionale",
+    "title": "Mission locale pour l'insertion professionnelle et sociale des jeunes (16-25 ans) - Aubenas (Ardèche-Méridionale)",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/ardeche/mission_locale-07019-01",
+    "metadata": {
+      "email": "mission.locale@mlam.fr",
+      "telephone": "04 75 89 20 00",
+      "url": "http://www.mission-locale-ardeche-sud.fr"
+    }
+  },
+  {
+    "id": "44fccd9a58385bb00649a4fc52430000467ae1f2",
+    "alternateName": "16-25 ans",
+    "name": "mission_locale_pour_linsertion_professionnelle_et_sociale_des_jeunes_16_25_ans_aubervilliers",
+    "title": "Mission locale pour l'insertion professionnelle et sociale des jeunes (16-25 ans) - Aubervilliers",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/seine-saint-denis/mission_locale-93001-01",
+    "metadata": {
+      "email": "",
+      "telephone": "01 71 86 35 36",
+      "url": "http://www.missionlocale-aubervilliers.org"
+    }
+  },
+  {
+    "id": "25b54dadedb8dbc6208382976e966ad2c77f7b83",
+    "alternateName": "16-25 ans",
+    "name": "mission_locale_pour_linsertion_professionnelle_et_sociale_des_jeunes_16_25_ans_aubigny_sur_nere_pays_sancerre_sologne",
+    "title": "Mission locale pour l'insertion professionnelle et sociale des jeunes (16-25 ans) - Aubigny-sur-Nère (Pays-Sancerre-Sologne)",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/cher/mission_locale-18015-01",
+    "metadata": {
+      "email": "missionlocale@sancerresologne.fr",
+      "telephone": "02 48 58 35 91",
+      "url": ""
+    }
+  },
+  {
+    "id": "4ca1942b4efd319c35026bb1ff522a6ed13b721d",
+    "alternateName": "16-25 ans",
+    "name": "mission_locale_pour_linsertion_professionnelle_et_sociale_des_jeunes_16_25_ans_aubusson",
+    "title": "Mission locale pour l'insertion professionnelle et sociale des jeunes (16-25 ans) - Aubusson",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/creuse/mission_locale-23008-01",
+    "metadata": {
+      "email": "mlcreuse@missionlocale23.fr",
+      "telephone": "05 55 52 65 05",
+      "url": "http://www.cnml.gouv.fr"
+    }
+  },
+  {
+    "id": "1540c48a27f6ca1e935863dce4e5e38b21f49131",
+    "alternateName": "16-25 ans",
+    "name": "mission_locale_pour_linsertion_professionnelle_et_sociale_des_jeunes_16_25_ans_auch_arago",
+    "title": "Mission locale pour l'insertion professionnelle et sociale des jeunes (16-25 ans) - Auch (Arago)",
+    "url": "https://lannuaire.service-public.fr/occitanie/gers/mission_locale-32013-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 62 05 32 32",
+      "url": ""
+    }
+  },
+  {
+    "id": "a36d6cc78d4cfd98a6d469bd5c786570ef046ad3",
+    "alternateName": "16-25 ans",
+    "name": "mission_locale_pour_linsertion_professionnelle_et_sociale_des_jeunes_16_25_ans_auch_garros",
+    "title": "Mission locale pour l'insertion professionnelle et sociale des jeunes (16-25 ans) - Auch (Garros)",
+    "url": "https://lannuaire.service-public.fr/occitanie/gers/mission_locale-32013-02",
+    "metadata": {
+      "email": "f.agboton@misssionlocalegers.com",
+      "telephone": "05 62 05 32 32",
+      "url": "http://www.missionlocalegers.com"
+    }
+  },
+  {
+    "id": "8980e936007007be5ad91e00d6a2035c77ac0dbf",
+    "alternateName": "16-25 ans",
+    "name": "mission_locale_pour_linsertion_professionnelle_et_sociale_des_jeunes_16_25_ans_aulnay_sous_bois",
+    "title": "Mission locale pour l'insertion professionnelle et sociale des jeunes (16-25 ans) - Aulnay-sous-Bois",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/seine-saint-denis/mission_locale-93005-01",
+    "metadata": {
+      "email": "c.soucaille@mlaulnay-mlidf.org",
+      "telephone": "01 48 19 36 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "6727a1857a6551453691f6ca92f9883372bbb0d1",
+    "alternateName": "16-25 ans",
+    "name": "mission_locale_pour_linsertion_professionnelle_et_sociale_des_jeunes_16_25_ans_auray",
+    "title": "Mission locale pour l'insertion professionnelle et sociale des jeunes (16-25 ans) - Auray",
+    "url": "https://lannuaire.service-public.fr/bretagne/morbihan/mission_locale-56007-01",
+    "metadata": {
+      "email": "mlauray@wanadoo.fr",
+      "telephone": "02 97 56 66 11",
+      "url": "http://www.mlauray.fr"
+    }
+  },
+  {
+    "id": "3da073aa430f2416717cba7babea4271145c83f3",
+    "alternateName": "16-25 ans",
+    "name": "mission_locale_pour_linsertion_professionnelle_et_sociale_des_jeunes_16_25_ans_aurillac",
+    "title": "Mission locale pour l'insertion professionnelle et sociale des jeunes (16-25 ans) - Aurillac",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/cantal/mission_locale-15014-01",
+    "metadata": {
+      "email": "mission-locale-d-aurillac@wanadoo.fr",
+      "telephone": "04 71 45 60 35",
+      "url": "http://www.missionlocale-aurillac.fr"
+    }
+  },
+  {
+    "id": "eba07130d97946abeea60132d48c6b626b8fac36",
+    "alternateName": "16-25 ans",
+    "name": "mission_locale_pour_linsertion_professionnelle_et_sociale_des_jeunes_16_25_ans_autun",
+    "title": "Mission locale pour l'insertion professionnelle et sociale des jeunes (16-25 ans) - Autun",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/saone-et-loire/mission_locale-71014-01",
+    "metadata": {
+      "email": "contact@cilef.fr",
+      "telephone": "03 85 86 51 92",
+      "url": "http://cilef-autun.fr"
+    }
+  },
+  {
+    "id": "38795f17fc77ca6d606ae7fa1c8f2072e31c890e",
+    "alternateName": "16-25 ans",
+    "name": "mission_locale_pour_linsertion_professionnelle_et_sociale_des_jeunes_16_25_ans_auxerre",
+    "title": "Mission locale pour l'insertion professionnelle et sociale des jeunes (16-25 ans) - Auxerre",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/yonne/mission_locale-89024-01",
+    "metadata": {
+      "email": "milo.auxerre@milobfc.fr",
+      "telephone": "09 70 19 89 89",
+      "url": "https://www.facebook.com/missionlocaleauxerre"
+    }
+  },
+  {
+    "id": "6bc05b25a83bdc485ec2412f9953d97f3b1ff052",
+    "alternateName": "16-25 ans",
+    "name": "mission_locale_pour_linsertion_professionnelle_et_sociale_des_jeunes_16_25_ans_auxonne_val_de_saone",
+    "title": "Mission locale pour l'insertion professionnelle et sociale des jeunes (16-25 ans) - Auxonne (Val-de-Saône)",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/cote-d-or/mission_locale-21038-01",
+    "metadata": {
+      "email": "mldijon@milobfc.fr",
+      "telephone": "03 80 27 08 20",
+      "url": "http://www.mldijon.asso.fr"
+    }
+  },
+  {
+    "id": "920f9aefcdecac4565066d02817ebd820377262c",
+    "alternateName": "16-25 ans",
+    "name": "mission_locale_pour_linsertion_professionnelle_et_sociale_des_jeunes_16_25_ans_avallon",
+    "title": "Mission locale pour l'insertion professionnelle et sociale des jeunes (16-25 ans) - Avallon",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/yonne/mission_locale-89025-01",
+    "metadata": {
+      "email": "avallon@milobfc.fr",
+      "telephone": "03 86 34 47 40",
+      "url": "http://www.mlrta.com"
+    }
+  },
+  {
+    "id": "a0f9a81bea3925e7948f931b7a420ad200567293",
+    "alternateName": "16-25 ans",
+    "name": "mission_locale_pour_linsertion_professionnelle_et_sociale_des_jeunes_16_25_ans_avignon",
+    "title": "Mission locale pour l'insertion professionnelle et sociale des jeunes (16-25 ans) - Avignon",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/vaucluse/mission_locale-84007-01",
+    "metadata": {
+      "email": "mla@missionlocale-avignon.asso.fr",
+      "telephone": "04 90 81 13 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "4620ef620eea53a29c9b3ead174157549d5f99be",
+    "alternateName": "16-25 ans",
+    "name": "mission_locale_pour_linsertion_professionnelle_et_sociale_des_jeunes_16_25_ans_avranches_sud_manche",
+    "title": "Mission locale pour l'insertion professionnelle et sociale des jeunes (16-25 ans) - Avranches (Sud-Manche)",
+    "url": "https://lannuaire.service-public.fr/normandie/manche/mission_locale-50025-01",
+    "metadata": {
+      "email": "missionlocale.avranches@orange.fr",
+      "telephone": "02 33 79 42 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "86e24d115fc37ad56167bccb65ae35624625327d",
+    "alternateName": "16-25 ans",
+    "name": "mission_locale_pour_linsertion_professionnelle_et_sociale_des_jeunes_16_25_ans_bagneres_de_bigorre",
+    "title": "Mission locale pour l'insertion professionnelle et sociale des jeunes (16-25 ans) - Bagnères-de-Bigorre",
+    "url": "https://lannuaire.service-public.fr/occitanie/hautes-pyrenees/mission_locale-65059-01",
+    "metadata": {
+      "email": "bagneres@ml65.org",
+      "telephone": "05 62 95 53 93",
+      "url": "http://www.ml65.fr"
+    }
+  },
+  {
+    "id": "ed72db66614252160ac419a1109c1e03dd20b084",
+    "alternateName": "16-25 ans",
+    "name": "mission_locale_pour_linsertion_professionnelle_et_sociale_des_jeunes_16_25_ans_bagneux",
+    "title": "Mission locale pour l'insertion professionnelle et sociale des jeunes (16-25 ans) - Bagneux",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/hauts-de-seine/mission_locale-92007-01",
+    "metadata": {
+      "email": "",
+      "telephone": "01 46 56 78 79",
+      "url": "http://www.valleesud.fr"
+    }
+  },
+  {
+    "id": "eafd9c9b5c2cdab9b5ddcee6b500b2352db0195e",
+    "alternateName": "16-25 ans",
+    "name": "mission_locale_pour_linsertion_professionnelle_et_sociale_des_jeunes_16_25_ans_bagnols_en_foret",
+    "title": "Mission locale pour l'insertion professionnelle et sociale des jeunes (16-25 ans) - Bagnols-en-Forêt",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/var/mission_locale-83008-01",
+    "metadata": {
+      "email": "mldracenie.bagnols@cegetel.net",
+      "telephone": "04 94 40 69 29",
+      "url": ""
+    }
+  },
+  {
+    "id": "602059fc282fccf14c50b8d3a771b2cb795d96b2",
+    "alternateName": "16-25 ans",
+    "name": "mission_locale_pour_linsertion_professionnelle_et_sociale_des_jeunes_16_25_ans_bagnols_sur_ceze_gard_rhodanien_uzege",
+    "title": "Mission locale pour l'insertion professionnelle et sociale des jeunes (16-25 ans) - Bagnols-sur-Cèze (Gard-Rhodanien-Uzège)",
+    "url": "https://lannuaire.service-public.fr/occitanie/gard/mission_locale-30028-01",
+    "metadata": {
+      "email": "contact@mlj-gardrhodanien.com",
+      "telephone": "04 66 89 09 34",
+      "url": "http://www.mljbagnolssurcèze.fr"
+    }
+  },
+  {
+    "id": "2b7c2e915e2c71dee79ee1c1cb5c4e84cb71fe0c",
+    "alternateName": "16-25 ans",
+    "name": "mission_locale_pour_linsertion_professionnelle_et_sociale_des_jeunes_16_25_ans_barentin",
+    "title": "Mission locale pour l'insertion professionnelle et sociale des jeunes (16-25 ans) - Barentin",
+    "url": "https://lannuaire.service-public.fr/normandie/seine-maritime/mission_locale-76057-01",
+    "metadata": {
+      "email": "contact@mission-locale-csa.fr",
+      "telephone": "02 35 91 23 32",
+      "url": "http://www.mission-locale-csa.fr"
+    }
+  },
+  {
+    "id": "5ff56d02bbfefd5c77a078750d59d20bcc1725db",
+    "alternateName": "16-25 ans",
+    "name": "mission_locale_pour_linsertion_professionnelle_et_sociale_des_jeunes_16_25_ans_barjols",
+    "title": "Mission locale pour l'insertion professionnelle et sociale des jeunes (16-25 ans) - Barjols",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/var/mission_locale-83012-01",
+    "metadata": {
+      "email": "barjols@missionlocale-ohv.fr",
+      "telephone": "04 98 05 40 00",
+      "url": "http://www.missionlocale-ohv.fr"
+    }
+  },
+  {
+    "id": "b02e1dfbf13f85142c6358d539b17ab3a21e8a7f",
+    "alternateName": "16-25 ans",
+    "name": "mission_locale_pour_linsertion_professionnelle_et_sociale_des_jeunes_16_25_ans_bar_le_duc",
+    "title": "Mission locale pour l'insertion professionnelle et sociale des jeunes (16-25 ans) - Bar-le-Duc",
+    "url": "https://lannuaire.service-public.fr/grand-est/meuse/mission_locale-55029-01",
+    "metadata": {
+      "email": "direction.directeur.mlsm@orange.fr",
+      "telephone": "03 29 79 01 13",
+      "url": ""
+    }
+  },
+  {
+    "id": "c0cdc7b1d436a06d897ddf512b89ecc9e184e4c7",
+    "alternateName": "16-25 ans",
+    "name": "mission_locale_pour_linsertion_professionnelle_et_sociale_des_jeunes_16_25_ans_bar_sur_aube",
+    "title": "Mission locale pour l'insertion professionnelle et sociale des jeunes (16-25 ans) - Bar-sur-Aube",
+    "url": "https://lannuaire.service-public.fr/grand-est/aube/mission_locale-10033-01",
+    "metadata": {
+      "email": "barsuraube@mlcotedesbar.fr",
+      "telephone": "03 25 27 31 13",
+      "url": ""
+    }
+  },
+  {
+    "id": "8983631336da3ba8056e84209f63187277f19dcb",
+    "alternateName": "16-25 ans",
+    "name": "mission_locale_pour_linsertion_professionnelle_et_sociale_des_jeunes_16_25_ans_bastia",
+    "title": "Mission locale pour l'insertion professionnelle et sociale des jeunes (16-25 ans) - Bastia",
+    "url": "https://lannuaire.service-public.fr/corse/haute-corse/mission_locale-2B033-01",
+    "metadata": {
+      "email": "mlbastia@ml-corse.corsica",
+      "telephone": "04 95 30 11 41",
+      "url": "http://www.missions-locales-corse.org"
+    }
+  },
+  {
+    "id": "7375d22a84119c4a34911045a30c3b76fda60436",
+    "alternateName": "16-25 ans",
+    "name": "mission_locale_pour_linsertion_professionnelle_et_sociale_des_jeunes_16_25_ans_baume_les_dames",
+    "title": "Mission locale pour l'insertion professionnelle et sociale des jeunes (16-25 ans) - Baume-les-Dames",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/doubs/mission_locale-25047-01",
+    "metadata": {
+      "email": "milobassinemploibesancon@milobfc.fr",
+      "telephone": "03 81 84 09 08",
+      "url": "http://www.missionlocale-besancon.org"
+    }
+  },
+  {
+    "id": "dbe62e83bcbf33988d302e6030af5ae66a31af47",
+    "alternateName": "16-25 ans",
+    "name": "mission_locale_pour_linsertion_professionnelle_et_sociale_des_jeunes_16_25_ans_bayeux",
+    "title": "Mission locale pour l'insertion professionnelle et sociale des jeunes (16-25 ans) - Bayeux",
+    "url": "https://lannuaire.service-public.fr/normandie/calvados/mission_locale-14047-01",
+    "metadata": {
+      "email": "contactbessin@mlbessinvirois.fr",
+      "telephone": "02 31 92 60 55",
+      "url": "http://www.cnml.gouv.fr"
+    }
+  },
+  {
+    "id": "5c5a6847dd181e2ce0452946598d253516d743e2",
+    "alternateName": "16-25 ans",
+    "name": "mission_locale_pour_linsertion_professionnelle_et_sociale_des_jeunes_16_25_ans_bazancourt_nord_marnais",
+    "title": "Mission locale pour l'insertion professionnelle et sociale des jeunes (16-25 ans) - Bazancourt (Nord-Marnais)",
+    "url": "https://lannuaire.service-public.fr/grand-est/marne/mission_locale-51043-01",
+    "metadata": {
+      "email": "missionlocale@mlruraledunordmarnais.fr",
+      "telephone": "03 26 91 18 81",
+      "url": "http://www.mission-locale-nordmarnais.com"
+    }
+  },
+  {
+    "id": "3bf2f47f45917fa3ec5adcb2be5ed67df8782e29",
+    "alternateName": "16-25 ans",
+    "name": "mission_locale_pour_linsertion_professionnelle_et_sociale_des_jeunes_16_25_ans_beaucaire",
+    "title": "Mission locale pour l'insertion professionnelle et sociale des jeunes (16-25 ans) - Beaucaire",
+    "url": "https://lannuaire.service-public.fr/occitanie/gard/mission_locale-30032-01",
+    "metadata": {
+      "email": "contact@mljra.org",
+      "telephone": "04 66 59 54 14",
+      "url": "http://www.mljra.org"
+    }
+  },
+  {
+    "id": "03ec78f14d77554b9b4f3f643009fe447a160d36",
+    "alternateName": "16-25 ans",
+    "name": "mission_locale_pour_linsertion_professionnelle_et_sociale_des_jeunes_16_25_ans_beaulieu_les_loches",
+    "title": "Mission locale pour l'insertion professionnelle et sociale des jeunes (16-25 ans) - Beaulieu-lès-Loches",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/indre-et-loire/mission_locale-37132-01",
+    "metadata": {
+      "email": "contact@ml-tourainecotesud.fr",
+      "telephone": "02 47 94 06 46",
+      "url": "http://www.ml-tourainecotesud.fr"
+    }
+  },
+  {
+    "id": "c5ab5e10e7f303f2c966ac7861f8fded5895028c",
+    "alternateName": "16-25 ans",
+    "name": "mission_locale_pour_linsertion_professionnelle_et_sociale_des_jeunes_16_25_ans_beaumont_sur_oise",
+    "title": "Mission locale pour l'insertion professionnelle et sociale des jeunes (16-25 ans) - Beaumont-sur-Oise",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/val-d-oise/mission_locale-95052-01",
+    "metadata": {
+      "email": "",
+      "telephone": "01 30 28 76 90",
+      "url": "http://www.reflexes-95.fr"
+    }
+  },
+  {
+    "id": "b3a5e3151ef7e648a24d5abe1f0eb52cd5a9b12e",
+    "alternateName": "16-25 ans",
+    "name": "mission_locale_pour_linsertion_professionnelle_et_sociale_des_jeunes_16_25_ans_beaune",
+    "title": "Mission locale pour l'insertion professionnelle et sociale des jeunes (16-25 ans) - Beaune",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/cote-d-or/mission_locale-21054-01",
+    "metadata": {
+      "email": "milobeaune@milobfc.fr",
+      "telephone": "03 80 24 93 65",
+      "url": "http://www.missionlocalebeaune.com"
+    }
+  },
+  {
+    "id": "c4281b43884d3df01097cf1c5b473751c972e680",
+    "alternateName": "16-25 ans",
+    "name": "mission_locale_pour_linsertion_professionnelle_et_sociale_des_jeunes_16_25_ans_beaurepaire",
+    "title": "Mission locale pour l'insertion professionnelle et sociale des jeunes (16-25 ans) - Beaurepaire",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/isere/mission_locale-38034-01",
+    "metadata": {
+      "email": "mob@mlbievre.com",
+      "telephone": "04 74 79 18 18",
+      "url": "https://www.mission-orientation-bievre.fr"
+    }
+  },
+  {
+    "id": "67664a79e953c0b07145818be785dd777cb80468",
+    "alternateName": "16-25 ans",
+    "name": "mission_locale_pour_linsertion_professionnelle_et_sociale_des_jeunes_16_25_ans_beauvais",
+    "title": "Mission locale pour l'insertion professionnelle et sociale des jeunes (16-25 ans) - Beauvais",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/oise/mission_locale-60057-01",
+    "metadata": {
+      "email": "l.fontaine@mef-beauvaisis.fr",
+      "telephone": "03 60 56 60 60",
+      "url": "http://www.mef-beauvaisis.fr"
+    }
+  },
+  {
+    "id": "df9f64a9de5fc8f6dc74f2480b5ebf34f50cbe81",
+    "alternateName": "16-25 ans",
+    "name": "mission_locale_pour_linsertion_professionnelle_et_sociale_des_jeunes_16_25_ans_belfort",
+    "title": "Mission locale pour l'insertion professionnelle et sociale des jeunes (16-25 ans) - Belfort",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/territoire-de-belfort/mission_locale-90010-01",
+    "metadata": {
+      "email": "miloterritoiredebelfort@milobfc.fr",
+      "telephone": "03 84 90 40 10",
+      "url": "http://www.missionslocales-bfc.fr"
+    }
+  },
+  {
+    "id": "b6c15037e24fe83cd935b7be41f95a4e1b38fcc9",
+    "alternateName": "16-25 ans",
+    "name": "mission_locale_pour_linsertion_professionnelle_et_sociale_des_jeunes_16_25_ans_bellac",
+    "title": "Mission locale pour l'insertion professionnelle et sociale des jeunes (16-25 ans) - Bellac",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/haute-vienne/mission_locale-87011-01",
+    "metadata": {
+      "email": "mlr87bellac@wanadoo.fr",
+      "telephone": "05 55 68 87 54",
+      "url": "http://www.missionlocaleruralehautevienne.com"
+    }
+  },
+  {
+    "id": "f7c592ef8895612880f28317f6bfb59460d34cc4",
+    "alternateName": "16-25 ans",
+    "name": "mission_locale_pour_linsertion_professionnelle_et_sociale_des_jeunes_16_25_ans_bellegarde_sur_valserine",
+    "title": "Mission locale pour l'insertion professionnelle et sociale des jeunes (16-25 ans) - Bellegarde-sur-Valserine",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/ain/mission_locale-01033-01",
+    "metadata": {
+      "email": "accueil.bellegarde@mlobg.fr",
+      "telephone": "04 50 48 09 86",
+      "url": "http://www.mlobg.fr"
+    }
+  },
+  {
+    "id": "0d69d73b8c186b5ba51859c0e60f38cd54ca3820",
+    "alternateName": "16-25 ans",
+    "name": "mission_locale_pour_linsertion_professionnelle_et_sociale_des_jeunes_16_25_ans_bellevigne_en_layon",
+    "title": "Mission locale pour l'insertion professionnelle et sociale des jeunes (16-25 ans) - Bellevigne-en-Layon",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/maine-et-loire/mission_locale-49345-01",
+    "metadata": {
+      "email": "mlangevine@mla49.org",
+      "telephone": "02 41 54 05 85",
+      "url": ""
+    }
+  },
+  {
+    "id": "fcb9b49840a8a78ce6d2732f47f812a7f53659df",
+    "alternateName": "16-25 ans",
+    "name": "mission_locale_pour_linsertion_professionnelle_et_sociale_des_jeunes_16_25_ans_belleville",
+    "title": "Mission locale pour l'insertion professionnelle et sociale des jeunes (16-25 ans) - Belleville",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/rhone/mission_locale-69019-01",
+    "metadata": {
+      "email": "avenirjeunesnord@mlbeaujolais.org",
+      "telephone": "04 74 06 12 30",
+      "url": ""
+    }
+  },
+  {
+    "id": "1e2090be291941c293888650d338d5aeda8d9fc1",
+    "alternateName": "16-25 ans",
+    "name": "mission_locale_pour_linsertion_professionnelle_et_sociale_des_jeunes_16_25_ans_belley",
+    "title": "Mission locale pour l'insertion professionnelle et sociale des jeunes (16-25 ans) - Belley",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/ain/mission_locale-01034-01",
+    "metadata": {
+      "email": "mlj.belley@mljbpa.fr",
+      "telephone": "04 79 81 53 75",
+      "url": "http://www.mljbpa.fr"
+    }
+  },
+  {
+    "id": "52533ef5edf94b4911939878b98e6b27d6f30b58",
+    "alternateName": "16-25 ans",
+    "name": "mission_locale_pour_linsertion_professionnelle_et_sociale_des_jeunes_16_25_ans_bergerac",
+    "title": "Mission locale pour l'insertion professionnelle et sociale des jeunes (16-25 ans) - Bergerac",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/dordogne/mission_locale-24037-01",
+    "metadata": {
+      "email": "mldoc.bergerac@orange.fr",
+      "telephone": "05 53 58 25 27",
+      "url": "http://www.missionlocaledubergeracois.com"
+    }
+  },
+  {
+    "id": "445e0739b778abf2e0fd8a010dded806787f9e1d",
+    "alternateName": "16-25 ans",
+    "name": "mission_locale_pour_linsertion_professionnelle_et_sociale_des_jeunes_16_25_ans_bernay",
+    "title": "Mission locale pour l'insertion professionnelle et sociale des jeunes (16-25 ans) - Bernay",
+    "url": "https://lannuaire.service-public.fr/normandie/eure/mission_locale-27056-01",
+    "metadata": {
+      "email": "mlouesteure@miloe.fr",
+      "telephone": "02 32 43 36 80",
+      "url": "http://www.miloe.fr"
+    }
+  },
+  {
+    "id": "187b321e4296f1199d8a52a63891b4f13d080bec",
+    "alternateName": "16-25 ans",
+    "name": "mission_locale_pour_linsertion_professionnelle_et_sociale_des_jeunes_16_25_ans_berre_l_etang",
+    "title": "Mission locale pour l'insertion professionnelle et sociale des jeunes (16-25 ans) - Berre-l'Étang",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/mission_locale-13014-01",
+    "metadata": {
+      "email": "siegesocial@missionlocale-eeb.org",
+      "telephone": "04 42 74 94 42",
+      "url": "https://www.missionlocale-eeb.org"
+    }
+  },
+  {
+    "id": "2104fb902e14e98a9d5b63c850d451b3ed5b94f6",
+    "alternateName": "16-25 ans",
+    "name": "mission_locale_pour_linsertion_professionnelle_et_sociale_des_jeunes_16_25_ans_besancon",
+    "title": "Mission locale pour l'insertion professionnelle et sociale des jeunes (16-25 ans) - Besançon",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/doubs/mission_locale-25056-01",
+    "metadata": {
+      "email": "milobassinemploibesancon@milobfc.fr",
+      "telephone": "03 81 85 85 85",
+      "url": "http://www.missionlocale-besancon.org"
+    }
+  },
+  {
+    "id": "fcd222dfd090290d91dc8cac70f4980cc8a489f2",
+    "alternateName": "16-25 ans",
+    "name": "mission_locale_pour_linsertion_professionnelle_et_sociale_des_jeunes_16_25_ans_bethune",
+    "title": "Mission locale pour l'insertion professionnelle et sociale des jeunes (16-25 ans) - Béthune",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/pas-de-calais/mission_locale-62119-01",
+    "metadata": {
+      "email": "contact@mlartois.fr",
+      "telephone": "03 21 64 49 40",
+      "url": ""
+    }
+  },
+  {
+    "id": "5327eced50fa41cb12d8546ee7d1806405ddf2c3",
+    "alternateName": "16-25 ans",
+    "name": "mission_locale_pour_linsertion_professionnelle_et_sociale_des_jeunes_16_25_ans_beziers",
+    "title": "Mission locale pour l'insertion professionnelle et sociale des jeunes (16-25 ans) - Béziers",
+    "url": "https://lannuaire.service-public.fr/occitanie/herault/mission_locale-34032-01",
+    "metadata": {
+      "email": "missionlocale@mlibiterrois.com",
+      "telephone": "04 67 35 19 21",
+      "url": "http://www.cnml.gouv.fr"
+    }
+  },
+  {
+    "id": "3fd77125184bffa12cec7b5c4080913f1e930a1d",
+    "alternateName": "16-25 ans",
+    "name": "mission_locale_pour_linsertion_professionnelle_et_sociale_des_jeunes_16_25_ans_biars_bretenoux",
+    "title": "Mission locale pour l'insertion professionnelle et sociale des jeunes (16-25 ans) - Biars-Bretenoux",
+    "url": "https://lannuaire.service-public.fr/occitanie/lot/mission_locale-46029-01",
+    "metadata": {
+      "email": "s.auge@ml46.fr",
+      "telephone": "05 65 34 24 81",
+      "url": "http://www.mission-locale.fr"
+    }
+  },
+  {
+    "id": "1b2ab3f263ae67846381a2e24d44abc70fdfc04d",
+    "alternateName": "16-25 ans",
+    "name": "mission_locale_pour_linsertion_professionnelle_et_sociale_des_jeunes_16_25_ans_bievres_val_de_marne",
+    "title": "Mission locale pour l'insertion professionnelle et sociale des jeunes (16-25 ans) - Bièvres - Val-de-Marne",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/val-de-marne/mission_locale-94034-01",
+    "metadata": {
+      "email": "n.lenglin@missionlocalebvm.org",
+      "telephone": "01 42 37 57 85",
+      "url": "http://www.missionlocalebvm.fr"
+    }
+  },
+  {
+    "id": "8fe18d3be2339b8cffd76ee72a2be015b4376e8b",
+    "alternateName": "16-25 ans",
+    "name": "mission_locale_pour_linsertion_professionnelle_et_sociale_des_jeunes_16_25_ans_billere",
+    "title": "Mission locale pour l'insertion professionnelle et sociale des jeunes (16-25 ans) - Billère",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/pyrenees-atlantiques/mission_locale-64129-01",
+    "metadata": {
+      "email": "lelacaou@ville-billere.fr",
+      "telephone": "05 59 92 55 55",
+      "url": "http://www.billere.fr"
+    }
+  },
+  {
+    "id": "8321c846a73cc66fa3346612551f5577f7c62c7f",
+    "alternateName": "16-25 ans",
+    "name": "mission_locale_pour_linsertion_professionnelle_et_sociale_des_jeunes_16_25_ans_biot_antipolis",
+    "title": "Mission locale pour l'insertion professionnelle et sociale des jeunes (16-25 ans) - Biot (Antipolis)",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/alpes-maritimes/mission_locale-06018-01",
+    "metadata": {
+      "email": "l.bouye@mlantipolis.com",
+      "telephone": "09 52 91 02 03",
+      "url": ""
+    }
+  },
+  {
+    "id": "50f0b81c59f626eb83e0eb804b52aa2590efd75c",
+    "alternateName": "16-25 ans",
+    "name": "mission_locale_pour_linsertion_professionnelle_et_sociale_des_jeunes_16_25_ans_bizanos",
+    "title": "Mission locale pour l'insertion professionnelle et sociale des jeunes (16-25 ans) - Bizanos",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/pyrenees-atlantiques/mission_locale-64132-01",
+    "metadata": {
+      "email": "accueil@mljpau.fr",
+      "telephone": "05 59 82 97 13",
+      "url": "http://www.lesmissionslocalesdubearn.com"
+    }
+  },
+  {
+    "id": "2494a5c154ea515a84142319f14e9cb3dbb6769c",
+    "alternateName": "16-25 ans",
+    "name": "mission_locale_pour_linsertion_professionnelle_et_sociale_des_jeunes_16_25_ans_blagnac",
+    "title": "Mission locale pour l'insertion professionnelle et sociale des jeunes (16-25 ans) - Blagnac",
+    "url": "https://lannuaire.service-public.fr/occitanie/haute-garonne/mission_locale-31069-01",
+    "metadata": {
+      "email": "mlhg.blagnac@ml31.org",
+      "telephone": "05 61 71 02 70",
+      "url": "https://www.missionlocale31.org/"
+    }
+  },
+  {
+    "id": "473efc664448f3bf6af20520c165a33e9f5e0e52",
+    "alternateName": "16-25 ans",
+    "name": "mission_locale_pour_linsertion_professionnelle_et_sociale_des_jeunes_16_25_ans_blaye_haute_gironde",
+    "title": "Mission locale pour l'insertion professionnelle et sociale des jeunes (16-25 ans) - Blaye (Haute-Gironde)",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/gironde/mission_locale-33058-01",
+    "metadata": {
+      "email": "contact@mlhautegironde.org",
+      "telephone": "05 57 42 89 75",
+      "url": "http://www.mlhautegironde.org"
+    }
+  },
+  {
+    "id": "b8282a86997eaaf4c689f5e2d25cc5436fd7ade1",
+    "alternateName": "16-25 ans",
+    "name": "mission_locale_pour_linsertion_professionnelle_et_sociale_des_jeunes_16_25_ans_blois",
+    "title": "Mission locale pour l'insertion professionnelle et sociale des jeunes (16-25 ans) - Blois",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/loir-et-cher/mission_locale-41018-01",
+    "metadata": {
+      "email": "secretariat@mlblois.com",
+      "telephone": "02 54 52 40 40",
+      "url": "http://www.mlblois.com"
+    }
+  },
+  {
+    "id": "f88813eee7921a84f881b4ac2ccb1c07f1240a52",
+    "alternateName": "16-25 ans",
+    "name": "mission_locale_pour_linsertion_professionnelle_et_sociale_des_jeunes_16_25_ans_bobigny",
+    "title": "Mission locale pour l'insertion professionnelle et sociale des jeunes (16-25 ans) - Bobigny",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/seine-saint-denis/mission_locale-93008-01",
+    "metadata": {
+      "email": "k.ouacel@mire-mldf.org",
+      "telephone": "01 48 96 99 89",
+      "url": "http://www.mlmire.org"
+    }
+  },
+  {
+    "id": "1e415eab97b86931a7542ce5e99b500ebecb5de5",
+    "alternateName": "16-25 ans",
+    "name": "mission_locale_pour_linsertion_professionnelle_et_sociale_des_jeunes_16_25_ans_boissy_saint_leger",
+    "title": "Mission locale pour l'insertion professionnelle et sociale des jeunes (16-25 ans) - Boissy-Saint-Léger",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/val-de-marne/mission_locale-94004-01",
+    "metadata": {
+      "email": "",
+      "telephone": "01 56 32 30 70",
+      "url": ""
+    }
+  },
+  {
+    "id": "0796dfdbb8d92e5a3227e4c795379a113e0717ca",
+    "alternateName": "16-25 ans",
+    "name": "mission_locale_pour_linsertion_professionnelle_et_sociale_des_jeunes_16_25_ans_bollene",
+    "title": "Mission locale pour l'insertion professionnelle et sociale des jeunes (16-25 ans) - Bollène",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/vaucluse/mission_locale-84019-01",
+    "metadata": {
+      "email": "accueil.bollene@mlhv.com",
+      "telephone": "04 90 30 36 40",
+      "url": "http://www.cnml.gouv.fr"
+    }
+  },
+  {
+    "id": "605cea63780f2670d61cce78bf765306c7e8e6f4",
+    "alternateName": "16-25 ans",
+    "name": "mission_locale_pour_linsertion_professionnelle_et_sociale_des_jeunes_16_25_ans_bondy",
+    "title": "Mission locale pour l'insertion professionnelle et sociale des jeunes (16-25 ans) - Bondy",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/seine-saint-denis/mission_locale-93010-01",
+    "metadata": {
+      "email": "",
+      "telephone": "01 48 49 40 05",
+      "url": "https://www.mission-locale.fr/annuaire/agence/mission-locale-de-bondy"
+    }
+  },
+  {
+    "id": "f4f1a89f9d7145a5e04d7abea0f20d9b3ac5867d",
+    "alternateName": "16-25 ans",
+    "name": "mission_locale_pour_linsertion_professionnelle_et_sociale_des_jeunes_16_25_ans_bonneuil_sur_marne",
+    "title": "Mission locale pour l'insertion professionnelle et sociale des jeunes (16-25 ans) - Bonneuil-sur-Marne",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/val-de-marne/mission_locale-94011-01",
+    "metadata": {
+      "email": "",
+      "telephone": "01 56 71 16 90",
+      "url": "http://www.missionlocale-plainecentrale.fr"
+    }
+  },
+  {
+    "id": "77d83fffbd4e2c81ddefb834d8a6ebf4c6f03f0c",
+    "alternateName": "16-25 ans",
+    "name": "mission_locale_pour_linsertion_professionnelle_et_sociale_des_jeunes_16_25_ans_bonneville",
+    "title": "Mission locale pour l'insertion professionnelle et sociale des jeunes (16-25 ans) - Bonneville",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/haute-savoie/mission_locale-74042-01",
+    "metadata": {
+      "email": "info@missionlocale.fr",
+      "telephone": "04 50 97 29 50",
+      "url": "http://www.missionlocale.fr"
+    }
+  },
+  {
+    "id": "f55a9137f5e57545415cfacbfdc4c3721d0d7ef5",
+    "alternateName": "16-25 ans",
+    "name": "mission_locale_pour_linsertion_professionnelle_et_sociale_des_jeunes_16_25_ans_bordeaux",
+    "title": "Mission locale pour l'insertion professionnelle et sociale des jeunes (16-25 ans) - Bordeaux",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/gironde/mission_locale-33063-01",
+    "metadata": {
+      "email": "contact@missionlocalebordeaux.fr",
+      "telephone": "05 56 79 97 20",
+      "url": "http://www.missionlocalebordeaux.fr"
+    }
+  },
+  {
+    "id": "4cf2d2c1ba8f0f2789bbdce18386200646414ff3",
+    "alternateName": "16-25 ans",
+    "name": "mission_locale_pour_linsertion_professionnelle_et_sociale_des_jeunes_16_25_ans_bouc_bel_air",
+    "title": "Mission locale pour l'insertion professionnelle et sociale des jeunes (16-25 ans) - Bouc-Bel-Air",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/mission_locale-13015-01",
+    "metadata": {
+      "email": "bouc@ml-pa.org",
+      "telephone": "04 42 94 96 64",
+      "url": "http://www.ml-pa.org"
+    }
+  },
+  {
+    "id": "1b90793100ac2a35c96c931e42fc3be9db3ef4f7",
+    "alternateName": "16-25 ans",
+    "name": "mission_locale_pour_linsertion_professionnelle_et_sociale_des_jeunes_16_25_ans_boulogne_sur_mer",
+    "title": "Mission locale pour l'insertion professionnelle et sociale des jeunes (16-25 ans) - Boulogne-sur-Mer",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/pas-de-calais/mission_locale-62160-01",
+    "metadata": {
+      "email": "ml.boul@wanadoo.fr",
+      "telephone": "03 21 30 36 22",
+      "url": ""
+    }
+  },
+  {
+    "id": "1f02859f6897343bce508a9a7be762a8e1190b07",
+    "alternateName": "16-25 ans",
+    "name": "mission_locale_pour_linsertion_professionnelle_et_sociale_des_jeunes_16_25_ans_bourbon_lancy",
+    "title": "Mission locale pour l'insertion professionnelle et sociale des jeunes (16-25 ans) - Bourbon-Lancy",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/saone-et-loire/mission_locale-71047-01",
+    "metadata": {
+      "email": "anne.pouviaud@milobfc.fr",
+      "telephone": "03 85 89 19 51",
+      "url": "http://www.missionslocales-bfc.fr"
+    }
+  },
+  {
+    "id": "1c1eb481d040e187819893365f113140cbaea4ca",
+    "alternateName": "16-25 ans",
+    "name": "mission_locale_pour_linsertion_professionnelle_et_sociale_des_jeunes_16_25_ans_bourbourg_rives_de_l_aa_et_de_la_colme",
+    "title": "Mission locale pour l'insertion professionnelle et sociale des jeunes (16-25 ans) - Bourbourg (Rives-de-l'Aa-et-de-la-Colme)",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/nord/mission_locale-59094-01",
+    "metadata": {
+      "email": "accueil@mlrivesaacolme.fr",
+      "telephone": "03 28 22 21 03",
+      "url": "http://www.cnml.gouv.fr"
+    }
+  },
+  {
+    "id": "988d6629cdbe9426916cde4dc57bcdaf205bd6f9",
+    "alternateName": "16-25 ans",
+    "name": "mission_locale_pour_linsertion_professionnelle_et_sociale_des_jeunes_16_25_ans_bourg_en_bresse_bresse_dombes_cotiere",
+    "title": "Mission locale pour l'insertion professionnelle et sociale des jeunes (16-25 ans) - Bourg-en-Bresse (Bresse-Dombes-Côtière)",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/ain/mission_locale-01053-01",
+    "metadata": {
+      "email": "contact@mljbourg.com",
+      "telephone": "04 74 45 35 37",
+      "url": "http://www.mljbourg.com"
+    }
+  },
+  {
+    "id": "7fb2cde481cfd273b3718a799020a6bceae5543c",
+    "alternateName": "16-25 ans",
+    "name": "mission_locale_pour_linsertion_professionnelle_et_sociale_des_jeunes_16_25_ans_bourges",
+    "title": "Mission locale pour l'insertion professionnelle et sociale des jeunes (16-25 ans) - Bourges",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/cher/mission_locale-18033-01",
+    "metadata": {
+      "email": "mlbourges@missionlocalejeunes.fr",
+      "telephone": "02 48 65 39 97",
+      "url": "http://www.missionlocalejeunes.fr"
+    }
+  },
+  {
+    "id": "542bbe5d0d522f1f9f8256d6f379fd7cd622f844",
+    "alternateName": "16-25 ans",
+    "name": "mission_locale_pour_linsertion_professionnelle_et_sociale_des_jeunes_16_25_ans_bourgoin_jallieu",
+    "title": "Mission locale pour l'insertion professionnelle et sociale des jeunes (16-25 ans) - Bourgoin-Jallieu",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/isere/mission_locale-38053-01",
+    "metadata": {
+      "email": "bourgoinjallieu@mlni.fr",
+      "telephone": "04 74 97 29 70",
+      "url": "http://www.mission-locale-nord-isere.fr"
+    }
+  },
+  {
+    "id": "19c8e14802c77381da3f90695516c7159d93dbdc",
+    "alternateName": "16-25 ans",
+    "name": "mission_locale_pour_linsertion_professionnelle_et_sociale_des_jeunes_16_25_ans_bourg_saint_maurice",
+    "title": "Mission locale pour l'insertion professionnelle et sociale des jeunes (16-25 ans) - Bourg-Saint-Maurice",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/savoie/mission_locale-73054-01",
+    "metadata": {
+      "email": "",
+      "telephone": "04 79 22 85 50",
+      "url": "http://www.mlj-tarentaise.com"
+    }
+  },
+  {
+    "id": "bca15d4a499fb0ececdff82392b9450de57fbbd2",
+    "alternateName": "16-25 ans",
+    "name": "mission_locale_pour_linsertion_professionnelle_et_sociale_des_jeunes_16_25_ans_breaute",
+    "title": "Mission locale pour l'insertion professionnelle et sociale des jeunes (16-25 ans) - Bréauté",
+    "url": "https://lannuaire.service-public.fr/normandie/seine-maritime/mission_locale-76302-01",
+    "metadata": {
+      "email": "mission.locale@ml-lillebonnecauxseine.fr",
+      "telephone": "02 35 29 76 07",
+      "url": "http://www.ml-lillebonnecauxseine.fr"
+    }
+  },
+  {
+    "id": "502070a6f3393d0b4f704bccbe7210b639b6a32f",
+    "alternateName": "16-25 ans",
+    "name": "mission_locale_pour_linsertion_professionnelle_et_sociale_des_jeunes_16_25_ans_bressuire",
+    "title": "Mission locale pour l'insertion professionnelle et sociale des jeunes (16-25 ans) - Bressuire",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/deux-sevres/mission_locale-79049-01",
+    "metadata": {
+      "email": "accueil@mdebressuirais.fr",
+      "telephone": "05 49 81 19 20",
+      "url": "http://www.mdebressuire.wordpress.com"
+    }
+  },
+  {
+    "id": "4aa35fc562c049400da2c016cfae00be5d21e8f1",
+    "alternateName": "16-25 ans",
+    "name": "mission_locale_pour_linsertion_professionnelle_et_sociale_des_jeunes_16_25_ans_brest",
+    "title": "Mission locale pour l'insertion professionnelle et sociale des jeunes (16-25 ans) - Brest",
+    "url": "https://lannuaire.service-public.fr/bretagne/finistere/mission_locale-29019-01",
+    "metadata": {
+      "email": "contact@mission-locale-brest.org",
+      "telephone": "02 98 43 51 00",
+      "url": "http://www.mission-locale-brest.org"
+    }
+  },
+  {
+    "id": "9522b9040a8d088b8e2edefd5d170d0330f35d87",
+    "alternateName": "16-25 ans",
+    "name": "mission_locale_pour_linsertion_professionnelle_et_sociale_des_jeunes_16_25_ans_bretigny_sur_orge_trois_vallees",
+    "title": "Mission locale pour l'insertion professionnelle et sociale des jeunes (16-25 ans) - Brétigny-sur-Orge (Trois-Vallées)",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/essonne/mission_locale-91103-01",
+    "metadata": {
+      "email": "",
+      "telephone": "01 60 85 00 49",
+      "url": ""
+    }
+  },
+  {
+    "id": "92748565e0424a9e4efd3709cf7977f3e47800bd",
+    "alternateName": "16-25 ans",
+    "name": "mission_locale_pour_linsertion_professionnelle_et_sociale_des_jeunes_16_25_ans_briancon",
+    "title": "Mission locale pour l'insertion professionnelle et sociale des jeunes (16-25 ans) - Briançon",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/hautes-alpes/mission_locale-05023-01",
+    "metadata": {
+      "email": "briancon@mj-05.org",
+      "telephone": "04 86 73 80 19",
+      "url": "http://www.mj-05.org"
+    }
+  },
+  {
+    "id": "ad6b525fff990c27cbd1d97fb977eed27014b047",
+    "alternateName": "16-25 ans",
+    "name": "mission_locale_pour_linsertion_professionnelle_et_sociale_des_jeunes_16_25_ans_briey",
+    "title": "Mission locale pour l'insertion professionnelle et sociale des jeunes (16-25 ans) - Briey",
+    "url": "https://lannuaire.service-public.fr/grand-est/meurthe-et-moselle/mission_locale-54099-01",
+    "metadata": {
+      "email": "mission.localebriey@wanadoo.fr",
+      "telephone": "03 82 46 26 61",
+      "url": "http://www.mission-locale-briey.org"
+    }
+  },
+  {
+    "id": "5944e7833c334f0841dbb8d0a60dea19cd12b730",
+    "alternateName": "16-25 ans",
+    "name": "mission_locale_pour_linsertion_professionnelle_et_sociale_des_jeunes_16_25_ans_brignoles",
+    "title": "Mission locale pour l'insertion professionnelle et sociale des jeunes (16-25 ans) - Brignoles",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/var/mission_locale-83023-01",
+    "metadata": {
+      "email": "brignoles@missionlocale-ohv.fr",
+      "telephone": "04 94 59 03 40",
+      "url": "http://www.missionlocale-ohv.fr"
+    }
+  },
+  {
+    "id": "a1021e053bbd64dd0f4f8ad30d26e42f4d992381",
+    "alternateName": "16-25 ans",
+    "name": "mission_locale_pour_linsertion_professionnelle_et_sociale_des_jeunes_16_25_ans_brioude",
+    "title": "Mission locale pour l'insertion professionnelle et sociale des jeunes (16-25 ans) - Brioude",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/haute-loire/mission_locale-43040-01",
+    "metadata": {
+      "email": "accueil@missionlocalebrioude.fr",
+      "telephone": "04 71 74 94 33",
+      "url": "http://www.missionlocalebrioude.fr"
+    }
+  },
+  {
+    "id": "ebc04ab86d50b1f79cd1c29cc078432625d6df7d",
+    "alternateName": "16-25 ans",
+    "name": "mission_locale_pour_linsertion_professionnelle_et_sociale_des_jeunes_16_25_ans_brive_la_gaillarde",
+    "title": "Mission locale pour l'insertion professionnelle et sociale des jeunes (16-25 ans) - Brive-la-Gaillarde",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/correze/mission_locale-19031-01",
+    "metadata": {
+      "email": "contact@missionlocalebrive.fr",
+      "telephone": "05 55 17 73 00",
+      "url": "http://www.missionlocalebrive.fr"
+    }
+  },
+  {
+    "id": "3380e05f0b5d0d9a5170735b25e6466af737c45b",
+    "alternateName": "16-25 ans",
+    "name": "mission_locale_pour_linsertion_professionnelle_et_sociale_des_jeunes_16_25_ans_bron",
+    "title": "Mission locale pour l'insertion professionnelle et sociale des jeunes (16-25 ans) - Bron",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/rhone/mission_locale-69029-01",
+    "metadata": {
+      "email": "ml.bron@mlbdm.org",
+      "telephone": "04 78 26 18 64",
+      "url": "https://www.mlbdm.org"
+    }
+  },
+  {
+    "id": "98d4bbab49b6315a3aac42d3353cf209888b84a0",
+    "alternateName": "16-25 ans",
+    "name": "mission_locale_pour_linsertion_professionnelle_et_sociale_des_jeunes_16_25_ans_cachan",
+    "title": "Mission locale pour l'insertion professionnelle et sociale des jeunes (16-25 ans) - Cachan",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/val-de-marne/mission_locale-94016-01",
+    "metadata": {
+      "email": "contact@missionlocal-innovam.fr",
+      "telephone": "01 41 98 65 00",
+      "url": "http://www.missionlocale-innovam.fr"
+    }
+  },
+  {
+    "id": "11425be270aa00bc49fa5103a08859358dd477bf",
+    "alternateName": "16-25 ans",
+    "name": "mission_locale_pour_linsertion_professionnelle_et_sociale_des_jeunes_16_25_ans_cadillac_les_deux_rives",
+    "title": "Mission locale pour l'insertion professionnelle et sociale des jeunes (16-25 ans) - Cadillac (Les Deux-Rives)",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/gironde/mission_locale-33081-01",
+    "metadata": {
+      "email": "ml2rives@orange.fr",
+      "telephone": "05 57 98 02 98",
+      "url": "http://www.missionlocaledes2rives.com"
+    }
+  },
+  {
+    "id": "96542e4984f5e1cbc9bf84da2f986446023380b2",
+    "alternateName": "16-25 ans",
+    "name": "mission_locale_pour_linsertion_professionnelle_et_sociale_des_jeunes_16_25_ans_cahors",
+    "title": "Mission locale pour l'insertion professionnelle et sociale des jeunes (16-25 ans) - Cahors",
+    "url": "https://lannuaire.service-public.fr/occitanie/lot/mission_locale-46042-01",
+    "metadata": {
+      "email": "secretariat@ml46.fr",
+      "telephone": "05 65 20 42 60",
+      "url": ""
+    }
+  },
+  {
+    "id": "3d773352c245b07a746366497f6a6179b354e1e8",
+    "alternateName": "16-25 ans",
+    "name": "mission_locale_pour_linsertion_professionnelle_et_sociale_des_jeunes_16_25_ans_calais",
+    "title": "Mission locale pour l'insertion professionnelle et sociale des jeunes (16-25 ans) - Calais",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/pas-de-calais/mission_locale-62193-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 21 34 15 38",
+      "url": "http://www.mission-locale-calais.org"
+    }
+  },
+  {
+    "id": "b9b453f9b76a5bf7397099db5a81e298593a5a74",
+    "alternateName": "16-25 ans",
+    "name": "mission_locale_pour_linsertion_professionnelle_et_sociale_des_jeunes_16_25_ans_caluire_et_cuire",
+    "title": "Mission locale pour l'insertion professionnelle et sociale des jeunes (16-25 ans) - Caluire-et-Cuire",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/rhone/mission_locale-69034-01",
+    "metadata": {
+      "email": "ch.communication@mlpnvs.org",
+      "telephone": "04 72 27 25 25",
+      "url": "http://www.mlpnvs.org"
+    }
+  },
+  {
+    "id": "bc3e90900d7dfe7a0a94cd0a0162349cac69993d",
+    "alternateName": "16-25 ans",
+    "name": "mission_locale_pour_linsertion_professionnelle_et_sociale_des_jeunes_16_25_ans_calvi",
+    "title": "Mission locale pour l'insertion professionnelle et sociale des jeunes (16-25 ans) - Calvi",
+    "url": "https://lannuaire.service-public.fr/corse/haute-corse/mission_locale-2B050-01",
+    "metadata": {
+      "email": "laurence.achilli@ml-corse.corscia",
+      "telephone": "04 95 65 44 01",
+      "url": "http://www.missions-locales-corse.org"
+    }
+  },
+  {
+    "id": "087f44ac797b78236b0da6c60dc27acfc6c281c8",
+    "alternateName": "16-25 ans",
+    "name": "mission_locale_pour_linsertion_professionnelle_et_sociale_des_jeunes_16_25_ans_cambresis",
+    "title": "Mission locale pour l'insertion professionnelle et sociale des jeunes (16-25 ans) - Cambrésis",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/nord/mission_locale-59122-01",
+    "metadata": {
+      "email": "mlcambresis@wanadoo.fr",
+      "telephone": "03 27 73 88 80",
+      "url": ""
+    }
+  },
+  {
+    "id": "af0909e7dfb31edccb201c3d9fb4da469f5924da",
+    "alternateName": "16-25 ans",
+    "name": "mission_locale_pour_linsertion_professionnelle_et_sociale_des_jeunes_16_25_ans_canejan_les_graves",
+    "title": "Mission locale pour l'insertion professionnelle et sociale des jeunes (16-25 ans) - Canéjan (Les Graves)",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/gironde/mission_locale-33318-01",
+    "metadata": {
+      "email": "contact@mldesgraves.fr",
+      "telephone": "05 56 15 02 41",
+      "url": ""
+    }
+  },
+  {
+    "id": "3c4287af6abb866c85049ae88196a2dd816919bf",
+    "alternateName": "16-25 ans",
+    "name": "mission_locale_pour_linsertion_professionnelle_et_sociale_des_jeunes_16_25_ans_cannes",
+    "title": "Mission locale pour l'insertion professionnelle et sociale des jeunes (16-25 ans) - Cannes",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/alpes-maritimes/mission_locale-06029-01",
+    "metadata": {
+      "email": "contact@ml-cannespaysdelerins.org",
+      "telephone": "04 93 48 94 04",
+      "url": "http://ml-cannespaysdelerins.org"
+    }
+  },
+  {
+    "id": "161ef44e0167e8043fd22b1e3c91ff489148857d",
+    "alternateName": "16-25 ans",
+    "name": "mission_locale_pour_linsertion_professionnelle_et_sociale_des_jeunes_16_25_ans_carcassonne_ouest_audois",
+    "title": "Mission locale pour l'insertion professionnelle et sociale des jeunes (16-25 ans) - Carcassonne (Ouest – Audois)",
+    "url": "https://lannuaire.service-public.fr/occitanie/aude/mission_locale-11069-01",
+    "metadata": {
+      "email": "carcassonne@mloa.fr",
+      "telephone": "04 68 10 22 90",
+      "url": "http://www.mloa.fr"
+    }
+  },
+  {
+    "id": "bcafb2efce47a2a7f82891c7ee2e713c45770996",
+    "alternateName": "16-25 ans",
+    "name": "mission_locale_pour_linsertion_professionnelle_et_sociale_des_jeunes_16_25_ans_carhaix",
+    "title": "Mission locale pour l'insertion professionnelle et sociale des jeunes (16-25 ans) - Carhaix",
+    "url": "https://lannuaire.service-public.fr/bretagne/finistere/mission_locale-29024-01",
+    "metadata": {
+      "email": "contact@missionlocalecob.bzh",
+      "telephone": "02 98 99 15 80",
+      "url": "http://www.missionlocalecob.bzh"
+    }
+  },
+  {
+    "id": "5e499cd51d1687bbf7ec1b1d3888a8807a6f20d4",
+    "alternateName": "16-25 ans",
+    "name": "mission_locale_pour_linsertion_professionnelle_et_sociale_des_jeunes_16_25_ans_carmaux",
+    "title": "Mission locale pour l'insertion professionnelle et sociale des jeunes (16-25 ans) - Carmaux",
+    "url": "https://lannuaire.service-public.fr/occitanie/tarn/mission_locale-81060-01",
+    "metadata": {
+      "email": "mjtn-carmaux@mjtn.fr",
+      "telephone": "05 63 36 18 02",
+      "url": "http://www.mjtn.fr"
+    }
+  },
+  {
+    "id": "06c5e4a750cfe38484e4814017012a3957430bdd",
+    "alternateName": "16-25 ans",
+    "name": "mission_locale_pour_linsertion_professionnelle_et_sociale_des_jeunes_16_25_ans_carpentras",
+    "title": "Mission locale pour l'insertion professionnelle et sociale des jeunes (16-25 ans) - Carpentras",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/vaucluse/mission_locale-84031-01",
+    "metadata": {
+      "email": "milocv@milocv84.fr",
+      "telephone": "04 90 60 25 80",
+      "url": "http://www.cnml.gouv.fr"
+    }
+  },
+  {
+    "id": "9d0f762e67339572c2f99159dee76477a0ecf1f8",
+    "alternateName": "16-25 ans",
+    "name": "mission_locale_pour_linsertion_professionnelle_et_sociale_des_jeunes_16_25_ans_castelnaudary",
+    "title": "Mission locale pour l'insertion professionnelle et sociale des jeunes (16-25 ans) - Castelnaudary",
+    "url": "https://lannuaire.service-public.fr/occitanie/aude/mission_locale-11076-01",
+    "metadata": {
+      "email": "castelnaudary@mloa.fr",
+      "telephone": "04 68 23 67 49",
+      "url": ""
+    }
+  },
+  {
+    "id": "cf69f8620bd51916e4d5584a8f15e8b6b9de3b0f",
+    "alternateName": "16-25 ans",
+    "name": "mission_locale_pour_linsertion_professionnelle_et_sociale_des_jeunes_16_25_ans_castelsarrasin",
+    "title": "Mission locale pour l'insertion professionnelle et sociale des jeunes (16-25 ans) - Castelsarrasin",
+    "url": "https://lannuaire.service-public.fr/occitanie/tarn-et-garonne/mission_locale-82033-01",
+    "metadata": {
+      "email": "castelsarrasin@missionlocale82.org",
+      "telephone": "05 31 78 00 00",
+      "url": "http://www.missionlocale82.org"
+    }
+  },
+  {
+    "id": "a5ce9c62b1ef320dadfe026a33e8fc7593fae90a",
+    "alternateName": "16-25 ans",
+    "name": "mission_locale_pour_linsertion_professionnelle_et_sociale_des_jeunes_16_25_ans_castres_tarn_sud",
+    "title": "Mission locale pour l'insertion professionnelle et sociale des jeunes (16-25 ans) - Castres (Tarn-Sud)",
+    "url": "https://lannuaire.service-public.fr/occitanie/tarn/mission_locale-81065-01",
+    "metadata": {
+      "email": "mission.locale@mlts.fr",
+      "telephone": "05 63 51 63 20",
+      "url": "http://www.mlts.fr"
+    }
+  },
+  {
+    "id": "3f96de050b194c1db7f4bb968f76b694e5688fcd",
+    "alternateName": "16-25 ans",
+    "name": "mission_locale_pour_linsertion_professionnelle_et_sociale_des_jeunes_16_25_ans_caussade",
+    "title": "Mission locale pour l'insertion professionnelle et sociale des jeunes (16-25 ans) - Caussade",
+    "url": "https://lannuaire.service-public.fr/occitanie/tarn-et-garonne/mission_locale-82037-01",
+    "metadata": {
+      "email": "caussade@missionlocale82.org",
+      "telephone": "05 31 78 00 00",
+      "url": "http://www.missionlocale82.org"
+    }
+  },
+  {
+    "id": "d9a821453b4b24530e7202ba43d646628de49b40",
+    "alternateName": "16-25 ans",
+    "name": "mission_locale_pour_linsertion_professionnelle_et_sociale_des_jeunes_16_25_ans_cavaillon",
+    "title": "Mission locale pour l'insertion professionnelle et sociale des jeunes (16-25 ans) - Cavaillon",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/vaucluse/mission_locale-84035-01",
+    "metadata": {
+      "email": "accueil.cavaillon@mlluberon.fr",
+      "telephone": "04 90 78 29 32",
+      "url": "http://www.cnml.gouv.fr"
+    }
+  },
+  {
+    "id": "f61737fd169a33d0c410c1ca7c97359fee15dbe0",
+    "alternateName": "16-25 ans",
+    "name": "mission_locale_pour_linsertion_professionnelle_et_sociale_des_jeunes_16_25_ans_cayenne_guyane",
+    "title": "Mission locale pour l'insertion professionnelle et sociale des jeunes (16-25 ans) - Cayenne (Guyane)",
+    "url": "https://lannuaire.service-public.fr/guyane/guyane/mission_locale-97302-01",
+    "metadata": {
+      "email": "mlrg-siege@wanadoo.fr",
+      "telephone": "05 94 29 61 40",
+      "url": ""
+    }
+  },
+  {
+    "id": "c327d6074089c55e68fee0ccab91347cbfd8c269",
+    "alternateName": "16-25 ans",
+    "name": "mission_locale_pour_linsertion_professionnelle_et_sociale_des_jeunes_16_25_ans_cenon_les_hauts_de_garonne",
+    "title": "Mission locale pour l'insertion professionnelle et sociale des jeunes (16-25 ans) - Cenon (Les Hauts-de-Garonne)",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/gironde/mission_locale-33119-01",
+    "metadata": {
+      "email": "mldeshautsdegaronne@orange.fr",
+      "telephone": "05 57 77 31 00",
+      "url": "http://www.lamissionlocale.com"
+    }
+  },
+  {
+    "id": "871e353e4b37f59dc3384ca410355cd82350bb3d",
+    "alternateName": "16-25 ans",
+    "name": "mission_locale_pour_linsertion_professionnelle_et_sociale_des_jeunes_16_25_ans_ceret",
+    "title": "Mission locale pour l'insertion professionnelle et sociale des jeunes (16-25 ans) - Céret",
+    "url": "https://lannuaire.service-public.fr/occitanie/pyrenees-orientales/mission_locale-66049-01",
+    "metadata": {
+      "email": "antenne.ceret@mlj66.fr",
+      "telephone": "04 68 87 32 02",
+      "url": "http://www.mlj66.fr"
+    }
+  },
+  {
+    "id": "5e90f6aaefc5f302b1aac9b8c768b2fc4152dd6f",
+    "alternateName": "16-25 ans",
+    "name": "mission_locale_pour_linsertion_professionnelle_et_sociale_des_jeunes_16_25_ans_cergy_saint_christophe",
+    "title": "Mission locale pour l'insertion professionnelle et sociale des jeunes (16-25 ans) - Cergy-Saint-Christophe",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/val-d-oise/mission_locale-95127-01",
+    "metadata": {
+      "email": "avec@associationavec.fr",
+      "telephone": "01 34 41 70 70",
+      "url": "http://www.avec-ml.fr"
+    }
+  },
+  {
+    "id": "5262d1d4e66dcd31d748029a22a163e9ed1adaa1",
+    "alternateName": "16-25 ans",
+    "name": "mission_locale_pour_linsertion_professionnelle_et_sociale_des_jeunes_16_25_ans_chalons_en_champagne",
+    "title": "Mission locale pour l'insertion professionnelle et sociale des jeunes (16-25 ans) - Châlons-en-Champagne",
+    "url": "https://lannuaire.service-public.fr/grand-est/marne/mission_locale-51108-01",
+    "metadata": {
+      "email": "contact@ml-chalons.fr",
+      "telephone": "03 26 68 54 02",
+      "url": "http://www.ml-chalons.fr"
+    }
+  },
+  {
+    "id": "f2fa31f4ecf758a4921eabf1c8a7408dd0f671e9",
+    "alternateName": "16-25 ans",
+    "name": "mission_locale_pour_linsertion_professionnelle_et_sociale_des_jeunes_16_25_ans_chalon_sur_saone",
+    "title": "Mission locale pour l'insertion professionnelle et sociale des jeunes (16-25 ans) - Chalon-sur-Saône",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/saone-et-loire/mission_locale-71076-01",
+    "metadata": {
+      "email": "milochalonnais@milobfc.fr",
+      "telephone": "03 85 93 47 59",
+      "url": "http://www.missionlocaleduchalonnais.fr"
+    }
+  },
+  {
+    "id": "44b8ac1e487807e6e3f22016639e4479c69ad3e8",
+    "alternateName": "16-25 ans",
+    "name": "mission_locale_pour_linsertion_professionnelle_et_sociale_des_jeunes_16_25_ans_chambery",
+    "title": "Mission locale pour l'insertion professionnelle et sociale des jeunes (16-25 ans) - Chambéry",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/savoie/mission_locale-73065-01",
+    "metadata": {
+      "email": "mlchambery@mlchambery.org",
+      "telephone": "04 79 33 50 84",
+      "url": "http://www.mlchambery.org"
+    }
+  },
+  {
+    "id": "ee8093a75593b607ff711b523f04c457824ad43f",
+    "alternateName": "16-25 ans",
+    "name": "mission_locale_pour_linsertion_professionnelle_et_sociale_des_jeunes_16_25_ans_champagnole_sud_jura",
+    "title": "Mission locale pour l'insertion professionnelle et sociale des jeunes (16-25 ans) - Champagnole (Sud-Jura)",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/jura/mission_locale-39097-01",
+    "metadata": {
+      "email": "champagnole@milobfc.fr",
+      "telephone": "03 84 52 26 61",
+      "url": ""
+    }
+  },
+  {
+    "id": "9e3d970b880f2e5ecf998413a8aad3ddec5c409a",
+    "alternateName": "16-25 ans",
+    "name": "mission_locale_pour_linsertion_professionnelle_et_sociale_des_jeunes_16_25_ans_champigny_sur_marne",
+    "title": "Mission locale pour l'insertion professionnelle et sociale des jeunes (16-25 ans) - Champigny-sur-Marne",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/val-de-marne/mission_locale-94017-01",
+    "metadata": {
+      "email": "direction@mlbdm.fr",
+      "telephone": "01 48 80 73 06",
+      "url": "http://www.mission-locale-bordsdemarne.org"
+    }
+  },
+  {
+    "id": "1c6166b03cf2190e34eb9123ca4ae555212add19",
+    "alternateName": "16-25 ans",
+    "name": "mission_locale_pour_linsertion_professionnelle_et_sociale_des_jeunes_16_25_ans_charleval",
+    "title": "Mission locale pour l'insertion professionnelle et sociale des jeunes (16-25 ans) - Charleval",
+    "url": "https://lannuaire.service-public.fr/normandie/eure/mission_locale-27151-01",
+    "metadata": {
+      "email": "mission.locale@mlv2al.fr",
+      "telephone": "02 32 49 90 09",
+      "url": "http://www.mlv2al.fr"
+    }
+  },
+  {
+    "id": "86526b16cf383139fa11bfc08bcf95b6aeca4239",
+    "alternateName": "16-25 ans",
+    "name": "mission_locale_pour_linsertion_professionnelle_et_sociale_des_jeunes_16_25_ans_charleville_mezieres",
+    "title": "Mission locale pour l'insertion professionnelle et sociale des jeunes (16-25 ans) - Charleville-Mézières",
+    "url": "https://lannuaire.service-public.fr/grand-est/ardennes/mission_locale-08105-01",
+    "metadata": {
+      "email": "milo.charleville@laposte.net",
+      "telephone": "03 24 59 44 44",
+      "url": "http://www.missionlocale-charleville.fr"
+    }
+  },
+  {
+    "id": "ebb634e7bcb6e0f6a84cadfeb573cbea87d6e8e1",
+    "alternateName": "16-25 ans",
+    "name": "mission_locale_pour_linsertion_professionnelle_et_sociale_des_jeunes_16_25_ans_charolles",
+    "title": "Mission locale pour l'insertion professionnelle et sociale des jeunes (16-25 ans) - Charolles",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/saone-et-loire/mission_locale-71106-01",
+    "metadata": {
+      "email": "sylvie.bouley@milobfc.fr",
+      "telephone": "03 85 24 20 78",
+      "url": ""
+    }
+  },
+  {
+    "id": "4b9349b12dd49c9b519f169ba7d8a045bf8dd80a",
+    "alternateName": "16-25 ans",
+    "name": "mission_locale_pour_linsertion_professionnelle_et_sociale_des_jeunes_16_25_ans_chartres",
+    "title": "Mission locale pour l'insertion professionnelle et sociale des jeunes (16-25 ans) - Chartres",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/eure-et-loir/mission_locale-28085-01",
+    "metadata": {
+      "email": "contact@mla-chartres.fr",
+      "telephone": "02 37 36 49 50",
+      "url": "http://www.mla-chartres.fr"
+    }
+  },
+  {
+    "id": "84b9c6c86e24745fbd5903fb87b9ac393842ae25",
+    "alternateName": "16-25 ans",
+    "name": "mission_locale_pour_linsertion_professionnelle_et_sociale_des_jeunes_16_25_ans_chateau_chinon_nivernais_morvan",
+    "title": "Mission locale pour l'insertion professionnelle et sociale des jeunes (16-25 ans) - Château-Chinon (Nivernais-Morvan)",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/nievre/mission_locale-58062-01",
+    "metadata": {
+      "email": "milonivervaismorvan@milobfc.fr",
+      "telephone": "03 86 85 10 77",
+      "url": ""
+    }
+  },
+  {
+    "id": "625ce87a7a007d479cba159b78969148df381566",
+    "alternateName": "16-25 ans",
+    "name": "mission_locale_pour_linsertion_professionnelle_et_sociale_des_jeunes_16_25_ans_chateaudun",
+    "title": "Mission locale pour l'insertion professionnelle et sociale des jeunes (16-25 ans) - Châteaudun",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/eure-et-loir/mission_locale-28088-01",
+    "metadata": {
+      "email": "accueil.chateaudun@milos28.fr",
+      "telephone": "02 37 94 05 05",
+      "url": "http://www.milos28.fr"
+    }
+  },
+  {
+    "id": "37b3703f51e14b0a0a855e0d6889b29e1a1ebf05",
+    "alternateName": "16-25 ans",
+    "name": "mission_locale_pour_linsertion_professionnelle_et_sociale_des_jeunes_16_25_ans_chateau_gontier_sud_mayenne",
+    "title": "Mission locale pour l'insertion professionnelle et sociale des jeunes (16-25 ans) - Château-Gontier (Sud-Mayenne)",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/mayenne/mission_locale-53062-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 43 07 27 49",
+      "url": "http://www.emploi-des-jeunes53.org"
+    }
+  },
+  {
+    "id": "f635d5d20c1d6d6c524210209481167dd023fd14",
+    "alternateName": "16-25 ans",
+    "name": "mission_locale_pour_linsertion_professionnelle_et_sociale_des_jeunes_16_25_ans_chateauneuf_grasse",
+    "title": "Mission locale pour l'insertion professionnelle et sociale des jeunes (16-25 ans) - Châteauneuf-Grasse",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/alpes-maritimes/mission_locale-06038-01",
+    "metadata": {
+      "email": "c.bezet@mlantipolis.com",
+      "telephone": "04 92 91 79 82",
+      "url": ""
+    }
+  },
+  {
+    "id": "d5c79b54b7cadc8dc46b591477a0aa9ade33667e",
+    "alternateName": "16-25 ans",
+    "name": "mission_locale_pour_linsertion_professionnelle_et_sociale_des_jeunes_16_25_ans_chateauneuf_les_martigues",
+    "title": "Mission locale pour l'insertion professionnelle et sociale des jeunes (16-25 ans) - Châteauneuf-les-Martigues",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/mission_locale-13026-01",
+    "metadata": {
+      "email": "secretariat.apie@laposte.net",
+      "telephone": "04 42 76 21 21",
+      "url": "http://www.cnml.gouv.fr"
+    }
+  },
+  {
+    "id": "e955070acc68c8aa08fd206d9b85fa8f5850a97d",
+    "alternateName": "16-25 ans",
+    "name": "mission_locale_pour_linsertion_professionnelle_et_sociale_des_jeunes_16_25_ans_chateaurenard",
+    "title": "Mission locale pour l'insertion professionnelle et sociale des jeunes (16-25 ans) - Châteaurenard",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/mission_locale-13027-01",
+    "metadata": {
+      "email": "accueilchateau@mldelta.fr",
+      "telephone": "04 32 62 09 56",
+      "url": "http://www.misionlocale-delta.fr"
+    }
+  },
+  {
+    "id": "61655ffc3f0e1e3e14ce1877e2ae46c941f5533a",
+    "alternateName": "16-25 ans",
+    "name": "mission_locale_pour_linsertion_professionnelle_et_sociale_des_jeunes_16_25_ans_chateau_renault_loire_touraine",
+    "title": "Mission locale pour l'insertion professionnelle et sociale des jeunes (16-25 ans) - Château-Renault (Loire-Touraine)",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/indre-et-loire/mission_locale-37063-01",
+    "metadata": {
+      "email": "chateaurenault@mlloiretouraine.org",
+      "telephone": "02 47 56 07 29",
+      "url": "http://www.mlloiretouraine.org"
+    }
+  },
+  {
+    "id": "00f5084279cb2c0d65aa10a2f1ce0c40cb38cfff",
+    "alternateName": "16-25 ans",
+    "name": "mission_locale_pour_linsertion_professionnelle_et_sociale_des_jeunes_16_25_ans_chateauroux",
+    "title": "Mission locale pour l'insertion professionnelle et sociale des jeunes (16-25 ans) - Châteauroux",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/indre/mission_locale-36044-01",
+    "metadata": {
+      "email": "mission.locale@chateauroux.org",
+      "telephone": "02 54 07 70 00",
+      "url": "http://www.mission.locale.chateauroux.org"
+    }
+  },
+  {
+    "id": "427eabe1b7d4e4ec2c90c73541ce6f368de04dfd",
+    "alternateName": "16-25 ans",
+    "name": "mission_locale_pour_linsertion_professionnelle_et_sociale_des_jeunes_16_25_ans_chateau_thierry",
+    "title": "Mission locale pour l'insertion professionnelle et sociale des jeunes (16-25 ans) - Château-Thierry",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/aisne/mission_locale-02168-01",
+    "metadata": {
+      "email": "missionlocale@mlchth.com",
+      "telephone": "03 23 84 23 23",
+      "url": "https://www.missionlocale-chateauthierry.org"
+    }
+  },
+  {
+    "id": "db6d591b01ed92569b8f1f0a60c32ea708e1b6a8",
+    "alternateName": "16-25 ans",
+    "name": "mission_locale_pour_linsertion_professionnelle_et_sociale_des_jeunes_16_25_ans_chatellerault",
+    "title": "Mission locale pour l'insertion professionnelle et sociale des jeunes (16-25 ans) - Châtellerault",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/vienne/mission_locale-86066-01",
+    "metadata": {
+      "email": "contact@mlnv.fr",
+      "telephone": "05 49 20 04 20",
+      "url": "http://www.missionlocalenordvienne.fr"
+    }
+  },
+  {
+    "id": "98aba0930419c8329e33b07d9c0b6ef55e900b16",
+    "alternateName": "16-25 ans",
+    "name": "mission_locale_pour_linsertion_professionnelle_et_sociale_des_jeunes_16_25_ans_chatillon_sur_seine_marches_de_bourgogne",
+    "title": "Mission locale pour l'insertion professionnelle et sociale des jeunes (16-25 ans) - Châtillon-sur-Seine (Marches-de-Bourgogne)",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/cote-d-or/mission_locale-21154-01",
+    "metadata": {
+      "email": "nilomarchesdebourgogne@nilobfc.fr",
+      "telephone": "03 80 91 36 42",
+      "url": ""
+    }
+  },
+  {
+    "id": "57693e716ae1ec6cc56e7280f1f5820a96815a27",
+    "alternateName": "16-25 ans",
+    "name": "mission_locale_pour_linsertion_professionnelle_et_sociale_des_jeunes_16_25_ans_chaumont",
+    "title": "Mission locale pour l'insertion professionnelle et sociale des jeunes (16-25 ans) - Chaumont",
+    "url": "https://lannuaire.service-public.fr/grand-est/haute-marne/mission_locale-52121-01",
+    "metadata": {
+      "email": "contact@missionlocale-chaumont.fr",
+      "telephone": "03 25 32 23 00",
+      "url": "https://www.mission-locale.wixsite.com/chaumont52"
+    }
+  },
+  {
+    "id": "fddcbfefc70db4e85f08b335adb15aed94e0e2b1",
+    "alternateName": "16-25 ans",
+    "name": "mission_locale_pour_linsertion_professionnelle_et_sociale_des_jeunes_16_25_ans_chelles",
+    "title": "Mission locale pour l'insertion professionnelle et sociale des jeunes (16-25 ans) - Chelles",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/seine-et-marne/mission_locale-77108-01",
+    "metadata": {
+      "email": "contac@mldc-mlids.prg",
+      "telephone": "01 60 20 58 58",
+      "url": "http://www.missionlocale-bassinchellois.fr"
+    }
+  },
+  {
+    "id": "b953e55adb59694087453915a7b53f6094b8e063",
+    "alternateName": "16-25 ans",
+    "name": "mission_locale_pour_linsertion_professionnelle_et_sociale_des_jeunes_16_25_ans_cherbourg_en_cotentin",
+    "title": "Mission locale pour l'insertion professionnelle et sociale des jeunes (16-25 ans) - Cherbourg-en-Cotentin",
+    "url": "https://lannuaire.service-public.fr/normandie/manche/mission_locale-50129-01",
+    "metadata": {
+      "email": "mef@mef-cotentin.com",
+      "telephone": "02 33 01 64 65",
+      "url": "http://www.mef-cotentin.com"
+    }
+  },
+  {
+    "id": "5fb16c55a8f6d677fa87474954f2dec2280af9a9",
+    "alternateName": "16-25 ans",
+    "name": "mission_locale_pour_linsertion_professionnelle_et_sociale_des_jeunes_16_25_ans_chinon",
+    "title": "Mission locale pour l'insertion professionnelle et sociale des jeunes (16-25 ans) - Chinon",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/indre-et-loire/mission_locale-37072-01",
+    "metadata": {
+      "email": "mission.locale.chinon@wanadoo.fr",
+      "telephone": "02 47 93 30 40",
+      "url": "https://missionlocaleduchinonais.fr"
+    }
+  },
+  {
+    "id": "a68121ae504fade2c1097de0dd07fdd150b0cb07",
+    "alternateName": "16-25 ans",
+    "name": "mission_locale_pour_linsertion_professionnelle_et_sociale_des_jeunes_16_25_ans_cholet",
+    "title": "Mission locale pour l'insertion professionnelle et sociale des jeunes (16-25 ans) - Cholet",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/maine-et-loire/mission_locale-49099-01",
+    "metadata": {
+      "email": "mlc@mlducholetais.org",
+      "telephone": "02 41 49 81 00",
+      "url": "http://www.missionlocaleducholetais.org"
+    }
+  },
+  {
+    "id": "8fd5ff0c69ef1ee017e46d8834cff55b105f3d55",
+    "alternateName": "16-25 ans",
+    "name": "mission_locale_pour_linsertion_professionnelle_et_sociale_des_jeunes_16_25_ans_civray_centre_et_sud_vienne",
+    "title": "Mission locale pour l'insertion professionnelle et sociale des jeunes (16-25 ans) - Civray (Centre-et-Sud-Vienne)",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/vienne/mission_locale-86139-01",
+    "metadata": {
+      "email": "administratif@mlrcsv.com",
+      "telephone": "05 49 87 39 67",
+      "url": ""
+    }
+  },
+  {
+    "id": "75f0a65185ec988c9ac8d4aab6d9725652489c00",
+    "alternateName": "16-25 ans",
+    "name": "mission_locale_pour_linsertion_professionnelle_et_sociale_des_jeunes_16_25_ans_clermont_ferrand",
+    "title": "Mission locale pour l'insertion professionnelle et sociale des jeunes (16-25 ans) - Clermont-Ferrand",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/puy-de-dome/mission_locale-63113-01",
+    "metadata": {
+      "email": "accueil@missionlocale-clermont.com",
+      "telephone": "04 73 42 17 57",
+      "url": "http://www.missionlocale-clermont.com"
+    }
+  },
+  {
+    "id": "8a903c146384a942c937eb9c8df4e4f9a91d7865",
+    "alternateName": "16-25 ans",
+    "name": "mission_locale_pour_linsertion_professionnelle_et_sociale_des_jeunes_16_25_ans_clermont_liancourtois_vallee_du_therain",
+    "title": "Mission locale pour l'insertion professionnelle et sociale des jeunes (16-25 ans) - Clermont - Liancourtois-Vallée-du-Therain",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/oise/mission_locale-60157-01",
+    "metadata": {
+      "email": "accueil@mission-locale-clermont.fr",
+      "telephone": "03 44 68 27 27",
+      "url": "http://www.mission-locale-clermont.fr"
+    }
+  },
+  {
+    "id": "511101649c0ca9574e3131f180b349e3b665f044",
+    "alternateName": "16-25 ans",
+    "name": "mission_locale_pour_linsertion_professionnelle_et_sociale_des_jeunes_16_25_ans_clichy_sous_bois",
+    "title": "Mission locale pour l'insertion professionnelle et sociale des jeunes (16-25 ans) - Clichy-sous-Bois",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/seine-saint-denis/mission_locale-93047-01",
+    "metadata": {
+      "email": "",
+      "telephone": "01 41 70 74 73",
+      "url": "http://www.missionlocaledeladhuys.fr"
+    }
+  },
+  {
+    "id": "e1da83f9e70bc3283cd741070c04214d0953de4e",
+    "alternateName": "16-25 ans",
+    "name": "mission_locale_pour_linsertion_professionnelle_et_sociale_des_jeunes_16_25_ans_cluses",
+    "title": "Mission locale pour l'insertion professionnelle et sociale des jeunes (16-25 ans) - Cluses",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/haute-savoie/mission_locale-74081-01",
+    "metadata": {
+      "email": "info@missionlocale.fr",
+      "telephone": "04 50 89 72 30",
+      "url": "http://www.missionlocale.fr"
+    }
+  },
+  {
+    "id": "bdce216c5d2f905bb968911032cdf07be00e164f",
+    "alternateName": "16-25 ans",
+    "name": "mission_locale_pour_linsertion_professionnelle_et_sociale_des_jeunes_16_25_ans_cognac",
+    "title": "Mission locale pour l'insertion professionnelle et sociale des jeunes (16-25 ans) - Cognac",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/charente/mission_locale-16102-01",
+    "metadata": {
+      "email": "info@mlarccharente.com",
+      "telephone": "05 45 83 97 00",
+      "url": "http://www.mlarccharente.com"
+    }
+  },
+  {
+    "id": "9104b62db3be293ddeaa919a0f8f31a3dba03c88",
+    "alternateName": "16-25 ans",
+    "name": "mission_locale_pour_linsertion_professionnelle_et_sociale_des_jeunes_16_25_ans_cogolin",
+    "title": "Mission locale pour l'insertion professionnelle et sociale des jeunes (16-25 ans) - Cogolin",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/var/mission_locale-83042-01",
+    "metadata": {
+      "email": "missionlocale.cogolin@wanadoo.fr",
+      "telephone": "04 94 54 62 52",
+      "url": ""
+    }
+  },
+  {
+    "id": "2b934a7b96eb215224ba80a561b94820fd02856c",
+    "alternateName": "16-25 ans",
+    "name": "mission_locale_pour_linsertion_professionnelle_et_sociale_des_jeunes_16_25_ans_colmar",
+    "title": "Mission locale pour l'insertion professionnelle et sociale des jeunes (16-25 ans) - Colmar",
+    "url": "https://lannuaire.service-public.fr/grand-est/haut-rhin/mission_locale-68066-01",
+    "metadata": {
+      "email": "ml@missionlocalecolmar.fr",
+      "telephone": "03 89 21 72 20",
+      "url": "http://www.missionlocalecolmar.com"
+    }
+  },
+  {
+    "id": "9ab0cbd228094fe7540182784685f2507bada303",
+    "alternateName": "16-25 ans",
+    "name": "mission_locale_pour_linsertion_professionnelle_et_sociale_des_jeunes_16_25_ans_colomiers",
+    "title": "Mission locale pour l'insertion professionnelle et sociale des jeunes (16-25 ans) - Colomiers",
+    "url": "https://lannuaire.service-public.fr/occitanie/haute-garonne/mission_locale-31149-01",
+    "metadata": {
+      "email": "mlhg.colomiers@ml31.org",
+      "telephone": "05 61 78 51 16",
+      "url": "https://www.missionlocale31.org/"
+    }
+  },
+  {
+    "id": "718f4e2be607383523b63220efbc7e0b0a6d7a2e",
+    "alternateName": "16-25 ans",
+    "name": "mission_locale_pour_linsertion_professionnelle_et_sociale_des_jeunes_16_25_ans_compiegne",
+    "title": "Mission locale pour l'insertion professionnelle et sociale des jeunes (16-25 ans) - Compiègne",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/oise/mission_locale-60159-01",
+    "metadata": {
+      "email": "missionlocale.compiegne@ml-compiegne.org",
+      "telephone": "03 44 36 34 44",
+      "url": "http://www.cnml.gouv.fr"
+    }
+  },
+  {
+    "id": "2a1dcf363809ec384eae08186836cc207a5a880a",
+    "alternateName": "16-25 ans",
+    "name": "mission_locale_pour_linsertion_professionnelle_et_sociale_des_jeunes_16_25_ans_conde_sur_noireau",
+    "title": "Mission locale pour l'insertion professionnelle et sociale des jeunes (16-25 ans) - Condé-sur-Noireau",
+    "url": "https://lannuaire.service-public.fr/normandie/calvados/mission_locale-14174-01",
+    "metadata": {
+      "email": "e.guerard@mlbn.fr",
+      "telephone": "02 31 69 02 78",
+      "url": "http://www.mlbn.fr"
+    }
+  },
+  {
+    "id": "02baffffc5cf8201758669cf6d97b38dd4edf5a9",
+    "alternateName": "16-25 ans",
+    "name": "mission_locale_pour_linsertion_professionnelle_et_sociale_des_jeunes_16_25_ans_condom",
+    "title": "Mission locale pour l'insertion professionnelle et sociale des jeunes (16-25 ans) - Condom",
+    "url": "https://lannuaire.service-public.fr/occitanie/gers/mission_locale-32107-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 62 28 42 70",
+      "url": "http://www.missionlocalegers.com"
+    }
+  }
+]

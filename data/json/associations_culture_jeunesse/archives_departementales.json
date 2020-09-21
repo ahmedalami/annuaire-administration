@@ -1,0 +1,1124 @@
+[
+  {
+    "id": "a284766e7d01d27dd34252ce3d17e2de5eeb7038",
+    "name": "archives_departementales_ain",
+    "title": "Archives départementales - Ain",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/ain/ad-01053-01",
+    "metadata": {
+      "email": "archives.departementales@ain.fr",
+      "telephone": "04 74 32 12 80",
+      "url": "http://www.archives.ain.fr"
+    }
+  },
+  {
+    "id": "5e9118f73d08da2ca96187d250de26397a659ae8",
+    "name": "archives_departementales_aisne",
+    "title": "Archives départementales - Aisne",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/aisne/ad-02408-01",
+    "metadata": {
+      "email": "archives@aisne.fr",
+      "telephone": "03 23 24 61 47",
+      "url": "http://archives.aisne.fr/"
+    }
+  },
+  {
+    "id": "dfbaa8d4577bdce9d725861b51698e8c4ec0e0d2",
+    "name": "archives_departementales_allier",
+    "title": "Archives départementales - Allier",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/allier/ad-03321-01",
+    "metadata": {
+      "email": "archivesdpt@allier.fr",
+      "telephone": "04 70 20 01 40",
+      "url": "http://archives.allier.fr/"
+    }
+  },
+  {
+    "id": "c8c89534071f4ffd80ee2b8cab0e17b07e68c67e",
+    "name": "archives_departementales_alpes_de_haute_provence",
+    "title": "Archives départementales - Alpes-de-Haute-Provence",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/alpes-de-haute-provence/ad-04070-01",
+    "metadata": {
+      "email": "archives04@cg04.fr",
+      "telephone": "04 92 36 75 00",
+      "url": "http://www.archives04.fr/"
+    }
+  },
+  {
+    "id": "bc0ed6431adbd15792f9b7b567f5deb5d31b585a",
+    "name": "archives_departementales_alpes_maritimes",
+    "title": "Archives départementales - Alpes-Maritimes",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/alpes-maritimes/ad-06088-01",
+    "metadata": {
+      "email": "dad@departement06.fr",
+      "telephone": "04 97 18 61 71",
+      "url": "https://www.departement06.fr/culture/archives-departementales-2797.html"
+    }
+  },
+  {
+    "id": "6f186bff23ebfa90821cf1ac38886c6ddd8c33e3",
+    "name": "archives_departementales_ardeche",
+    "title": "Archives départementales - Ardèche",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/ardeche/ad-07186-01",
+    "metadata": {
+      "email": "archives@ardeche.fr",
+      "telephone": "04 75 66 98 00",
+      "url": "http://archives.ardeche.fr/"
+    }
+  },
+  {
+    "id": "5dc82f5f315520882d30f5c4a229c8b4385f0dfb",
+    "name": "archives_departementales_ardennes",
+    "title": "Archives départementales - Ardennes",
+    "url": "https://lannuaire.service-public.fr/grand-est/ardennes/ad-08105-01",
+    "metadata": {
+      "email": "archives@cd08.fr",
+      "telephone": "03 24 57 40 06",
+      "url": "http://archives.cd08.fr/"
+    }
+  },
+  {
+    "id": "ac494200f81a2b78f91112f6a4f2481561c9bced",
+    "name": "archives_departementales_ariege",
+    "title": "Archives départementales - Ariège",
+    "url": "https://lannuaire.service-public.fr/occitanie/ariege/ad-09122-01",
+    "metadata": {
+      "email": "arcdir@ariege.fr",
+      "telephone": "05 34 09 36 80",
+      "url": "http://archives.ariege.fr/"
+    }
+  },
+  {
+    "id": "bbc551781553194da391d001162b4aff47026841",
+    "name": "archives_departementales_aube",
+    "title": "Archives départementales - Aube",
+    "url": "https://lannuaire.service-public.fr/grand-est/aube/ad-10387-01",
+    "metadata": {
+      "email": "archpat.aube@aube.fr",
+      "telephone": "03 25 42 52 62",
+      "url": "http://www.archives-aube.fr/"
+    }
+  },
+  {
+    "id": "f2b8920a2be9e56d71e08e72fcbf4492a32233f2",
+    "name": "archives_departementales_aude",
+    "title": "Archives départementales - Aude",
+    "url": "https://lannuaire.service-public.fr/occitanie/aude/ad-11069-01",
+    "metadata": {
+      "email": "archives@aude.fr",
+      "telephone": "04 68 11 31 54",
+      "url": "http://audealaculture.fr/archives"
+    }
+  },
+  {
+    "id": "03b5b9fd6afe03d9e364f133f283d77a2ef40418",
+    "name": "archives_departementales_aveyron",
+    "title": "Archives départementales - Aveyron",
+    "url": "https://lannuaire.service-public.fr/occitanie/aveyron/ad-12202-01",
+    "metadata": {
+      "email": "dad@aveyron.fr",
+      "telephone": "05 65 73 65 30",
+      "url": "http://archives.aveyron.fr/"
+    }
+  },
+  {
+    "id": "a688ec4fe9d00503bce44e91ee576d05d92b23d2",
+    "name": "archives_departementales_bas_rhin",
+    "title": "Archives départementales - Bas-Rhin",
+    "url": "https://lannuaire.service-public.fr/grand-est/bas-rhin/ad-67482-01",
+    "metadata": {
+      "email": "archives@bas-rhin.fr",
+      "telephone": "03 69 06 73 06",
+      "url": "http://archives.bas-rhin.fr/"
+    }
+  },
+  {
+    "id": "d59ab2472efb168dae02ced6d265e645281e853b",
+    "name": "archives_departementales_bouches_du_rhone",
+    "title": "Archives départementales - Bouches-du-Rhône",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/ad-13203-01",
+    "metadata": {
+      "email": "archives13@cg13.fr",
+      "telephone": "04 13 31 82 08",
+      "url": "http://www.archives13.fr/archives13/CG13/"
+    }
+  },
+  {
+    "id": "2cd4b3b7d633a3c196fda9b1374290d84b6b817b",
+    "name": "archives_departementales_calvados",
+    "title": "Archives départementales - Calvados",
+    "url": "https://lannuaire.service-public.fr/normandie/calvados/ad-14118-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 31 47 18 50",
+      "url": "https://archives.calvados.fr/accueil.html"
+    }
+  },
+  {
+    "id": "657b03febb86d467c4da09406ea08a1c751a25f1",
+    "name": "archives_departementales_cantal",
+    "title": "Archives départementales - Cantal",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/cantal/ad-15014-01",
+    "metadata": {
+      "email": "archives@cantal.fr",
+      "telephone": "04 71 48 33 38",
+      "url": "http://archives.cantal.fr/"
+    }
+  },
+  {
+    "id": "7c91d719c0c0bedf05c077e6ed34c8a05153a683",
+    "name": "archives_departementales_charente",
+    "title": "Archives départementales - Charente",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/charente/ad-16015-01",
+    "metadata": {
+      "email": "archives16@lacharente.fr",
+      "telephone": "05 16 09 50 11",
+      "url": "http://www.archives16.fr/"
+    }
+  },
+  {
+    "id": "c4470683260198b073e170aba3765ebdd90af30b",
+    "name": "archives_departementales_charente_maritime",
+    "title": "Archives départementales - Charente-Maritime",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/charente-maritime/ad-17300-01",
+    "metadata": {
+      "email": "archives@charente-maritime.fr",
+      "telephone": "05 46 45 17 77",
+      "url": "https://archives.charente-maritime.fr/"
+    }
+  },
+  {
+    "id": "9f632592c0e90917f4c5f41ead24f98716a7ec8f",
+    "name": "archives_departementales_cher",
+    "title": "Archives départementales - Cher",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/cher/ad-18033-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 48 55 82 60",
+      "url": "http://www.departement18.fr/"
+    }
+  },
+  {
+    "id": "7b3afe97659796c975f6de22c5e0dc372b89d7a7",
+    "name": "archives_departementales_correze",
+    "title": "Archives départementales - Corrèze",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/correze/ad-19272-01",
+    "metadata": {
+      "email": "archive19@correze.fr",
+      "telephone": "05 55 20 11 91",
+      "url": "http://www.archives.correze.fr/"
+    }
+  },
+  {
+    "id": "6ace1228b83fe8e44efba90f1a905af607127767",
+    "name": "archives_departementales_corse_du_sud",
+    "title": "Archives départementales - Corse-du-Sud",
+    "url": "https://lannuaire.service-public.fr/corse/corse-du-sud/ad-2A004-01",
+    "metadata": {
+      "email": "archives@corsedusud.fr",
+      "telephone": "04 95 29 14 26",
+      "url": "http://archives.cg-corsedusud.fr"
+    }
+  },
+  {
+    "id": "0e911b3fbcdad9c53d545213aa858f63dbfd6a74",
+    "name": "archives_departementales_cote_d_or",
+    "title": "Archives départementales - Côte-d'Or",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/cote-d-or/ad-21231-01",
+    "metadata": {
+      "email": "archives@cotedor.fr",
+      "telephone": "03 80 63 66 98",
+      "url": "https://archives.cotedor.fr/v2/site/ad21/"
+    }
+  },
+  {
+    "id": "a42171646558346184e693c1575c2a14c99ce969",
+    "name": "archives_departementales_cotes_d_armor",
+    "title": "Archives départementales - Côtes-d'Armor",
+    "url": "https://lannuaire.service-public.fr/bretagne/cotes-d-armor/ad-22278-01",
+    "metadata": {
+      "email": "archives@cotesdarmor.fr",
+      "telephone": "02 96 78 78 77",
+      "url": "http://archives.cotesdarmor.fr/"
+    }
+  },
+  {
+    "id": "61d6bba394a28a2f237937c57f37bcf6012cba3a",
+    "name": "archives_departementales_creuse",
+    "title": "Archives départementales - Creuse",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/creuse/ad-23096-01",
+    "metadata": {
+      "email": "archives@creuse.fr",
+      "telephone": "05 44 30 26 50",
+      "url": "http://archives.creuse.fr/"
+    }
+  },
+  {
+    "id": "ff7a3e86250b417fe5ce7a3a7eb77d013695d3b6",
+    "name": "archives_departementales_deux_sevres",
+    "title": "Archives départementales - Deux-Sèvres",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/deux-sevres/ad-79191-01",
+    "metadata": {
+      "email": "archives@deux-sevres.fr",
+      "telephone": "05 49 08 94 90",
+      "url": "http://archives.deux-sevres.com/Archives79/default.aspx"
+    }
+  },
+  {
+    "id": "477a161c1cc4502d23bd9332da96099cbbe54655",
+    "name": "archives_departementales_dordogne",
+    "title": "Archives départementales - Dordogne",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/dordogne/ad-24322-01",
+    "metadata": {
+      "email": "cd24.archives@dordogne.fr",
+      "telephone": "05 53 03 33 33",
+      "url": "https://archives.dordogne.fr/"
+    }
+  },
+  {
+    "id": "6e964d61cd661956de34048dd7331f18067e5807",
+    "name": "archives_departementales_doubs",
+    "title": "Archives départementales - Doubs",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/doubs/ad-25056-01",
+    "metadata": {
+      "email": "archives.departementales@doubs.fr",
+      "telephone": "03 81 25 88 00",
+      "url": "https://archives.doubs.fr/"
+    }
+  },
+  {
+    "id": "1fd2d78aabc84d3a0378fa52af88ef9fe9547142",
+    "name": "archives_departementales_drome",
+    "title": "Archives départementales - Drôme",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/drome/ad-16392-01",
+    "metadata": {
+      "email": "archives@ladrome.fr",
+      "telephone": "04 75 82 44 80",
+      "url": "https://archives.ladrome.fr/"
+    }
+  },
+  {
+    "id": "c3cb081a247669722fc00adaef63c9184771a16c",
+    "name": "archives_departementales_essonne",
+    "title": "Archives départementales - Essonne",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/essonne/ad-91132-01",
+    "metadata": {
+      "email": "archi91@cd-essonne.fr",
+      "telephone": "01 69 27 14 14",
+      "url": "http://www.essonne.fr/culture-loisirs-tourisme/archives-departementales/"
+    }
+  },
+  {
+    "id": "5e6aff017522a723aced9fa07fef9ee37b6d40ce",
+    "name": "archives_departementales_eure",
+    "title": "Archives départementales - Eure",
+    "url": "https://lannuaire.service-public.fr/normandie/eure/ad-27229-01",
+    "metadata": {
+      "email": "archives@eure.fr",
+      "telephone": "02 32 31 50 84",
+      "url": "http://archives.eure.fr/"
+    }
+  },
+  {
+    "id": "57154f4c72c4921c616e5964ca266e80fb30cd4c",
+    "name": "archives_departementales_eure_et_loir",
+    "title": "Archives départementales - Eure-et-Loir",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/eure-et-loir/ad-28085-01",
+    "metadata": {
+      "email": "archives@eurelien.fr",
+      "telephone": "02 37 88 82 20",
+      "url": "http://www.archives28.fr/"
+    }
+  },
+  {
+    "id": "27668800e9a34ea22278df8f659193ff40acd08a",
+    "name": "archives_departementales_finistere",
+    "title": "Archives départementales - Finistère",
+    "url": "https://lannuaire.service-public.fr/bretagne/finistere/ad-29232-01",
+    "metadata": {
+      "email": "archives.departementales@finistere.fr",
+      "telephone": "02 98 95 91 91",
+      "url": "http://www.archives-finistere.fr/"
+    }
+  },
+  {
+    "id": "8ca6359e415a3ab7eaae1c14584ae1558fc48209",
+    "name": "archives_departementales_gard",
+    "title": "Archives départementales - Gard",
+    "url": "https://lannuaire.service-public.fr/occitanie/gard/ad-30189-01",
+    "metadata": {
+      "email": "archives@gard.fr",
+      "telephone": "04 66 05 05 10",
+      "url": "http://archives.gard.fr/accueil.html"
+    }
+  },
+  {
+    "id": "d035ac140be021a9247048bfacad943ea0111694",
+    "name": "archives_departementales_gers",
+    "title": "Archives départementales - Gers",
+    "url": "https://lannuaire.service-public.fr/occitanie/gers/ad-32013-01",
+    "metadata": {
+      "email": "archives32@gers.fr",
+      "telephone": "05 62 67 47 67",
+      "url": "http://www.archives32.fr/"
+    }
+  },
+  {
+    "id": "296fdb84d68bbffc4ab5684d906863babe07da0b",
+    "name": "archives_departementales_gironde",
+    "title": "Archives départementales - Gironde",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/gironde/ad-33063-01",
+    "metadata": {
+      "email": "archives.gironde@gironde.fr",
+      "telephone": "05 56 99 66 00",
+      "url": "http://archives.gironde.fr/"
+    }
+  },
+  {
+    "id": "d789eae1cf4588957df5c83e30d5775f6f10db58",
+    "name": "archives_departementales_guadeloupe",
+    "title": "Archives départementales - Guadeloupe",
+    "url": "https://lannuaire.service-public.fr/guadeloupe/guadeloupe/ad-97109-01",
+    "metadata": {
+      "email": "archives@cg971.fr",
+      "telephone": "+590 5 90 81 13 02",
+      "url": "http://www.archivesguadeloupe.fr/"
+    }
+  },
+  {
+    "id": "76aae35d3499079771d9a7a753e6f2b2f1ae6196",
+    "name": "archives_departementales_guyane",
+    "title": "Archives départementales - Guyane",
+    "url": "https://lannuaire.service-public.fr/guyane/guyane/ad-97302-01",
+    "metadata": {
+      "email": "archives@ctguyane.fr",
+      "telephone": "0594 27 10 65",
+      "url": "http://archives.ctguyane.fr/4DCGI/Web_Custompage/index.shtm/ILUMP1565"
+    }
+  },
+  {
+    "id": "710ff4c8ca4d2145da31d0214916b501b85bb157",
+    "name": "archives_departementales_haute_corse",
+    "title": "Archives départementales - Haute-Corse",
+    "url": "https://lannuaire.service-public.fr/corse/haute-corse/ad-2B033-01",
+    "metadata": {
+      "email": "archives2b@haute-corse.fr",
+      "telephone": "04 95 55 55 81",
+      "url": "http://www.haute-corse.fr/site/index.php?page=archives-departementales"
+    }
+  },
+  {
+    "id": "3561bc09b62511d804b50f26191fb3179f9cfeb1",
+    "name": "archives_departementales_haute_garonne",
+    "title": "Archives départementales - Haute-Garonne",
+    "url": "https://lannuaire.service-public.fr/occitanie/haute-garonne/ad-31555-01",
+    "metadata": {
+      "email": "archives@cd31.fr",
+      "telephone": "05 34 32 50 00",
+      "url": "http://www.archives.haute-garonne.fr/"
+    }
+  },
+  {
+    "id": "721a79666418e4ca87d5b4e80278c2df3b261ef3",
+    "name": "archives_departementales_haute_loire",
+    "title": "Archives départementales - Haute-Loire",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/haute-loire/ad-43157-01",
+    "metadata": {
+      "email": "archives@hauteloire.fr",
+      "telephone": "04 71 02 81 19",
+      "url": "http://www.archives43.fr/"
+    }
+  },
+  {
+    "id": "05a38ddedb72723082acfc302ed46e89940c64bd",
+    "name": "archives_departementales_haute_marne",
+    "title": "Archives départementales - Haute-Marne",
+    "url": "https://lannuaire.service-public.fr/grand-est/haute-marne/ad-52125-01",
+    "metadata": {
+      "email": "archives.departementales@haute-marne.fr",
+      "telephone": "03 25 03 33 54",
+      "url": "http://haute-marne.fr/culture/archives-departementales/"
+    }
+  },
+  {
+    "id": "624407571045a1effed1a9bce831a9b9cf75192a",
+    "name": "archives_departementales_hautes_alpes",
+    "title": "Archives départementales - Hautes-Alpes",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/hautes-alpes/ad-05061-01",
+    "metadata": {
+      "email": "archives05@hautes-alpes.fr",
+      "telephone": "04 92 52 56 00",
+      "url": "https://www.archives05.fr/"
+    }
+  },
+  {
+    "id": "6cb13a97e55de9ef1fc76693ce9c310bca75eea6",
+    "name": "archives_departementales_haute_saone",
+    "title": "Archives départementales - Haute-Saône",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/haute-saone/ad-70550-01",
+    "metadata": {
+      "email": "archives@haute-saone.fr",
+      "telephone": "03 84 95 76 30",
+      "url": "http://archives.haute-saone.fr/"
+    }
+  },
+  {
+    "id": "8ee8d3989c8bb774f96a0b18c16a0243f5acdf70",
+    "name": "archives_departementales_haute_savoie",
+    "title": "Archives départementales - Haute-Savoie",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/haute-savoie/ad-74010-01",
+    "metadata": {
+      "email": "archedep@hautesavoie.fr",
+      "telephone": "04 50 33 20 80",
+      "url": "http://www.archives.hautesavoie.fr/"
+    }
+  },
+  {
+    "id": "c0014a92d545dd234859157a03300a9d0a77e143",
+    "name": "archives_departementales_hautes_pyrenees",
+    "title": "Archives départementales - Hautes-Pyrénées",
+    "url": "https://lannuaire.service-public.fr/occitanie/hautes-pyrenees/ad-65440-01",
+    "metadata": {
+      "email": "archives@ha-py.fr",
+      "telephone": "05 62 56 76 19",
+      "url": "http://www.archivesenligne65.fr/"
+    }
+  },
+  {
+    "id": "0ca62bc217f404b2d315bbfb14fd1f71ba0dc638",
+    "name": "archives_departementales_haute_vienne",
+    "title": "Archives départementales - Haute-Vienne",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/haute-vienne/ad-87085-01",
+    "metadata": {
+      "email": "contact.archives@haute-vienne.fr",
+      "telephone": "05 55 50 97 60",
+      "url": "http://archives.haute-vienne.fr/"
+    }
+  },
+  {
+    "id": "1c9f38df7f3835ca47e0d432f5ff28deb7b50224",
+    "name": "archives_departementales_haut_rhin",
+    "title": "Archives départementales - Haut-Rhin",
+    "url": "https://lannuaire.service-public.fr/grand-est/haut-rhin/ad-68066-01",
+    "metadata": {
+      "email": "archives@haut-rhin.fr",
+      "telephone": "03 89 21 97 00",
+      "url": "http://www.archives.haut-rhin.fr/"
+    }
+  },
+  {
+    "id": "8cb5bec2b552c73db75f3ec360b061224be95de2",
+    "name": "archives_departementales_hauts_de_seine",
+    "title": "Archives départementales - Hauts-de-Seine",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/hauts-de-seine/ad-92050-01",
+    "metadata": {
+      "email": "archivesdepartementales@hauts-de-seine.fr",
+      "telephone": "01 41 37 11 02",
+      "url": "http://archives.hauts-de-seine.fr/accueil/"
+    }
+  },
+  {
+    "id": "8dfe761d3543886827bc1850ca7acf03e8eea7d2",
+    "name": "archives_departementales_herault",
+    "title": "Archives départementales - Hérault",
+    "url": "https://lannuaire.service-public.fr/occitanie/herault/ad-34172-01",
+    "metadata": {
+      "email": "archives@herault.fr",
+      "telephone": "04 67 67 37 00",
+      "url": "http://pierresvives.herault.fr/entites/archives-departementales"
+    }
+  },
+  {
+    "id": "a7fb0fcab85621d1c5a4b7e78879f2a708b6384d",
+    "name": "archives_departementales_ille_et_vilaine",
+    "title": "Archives départementales - Ille-et-Vilaine",
+    "url": "https://lannuaire.service-public.fr/bretagne/ille-et-vilaine/ad-35238-01",
+    "metadata": {
+      "email": "archives@ille-et-vilaine.fr",
+      "telephone": "02 99 02 40 00",
+      "url": "http://archives.ille-et-vilaine.fr/fr"
+    }
+  },
+  {
+    "id": "3e88f26bd870284b5375e41d17d73b481572c389",
+    "name": "archives_departementales_indre",
+    "title": "Archives départementales - Indre",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/indre/ad-36044-01",
+    "metadata": {
+      "email": "archives.indre@indre.fr",
+      "telephone": "02 54 27 30 42",
+      "url": "http://www.indre.fr/archives"
+    }
+  },
+  {
+    "id": "a4b79cc729c1f5b2df7c2730f2038c19a148f461",
+    "name": "archives_departementales_indre_et_loire",
+    "title": "Archives départementales - Indre-et-Loire",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/indre-et-loire/ad-37261-01",
+    "metadata": {
+      "email": "archives@departement-touraine.fr",
+      "telephone": "02 47 60 88 88",
+      "url": "http://archives.cg37.fr/"
+    }
+  },
+  {
+    "id": "1a74a50baaf1a562de485d11f67a47f578362f3f",
+    "name": "archives_departementales_isere",
+    "title": "Archives départementales - Isère",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/isere/ad-38185-01",
+    "metadata": {
+      "email": "archives-departementales@isere.fr",
+      "telephone": "04 76 54 37 81",
+      "url": "http://www.archives-isere.fr/"
+    }
+  },
+  {
+    "id": "760e94a84e440cfb06c0667a1f25ed8c6faeabdc",
+    "name": "archives_departementales_jura",
+    "title": "Archives départementales - Jura",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/jura/ad-39362-01",
+    "metadata": {
+      "email": "archives-jura@jura.fr",
+      "telephone": "03 84 47 41 28",
+      "url": "http://www.archives39.fr/"
+    }
+  },
+  {
+    "id": "de26e007944dd618546b0a42ac5f228f30248fd5",
+    "name": "archives_departementales_landes",
+    "title": "Archives départementales - Landes",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/landes/ad-40192-01",
+    "metadata": {
+      "email": "archives@landes.fr",
+      "telephone": "05 58 85 75 20",
+      "url": "http://www.archives.landes.org"
+    }
+  },
+  {
+    "id": "a875903742add43f9558ba9dc32a9d51c40cb5a9",
+    "name": "archives_departementales_la_reunion",
+    "title": "Archives départementales - La Réunion",
+    "url": "https://lannuaire.service-public.fr/la-reunion/reunion/ad-30247-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 62 94 04 14",
+      "url": "http://www.cg974.fr/culture/archives-departementales"
+    }
+  },
+  {
+    "id": "f88c2b2c509a0532243523a08add754b542dd119",
+    "name": "archives_departementales_loire",
+    "title": "Archives départementales - Loire",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/loire/ad-42218-01",
+    "metadata": {
+      "email": "archives@loire.fr",
+      "telephone": "04 77 93 58 78",
+      "url": "http://www.loire-archives.fr"
+    }
+  },
+  {
+    "id": "f86ed958579ff54964f996403fe41826a048a728",
+    "name": "archives_departementales_loire_atlantique",
+    "title": "Archives départementales - Loire-Atlantique",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/loire-atlantique/ad-44109-01",
+    "metadata": {
+      "email": "archives@loire-atlantique.fr",
+      "telephone": "02 51 72 93 20",
+      "url": "http://archives.loire-atlantique.fr"
+    }
+  },
+  {
+    "id": "bafd371d7242e07ccefe0f78f9ee8da79baac961",
+    "name": "archives_departementales_loiret",
+    "title": "Archives départementales - Loiret",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/loiret/ad-45234-01",
+    "metadata": {
+      "email": "dad@loiret.fr",
+      "telephone": "02 36 99 25 00",
+      "url": "http://www.archives-loiret.fr"
+    }
+  },
+  {
+    "id": "f4b70948a6997ae40395094d520674727bc0c280",
+    "name": "archives_departementales_loir_et_cher",
+    "title": "Archives départementales - Loir-et-Cher",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/loir-et-cher/ad-41018-01",
+    "metadata": {
+      "email": "sec.archives@cg41.fr",
+      "telephone": "02 54 58 41 24",
+      "url": "http://www.culture41.fr/Archives-departementales"
+    }
+  },
+  {
+    "id": "e473d17edc030b30dc2cfe232de42341426fa8ee",
+    "name": "archives_departementales_lot",
+    "title": "Archives départementales - Lot",
+    "url": "https://lannuaire.service-public.fr/occitanie/lot/ad-46042-01",
+    "metadata": {
+      "email": "archives@lot.fr",
+      "telephone": "05 65 53 49 00",
+      "url": "http://archives.lot.fr"
+    }
+  },
+  {
+    "id": "7c6ff5a08d2b6abf71204b49a503c77bf9f3019e",
+    "name": "archives_departementales_lot_et_garonne",
+    "title": "Archives départementales - Lot-et-Garonne",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/lot-et-garonne/ad-47001-01",
+    "metadata": {
+      "email": "archives@lotetgaronne.fr",
+      "telephone": "05 53 69 42 67",
+      "url": "http://www.cg47.org/archives/accueil.htm"
+    }
+  },
+  {
+    "id": "05f94fb05fd95cf6df1d28720de9c66ee4b78775",
+    "name": "archives_departementales_lozere",
+    "title": "Archives départementales - Lozère",
+    "url": "https://lannuaire.service-public.fr/occitanie/lozere/ad-48095-01",
+    "metadata": {
+      "email": "archives@lozere.fr",
+      "telephone": "04 66 65 22 88",
+      "url": "http://archives.lozere.fr"
+    }
+  },
+  {
+    "id": "6042b3ef309c634532e633778aa511aec920e8c6",
+    "name": "archives_departementales_maine_et_loire",
+    "title": "Archives départementales - Maine-et-Loire",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/maine-et-loire/ad-49007-01",
+    "metadata": {
+      "email": "archives49@maine-et-loire.fr",
+      "telephone": "02 41 80 80 00",
+      "url": "http://www.archives49.fr"
+    }
+  },
+  {
+    "id": "9348d1823a93d144c5da617b32876ec12dc9d868",
+    "name": "archives_departementales_manche",
+    "title": "Archives départementales - Manche",
+    "url": "https://lannuaire.service-public.fr/normandie/manche/ad-50502-01",
+    "metadata": {
+      "email": "dclic@manche.fr",
+      "telephone": "02 33 75 10 10",
+      "url": "http://archives.manche.fr/"
+    }
+  },
+  {
+    "id": "676031c628481fb3dd7d363f7d22ffbe34ee0831",
+    "name": "archives_departementales_marne",
+    "title": "Archives départementales - Marne",
+    "url": "https://lannuaire.service-public.fr/grand-est/marne/ad-51108-01",
+    "metadata": {
+      "email": "archives51@marne.fr",
+      "telephone": "03 26 68 06 69",
+      "url": "http://archives.marne.fr/"
+    }
+  },
+  {
+    "id": "5bc58daeb76d00aefb52cded3b47adf955eaaeb1",
+    "name": "archives_departementales_martinique",
+    "title": "Archives départementales - Martinique",
+    "url": "https://lannuaire.service-public.fr/martinique/martinique/ad-97209-01",
+    "metadata": {
+      "email": "courrier@ctm.mq",
+      "telephone": "0596 55 43 43",
+      "url": "http://www.collectivitedemartinique.mq/les-archives/"
+    }
+  },
+  {
+    "id": "63da72d59959bec3784b953f8cef974c82b3debc",
+    "name": "archives_departementales_mayenne",
+    "title": "Archives départementales - Mayenne",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/mayenne/ad-38206-01",
+    "metadata": {
+      "email": "archives@lamayenne.fr",
+      "telephone": "02 43 59 10 90",
+      "url": "http://archives.lamayenne.fr"
+    }
+  },
+  {
+    "id": "9488205efc2e61f2b5f550204211f8cec98cd6b4",
+    "name": "archives_departementales_mayotte",
+    "title": "Archives départementales - Mayotte",
+    "url": "https://lannuaire.service-public.fr/mayotte/mayotte/ad-97611-01",
+    "metadata": {
+      "email": "archives.mayotte@cg976.fr",
+      "telephone": "+269 2 69 64 97 97",
+      "url": "http://www.cg976.fr/votre-departement/linstitution/les-services-administratifs/pssp/dadds"
+    }
+  },
+  {
+    "id": "ba465d83574bcc33ee3b5961222bc003136d97e3",
+    "name": "archives_departementales_meurthe_et_moselle",
+    "title": "Archives départementales - Meurthe-et-Moselle",
+    "url": "https://lannuaire.service-public.fr/grand-est/meurthe-et-moselle/ad-54395-01",
+    "metadata": {
+      "email": "archives54@departement54.fr",
+      "telephone": "03 83 30 90 90",
+      "url": "http://www.archives.meurthe-et-moselle.fr"
+    }
+  },
+  {
+    "id": "af194529f737bddafe1818ed717417cf2c0ae387",
+    "name": "archives_departementales_meuse",
+    "title": "Archives départementales - Meuse",
+    "url": "https://lannuaire.service-public.fr/grand-est/meuse/ad-55029-01",
+    "metadata": {
+      "email": "archives@meuse.fr",
+      "telephone": "03 29 79 01 89",
+      "url": "http://archives.meuse.fr"
+    }
+  },
+  {
+    "id": "3c1755b5469c5764f85afc34ea9e5ded715fd50e",
+    "name": "archives_departementales_morbihan",
+    "title": "Archives départementales - Morbihan",
+    "url": "https://lannuaire.service-public.fr/bretagne/morbihan/ad-56260-01",
+    "metadata": {
+      "email": "archives@morbihan.fr",
+      "telephone": "02 97 46 32 52",
+      "url": "http://www.archives.morbihan.fr"
+    }
+  },
+  {
+    "id": "f0b0ad0c750155f3ddb8a24370bf7edb59634b22",
+    "name": "archives_departementales_moselle",
+    "title": "Archives départementales - Moselle",
+    "url": "https://lannuaire.service-public.fr/grand-est/moselle/ad-57463-01",
+    "metadata": {
+      "email": "archives@moselle.fr",
+      "telephone": "03 87 78 05 00",
+      "url": "http://www.archives57.com/"
+    }
+  },
+  {
+    "id": "0e4cbad1496a1e3c789a6a96708d22c28e28adc3",
+    "name": "archives_departementales_nievre",
+    "title": "Archives départementales - Nièvre",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/nievre/ad-58194-01",
+    "metadata": {
+      "email": "archives@nievre.fr",
+      "telephone": "03 86 60 68 30",
+      "url": "http://archives.cg58.fr/"
+    }
+  },
+  {
+    "id": "38294471dc596cd80119e380db369773d562ac8d",
+    "name": "archives_departementales_nord",
+    "title": "Archives départementales - Nord",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/nord/ad-59350-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 59 73 06 00",
+      "url": "https://archivesdepartementales.lenord.fr/?id=etat_civil"
+    }
+  },
+  {
+    "id": "8908cac36ce0f4f1cfbd3d8d7604bfa5521aeba9",
+    "name": "archives_departementales_oise",
+    "title": "Archives départementales - Oise",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/oise/ad-60057-01",
+    "metadata": {
+      "email": "archives@oise.fr",
+      "telephone": "03 44 10 42 00",
+      "url": "http://archives.oise.fr/"
+    }
+  },
+  {
+    "id": "dc1b4ee94b3c3ec8e936c11d5576d71159a66101",
+    "name": "archives_departementales_orne",
+    "title": "Archives départementales - Orne",
+    "url": "https://lannuaire.service-public.fr/normandie/orne/ad-61001-01",
+    "metadata": {
+      "email": "archives@orne.fr",
+      "telephone": "02 33 81 23 00",
+      "url": "http://archives.orne.fr/index.php"
+    }
+  },
+  {
+    "id": "3f1d78fe863d6805dbdbc060986cb47d791493d1",
+    "name": "archives_departementales_paris",
+    "title": "Archives départementales - Paris",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/paris/ad-75119-01",
+    "metadata": {
+      "email": "",
+      "telephone": "01 53 72 41 23",
+      "url": "http://archives.paris.fr"
+    }
+  },
+  {
+    "id": "6e026a958e621690d0e620adac79bb8323f60388",
+    "name": "archives_departementales_pas_de_calais",
+    "title": "Archives départementales - Pas-de-Calais",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/pas-de-calais/ad-62041-01",
+    "metadata": {
+      "email": "archives62@pasdecalais.fr",
+      "telephone": "03 21 71 10 90",
+      "url": "http://www.archivespasdecalais.fr/"
+    }
+  },
+  {
+    "id": "9c72b97980f3ab60cb703bcb047c6b81ab974ed1",
+    "name": "archives_departementales_puy_de_dome",
+    "title": "Archives départementales - Puy-de-Dôme",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/puy-de-dome/ad-63113-01",
+    "metadata": {
+      "email": "archives@puy-de-dome.fr",
+      "telephone": "04 73 23 45 80",
+      "url": "http://www.archivesdepartementales.puydedome.fr/"
+    }
+  },
+  {
+    "id": "61306b5c1e1beb3ecb3a0be2f4ec2cbebeaa3fd4",
+    "name": "archives_departementales_pyrenees_atlantiques",
+    "title": "Archives départementales - Pyrénées-Atlantiques",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/pyrenees-atlantiques/ad-64445-01",
+    "metadata": {
+      "email": "archives@le64.fr",
+      "telephone": "05 59 84 97 60",
+      "url": "http://archives.le64.fr"
+    }
+  },
+  {
+    "id": "e45c557083ecea97b48a8b0d61ed6e41bdfad33e",
+    "name": "archives_departementales_pyrenees_orientales",
+    "title": "Archives départementales - Pyrénées-Orientales",
+    "url": "https://lannuaire.service-public.fr/occitanie/pyrenees-orientales/ad-66136-01",
+    "metadata": {
+      "email": "archives@cd66.fr",
+      "telephone": "04 68 85 84 00",
+      "url": "http://www.cg66.fr/55-les-archives-departementales.htm"
+    }
+  },
+  {
+    "id": "c1cc6bc7aede2e0d80d6e49e0b609eac9d5f6457",
+    "name": "archives_departementales_rhone",
+    "title": "Archives départementales - Rhône",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/rhone/ad-69383-01",
+    "metadata": {
+      "email": "archives@rhone.fr",
+      "telephone": "04 72 35 35 00",
+      "url": "http://archives.rhone.fr/"
+    }
+  },
+  {
+    "id": "9c29fed09a850ae0117a752bb257b3c83861c685",
+    "name": "archives_departementales_saone_et_loire",
+    "title": "Archives départementales - Saône-et-Loire",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/saone-et-loire/ad-71270-01",
+    "metadata": {
+      "email": "contact@cg71.fr",
+      "telephone": "03 85 21 00 76",
+      "url": "https://www.archives71.fr"
+    }
+  },
+  {
+    "id": "73d2f1778dd978a9e29d4f95f3c2933086a359a5",
+    "name": "archives_departementales_sarthe",
+    "title": "Archives départementales - Sarthe",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/sarthe/ad-72181-01",
+    "metadata": {
+      "email": "contact@sarthe.fr",
+      "telephone": "02 43 54 74 74",
+      "url": "http://www.archives.sarthe.com"
+    }
+  },
+  {
+    "id": "8cd9deac4f0b555a19ec855a7afc456d9a61c07e",
+    "name": "archives_departementales_savoie",
+    "title": "Archives départementales - Savoie",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/savoie/ad-73065-01",
+    "metadata": {
+      "email": "ad@savoie.fr",
+      "telephone": "04 79 70 87 70",
+      "url": "http://www.savoie-archives.fr"
+    }
+  },
+  {
+    "id": "013bcbb8f3b84881c372a04033e9a347226bfff0",
+    "name": "archives_departementales_seine_et_marne",
+    "title": "Archives départementales - Seine-et-Marne",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/seine-et-marne/ad-77152-01",
+    "metadata": {
+      "email": "dad@cg77.fr",
+      "telephone": "01 64 87 37 00",
+      "url": "http://archives.seine-et-marne.fr"
+    }
+  },
+  {
+    "id": "83e7dde4488b86f928530417ba7cc6bde58ef821",
+    "name": "archives_departementales_seine_maritime",
+    "title": "Archives départementales - Seine-Maritime",
+    "url": "https://lannuaire.service-public.fr/normandie/seine-maritime/ad-76540-01",
+    "metadata": {
+      "email": "archives@seinemaritime.fr",
+      "telephone": "02 35 03 54 95",
+      "url": "http://www.archivesdepartementales76.net"
+    }
+  },
+  {
+    "id": "ad5b1304b67639981d67fa967c8b2cace00a0883",
+    "name": "archives_departementales_seine_saint_denis",
+    "title": "Archives départementales - Seine-Saint-Denis",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/seine-saint-denis/ad-93008-01",
+    "metadata": {
+      "email": "dsa@seinesaintdenis.fr",
+      "telephone": "01 43 93 97 00",
+      "url": "http://archives.seine-saint-denis.fr"
+    }
+  },
+  {
+    "id": "73959687fe34915af90b738f9571c928c9399ddc",
+    "name": "archives_departementales_somme",
+    "title": "Archives départementales - Somme",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/somme/ad-80021-01",
+    "metadata": {
+      "email": "archives@somme.fr",
+      "telephone": "03 60 03 49 50",
+      "url": "http://archives.somme.fr"
+    }
+  },
+  {
+    "id": "ddb3d0e5918df8ff86ff2bb02406c07ef31eda4e",
+    "name": "archives_departementales_tarn",
+    "title": "Archives départementales - Tarn",
+    "url": "https://lannuaire.service-public.fr/occitanie/tarn/ad-81004-01",
+    "metadata": {
+      "email": "archives.tarn@tarn.fr",
+      "telephone": "05 63 36 21 00",
+      "url": "http://archives.tarn.fr"
+    }
+  },
+  {
+    "id": "3b693fb5fcbfe55a9c4e2dce817e80751f414c59",
+    "name": "archives_departementales_tarn_et_garonne",
+    "title": "Archives départementales - Tarn-et-Garonne",
+    "url": "https://lannuaire.service-public.fr/occitanie/tarn-et-garonne/ad-82121-01",
+    "metadata": {
+      "email": "archives@ledepartement82.fr",
+      "telephone": "05 63 03 46 18",
+      "url": "http://www.archives82.fr/"
+    }
+  },
+  {
+    "id": "02968d2bcd41ad23998a30086070305d4d11f599",
+    "name": "archives_departementales_territoire_de_belfort",
+    "title": "Archives départementales - Territoire de Belfort",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/territoire-de-belfort/ad-90010-01",
+    "metadata": {
+      "email": "archives@territoiredebelfort.fr",
+      "telephone": "03 84 90 92 00",
+      "url": "http://www.archives.territoiredebelfort.fr"
+    }
+  },
+  {
+    "id": "edd1019d039f95d0c68d8f5d34b37c5bd9c3e547",
+    "name": "archives_departementales_val_d_oise",
+    "title": "Archives départementales - Val-d'Oise",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/val-d-oise/ad-95127-01",
+    "metadata": {
+      "email": "archives.public@valdoise.fr",
+      "telephone": "01 34 25 36 75",
+      "url": "http://archives.valdoise.fr"
+    }
+  },
+  {
+    "id": "1f709dfb21f4ded161e6f655de151eef8b302cef",
+    "name": "archives_departementales_val_de_marne",
+    "title": "Archives départementales - Val-de-Marne",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/val-de-marne/ad-94028-01",
+    "metadata": {
+      "email": "archives@valdemarne.fr",
+      "telephone": "01 45 13 80 50",
+      "url": "http://archives.valdemarne.fr"
+    }
+  },
+  {
+    "id": "00ab039c945f149aae9db2c044aa1985bba3076d",
+    "name": "archives_departementales_var",
+    "title": "Archives départementales - Var",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/var/ad-83050-01",
+    "metadata": {
+      "email": "ad83@var.fr",
+      "telephone": "04 83 95 83 83",
+      "url": "http://www.archives.var.fr"
+    }
+  },
+  {
+    "id": "b5bc1acc6b688b2a2e0996e20149b4974ae58357",
+    "name": "archives_departementales_vaucluse",
+    "title": "Archives départementales - Vaucluse",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/vaucluse/ad-84007-01",
+    "metadata": {
+      "email": "archives84@vaucluse.fr",
+      "telephone": "04 90 86 16 18",
+      "url": "http://archives.vaucluse.fr"
+    }
+  },
+  {
+    "id": "788022af77391a7387e1849f286e6502458e2592",
+    "name": "archives_departementales_vendee",
+    "title": "Archives départementales - Vendée",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/vendee/ad-85191-01",
+    "metadata": {
+      "email": "archives@vendee.fr",
+      "telephone": "02 51 37 71 33",
+      "url": "http://archives.vendee.fr"
+    }
+  },
+  {
+    "id": "b97590d2cd5f3ea2f9c6cb4d5c12f62e9fb636d1",
+    "name": "archives_departementales_vienne",
+    "title": "Archives départementales - Vienne",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/vienne/ad-86194-01",
+    "metadata": {
+      "email": "archives@departement86.fr",
+      "telephone": "05 49 03 04 05",
+      "url": "http://www.archives.departement86.fr"
+    }
+  },
+  {
+    "id": "211d60fa7bc4fca1bc260a79efe059f4f57dd7ca",
+    "name": "archives_departementales_vosges",
+    "title": "Archives départementales - Vosges",
+    "url": "https://lannuaire.service-public.fr/grand-est/vosges/ad-88160-01",
+    "metadata": {
+      "email": "vosges-archives@vosges.fr",
+      "telephone": "03 29 81 80 70",
+      "url": "http://www.vosges-archives.com"
+    }
+  },
+  {
+    "id": "6ad422e918024f1d4e716ab9d681d6534746e2c8",
+    "name": "archives_departementales_yonne",
+    "title": "Archives départementales - Yonne",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/yonne/ad-89024-01",
+    "metadata": {
+      "email": "archives@cg89.fr",
+      "telephone": "03 86 94 89 00",
+      "url": "http://www.yonne-archives.fr"
+    }
+  },
+  {
+    "id": "db35f357a8b71ef3e2d1db6b07b14874d0510428",
+    "name": "archives_departementales_yvelines",
+    "title": "Archives départementales - Yvelines",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/yvelines/ad-78423-01",
+    "metadata": {
+      "email": "archives@yvelines.fr",
+      "telephone": "01 61 37 36 30",
+      "url": "http://www.archives.yvelines.fr"
+    }
+  },
+  {
+    "id": "b7db8d9eb1b9f3f7f436b4c674b37608d57864e0",
+    "name": "archives_nouvelle_caledonie",
+    "title": "Archives - Nouvelle-Calédonie",
+    "url": "https://lannuaire.service-public.fr/collectivites-d-outre-mer/nouvelle-caledonie/ad-98818-01",
+    "metadata": {
+      "email": "archives@gouv.nc",
+      "telephone": "687 26 60 20",
+      "url": "https://archives.gouv.nc/"
+    }
+  }
+]

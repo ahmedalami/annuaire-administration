@@ -1,0 +1,1189 @@
+[
+  {
+    "id": "0e66062fda149310e6001fc07dff2435c1361ead",
+    "alternateName": "BSPP",
+    "name": "brigade_des_sapeurs_pompiers_de_paris_bspp_pour_les_departements_75_92_93_94",
+    "title": "Brigade des sapeurs-pompiers de Paris (BSPP) - pour les départements 75, 92, 93, 94",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/paris/sdis-75056-01",
+    "metadata": {
+      "email": "",
+      "telephone": "01 47 54 68 18Urgence : 18 ou 112",
+      "url": "http://www.pompiersparis.fr/fr/"
+    }
+  },
+  {
+    "id": "2a8ea79c1cdad46e2326baa9c42233e1e9d813aa",
+    "name": "direction_de_la_protection_civile_polynesie_francaise",
+    "title": "Direction de la protection civile - Polynésie française",
+    "url": "https://lannuaire.service-public.fr/collectivites-d-outre-mer/polynesie-francaise/sdis-98735-01",
+    "metadata": {
+      "email": "",
+      "telephone": "Urgences : 18+289 40 46 85 17",
+      "url": "https://www.pompiercenter.com/annuaire-sdis/sdis-987.htm"
+    }
+  },
+  {
+    "id": "63c7aeba68d73447b9e1d2f2dee1381417a089dc",
+    "alternateName": "SDIS",
+    "name": "service_departemental_dincendie_et_de_secours_sdis_ain",
+    "title": "Service départemental d'incendie et de secours (SDIS) - Ain",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/ain/sdis-01053-01",
+    "metadata": {
+      "email": "direction.em@sdis01.fr",
+      "telephone": "04 37 62 15 00",
+      "url": "https://www.sdis01.fr/"
+    }
+  },
+  {
+    "id": "e2ff15f3142aa2664ed247ca3af65e54f4c7e942",
+    "alternateName": "SDIS",
+    "name": "service_departemental_dincendie_et_de_secours_sdis_aisne",
+    "title": "Service départemental d'incendie et de secours (SDIS) - Aisne",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/aisne/sdis-02408-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 64 16 10 00",
+      "url": "http://www.sdis02.fr/SDIS_02_WEB/FR/"
+    }
+  },
+  {
+    "id": "24658f6174ce1f01ecdba1c9f5340c183d0c8cde",
+    "alternateName": "SDIS",
+    "name": "service_departemental_dincendie_et_de_secours_sdis_allier",
+    "title": "Service départemental d'incendie et de secours (SDIS) - Allier",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/allier/sdis-03321-01",
+    "metadata": {
+      "email": "secretariat.direction@sdis03.fr",
+      "telephone": "04 70 35 80 00Urgences : 18",
+      "url": "http://www.sdis03.fr/"
+    }
+  },
+  {
+    "id": "78bec4cfaa0a95c5d166c30e3f487fd07d1d771d",
+    "alternateName": "SDIS",
+    "name": "service_departemental_dincendie_et_de_secours_sdis_alpes_de_haute_provence",
+    "title": "Service départemental d'incendie et de secours (SDIS) - Alpes-de-Haute-Provence",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/alpes-de-haute-provence/sdis-04070-01",
+    "metadata": {
+      "email": "",
+      "telephone": "Urgences : 1804 92 30 89 00",
+      "url": "https://www.sdis04.fr"
+    }
+  },
+  {
+    "id": "67324e43c7bc6da0ec64fc85c1ac1030e68b067f",
+    "alternateName": "SDIS",
+    "name": "service_departemental_dincendie_et_de_secours_sdis_alpes_maritimes",
+    "title": "Service départemental d'incendie et de secours (SDIS) - Alpes-Maritimes",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/alpes-maritimes/sdis-06161-01",
+    "metadata": {
+      "email": "",
+      "telephone": "Urgences : 1804 93 22 76 00",
+      "url": "https://www.sdis06.fr/"
+    }
+  },
+  {
+    "id": "4edc2876caedd7930e1254e8e294f3a9d727da17",
+    "alternateName": "SDIS",
+    "name": "service_departemental_dincendie_et_de_secours_sdis_ardeche",
+    "title": "Service départemental d'incendie et de secours (SDIS) - Ardèche",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/ardeche/sdis-07186-01",
+    "metadata": {
+      "email": "direction@sdis07.fr",
+      "telephone": "04 75 66 36 00Urgences : 18",
+      "url": "https://www.sdis07.fr"
+    }
+  },
+  {
+    "id": "22e974749357457f8661113e6cea34821367618f",
+    "alternateName": "SDIS",
+    "name": "service_departemental_dincendie_et_de_secours_sdis_ardennes",
+    "title": "Service départemental d'incendie et de secours (SDIS) - Ardennes",
+    "url": "https://lannuaire.service-public.fr/grand-est/ardennes/sdis-08346-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 24 32 46 00Urgences : 18",
+      "url": "https://www.sdis08.com"
+    }
+  },
+  {
+    "id": "df7af70ab69f47f1da85427ae4492bd6af14e14f",
+    "alternateName": "SDIS",
+    "name": "service_departemental_dincendie_et_de_secours_sdis_ariege",
+    "title": "Service départemental d'incendie et de secours (SDIS) - Ariège",
+    "url": "https://lannuaire.service-public.fr/occitanie/ariege/sdis-09122-01",
+    "metadata": {
+      "email": "secretariat.direction@sdis09.fr",
+      "telephone": "Urgences : 1805 61 05 48 00",
+      "url": "https://sdis09.com"
+    }
+  },
+  {
+    "id": "34db33a4a0ce9e10d956b48f28f41fedfbd49f83",
+    "alternateName": "SDIS",
+    "name": "service_departemental_dincendie_et_de_secours_sdis_aube",
+    "title": "Service départemental d'incendie et de secours (SDIS) - Aube",
+    "url": "https://lannuaire.service-public.fr/grand-est/aube/sdis-10387-01",
+    "metadata": {
+      "email": "sdis-aube@sdis10.fr",
+      "telephone": "Urgences : 1803 25 43 58 00",
+      "url": "http://www.sdis10.com"
+    }
+  },
+  {
+    "id": "9903126590639f721a416da1a471ddcc3e9e0b2d",
+    "alternateName": "SDIS",
+    "name": "service_departemental_dincendie_et_de_secours_sdis_aude",
+    "title": "Service départemental d'incendie et de secours (SDIS) - Aude",
+    "url": "https://lannuaire.service-public.fr/occitanie/aude/sdis-11069-01",
+    "metadata": {
+      "email": "secretariat.dda@sdis11.fr",
+      "telephone": "Urgences : 1804 68 79 59 00",
+      "url": "https://sdis11.fr"
+    }
+  },
+  {
+    "id": "2eefd1597692b55cf373d7e45f81eee4e8a900cd",
+    "alternateName": "SDIS",
+    "name": "service_departemental_dincendie_et_de_secours_sdis_aveyron",
+    "title": "Service départemental d'incendie et de secours (SDIS) - Aveyron",
+    "url": "https://lannuaire.service-public.fr/occitanie/aveyron/sdis-12202-01",
+    "metadata": {
+      "email": "secretariat.dda@sdis11.fr",
+      "telephone": "Urgences : 1805 65 77 12 15",
+      "url": "https://www.sdis12.fr"
+    }
+  },
+  {
+    "id": "e08eec1cd42c243605faaba2eb6ed4e98fac021f",
+    "alternateName": "SDIS",
+    "name": "service_departemental_dincendie_et_de_secours_sdis_bas_rhin",
+    "title": "Service départemental d'incendie et de secours (SDIS) - Bas-Rhin",
+    "url": "https://lannuaire.service-public.fr/grand-est/bas-rhin/sdis-67482-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 88 20 70 00Urgences : 18",
+      "url": "https://www.sdis67.com"
+    }
+  },
+  {
+    "id": "7769536f6db3779c91c77ad34b2aae09e89732ab",
+    "alternateName": "SDIS",
+    "name": "service_departemental_dincendie_et_de_secours_sdis_bouches_du_rhone",
+    "title": "Service départemental d'incendie et de secours (SDIS) - Bouches-du-Rhône",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/bouches-du-rhone/sdis-13215-01",
+    "metadata": {
+      "email": "sdis13-secdir@sdis13.fr",
+      "telephone": "Urgences : 1804 91 28 47 47",
+      "url": "http://www.sdis13.fr"
+    }
+  },
+  {
+    "id": "a084878e2b02a6e38d944efcd71b0dafcc8e0523",
+    "alternateName": "SDIS",
+    "name": "service_departemental_dincendie_et_de_secours_sdis_calvados",
+    "title": "Service départemental d'incendie et de secours (SDIS) - Calvados",
+    "url": "https://lannuaire.service-public.fr/normandie/calvados/sdis-14118-01",
+    "metadata": {
+      "email": "direction@sdis14.fr",
+      "telephone": "Urgences : 1802 31 43 40 00",
+      "url": "https://www.sdis14.fr"
+    }
+  },
+  {
+    "id": "6c324e0f632d1234994c14ed0cc35ebf185d7286",
+    "alternateName": "SDIS",
+    "name": "service_departemental_dincendie_et_de_secours_sdis_cantal",
+    "title": "Service départemental d'incendie et de secours (SDIS) - Cantal",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/cantal/sdis-15014-01",
+    "metadata": {
+      "email": "sdis15@sdis15.fr",
+      "telephone": "Urgences : 1804 71 46 82 60",
+      "url": ""
+    }
+  },
+  {
+    "id": "8b4a3070cb2d88fcf3df61dac800550d6d03a8eb",
+    "alternateName": "SDIS",
+    "name": "service_departemental_dincendie_et_de_secours_sdis_charente",
+    "title": "Service départemental d'incendie et de secours (SDIS) - Charente",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/charente/sdis-16166-01",
+    "metadata": {
+      "email": "sdis16@sdis.fr",
+      "telephone": "Urgences : 1805 45 39 35 00",
+      "url": "http://www.pompiers-charente.org"
+    }
+  },
+  {
+    "id": "d2c23a27eefd8f50e97e692be0b49d040d1ea95f",
+    "alternateName": "SDIS",
+    "name": "service_departemental_dincendie_et_de_secours_sdis_charente_maritime",
+    "title": "Service départemental d'incendie et de secours (SDIS) - Charente-Maritime",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/charente-maritime/sdis-17274-01",
+    "metadata": {
+      "email": "secretariat-direction@sdis17.fr",
+      "telephone": "05 46 00 59 09Urgences : 18",
+      "url": "http://www.sdis17.fr"
+    }
+  },
+  {
+    "id": "f69dfa0025f965a84b25ffb64fd2685a33a490a0",
+    "alternateName": "SDIS",
+    "name": "service_departemental_dincendie_et_de_secours_sdis_cher",
+    "title": "Service départemental d'incendie et de secours (SDIS) - Cher",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/cher/sdis-18033-01",
+    "metadata": {
+      "email": "ddsis@sdis18.fr",
+      "telephone": "Urgences : 1802 48 23 47 00",
+      "url": "https://www.sdis18.fr"
+    }
+  },
+  {
+    "id": "aadc10555a342a373369cafe04f701b5eab071de",
+    "alternateName": "SDIS",
+    "name": "service_departemental_dincendie_et_de_secours_sdis_correze",
+    "title": "Service départemental d'incendie et de secours (SDIS) - Corrèze",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/correze/sdis-19272-01",
+    "metadata": {
+      "email": "sapeurs-pompiers@sdis19.fr",
+      "telephone": "Urgences : 1805 55 29 64 00",
+      "url": "https://www.sdis-19.com"
+    }
+  },
+  {
+    "id": "8aa8b1a40095c118193212a27cb9fb489de0435f",
+    "alternateName": "SDIS",
+    "name": "service_departemental_dincendie_et_de_secours_sdis_corse_du_sud",
+    "title": "Service départemental d'incendie et de secours (SDIS) - Corse-du-Sud",
+    "url": "https://lannuaire.service-public.fr/corse/corse-du-sud/sdis-2A004-01",
+    "metadata": {
+      "email": "contact@sis2a.corsica",
+      "telephone": "Urgences : 1804 95 10 99 00",
+      "url": "http://www.sis2a.corsica/"
+    }
+  },
+  {
+    "id": "8588b1f2be80d863143f7698adeb1353efa16d7e",
+    "alternateName": "SDIS",
+    "name": "service_departemental_dincendie_et_de_secours_sdis_cote_d_armor",
+    "title": "Service départemental d'incendie et de secours (SDIS) - Côte-d'Armor",
+    "url": "https://lannuaire.service-public.fr/bretagne/cotes-d-armor/sdis-22278-01",
+    "metadata": {
+      "email": "direction@sdis22.fr",
+      "telephone": "02 96 75 11 18Urgences : 18",
+      "url": "https://test.sdis22.fr"
+    }
+  },
+  {
+    "id": "d5a671bb8fd478fbc1e4b7f6d5164fe9b8499466",
+    "alternateName": "SDIS",
+    "name": "service_departemental_dincendie_et_de_secours_sdis_cote_d_or",
+    "title": "Service départemental d'incendie et de secours (SDIS) - Côte-d'Or",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/cote-d-or/sdis-21231-01",
+    "metadata": {
+      "email": "contact@sdis21.fr",
+      "telephone": "Urgences : 1803 80 11 26 00",
+      "url": "https://www.sdis21.org"
+    }
+  },
+  {
+    "id": "6e22a3945f2f14893babee3785f078476806974b",
+    "alternateName": "SDIS",
+    "name": "service_departemental_dincendie_et_de_secours_sdis_creuse",
+    "title": "Service départemental d'incendie et de secours (SDIS) - Creuse",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/creuse/sdis-23096-01",
+    "metadata": {
+      "email": "sdis23@sdis23.com",
+      "telephone": "Urgences : 1805 55 41 18 00",
+      "url": "http://www.sdis23.com"
+    }
+  },
+  {
+    "id": "8554f833476968a421077c7866c93f11fda7fb12",
+    "alternateName": "SDIS",
+    "name": "service_departemental_dincendie_et_de_secours_sdis_deux_sevres",
+    "title": "Service départemental d'incendie et de secours (SDIS) - Deux-Sèvres",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/deux-sevres/sdis-79081-01",
+    "metadata": {
+      "email": "ddsis79@sdis79.fr",
+      "telephone": "Urgences : 1805 49 08 18 18",
+      "url": "https://www.sdis79.fr"
+    }
+  },
+  {
+    "id": "8e8c3daa32a46db3eef01aa025c46d89f39beecc",
+    "alternateName": "SDIS",
+    "name": "service_departemental_dincendie_et_de_secours_sdis_dordogne",
+    "title": "Service départemental d'incendie et de secours (SDIS) - Dordogne",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/dordogne/sdis-24322-01",
+    "metadata": {
+      "email": "direction@sdis24.fr",
+      "telephone": "Urgences : 1805 53 35 82 80",
+      "url": "https://sdis24.com"
+    }
+  },
+  {
+    "id": "33b5a1de8590637fe76cd699f931a30d10b5307a",
+    "alternateName": "SDIS",
+    "name": "service_departemental_dincendie_et_de_secours_sdis_doubs",
+    "title": "Service départemental d'incendie et de secours (SDIS) - Doubs",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/doubs/sdis-25056-01",
+    "metadata": {
+      "email": "secdir@sdis25.fr",
+      "telephone": "Urgences : 1803 81 85 36 09",
+      "url": "http://www.sdis25.fr"
+    }
+  },
+  {
+    "id": "00bf5eacf981386d9d8202830187e0217e6cbcb0",
+    "alternateName": "SDIS",
+    "name": "service_departemental_dincendie_et_de_secours_sdis_drome",
+    "title": "Service départemental d'incendie et de secours (SDIS) - Drôme",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/drome/sdis-26362-01",
+    "metadata": {
+      "email": "secretariat.direction@sdis26.fr",
+      "telephone": "Urgences : 1804 75 82 72 00",
+      "url": "http://www.sdis26.fr/InterSDIS/Pages/Accueil.aspx"
+    }
+  },
+  {
+    "id": "059912c8846a8556bf36cc4086c5bac8c99d05fb",
+    "alternateName": "SDIS",
+    "name": "service_departemental_dincendie_et_de_secours_sdis_essonne",
+    "title": "Service départemental d'incendie et de secours (SDIS) - Essonne",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/essonne/sdis-91228-01",
+    "metadata": {
+      "email": "",
+      "telephone": "01 78 05 46 07Urgences : 18",
+      "url": ""
+    }
+  },
+  {
+    "id": "f3fa68cbd55896d10880f14eb4568ddbbda982d1",
+    "alternateName": "SDIS",
+    "name": "service_departemental_dincendie_et_de_secours_sdis_eure",
+    "title": "Service départemental d'incendie et de secours (SDIS) - Eure",
+    "url": "https://lannuaire.service-public.fr/normandie/eure/sdis-27229-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 32 22 10 00 Urgences : 18",
+      "url": ""
+    }
+  },
+  {
+    "id": "bf3398f20a5e9ccb0e2d0bb121de02cdfac63b11",
+    "alternateName": "SDIS",
+    "name": "service_departemental_dincendie_et_de_secours_sdis_eure_et_loir",
+    "title": "Service départemental d'incendie et de secours (SDIS) - Eure-et-Loir",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/eure-et-loir/sdis-28085-01",
+    "metadata": {
+      "email": "contact@sdis28.fr",
+      "telephone": "Urgences : 1802 37 91 88 22",
+      "url": "https://www.sdis28.fr"
+    }
+  },
+  {
+    "id": "73778aa434c1d39f21a94c6b165bd68ce8cd1a11",
+    "alternateName": "SDIS",
+    "name": "service_departemental_dincendie_et_de_secours_sdis_finistere",
+    "title": "Service départemental d'incendie et de secours (SDIS) - Finistère",
+    "url": "https://lannuaire.service-public.fr/bretagne/finistere/sdis-29232-01",
+    "metadata": {
+      "email": "",
+      "telephone": "Urgences : 1802 98 10 31 50",
+      "url": "http://www.sdis29.fr"
+    }
+  },
+  {
+    "id": "9bb2584e6d9092ffaa74a476b90b3a1dd8940cd6",
+    "alternateName": "SDIS",
+    "name": "service_departemental_dincendie_et_de_secours_sdis_gard",
+    "title": "Service départemental d'incendie et de secours (SDIS) - Gard",
+    "url": "https://lannuaire.service-public.fr/occitanie/gard/sdis-30189-01",
+    "metadata": {
+      "email": "",
+      "telephone": "Urgences : 1804 66 63 36 00",
+      "url": "http://www.sdis30.fr"
+    }
+  },
+  {
+    "id": "b1f4dfd6b16a30a2168c533307ea192fd982debd",
+    "alternateName": "SDIS",
+    "name": "service_departemental_dincendie_et_de_secours_sdis_gers",
+    "title": "Service départemental d'incendie et de secours (SDIS) - Gers",
+    "url": "https://lannuaire.service-public.fr/occitanie/gers/sdis-32013-01",
+    "metadata": {
+      "email": "siteinternet@sdis32.fr",
+      "telephone": "Urgences : 1805 42 54 12 00",
+      "url": "http://www.sdis32.fr"
+    }
+  },
+  {
+    "id": "5417ebf2c1df91b64e197161d11fb00fcedf17c2",
+    "alternateName": "SDIS",
+    "name": "service_departemental_dincendie_et_de_secours_sdis_gironde",
+    "title": "Service départemental d'incendie et de secours (SDIS) - Gironde",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/gironde/sdis-33063-01",
+    "metadata": {
+      "email": "direction@sdis33.fr",
+      "telephone": "Urgences : 1805 56 01 84 40",
+      "url": ""
+    }
+  },
+  {
+    "id": "2d86eb1f4b9d0ffd37e2b3c7efebdfec4852814e",
+    "alternateName": "SDIS",
+    "name": "service_departemental_dincendie_et_de_secours_sdis_guadeloupe",
+    "title": "Service départemental d'incendie et de secours (SDIS) - Guadeloupe",
+    "url": "https://lannuaire.service-public.fr/guadeloupe/guadeloupe/sdis-97101-01",
+    "metadata": {
+      "email": "",
+      "telephone": "Urgences : 18+590 5 90 48 99 71",
+      "url": ""
+    }
+  },
+  {
+    "id": "5bd7925b245f60e98361087fc604b1d793a92f5d",
+    "alternateName": "SDIS",
+    "name": "service_departemental_dincendie_et_de_secours_sdis_guyane",
+    "title": "Service départemental d'incendie et de secours (SDIS) - Guyane",
+    "url": "https://lannuaire.service-public.fr/guyane/guyane/sdis-97302-01",
+    "metadata": {
+      "email": "",
+      "telephone": "Urgences : 18+594 5 94 28 80 30",
+      "url": ""
+    }
+  },
+  {
+    "id": "0b4704ca382ea4c23f96419b53bbc78ca32e4e80",
+    "alternateName": "SDIS",
+    "name": "service_departemental_dincendie_et_de_secours_sdis_haute_corse",
+    "title": "Service départemental d'incendie et de secours (SDIS) - Haute-Corse",
+    "url": "https://lannuaire.service-public.fr/corse/haute-corse/sdis-2B120-01",
+    "metadata": {
+      "email": "secretariat-general@sis2b.corsica",
+      "telephone": "Urgences : 1804 95 30 98 00",
+      "url": "http://www.sdis2b.fr"
+    }
+  },
+  {
+    "id": "c4c16bd0ed3d20e8f6b80a2073e6e27fd2c032e7",
+    "alternateName": "SDIS",
+    "name": "service_departemental_dincendie_et_de_secours_sdis_haute_garonne",
+    "title": "Service départemental d'incendie et de secours (SDIS) - Haute-Garonne",
+    "url": "https://lannuaire.service-public.fr/occitanie/haute-garonne/sdis-31149-01",
+    "metadata": {
+      "email": "",
+      "telephone": "Urgences : 1805 61 06 37 00",
+      "url": "https://www.sdis31.fr"
+    }
+  },
+  {
+    "id": "b0383bd68a24702d0222a822bb62f74d81a8e2a9",
+    "alternateName": "SDIS",
+    "name": "service_departemental_dincendie_et_de_secours_sdis_haute_loire",
+    "title": "Service départemental d'incendie et de secours (SDIS) - Haute-Loire",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/haute-loire/sdis-43157-01",
+    "metadata": {
+      "email": "secretariat.direction@sdis43.fr",
+      "telephone": "04 71 07 03 00Urgences : 18",
+      "url": ""
+    }
+  },
+  {
+    "id": "4e913e22a4486fe133f50b567a7b2803d1bda488",
+    "alternateName": "SDIS",
+    "name": "service_departemental_dincendie_et_de_secours_sdis_haute_marne",
+    "title": "Service départemental d'incendie et de secours (SDIS) - Haute-Marne",
+    "url": "https://lannuaire.service-public.fr/grand-est/haute-marne/sdis-52121-01",
+    "metadata": {
+      "email": "sdis52@sdis52.fr",
+      "telephone": "Urgences : 1803 25 30 25 25",
+      "url": "https://www.sdis52.fr"
+    }
+  },
+  {
+    "id": "ec9155edb686138ecfe7743464a180e4074de503",
+    "alternateName": "SDIS",
+    "name": "service_departemental_dincendie_et_de_secours_sdis_hautes_alpes",
+    "title": "Service départemental d'incendie et de secours (SDIS) - Hautes-Alpes",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/hautes-alpes/sdis-05061-01",
+    "metadata": {
+      "email": "contact@sdis05.fr",
+      "telephone": "Urgences : 1804 92 40 18 00",
+      "url": "http://www.sdis05.fr"
+    }
+  },
+  {
+    "id": "8fad317ec0dc2f9577cf4fd7688caafef233da7d",
+    "alternateName": "SDIS",
+    "name": "service_departemental_dincendie_et_de_secours_sdis_haute_saone",
+    "title": "Service départemental d'incendie et de secours (SDIS) - Haute-Saône",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/haute-saone/sdis-70550-01",
+    "metadata": {
+      "email": "sdis70@sdis70.fr",
+      "telephone": "03 84 96 76 00Urgences : 18",
+      "url": "https://www.sdis70.fr"
+    }
+  },
+  {
+    "id": "d61d6678a6de025a6558728bd0097e54d243e341",
+    "alternateName": "SDIS",
+    "name": "service_departemental_dincendie_et_de_secours_sdis_haute_savoie",
+    "title": "Service départemental d'incendie et de secours (SDIS) - Haute-Savoie",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/haute-savoie/sdis-74010-01",
+    "metadata": {
+      "email": "sdis-74@sdis74.fr",
+      "telephone": "Urgences : 1804 50 22 76 00",
+      "url": "http://www.sdis74.fr"
+    }
+  },
+  {
+    "id": "9a7082dabeef00ae990d351c81463cbb299e8064",
+    "alternateName": "SDIS",
+    "name": "service_departemental_dincendie_et_de_secours_sdis_hautes_pyrenees",
+    "title": "Service départemental d'incendie et de secours (SDIS) - Hautes-Pyrénées",
+    "url": "https://lannuaire.service-public.fr/occitanie/hautes-pyrenees/sdis-65100-01",
+    "metadata": {
+      "email": "contact@sdis65.fr",
+      "telephone": "Urgences : 1805 62 38 18 00",
+      "url": ""
+    }
+  },
+  {
+    "id": "d79edf09ab62e6b90aef3fe1e3599e379346b7b1",
+    "alternateName": "SDIS",
+    "name": "service_departemental_dincendie_et_de_secours_sdis_haute_vienne",
+    "title": "Service départemental d'incendie et de secours (SDIS) - Haute-Vienne",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/haute-vienne/sdis-87085-01",
+    "metadata": {
+      "email": "ddsis@sdis87.fr",
+      "telephone": "Urgences : 1805 55 12 80 00",
+      "url": "http://sdis-87.fr"
+    }
+  },
+  {
+    "id": "7e479c3703c728e963f089bf0564be9f0ea194c0",
+    "alternateName": "SDIS",
+    "name": "service_departemental_dincendie_et_de_secours_sdis_haut_rhin",
+    "title": "Service départemental d'incendie et de secours (SDIS) - Haut-Rhin",
+    "url": "https://lannuaire.service-public.fr/grand-est/haut-rhin/sdis-68066-01",
+    "metadata": {
+      "email": "sdis68@sdis68.fr",
+      "telephone": "03 89 30 18 05Urgences : 18",
+      "url": "http://www.pompiers68.fr"
+    }
+  },
+  {
+    "id": "32acd2d79294b535efaf7002f0d0f942547e95b2",
+    "alternateName": "SDIS",
+    "name": "service_departemental_dincendie_et_de_secours_sdis_herault",
+    "title": "Service départemental d'incendie et de secours (SDIS) - Hérault",
+    "url": "https://lannuaire.service-public.fr/occitanie/herault/sdis-34320-01",
+    "metadata": {
+      "email": "",
+      "telephone": "Urgences : 1804 67 10 34 18",
+      "url": "http://www.sdis34.fr"
+    }
+  },
+  {
+    "id": "d524227e0501555eb12d6ed7f7747e9ab6b884f5",
+    "alternateName": "SDIS",
+    "name": "service_departemental_dincendie_et_de_secours_sdis_ille_et_vilaine",
+    "title": "Service départemental d'incendie et de secours (SDIS) - Ille-et-Vilaine",
+    "url": "https://lannuaire.service-public.fr/bretagne/ille-et-vilaine/sdis-35238-01",
+    "metadata": {
+      "email": "ddsis@sdis35.fr",
+      "telephone": "Urgences : 1802 99 87 65 43",
+      "url": "https://sapeurs-pompiers35.fr"
+    }
+  },
+  {
+    "id": "10af5a72b1402b60cea3eed6a6b7e09f71836755",
+    "alternateName": "SDIS",
+    "name": "service_departemental_dincendie_et_de_secours_sdis_indre",
+    "title": "Service départemental d'incendie et de secours (SDIS) - Indre",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/indre/sdis-36128-01",
+    "metadata": {
+      "email": "",
+      "telephone": "Urgences : 1802 54 25 21 00",
+      "url": "http://www.sdis36.org"
+    }
+  },
+  {
+    "id": "b3b81226d0c4f8d7198779730a90fa0753552483",
+    "alternateName": "SDIS",
+    "name": "service_departemental_dincendie_et_de_secours_sdis_indre_et_loire",
+    "title": "Service départemental d'incendie et de secours (SDIS) - Indre-et-Loire",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/indre-et-loire/sdis-37109-01",
+    "metadata": {
+      "email": "contact@sdis37.fr",
+      "telephone": "Urgences : 1802 47 49 68 68",
+      "url": "http://www.sdis37.fr"
+    }
+  },
+  {
+    "id": "bc1b15821053d8d3c84fbd45f247fb44dc95de59",
+    "alternateName": "SDIS",
+    "name": "service_departemental_dincendie_et_de_secours_sdis_isere",
+    "title": "Service départemental d'incendie et de secours (SDIS) - Isère",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/isere/sdis-38169-01",
+    "metadata": {
+      "email": "",
+      "telephone": "Urgences : 1804 76 26 89 00",
+      "url": "http://www.sdis38.fr"
+    }
+  },
+  {
+    "id": "22043f7f0b50600d180b5c38d9f64563ee955cdc",
+    "alternateName": "SDIS",
+    "name": "service_departemental_dincendie_et_de_secours_sdis_jura",
+    "title": "Service départemental d'incendie et de secours (SDIS) - Jura",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/jura/sdis-39362-01",
+    "metadata": {
+      "email": "contact@sdis39.fr",
+      "telephone": "Urgences : 1803 84 87 08 18",
+      "url": "http://www.jurapompiers.fr/le-sdis-jura"
+    }
+  },
+  {
+    "id": "d99f1e7c358a7668a24b37415e094d20e0196f15",
+    "alternateName": "SDIS",
+    "name": "service_departemental_dincendie_et_de_secours_sdis_landes",
+    "title": "Service départemental d'incendie et de secours (SDIS) - Landes",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/landes/sdis-40192-01",
+    "metadata": {
+      "email": "",
+      "telephone": "05 58 51 56 61Urgences : 18",
+      "url": "http://www.sdis40.fr/sdis40"
+    }
+  },
+  {
+    "id": "8a8d447b68797de740495d394efa137c964e0ea1",
+    "alternateName": "SDIS",
+    "name": "service_departemental_dincendie_et_de_secours_sdis_la_reunion",
+    "title": "Service départemental d'incendie et de secours (SDIS) - La Réunion",
+    "url": "https://lannuaire.service-public.fr/la-reunion/reunion/sdis-97411-01",
+    "metadata": {
+      "email": "",
+      "telephone": "Urgences : 1802 62 40 77 77",
+      "url": "http://www.sdis974.re"
+    }
+  },
+  {
+    "id": "d8d212c471c4a207c10964c94ce5f30ce43a305e",
+    "alternateName": "SDIS",
+    "name": "service_departemental_dincendie_et_de_secours_sdis_loire",
+    "title": "Service départemental d'incendie et de secours (SDIS) - Loire",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/loire/sdis-42218-01",
+    "metadata": {
+      "email": "",
+      "telephone": "Urgences : 1804 77 91 08 00",
+      "url": "http://www.sdis42.fr"
+    }
+  },
+  {
+    "id": "0c7bac87e5e8a7342600bd3fdd0a18d570e89d86",
+    "alternateName": "SDIS",
+    "name": "service_departemental_dincendie_et_de_secours_sdis_loire_atlantique",
+    "title": "Service départemental d'incendie et de secours (SDIS) - Loire-Atlantique",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/loire-atlantique/sdis-44035-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 28 09 81 00Urgences : 18",
+      "url": "https://www.sdis44.fr"
+    }
+  },
+  {
+    "id": "82b2057ac9b1e89bc546b1d8aaeeada9cc8aa4ee",
+    "alternateName": "SDIS",
+    "name": "service_departemental_dincendie_et_de_secours_sdis_loiret",
+    "title": "Service départemental d'incendie et de secours (SDIS) - Loiret",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/loiret/sdis-45147-01",
+    "metadata": {
+      "email": "secretariat.direction@sdis45.fr",
+      "telephone": "02 38 52 35 23Urgences : 18",
+      "url": "http://www.sdis45.com"
+    }
+  },
+  {
+    "id": "20063db8c66a573e5a6cd82a01aee7a752650be6",
+    "alternateName": "SDIS",
+    "name": "service_departemental_dincendie_et_de_secours_sdis_loir_et_cher",
+    "title": "Service départemental d'incendie et de secours (SDIS) - Loir-et-Cher",
+    "url": "https://lannuaire.service-public.fr/centre-val-de-loire/loir-et-cher/sdis-41018-01",
+    "metadata": {
+      "email": "contact@sdis41.fr",
+      "telephone": "Urgences : 1802 54 51 54 00",
+      "url": "https://sdis41.fr"
+    }
+  },
+  {
+    "id": "7b3cb8004ac810b2905bb18b31735fea96229154",
+    "alternateName": "SDIS",
+    "name": "service_departemental_dincendie_et_de_secours_sdis_lot",
+    "title": "Service départemental d'incendie et de secours (SDIS) - Lot",
+    "url": "https://lannuaire.service-public.fr/occitanie/lot/sdis-46042-01",
+    "metadata": {
+      "email": "",
+      "telephone": "Urgences : 1805 65 23 05 50",
+      "url": "http://www.pompiersdulot.com/jsp/site/Portal.jsp"
+    }
+  },
+  {
+    "id": "6d4ec85bc6c94cdfd7fdc06aec791395b298afd9",
+    "alternateName": "SDIS",
+    "name": "service_departemental_dincendie_et_de_secours_sdis_lot_et_garonne",
+    "title": "Service départemental d'incendie et de secours (SDIS) - Lot-et-Garonne",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/lot-et-garonne/sdis-47100-01",
+    "metadata": {
+      "email": "",
+      "telephone": "Urgences : 1805 53 48 95 00",
+      "url": "https://www.sdis47.fr"
+    }
+  },
+  {
+    "id": "0665877ff80194eea9b02b9900ab8e4490ddc661",
+    "alternateName": "SDIS",
+    "name": "service_departemental_dincendie_et_de_secours_sdis_lozere",
+    "title": "Service départemental d'incendie et de secours (SDIS) - Lozère",
+    "url": "https://lannuaire.service-public.fr/occitanie/lozere/sdis-48095-01",
+    "metadata": {
+      "email": "",
+      "telephone": "Urgences : 1804 66 65 68 10",
+      "url": ""
+    }
+  },
+  {
+    "id": "9612c104e68b967e1b610d98341051e44e1456e3",
+    "alternateName": "SDIS",
+    "name": "service_departemental_dincendie_et_de_secours_sdis_maine_et_loire",
+    "title": "Service départemental d'incendie et de secours (SDIS) - Maine-et-Loire",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/maine-et-loire/sdis-49020-01",
+    "metadata": {
+      "email": "sdis49@sdis49.fr",
+      "telephone": "Urgences : 1802 41 33 21 00",
+      "url": "http://www.sdis49.fr"
+    }
+  },
+  {
+    "id": "c12264016f5de9424a294ab0a842a959d924da6b",
+    "alternateName": "SDIS",
+    "name": "service_departemental_dincendie_et_de_secours_sdis_manche",
+    "title": "Service départemental d'incendie et de secours (SDIS) - Manche",
+    "url": "https://lannuaire.service-public.fr/normandie/manche/sdis-50502-01",
+    "metadata": {
+      "email": "secretariat.direction@sdis 50.fr",
+      "telephone": "Urgences : 1802 33 72 10 12",
+      "url": "http://www.sdis50.fr"
+    }
+  },
+  {
+    "id": "17cd0a17f75df9ae422eb327dcbcfbade14a8074",
+    "alternateName": "SDIS",
+    "name": "service_departemental_dincendie_et_de_secours_sdis_marne",
+    "title": "Service départemental d'incendie et de secours (SDIS) - Marne",
+    "url": "https://lannuaire.service-public.fr/grand-est/marne/sdis-51242-01",
+    "metadata": {
+      "email": "contact@sdis51.fr",
+      "telephone": "Urgences : 1803 26 26 27 80",
+      "url": "https://www.sdis51.fr"
+    }
+  },
+  {
+    "id": "d9f362fa4ed3b6f35aeed73b000c16110f4c5e10",
+    "alternateName": "SDIS",
+    "name": "service_departemental_dincendie_et_de_secours_sdis_martinique",
+    "title": "Service départemental d'incendie et de secours (SDIS) - Martinique",
+    "url": "https://lannuaire.service-public.fr/martinique/martinique/sdis-97209-01",
+    "metadata": {
+      "email": "",
+      "telephone": "+596 5 96 59 05 81Urgences : 18",
+      "url": ""
+    }
+  },
+  {
+    "id": "17a49845d690c122a9c21e623c2e67b5ad7ecfe5",
+    "alternateName": "SDIS",
+    "name": "service_departemental_dincendie_et_de_secours_sdis_mayenne",
+    "title": "Service départemental d'incendie et de secours (SDIS) - Mayenne",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/mayenne/sdis-53130-01",
+    "metadata": {
+      "email": "direction@sdis53.fr",
+      "telephone": "Urgences : 1802 43 59 16 00",
+      "url": "http://www.sdis53.fr"
+    }
+  },
+  {
+    "id": "cce1edc281ccda7ca37c416f66886ef72ca07769",
+    "alternateName": "SDIS",
+    "name": "service_departemental_dincendie_et_de_secours_sdis_mayotte",
+    "title": "Service départemental d'incendie et de secours (SDIS) - Mayotte",
+    "url": "https://lannuaire.service-public.fr/mayotte/mayotte/sdis-97611-01",
+    "metadata": {
+      "email": "contact@sdis976.fr",
+      "telephone": "Urgences : 18+269 269 63 94 00",
+      "url": "http://www.sdis976.fr/"
+    }
+  },
+  {
+    "id": "b6f53b2d18b4f27d720792fadb3fcc67efbe0dad",
+    "alternateName": "SDIS",
+    "name": "service_departemental_dincendie_et_de_secours_sdis_meurthe_et_moselle",
+    "title": "Service départemental d'incendie et de secours (SDIS) - Meurthe-et-Moselle",
+    "url": "https://lannuaire.service-public.fr/grand-est/meurthe-et-moselle/sdis-54184-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 83 16 46 00Urgences : 18",
+      "url": "http://www.sdis54.fr"
+    }
+  },
+  {
+    "id": "b55e813b9ace2c607a23009d155dfb73602d110f",
+    "alternateName": "SDIS",
+    "name": "service_departemental_dincendie_et_de_secours_sdis_meuse",
+    "title": "Service départemental d'incendie et de secours (SDIS) - Meuse",
+    "url": "https://lannuaire.service-public.fr/grand-est/meuse/sdis-55029-01",
+    "metadata": {
+      "email": "",
+      "telephone": "03 29 77 57 55Urgences : 18",
+      "url": "https://www.sdis55.fr"
+    }
+  },
+  {
+    "id": "e956c2020dd23b5716482b6fb6d7819135d9c8dd",
+    "alternateName": "SDIS",
+    "name": "service_departemental_dincendie_et_de_secours_sdis_morbihan",
+    "title": "Service départemental d'incendie et de secours (SDIS) - Morbihan",
+    "url": "https://lannuaire.service-public.fr/bretagne/morbihan/sdis-56260-01",
+    "metadata": {
+      "email": "direction.sdis56.fr",
+      "telephone": "Urgences : 1802 97 54 56 18",
+      "url": "http://www.sdis56.fr"
+    }
+  },
+  {
+    "id": "8cbafeaaa669279a4a7f4073ee7574ae8660c13e",
+    "alternateName": "SDIS",
+    "name": "service_departemental_dincendie_et_de_secours_sdis_moselle",
+    "title": "Service départemental d'incendie et de secours (SDIS) - Moselle",
+    "url": "https://lannuaire.service-public.fr/grand-est/moselle/sdis-57616-01",
+    "metadata": {
+      "email": "cabinet@sdis57.fr",
+      "telephone": "Urgences : 1803 87 79 45 00",
+      "url": "https://www.sdis57.fr"
+    }
+  },
+  {
+    "id": "8ce4394fb02b08b3d07f6233afd5535a6855588b",
+    "alternateName": "SDIS",
+    "name": "service_departemental_dincendie_et_de_secours_sdis_nievre",
+    "title": "Service départemental d'incendie et de secours (SDIS) - Nièvre",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/nievre/sdis-58303-01",
+    "metadata": {
+      "email": "sdis58@sdis58.fr",
+      "telephone": "Urgences : 1803 86 60 37 60",
+      "url": "http://sdis58.fr"
+    }
+  },
+  {
+    "id": "38da27052bb89659930c8b00236a610c467953d2",
+    "alternateName": "SDIS",
+    "name": "service_departemental_dincendie_et_de_secours_sdis_nord",
+    "title": "Service départemental d'incendie et de secours (SDIS) - Nord",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/nord/sdis-59350-01",
+    "metadata": {
+      "email": "secretariat.ddsis59.fr",
+      "telephone": "Urgences : 1803 28 82 28 59",
+      "url": "http://www.sdis59.fr"
+    }
+  },
+  {
+    "id": "eaac27b196bbaf7c3641fa53b479f0e43e203db3",
+    "alternateName": "SDIS",
+    "name": "service_departemental_dincendie_et_de_secours_sdis_oise",
+    "title": "Service départemental d'incendie et de secours (SDIS) - Oise",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/oise/sdis-60057-01",
+    "metadata": {
+      "email": "",
+      "telephone": "Urgences : 1803 44 84 20 00",
+      "url": "http://www.sdis60.fr"
+    }
+  },
+  {
+    "id": "abe3216a0b0e0477e654b6d0942f4720bf0caec1",
+    "alternateName": "SDIS",
+    "name": "service_departemental_dincendie_et_de_secours_sdis_orne",
+    "title": "Service départemental d'incendie et de secours (SDIS) - Orne",
+    "url": "https://lannuaire.service-public.fr/normandie/orne/sdis-61001-01",
+    "metadata": {
+      "email": "",
+      "telephone": "Urgences : 1802 33 81 35 00",
+      "url": "http://www.sdis61.fr"
+    }
+  },
+  {
+    "id": "8d302e37a44609d60c628092e732306a386592d8",
+    "alternateName": "SDIS",
+    "name": "service_departemental_dincendie_et_de_secours_sdis_pas_de_calais",
+    "title": "Service départemental d'incendie et de secours (SDIS) - Pas-de-Calais",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/pas-de-calais/sdis-62753-01",
+    "metadata": {
+      "email": "",
+      "telephone": "Urgences : 1803 21 21 80 00",
+      "url": "http://www.sdis62.fr"
+    }
+  },
+  {
+    "id": "e849a81fe226bf2171b26af9740b3e92f0e76576",
+    "alternateName": "SDIS",
+    "name": "service_departemental_dincendie_et_de_secours_sdis_puy_de_dome",
+    "title": "Service départemental d'incendie et de secours (SDIS) - Puy-de-Dôme",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/puy-de-dome/sdis-63113-01",
+    "metadata": {
+      "email": "direction@sdis63.fr",
+      "telephone": "Urgences : 1804 73 98 15 18",
+      "url": "https://www.infosdis63.fr"
+    }
+  },
+  {
+    "id": "609eee488c02bc60430eada08d9fadea80efdb54",
+    "alternateName": "SDIS",
+    "name": "service_departemental_dincendie_et_de_secours_sdis_pyrenees_atlantiques",
+    "title": "Service départemental d'incendie et de secours (SDIS) - Pyrénées-Atlantiques",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/pyrenees-atlantiques/sdis-64445-01",
+    "metadata": {
+      "email": "secretariat.direction@sdis64.fr",
+      "telephone": "Urgences : 1808 20 12 64 64",
+      "url": "http://www.sdis64.fr"
+    }
+  },
+  {
+    "id": "e7ded9f37a29d042077fcade4814e1f074e75129",
+    "alternateName": "SDIS",
+    "name": "service_departemental_dincendie_et_de_secours_sdis_pyrenees_orientales",
+    "title": "Service départemental d'incendie et de secours (SDIS) - Pyrénées-Orientales",
+    "url": "https://lannuaire.service-public.fr/occitanie/pyrenees-orientales/sdis-66136-01",
+    "metadata": {
+      "email": "cabinet.direction@sdis66.fr",
+      "telephone": "04 68 63 78 06Urgences : 18",
+      "url": "http://www.sdis66.fr"
+    }
+  },
+  {
+    "id": "d40255861d804843bc3f3b8f27a64c236390afe5",
+    "alternateName": "SDIS",
+    "name": "service_departemental_dincendie_et_de_secours_sdis_rhone_et_metropole_de_lyon",
+    "title": "Service départemental d'incendie et de secours (SDIS) - Rhône et métropole de Lyon",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/rhone/sdis-69123-01",
+    "metadata": {
+      "email": "gcom@sdmis.fr",
+      "telephone": "Urgences : 1804 72 84 37 18",
+      "url": "http://www.sdis69.fr"
+    }
+  },
+  {
+    "id": "eda6064154e03edc5b342ca8ee900d224c37d19c",
+    "alternateName": "SDIS",
+    "name": "service_departemental_dincendie_et_de_secours_sdis_saone_et_loire",
+    "title": "Service départemental d'incendie et de secours (SDIS) - Saône-et-Loire",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/saone-et-loire/sdis-71270-01",
+    "metadata": {
+      "email": "",
+      "telephone": "Urgences : 1803 85 35 35 00",
+      "url": "http://www.sdis71.fr"
+    }
+  },
+  {
+    "id": "a07ccc7adbd1ef6914a7fb9c2a43e00bbcbc8179",
+    "alternateName": "SDIS",
+    "name": "service_departemental_dincendie_et_de_secours_sdis_sarthe",
+    "title": "Service départemental d'incendie et de secours (SDIS) - Sarthe",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/sarthe/sdis-72095-01",
+    "metadata": {
+      "email": "direction@sdis72.fr",
+      "telephone": "Urgences : 1802 43 54 65 50",
+      "url": "https://www.sarthe.fr"
+    }
+  },
+  {
+    "id": "fa741c6868bcd8286075eaefb7bb127f89e15a7a",
+    "alternateName": "SDIS",
+    "name": "service_departemental_dincendie_et_de_secours_sdis_savoie",
+    "title": "Service départemental d'incendie et de secours (SDIS) - Savoie",
+    "url": "https://lannuaire.service-public.fr/auvergne-rhone-alpes/savoie/sdis-73222-01",
+    "metadata": {
+      "email": "",
+      "telephone": "Urgences : 1804 79 60 73 00",
+      "url": "http://www.sdis73.fr"
+    }
+  },
+  {
+    "id": "a67d37fac6e457184fe6db7de14041a9a6d1e747",
+    "alternateName": "SDIS",
+    "name": "service_departemental_dincendie_et_de_secours_sdis_seine_et_marne",
+    "title": "Service départemental d'incendie et de secours (SDIS) - Seine-et-Marne",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/seine-et-marne/sdis-77288-01",
+    "metadata": {
+      "email": "secretariat-faure@sdis77.fr",
+      "telephone": "Urgences : 1801 60 56 83 00",
+      "url": "http://www.sdis77.fr"
+    }
+  },
+  {
+    "id": "d2ce17da6d7b2700b8c3e036d368aea513c30e2a",
+    "alternateName": "SDIS",
+    "name": "service_departemental_dincendie_et_de_secours_sdis_seine_maritime",
+    "title": "Service départemental d'incendie et de secours (SDIS) - Seine-Maritime",
+    "url": "https://lannuaire.service-public.fr/normandie/seine-maritime/sdis-76758-01",
+    "metadata": {
+      "email": "contact@sdis76.fr",
+      "telephone": "Urgences : 1802 35 56 11 11",
+      "url": "http://www.sdis76.fr"
+    }
+  },
+  {
+    "id": "9584bd7c272b36301f4da41eb2115fa550f47f02",
+    "alternateName": "SDIS",
+    "name": "service_departemental_dincendie_et_de_secours_sdis_somme",
+    "title": "Service départemental d'incendie et de secours (SDIS) - Somme",
+    "url": "https://lannuaire.service-public.fr/hauts-de-france/somme/sdis-80021-01",
+    "metadata": {
+      "email": "",
+      "telephone": "Urgences : 1803 64 46 16 00",
+      "url": "https://www.sdis80.fr"
+    }
+  },
+  {
+    "id": "024630ef0bc01fe834a6e3bf433bcc3ce8eef09e",
+    "alternateName": "SDIS",
+    "name": "service_departemental_dincendie_et_de_secours_sdis_tarn",
+    "title": "Service départemental d'incendie et de secours (SDIS) - Tarn",
+    "url": "https://lannuaire.service-public.fr/occitanie/tarn/sdis-81004-01",
+    "metadata": {
+      "email": "direction.etat-major@sdis81.fr",
+      "telephone": "Urgences : 1805 63 77 35 18",
+      "url": "https://www.sdis81.fr"
+    }
+  },
+  {
+    "id": "04f82ccbd307800ce9661b6ce88f27ab49a7f465",
+    "alternateName": "SDIS",
+    "name": "service_departemental_dincendie_et_de_secours_sdis_tarn_et_garonne",
+    "title": "Service départemental d'incendie et de secours (SDIS) - Tarn-et-Garonne",
+    "url": "https://lannuaire.service-public.fr/occitanie/tarn-et-garonne/sdis-82121-01",
+    "metadata": {
+      "email": "courrier@sdis82.fr",
+      "telephone": "Urgences : 1805 63 22 80 00",
+      "url": "http://www.sdis82.fr"
+    }
+  },
+  {
+    "id": "acb8bd9fcba5f7e90814f3cd2b7c8689cd2db4db",
+    "alternateName": "SDIS",
+    "name": "service_departemental_dincendie_et_de_secours_sdis_territoire_de_belfort",
+    "title": "Service départemental d'incendie et de secours (SDIS) - Territoire de Belfort",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/territoire-de-belfort/sdis-90010-01",
+    "metadata": {
+      "email": "",
+      "telephone": "Urgences : 1803 84 58 78 00",
+      "url": "http://pompiers90.fr"
+    }
+  },
+  {
+    "id": "c749cd61a76dc67494470577d05d6dfdd947ae8d",
+    "alternateName": "SDIS",
+    "name": "service_departemental_dincendie_et_de_secours_sdis_val_d_oise",
+    "title": "Service départemental d'incendie et de secours (SDIS) - Val-d'Oise",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/val-d-oise/sdis-95450-01",
+    "metadata": {
+      "email": "contact@sdis95.fr",
+      "telephone": "Urgences : 1801 30 75 78 60",
+      "url": "http://www.sdis95.fr"
+    }
+  },
+  {
+    "id": "5d2ba36690875298c9c38f68e0dbbccec2713926",
+    "alternateName": "SDIS",
+    "name": "service_departemental_dincendie_et_de_secours_sdis_var",
+    "title": "Service départemental d'incendie et de secours (SDIS) - Var",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/var/sdis-83050-01",
+    "metadata": {
+      "email": "christine.rodriguez@sdis83.fr",
+      "telephone": "Urgences : 1804 94 60 37 00",
+      "url": "https://www.sdis83.fr"
+    }
+  },
+  {
+    "id": "e3bee8fadfe25380abdef62360cc8cfbed30b6f6",
+    "alternateName": "SDIS",
+    "name": "service_departemental_dincendie_et_de_secours_sdis_vaucluse",
+    "title": "Service départemental d'incendie et de secours (SDIS) - Vaucluse",
+    "url": "https://lannuaire.service-public.fr/provence-alpes-cote-d-azur/vaucluse/sdis-84007-01",
+    "metadata": {
+      "email": "",
+      "telephone": "Urgences : 1804 90 81 68 12",
+      "url": "http://www.sdis84.fr"
+    }
+  },
+  {
+    "id": "b0945559eb256ee6eb05c45ba5fc8c91167f8a26",
+    "alternateName": "SDIS",
+    "name": "service_departemental_dincendie_et_de_secours_sdis_vendee",
+    "title": "Service départemental d'incendie et de secours (SDIS) - Vendée",
+    "url": "https://lannuaire.service-public.fr/pays-de-la-loire/vendee/sdis-85191-01",
+    "metadata": {
+      "email": "",
+      "telephone": "02 51 45 10 10Urgences : 18",
+      "url": "http://www.sdis85.com"
+    }
+  },
+  {
+    "id": "59ac7ef814bb34265ec6b077d3e701be8389b80d",
+    "alternateName": "SDIS",
+    "name": "service_departemental_dincendie_et_de_secours_sdis_vienne",
+    "title": "Service départemental d'incendie et de secours (SDIS) - Vienne",
+    "url": "https://lannuaire.service-public.fr/nouvelle-aquitaine/vienne/sdis-86062-01",
+    "metadata": {
+      "email": "info@sdis86.net",
+      "telephone": "Urgences : 1805 49 49 18 00",
+      "url": "http://www.sdis86.net"
+    }
+  },
+  {
+    "id": "c7035599e8e8542a86afabecb7987aa8e800377d",
+    "alternateName": "SDIS",
+    "name": "service_departemental_dincendie_et_de_secours_sdis_vosges",
+    "title": "Service départemental d'incendie et de secours (SDIS) - Vosges",
+    "url": "https://lannuaire.service-public.fr/grand-est/vosges/sdis-88209-01",
+    "metadata": {
+      "email": "contact@sdis88.fr",
+      "telephone": "Urgences : 1803 29 69 53 30",
+      "url": "http://www.sdis88.fr"
+    }
+  },
+  {
+    "id": "c9aa71cf9f10a9c03e4e7b4814a3553679feed4b",
+    "alternateName": "SDIS",
+    "name": "service_departemental_dincendie_et_de_secours_sdis_yonne",
+    "title": "Service départemental d'incendie et de secours (SDIS) - Yonne",
+    "url": "https://lannuaire.service-public.fr/bourgogne-franche-comte/yonne/sdis-89024-01",
+    "metadata": {
+      "email": "",
+      "telephone": "Urgences : 1803 86 94 44 00",
+      "url": "https://www.sdis89.fr"
+    }
+  },
+  {
+    "id": "56ab90cda57e7e99dcd9d7746b4dc6893392b105",
+    "alternateName": "SDIS",
+    "name": "service_departemental_dincendie_et_de_secours_sdis_yvelines",
+    "title": "Service départemental d'incendie et de secours (SDIS) - Yvelines",
+    "url": "https://lannuaire.service-public.fr/ile-de-france/yvelines/sdis-78646-01",
+    "metadata": {
+      "email": "",
+      "telephone": "Urgences : 1801 39 25 18 10",
+      "url": "http://www.sdis78.fr"
+    }
+  }
+]
